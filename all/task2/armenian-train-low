@@ -1,0 +1,539 @@
+արագ	արագումս	ADJ;LOC;SG;PSS1S
+արագ	արագից	ADJ;ABL;SG
+արագ	արագովդ	ADJ;INST;SG;PSS2S
+արագ	արագներում	ADJ;LOC;PL
+արագ	արագիս	ADJ;DAT;SG;PSS1S
+արագ	արագների	ADJ;DAT;PL
+արագ	արագներով	ADJ;INST;PL
+արագ	արագներիդ	ADJ;DAT;PL;PSS2S
+արագ	արագդ	ADJ;NOM;SG;PSS2S
+արագ	արագովս	ADJ;INST;SG;PSS1S
+արագ	արագը	ADJ;NOM;SG;DEF
+արագ	արագները	ADJ;NOM;PL;DEF
+արագ	արագներումդ	ADJ;LOC;PL;PSS2S
+արագ	արագներ	ADJ;NOM;PL
+արագ	արագիցս	ADJ;ABL;SG;PSS1S
+արագ	արագներից	ADJ;ABL;PL
+արագ	արագումդ	ADJ;LOC;SG;PSS2S
+արագ	արագին	ADJ;DAT;SG;DEF
+արագ	արագներիցդ	ADJ;ABL;PL;PSS2S
+արագ	արագներովդ	ADJ;INST;PL;PSS2S
+արագ	արագներդ	ADJ;NOM;PL;PSS2S
+արագ	արագիդ	ADJ;DAT;SG;PSS2S
+արագ	արագներս	ADJ;NOM;PL;PSS1S
+արագ	արագում	ADJ;LOC;SG
+արագ	արագներիս	ADJ;DAT;PL;PSS1S
+արագ	արագով	ADJ;INST;SG
+արագ	արագս	ADJ;NOM;SG;PSS1S
+արագ	արագի	ADJ;DAT;SG
+արագ	արագներովս	ADJ;INST;PL;PSS1S
+արագ	արագիցդ	ADJ;ABL;SG;PSS2S
+արագ	արագներումս	ADJ;LOC;PL;PSS1S
+արագ	արագներին	ADJ;DAT;PL;DEF
+արագ	արագ	ADJ;NOM;SG
+արագ	արագներիցս	ADJ;ABL;PL;PSS1S
+նետել	նետելու էիր	V;2;SG;FUT;PRF;IND
+նետել	նետել է	V;3;SG;PRS;PRF;IND
+նետել	չնետեին	V;3;PL;FUT;PRF;SBJV;NEG
+նետել	նետում են	V;3;PL;PRS;IND
+նետել	չեն նետելու	V;3;PL;FUT;IND;NEG
+նետել	չնետեց	V;3;SG;PST;IND;NEG
+նետել	չեն նետի	V;3;PL;FUT;COND;NEG
+նետել	չէի նետի	V;1;SG;FUT;PRF;COND;NEG
+նետել	նետեցին	V;3;PL;PST;IND
+նետել	նետել էինք	V;1;PL;PST;PRF;IND
+նետել	նետում էիք	V;2;PL;IPFV;IND
+նետել	նետում	V;V.CONV;IPFV
+նետել	նետել եմ	V;1;SG;PRS;PRF;IND
+նետել	չէինք նետելու	V;1;PL;FUT;PRF;IND;NEG
+նետել	նետել էր	V;3;SG;PST;PRF;IND
+նետել	չեմ նետում	V;1;SG;PRS;IND;NEG
+նետել	նետելու ենք	V;1;PL;FUT;IND
+նետել	նետում ես	V;2;SG;PRS;IND
+նետել	նետելիս	V;V.CONV;SIM
+նետել	կնետեմ	V;1;SG;FUT;COND
+նետել	կնետենք	V;1;PL;FUT;COND
+նետել	չնետող	V;V.PTCP;SUB;NEG
+նետել	չէին նետի	V;3;PL;FUT;PRF;COND;NEG
+նետել	նետեի	V;1;SG;FUT;PRF;SBJV
+նետել	չնետի	V;V.CONV;CONN;NEG
+նետել	չնետեմ	V;1;SG;FUT;SBJV;NEG
+նետել	նետելու եմ	V;1;SG;FUT;IND
+նետել	նետեցինք	V;1;PL;PST;IND
+նետել	չես նետում	V;2;SG;PRS;IND;NEG
+նետել	նետեր	V;3;SG;FUT;PRF;SBJV
+նետել	չնետեր	V;3;SG;FUT;PRF;SBJV;NEG
+նետել	նետելու էին	V;3;PL;FUT;PRF;IND
+նետել	կնետեք	V;2;PL;FUT;COND
+նետել	նետելու էիք	V;2;PL;FUT;PRF;IND
+նետել	նետի	V;3;SG;FUT;SBJV
+նետել	չեք նետելու	V;2;PL;FUT;IND;NEG
+նետել	կնետի	V;3;SG;FUT;COND
+նետել	նետում էինք	V;1;PL;IPFV;IND
+նետել	չնետեի	V;1;SG;FUT;PRF;SBJV;NEG
+նետել	նետել	V;V.CONV;PFV
+նետել	նետել ենք	V;1;PL;PRS;PRF;IND
+նետել	նետում էի	V;1;SG;IPFV;IND
+նետել	չենք նետի	V;1;PL;FUT;COND;NEG
+նետել	նետեցիր	V;2;SG;PST;IND
+նետել	չէր նետի	V;3;SG;FUT;PRF;COND;NEG
+նետել	չնետեք	V;2;PL;FUT;SBJV;NEG
+նետել	նետելու եք	V;2;PL;FUT;IND
+նետել	չի նետելու	V;3;SG;FUT;IND;NEG
+նետել	նետեին	V;3;PL;FUT;PRF;SBJV
+նետել	չենք նետում	V;1;PL;PRS;IND;NEG
+նետել	նետեցի	V;1;SG;PST;IND
+նետել	կնետեր	V;3;SG;FUT;PRF;COND
+նետել	նետի՛ր	V;2;SG;IMP
+նետել	կնետեիր	V;2;SG;FUT;PRF;COND
+նետել	նետ	V;PST
+նետել	նետող	V;V.PTCP;SUB
+նետել	նետե՛ք	V;2;PL;IMP
+նետել	չենք նետելու	V;1;PL;FUT;IND;NEG
+նետել	նետել էին	V;3;PL;PST;PRF;IND
+նետել	նետած	V;V.PTCP;RES
+նետել	չես նետել	V;2;SG;PRS;PRF;IND;NEG
+նետել	չեն նետել	V;3;PL;PRS;PRF;IND;NEG
+նետել	կնետեիք	V;2;PL;FUT;PRF;COND
+նետել	նետեն	V;3;PL;FUT;SBJV
+նետել	չնետեինք	V;1;PL;FUT;PRF;SBJV;NEG
+նետել	նետել	V;NFIN
+նետել	չնետեցիր	V;2;SG;PST;IND;NEG
+նետել	չէին նետելու	V;3;PL;FUT;PRF;IND;NEG
+նետել	չի նետի	V;3;SG;FUT;COND;NEG
+նետել	նետելու ես	V;2;SG;FUT;IND
+նետել	նետում է	V;3;SG;PRS;IND
+նետել	նետելու է	V;3;SG;FUT;IND
+նետել	նետեք	V;2;PL;FUT;SBJV
+նետել	նետի	V;V.CONV;CONN
+նետել	չէիր նետել	V;2;SG;PST;PRF;IND;NEG
+նետել	նետել են	V;3;PL;PRS;PRF;IND
+նետել	չնետել	V;NFIN;NEG
+նետել	չնետեցի	V;1;SG;PST;IND;NEG
+նետել	կնետեին	V;3;PL;FUT;PRF;COND
+նետել	չէինք նետել	V;1;PL;PST;PRF;IND;NEG
+նետել	չեմ նետել	V;1;SG;PRS;PRF;IND;NEG
+նետել	չնետենք	V;1;PL;FUT;SBJV;NEG
+նետել	չնետեն	V;3;PL;FUT;SBJV;NEG
+նետել	չնետեիք	V;2;PL;FUT;PRF;SBJV;NEG
+նետել	նետես	V;2;SG;FUT;SBJV
+նետել	չնետես	V;2;SG;FUT;SBJV;NEG
+նետել	չենք նետել	V;1;PL;PRS;PRF;IND;NEG
+նետել	չէիր նետում	V;2;SG;IPFV;IND;NEG
+նետել	չեք նետել	V;2;PL;PRS;PRF;IND;NEG
+նետել	նետում էիր	V;2;SG;IPFV;IND
+նետել	չէիք նետում	V;2;PL;IPFV;IND;NEG
+նետել	չէր նետել	V;3;SG;PST;PRF;IND;NEG
+նետել	նետել էիք	V;2;PL;PST;PRF;IND
+նետել	նետել ես	V;2;SG;PRS;PRF;IND
+նետել	նետում եմ	V;1;SG;PRS;IND
+նետել	կնետես	V;2;SG;FUT;COND
+նետել	չէր նետելու	V;3;SG;FUT;PRF;IND;NEG
+նետել	նետում էին	V;3;PL;IPFV;IND
+նետել	չէիք նետել	V;2;PL;PST;PRF;IND;NEG
+նետել	չէր նետում	V;3;SG;IPFV;IND;NEG
+նետել	նետում եք	V;2;PL;PRS;IND
+նետել	նետեց	V;3;SG;PST;IND
+նետել	նետել էի	V;1;SG;PST;PRF;IND
+նետել	մի՛ նետեք	V;2;PL;IMP;NEG
+նետել	չեք նետում	V;2;PL;PRS;IND;NEG
+նետել	չնետած	V;V.PTCP;RES;NEG
+նետել	չէին նետել	V;3;PL;PST;PRF;IND;NEG
+նետել	նետելու էի	V;1;SG;FUT;PRF;IND
+նետել	նետվել	V;PASS
+նետել	չէինք նետում	V;1;PL;IPFV;IND;NEG
+նետել	չնետեցիք	V;2;PL;PST;IND;NEG
+նետել	նետելու էինք	V;1;PL;FUT;PRF;IND
+նետել	չեմ նետի	V;1;SG;FUT;COND;NEG
+նետել	չեմ նետելու	V;1;SG;FUT;IND;NEG
+նետել	նետեինք	V;1;PL;FUT;PRF;SBJV
+նետել	նետեիք	V;2;PL;FUT;PRF;SBJV
+նետել	նետեիր	V;2;SG;FUT;PRF;SBJV
+նետել	չէիք նետի	V;2;PL;FUT;PRF;COND;NEG
+նետել	չնետեցինք	V;1;PL;PST;IND;NEG
+նետել	նետում էր	V;3;SG;IPFV;IND
+նետել	նետենք	V;1;PL;FUT;SBJV
+նետել	նետելու էր	V;3;SG;FUT;PRF;IND
+նետել	կնետեի	V;1;SG;FUT;PRF;COND
+նետել	նետելու են	V;3;PL;FUT;IND
+նետել	չեն նետում	V;3;PL;PRS;IND;NEG
+նետել	նետում ենք	V;1;PL;PRS;IND
+նետել	չի նետել	V;3;SG;PRS;PRF;IND;NEG
+նետել	չնետեիր	V;2;SG;FUT;PRF;SBJV;NEG
+նետել	չէիր նետի	V;2;SG;FUT;PRF;COND;NEG
+նետել	չէինք նետի	V;1;PL;FUT;PRF;COND;NEG
+նետել	նետեցիք	V;2;PL;PST;IND
+նետել	կնետեն	V;3;PL;FUT;COND
+նետել	չէի նետում	V;1;SG;IPFV;IND;NEG
+նետել	չեք նետի	V;2;PL;FUT;COND;NEG
+նետել	չնետեցին	V;3;PL;PST;IND;NEG
+նետել	նետեմ	V;1;SG;FUT;SBJV
+նետել	նետել էիր	V;2;SG;PST;PRF;IND
+նետել	չէիր նետելու	V;2;SG;FUT;PRF;IND;NEG
+նետել	նետել եք	V;2;PL;PRS;PRF;IND
+նետել	չէիք նետելու	V;2;PL;FUT;PRF;IND;NEG
+նետել	չնետի	V;3;SG;FUT;SBJV;NEG
+նետել	չես նետելու	V;2;SG;FUT;IND;NEG
+նետել	չէի նետել	V;1;SG;PST;PRF;IND;NEG
+նետել	չէին նետում	V;3;PL;IPFV;IND;NEG
+նետել	մի՛ նետիր	V;2;SG;IMP;NEG
+նետել	կնետեինք	V;1;PL;FUT;PRF;COND
+նետել	նետելու	V;V.CONV;FUT1
+նետել	նետելիք	V;V.CONV;FUT2
+նետել	չես նետի	V;2;SG;FUT;COND;NEG
+նետել	չէի նետելու	V;1;SG;FUT;PRF;IND;NEG
+նետել	չի նետում	V;3;SG;PRS;IND;NEG
+տնօրեն	տնօրեններ	N;NOM;PL
+տնօրեն	տնօրեններիցս	N;ABL;PL;PSS1S
+տնօրեն	տնօրեններով	N;INST;PL
+տնօրեն	տնօրենները	N;NOM;PL;DEF
+տնօրեն	տնօրենիցդ	N;ABL;SG;PSS2S
+տնօրեն	տնօրեններին	N;DAT;PL;DEF
+տնօրեն	տնօրենիդ	N;DAT;SG;PSS2S
+տնօրեն	տնօրեններիս	N;DAT;PL;PSS1S
+տնօրեն	տնօրեններս	N;NOM;PL;PSS1S
+տնօրեն	տնօրենս	N;NOM;SG;PSS1S
+տնօրեն	տնօրեններովս	N;INST;PL;PSS1S
+տնօրեն	տնօրենից	N;ABL;SG
+տնօրեն	տնօրենների	N;DAT;PL
+տնօրեն	տնօրենին	N;DAT;SG;DEF
+տնօրեն	տնօրեն	N;NOM;SG
+տնօրեն	տնօրենը	N;NOM;SG;DEF
+տնօրեն	տնօրենիցս	N;ABL;SG;PSS1S
+տնօրեն	տնօրենիս	N;DAT;SG;PSS1S
+տնօրեն	տնօրեններդ	N;NOM;PL;PSS2S
+տնօրեն	տնօրեններիդ	N;DAT;PL;PSS2S
+տնօրեն	տնօրենով	N;INST;SG
+տնօրեն	տնօրեններովդ	N;INST;PL;PSS2S
+տնօրեն	տնօրենի	N;DAT;SG
+տնօրեն	տնօրենդ	N;NOM;SG;PSS2S
+տնօրեն	տնօրեններից	N;ABL;PL
+տնօրեն	տնօրենովս	N;INST;SG;PSS1S
+տնօրեն	տնօրենովդ	N;INST;SG;PSS2S
+տնօրեն	տնօրեններիցդ	N;ABL;PL;PSS2S
+բարելավել	բարելավելու էիր	V;2;SG;FUT;PRF;IND
+բարելավել	բարելավել է	V;3;SG;PRS;PRF;IND
+բարելավել	չբարելավեին	V;3;PL;FUT;PRF;SBJV;NEG
+բարելավել	բարելավում են	V;3;PL;PRS;IND
+բարելավել	չեն բարելավելու	V;3;PL;FUT;IND;NEG
+բարելավել	չբարելավեց	V;3;SG;PST;IND;NEG
+բարելավել	չեն բարելավի	V;3;PL;FUT;COND;NEG
+բարելավել	չէի բարելավի	V;1;SG;FUT;PRF;COND;NEG
+բարելավել	բարելավեցին	V;3;PL;PST;IND
+բարելավել	բարելավել էինք	V;1;PL;PST;PRF;IND
+բարելավել	բարելավում էիք	V;2;PL;IPFV;IND
+բարելավել	բարելավում	V;V.CONV;IPFV
+բարելավել	բարելավել եմ	V;1;SG;PRS;PRF;IND
+բարելավել	չբարելավենք	V;1;PL;FUT;SBJV;NEG
+բարելավել	բարելավել էր	V;3;SG;PST;PRF;IND
+բարելավել	չեմ բարելավում	V;1;SG;PRS;IND;NEG
+բարելավել	բարելավելու ենք	V;1;PL;FUT;IND
+բարելավել	բարելավում ես	V;2;SG;PRS;IND
+բարելավել	բարելավելիս	V;V.CONV;SIM
+բարելավել	կբարելավեմ	V;1;SG;FUT;COND
+բարելավել	կբարելավենք	V;1;PL;FUT;COND
+բարելավել	չբարելավող	V;V.PTCP;SUB;NEG
+բարելավել	չէին բարելավի	V;3;PL;FUT;PRF;COND;NEG
+բարելավել	բարելավեի	V;1;SG;FUT;PRF;SBJV
+բարելավել	չբարելավի	V;V.CONV;CONN;NEG
+բարելավել	չբարելավեմ	V;1;SG;FUT;SBJV;NEG
+բարելավել	բարելավելու եմ	V;1;SG;FUT;IND
+բարելավել	բարելավեցինք	V;1;PL;PST;IND
+բարելավել	չես բարելավում	V;2;SG;PRS;IND;NEG
+բարելավել	բարելավեր	V;3;SG;FUT;PRF;SBJV
+բարելավել	չբարելավեր	V;3;SG;FUT;PRF;SBJV;NEG
+բարելավել	բարելավելու էին	V;3;PL;FUT;PRF;IND
+բարելավել	կբարելավեք	V;2;PL;FUT;COND
+բարելավել	կբարելավեին	V;3;PL;FUT;PRF;COND
+բարելավել	բարելավի	V;3;SG;FUT;SBJV
+բարելավել	չեք բարելավելու	V;2;PL;FUT;IND;NEG
+բարելավել	կբարելավի	V;3;SG;FUT;COND
+բարելավել	բարելավում էինք	V;1;PL;IPFV;IND
+բարելավել	չբարելավեի	V;1;SG;FUT;PRF;SBJV;NEG
+բարելավել	բարելավելու ես	V;2;SG;FUT;IND
+բարելավել	բարելավել ենք	V;1;PL;PRS;PRF;IND
+բարելավել	բարելավում էի	V;1;SG;IPFV;IND
+բարելավել	չենք բարելավի	V;1;PL;FUT;COND;NEG
+բարելավել	բարելավեցիր	V;2;SG;PST;IND
+բարելավել	բարելավելու էիք	V;2;PL;FUT;PRF;IND
+բարելավել	չէր բարելավի	V;3;SG;FUT;PRF;COND;NEG
+բարելավել	չբարելավեք	V;2;PL;FUT;SBJV;NEG
+բարելավել	բարելավելու եք	V;2;PL;FUT;IND
+բարելավել	չի բարելավելու	V;3;SG;FUT;IND;NEG
+բարելավել	բարելավեին	V;3;PL;FUT;PRF;SBJV
+բարելավել	չենք բարելավում	V;1;PL;PRS;IND;NEG
+բարելավել	բարելավեցի	V;1;SG;PST;IND
+բարելավել	կբարելավեր	V;3;SG;FUT;PRF;COND
+բարելավել	բարելավի՛ր	V;2;SG;IMP
+բարելավել	կբարելավեիր	V;2;SG;FUT;PRF;COND
+բարելավել	բարելավ	V;PST
+բարելավել	բարելավող	V;V.PTCP;SUB
+բարելավել	բարելավե՛ք	V;2;PL;IMP
+բարելավել	չենք բարելավելու	V;1;PL;FUT;IND;NEG
+բարելավել	բարելավել էին	V;3;PL;PST;PRF;IND
+բարելավել	բարելաված	V;V.PTCP;RES
+բարելավել	չես բարելավել	V;2;SG;PRS;PRF;IND;NEG
+բարելավել	չեն բարելավել	V;3;PL;PRS;PRF;IND;NEG
+բարելավել	կբարելավեիք	V;2;PL;FUT;PRF;COND
+բարելավել	բարելավեն	V;3;PL;FUT;SBJV
+բարելավել	չբարելավեինք	V;1;PL;FUT;PRF;SBJV;NEG
+բարելավել	բարելավել	V;NFIN
+բարելավել	չբարելավեցիր	V;2;SG;PST;IND;NEG
+բարելավել	չէին բարելավելու	V;3;PL;FUT;PRF;IND;NEG
+բարելավել	չի բարելավի	V;3;SG;FUT;COND;NEG
+բարելավել	բարելավում է	V;3;SG;PRS;IND
+բարելավել	բարելավելու է	V;3;SG;FUT;IND
+բարելավել	բարելավեք	V;2;PL;FUT;SBJV
+բարելավել	բարելավի	V;V.CONV;CONN
+բարելավել	չէիր բարելավել	V;2;SG;PST;PRF;IND;NEG
+բարելավել	բարելավել են	V;3;PL;PRS;PRF;IND
+բարելավել	չբարելավել	V;NFIN;NEG
+բարելավել	չբարելավեցի	V;1;SG;PST;IND;NEG
+բարելավել	բարելավել	V;V.CONV;PFV
+բարելավել	չէինք բարելավել	V;1;PL;PST;PRF;IND;NEG
+բարելավել	չեմ բարելավել	V;1;SG;PRS;PRF;IND;NEG
+բարելավել	չէինք բարելավելու	V;1;PL;FUT;PRF;IND;NEG
+բարելավել	չբարելավեն	V;3;PL;FUT;SBJV;NEG
+բարելավել	չբարելավեիք	V;2;PL;FUT;PRF;SBJV;NEG
+բարելավել	բարելավես	V;2;SG;FUT;SBJV
+բարելավել	չբարելավես	V;2;SG;FUT;SBJV;NEG
+բարելավել	չենք բարելավել	V;1;PL;PRS;PRF;IND;NEG
+բարելավել	չէիր բարելավում	V;2;SG;IPFV;IND;NEG
+բարելավել	չեք բարելավել	V;2;PL;PRS;PRF;IND;NEG
+բարելավել	բարելավում էիր	V;2;SG;IPFV;IND
+բարելավել	չէիք բարելավում	V;2;PL;IPFV;IND;NEG
+բարելավել	չէր բարելավել	V;3;SG;PST;PRF;IND;NEG
+բարելավել	բարելավել էիք	V;2;PL;PST;PRF;IND
+բարելավել	բարելավել ես	V;2;SG;PRS;PRF;IND
+բարելավել	բարելավում եմ	V;1;SG;PRS;IND
+բարելավել	կբարելավես	V;2;SG;FUT;COND
+բարելավել	չէր բարելավելու	V;3;SG;FUT;PRF;IND;NEG
+բարելավել	բարելավում էին	V;3;PL;IPFV;IND
+բարելավել	չէիք բարելավել	V;2;PL;PST;PRF;IND;NEG
+բարելավել	չէր բարելավում	V;3;SG;IPFV;IND;NEG
+բարելավել	բարելավում եք	V;2;PL;PRS;IND
+բարելավել	բարելավեց	V;3;SG;PST;IND
+բարելավել	բարելավել էի	V;1;SG;PST;PRF;IND
+բարելավել	մի՛ բարելավեք	V;2;PL;IMP;NEG
+բարելավել	չեք բարելավում	V;2;PL;PRS;IND;NEG
+բարելավել	չբարելաված	V;V.PTCP;RES;NEG
+բարելավել	չէին բարելավել	V;3;PL;PST;PRF;IND;NEG
+բարելավել	բարելավելու էի	V;1;SG;FUT;PRF;IND
+բարելավել	բարելավվել	V;PASS
+բարելավել	չէինք բարելավում	V;1;PL;IPFV;IND;NEG
+բարելավել	չբարելավեցիք	V;2;PL;PST;IND;NEG
+բարելավել	բարելավելու էինք	V;1;PL;FUT;PRF;IND
+բարելավել	չեմ բարելավի	V;1;SG;FUT;COND;NEG
+բարելավել	չեմ բարելավելու	V;1;SG;FUT;IND;NEG
+բարելավել	բարելավեինք	V;1;PL;FUT;PRF;SBJV
+բարելավել	բարելավեիք	V;2;PL;FUT;PRF;SBJV
+բարելավել	բարելավեիր	V;2;SG;FUT;PRF;SBJV
+բարելավել	չէիք բարելավի	V;2;PL;FUT;PRF;COND;NEG
+բարելավել	չբարելավեցինք	V;1;PL;PST;IND;NEG
+բարելավել	բարելավում էր	V;3;SG;IPFV;IND
+բարելավել	բարելավենք	V;1;PL;FUT;SBJV
+բարելավել	բարելավելու էր	V;3;SG;FUT;PRF;IND
+բարելավել	կբարելավեի	V;1;SG;FUT;PRF;COND
+բարելավել	բարելավելու են	V;3;PL;FUT;IND
+բարելավել	չեն բարելավում	V;3;PL;PRS;IND;NEG
+բարելավել	բարելավում ենք	V;1;PL;PRS;IND
+բարելավել	չի բարելավել	V;3;SG;PRS;PRF;IND;NEG
+բարելավել	չբարելավեիր	V;2;SG;FUT;PRF;SBJV;NEG
+բարելավել	չէիր բարելավի	V;2;SG;FUT;PRF;COND;NEG
+բարելավել	չէինք բարելավի	V;1;PL;FUT;PRF;COND;NEG
+բարելավել	բարելավեցիք	V;2;PL;PST;IND
+բարելավել	կբարելավեն	V;3;PL;FUT;COND
+բարելավել	չէի բարելավում	V;1;SG;IPFV;IND;NEG
+բարելավել	չեք բարելավի	V;2;PL;FUT;COND;NEG
+բարելավել	չբարելավեցին	V;3;PL;PST;IND;NEG
+բարելավել	բարելավեմ	V;1;SG;FUT;SBJV
+բարելավել	բարելավել էիր	V;2;SG;PST;PRF;IND
+բարելավել	չէիր բարելավելու	V;2;SG;FUT;PRF;IND;NEG
+բարելավել	բարելավել եք	V;2;PL;PRS;PRF;IND
+բարելավել	չէիք բարելավելու	V;2;PL;FUT;PRF;IND;NEG
+բարելավել	չբարելավի	V;3;SG;FUT;SBJV;NEG
+բարելավել	չես բարելավելու	V;2;SG;FUT;IND;NEG
+բարելավել	չէի բարելավել	V;1;SG;PST;PRF;IND;NEG
+բարելավել	չէին բարելավում	V;3;PL;IPFV;IND;NEG
+բարելավել	մի՛ բարելավիր	V;2;SG;IMP;NEG
+բարելավել	կբարելավեինք	V;1;PL;FUT;PRF;COND
+բարելավել	բարելավելու	V;V.CONV;FUT1
+բարելավել	բարելավելիք	V;V.CONV;FUT2
+բարելավել	չես բարելավի	V;2;SG;FUT;COND;NEG
+բարելավել	չէի բարելավելու	V;1;SG;FUT;PRF;IND;NEG
+բարելավել	չի բարելավում	V;3;SG;PRS;IND;NEG
+բժշկական	բժշկականումս	ADJ;LOC;SG;PSS1S
+բժշկական	բժշկականից	ADJ;ABL;SG
+բժշկական	բժշկականովդ	ADJ;INST;SG;PSS2S
+բժշկական	բժշկականներում	ADJ;LOC;PL
+բժշկական	բժշկականիս	ADJ;DAT;SG;PSS1S
+բժշկական	բժշկականների	ADJ;DAT;PL
+բժշկական	բժշկականներով	ADJ;INST;PL
+բժշկական	բժշկականներիդ	ADJ;DAT;PL;PSS2S
+բժշկական	բժշկականդ	ADJ;NOM;SG;PSS2S
+բժշկական	բժշկականովս	ADJ;INST;SG;PSS1S
+բժշկական	բժշկականը	ADJ;NOM;SG;DEF
+բժշկական	բժշկականները	ADJ;NOM;PL;DEF
+բժշկական	բժշկականներումդ	ADJ;LOC;PL;PSS2S
+բժշկական	բժշկականներ	ADJ;NOM;PL
+բժշկական	բժշկականիցս	ADJ;ABL;SG;PSS1S
+բժշկական	բժշկականներից	ADJ;ABL;PL
+բժշկական	բժշկականումդ	ADJ;LOC;SG;PSS2S
+բժշկական	բժշկականին	ADJ;DAT;SG;DEF
+բժշկական	բժշկականներիցդ	ADJ;ABL;PL;PSS2S
+բժշկական	բժշկականներովդ	ADJ;INST;PL;PSS2S
+բժշկական	բժշկականներդ	ADJ;NOM;PL;PSS2S
+բժշկական	բժշկականիդ	ADJ;DAT;SG;PSS2S
+բժշկական	բժշկականներս	ADJ;NOM;PL;PSS1S
+բժշկական	բժշկականում	ADJ;LOC;SG
+բժշկական	բժշկականներիս	ADJ;DAT;PL;PSS1S
+բժշկական	բժշկականով	ADJ;INST;SG
+բժշկական	բժշկականս	ADJ;NOM;SG;PSS1S
+բժշկական	բժշկականի	ADJ;DAT;SG
+բժշկական	բժշկականներովս	ADJ;INST;PL;PSS1S
+բժշկական	բժշկականիցդ	ADJ;ABL;SG;PSS2S
+բժշկական	բժշկականներումս	ADJ;LOC;PL;PSS1S
+բժշկական	բժշկականներին	ADJ;DAT;PL;DEF
+բժշկական	բժշկական	ADJ;NOM;SG
+բժշկական	բժշկականներիցս	ADJ;ABL;PL;PSS1S
+տարբեր	տարբերից	ADJ;ABL;SG
+տարբեր	տարբերիս	ADJ;DAT;SG;PSS1S
+տարբեր	տարբերների	ADJ;DAT;PL
+տարբեր	տարբերներով	ADJ;INST;PL
+տարբեր	տարբերներիդ	ADJ;DAT;PL;PSS2S
+տարբեր	տարբերդ	ADJ;NOM;SG;PSS2S
+տարբեր	տարբերովս	ADJ;INST;SG;PSS1S
+տարբեր	տարբերը	ADJ;NOM;SG;DEF
+տարբեր	տարբերները	ADJ;NOM;PL;DEF
+տարբեր	տարբերներ	ADJ;NOM;PL
+տարբեր	տարբերիցս	ADJ;ABL;SG;PSS1S
+տարբեր	տարբերներից	ADJ;ABL;PL
+տարբեր	տարբերին	ADJ;DAT;SG;DEF
+տարբեր	տարբերներիցդ	ADJ;ABL;PL;PSS2S
+տարբեր	տարբերներովդ	ADJ;INST;PL;PSS2S
+տարբեր	տարբերներդ	ADJ;NOM;PL;PSS2S
+տարբեր	տարբերիդ	ADJ;DAT;SG;PSS2S
+տարբեր	տարբերներս	ADJ;NOM;PL;PSS1S
+տարբեր	տարբերներիս	ADJ;DAT;PL;PSS1S
+տարբեր	տարբերով	ADJ;INST;SG
+տարբեր	տարբերս	ADJ;NOM;SG;PSS1S
+տարբեր	տարբերի	ADJ;DAT;SG
+տարբեր	տարբերներովս	ADJ;INST;PL;PSS1S
+տարբեր	տարբերիցդ	ADJ;ABL;SG;PSS2S
+տարբեր	տարբերովդ	ADJ;INST;SG;PSS2S
+տարբեր	տարբերներին	ADJ;DAT;PL;DEF
+տարբեր	տարբեր	ADJ;NOM;SG
+տարբեր	տարբերներիցս	ADJ;ABL;PL;PSS1S
+կոչում	կոչումներ	N;NOM;PL
+կոչում	կոչումներիցս	N;ABL;PL;PSS1S
+կոչում	կոչումումս	N;LOC;SG;PSS1S
+կոչում	կոչումներով	N;INST;PL
+կոչում	կոչումները	N;NOM;PL;DEF
+կոչում	կոչումներում	N;LOC;PL
+կոչում	կոչումիցդ	N;ABL;SG;PSS2S
+կոչում	կոչումներին	N;DAT;PL;DEF
+կոչում	կոչմանդ	N;DAT;SG;PSS2S
+կոչում	կոչումներիս	N;DAT;PL;PSS1S
+կոչում	կոչումներս	N;NOM;PL;PSS1S
+կոչում	կոչումումդ	N;LOC;SG;PSS2S
+կոչում	կոչումներումս	N;LOC;PL;PSS1S
+կոչում	կոչումս	N;NOM;SG;PSS1S
+կոչում	կոչումներովս	N;INST;PL;PSS1S
+կոչում	կոչումից	N;ABL;SG
+կոչում	կոչումների	N;DAT;PL
+կոչում	կոչմանը	N;DAT;SG;DEF
+կոչում	կոչում	N;NOM;SG
+կոչում	կոչումը	N;NOM;SG;DEF
+կոչում	կոչումիցս	N;ABL;SG;PSS1S
+կոչում	կոչմանս	N;DAT;SG;PSS1S
+կոչում	կոչումում	N;LOC;SG
+կոչում	կոչումներդ	N;NOM;PL;PSS2S
+կոչում	կոչումներիդ	N;DAT;PL;PSS2S
+կոչում	կոչմամբ	N;INST;SG
+կոչում	կոչումներումդ	N;LOC;PL;PSS2S
+կոչում	կոչումներովդ	N;INST;PL;PSS2S
+կոչում	կոչման	N;DAT;SG
+կոչում	կոչումդ	N;NOM;SG;PSS2S
+կոչում	կոչումներից	N;ABL;PL
+կոչում	կոչումովս	N;INST;SG;PSS1S
+կոչում	կոչումովդ	N;INST;SG;PSS2S
+կոչում	կոչումներիցդ	N;ABL;PL;PSS2S
+գյուղ	գյուղեր	N;NOM;PL
+գյուղ	գյուղերիցս	N;ABL;PL;PSS1S
+գյուղ	գյուղումս	N;LOC;SG;PSS1S
+գյուղ	գյուղերով	N;INST;PL
+գյուղ	գյուղերը	N;NOM;PL;DEF
+գյուղ	գյուղերում	N;LOC;PL
+գյուղ	գյուղիցդ	N;ABL;SG;PSS2S
+գյուղ	գյուղերին	N;DAT;PL;DEF
+գյուղ	գյուղիդ	N;DAT;SG;PSS2S
+գյուղ	գյուղերիս	N;DAT;PL;PSS1S
+գյուղ	գյուղերս	N;NOM;PL;PSS1S
+գյուղ	գյուղումդ	N;LOC;SG;PSS2S
+գյուղ	գյուղերումս	N;LOC;PL;PSS1S
+գյուղ	գյուղս	N;NOM;SG;PSS1S
+գյուղ	գյուղերովս	N;INST;PL;PSS1S
+գյուղ	գյուղից	N;ABL;SG
+գյուղ	գյուղերի	N;DAT;PL
+գյուղ	գյուղին	N;DAT;SG;DEF
+գյուղ	գյուղ	N;NOM;SG
+գյուղ	գյուղը	N;NOM;SG;DEF
+գյուղ	գյուղիցս	N;ABL;SG;PSS1S
+գյուղ	գյուղիս	N;DAT;SG;PSS1S
+գյուղ	գյուղում	N;LOC;SG
+գյուղ	գյուղերդ	N;NOM;PL;PSS2S
+գյուղ	գյուղերիդ	N;DAT;PL;PSS2S
+գյուղ	գյուղով	N;INST;SG
+գյուղ	գյուղերումդ	N;LOC;PL;PSS2S
+գյուղ	գյուղերովդ	N;INST;PL;PSS2S
+գյուղ	գյուղի	N;DAT;SG
+գյուղ	գյուղդ	N;NOM;SG;PSS2S
+գյուղ	գյուղերից	N;ABL;PL
+գյուղ	գյուղովս	N;INST;SG;PSS1S
+գյուղ	գյուղովդ	N;INST;SG;PSS2S
+գյուղ	գյուղերիցդ	N;ABL;PL;PSS2S
+նախկին	նախկինից	ADJ;ABL;SG
+նախկին	նախկինիս	ADJ;DAT;SG;PSS1S
+նախկին	նախկինների	ADJ;DAT;PL
+նախկին	նախկիններով	ADJ;INST;PL
+նախկին	նախկիններիդ	ADJ;DAT;PL;PSS2S
+նախկին	նախկինդ	ADJ;NOM;SG;PSS2S
+նախկին	նախկինովս	ADJ;INST;SG;PSS1S
+նախկին	նախկինը	ADJ;NOM;SG;DEF
+նախկին	նախկինները	ADJ;NOM;PL;DEF
+նախկին	նախկիններ	ADJ;NOM;PL
+նախկին	նախկինիցս	ADJ;ABL;SG;PSS1S
+նախկին	նախկիններից	ADJ;ABL;PL
+նախկին	նախկինին	ADJ;DAT;SG;DEF
+նախկին	նախկիններիցդ	ADJ;ABL;PL;PSS2S
+նախկին	նախկիններովդ	ADJ;INST;PL;PSS2S
+նախկին	նախկիններդ	ADJ;NOM;PL;PSS2S
+նախկին	նախկինիդ	ADJ;DAT;SG;PSS2S
+նախկին	նախկիններս	ADJ;NOM;PL;PSS1S
+նախկին	նախկիններիս	ADJ;DAT;PL;PSS1S
+նախկին	նախկինով	ADJ;INST;SG
+նախկին	նախկինս	ADJ;NOM;SG;PSS1S
+նախկին	նախկինի	ADJ;DAT;SG
+նախկին	նախկիններովս	ADJ;INST;PL;PSS1S
+նախկին	նախկինիցդ	ADJ;ABL;SG;PSS2S
+նախկին	նախկինովդ	ADJ;INST;SG;PSS2S
+նախկին	նախկիններին	ADJ;DAT;PL;DEF
+նախկին	նախկին	ADJ;NOM;SG
+նախկին	նախկիններիցս	ADJ;ABL;PL;PSS1S
+բոլոր	բոլորիցդ	ADJ;ABL;SG;PSS2S
+բոլոր	բոլորումս	ADJ;LOC;SG;PSS1S
+բոլոր	բոլորումդ	ADJ;LOC;SG;PSS2S
+բոլոր	բոլորովս	ADJ;INST;SG;PSS1S
+բոլոր	բոլորը	ADJ;NOM;SG;DEF
+բոլոր	բոլորի	ADJ;DAT;SG
+բոլոր	բոլորով	ADJ;INST;SG
+բոլոր	բոլորում	ADJ;LOC;SG
+բոլոր	բոլորս	ADJ;NOM;SG;PSS1S
+բոլոր	բոլորիդ	ADJ;DAT;SG;PSS2S
+բոլոր	բոլորից	ADJ;ABL;SG
+բոլոր	բոլորիս	ADJ;DAT;SG;PSS1S
+բոլոր	բոլոր	ADJ;NOM;SG
+բոլոր	բոլորովդ	ADJ;INST;SG;PSS2S
+բոլոր	բոլորդ	ADJ;NOM;SG;PSS2S
+բոլոր	բոլորին	ADJ;DAT;SG;DEF
+բոլոր	բոլորիցս	ADJ;ABL;SG;PSS1S

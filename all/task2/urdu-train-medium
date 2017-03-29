@@ -1,0 +1,1735 @@
+شہر	شہر	N;NOM;PL
+شہر	شہر	N;VOC;SG
+شہر	شہر	N;NOM;SG
+شہر	شہروں	N;ACC;PL
+شہر	شہر	N;ACC;SG
+شہر	شہرو	N;VOC;PL
+سالگرہ	سالگرہ	N;VOC;SG
+سالگرہ	سالگرہیں	N;NOM;PL
+سالگرہ	سالگرہ	N;NOM;SG
+سالگرہ	سالگرہوں	N;ACC;PL
+سالگرہ	سالگرہ	N;ACC;SG
+سالگرہ	سالگرہو	N;VOC;PL
+کتاب	کتاب	N;VOC;SG
+کتاب	کتابیں	N;NOM;PL
+کتاب	کتاب	N;NOM;SG
+کتاب	کتابوں	N;ACC;PL
+کتاب	کتاب	N;ACC;SG
+کتاب	کتابو	N;VOC;PL
+بولی	بولی	N;VOC;SG
+بولی	بولیاں	N;NOM;PL
+بولی	بولی	N;NOM;SG
+بولی	بولیوں	N;ACC;PL
+بولی	بولی	N;ACC;SG
+بولی	بولیو	N;VOC;PL
+کہنا	کہ رہا تھا	V;1;SG;PROG;PST;MASC
+کہنا	کہی ہوں	V;1;SG;PRF;PRS;FEM
+کہنا	کہے ہوں	V;1;PL;PRF;SBJV;MASC
+کہنا	میں کہوں گا	V;1;SG;SBJV;MASC
+کہنا	تم کہو	V;2;PL;SBJV
+کہنا	کہی ہوں گی	V;3;PL;PRF;LGSPEC3;FEM
+کہنا	یہ  وہ کہے گی	V;3;SG;SBJV;FEM
+کہنا	ہم کہیں گے	V;1;PL;SBJV;MASC
+کہنا	کہ رہا ہو	V;2;SG;PROG;SBJV;MASC
+کہنا	کہے ہوں	V;3;PL;PRF;SBJV;MASC
+کہنا	کہتا ہو	V;2;SG;HAB;SBJV;MASC
+کہنا	کہی ہوتی	V;1;SG;PRF;LGSPEC4;FEM
+کہنا	کہی ہے	V;3;SG;PRF;PRS;FEM
+کہنا	کہے ہیں	V;1;PL;PRF;PRS;MASC
+کہنا	کہتے ہیں	V;3;PL;HAB;PRS;MASC
+کہنا	کہ رہی ہوں	V;1;PL;PROG;SBJV;FEM
+کہنا	کہتا ہوتا	V;3;SG;HAB;LGSPEC4;MASC
+کہنا	کہ رہی ہیں	V;3;PL;PROG;PRS;FEM
+کہنا	کہ رہی تھی	V;3;SG;PROG;PST;FEM
+کہنا	کہی تھیں	V;3;PL;PRF;PST;FEM
+کہنا	کہ رہی ہوتی	V;3;SG;PROG;LGSPEC4;FEM
+کہنا	کہی ہو گی	V;2;PL;PRF;LGSPEC3;FEM
+کہنا	کہ رہی ہوں	V;3;PL;PROG;SBJV;FEM
+کہنا	کہے ہیں	V;3;PL;PRF;PRS;MASC
+کہنا	کہتے ہو	V;2;PL;HAB;SBJV;MASC
+کہنا	کہے ہوں گے	V;3;PL;PRF;LGSPEC3;MASC
+کہنا	کہی ہو گی	V;2;SG;PRF;LGSPEC3;FEM
+کہنا	کہے ہو	V;2;PL;PRF;PRS;MASC
+کہنا	کہ رہا ہوں	V;1;SG;PROG;PRS;MASC
+کہنا	کہتی ہوتی	V;3;SG;HAB;LGSPEC4;FEM
+کہنا	کہا تھا	V;1;SG;PRF;PST;MASC
+کہنا	کہی ہو	V;2;SG;PRF;SBJV;FEM
+کہنا	کہ رہے تھے	V;2;PL;PROG;PST;MASC
+کہنا	کہ رہی ہوں گی	V;1;SG;PROG;LGSPEC3;FEM
+کہنا	کہ رہا ہوتا	V;1;SG;PROG;LGSPEC4;MASC
+کہنا	کہتی ہے	V;3;SG;HAB;PRS;FEM
+کہنا	کہ رہے ہیں	V;3;PL;PROG;PRS;MASC
+کہنا	کہ رہی تھی	V;1;SG;PROG;PST;FEM
+کہنا	کہا ہوں	V;1;SG;PRF;PRS;MASC
+کہنا	کہ رہا ہو گا	V;2;SG;PROG;LGSPEC3;MASC
+کہنا	کہی	V;V.PTCP;FEM;PL;PFV
+کہنا	کہا تھا	V;3;SG;PRF;PST;MASC
+کہنا	یہ  وہ کہیں گی	V;3;PL;SBJV;FEM
+کہنا	کہی ہو	V;2;PL;PRF;SBJV;FEM
+کہنا	کہنا	V;NFIN;LGSPEC1
+کہنا	کہ رہی ہو	V;2;SG;PROG;SBJV;FEM
+کہنا	کہنے	V;NFIN;LGSPEC2
+کہنا	کہ رہا ہے	V;3;SG;PROG;PRS;MASC
+کہنا	کہتی تھی	V;2;SG;HAB;PST;FEM
+کہنا	کہتے ہوتے	V;1;PL;HAB;LGSPEC4;MASC
+کہنا	کہ رہا ہو گا	V;3;SG;PROG;LGSPEC3;MASC
+کہنا	کہتی ہیں	V;3;PL;HAB;PRS;FEM
+کہنا	یہ  وہ کہیں	V;3;PL;SBJV
+کہنا	کہتے تھے	V;1;PL;HAB;PST;MASC
+کہنا	کہا ہوتا	V;3;SG;PRF;LGSPEC4;MASC
+کہنا	کہی ہے	V;2;SG;PRF;PRS;FEM
+کہنا	کہ رہے ہو	V;2;PL;PROG;PRS;MASC
+کہنا	کہ رہی ہو گی	V;2;SG;PROG;LGSPEC3;FEM
+کہنا	کہتی ہوں گی	V;3;PL;HAB;LGSPEC3;FEM
+کہنا	کہئیے	V;2;PL;IMP;FORM
+کہنا	کہ رہا ہو	V;3;SG;PROG;SBJV;MASC
+کہنا	کہتے ہوتے	V;3;PL;HAB;LGSPEC4;MASC
+کہنا	کہے تھے	V;2;PL;PRF;PST;MASC
+کہنا	کہ رہی تھیں	V;3;PL;PROG;PST;FEM
+کہنا	کہی ہیں	V;3;PL;PRF;PRS;FEM
+کہنا	کہتا ہو	V;3;SG;HAB;SBJV;MASC
+کہنا	کہ رہی ہے	V;2;SG;PROG;PRS;FEM
+کہنا	کہتا تھا	V;1;SG;HAB;PST;MASC
+کہنا	تو کہے گی	V;2;SG;SBJV;FEM
+کہنا	کہی ہوتی	V;1;PL;PRF;LGSPEC4;FEM
+کہنا	کہ رہے ہوتے	V;1;PL;PROG;LGSPEC4;MASC
+کہنا	کہا ہوں	V;1;SG;PRF;SBJV;MASC
+کہنا	کہ رہی ہوں	V;1;SG;PROG;SBJV;FEM
+کہنا	کہتی ہے	V;2;SG;HAB;PRS;FEM
+کہنا	کہتے ہوں گے	V;1;PL;HAB;LGSPEC3;MASC
+کہنا	کہ رہی ہو گی	V;2;PL;PROG;LGSPEC3;FEM
+کہنا	کہتی ہوں	V;1;SG;HAB;PRS;FEM
+کہنا	کہتا ہوں گا	V;1;SG;HAB;LGSPEC3;MASC
+کہنا	کہتا ہو گا	V;3;SG;HAB;LGSPEC3;MASC
+کہنا	کہی	V;V.PTCP;FEM;SG;PFV
+کہنا	کہ رہی ہیں	V;1;PL;PROG;PRS;FEM
+کہنا	کہی ہوں گی	V;1;PL;PRF;LGSPEC3;FEM
+کہنا	کہتی ہو	V;3;SG;HAB;SBJV;FEM
+کہنا	کہا ہو	V;3;SG;PRF;SBJV;MASC
+کہنا	کہ رہا ہوں	V;1;SG;PROG;SBJV;MASC
+کہنا	کہی ہوں	V;1;PL;PRF;SBJV;FEM
+کہنا	کہتا ہوتا	V;1;SG;HAB;LGSPEC4;MASC
+کہنا	کہتے ہوتے	V;2;PL;HAB;LGSPEC4;MASC
+کہنا	کہے ہوتے	V;2;PL;PRF;LGSPEC4;MASC
+کہنا	کہتا ہوں	V;1;SG;HAB;SBJV;MASC
+کہنا	کہ رہی ہوں گی	V;1;PL;PROG;LGSPEC3;FEM
+کہنا	کہی ہو	V;3;SG;PRF;SBJV;FEM
+کہنا	یہ  وہ کہے گا	V;3;SG;SBJV;MASC
+کہنا	کہتی تھی	V;3;SG;HAB;PST;FEM
+کہنا	کہتی تھی	V;1;SG;HAB;PST;FEM
+کہنا	کہ رہے ہو گے	V;2;PL;PROG;LGSPEC3;MASC
+کہنا	کہتی ہوتی	V;3;PL;HAB;LGSPEC4;FEM
+کہنا	کہے ہوتے	V;3;PL;PRF;LGSPEC4;MASC
+کہنا	کہ رہی ہو	V;2;PL;PROG;PRS;FEM
+کہنا	کہتا ہے	V;2;SG;HAB;PRS;MASC
+کہنا	کہتی ہوں گی	V;1;SG;HAB;LGSPEC3;FEM
+کہنا	کہتی ہو	V;2;SG;HAB;SBJV;FEM
+کہنا	کہتی ہوتی	V;1;SG;HAB;LGSPEC4;FEM
+کہنا	کہ رہے ہوتے	V;3;PL;PROG;LGSPEC4;MASC
+کہنا	کہتے ہوں	V;3;PL;HAB;SBJV;MASC
+کہنا	کہی ہوں گی	V;1;SG;PRF;LGSPEC3;FEM
+کہنا	کہے ہوں گے	V;1;PL;PRF;LGSPEC3;MASC
+کہنا	کہتی ہو	V;2;PL;HAB;SBJV;FEM
+کہنا	کہتا ہو گا	V;2;SG;HAB;LGSPEC3;MASC
+کہنا	کہ رہے ہوتے	V;2;PL;PROG;LGSPEC4;MASC
+کہنا	کہا ہے	V;2;SG;PRF;PRS;MASC
+کہنا	کہ رہی ہو	V;3;SG;PROG;SBJV;FEM
+کہنا	کہا ہو گا	V;3;SG;PRF;LGSPEC3;MASC
+کہنا	کہ رہی تھیں	V;1;PL;PROG;PST;FEM
+کہنا	ہم کہیں گی	V;1;PL;SBJV;FEM
+کہنا	تو کہے گا	V;2;SG;SBJV;MASC
+کہنا	کہ رہی ہوتی	V;3;PL;PROG;LGSPEC4;FEM
+کہنا	کہتی ہو گی	V;2;SG;HAB;LGSPEC3;FEM
+کہنا	کہے تھے	V;3;PL;PRF;PST;MASC
+کہنا	کہتی ہوں	V;3;PL;HAB;SBJV;FEM
+کہنا	تم کہو گی	V;2;PL;SBJV;FEM
+کہنا	کہ رہے تھے	V;1;PL;PROG;PST;MASC
+کہنا	کہتی ہوں	V;1;PL;HAB;SBJV;FEM
+کہنا	کہتی ہو	V;2;PL;HAB;PRS;FEM
+کہنا	کہا ہو	V;2;SG;PRF;SBJV;MASC
+کہنا	کہتی ہو گی	V;3;SG;HAB;LGSPEC3;FEM
+کہنا	کہتا ہوتا	V;2;SG;HAB;LGSPEC4;MASC
+کہنا	کہ رہے ہوں گے	V;1;PL;PROG;LGSPEC3;MASC
+کہنا	کہی ہوں	V;1;SG;PRF;SBJV;FEM
+کہنا	کہتی ہوں گی	V;1;PL;HAB;LGSPEC3;FEM
+کہنا	کہے	V;V.PTCP;MASC;PL;PFV
+کہنا	کہتی ہوتی	V;2;PL;HAB;LGSPEC4;FEM
+کہنا	کہتی ہو گی	V;2;PL;HAB;LGSPEC3;FEM
+کہنا	کہ رہا ہوں گا	V;1;SG;PROG;LGSPEC3;MASC
+کہنا	کہتا ہے	V;3;SG;HAB;PRS;MASC
+کہنا	کہتی تھیں	V;3;PL;HAB;PST;FEM
+کہنا	کہ رہی ہے	V;3;SG;PROG;PRS;FEM
+کہنا	کہتی	V;V.PTCP;FEM;PL;IPFV
+کہنا	کہتی ہیں	V;1;PL;HAB;PRS;FEM
+کہنا	کہ رہی ہو گی	V;3;SG;PROG;LGSPEC3;FEM
+کہنا	کہتے ہو	V;2;PL;HAB;PRS;MASC
+کہنا	کہی ہیں	V;1;PL;PRF;PRS;FEM
+کہنا	یہ  وہ کہیں گے	V;3;PL;SBJV;MASC
+کہنا	کہتی ہوتی	V;1;PL;HAB;LGSPEC4;FEM
+کہنا	کہ رہا ہوتا	V;2;SG;PROG;LGSPEC4;MASC
+کہنا	کہی تھیں	V;1;PL;PRF;PST;FEM
+کہنا	کہی ہوتی	V;2;SG;PRF;LGSPEC4;FEM
+کہنا	تو کہے	V;2;SG;SBJV
+کہنا	کہی ہو	V;2;PL;PRF;PRS;FEM
+کہنا	کہتے	V;V.PTCP;MASC;PL;IPFV
+کہنا	کہا ہو گا	V;2;SG;PRF;LGSPEC3;MASC
+کہنا	کہا تھا	V;2;SG;PRF;PST;MASC
+کہنا	کہ رہا تھا	V;2;SG;PROG;PST;MASC
+کہنا	کہ رہے ہیں	V;1;PL;PROG;PRS;MASC
+کہنا	کہی تھی	V;2;SG;PRF;PST;FEM
+کہنا	کہتے تھے	V;3;PL;HAB;PST;MASC
+کہنا	کہو	V;2;SG;IMP;FORM
+کہنا	میں کہوں گی	V;1;SG;SBJV;FEM
+کہنا	کہے تھے	V;1;PL;PRF;PST;MASC
+کہنا	کہ رہی تھی	V;2;SG;PROG;PST;FEM
+کہنا	کہا ہوتا	V;2;SG;PRF;LGSPEC4;MASC
+کہنا	کہ رہی ہوتی	V;1;PL;PROG;LGSPEC4;FEM
+کہنا	کہ رہے ہوں	V;1;PL;PROG;SBJV;MASC
+کہنا	کہ رہا تھا	V;3;SG;PROG;PST;MASC
+کہنا	کہے ہوتے	V;1;PL;PRF;LGSPEC4;MASC
+کہنا	کہا ہوں گا	V;1;SG;PRF;LGSPEC3;MASC
+کہنا	کہتا تھا	V;3;SG;HAB;PST;MASC
+کہنا	کہی ہوں	V;3;PL;PRF;SBJV;FEM
+کہنا	کہ رہا ہے	V;2;SG;PROG;PRS;MASC
+کہنا	یہ  وہ کہے	V;3;SG;SBJV
+کہنا	کہی تھی	V;1;SG;PRF;PST;FEM
+کہنا	کہتی تھیں	V;1;PL;HAB;PST;FEM
+کہنا	کہی ہوتی	V;2;PL;PRF;LGSPEC4;FEM
+کہنا	کہ رہی ہوں	V;1;SG;PROG;PRS;FEM
+کہنا	کہی ہوتی	V;3;SG;PRF;LGSPEC4;FEM
+کہنا	کہا ہے	V;3;SG;PRF;PRS;MASC
+کہنا	کہتا	V;V.PTCP;MASC;SG;IPFV
+کہنا	کہے ہو	V;2;PL;PRF;SBJV;MASC
+کہنا	کہتا تھا	V;2;SG;HAB;PST;MASC
+کہنا	کہتے ہو گے	V;2;PL;HAB;LGSPEC3;MASC
+کہنا	کہتے ہوں	V;1;PL;HAB;SBJV;MASC
+کہنا	کہی ہو گی	V;3;SG;PRF;LGSPEC3;FEM
+کہنا	کہ رہے ہوں	V;3;PL;PROG;SBJV;MASC
+کہنا	تم کہو گے	V;2;PL;SBJV;MASC
+کہنا	کہ	V;2;SG;IMP;INFM
+کہنا	کہ رہی ہوتی	V;1;SG;PROG;LGSPEC4;FEM
+کہنا	کہتی تھیں	V;2;PL;HAB;PST;FEM
+کہنا	ہم کہیں	V;1;PL;SBJV
+کہنا	کہی ہوتی	V;3;PL;PRF;LGSPEC4;FEM
+کہنا	کہتی ہوتی	V;2;SG;HAB;LGSPEC4;FEM
+کہنا	کہے ہو گے	V;2;PL;PRF;LGSPEC3;MASC
+کہنا	کہ رہی ہو	V;2;PL;PROG;SBJV;FEM
+کہنا	کہی تھی	V;3;SG;PRF;PST;FEM
+کہنا	کہا	V;V.PTCP;MASC;SG;PFV
+کہنا	کہ رہے تھے	V;3;PL;PROG;PST;MASC
+کہنا	کہ رہی ہوتی	V;2;PL;PROG;LGSPEC4;FEM
+کہنا	کہ رہا ہوتا	V;3;SG;PROG;LGSPEC4;MASC
+کہنا	کہ رہے ہوں گے	V;3;PL;PROG;LGSPEC3;MASC
+کہنا	کہی تھیں	V;2;PL;PRF;PST;FEM
+کہنا	کہتے ہیں	V;1;PL;HAB;PRS;MASC
+کہنا	کہ رہی ہوتی	V;2;SG;PROG;LGSPEC4;FEM
+کہنا	کہتے تھے	V;2;PL;HAB;PST;MASC
+کہنا	کہ رہی تھیں	V;2;PL;PROG;PST;FEM
+کہنا	کہتی ہوں	V;1;SG;HAB;SBJV;FEM
+کہنا	کہتے ہوں گے	V;3;PL;HAB;LGSPEC3;MASC
+کہنا	کہتی	V;V.PTCP;FEM;SG;IPFV
+کہنا	کہ رہے ہو	V;2;PL;PROG;SBJV;MASC
+کہنا	کہ رہی ہوں گی	V;3;PL;PROG;LGSPEC3;FEM
+کہنا	کہتا ہوں	V;1;SG;HAB;PRS;MASC
+کہنا	میں کہوں	V;1;SG;SBJV
+کہنا	کہا ہوتا	V;1;SG;PRF;LGSPEC4;MASC
+حکومت	حکومت	N;VOC;SG
+حکومت	حکومتیں	N;NOM;PL
+حکومت	حکومت	N;NOM;SG
+حکومت	حکومتوں	N;ACC;PL
+حکومت	حکومت	N;ACC;SG
+حکومت	حکومتو	N;VOC;PL
+پایہ	پایے	N;NOM;PL
+پایہ	پایے	N;VOC;SG
+پایہ	پایہ	N;NOM;SG
+پایہ	پایوں	N;ACC;PL
+پایہ	پایے	N;ACC;SG
+پایہ	پایو	N;VOC;PL
+بازی	بازی	N;VOC;SG
+بازی	بازیاں	N;NOM;PL
+بازی	بازی	N;NOM;SG
+بازی	بازیوں	N;ACC;PL
+بازی	بازی	N;ACC;SG
+بازی	بازیو	N;VOC;PL
+فیصلہ	فیصلے	N;NOM;PL
+فیصلہ	فیصلے	N;VOC;SG
+فیصلہ	فیصلہ	N;NOM;SG
+فیصلہ	فیصلوں	N;ACC;PL
+فیصلہ	فیصلے	N;ACC;SG
+فیصلہ	فیصلو	N;VOC;PL
+حق	حق	N;NOM;PL
+حق	حق	N;VOC;SG
+حق	حق	N;NOM;SG
+حق	حقوں	N;ACC;PL
+حق	حق	N;ACC;SG
+حق	حقو	N;VOC;PL
+رات	رات	N;VOC;SG
+رات	راتیں	N;NOM;PL
+رات	رات	N;NOM;SG
+رات	راتوں	N;ACC;PL
+رات	رات	N;ACC;SG
+رات	راتو	N;VOC;PL
+جواب	جواب	N;NOM;PL
+جواب	جواب	N;VOC;SG
+جواب	جواب	N;NOM;SG
+جواب	جوابوں	N;ACC;PL
+جواب	جواب	N;ACC;SG
+جواب	جوابو	N;VOC;PL
+بجلی	بجلی	N;VOC;SG
+بجلی	بجلیاں	N;NOM;PL
+بجلی	بجلی	N;NOM;SG
+بجلی	بجلیوں	N;ACC;PL
+بجلی	بجلی	N;ACC;SG
+بجلی	بجلیو	N;VOC;PL
+حکمت	حکمت	N;VOC;SG
+حکمت	حکمتیں	N;NOM;PL
+حکمت	حکمت	N;NOM;SG
+حکمت	حکمتوں	N;ACC;PL
+حکمت	حکمت	N;ACC;SG
+حکمت	حکمتو	N;VOC;PL
+حفاظت	حفاظت	N;VOC;SG
+حفاظت	حفاظتیں	N;NOM;PL
+حفاظت	حفاظت	N;NOM;SG
+حفاظت	حفاظتوں	N;ACC;PL
+حفاظت	حفاظت	N;ACC;SG
+حفاظت	حفاظتو	N;VOC;PL
+سوریہ	سوریہ	N;NOM;PL
+سوریہ	سوریہ	N;VOC;SG
+سوریہ	سوریہ	N;NOM;SG
+سوریہ	سوریوں	N;ACC;PL
+سوریہ	سوریہ	N;ACC;SG
+سوریہ	سوریو	N;VOC;PL
+صوبہ	صوبے	N;NOM;PL
+صوبہ	صوبے	N;VOC;SG
+صوبہ	صوبہ	N;NOM;SG
+صوبہ	صوبوں	N;ACC;PL
+صوبہ	صوبے	N;ACC;SG
+صوبہ	صوبو	N;VOC;PL
+چیز	چیز	N;VOC;SG
+چیز	چیزیں	N;NOM;PL
+چیز	چیز	N;NOM;SG
+چیز	چیزوں	N;ACC;PL
+چیز	چیز	N;ACC;SG
+چیز	چیزو	N;VOC;PL
+جانور	جانور	N;NOM;PL
+جانور	جانور	N;VOC;SG
+جانور	جانور	N;NOM;SG
+جانور	جانوروں	N;ACC;PL
+جانور	جانور	N;ACC;SG
+جانور	جانورو	N;VOC;PL
+تیاری	تیاریی	N;VOC;SG
+تیاری	تیارییاں	N;NOM;PL
+تیاری	تیاریی	N;NOM;SG
+تیاری	تیارییوں	N;ACC;PL
+تیاری	تیاریی	N;ACC;SG
+تیاری	تیارییو	N;VOC;PL
+لوٹنا	لوٹ رہا تھا	V;1;SG;PROG;PST;MASC
+لوٹنا	لوٹی ہوں	V;1;SG;PRF;PRS;FEM
+لوٹنا	لوٹے ہوں	V;1;PL;PRF;SBJV;MASC
+لوٹنا	میں لوٹوں گا	V;1;SG;SBJV;MASC
+لوٹنا	تم لوٹو	V;2;PL;SBJV
+لوٹنا	لوٹی ہوں گی	V;3;PL;PRF;LGSPEC3;FEM
+لوٹنا	یہ  وہ لوٹے گی	V;3;SG;SBJV;FEM
+لوٹنا	ہم لوٹیں گے	V;1;PL;SBJV;MASC
+لوٹنا	لوٹ رہا ہو	V;2;SG;PROG;SBJV;MASC
+لوٹنا	لوٹے ہوں	V;3;PL;PRF;SBJV;MASC
+لوٹنا	لوٹتا ہو	V;2;SG;HAB;SBJV;MASC
+لوٹنا	لوٹی ہوتی	V;1;SG;PRF;LGSPEC4;FEM
+لوٹنا	لوٹی ہے	V;3;SG;PRF;PRS;FEM
+لوٹنا	لوٹے ہیں	V;1;PL;PRF;PRS;MASC
+لوٹنا	لوٹتے ہیں	V;3;PL;HAB;PRS;MASC
+لوٹنا	لوٹ رہی ہوں	V;1;PL;PROG;SBJV;FEM
+لوٹنا	لوٹتا ہوتا	V;3;SG;HAB;LGSPEC4;MASC
+لوٹنا	لوٹ رہی ہیں	V;3;PL;PROG;PRS;FEM
+لوٹنا	لوٹ رہی تھی	V;3;SG;PROG;PST;FEM
+لوٹنا	لوٹی تھیں	V;3;PL;PRF;PST;FEM
+لوٹنا	لوٹ رہی ہوتی	V;3;SG;PROG;LGSPEC4;FEM
+لوٹنا	لوٹی ہو گی	V;2;PL;PRF;LGSPEC3;FEM
+لوٹنا	لوٹ رہی ہوں	V;3;PL;PROG;SBJV;FEM
+لوٹنا	لوٹے ہیں	V;3;PL;PRF;PRS;MASC
+لوٹنا	لوٹتے ہو	V;2;PL;HAB;SBJV;MASC
+لوٹنا	لوٹے ہوں گے	V;3;PL;PRF;LGSPEC3;MASC
+لوٹنا	لوٹی ہو گی	V;2;SG;PRF;LGSPEC3;FEM
+لوٹنا	لوٹے ہو	V;2;PL;PRF;PRS;MASC
+لوٹنا	لوٹ رہا ہوں	V;1;SG;PROG;PRS;MASC
+لوٹنا	لوٹتی ہوتی	V;3;SG;HAB;LGSPEC4;FEM
+لوٹنا	لوٹا تھا	V;1;SG;PRF;PST;MASC
+لوٹنا	لوٹی ہو	V;2;SG;PRF;SBJV;FEM
+لوٹنا	لوٹ رہے تھے	V;2;PL;PROG;PST;MASC
+لوٹنا	لوٹ رہی ہوں گی	V;1;SG;PROG;LGSPEC3;FEM
+لوٹنا	لوٹ رہا ہوتا	V;1;SG;PROG;LGSPEC4;MASC
+لوٹنا	لوٹتی ہے	V;3;SG;HAB;PRS;FEM
+لوٹنا	لوٹ رہے ہیں	V;3;PL;PROG;PRS;MASC
+لوٹنا	لوٹ رہی تھی	V;1;SG;PROG;PST;FEM
+لوٹنا	لوٹا ہوں	V;1;SG;PRF;PRS;MASC
+لوٹنا	لوٹ رہا ہو گا	V;2;SG;PROG;LGSPEC3;MASC
+لوٹنا	لوٹی	V;V.PTCP;FEM;PL;PFV
+لوٹنا	لوٹا تھا	V;3;SG;PRF;PST;MASC
+لوٹنا	یہ  وہ لوٹیں گی	V;3;PL;SBJV;FEM
+لوٹنا	لوٹی ہو	V;2;PL;PRF;SBJV;FEM
+لوٹنا	لوٹنا	V;NFIN;LGSPEC1
+لوٹنا	لوٹ رہی ہو	V;2;SG;PROG;SBJV;FEM
+لوٹنا	لوٹنے	V;NFIN;LGSPEC2
+لوٹنا	لوٹ رہا ہے	V;3;SG;PROG;PRS;MASC
+لوٹنا	لوٹتی تھی	V;2;SG;HAB;PST;FEM
+لوٹنا	لوٹتے ہوتے	V;1;PL;HAB;LGSPEC4;MASC
+لوٹنا	لوٹ رہا ہو گا	V;3;SG;PROG;LGSPEC3;MASC
+لوٹنا	لوٹتی ہیں	V;3;PL;HAB;PRS;FEM
+لوٹنا	یہ  وہ لوٹیں	V;3;PL;SBJV
+لوٹنا	لوٹتے تھے	V;1;PL;HAB;PST;MASC
+لوٹنا	لوٹا ہوتا	V;3;SG;PRF;LGSPEC4;MASC
+لوٹنا	لوٹی ہے	V;2;SG;PRF;PRS;FEM
+لوٹنا	لوٹ رہے ہو	V;2;PL;PROG;PRS;MASC
+لوٹنا	لوٹ رہی ہو گی	V;2;SG;PROG;LGSPEC3;FEM
+لوٹنا	لوٹتی ہوں گی	V;3;PL;HAB;LGSPEC3;FEM
+لوٹنا	لوٹئیے	V;2;PL;IMP;FORM
+لوٹنا	لوٹ رہا ہو	V;3;SG;PROG;SBJV;MASC
+لوٹنا	لوٹتے ہوتے	V;3;PL;HAB;LGSPEC4;MASC
+لوٹنا	لوٹے تھے	V;2;PL;PRF;PST;MASC
+لوٹنا	لوٹ رہی تھیں	V;3;PL;PROG;PST;FEM
+لوٹنا	لوٹی ہیں	V;3;PL;PRF;PRS;FEM
+لوٹنا	لوٹتا ہو	V;3;SG;HAB;SBJV;MASC
+لوٹنا	لوٹ رہی ہے	V;2;SG;PROG;PRS;FEM
+لوٹنا	لوٹتا تھا	V;1;SG;HAB;PST;MASC
+لوٹنا	تو لوٹے گی	V;2;SG;SBJV;FEM
+لوٹنا	لوٹی ہوتی	V;1;PL;PRF;LGSPEC4;FEM
+لوٹنا	لوٹ رہے ہوتے	V;1;PL;PROG;LGSPEC4;MASC
+لوٹنا	لوٹا ہوں	V;1;SG;PRF;SBJV;MASC
+لوٹنا	لوٹ رہی ہوں	V;1;SG;PROG;SBJV;FEM
+لوٹنا	لوٹتی ہے	V;2;SG;HAB;PRS;FEM
+لوٹنا	لوٹتے ہوں گے	V;1;PL;HAB;LGSPEC3;MASC
+لوٹنا	لوٹ رہی ہو گی	V;2;PL;PROG;LGSPEC3;FEM
+لوٹنا	لوٹتی ہوں	V;1;SG;HAB;PRS;FEM
+لوٹنا	لوٹتا ہوں گا	V;1;SG;HAB;LGSPEC3;MASC
+لوٹنا	لوٹتا ہو گا	V;3;SG;HAB;LGSPEC3;MASC
+لوٹنا	لوٹی	V;V.PTCP;FEM;SG;PFV
+لوٹنا	لوٹ رہی ہیں	V;1;PL;PROG;PRS;FEM
+لوٹنا	لوٹی ہوں گی	V;1;PL;PRF;LGSPEC3;FEM
+لوٹنا	لوٹتی ہو	V;3;SG;HAB;SBJV;FEM
+لوٹنا	لوٹا ہو	V;3;SG;PRF;SBJV;MASC
+لوٹنا	لوٹ رہا ہوں	V;1;SG;PROG;SBJV;MASC
+لوٹنا	لوٹی ہوں	V;1;PL;PRF;SBJV;FEM
+لوٹنا	لوٹتا ہوتا	V;1;SG;HAB;LGSPEC4;MASC
+لوٹنا	لوٹتے ہوتے	V;2;PL;HAB;LGSPEC4;MASC
+لوٹنا	لوٹے ہوتے	V;2;PL;PRF;LGSPEC4;MASC
+لوٹنا	لوٹتا ہوں	V;1;SG;HAB;SBJV;MASC
+لوٹنا	لوٹ رہی ہوں گی	V;1;PL;PROG;LGSPEC3;FEM
+لوٹنا	لوٹی ہو	V;3;SG;PRF;SBJV;FEM
+لوٹنا	یہ  وہ لوٹے گا	V;3;SG;SBJV;MASC
+لوٹنا	لوٹتی تھی	V;3;SG;HAB;PST;FEM
+لوٹنا	لوٹتی تھی	V;1;SG;HAB;PST;FEM
+لوٹنا	لوٹ رہے ہو گے	V;2;PL;PROG;LGSPEC3;MASC
+لوٹنا	لوٹتی ہوتی	V;3;PL;HAB;LGSPEC4;FEM
+لوٹنا	لوٹے ہوتے	V;3;PL;PRF;LGSPEC4;MASC
+لوٹنا	لوٹ رہی ہو	V;2;PL;PROG;PRS;FEM
+لوٹنا	لوٹتا ہے	V;2;SG;HAB;PRS;MASC
+لوٹنا	لوٹتی ہوں گی	V;1;SG;HAB;LGSPEC3;FEM
+لوٹنا	لوٹتی ہو	V;2;SG;HAB;SBJV;FEM
+لوٹنا	لوٹتی ہوتی	V;1;SG;HAB;LGSPEC4;FEM
+لوٹنا	لوٹ رہے ہوتے	V;3;PL;PROG;LGSPEC4;MASC
+لوٹنا	لوٹتے ہوں	V;3;PL;HAB;SBJV;MASC
+لوٹنا	لوٹی ہوں گی	V;1;SG;PRF;LGSPEC3;FEM
+لوٹنا	لوٹے ہوں گے	V;1;PL;PRF;LGSPEC3;MASC
+لوٹنا	لوٹتی ہو	V;2;PL;HAB;SBJV;FEM
+لوٹنا	لوٹتا ہو گا	V;2;SG;HAB;LGSPEC3;MASC
+لوٹنا	لوٹ رہے ہوتے	V;2;PL;PROG;LGSPEC4;MASC
+لوٹنا	لوٹا ہے	V;2;SG;PRF;PRS;MASC
+لوٹنا	لوٹ رہی ہو	V;3;SG;PROG;SBJV;FEM
+لوٹنا	لوٹا ہو گا	V;3;SG;PRF;LGSPEC3;MASC
+لوٹنا	لوٹ رہی تھیں	V;1;PL;PROG;PST;FEM
+لوٹنا	ہم لوٹیں گی	V;1;PL;SBJV;FEM
+لوٹنا	تو لوٹے گا	V;2;SG;SBJV;MASC
+لوٹنا	لوٹ رہی ہوتی	V;3;PL;PROG;LGSPEC4;FEM
+لوٹنا	لوٹتی ہو گی	V;2;SG;HAB;LGSPEC3;FEM
+لوٹنا	لوٹے تھے	V;3;PL;PRF;PST;MASC
+لوٹنا	لوٹتی ہوں	V;3;PL;HAB;SBJV;FEM
+لوٹنا	تم لوٹو گی	V;2;PL;SBJV;FEM
+لوٹنا	لوٹ رہے تھے	V;1;PL;PROG;PST;MASC
+لوٹنا	لوٹتی ہوں	V;1;PL;HAB;SBJV;FEM
+لوٹنا	لوٹتی ہو	V;2;PL;HAB;PRS;FEM
+لوٹنا	لوٹا ہو	V;2;SG;PRF;SBJV;MASC
+لوٹنا	لوٹتی ہو گی	V;3;SG;HAB;LGSPEC3;FEM
+لوٹنا	لوٹتا ہوتا	V;2;SG;HAB;LGSPEC4;MASC
+لوٹنا	لوٹ رہے ہوں گے	V;1;PL;PROG;LGSPEC3;MASC
+لوٹنا	لوٹی ہوں	V;1;SG;PRF;SBJV;FEM
+لوٹنا	لوٹتی ہوں گی	V;1;PL;HAB;LGSPEC3;FEM
+لوٹنا	لوٹے	V;V.PTCP;MASC;PL;PFV
+لوٹنا	لوٹتی ہوتی	V;2;PL;HAB;LGSPEC4;FEM
+لوٹنا	لوٹتی ہو گی	V;2;PL;HAB;LGSPEC3;FEM
+لوٹنا	لوٹ رہا ہوں گا	V;1;SG;PROG;LGSPEC3;MASC
+لوٹنا	لوٹتا ہے	V;3;SG;HAB;PRS;MASC
+لوٹنا	لوٹتی تھیں	V;3;PL;HAB;PST;FEM
+لوٹنا	لوٹ رہی ہے	V;3;SG;PROG;PRS;FEM
+لوٹنا	لوٹتی	V;V.PTCP;FEM;PL;IPFV
+لوٹنا	لوٹتی ہیں	V;1;PL;HAB;PRS;FEM
+لوٹنا	لوٹ رہی ہو گی	V;3;SG;PROG;LGSPEC3;FEM
+لوٹنا	لوٹتے ہو	V;2;PL;HAB;PRS;MASC
+لوٹنا	لوٹی ہیں	V;1;PL;PRF;PRS;FEM
+لوٹنا	یہ  وہ لوٹیں گے	V;3;PL;SBJV;MASC
+لوٹنا	لوٹتی ہوتی	V;1;PL;HAB;LGSPEC4;FEM
+لوٹنا	لوٹ رہا ہوتا	V;2;SG;PROG;LGSPEC4;MASC
+لوٹنا	لوٹی تھیں	V;1;PL;PRF;PST;FEM
+لوٹنا	لوٹی ہوتی	V;2;SG;PRF;LGSPEC4;FEM
+لوٹنا	تو لوٹے	V;2;SG;SBJV
+لوٹنا	لوٹی ہو	V;2;PL;PRF;PRS;FEM
+لوٹنا	لوٹتے	V;V.PTCP;MASC;PL;IPFV
+لوٹنا	لوٹا ہو گا	V;2;SG;PRF;LGSPEC3;MASC
+لوٹنا	لوٹا تھا	V;2;SG;PRF;PST;MASC
+لوٹنا	لوٹ رہا تھا	V;2;SG;PROG;PST;MASC
+لوٹنا	لوٹ رہے ہیں	V;1;PL;PROG;PRS;MASC
+لوٹنا	لوٹی تھی	V;2;SG;PRF;PST;FEM
+لوٹنا	لوٹتے تھے	V;3;PL;HAB;PST;MASC
+لوٹنا	لوٹو	V;2;SG;IMP;FORM
+لوٹنا	میں لوٹوں گی	V;1;SG;SBJV;FEM
+لوٹنا	لوٹے تھے	V;1;PL;PRF;PST;MASC
+لوٹنا	لوٹ رہی تھی	V;2;SG;PROG;PST;FEM
+لوٹنا	لوٹا ہوتا	V;2;SG;PRF;LGSPEC4;MASC
+لوٹنا	لوٹ رہی ہوتی	V;1;PL;PROG;LGSPEC4;FEM
+لوٹنا	لوٹ رہے ہوں	V;1;PL;PROG;SBJV;MASC
+لوٹنا	لوٹ رہا تھا	V;3;SG;PROG;PST;MASC
+لوٹنا	لوٹے ہوتے	V;1;PL;PRF;LGSPEC4;MASC
+لوٹنا	لوٹا ہوں گا	V;1;SG;PRF;LGSPEC3;MASC
+لوٹنا	لوٹتا تھا	V;3;SG;HAB;PST;MASC
+لوٹنا	لوٹی ہوں	V;3;PL;PRF;SBJV;FEM
+لوٹنا	لوٹ رہا ہے	V;2;SG;PROG;PRS;MASC
+لوٹنا	یہ  وہ لوٹے	V;3;SG;SBJV
+لوٹنا	لوٹی تھی	V;1;SG;PRF;PST;FEM
+لوٹنا	لوٹتی تھیں	V;1;PL;HAB;PST;FEM
+لوٹنا	لوٹی ہوتی	V;2;PL;PRF;LGSPEC4;FEM
+لوٹنا	لوٹ رہی ہوں	V;1;SG;PROG;PRS;FEM
+لوٹنا	لوٹی ہوتی	V;3;SG;PRF;LGSPEC4;FEM
+لوٹنا	لوٹا ہے	V;3;SG;PRF;PRS;MASC
+لوٹنا	لوٹتا	V;V.PTCP;MASC;SG;IPFV
+لوٹنا	لوٹے ہو	V;2;PL;PRF;SBJV;MASC
+لوٹنا	لوٹتا تھا	V;2;SG;HAB;PST;MASC
+لوٹنا	لوٹتے ہو گے	V;2;PL;HAB;LGSPEC3;MASC
+لوٹنا	لوٹتے ہوں	V;1;PL;HAB;SBJV;MASC
+لوٹنا	لوٹی ہو گی	V;3;SG;PRF;LGSPEC3;FEM
+لوٹنا	لوٹ رہے ہوں	V;3;PL;PROG;SBJV;MASC
+لوٹنا	تم لوٹو گے	V;2;PL;SBJV;MASC
+لوٹنا	لوٹ	V;2;SG;IMP;INFM
+لوٹنا	لوٹ رہی ہوتی	V;1;SG;PROG;LGSPEC4;FEM
+لوٹنا	لوٹتی تھیں	V;2;PL;HAB;PST;FEM
+لوٹنا	ہم لوٹیں	V;1;PL;SBJV
+لوٹنا	لوٹی ہوتی	V;3;PL;PRF;LGSPEC4;FEM
+لوٹنا	لوٹتی ہوتی	V;2;SG;HAB;LGSPEC4;FEM
+لوٹنا	لوٹے ہو گے	V;2;PL;PRF;LGSPEC3;MASC
+لوٹنا	لوٹ رہی ہو	V;2;PL;PROG;SBJV;FEM
+لوٹنا	لوٹی تھی	V;3;SG;PRF;PST;FEM
+لوٹنا	لوٹا	V;V.PTCP;MASC;SG;PFV
+لوٹنا	لوٹ رہے تھے	V;3;PL;PROG;PST;MASC
+لوٹنا	لوٹ رہی ہوتی	V;2;PL;PROG;LGSPEC4;FEM
+لوٹنا	لوٹ رہا ہوتا	V;3;SG;PROG;LGSPEC4;MASC
+لوٹنا	لوٹ رہے ہوں گے	V;3;PL;PROG;LGSPEC3;MASC
+لوٹنا	لوٹی تھیں	V;2;PL;PRF;PST;FEM
+لوٹنا	لوٹتے ہیں	V;1;PL;HAB;PRS;MASC
+لوٹنا	لوٹ رہی ہوتی	V;2;SG;PROG;LGSPEC4;FEM
+لوٹنا	لوٹتے تھے	V;2;PL;HAB;PST;MASC
+لوٹنا	لوٹ رہی تھیں	V;2;PL;PROG;PST;FEM
+لوٹنا	لوٹتی ہوں	V;1;SG;HAB;SBJV;FEM
+لوٹنا	لوٹتے ہوں گے	V;3;PL;HAB;LGSPEC3;MASC
+لوٹنا	لوٹتی	V;V.PTCP;FEM;SG;IPFV
+لوٹنا	لوٹ رہے ہو	V;2;PL;PROG;SBJV;MASC
+لوٹنا	لوٹ رہی ہوں گی	V;3;PL;PROG;LGSPEC3;FEM
+لوٹنا	لوٹتا ہوں	V;1;SG;HAB;PRS;MASC
+لوٹنا	میں لوٹوں	V;1;SG;SBJV
+لوٹنا	لوٹا ہوتا	V;1;SG;PRF;LGSPEC4;MASC
+رنگ	رنگ	N;NOM;PL
+رنگ	رنگ	N;VOC;SG
+رنگ	رنگ	N;NOM;SG
+رنگ	رنگوں	N;ACC;PL
+رنگ	رنگ	N;ACC;SG
+رنگ	رنگو	N;VOC;PL
+غلطی	غلطی	N;VOC;SG
+غلطی	غلطیاں	N;NOM;PL
+غلطی	غلطی	N;NOM;SG
+غلطی	غلطیوں	N;ACC;PL
+غلطی	غلطی	N;ACC;SG
+غلطی	غلطیو	N;VOC;PL
+پڑھنا	پڑھ رہا تھا	V;1;SG;PROG;PST;MASC
+پڑھنا	پڑھی ہوں	V;1;SG;PRF;PRS;FEM
+پڑھنا	پڑھے ہوں	V;1;PL;PRF;SBJV;MASC
+پڑھنا	میں پڑھوں گا	V;1;SG;SBJV;MASC
+پڑھنا	تم پڑھو	V;2;PL;SBJV
+پڑھنا	پڑھی ہوں گی	V;3;PL;PRF;LGSPEC3;FEM
+پڑھنا	یہ  وہ پڑھے گی	V;3;SG;SBJV;FEM
+پڑھنا	ہم پڑھیں گے	V;1;PL;SBJV;MASC
+پڑھنا	پڑھ رہا ہو	V;2;SG;PROG;SBJV;MASC
+پڑھنا	پڑھے ہوں	V;3;PL;PRF;SBJV;MASC
+پڑھنا	پڑھتا ہو	V;2;SG;HAB;SBJV;MASC
+پڑھنا	پڑھی ہوتی	V;1;SG;PRF;LGSPEC4;FEM
+پڑھنا	پڑھی ہے	V;3;SG;PRF;PRS;FEM
+پڑھنا	پڑھے ہیں	V;1;PL;PRF;PRS;MASC
+پڑھنا	پڑھتے ہیں	V;3;PL;HAB;PRS;MASC
+پڑھنا	پڑھ رہی ہوں	V;1;PL;PROG;SBJV;FEM
+پڑھنا	پڑھتا ہوتا	V;3;SG;HAB;LGSPEC4;MASC
+پڑھنا	پڑھ رہی ہیں	V;3;PL;PROG;PRS;FEM
+پڑھنا	پڑھ رہی تھی	V;3;SG;PROG;PST;FEM
+پڑھنا	پڑھی تھیں	V;3;PL;PRF;PST;FEM
+پڑھنا	پڑھ رہی ہوتی	V;3;SG;PROG;LGSPEC4;FEM
+پڑھنا	پڑھی ہو گی	V;2;PL;PRF;LGSPEC3;FEM
+پڑھنا	پڑھ رہی ہوں	V;3;PL;PROG;SBJV;FEM
+پڑھنا	پڑھے ہیں	V;3;PL;PRF;PRS;MASC
+پڑھنا	پڑھتے ہو	V;2;PL;HAB;SBJV;MASC
+پڑھنا	پڑھے ہوں گے	V;3;PL;PRF;LGSPEC3;MASC
+پڑھنا	پڑھی ہو گی	V;2;SG;PRF;LGSPEC3;FEM
+پڑھنا	پڑھے ہو	V;2;PL;PRF;PRS;MASC
+پڑھنا	پڑھ رہا ہوں	V;1;SG;PROG;PRS;MASC
+پڑھنا	پڑھتی ہوتی	V;3;SG;HAB;LGSPEC4;FEM
+پڑھنا	پڑھا تھا	V;1;SG;PRF;PST;MASC
+پڑھنا	پڑھی ہو	V;2;SG;PRF;SBJV;FEM
+پڑھنا	پڑھ رہے تھے	V;2;PL;PROG;PST;MASC
+پڑھنا	پڑھ رہی ہوں گی	V;1;SG;PROG;LGSPEC3;FEM
+پڑھنا	پڑھ رہا ہوتا	V;1;SG;PROG;LGSPEC4;MASC
+پڑھنا	پڑھتی ہے	V;3;SG;HAB;PRS;FEM
+پڑھنا	پڑھ رہے ہیں	V;3;PL;PROG;PRS;MASC
+پڑھنا	پڑھ رہی تھی	V;1;SG;PROG;PST;FEM
+پڑھنا	پڑھا ہوں	V;1;SG;PRF;PRS;MASC
+پڑھنا	پڑھ رہا ہو گا	V;2;SG;PROG;LGSPEC3;MASC
+پڑھنا	پڑھی	V;V.PTCP;FEM;PL;PFV
+پڑھنا	پڑھا تھا	V;3;SG;PRF;PST;MASC
+پڑھنا	یہ  وہ پڑھیں گی	V;3;PL;SBJV;FEM
+پڑھنا	پڑھی ہو	V;2;PL;PRF;SBJV;FEM
+پڑھنا	پڑھنا	V;NFIN;LGSPEC1
+پڑھنا	پڑھ رہی ہو	V;2;SG;PROG;SBJV;FEM
+پڑھنا	پڑھنے	V;NFIN;LGSPEC2
+پڑھنا	پڑھ رہا ہے	V;3;SG;PROG;PRS;MASC
+پڑھنا	پڑھتی تھی	V;2;SG;HAB;PST;FEM
+پڑھنا	پڑھتے ہوتے	V;1;PL;HAB;LGSPEC4;MASC
+پڑھنا	پڑھ رہا ہو گا	V;3;SG;PROG;LGSPEC3;MASC
+پڑھنا	پڑھتی ہیں	V;3;PL;HAB;PRS;FEM
+پڑھنا	یہ  وہ پڑھیں	V;3;PL;SBJV
+پڑھنا	پڑھتے تھے	V;1;PL;HAB;PST;MASC
+پڑھنا	پڑھا ہوتا	V;3;SG;PRF;LGSPEC4;MASC
+پڑھنا	پڑھی ہے	V;2;SG;PRF;PRS;FEM
+پڑھنا	پڑھ رہے ہو	V;2;PL;PROG;PRS;MASC
+پڑھنا	پڑھ رہی ہو گی	V;2;SG;PROG;LGSPEC3;FEM
+پڑھنا	پڑھتی ہوں گی	V;3;PL;HAB;LGSPEC3;FEM
+پڑھنا	پڑھئیے	V;2;PL;IMP;FORM
+پڑھنا	پڑھ رہا ہو	V;3;SG;PROG;SBJV;MASC
+پڑھنا	پڑھتے ہوتے	V;3;PL;HAB;LGSPEC4;MASC
+پڑھنا	پڑھے تھے	V;2;PL;PRF;PST;MASC
+پڑھنا	تم پڑھو گی	V;2;PL;SBJV;FEM
+پڑھنا	پڑھ رہی تھیں	V;3;PL;PROG;PST;FEM
+پڑھنا	پڑھی ہیں	V;3;PL;PRF;PRS;FEM
+پڑھنا	پڑھتا ہو	V;3;SG;HAB;SBJV;MASC
+پڑھنا	پڑھ رہی ہے	V;2;SG;PROG;PRS;FEM
+پڑھنا	پڑھتا تھا	V;1;SG;HAB;PST;MASC
+پڑھنا	تو پڑھے گی	V;2;SG;SBJV;FEM
+پڑھنا	پڑھی ہوتی	V;1;PL;PRF;LGSPEC4;FEM
+پڑھنا	پڑھ رہے ہوتے	V;1;PL;PROG;LGSPEC4;MASC
+پڑھنا	پڑھا ہوں	V;1;SG;PRF;SBJV;MASC
+پڑھنا	پڑھ رہی ہوں	V;1;SG;PROG;SBJV;FEM
+پڑھنا	پڑھتی ہے	V;2;SG;HAB;PRS;FEM
+پڑھنا	پڑھتے ہوں گے	V;1;PL;HAB;LGSPEC3;MASC
+پڑھنا	پڑھ رہی ہو گی	V;2;PL;PROG;LGSPEC3;FEM
+پڑھنا	پڑھتی ہوں	V;1;SG;HAB;PRS;FEM
+پڑھنا	پڑھتا ہوں گا	V;1;SG;HAB;LGSPEC3;MASC
+پڑھنا	پڑھتا ہو گا	V;3;SG;HAB;LGSPEC3;MASC
+پڑھنا	پڑھی	V;V.PTCP;FEM;SG;PFV
+پڑھنا	پڑھ رہی ہیں	V;1;PL;PROG;PRS;FEM
+پڑھنا	پڑھی ہوں گی	V;1;PL;PRF;LGSPEC3;FEM
+پڑھنا	پڑھتی ہو	V;3;SG;HAB;SBJV;FEM
+پڑھنا	پڑھا ہو	V;3;SG;PRF;SBJV;MASC
+پڑھنا	پڑھ رہا ہوں	V;1;SG;PROG;SBJV;MASC
+پڑھنا	پڑھی ہوں	V;1;PL;PRF;SBJV;FEM
+پڑھنا	پڑھتا ہوتا	V;1;SG;HAB;LGSPEC4;MASC
+پڑھنا	پڑھتے ہوتے	V;2;PL;HAB;LGSPEC4;MASC
+پڑھنا	پڑھتا ہوں	V;1;SG;HAB;SBJV;MASC
+پڑھنا	پڑھ رہی ہوں گی	V;1;PL;PROG;LGSPEC3;FEM
+پڑھنا	پڑھی ہو	V;3;SG;PRF;SBJV;FEM
+پڑھنا	یہ  وہ پڑھے گا	V;3;SG;SBJV;MASC
+پڑھنا	پڑھتی تھی	V;3;SG;HAB;PST;FEM
+پڑھنا	پڑھتی تھی	V;1;SG;HAB;PST;FEM
+پڑھنا	پڑھ رہے ہو گے	V;2;PL;PROG;LGSPEC3;MASC
+پڑھنا	پڑھتی ہوتی	V;3;PL;HAB;LGSPEC4;FEM
+پڑھنا	پڑھے ہوتے	V;3;PL;PRF;LGSPEC4;MASC
+پڑھنا	پڑھ رہی ہو	V;2;PL;PROG;PRS;FEM
+پڑھنا	پڑھتا ہے	V;2;SG;HAB;PRS;MASC
+پڑھنا	پڑھتی ہوں گی	V;1;SG;HAB;LGSPEC3;FEM
+پڑھنا	پڑھتی ہو	V;2;SG;HAB;SBJV;FEM
+پڑھنا	پڑھتی ہوتی	V;1;SG;HAB;LGSPEC4;FEM
+پڑھنا	پڑھ رہے ہوتے	V;3;PL;PROG;LGSPEC4;MASC
+پڑھنا	پڑھتے ہوں	V;3;PL;HAB;SBJV;MASC
+پڑھنا	پڑھی ہوں گی	V;1;SG;PRF;LGSPEC3;FEM
+پڑھنا	پڑھے ہوں گے	V;1;PL;PRF;LGSPEC3;MASC
+پڑھنا	پڑھتی ہو	V;2;PL;HAB;SBJV;FEM
+پڑھنا	پڑھتا ہو گا	V;2;SG;HAB;LGSPEC3;MASC
+پڑھنا	پڑھ رہے ہوتے	V;2;PL;PROG;LGSPEC4;MASC
+پڑھنا	پڑھا ہے	V;2;SG;PRF;PRS;MASC
+پڑھنا	پڑھا ہو گا	V;3;SG;PRF;LGSPEC3;MASC
+پڑھنا	پڑھ رہی تھیں	V;1;PL;PROG;PST;FEM
+پڑھنا	ہم پڑھیں گی	V;1;PL;SBJV;FEM
+پڑھنا	پڑھ رہا تھا	V;2;SG;PROG;PST;MASC
+پڑھنا	پڑھ رہی ہوتی	V;3;PL;PROG;LGSPEC4;FEM
+پڑھنا	پڑھتی ہو گی	V;2;SG;HAB;LGSPEC3;FEM
+پڑھنا	پڑھے تھے	V;3;PL;PRF;PST;MASC
+پڑھنا	پڑھتی ہوں	V;3;PL;HAB;SBJV;FEM
+پڑھنا	پڑھے ہوتے	V;2;PL;PRF;LGSPEC4;MASC
+پڑھنا	پڑھ رہے تھے	V;1;PL;PROG;PST;MASC
+پڑھنا	پڑھتی ہوں	V;1;PL;HAB;SBJV;FEM
+پڑھنا	پڑھتی ہو	V;2;PL;HAB;PRS;FEM
+پڑھنا	پڑھا ہو	V;2;SG;PRF;SBJV;MASC
+پڑھنا	پڑھتی ہو گی	V;3;SG;HAB;LGSPEC3;FEM
+پڑھنا	پڑھتا ہوتا	V;2;SG;HAB;LGSPEC4;MASC
+پڑھنا	پڑھ رہے ہوں گے	V;1;PL;PROG;LGSPEC3;MASC
+پڑھنا	پڑھی ہوں	V;1;SG;PRF;SBJV;FEM
+پڑھنا	پڑھتی ہوں گی	V;1;PL;HAB;LGSPEC3;FEM
+پڑھنا	پڑھے	V;V.PTCP;MASC;PL;PFV
+پڑھنا	پڑھتی ہوتی	V;2;PL;HAB;LGSPEC4;FEM
+پڑھنا	پڑھتی ہو گی	V;2;PL;HAB;LGSPEC3;FEM
+پڑھنا	پڑھ رہا ہوں گا	V;1;SG;PROG;LGSPEC3;MASC
+پڑھنا	پڑھتا ہے	V;3;SG;HAB;PRS;MASC
+پڑھنا	پڑھتی تھیں	V;3;PL;HAB;PST;FEM
+پڑھنا	پڑھ رہی ہے	V;3;SG;PROG;PRS;FEM
+پڑھنا	پڑھتی	V;V.PTCP;FEM;PL;IPFV
+پڑھنا	پڑھتی ہیں	V;1;PL;HAB;PRS;FEM
+پڑھنا	پڑھ رہی ہو گی	V;3;SG;PROG;LGSPEC3;FEM
+پڑھنا	پڑھتے ہو	V;2;PL;HAB;PRS;MASC
+پڑھنا	پڑھی ہیں	V;1;PL;PRF;PRS;FEM
+پڑھنا	یہ  وہ پڑھیں گے	V;3;PL;SBJV;MASC
+پڑھنا	پڑھتی ہوتی	V;1;PL;HAB;LGSPEC4;FEM
+پڑھنا	پڑھ رہا ہوتا	V;2;SG;PROG;LGSPEC4;MASC
+پڑھنا	پڑھی تھیں	V;1;PL;PRF;PST;FEM
+پڑھنا	پڑھی ہوتی	V;2;SG;PRF;LGSPEC4;FEM
+پڑھنا	پڑھ رہی ہو	V;3;SG;PROG;SBJV;FEM
+پڑھنا	پڑھی ہو	V;2;PL;PRF;PRS;FEM
+پڑھنا	پڑھتے	V;V.PTCP;MASC;PL;IPFV
+پڑھنا	پڑھا ہو گا	V;2;SG;PRF;LGSPEC3;MASC
+پڑھنا	پڑھا تھا	V;2;SG;PRF;PST;MASC
+پڑھنا	تو پڑھے	V;2;SG;SBJV
+پڑھنا	پڑھ رہے ہیں	V;1;PL;PROG;PRS;MASC
+پڑھنا	پڑھی تھی	V;2;SG;PRF;PST;FEM
+پڑھنا	پڑھتے تھے	V;3;PL;HAB;PST;MASC
+پڑھنا	تو پڑھے گا	V;2;SG;SBJV;MASC
+پڑھنا	پڑھو	V;2;SG;IMP;FORM
+پڑھنا	میں پڑھوں گی	V;1;SG;SBJV;FEM
+پڑھنا	پڑھے تھے	V;1;PL;PRF;PST;MASC
+پڑھنا	پڑھ رہی تھی	V;2;SG;PROG;PST;FEM
+پڑھنا	پڑھا ہوتا	V;2;SG;PRF;LGSPEC4;MASC
+پڑھنا	پڑھ رہی ہوتی	V;1;PL;PROG;LGSPEC4;FEM
+پڑھنا	پڑھ رہے ہوں	V;1;PL;PROG;SBJV;MASC
+پڑھنا	پڑھ رہا تھا	V;3;SG;PROG;PST;MASC
+پڑھنا	پڑھے ہوتے	V;1;PL;PRF;LGSPEC4;MASC
+پڑھنا	پڑھا ہوں گا	V;1;SG;PRF;LGSPEC3;MASC
+پڑھنا	پڑھتا تھا	V;3;SG;HAB;PST;MASC
+پڑھنا	پڑھی ہوں	V;3;PL;PRF;SBJV;FEM
+پڑھنا	پڑھ رہا ہے	V;2;SG;PROG;PRS;MASC
+پڑھنا	یہ  وہ پڑھے	V;3;SG;SBJV
+پڑھنا	پڑھی تھی	V;1;SG;PRF;PST;FEM
+پڑھنا	پڑھتی تھیں	V;1;PL;HAB;PST;FEM
+پڑھنا	پڑھی ہوتی	V;2;PL;PRF;LGSPEC4;FEM
+پڑھنا	پڑھ رہی ہوں	V;1;SG;PROG;PRS;FEM
+پڑھنا	پڑھی ہوتی	V;3;SG;PRF;LGSPEC4;FEM
+پڑھنا	پڑھا ہے	V;3;SG;PRF;PRS;MASC
+پڑھنا	پڑھتا	V;V.PTCP;MASC;SG;IPFV
+پڑھنا	پڑھے ہو	V;2;PL;PRF;SBJV;MASC
+پڑھنا	پڑھتا تھا	V;2;SG;HAB;PST;MASC
+پڑھنا	پڑھتے ہو گے	V;2;PL;HAB;LGSPEC3;MASC
+پڑھنا	پڑھتے ہوں	V;1;PL;HAB;SBJV;MASC
+پڑھنا	پڑھی ہو گی	V;3;SG;PRF;LGSPEC3;FEM
+پڑھنا	پڑھ رہے ہوں	V;3;PL;PROG;SBJV;MASC
+پڑھنا	تم پڑھو گے	V;2;PL;SBJV;MASC
+پڑھنا	پڑھ	V;2;SG;IMP;INFM
+پڑھنا	پڑھ رہی ہوتی	V;1;SG;PROG;LGSPEC4;FEM
+پڑھنا	پڑھتی تھیں	V;2;PL;HAB;PST;FEM
+پڑھنا	ہم پڑھیں	V;1;PL;SBJV
+پڑھنا	پڑھی ہوتی	V;3;PL;PRF;LGSPEC4;FEM
+پڑھنا	پڑھتی ہوتی	V;2;SG;HAB;LGSPEC4;FEM
+پڑھنا	پڑھے ہو گے	V;2;PL;PRF;LGSPEC3;MASC
+پڑھنا	پڑھ رہی ہو	V;2;PL;PROG;SBJV;FEM
+پڑھنا	پڑھی تھی	V;3;SG;PRF;PST;FEM
+پڑھنا	پڑھا	V;V.PTCP;MASC;SG;PFV
+پڑھنا	پڑھ رہے تھے	V;3;PL;PROG;PST;MASC
+پڑھنا	پڑھ رہی ہوتی	V;2;PL;PROG;LGSPEC4;FEM
+پڑھنا	پڑھ رہا ہوتا	V;3;SG;PROG;LGSPEC4;MASC
+پڑھنا	پڑھ رہے ہوں گے	V;3;PL;PROG;LGSPEC3;MASC
+پڑھنا	پڑھی تھیں	V;2;PL;PRF;PST;FEM
+پڑھنا	پڑھتے ہیں	V;1;PL;HAB;PRS;MASC
+پڑھنا	پڑھ رہی ہوتی	V;2;SG;PROG;LGSPEC4;FEM
+پڑھنا	پڑھتے تھے	V;2;PL;HAB;PST;MASC
+پڑھنا	پڑھ رہی تھیں	V;2;PL;PROG;PST;FEM
+پڑھنا	پڑھتی ہوں	V;1;SG;HAB;SBJV;FEM
+پڑھنا	پڑھتے ہوں گے	V;3;PL;HAB;LGSPEC3;MASC
+پڑھنا	پڑھتی	V;V.PTCP;FEM;SG;IPFV
+پڑھنا	پڑھ رہے ہو	V;2;PL;PROG;SBJV;MASC
+پڑھنا	پڑھ رہی ہوں گی	V;3;PL;PROG;LGSPEC3;FEM
+پڑھنا	پڑھتا ہوں	V;1;SG;HAB;PRS;MASC
+پڑھنا	میں پڑھوں	V;1;SG;SBJV
+پڑھنا	پڑھا ہوتا	V;1;SG;PRF;LGSPEC4;MASC
+پتا	پتا	N;NOM;PL
+پتا	پتا	N;VOC;SG
+پتا	پتا	N;NOM;SG
+پتا	پتاؤں	N;ACC;PL
+پتا	پتا	N;ACC;SG
+پتا	پتاؤ	N;VOC;PL
+عزت	عزت	N;VOC;SG
+عزت	عزتیں	N;NOM;PL
+عزت	عزت	N;NOM;SG
+عزت	عزتوں	N;ACC;PL
+عزت	عزت	N;ACC;SG
+عزت	عزتو	N;VOC;PL
+ندی	ندی	N;VOC;SG
+ندی	ندیاں	N;NOM;PL
+ندی	ندی	N;NOM;SG
+ندی	ندیوں	N;ACC;PL
+ندی	ندی	N;ACC;SG
+ندی	ندیو	N;VOC;PL
+حملہ	حملے	N;NOM;PL
+حملہ	حملے	N;VOC;SG
+حملہ	حملہ	N;NOM;SG
+حملہ	حملوں	N;ACC;PL
+حملہ	حملے	N;ACC;SG
+حملہ	حملو	N;VOC;PL
+چراغ	چراغ	N;NOM;PL
+چراغ	چراغ	N;VOC;SG
+چراغ	چراغ	N;NOM;SG
+چراغ	چراغوں	N;ACC;PL
+چراغ	چراغ	N;ACC;SG
+چراغ	چراغو	N;VOC;PL
+بادل	بادل	N;NOM;PL
+بادل	بادل	N;VOC;SG
+بادل	بادل	N;NOM;SG
+بادل	بادلوں	N;ACC;PL
+بادل	بادل	N;ACC;SG
+بادل	بادلو	N;VOC;PL
+پھول	پھول	N;NOM;PL
+پھول	پھول	N;VOC;SG
+پھول	پھول	N;NOM;SG
+پھول	پھولوں	N;ACC;PL
+پھول	پھول	N;ACC;SG
+پھول	پھولو	N;VOC;PL
+نواب	نواب	N;NOM;PL
+نواب	نواب	N;VOC;SG
+نواب	نواب	N;NOM;SG
+نواب	نوابوں	N;ACC;PL
+نواب	نواب	N;ACC;SG
+نواب	نوابو	N;VOC;PL
+بلا	بلے	N;NOM;PL
+بلا	بلے	N;VOC;SG
+بلا	بلا	N;NOM;SG
+بلا	بلوں	N;ACC;PL
+بلا	بلے	N;ACC;SG
+بلا	بلو	N;VOC;PL
+لڑکی	لڑکی	N;VOC;SG
+لڑکی	لڑکیاں	N;NOM;PL
+لڑکی	لڑکی	N;NOM;SG
+لڑکی	لڑکیوں	N;ACC;PL
+لڑکی	لڑکی	N;ACC;SG
+لڑکی	لڑکیو	N;VOC;PL
+معیشت	معیشت	N;VOC;SG
+معیشت	معیشتیں	N;NOM;PL
+معیشت	معیشت	N;NOM;SG
+معیشت	معیشتوں	N;ACC;PL
+معیشت	معیشت	N;ACC;SG
+معیشت	معیشتو	N;VOC;PL
+لکھنا	لکھ رہا تھا	V;1;SG;PROG;PST;MASC
+لکھنا	لکھی ہوں	V;1;SG;PRF;PRS;FEM
+لکھنا	لکھے ہوں	V;1;PL;PRF;SBJV;MASC
+لکھنا	میں لکھوں گا	V;1;SG;SBJV;MASC
+لکھنا	تم لکھو	V;2;PL;SBJV
+لکھنا	لکھی ہوں گی	V;3;PL;PRF;LGSPEC3;FEM
+لکھنا	یہ  وہ لکھے گی	V;3;SG;SBJV;FEM
+لکھنا	ہم لکھیں گے	V;1;PL;SBJV;MASC
+لکھنا	لکھ رہا ہو	V;2;SG;PROG;SBJV;MASC
+لکھنا	لکھے ہوں	V;3;PL;PRF;SBJV;MASC
+لکھنا	لکھتا ہو	V;2;SG;HAB;SBJV;MASC
+لکھنا	لکھی ہوتی	V;1;SG;PRF;LGSPEC4;FEM
+لکھنا	لکھی ہے	V;3;SG;PRF;PRS;FEM
+لکھنا	لکھے ہیں	V;1;PL;PRF;PRS;MASC
+لکھنا	لکھتے ہیں	V;3;PL;HAB;PRS;MASC
+لکھنا	لکھ رہی ہوں	V;1;PL;PROG;SBJV;FEM
+لکھنا	لکھتا ہوتا	V;3;SG;HAB;LGSPEC4;MASC
+لکھنا	لکھ رہی ہیں	V;3;PL;PROG;PRS;FEM
+لکھنا	لکھ رہی تھی	V;3;SG;PROG;PST;FEM
+لکھنا	لکھی تھیں	V;3;PL;PRF;PST;FEM
+لکھنا	لکھ رہی ہوتی	V;3;SG;PROG;LGSPEC4;FEM
+لکھنا	لکھی ہو گی	V;2;PL;PRF;LGSPEC3;FEM
+لکھنا	لکھ رہی ہوں	V;3;PL;PROG;SBJV;FEM
+لکھنا	لکھے ہیں	V;3;PL;PRF;PRS;MASC
+لکھنا	لکھتے ہو	V;2;PL;HAB;SBJV;MASC
+لکھنا	لکھے ہوں گے	V;3;PL;PRF;LGSPEC3;MASC
+لکھنا	لکھی ہو گی	V;2;SG;PRF;LGSPEC3;FEM
+لکھنا	لکھے ہو	V;2;PL;PRF;PRS;MASC
+لکھنا	لکھ رہا ہوں	V;1;SG;PROG;PRS;MASC
+لکھنا	لکھتی ہوتی	V;3;SG;HAB;LGSPEC4;FEM
+لکھنا	لکھا تھا	V;1;SG;PRF;PST;MASC
+لکھنا	لکھی ہو	V;2;SG;PRF;SBJV;FEM
+لکھنا	لکھ رہے تھے	V;2;PL;PROG;PST;MASC
+لکھنا	لکھ رہی ہوں گی	V;1;SG;PROG;LGSPEC3;FEM
+لکھنا	لکھ رہا ہوتا	V;1;SG;PROG;LGSPEC4;MASC
+لکھنا	لکھتی ہے	V;3;SG;HAB;PRS;FEM
+لکھنا	لکھ رہے ہیں	V;3;PL;PROG;PRS;MASC
+لکھنا	لکھ رہی تھی	V;1;SG;PROG;PST;FEM
+لکھنا	لکھا ہوں	V;1;SG;PRF;PRS;MASC
+لکھنا	لکھ رہا ہو گا	V;2;SG;PROG;LGSPEC3;MASC
+لکھنا	لکھی	V;V.PTCP;FEM;PL;PFV
+لکھنا	لکھا تھا	V;3;SG;PRF;PST;MASC
+لکھنا	یہ  وہ لکھیں گی	V;3;PL;SBJV;FEM
+لکھنا	لکھی ہو	V;2;PL;PRF;SBJV;FEM
+لکھنا	لکھنا	V;NFIN;LGSPEC1
+لکھنا	لکھ رہی ہو	V;2;SG;PROG;SBJV;FEM
+لکھنا	لکھنے	V;NFIN;LGSPEC2
+لکھنا	لکھ رہا ہے	V;3;SG;PROG;PRS;MASC
+لکھنا	لکھتی تھی	V;2;SG;HAB;PST;FEM
+لکھنا	لکھتے ہوتے	V;1;PL;HAB;LGSPEC4;MASC
+لکھنا	لکھ رہا ہو گا	V;3;SG;PROG;LGSPEC3;MASC
+لکھنا	لکھتی ہیں	V;3;PL;HAB;PRS;FEM
+لکھنا	یہ  وہ لکھیں	V;3;PL;SBJV
+لکھنا	لکھتے تھے	V;1;PL;HAB;PST;MASC
+لکھنا	لکھا ہوتا	V;3;SG;PRF;LGSPEC4;MASC
+لکھنا	لکھی ہے	V;2;SG;PRF;PRS;FEM
+لکھنا	لکھ رہے ہو	V;2;PL;PROG;PRS;MASC
+لکھنا	لکھ رہی ہو گی	V;2;SG;PROG;LGSPEC3;FEM
+لکھنا	لکھتی ہوں گی	V;3;PL;HAB;LGSPEC3;FEM
+لکھنا	لکھئیے	V;2;PL;IMP;FORM
+لکھنا	لکھ رہا ہو	V;3;SG;PROG;SBJV;MASC
+لکھنا	لکھتے ہوتے	V;3;PL;HAB;LGSPEC4;MASC
+لکھنا	لکھے تھے	V;2;PL;PRF;PST;MASC
+لکھنا	لکھ رہی تھیں	V;3;PL;PROG;PST;FEM
+لکھنا	لکھی ہیں	V;3;PL;PRF;PRS;FEM
+لکھنا	لکھتا ہو	V;3;SG;HAB;SBJV;MASC
+لکھنا	لکھ رہی ہے	V;2;SG;PROG;PRS;FEM
+لکھنا	لکھتا تھا	V;1;SG;HAB;PST;MASC
+لکھنا	تو لکھے گی	V;2;SG;SBJV;FEM
+لکھنا	لکھی ہوتی	V;1;PL;PRF;LGSPEC4;FEM
+لکھنا	لکھ رہے ہوتے	V;1;PL;PROG;LGSPEC4;MASC
+لکھنا	لکھا ہوں	V;1;SG;PRF;SBJV;MASC
+لکھنا	لکھ رہی ہوں	V;1;SG;PROG;SBJV;FEM
+لکھنا	لکھتی ہے	V;2;SG;HAB;PRS;FEM
+لکھنا	لکھتے ہوں گے	V;1;PL;HAB;LGSPEC3;MASC
+لکھنا	لکھ رہی ہو گی	V;2;PL;PROG;LGSPEC3;FEM
+لکھنا	لکھتی ہوں	V;1;SG;HAB;PRS;FEM
+لکھنا	لکھتا ہوں گا	V;1;SG;HAB;LGSPEC3;MASC
+لکھنا	لکھتا ہو گا	V;3;SG;HAB;LGSPEC3;MASC
+لکھنا	لکھی	V;V.PTCP;FEM;SG;PFV
+لکھنا	لکھ رہی ہیں	V;1;PL;PROG;PRS;FEM
+لکھنا	لکھی ہوں گی	V;1;PL;PRF;LGSPEC3;FEM
+لکھنا	لکھتی ہو	V;3;SG;HAB;SBJV;FEM
+لکھنا	لکھا ہو	V;3;SG;PRF;SBJV;MASC
+لکھنا	لکھ رہا ہوں	V;1;SG;PROG;SBJV;MASC
+لکھنا	لکھی ہوں	V;1;PL;PRF;SBJV;FEM
+لکھنا	لکھتا ہوتا	V;1;SG;HAB;LGSPEC4;MASC
+لکھنا	لکھتے ہوتے	V;2;PL;HAB;LGSPEC4;MASC
+لکھنا	لکھے ہوتے	V;2;PL;PRF;LGSPEC4;MASC
+لکھنا	لکھتا ہوں	V;1;SG;HAB;SBJV;MASC
+لکھنا	لکھ رہی ہوں گی	V;1;PL;PROG;LGSPEC3;FEM
+لکھنا	لکھی ہو	V;3;SG;PRF;SBJV;FEM
+لکھنا	یہ  وہ لکھے گا	V;3;SG;SBJV;MASC
+لکھنا	لکھتی تھی	V;3;SG;HAB;PST;FEM
+لکھنا	لکھتی تھی	V;1;SG;HAB;PST;FEM
+لکھنا	لکھ رہے ہو گے	V;2;PL;PROG;LGSPEC3;MASC
+لکھنا	لکھتی ہوتی	V;3;PL;HAB;LGSPEC4;FEM
+لکھنا	لکھے ہوتے	V;3;PL;PRF;LGSPEC4;MASC
+لکھنا	لکھ رہی ہو	V;2;PL;PROG;PRS;FEM
+لکھنا	لکھتا ہے	V;2;SG;HAB;PRS;MASC
+لکھنا	لکھتی ہوں گی	V;1;SG;HAB;LGSPEC3;FEM
+لکھنا	لکھتی ہو	V;2;SG;HAB;SBJV;FEM
+لکھنا	لکھتی ہوتی	V;1;SG;HAB;LGSPEC4;FEM
+لکھنا	لکھ رہے ہوتے	V;3;PL;PROG;LGSPEC4;MASC
+لکھنا	لکھتے ہوں	V;3;PL;HAB;SBJV;MASC
+لکھنا	لکھی ہوں گی	V;1;SG;PRF;LGSPEC3;FEM
+لکھنا	لکھے ہوں گے	V;1;PL;PRF;LGSPEC3;MASC
+لکھنا	لکھتی ہو	V;2;PL;HAB;SBJV;FEM
+لکھنا	لکھتا ہو گا	V;2;SG;HAB;LGSPEC3;MASC
+لکھنا	لکھ رہے ہوتے	V;2;PL;PROG;LGSPEC4;MASC
+لکھنا	لکھا ہے	V;2;SG;PRF;PRS;MASC
+لکھنا	لکھ رہی ہو	V;3;SG;PROG;SBJV;FEM
+لکھنا	لکھا ہو گا	V;3;SG;PRF;LGSPEC3;MASC
+لکھنا	لکھ رہی تھیں	V;1;PL;PROG;PST;FEM
+لکھنا	ہم لکھیں گی	V;1;PL;SBJV;FEM
+لکھنا	تو لکھے گا	V;2;SG;SBJV;MASC
+لکھنا	لکھ رہی ہوتی	V;3;PL;PROG;LGSPEC4;FEM
+لکھنا	لکھتی ہو گی	V;2;SG;HAB;LGSPEC3;FEM
+لکھنا	لکھے تھے	V;3;PL;PRF;PST;MASC
+لکھنا	لکھتی ہوں	V;3;PL;HAB;SBJV;FEM
+لکھنا	تم لکھو گی	V;2;PL;SBJV;FEM
+لکھنا	لکھ رہے تھے	V;1;PL;PROG;PST;MASC
+لکھنا	لکھتی ہوں	V;1;PL;HAB;SBJV;FEM
+لکھنا	لکھتی ہو	V;2;PL;HAB;PRS;FEM
+لکھنا	لکھا ہو	V;2;SG;PRF;SBJV;MASC
+لکھنا	لکھتی ہو گی	V;3;SG;HAB;LGSPEC3;FEM
+لکھنا	لکھتا ہوتا	V;2;SG;HAB;LGSPEC4;MASC
+لکھنا	لکھ رہے ہوں گے	V;1;PL;PROG;LGSPEC3;MASC
+لکھنا	لکھی ہوں	V;1;SG;PRF;SBJV;FEM
+لکھنا	لکھتی ہوں گی	V;1;PL;HAB;LGSPEC3;FEM
+لکھنا	لکھے	V;V.PTCP;MASC;PL;PFV
+لکھنا	لکھتی ہوتی	V;2;PL;HAB;LGSPEC4;FEM
+لکھنا	لکھتی ہو گی	V;2;PL;HAB;LGSPEC3;FEM
+لکھنا	لکھ رہا ہوں گا	V;1;SG;PROG;LGSPEC3;MASC
+لکھنا	لکھتا ہے	V;3;SG;HAB;PRS;MASC
+لکھنا	لکھتی تھیں	V;3;PL;HAB;PST;FEM
+لکھنا	لکھ رہی ہے	V;3;SG;PROG;PRS;FEM
+لکھنا	لکھتی	V;V.PTCP;FEM;PL;IPFV
+لکھنا	لکھتی ہیں	V;1;PL;HAB;PRS;FEM
+لکھنا	لکھ رہی ہو گی	V;3;SG;PROG;LGSPEC3;FEM
+لکھنا	لکھتے ہو	V;2;PL;HAB;PRS;MASC
+لکھنا	لکھی ہیں	V;1;PL;PRF;PRS;FEM
+لکھنا	یہ  وہ لکھیں گے	V;3;PL;SBJV;MASC
+لکھنا	لکھتی ہوتی	V;1;PL;HAB;LGSPEC4;FEM
+لکھنا	لکھ رہا ہوتا	V;2;SG;PROG;LGSPEC4;MASC
+لکھنا	لکھی تھیں	V;1;PL;PRF;PST;FEM
+لکھنا	لکھی ہوتی	V;2;SG;PRF;LGSPEC4;FEM
+لکھنا	تو لکھے	V;2;SG;SBJV
+لکھنا	لکھی ہو	V;2;PL;PRF;PRS;FEM
+لکھنا	لکھتے	V;V.PTCP;MASC;PL;IPFV
+لکھنا	لکھا ہو گا	V;2;SG;PRF;LGSPEC3;MASC
+لکھنا	لکھا تھا	V;2;SG;PRF;PST;MASC
+لکھنا	لکھ رہا تھا	V;2;SG;PROG;PST;MASC
+لکھنا	لکھ رہے ہیں	V;1;PL;PROG;PRS;MASC
+لکھنا	لکھی تھی	V;2;SG;PRF;PST;FEM
+لکھنا	لکھتے تھے	V;3;PL;HAB;PST;MASC
+لکھنا	لکھو	V;2;SG;IMP;FORM
+لکھنا	میں لکھوں گی	V;1;SG;SBJV;FEM
+لکھنا	لکھے تھے	V;1;PL;PRF;PST;MASC
+لکھنا	لکھ رہی تھی	V;2;SG;PROG;PST;FEM
+لکھنا	لکھا ہوتا	V;2;SG;PRF;LGSPEC4;MASC
+لکھنا	لکھ رہی ہوتی	V;1;PL;PROG;LGSPEC4;FEM
+لکھنا	لکھ رہے ہوں	V;1;PL;PROG;SBJV;MASC
+لکھنا	لکھ رہا تھا	V;3;SG;PROG;PST;MASC
+لکھنا	لکھے ہوتے	V;1;PL;PRF;LGSPEC4;MASC
+لکھنا	لکھا ہوں گا	V;1;SG;PRF;LGSPEC3;MASC
+لکھنا	لکھتا تھا	V;3;SG;HAB;PST;MASC
+لکھنا	لکھی ہوں	V;3;PL;PRF;SBJV;FEM
+لکھنا	لکھ رہا ہے	V;2;SG;PROG;PRS;MASC
+لکھنا	یہ  وہ لکھے	V;3;SG;SBJV
+لکھنا	لکھی تھی	V;1;SG;PRF;PST;FEM
+لکھنا	لکھتی تھیں	V;1;PL;HAB;PST;FEM
+لکھنا	لکھی ہوتی	V;2;PL;PRF;LGSPEC4;FEM
+لکھنا	لکھ رہی ہوں	V;1;SG;PROG;PRS;FEM
+لکھنا	لکھی ہوتی	V;3;SG;PRF;LGSPEC4;FEM
+لکھنا	لکھا ہے	V;3;SG;PRF;PRS;MASC
+لکھنا	لکھتا	V;V.PTCP;MASC;SG;IPFV
+لکھنا	لکھے ہو	V;2;PL;PRF;SBJV;MASC
+لکھنا	لکھتا تھا	V;2;SG;HAB;PST;MASC
+لکھنا	لکھتے ہو گے	V;2;PL;HAB;LGSPEC3;MASC
+لکھنا	لکھتے ہوں	V;1;PL;HAB;SBJV;MASC
+لکھنا	لکھی ہو گی	V;3;SG;PRF;LGSPEC3;FEM
+لکھنا	لکھ رہے ہوں	V;3;PL;PROG;SBJV;MASC
+لکھنا	تم لکھو گے	V;2;PL;SBJV;MASC
+لکھنا	لکھ	V;2;SG;IMP;INFM
+لکھنا	لکھ رہی ہوتی	V;1;SG;PROG;LGSPEC4;FEM
+لکھنا	لکھتی تھیں	V;2;PL;HAB;PST;FEM
+لکھنا	ہم لکھیں	V;1;PL;SBJV
+لکھنا	لکھی ہوتی	V;3;PL;PRF;LGSPEC4;FEM
+لکھنا	لکھتی ہوتی	V;2;SG;HAB;LGSPEC4;FEM
+لکھنا	لکھے ہو گے	V;2;PL;PRF;LGSPEC3;MASC
+لکھنا	لکھ رہی ہو	V;2;PL;PROG;SBJV;FEM
+لکھنا	لکھی تھی	V;3;SG;PRF;PST;FEM
+لکھنا	لکھا	V;V.PTCP;MASC;SG;PFV
+لکھنا	لکھ رہے تھے	V;3;PL;PROG;PST;MASC
+لکھنا	لکھ رہی ہوتی	V;2;PL;PROG;LGSPEC4;FEM
+لکھنا	لکھ رہا ہوتا	V;3;SG;PROG;LGSPEC4;MASC
+لکھنا	لکھ رہے ہوں گے	V;3;PL;PROG;LGSPEC3;MASC
+لکھنا	لکھی تھیں	V;2;PL;PRF;PST;FEM
+لکھنا	لکھتے ہیں	V;1;PL;HAB;PRS;MASC
+لکھنا	لکھ رہی ہوتی	V;2;SG;PROG;LGSPEC4;FEM
+لکھنا	لکھتے تھے	V;2;PL;HAB;PST;MASC
+لکھنا	لکھ رہی تھیں	V;2;PL;PROG;PST;FEM
+لکھنا	لکھتی ہوں	V;1;SG;HAB;SBJV;FEM
+لکھنا	لکھتے ہوں گے	V;3;PL;HAB;LGSPEC3;MASC
+لکھنا	لکھتی	V;V.PTCP;FEM;SG;IPFV
+لکھنا	لکھ رہے ہو	V;2;PL;PROG;SBJV;MASC
+لکھنا	لکھ رہی ہوں گی	V;3;PL;PROG;LGSPEC3;FEM
+لکھنا	لکھتا ہوں	V;1;SG;HAB;PRS;MASC
+لکھنا	میں لکھوں	V;1;SG;SBJV
+لکھنا	لکھا ہوتا	V;1;SG;PRF;LGSPEC4;MASC
+انگوٹھا	انگوٹھے	N;NOM;PL
+انگوٹھا	انگوٹھے	N;VOC;SG
+انگوٹھا	انگوٹھا	N;NOM;SG
+انگوٹھا	انگوٹھوں	N;ACC;PL
+انگوٹھا	انگوٹھے	N;ACC;SG
+انگوٹھا	انگوٹھو	N;VOC;PL
+تلوار	تلوار	N;VOC;SG
+تلوار	تلواریں	N;NOM;PL
+تلوار	تلوار	N;NOM;SG
+تلوار	تلواروں	N;ACC;PL
+تلوار	تلوار	N;ACC;SG
+تلوار	تلوارو	N;VOC;PL
+سیکھنا	سیکھ رہا تھا	V;1;SG;PROG;PST;MASC
+سیکھنا	سیکھی ہوں	V;1;SG;PRF;PRS;FEM
+سیکھنا	سیکھے ہوں	V;1;PL;PRF;SBJV;MASC
+سیکھنا	میں سیکھوں گا	V;1;SG;SBJV;MASC
+سیکھنا	تم سیکھو	V;2;PL;SBJV
+سیکھنا	سیکھی ہوں گی	V;3;PL;PRF;LGSPEC3;FEM
+سیکھنا	یہ  وہ سیکھے گی	V;3;SG;SBJV;FEM
+سیکھنا	ہم سیکھیں گے	V;1;PL;SBJV;MASC
+سیکھنا	سیکھ رہا ہو	V;2;SG;PROG;SBJV;MASC
+سیکھنا	سیکھے ہوں	V;3;PL;PRF;SBJV;MASC
+سیکھنا	سیکھتا ہو	V;2;SG;HAB;SBJV;MASC
+سیکھنا	سیکھی ہوتی	V;1;SG;PRF;LGSPEC4;FEM
+سیکھنا	سیکھی ہے	V;3;SG;PRF;PRS;FEM
+سیکھنا	سیکھے ہیں	V;1;PL;PRF;PRS;MASC
+سیکھنا	سیکھتے ہیں	V;3;PL;HAB;PRS;MASC
+سیکھنا	سیکھ رہی ہوں	V;1;PL;PROG;SBJV;FEM
+سیکھنا	سیکھتا ہوتا	V;3;SG;HAB;LGSPEC4;MASC
+سیکھنا	سیکھ رہی ہیں	V;3;PL;PROG;PRS;FEM
+سیکھنا	سیکھ رہی تھی	V;3;SG;PROG;PST;FEM
+سیکھنا	سیکھی تھیں	V;3;PL;PRF;PST;FEM
+سیکھنا	سیکھ رہی ہوتی	V;3;SG;PROG;LGSPEC4;FEM
+سیکھنا	سیکھی ہو گی	V;2;PL;PRF;LGSPEC3;FEM
+سیکھنا	سیکھ رہی ہوں	V;3;PL;PROG;SBJV;FEM
+سیکھنا	سیکھے ہیں	V;3;PL;PRF;PRS;MASC
+سیکھنا	سیکھتے ہو	V;2;PL;HAB;SBJV;MASC
+سیکھنا	سیکھے ہوں گے	V;3;PL;PRF;LGSPEC3;MASC
+سیکھنا	سیکھی ہو گی	V;2;SG;PRF;LGSPEC3;FEM
+سیکھنا	سیکھے ہو	V;2;PL;PRF;PRS;MASC
+سیکھنا	سیکھ رہا ہوں	V;1;SG;PROG;PRS;MASC
+سیکھنا	سیکھتی ہوتی	V;3;SG;HAB;LGSPEC4;FEM
+سیکھنا	سیکھا تھا	V;1;SG;PRF;PST;MASC
+سیکھنا	سیکھی ہو	V;2;SG;PRF;SBJV;FEM
+سیکھنا	سیکھ رہے تھے	V;2;PL;PROG;PST;MASC
+سیکھنا	سیکھ رہی ہوں گی	V;1;SG;PROG;LGSPEC3;FEM
+سیکھنا	سیکھ رہا ہوتا	V;1;SG;PROG;LGSPEC4;MASC
+سیکھنا	سیکھتی ہے	V;3;SG;HAB;PRS;FEM
+سیکھنا	سیکھ رہے ہیں	V;3;PL;PROG;PRS;MASC
+سیکھنا	سیکھ رہی تھی	V;1;SG;PROG;PST;FEM
+سیکھنا	سیکھا ہوں	V;1;SG;PRF;PRS;MASC
+سیکھنا	سیکھ رہا ہو گا	V;2;SG;PROG;LGSPEC3;MASC
+سیکھنا	سیکھی	V;V.PTCP;FEM;PL;PFV
+سیکھنا	سیکھا تھا	V;3;SG;PRF;PST;MASC
+سیکھنا	یہ  وہ سیکھیں گی	V;3;PL;SBJV;FEM
+سیکھنا	سیکھی ہو	V;2;PL;PRF;SBJV;FEM
+سیکھنا	سیکھنا	V;NFIN;LGSPEC1
+سیکھنا	سیکھ رہی ہو	V;2;SG;PROG;SBJV;FEM
+سیکھنا	سیکھنے	V;NFIN;LGSPEC2
+سیکھنا	سیکھ رہا ہے	V;3;SG;PROG;PRS;MASC
+سیکھنا	سیکھتی تھی	V;2;SG;HAB;PST;FEM
+سیکھنا	سیکھتے ہوتے	V;1;PL;HAB;LGSPEC4;MASC
+سیکھنا	سیکھ رہا ہو گا	V;3;SG;PROG;LGSPEC3;MASC
+سیکھنا	سیکھتی ہیں	V;3;PL;HAB;PRS;FEM
+سیکھنا	یہ  وہ سیکھیں	V;3;PL;SBJV
+سیکھنا	سیکھتے تھے	V;1;PL;HAB;PST;MASC
+سیکھنا	سیکھا ہوتا	V;3;SG;PRF;LGSPEC4;MASC
+سیکھنا	سیکھی ہے	V;2;SG;PRF;PRS;FEM
+سیکھنا	سیکھ رہے ہو	V;2;PL;PROG;PRS;MASC
+سیکھنا	سیکھ رہی ہو گی	V;2;SG;PROG;LGSPEC3;FEM
+سیکھنا	سیکھتی ہوں گی	V;3;PL;HAB;LGSPEC3;FEM
+سیکھنا	سیکھئیے	V;2;PL;IMP;FORM
+سیکھنا	سیکھ رہا ہو	V;3;SG;PROG;SBJV;MASC
+سیکھنا	سیکھتے ہوتے	V;3;PL;HAB;LGSPEC4;MASC
+سیکھنا	سیکھے تھے	V;2;PL;PRF;PST;MASC
+سیکھنا	سیکھ رہی تھیں	V;3;PL;PROG;PST;FEM
+سیکھنا	سیکھی ہیں	V;3;PL;PRF;PRS;FEM
+سیکھنا	سیکھتا ہو	V;3;SG;HAB;SBJV;MASC
+سیکھنا	سیکھ رہی ہے	V;2;SG;PROG;PRS;FEM
+سیکھنا	سیکھتا تھا	V;1;SG;HAB;PST;MASC
+سیکھنا	تو سیکھے گی	V;2;SG;SBJV;FEM
+سیکھنا	سیکھی ہوتی	V;1;PL;PRF;LGSPEC4;FEM
+سیکھنا	سیکھ رہے ہوتے	V;1;PL;PROG;LGSPEC4;MASC
+سیکھنا	سیکھا ہوں	V;1;SG;PRF;SBJV;MASC
+سیکھنا	سیکھ رہی ہوں	V;1;SG;PROG;SBJV;FEM
+سیکھنا	سیکھتی ہے	V;2;SG;HAB;PRS;FEM
+سیکھنا	سیکھتے ہوں گے	V;1;PL;HAB;LGSPEC3;MASC
+سیکھنا	سیکھ رہی ہو گی	V;2;PL;PROG;LGSPEC3;FEM
+سیکھنا	سیکھتی ہوں	V;1;SG;HAB;PRS;FEM
+سیکھنا	سیکھتا ہوں گا	V;1;SG;HAB;LGSPEC3;MASC
+سیکھنا	سیکھتا ہو گا	V;3;SG;HAB;LGSPEC3;MASC
+سیکھنا	سیکھی	V;V.PTCP;FEM;SG;PFV
+سیکھنا	سیکھ رہی ہیں	V;1;PL;PROG;PRS;FEM
+سیکھنا	سیکھی ہوں گی	V;1;PL;PRF;LGSPEC3;FEM
+سیکھنا	سیکھتی ہو	V;3;SG;HAB;SBJV;FEM
+سیکھنا	سیکھا ہو	V;3;SG;PRF;SBJV;MASC
+سیکھنا	سیکھ رہا ہوں	V;1;SG;PROG;SBJV;MASC
+سیکھنا	سیکھی ہوں	V;1;PL;PRF;SBJV;FEM
+سیکھنا	سیکھتا ہوتا	V;1;SG;HAB;LGSPEC4;MASC
+سیکھنا	سیکھتے ہوتے	V;2;PL;HAB;LGSPEC4;MASC
+سیکھنا	سیکھے ہوتے	V;2;PL;PRF;LGSPEC4;MASC
+سیکھنا	سیکھتا ہوں	V;1;SG;HAB;SBJV;MASC
+سیکھنا	سیکھ رہی ہوں گی	V;1;PL;PROG;LGSPEC3;FEM
+سیکھنا	سیکھی ہو	V;3;SG;PRF;SBJV;FEM
+سیکھنا	یہ  وہ سیکھے گا	V;3;SG;SBJV;MASC
+سیکھنا	سیکھتی تھی	V;3;SG;HAB;PST;FEM
+سیکھنا	سیکھتی تھی	V;1;SG;HAB;PST;FEM
+سیکھنا	سیکھ رہے ہو گے	V;2;PL;PROG;LGSPEC3;MASC
+سیکھنا	سیکھتی ہوتی	V;3;PL;HAB;LGSPEC4;FEM
+سیکھنا	سیکھے ہوتے	V;3;PL;PRF;LGSPEC4;MASC
+سیکھنا	سیکھ رہی ہو	V;2;PL;PROG;PRS;FEM
+سیکھنا	سیکھتا ہے	V;2;SG;HAB;PRS;MASC
+سیکھنا	سیکھتی ہوں گی	V;1;SG;HAB;LGSPEC3;FEM
+سیکھنا	سیکھتی ہو	V;2;SG;HAB;SBJV;FEM
+سیکھنا	سیکھتی ہوتی	V;1;SG;HAB;LGSPEC4;FEM
+سیکھنا	سیکھ رہے ہوتے	V;3;PL;PROG;LGSPEC4;MASC
+سیکھنا	سیکھتے ہوں	V;3;PL;HAB;SBJV;MASC
+سیکھنا	سیکھی ہوں گی	V;1;SG;PRF;LGSPEC3;FEM
+سیکھنا	سیکھے ہوں گے	V;1;PL;PRF;LGSPEC3;MASC
+سیکھنا	سیکھتی ہو	V;2;PL;HAB;SBJV;FEM
+سیکھنا	سیکھتا ہو گا	V;2;SG;HAB;LGSPEC3;MASC
+سیکھنا	سیکھ رہے ہوتے	V;2;PL;PROG;LGSPEC4;MASC
+سیکھنا	سیکھا ہے	V;2;SG;PRF;PRS;MASC
+سیکھنا	سیکھ رہی ہو	V;3;SG;PROG;SBJV;FEM
+سیکھنا	سیکھا ہو گا	V;3;SG;PRF;LGSPEC3;MASC
+سیکھنا	سیکھ رہی تھیں	V;1;PL;PROG;PST;FEM
+سیکھنا	ہم سیکھیں گی	V;1;PL;SBJV;FEM
+سیکھنا	تو سیکھے گا	V;2;SG;SBJV;MASC
+سیکھنا	سیکھ رہی ہوتی	V;3;PL;PROG;LGSPEC4;FEM
+سیکھنا	سیکھتی ہو گی	V;2;SG;HAB;LGSPEC3;FEM
+سیکھنا	سیکھے تھے	V;3;PL;PRF;PST;MASC
+سیکھنا	سیکھتی ہوں	V;3;PL;HAB;SBJV;FEM
+سیکھنا	تم سیکھو گی	V;2;PL;SBJV;FEM
+سیکھنا	سیکھ رہے تھے	V;1;PL;PROG;PST;MASC
+سیکھنا	سیکھتی ہوں	V;1;PL;HAB;SBJV;FEM
+سیکھنا	سیکھتی ہو	V;2;PL;HAB;PRS;FEM
+سیکھنا	سیکھا ہو	V;2;SG;PRF;SBJV;MASC
+سیکھنا	سیکھتی ہو گی	V;3;SG;HAB;LGSPEC3;FEM
+سیکھنا	سیکھتا ہوتا	V;2;SG;HAB;LGSPEC4;MASC
+سیکھنا	سیکھ رہے ہوں گے	V;1;PL;PROG;LGSPEC3;MASC
+سیکھنا	سیکھی ہوں	V;1;SG;PRF;SBJV;FEM
+سیکھنا	سیکھتی ہوں گی	V;1;PL;HAB;LGSPEC3;FEM
+سیکھنا	سیکھے	V;V.PTCP;MASC;PL;PFV
+سیکھنا	سیکھتی ہوتی	V;2;PL;HAB;LGSPEC4;FEM
+سیکھنا	سیکھتی ہو گی	V;2;PL;HAB;LGSPEC3;FEM
+سیکھنا	سیکھ رہا ہوں گا	V;1;SG;PROG;LGSPEC3;MASC
+سیکھنا	سیکھتا ہے	V;3;SG;HAB;PRS;MASC
+سیکھنا	سیکھتی تھیں	V;3;PL;HAB;PST;FEM
+سیکھنا	سیکھ رہی ہے	V;3;SG;PROG;PRS;FEM
+سیکھنا	سیکھتی	V;V.PTCP;FEM;PL;IPFV
+سیکھنا	سیکھتی ہیں	V;1;PL;HAB;PRS;FEM
+سیکھنا	سیکھ رہی ہو گی	V;3;SG;PROG;LGSPEC3;FEM
+سیکھنا	سیکھتے ہو	V;2;PL;HAB;PRS;MASC
+سیکھنا	سیکھی ہیں	V;1;PL;PRF;PRS;FEM
+سیکھنا	یہ  وہ سیکھیں گے	V;3;PL;SBJV;MASC
+سیکھنا	سیکھتی ہوتی	V;1;PL;HAB;LGSPEC4;FEM
+سیکھنا	سیکھ رہا ہوتا	V;2;SG;PROG;LGSPEC4;MASC
+سیکھنا	سیکھی تھیں	V;1;PL;PRF;PST;FEM
+سیکھنا	سیکھی ہوتی	V;2;SG;PRF;LGSPEC4;FEM
+سیکھنا	تو سیکھے	V;2;SG;SBJV
+سیکھنا	سیکھی ہو	V;2;PL;PRF;PRS;FEM
+سیکھنا	سیکھتے	V;V.PTCP;MASC;PL;IPFV
+سیکھنا	سیکھا ہو گا	V;2;SG;PRF;LGSPEC3;MASC
+سیکھنا	سیکھا تھا	V;2;SG;PRF;PST;MASC
+سیکھنا	سیکھ رہا تھا	V;2;SG;PROG;PST;MASC
+سیکھنا	سیکھ رہے ہیں	V;1;PL;PROG;PRS;MASC
+سیکھنا	سیکھی تھی	V;2;SG;PRF;PST;FEM
+سیکھنا	سیکھتے تھے	V;3;PL;HAB;PST;MASC
+سیکھنا	سیکھو	V;2;SG;IMP;FORM
+سیکھنا	میں سیکھوں گی	V;1;SG;SBJV;FEM
+سیکھنا	سیکھے تھے	V;1;PL;PRF;PST;MASC
+سیکھنا	سیکھ رہی تھی	V;2;SG;PROG;PST;FEM
+سیکھنا	سیکھا ہوتا	V;2;SG;PRF;LGSPEC4;MASC
+سیکھنا	سیکھ رہی ہوتی	V;1;PL;PROG;LGSPEC4;FEM
+سیکھنا	سیکھ رہے ہوں	V;1;PL;PROG;SBJV;MASC
+سیکھنا	سیکھ رہا تھا	V;3;SG;PROG;PST;MASC
+سیکھنا	سیکھے ہوتے	V;1;PL;PRF;LGSPEC4;MASC
+سیکھنا	سیکھا ہوں گا	V;1;SG;PRF;LGSPEC3;MASC
+سیکھنا	سیکھتا تھا	V;3;SG;HAB;PST;MASC
+سیکھنا	سیکھی ہوں	V;3;PL;PRF;SBJV;FEM
+سیکھنا	سیکھ رہا ہے	V;2;SG;PROG;PRS;MASC
+سیکھنا	یہ  وہ سیکھے	V;3;SG;SBJV
+سیکھنا	سیکھی تھی	V;1;SG;PRF;PST;FEM
+سیکھنا	سیکھتی تھیں	V;1;PL;HAB;PST;FEM
+سیکھنا	سیکھی ہوتی	V;2;PL;PRF;LGSPEC4;FEM
+سیکھنا	سیکھ رہی ہوں	V;1;SG;PROG;PRS;FEM
+سیکھنا	سیکھی ہوتی	V;3;SG;PRF;LGSPEC4;FEM
+سیکھنا	سیکھا ہے	V;3;SG;PRF;PRS;MASC
+سیکھنا	سیکھتا	V;V.PTCP;MASC;SG;IPFV
+سیکھنا	سیکھے ہو	V;2;PL;PRF;SBJV;MASC
+سیکھنا	سیکھتا تھا	V;2;SG;HAB;PST;MASC
+سیکھنا	سیکھتے ہو گے	V;2;PL;HAB;LGSPEC3;MASC
+سیکھنا	سیکھتے ہوں	V;1;PL;HAB;SBJV;MASC
+سیکھنا	سیکھی ہو گی	V;3;SG;PRF;LGSPEC3;FEM
+سیکھنا	سیکھ رہے ہوں	V;3;PL;PROG;SBJV;MASC
+سیکھنا	تم سیکھو گے	V;2;PL;SBJV;MASC
+سیکھنا	سیکھ	V;2;SG;IMP;INFM
+سیکھنا	سیکھ رہی ہوتی	V;1;SG;PROG;LGSPEC4;FEM
+سیکھنا	سیکھتی تھیں	V;2;PL;HAB;PST;FEM
+سیکھنا	ہم سیکھیں	V;1;PL;SBJV
+سیکھنا	سیکھی ہوتی	V;3;PL;PRF;LGSPEC4;FEM
+سیکھنا	سیکھتی ہوتی	V;2;SG;HAB;LGSPEC4;FEM
+سیکھنا	سیکھے ہو گے	V;2;PL;PRF;LGSPEC3;MASC
+سیکھنا	سیکھ رہی ہو	V;2;PL;PROG;SBJV;FEM
+سیکھنا	سیکھی تھی	V;3;SG;PRF;PST;FEM
+سیکھنا	سیکھا	V;V.PTCP;MASC;SG;PFV
+سیکھنا	سیکھ رہے تھے	V;3;PL;PROG;PST;MASC
+سیکھنا	سیکھ رہی ہوتی	V;2;PL;PROG;LGSPEC4;FEM
+سیکھنا	سیکھ رہا ہوتا	V;3;SG;PROG;LGSPEC4;MASC
+سیکھنا	سیکھ رہے ہوں گے	V;3;PL;PROG;LGSPEC3;MASC
+سیکھنا	سیکھی تھیں	V;2;PL;PRF;PST;FEM
+سیکھنا	سیکھتے ہیں	V;1;PL;HAB;PRS;MASC
+سیکھنا	سیکھ رہی ہوتی	V;2;SG;PROG;LGSPEC4;FEM
+سیکھنا	سیکھتے تھے	V;2;PL;HAB;PST;MASC
+سیکھنا	سیکھ رہی تھیں	V;2;PL;PROG;PST;FEM
+سیکھنا	سیکھتی ہوں	V;1;SG;HAB;SBJV;FEM
+سیکھنا	سیکھتے ہوں گے	V;3;PL;HAB;LGSPEC3;MASC
+سیکھنا	سیکھتی	V;V.PTCP;FEM;SG;IPFV
+سیکھنا	سیکھ رہے ہو	V;2;PL;PROG;SBJV;MASC
+سیکھنا	سیکھ رہی ہوں گی	V;3;PL;PROG;LGSPEC3;FEM
+سیکھنا	سیکھتا ہوں	V;1;SG;HAB;PRS;MASC
+سیکھنا	میں سیکھوں	V;1;SG;SBJV
+سیکھنا	سیکھا ہوتا	V;1;SG;PRF;LGSPEC4;MASC
+چڑیا	چڑیا	N;VOC;SG
+چڑیا	چڑیاں	N;NOM;PL
+چڑیا	چڑیا	N;NOM;SG
+چڑیا	چڑیوں	N;ACC;PL
+چڑیا	چڑیا	N;ACC;SG
+چڑیا	چڑیو	N;VOC;PL
+دوڑنا	دوڑ رہا تھا	V;1;SG;PROG;PST;MASC
+دوڑنا	دوڑی ہوں	V;1;SG;PRF;PRS;FEM
+دوڑنا	دوڑے ہوں	V;1;PL;PRF;SBJV;MASC
+دوڑنا	میں دوڑوں گا	V;1;SG;SBJV;MASC
+دوڑنا	تم دوڑو	V;2;PL;SBJV
+دوڑنا	دوڑی ہوں گی	V;3;PL;PRF;LGSPEC3;FEM
+دوڑنا	یہ  وہ دوڑے گی	V;3;SG;SBJV;FEM
+دوڑنا	ہم دوڑیں گے	V;1;PL;SBJV;MASC
+دوڑنا	دوڑ رہا ہو	V;2;SG;PROG;SBJV;MASC
+دوڑنا	دوڑے ہوں	V;3;PL;PRF;SBJV;MASC
+دوڑنا	دوڑتا ہو	V;2;SG;HAB;SBJV;MASC
+دوڑنا	دوڑی ہوتی	V;1;SG;PRF;LGSPEC4;FEM
+دوڑنا	دوڑی ہے	V;3;SG;PRF;PRS;FEM
+دوڑنا	دوڑے ہیں	V;1;PL;PRF;PRS;MASC
+دوڑنا	دوڑتے ہیں	V;3;PL;HAB;PRS;MASC
+دوڑنا	دوڑ رہی ہوں	V;1;PL;PROG;SBJV;FEM
+دوڑنا	دوڑتا ہوتا	V;3;SG;HAB;LGSPEC4;MASC
+دوڑنا	دوڑ رہی ہیں	V;3;PL;PROG;PRS;FEM
+دوڑنا	دوڑ رہی تھی	V;3;SG;PROG;PST;FEM
+دوڑنا	دوڑی تھیں	V;3;PL;PRF;PST;FEM
+دوڑنا	دوڑ رہی ہوتی	V;3;SG;PROG;LGSPEC4;FEM
+دوڑنا	دوڑی ہو گی	V;2;PL;PRF;LGSPEC3;FEM
+دوڑنا	دوڑ رہی ہوں	V;3;PL;PROG;SBJV;FEM
+دوڑنا	دوڑے ہیں	V;3;PL;PRF;PRS;MASC
+دوڑنا	دوڑتے ہو	V;2;PL;HAB;SBJV;MASC
+دوڑنا	دوڑے ہوں گے	V;3;PL;PRF;LGSPEC3;MASC
+دوڑنا	دوڑی ہو گی	V;2;SG;PRF;LGSPEC3;FEM
+دوڑنا	دوڑے ہو	V;2;PL;PRF;PRS;MASC
+دوڑنا	دوڑ رہا ہوں	V;1;SG;PROG;PRS;MASC
+دوڑنا	دوڑتی ہوتی	V;3;SG;HAB;LGSPEC4;FEM
+دوڑنا	دوڑا تھا	V;1;SG;PRF;PST;MASC
+دوڑنا	دوڑی ہو	V;2;SG;PRF;SBJV;FEM
+دوڑنا	دوڑ رہے تھے	V;2;PL;PROG;PST;MASC
+دوڑنا	دوڑ رہی ہوں گی	V;1;SG;PROG;LGSPEC3;FEM
+دوڑنا	دوڑ رہا ہوتا	V;1;SG;PROG;LGSPEC4;MASC
+دوڑنا	دوڑتی ہے	V;3;SG;HAB;PRS;FEM
+دوڑنا	دوڑ رہے ہیں	V;3;PL;PROG;PRS;MASC
+دوڑنا	دوڑ رہی تھی	V;1;SG;PROG;PST;FEM
+دوڑنا	دوڑا ہوں	V;1;SG;PRF;PRS;MASC
+دوڑنا	دوڑ رہا ہو گا	V;2;SG;PROG;LGSPEC3;MASC
+دوڑنا	دوڑی	V;V.PTCP;FEM;PL;PFV
+دوڑنا	دوڑا تھا	V;3;SG;PRF;PST;MASC
+دوڑنا	یہ  وہ دوڑیں گی	V;3;PL;SBJV;FEM
+دوڑنا	دوڑی ہو	V;2;PL;PRF;SBJV;FEM
+دوڑنا	دوڑنا	V;NFIN;LGSPEC1
+دوڑنا	دوڑ رہی ہو	V;2;SG;PROG;SBJV;FEM
+دوڑنا	دوڑنے	V;NFIN;LGSPEC2
+دوڑنا	دوڑ رہا ہے	V;3;SG;PROG;PRS;MASC
+دوڑنا	دوڑتی تھی	V;2;SG;HAB;PST;FEM
+دوڑنا	دوڑتے ہوتے	V;1;PL;HAB;LGSPEC4;MASC
+دوڑنا	دوڑ رہا ہو گا	V;3;SG;PROG;LGSPEC3;MASC
+دوڑنا	دوڑتی ہیں	V;3;PL;HAB;PRS;FEM
+دوڑنا	یہ  وہ دوڑیں	V;3;PL;SBJV
+دوڑنا	دوڑتے تھے	V;1;PL;HAB;PST;MASC
+دوڑنا	دوڑا ہوتا	V;3;SG;PRF;LGSPEC4;MASC
+دوڑنا	دوڑی ہے	V;2;SG;PRF;PRS;FEM
+دوڑنا	دوڑ رہے ہو	V;2;PL;PROG;PRS;MASC
+دوڑنا	دوڑ رہی ہو گی	V;2;SG;PROG;LGSPEC3;FEM
+دوڑنا	دوڑتی ہوں گی	V;3;PL;HAB;LGSPEC3;FEM
+دوڑنا	دوڑئیے	V;2;PL;IMP;FORM
+دوڑنا	دوڑ رہا ہو	V;3;SG;PROG;SBJV;MASC
+دوڑنا	دوڑتے ہوتے	V;3;PL;HAB;LGSPEC4;MASC
+دوڑنا	دوڑے تھے	V;2;PL;PRF;PST;MASC
+دوڑنا	دوڑ رہی تھیں	V;3;PL;PROG;PST;FEM
+دوڑنا	دوڑی ہیں	V;3;PL;PRF;PRS;FEM
+دوڑنا	دوڑتا ہو	V;3;SG;HAB;SBJV;MASC
+دوڑنا	دوڑ رہی ہے	V;2;SG;PROG;PRS;FEM
+دوڑنا	دوڑتا تھا	V;1;SG;HAB;PST;MASC
+دوڑنا	تو دوڑے گی	V;2;SG;SBJV;FEM
+دوڑنا	دوڑی ہوتی	V;1;PL;PRF;LGSPEC4;FEM
+دوڑنا	دوڑ رہے ہوتے	V;1;PL;PROG;LGSPEC4;MASC
+دوڑنا	دوڑا ہوں	V;1;SG;PRF;SBJV;MASC
+دوڑنا	دوڑ رہی ہوں	V;1;SG;PROG;SBJV;FEM
+دوڑنا	دوڑتی ہے	V;2;SG;HAB;PRS;FEM
+دوڑنا	دوڑتے ہوں گے	V;1;PL;HAB;LGSPEC3;MASC
+دوڑنا	دوڑ رہی ہو گی	V;2;PL;PROG;LGSPEC3;FEM
+دوڑنا	دوڑتی ہوں	V;1;SG;HAB;PRS;FEM
+دوڑنا	دوڑتا ہوں گا	V;1;SG;HAB;LGSPEC3;MASC
+دوڑنا	دوڑتا ہو گا	V;3;SG;HAB;LGSPEC3;MASC
+دوڑنا	دوڑی	V;V.PTCP;FEM;SG;PFV
+دوڑنا	دوڑ رہی ہیں	V;1;PL;PROG;PRS;FEM
+دوڑنا	دوڑی ہوں گی	V;1;PL;PRF;LGSPEC3;FEM
+دوڑنا	دوڑتی ہو	V;3;SG;HAB;SBJV;FEM
+دوڑنا	دوڑا ہو	V;3;SG;PRF;SBJV;MASC
+دوڑنا	دوڑ رہا ہوں	V;1;SG;PROG;SBJV;MASC
+دوڑنا	دوڑی ہوں	V;1;PL;PRF;SBJV;FEM
+دوڑنا	دوڑتا ہوتا	V;1;SG;HAB;LGSPEC4;MASC
+دوڑنا	دوڑتے ہوتے	V;2;PL;HAB;LGSPEC4;MASC
+دوڑنا	دوڑے ہوتے	V;2;PL;PRF;LGSPEC4;MASC
+دوڑنا	دوڑتا ہوں	V;1;SG;HAB;SBJV;MASC
+دوڑنا	دوڑ رہی ہوں گی	V;1;PL;PROG;LGSPEC3;FEM
+دوڑنا	دوڑی ہو	V;3;SG;PRF;SBJV;FEM
+دوڑنا	یہ  وہ دوڑے گا	V;3;SG;SBJV;MASC
+دوڑنا	دوڑتی تھی	V;3;SG;HAB;PST;FEM
+دوڑنا	دوڑتی تھی	V;1;SG;HAB;PST;FEM
+دوڑنا	دوڑ رہے ہو گے	V;2;PL;PROG;LGSPEC3;MASC
+دوڑنا	دوڑتی ہوتی	V;3;PL;HAB;LGSPEC4;FEM
+دوڑنا	دوڑے ہوتے	V;3;PL;PRF;LGSPEC4;MASC
+دوڑنا	دوڑ رہی ہو	V;2;PL;PROG;PRS;FEM
+دوڑنا	دوڑتا ہے	V;2;SG;HAB;PRS;MASC
+دوڑنا	دوڑتی ہوں گی	V;1;SG;HAB;LGSPEC3;FEM
+دوڑنا	دوڑتی ہو	V;2;SG;HAB;SBJV;FEM
+دوڑنا	دوڑتی ہوتی	V;1;SG;HAB;LGSPEC4;FEM
+دوڑنا	دوڑ رہے ہوتے	V;3;PL;PROG;LGSPEC4;MASC
+دوڑنا	دوڑتے ہوں	V;3;PL;HAB;SBJV;MASC
+دوڑنا	دوڑی ہوں گی	V;1;SG;PRF;LGSPEC3;FEM
+دوڑنا	دوڑے ہوں گے	V;1;PL;PRF;LGSPEC3;MASC
+دوڑنا	دوڑتی ہو	V;2;PL;HAB;SBJV;FEM
+دوڑنا	دوڑتا ہو گا	V;2;SG;HAB;LGSPEC3;MASC
+دوڑنا	دوڑ رہے ہوتے	V;2;PL;PROG;LGSPEC4;MASC
+دوڑنا	دوڑا ہے	V;2;SG;PRF;PRS;MASC
+دوڑنا	دوڑ رہی ہو	V;3;SG;PROG;SBJV;FEM
+دوڑنا	دوڑا ہو گا	V;3;SG;PRF;LGSPEC3;MASC
+دوڑنا	دوڑ رہی تھیں	V;1;PL;PROG;PST;FEM
+دوڑنا	ہم دوڑیں گی	V;1;PL;SBJV;FEM
+دوڑنا	تو دوڑے گا	V;2;SG;SBJV;MASC
+دوڑنا	دوڑ رہی ہوتی	V;3;PL;PROG;LGSPEC4;FEM
+دوڑنا	دوڑتی ہو گی	V;2;SG;HAB;LGSPEC3;FEM
+دوڑنا	دوڑے تھے	V;3;PL;PRF;PST;MASC
+دوڑنا	دوڑتی ہوں	V;3;PL;HAB;SBJV;FEM
+دوڑنا	تم دوڑو گی	V;2;PL;SBJV;FEM
+دوڑنا	دوڑ رہے تھے	V;1;PL;PROG;PST;MASC
+دوڑنا	دوڑتی ہوں	V;1;PL;HAB;SBJV;FEM
+دوڑنا	دوڑتی ہو	V;2;PL;HAB;PRS;FEM
+دوڑنا	دوڑا ہو	V;2;SG;PRF;SBJV;MASC
+دوڑنا	دوڑتی ہو گی	V;3;SG;HAB;LGSPEC3;FEM
+دوڑنا	دوڑتا ہوتا	V;2;SG;HAB;LGSPEC4;MASC
+دوڑنا	دوڑ رہے ہوں گے	V;1;PL;PROG;LGSPEC3;MASC
+دوڑنا	دوڑی ہوں	V;1;SG;PRF;SBJV;FEM
+دوڑنا	دوڑتی ہوں گی	V;1;PL;HAB;LGSPEC3;FEM
+دوڑنا	دوڑے	V;V.PTCP;MASC;PL;PFV
+دوڑنا	دوڑتی ہوتی	V;2;PL;HAB;LGSPEC4;FEM
+دوڑنا	دوڑتی ہو گی	V;2;PL;HAB;LGSPEC3;FEM
+دوڑنا	دوڑ رہا ہوں گا	V;1;SG;PROG;LGSPEC3;MASC
+دوڑنا	دوڑتا ہے	V;3;SG;HAB;PRS;MASC
+دوڑنا	دوڑتی تھیں	V;3;PL;HAB;PST;FEM
+دوڑنا	دوڑ رہی ہے	V;3;SG;PROG;PRS;FEM
+دوڑنا	دوڑتی	V;V.PTCP;FEM;PL;IPFV
+دوڑنا	دوڑتی ہیں	V;1;PL;HAB;PRS;FEM
+دوڑنا	دوڑ رہی ہو گی	V;3;SG;PROG;LGSPEC3;FEM
+دوڑنا	دوڑتے ہو	V;2;PL;HAB;PRS;MASC
+دوڑنا	دوڑی ہیں	V;1;PL;PRF;PRS;FEM
+دوڑنا	یہ  وہ دوڑیں گے	V;3;PL;SBJV;MASC
+دوڑنا	دوڑتی ہوتی	V;1;PL;HAB;LGSPEC4;FEM
+دوڑنا	دوڑ رہا ہوتا	V;2;SG;PROG;LGSPEC4;MASC
+دوڑنا	دوڑی تھیں	V;1;PL;PRF;PST;FEM
+دوڑنا	دوڑی ہوتی	V;2;SG;PRF;LGSPEC4;FEM
+دوڑنا	تو دوڑے	V;2;SG;SBJV
+دوڑنا	دوڑی ہو	V;2;PL;PRF;PRS;FEM
+دوڑنا	دوڑتے	V;V.PTCP;MASC;PL;IPFV
+دوڑنا	دوڑا ہو گا	V;2;SG;PRF;LGSPEC3;MASC
+دوڑنا	دوڑا تھا	V;2;SG;PRF;PST;MASC
+دوڑنا	دوڑ رہا تھا	V;2;SG;PROG;PST;MASC
+دوڑنا	دوڑ رہے ہیں	V;1;PL;PROG;PRS;MASC
+دوڑنا	دوڑی تھی	V;2;SG;PRF;PST;FEM
+دوڑنا	دوڑتے تھے	V;3;PL;HAB;PST;MASC
+دوڑنا	دوڑو	V;2;SG;IMP;FORM
+دوڑنا	میں دوڑوں گی	V;1;SG;SBJV;FEM
+دوڑنا	دوڑے تھے	V;1;PL;PRF;PST;MASC
+دوڑنا	دوڑ رہی تھی	V;2;SG;PROG;PST;FEM
+دوڑنا	دوڑا ہوتا	V;2;SG;PRF;LGSPEC4;MASC
+دوڑنا	دوڑ رہی ہوتی	V;1;PL;PROG;LGSPEC4;FEM
+دوڑنا	دوڑ رہے ہوں	V;1;PL;PROG;SBJV;MASC
+دوڑنا	دوڑ رہا تھا	V;3;SG;PROG;PST;MASC
+دوڑنا	دوڑے ہوتے	V;1;PL;PRF;LGSPEC4;MASC
+دوڑنا	دوڑا ہوں گا	V;1;SG;PRF;LGSPEC3;MASC
+دوڑنا	دوڑتا تھا	V;3;SG;HAB;PST;MASC
+دوڑنا	دوڑی ہوں	V;3;PL;PRF;SBJV;FEM
+دوڑنا	دوڑ رہا ہے	V;2;SG;PROG;PRS;MASC
+دوڑنا	یہ  وہ دوڑے	V;3;SG;SBJV
+دوڑنا	دوڑی تھی	V;1;SG;PRF;PST;FEM
+دوڑنا	دوڑتی تھیں	V;1;PL;HAB;PST;FEM
+دوڑنا	دوڑی ہوتی	V;2;PL;PRF;LGSPEC4;FEM
+دوڑنا	دوڑ رہی ہوں	V;1;SG;PROG;PRS;FEM
+دوڑنا	دوڑی ہوتی	V;3;SG;PRF;LGSPEC4;FEM
+دوڑنا	دوڑا ہے	V;3;SG;PRF;PRS;MASC
+دوڑنا	دوڑتا	V;V.PTCP;MASC;SG;IPFV
+دوڑنا	دوڑے ہو	V;2;PL;PRF;SBJV;MASC
+دوڑنا	دوڑتا تھا	V;2;SG;HAB;PST;MASC
+دوڑنا	دوڑتے ہو گے	V;2;PL;HAB;LGSPEC3;MASC
+دوڑنا	دوڑتے ہوں	V;1;PL;HAB;SBJV;MASC
+دوڑنا	دوڑی ہو گی	V;3;SG;PRF;LGSPEC3;FEM
+دوڑنا	دوڑ رہے ہوں	V;3;PL;PROG;SBJV;MASC
+دوڑنا	تم دوڑو گے	V;2;PL;SBJV;MASC
+دوڑنا	دوڑ	V;2;SG;IMP;INFM
+دوڑنا	دوڑ رہی ہوتی	V;1;SG;PROG;LGSPEC4;FEM
+دوڑنا	دوڑتی تھیں	V;2;PL;HAB;PST;FEM
+دوڑنا	ہم دوڑیں	V;1;PL;SBJV
+دوڑنا	دوڑی ہوتی	V;3;PL;PRF;LGSPEC4;FEM
+دوڑنا	دوڑتی ہوتی	V;2;SG;HAB;LGSPEC4;FEM
+دوڑنا	دوڑے ہو گے	V;2;PL;PRF;LGSPEC3;MASC
+دوڑنا	دوڑ رہی ہو	V;2;PL;PROG;SBJV;FEM
+دوڑنا	دوڑی تھی	V;3;SG;PRF;PST;FEM
+دوڑنا	دوڑا	V;V.PTCP;MASC;SG;PFV
+دوڑنا	دوڑ رہے تھے	V;3;PL;PROG;PST;MASC
+دوڑنا	دوڑ رہی ہوتی	V;2;PL;PROG;LGSPEC4;FEM
+دوڑنا	دوڑ رہا ہوتا	V;3;SG;PROG;LGSPEC4;MASC
+دوڑنا	دوڑ رہے ہوں گے	V;3;PL;PROG;LGSPEC3;MASC
+دوڑنا	دوڑی تھیں	V;2;PL;PRF;PST;FEM
+دوڑنا	دوڑتے ہیں	V;1;PL;HAB;PRS;MASC
+دوڑنا	دوڑ رہی ہوتی	V;2;SG;PROG;LGSPEC4;FEM
+دوڑنا	دوڑتے تھے	V;2;PL;HAB;PST;MASC
+دوڑنا	دوڑ رہی تھیں	V;2;PL;PROG;PST;FEM
+دوڑنا	دوڑتی ہوں	V;1;SG;HAB;SBJV;FEM
+دوڑنا	دوڑتے ہوں گے	V;3;PL;HAB;LGSPEC3;MASC
+دوڑنا	دوڑتی	V;V.PTCP;FEM;SG;IPFV
+دوڑنا	دوڑ رہے ہو	V;2;PL;PROG;SBJV;MASC
+دوڑنا	دوڑ رہی ہوں گی	V;3;PL;PROG;LGSPEC3;FEM
+دوڑنا	دوڑتا ہوں	V;1;SG;HAB;PRS;MASC
+دوڑنا	میں دوڑوں	V;1;SG;SBJV
+دوڑنا	دوڑا ہوتا	V;1;SG;PRF;LGSPEC4;MASC
+آنکھ	آنکھ	N;VOC;SG
+آنکھ	آنکھیں	N;NOM;PL
+آنکھ	آنکھ	N;NOM;SG
+آنکھ	آنکھوں	N;ACC;PL
+آنکھ	آنکھ	N;ACC;SG
+آنکھ	آنکھو	N;VOC;PL
+سانس	سانس	N;VOC;SG
+سانس	سانسیں	N;NOM;PL
+سانس	سانس	N;NOM;SG
+سانس	سانسوں	N;ACC;PL
+سانس	سانس	N;ACC;SG
+سانس	سانسو	N;VOC;PL
+دیکھنا	دیکھ رہا تھا	V;1;SG;PROG;PST;MASC
+دیکھنا	دیکھی ہوں	V;1;SG;PRF;PRS;FEM
+دیکھنا	دیکھے ہوں	V;1;PL;PRF;SBJV;MASC
+دیکھنا	میں دیکھوں گا	V;1;SG;SBJV;MASC
+دیکھنا	تم دیکھو	V;2;PL;SBJV
+دیکھنا	دیکھی ہوں گی	V;3;PL;PRF;LGSPEC3;FEM
+دیکھنا	یہ  وہ دیکھے گی	V;3;SG;SBJV;FEM
+دیکھنا	ہم دیکھیں گے	V;1;PL;SBJV;MASC
+دیکھنا	دیکھ رہا ہو	V;2;SG;PROG;SBJV;MASC
+دیکھنا	دیکھے ہوں	V;3;PL;PRF;SBJV;MASC
+دیکھنا	دیکھتا ہو	V;2;SG;HAB;SBJV;MASC
+دیکھنا	دیکھی ہوتی	V;1;SG;PRF;LGSPEC4;FEM
+دیکھنا	دیکھی ہے	V;3;SG;PRF;PRS;FEM
+دیکھنا	دیکھے ہیں	V;1;PL;PRF;PRS;MASC
+دیکھنا	دیکھتے ہیں	V;3;PL;HAB;PRS;MASC
+دیکھنا	دیکھ رہی ہوں	V;1;PL;PROG;SBJV;FEM
+دیکھنا	دیکھتا ہوتا	V;3;SG;HAB;LGSPEC4;MASC
+دیکھنا	دیکھ رہی ہیں	V;3;PL;PROG;PRS;FEM
+دیکھنا	دیکھ رہی تھی	V;3;SG;PROG;PST;FEM
+دیکھنا	دیکھی تھیں	V;3;PL;PRF;PST;FEM
+دیکھنا	دیکھ رہی ہوتی	V;3;SG;PROG;LGSPEC4;FEM
+دیکھنا	دیکھی ہو گی	V;2;PL;PRF;LGSPEC3;FEM
+دیکھنا	دیکھ رہی ہوں	V;3;PL;PROG;SBJV;FEM
+دیکھنا	دیکھے ہیں	V;3;PL;PRF;PRS;MASC
+دیکھنا	دیکھتے ہو	V;2;PL;HAB;SBJV;MASC
+دیکھنا	دیکھے ہوں گے	V;3;PL;PRF;LGSPEC3;MASC
+دیکھنا	دیکھی ہو گی	V;2;SG;PRF;LGSPEC3;FEM
+دیکھنا	دیکھے ہو	V;2;PL;PRF;PRS;MASC
+دیکھنا	دیکھ رہا ہوں	V;1;SG;PROG;PRS;MASC
+دیکھنا	دیکھتی ہوتی	V;3;SG;HAB;LGSPEC4;FEM
+دیکھنا	دیکھا تھا	V;1;SG;PRF;PST;MASC
+دیکھنا	دیکھی ہو	V;2;SG;PRF;SBJV;FEM
+دیکھنا	دیکھ رہے تھے	V;2;PL;PROG;PST;MASC
+دیکھنا	دیکھ رہی ہوں گی	V;1;SG;PROG;LGSPEC3;FEM
+دیکھنا	دیکھ رہا ہوتا	V;1;SG;PROG;LGSPEC4;MASC
+دیکھنا	دیکھتی ہے	V;3;SG;HAB;PRS;FEM
+دیکھنا	دیکھ رہے ہیں	V;3;PL;PROG;PRS;MASC
+دیکھنا	دیکھ رہی تھی	V;1;SG;PROG;PST;FEM
+دیکھنا	دیکھا ہوں	V;1;SG;PRF;PRS;MASC
+دیکھنا	دیکھ رہا ہو گا	V;2;SG;PROG;LGSPEC3;MASC
+دیکھنا	دیکھی	V;V.PTCP;FEM;PL;PFV
+دیکھنا	دیکھا تھا	V;3;SG;PRF;PST;MASC
+دیکھنا	یہ  وہ دیکھیں گی	V;3;PL;SBJV;FEM
+دیکھنا	دیکھی ہو	V;2;PL;PRF;SBJV;FEM
+دیکھنا	دیکھنا	V;NFIN;LGSPEC1
+دیکھنا	دیکھ رہی ہو	V;2;SG;PROG;SBJV;FEM
+دیکھنا	دیکھنے	V;NFIN;LGSPEC2
+دیکھنا	دیکھ رہا ہے	V;3;SG;PROG;PRS;MASC
+دیکھنا	دیکھتی تھی	V;2;SG;HAB;PST;FEM
+دیکھنا	دیکھتے ہوتے	V;1;PL;HAB;LGSPEC4;MASC
+دیکھنا	دیکھ رہا ہو گا	V;3;SG;PROG;LGSPEC3;MASC
+دیکھنا	دیکھتی ہیں	V;3;PL;HAB;PRS;FEM
+دیکھنا	یہ  وہ دیکھیں	V;3;PL;SBJV
+دیکھنا	دیکھتے تھے	V;1;PL;HAB;PST;MASC
+دیکھنا	دیکھا ہوتا	V;3;SG;PRF;LGSPEC4;MASC
+دیکھنا	دیکھی ہے	V;2;SG;PRF;PRS;FEM
+دیکھنا	دیکھ رہے ہو	V;2;PL;PROG;PRS;MASC
+دیکھنا	دیکھ رہی ہو گی	V;2;SG;PROG;LGSPEC3;FEM
+دیکھنا	دیکھتی ہوں گی	V;3;PL;HAB;LGSPEC3;FEM
+دیکھنا	دیکھئیے	V;2;PL;IMP;FORM
+دیکھنا	دیکھ رہا ہو	V;3;SG;PROG;SBJV;MASC
+دیکھنا	دیکھتے ہوتے	V;3;PL;HAB;LGSPEC4;MASC
+دیکھنا	دیکھے تھے	V;2;PL;PRF;PST;MASC
+دیکھنا	دیکھ رہی تھیں	V;3;PL;PROG;PST;FEM
+دیکھنا	دیکھی ہیں	V;3;PL;PRF;PRS;FEM
+دیکھنا	دیکھتا ہو	V;3;SG;HAB;SBJV;MASC
+دیکھنا	دیکھ رہی ہے	V;2;SG;PROG;PRS;FEM
+دیکھنا	دیکھتا تھا	V;1;SG;HAB;PST;MASC
+دیکھنا	تو دیکھے گی	V;2;SG;SBJV;FEM
+دیکھنا	دیکھی ہوتی	V;1;PL;PRF;LGSPEC4;FEM
+دیکھنا	دیکھ رہے ہوتے	V;1;PL;PROG;LGSPEC4;MASC
+دیکھنا	دیکھا ہوں	V;1;SG;PRF;SBJV;MASC
+دیکھنا	دیکھ رہی ہوں	V;1;SG;PROG;SBJV;FEM
+دیکھنا	دیکھتی ہے	V;2;SG;HAB;PRS;FEM
+دیکھنا	دیکھتے ہوں گے	V;1;PL;HAB;LGSPEC3;MASC
+دیکھنا	دیکھ رہی ہو گی	V;2;PL;PROG;LGSPEC3;FEM
+دیکھنا	دیکھتی ہوں	V;1;SG;HAB;PRS;FEM
+دیکھنا	دیکھتا ہوں گا	V;1;SG;HAB;LGSPEC3;MASC
+دیکھنا	دیکھتا ہو گا	V;3;SG;HAB;LGSPEC3;MASC
+دیکھنا	دیکھی	V;V.PTCP;FEM;SG;PFV
+دیکھنا	دیکھ رہی ہیں	V;1;PL;PROG;PRS;FEM
+دیکھنا	دیکھی ہوں گی	V;1;PL;PRF;LGSPEC3;FEM
+دیکھنا	دیکھتی ہو	V;3;SG;HAB;SBJV;FEM
+دیکھنا	دیکھا ہو	V;3;SG;PRF;SBJV;MASC
+دیکھنا	دیکھ رہا ہوں	V;1;SG;PROG;SBJV;MASC
+دیکھنا	دیکھی ہوں	V;1;PL;PRF;SBJV;FEM
+دیکھنا	دیکھتا ہوتا	V;1;SG;HAB;LGSPEC4;MASC
+دیکھنا	دیکھتے ہوتے	V;2;PL;HAB;LGSPEC4;MASC
+دیکھنا	دیکھے ہوتے	V;2;PL;PRF;LGSPEC4;MASC
+دیکھنا	دیکھتا ہوں	V;1;SG;HAB;SBJV;MASC
+دیکھنا	دیکھ رہی ہوں گی	V;1;PL;PROG;LGSPEC3;FEM
+دیکھنا	دیکھی ہو	V;3;SG;PRF;SBJV;FEM
+دیکھنا	یہ  وہ دیکھے گا	V;3;SG;SBJV;MASC
+دیکھنا	دیکھتی تھی	V;3;SG;HAB;PST;FEM
+دیکھنا	دیکھتی تھی	V;1;SG;HAB;PST;FEM
+دیکھنا	دیکھ رہے ہو گے	V;2;PL;PROG;LGSPEC3;MASC
+دیکھنا	دیکھتی ہوتی	V;3;PL;HAB;LGSPEC4;FEM
+دیکھنا	دیکھے ہوتے	V;3;PL;PRF;LGSPEC4;MASC
+دیکھنا	دیکھ رہی ہو	V;2;PL;PROG;PRS;FEM
+دیکھنا	دیکھتا ہے	V;2;SG;HAB;PRS;MASC
+دیکھنا	دیکھتی ہوں گی	V;1;SG;HAB;LGSPEC3;FEM
+دیکھنا	دیکھتی ہو	V;2;SG;HAB;SBJV;FEM
+دیکھنا	دیکھتی ہوتی	V;1;SG;HAB;LGSPEC4;FEM
+دیکھنا	دیکھ رہے ہوتے	V;3;PL;PROG;LGSPEC4;MASC
+دیکھنا	دیکھتے ہوں	V;3;PL;HAB;SBJV;MASC
+دیکھنا	دیکھی ہوں گی	V;1;SG;PRF;LGSPEC3;FEM
+دیکھنا	دیکھے ہوں گے	V;1;PL;PRF;LGSPEC3;MASC
+دیکھنا	دیکھتی ہو	V;2;PL;HAB;SBJV;FEM
+دیکھنا	دیکھتا ہو گا	V;2;SG;HAB;LGSPEC3;MASC
+دیکھنا	دیکھ رہے ہوتے	V;2;PL;PROG;LGSPEC4;MASC
+دیکھنا	دیکھا ہے	V;2;SG;PRF;PRS;MASC
+دیکھنا	دیکھ رہی ہو	V;3;SG;PROG;SBJV;FEM
+دیکھنا	دیکھا ہو گا	V;3;SG;PRF;LGSPEC3;MASC
+دیکھنا	دیکھ رہی تھیں	V;1;PL;PROG;PST;FEM
+دیکھنا	ہم دیکھیں گی	V;1;PL;SBJV;FEM
+دیکھنا	تو دیکھے گا	V;2;SG;SBJV;MASC
+دیکھنا	دیکھ رہی ہوتی	V;3;PL;PROG;LGSPEC4;FEM
+دیکھنا	دیکھتی ہو گی	V;2;SG;HAB;LGSPEC3;FEM
+دیکھنا	دیکھے تھے	V;3;PL;PRF;PST;MASC
+دیکھنا	دیکھتی ہوں	V;3;PL;HAB;SBJV;FEM
+دیکھنا	تم دیکھو گی	V;2;PL;SBJV;FEM
+دیکھنا	دیکھ رہے تھے	V;1;PL;PROG;PST;MASC
+دیکھنا	دیکھتی ہوں	V;1;PL;HAB;SBJV;FEM
+دیکھنا	دیکھتی ہو	V;2;PL;HAB;PRS;FEM
+دیکھنا	دیکھا ہو	V;2;SG;PRF;SBJV;MASC
+دیکھنا	دیکھتی ہو گی	V;3;SG;HAB;LGSPEC3;FEM
+دیکھنا	دیکھتا ہوتا	V;2;SG;HAB;LGSPEC4;MASC
+دیکھنا	دیکھ رہے ہوں گے	V;1;PL;PROG;LGSPEC3;MASC
+دیکھنا	دیکھی ہوں	V;1;SG;PRF;SBJV;FEM
+دیکھنا	دیکھتی ہوں گی	V;1;PL;HAB;LGSPEC3;FEM
+دیکھنا	دیکھے	V;V.PTCP;MASC;PL;PFV
+دیکھنا	دیکھتی ہوتی	V;2;PL;HAB;LGSPEC4;FEM
+دیکھنا	دیکھتی ہو گی	V;2;PL;HAB;LGSPEC3;FEM
+دیکھنا	دیکھ رہا ہوں گا	V;1;SG;PROG;LGSPEC3;MASC
+دیکھنا	دیکھتا ہے	V;3;SG;HAB;PRS;MASC
+دیکھنا	دیکھتی تھیں	V;3;PL;HAB;PST;FEM
+دیکھنا	دیکھ رہی ہے	V;3;SG;PROG;PRS;FEM
+دیکھنا	دیکھتی	V;V.PTCP;FEM;PL;IPFV
+دیکھنا	دیکھتی ہیں	V;1;PL;HAB;PRS;FEM
+دیکھنا	دیکھ رہی ہو گی	V;3;SG;PROG;LGSPEC3;FEM
+دیکھنا	دیکھتے ہو	V;2;PL;HAB;PRS;MASC
+دیکھنا	دیکھی ہیں	V;1;PL;PRF;PRS;FEM
+دیکھنا	یہ  وہ دیکھیں گے	V;3;PL;SBJV;MASC
+دیکھنا	دیکھتی ہوتی	V;1;PL;HAB;LGSPEC4;FEM
+دیکھنا	دیکھ رہا ہوتا	V;2;SG;PROG;LGSPEC4;MASC
+دیکھنا	دیکھی تھیں	V;1;PL;PRF;PST;FEM
+دیکھنا	دیکھی ہوتی	V;2;SG;PRF;LGSPEC4;FEM
+دیکھنا	تو دیکھے	V;2;SG;SBJV
+دیکھنا	دیکھی ہو	V;2;PL;PRF;PRS;FEM
+دیکھنا	دیکھتے	V;V.PTCP;MASC;PL;IPFV
+دیکھنا	دیکھا ہو گا	V;2;SG;PRF;LGSPEC3;MASC
+دیکھنا	دیکھا تھا	V;2;SG;PRF;PST;MASC
+دیکھنا	دیکھ رہا تھا	V;2;SG;PROG;PST;MASC
+دیکھنا	دیکھ رہے ہیں	V;1;PL;PROG;PRS;MASC
+دیکھنا	دیکھی تھی	V;2;SG;PRF;PST;FEM
+دیکھنا	دیکھتے تھے	V;3;PL;HAB;PST;MASC
+دیکھنا	دیکھو	V;2;SG;IMP;FORM
+دیکھنا	میں دیکھوں گی	V;1;SG;SBJV;FEM
+دیکھنا	دیکھے تھے	V;1;PL;PRF;PST;MASC
+دیکھنا	دیکھ رہی تھی	V;2;SG;PROG;PST;FEM
+دیکھنا	دیکھا ہوتا	V;2;SG;PRF;LGSPEC4;MASC
+دیکھنا	دیکھ رہی ہوتی	V;1;PL;PROG;LGSPEC4;FEM
+دیکھنا	دیکھ رہے ہوں	V;1;PL;PROG;SBJV;MASC
+دیکھنا	دیکھ رہا تھا	V;3;SG;PROG;PST;MASC
+دیکھنا	دیکھے ہوتے	V;1;PL;PRF;LGSPEC4;MASC
+دیکھنا	دیکھا ہوں گا	V;1;SG;PRF;LGSPEC3;MASC
+دیکھنا	دیکھتا تھا	V;3;SG;HAB;PST;MASC
+دیکھنا	دیکھی ہوں	V;3;PL;PRF;SBJV;FEM
+دیکھنا	دیکھ رہا ہے	V;2;SG;PROG;PRS;MASC
+دیکھنا	یہ  وہ دیکھے	V;3;SG;SBJV
+دیکھنا	دیکھی تھی	V;1;SG;PRF;PST;FEM
+دیکھنا	دیکھتی تھیں	V;1;PL;HAB;PST;FEM
+دیکھنا	دیکھی ہوتی	V;2;PL;PRF;LGSPEC4;FEM
+دیکھنا	دیکھ رہی ہوں	V;1;SG;PROG;PRS;FEM
+دیکھنا	دیکھی ہوتی	V;3;SG;PRF;LGSPEC4;FEM
+دیکھنا	دیکھا ہے	V;3;SG;PRF;PRS;MASC
+دیکھنا	دیکھتا	V;V.PTCP;MASC;SG;IPFV
+دیکھنا	دیکھے ہو	V;2;PL;PRF;SBJV;MASC
+دیکھنا	دیکھتا تھا	V;2;SG;HAB;PST;MASC
+دیکھنا	دیکھتے ہو گے	V;2;PL;HAB;LGSPEC3;MASC
+دیکھنا	دیکھتے ہوں	V;1;PL;HAB;SBJV;MASC
+دیکھنا	دیکھی ہو گی	V;3;SG;PRF;LGSPEC3;FEM
+دیکھنا	دیکھ رہے ہوں	V;3;PL;PROG;SBJV;MASC
+دیکھنا	تم دیکھو گے	V;2;PL;SBJV;MASC
+دیکھنا	دیکھ	V;2;SG;IMP;INFM
+دیکھنا	دیکھ رہی ہوتی	V;1;SG;PROG;LGSPEC4;FEM
+دیکھنا	دیکھتی تھیں	V;2;PL;HAB;PST;FEM
+دیکھنا	ہم دیکھیں	V;1;PL;SBJV
+دیکھنا	دیکھی ہوتی	V;3;PL;PRF;LGSPEC4;FEM
+دیکھنا	دیکھتی ہوتی	V;2;SG;HAB;LGSPEC4;FEM
+دیکھنا	دیکھے ہو گے	V;2;PL;PRF;LGSPEC3;MASC
+دیکھنا	دیکھ رہی ہو	V;2;PL;PROG;SBJV;FEM
+دیکھنا	دیکھی تھی	V;3;SG;PRF;PST;FEM
+دیکھنا	دیکھا	V;V.PTCP;MASC;SG;PFV
+دیکھنا	دیکھ رہے تھے	V;3;PL;PROG;PST;MASC
+دیکھنا	دیکھ رہی ہوتی	V;2;PL;PROG;LGSPEC4;FEM
+دیکھنا	دیکھ رہا ہوتا	V;3;SG;PROG;LGSPEC4;MASC
+دیکھنا	دیکھ رہے ہوں گے	V;3;PL;PROG;LGSPEC3;MASC
+دیکھنا	دیکھی تھیں	V;2;PL;PRF;PST;FEM
+دیکھنا	دیکھتے ہیں	V;1;PL;HAB;PRS;MASC
+دیکھنا	دیکھ رہی ہوتی	V;2;SG;PROG;LGSPEC4;FEM
+دیکھنا	دیکھتے تھے	V;2;PL;HAB;PST;MASC
+دیکھنا	دیکھ رہی تھیں	V;2;PL;PROG;PST;FEM
+دیکھنا	دیکھتی ہوں	V;1;SG;HAB;SBJV;FEM
+دیکھنا	دیکھتے ہوں گے	V;3;PL;HAB;LGSPEC3;MASC
+دیکھنا	دیکھتی	V;V.PTCP;FEM;SG;IPFV
+دیکھنا	دیکھ رہے ہو	V;2;PL;PROG;SBJV;MASC
+دیکھنا	دیکھ رہی ہوں گی	V;3;PL;PROG;LGSPEC3;FEM
+دیکھنا	دیکھتا ہوں	V;1;SG;HAB;PRS;MASC
+دیکھنا	میں دیکھوں	V;1;SG;SBJV
+دیکھنا	دیکھا ہوتا	V;1;SG;PRF;LGSPEC4;MASC
+روٹی	روٹی	N;VOC;SG
+روٹی	روٹیاں	N;NOM;PL
+روٹی	روٹی	N;NOM;SG
+روٹی	روٹیوں	N;ACC;PL
+روٹی	روٹی	N;ACC;SG
+روٹی	روٹیو	N;VOC;PL
+کنارہ	کنارے	N;NOM;PL
+کنارہ	کنارے	N;VOC;SG
+کنارہ	کنارہ	N;NOM;SG
+کنارہ	کناروں	N;ACC;PL
+کنارہ	کنارے	N;ACC;SG
+کنارہ	کنارو	N;VOC;PL
+لڑکا	لڑکے	N;NOM;PL
+لڑکا	لڑکے	N;VOC;SG
+لڑکا	لڑکا	N;NOM;SG
+لڑکا	لڑکوں	N;ACC;PL
+لڑکا	لڑکے	N;ACC;SG
+لڑکا	لڑکو	N;VOC;PL
+وعدہ	وعدے	N;NOM;PL
+وعدہ	وعدے	N;VOC;SG
+وعدہ	وعدہ	N;NOM;SG
+وعدہ	وعدوں	N;ACC;PL
+وعدہ	وعدے	N;ACC;SG
+وعدہ	وعدو	N;VOC;PL
+لسان	لسان	N;VOC;SG
+لسان	لسانیں	N;NOM;PL
+لسان	لسان	N;NOM;SG
+لسان	لسانوں	N;ACC;PL
+لسان	لسان	N;ACC;SG
+لسان	لسانو	N;VOC;PL
+دودھ	دودھ	N;NOM;PL
+دودھ	دودھ	N;VOC;SG
+دودھ	دودھ	N;NOM;SG
+دودھ	دودھوں	N;ACC;PL
+دودھ	دودھ	N;ACC;SG
+دودھ	دودھو	N;VOC;PL

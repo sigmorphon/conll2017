@@ -1,0 +1,1739 @@
+hukata	ette ole hukanneet	V;ACT;PRS;PRF;NEG;IND;2;PL
+hukata	ette liene hukanneet	V;ACT;PRS;PRF;NEG;POT;2;PL
+hukata	hukatkoon	V;ACT;PRS;POS;IMP;3;SG
+hukata	ette olleet hukanneet	V;ACT;PST;PRF;NEG;IND;2;PL
+hukata	hukkaisi	V;ACT;PRS;POS;COND;3;SG
+hukata	et hukkaa	V;ACT;PRS;NEG;IND;2;SG
+hukata	eivät hukanne	V;ACT;PRS;NEG;POT;3;PL
+hukata	älä ole hukannut	V;ACT;PRS;PRF;NEG;IMP;2;SG
+hukata	olette hukanneet	V;ACT;PRS;PRF;POS;IND;2;PL
+hukata	emme olisi hukanneet	V;ACT;PRS;PRF;NEG;COND;1;PL
+hukata	älköön olko hukattu	V;PASS;PRS;PRF;NEG;IMP
+hukata	hukkasit	V;ACT;PST;POS;IND;2;SG
+hukata	olemme hukanneet	V;ACT;PRS;PRF;POS;IND;1;PL
+hukata	hukkasimme	V;ACT;PST;POS;IND;1;PL
+hukata	et olisi hukannut	V;ACT;PRS;PRF;NEG;COND;2;SG
+hukata	hukannet	V;ACT;PRS;POS;POT;2;SG
+hukata	hukannevat	V;ACT;PRS;POS;POT;3;PL
+hukata	ei ollut hukannut	V;ACT;PST;PRF;NEG;IND;3;SG
+hukata	älkööt hukatko	V;ACT;PRS;NEG;IMP;3;PL
+hukata	oli hukannut	V;ACT;PST;PRF;POS;IND;3;SG
+hukata	hukkasi	V;ACT;PST;POS;IND;3;SG
+hukata	hukattiin	V;PASS;PST;POS;IND
+hukata	olisitte hukanneet	V;ACT;PRS;PRF;POS;COND;2;PL
+hukata	et hukkaisi	V;ACT;PRS;NEG;COND;2;SG
+hukata	älköön olko hukannut	V;ACT;PRS;PRF;NEG;IMP;3;SG
+hukata	lienet hukannut	V;ACT;PRS;PRF;POS;POT;2;SG
+hukata	ei hukattane	V;PASS;PRS;NEG;POT
+hukata	ei hukkaisi	V;ACT;PRS;NEG;COND;3;SG
+hukata	olkaamme hukanneet	V;ACT;PRS;PRF;POS;IMP;1;PL
+hukata	lienemme hukanneet	V;ACT;PRS;PRF;POS;POT;1;PL
+hukata	ei liene hukattu	V;PASS;PRS;PRF;NEG;POT
+hukata	hukkaa	V;ACT;PRS;POS;IMP;2;SG
+hukata	ei hukkaa	V;ACT;PRS;NEG;IND;3;SG
+hukata	ei hukata	V;PASS;PRS;NEG;IND
+hukata	olkaa hukanneet	V;ACT;PRS;PRF;POS;IMP;2;PL
+hukata	en hukkaisi	V;ACT;PRS;NEG;COND;1;SG
+hukata	ei ollut hukattu	V;PASS;PST;PRF;NEG;IND
+hukata	älkää hukatko	V;ACT;PRS;NEG;IMP;2;PL
+hukata	ei ole hukannut	V;ACT;PRS;PRF;NEG;IND;3;SG
+hukata	emme hukanne	V;ACT;PRS;NEG;POT;1;PL
+hukata	emme liene hukanneet	V;ACT;PRS;PRF;NEG;POT;1;PL
+hukata	oli hukattu	V;PASS;PST;PRF;POS;IND
+hukata	en ollut hukannut	V;ACT;PST;PRF;NEG;IND;1;SG
+hukata	hukkaisimme	V;ACT;PRS;POS;COND;1;PL
+hukata	älköön hukatko	V;ACT;PRS;NEG;IMP;3;SG
+hukata	ei liene hukannut	V;ACT;PRS;PRF;NEG;POT;3;SG
+hukata	älkäämme olko hukanneet	V;ACT;PRS;PRF;NEG;IMP;1;PL
+hukata	hukattaisiin	V;PASS;PRS;POS;COND
+hukata	et hukanne	V;ACT;PRS;NEG;POT;2;SG
+hukata	ei hukattu	V;PASS;PST;NEG;IND
+hukata	emme hukanneet	V;ACT;PST;NEG;IND;1;PL
+hukata	ei ole hukattu	V;PASS;PRS;PRF;NEG;IND
+hukata	et ole hukannut	V;ACT;PRS;PRF;NEG;IND;2;SG
+hukata	et ollut hukannut	V;ACT;PST;PRF;NEG;IND;2;SG
+hukata	olet hukannut	V;ACT;PRS;PRF;POS;IND;2;SG
+hukata	en olisi hukannut	V;ACT;PRS;PRF;NEG;COND;1;SG
+hukata	hukata	V;NFIN
+hukata	en hukkaa	V;ACT;PRS;NEG;IND;1;SG
+hukata	hukkaatte	V;ACT;PRS;POS;IND;2;PL
+hukata	on hukannut	V;ACT;PRS;PRF;POS;IND;3;SG
+hukata	olisivat hukanneet	V;ACT;PRS;PRF;POS;COND;3;PL
+hukata	hukkaisivat	V;ACT;PRS;POS;COND;3;PL
+hukata	hukannette	V;ACT;PRS;POS;POT;2;PL
+hukata	hukkasin	V;ACT;PST;POS;IND;1;SG
+hukata	hukkaisin	V;ACT;PRS;POS;COND;1;SG
+hukata	olisi hukannut	V;ACT;PRS;PRF;POS;COND;3;SG
+hukata	lienee hukattu	V;PASS;PRS;PRF;POS;POT
+hukata	hukkaan	V;ACT;PRS;POS;IND;1;SG
+hukata	olisin hukannut	V;ACT;PRS;PRF;POS;COND;1;SG
+hukata	hukkaa	V;ACT;PRS;POS;IND;3;SG
+hukata	olen hukannut	V;ACT;PRS;PRF;POS;IND;1;SG
+hukata	hukataan	V;PASS;PRS;POS;IND
+hukata	hukkaava	V.PTCP;ACT;PRS
+hukata	emme olleet hukanneet	V;ACT;PST;PRF;NEG;IND;1;PL
+hukata	olitte hukanneet	V;ACT;PST;PRF;POS;IND;2;PL
+hukata	olivat hukanneet	V;ACT;PST;PRF;POS;IND;3;PL
+hukata	ei hukannut	V;ACT;PST;NEG;IND;3;SG
+hukata	emme hukkaa	V;ACT;PRS;NEG;IND;1;PL
+hukata	olkoon hukattu	V;PASS;PRS;PRF;POS;IMP
+hukata	emme ole hukanneet	V;ACT;PRS;PRF;NEG;IND;1;PL
+hukata	olin hukannut	V;ACT;PST;PRF;POS;IND;1;SG
+hukata	eivät hukkaisi	V;ACT;PRS;NEG;COND;3;PL
+hukata	ei olisi hukattu	V;PASS;PRS;PRF;NEG;COND
+hukata	olisimme hukanneet	V;ACT;PRS;PRF;POS;COND;1;PL
+hukata	älä hukkaa	V;ACT;PRS;NEG;IMP;2;SG
+hukata	ei hukattaisi	V;PASS;PRS;NEG;COND
+hukata	emme hukkaisi	V;ACT;PRS;NEG;COND;1;PL
+hukata	olkoon hukannut	V;ACT;PRS;PRF;POS;IMP;3;SG
+hukata	ei olisi hukannut	V;ACT;PRS;PRF;NEG;COND;3;SG
+hukata	lienette hukanneet	V;ACT;PRS;PRF;POS;POT;2;PL
+hukata	hukannut	V.PTCP;ACT;PST
+hukata	en hukanne	V;ACT;PRS;NEG;POT;1;SG
+hukata	älköön hukattako	V;PASS;PRS;NEG;IMP
+hukata	lienen hukannut	V;ACT;PRS;PRF;POS;POT;1;SG
+hukata	ette olisi hukanneet	V;ACT;PRS;PRF;NEG;COND;2;PL
+hukata	eivät liene hukanneet	V;ACT;PRS;PRF;NEG;POT;3;PL
+hukata	hukannemme	V;ACT;PRS;POS;POT;1;PL
+hukata	ette hukanne	V;ACT;PRS;NEG;POT;2;PL
+hukata	hukatkaamme	V;ACT;PRS;POS;IMP;1;PL
+hukata	ette hukanneet	V;ACT;PST;NEG;IND;2;PL
+hukata	eivät hukanneet	V;ACT;PST;NEG;IND;3;PL
+hukata	en ole hukannut	V;ACT;PRS;PRF;NEG;IND;1;SG
+hukata	hukattu	V.PTCP;PASS;PST
+hukata	hukkasivat	V;ACT;PST;POS;IND;3;PL
+hukata	eivät olisi hukanneet	V;ACT;PRS;PRF;NEG;COND;3;PL
+hukata	hukkaisit	V;ACT;PRS;POS;COND;2;SG
+hukata	olkoot hukanneet	V;ACT;PRS;PRF;POS;IMP;3;PL
+hukata	älkäämme hukatko	V;ACT;PRS;NEG;IMP;1;PL
+hukata	en hukannut	V;ACT;PST;NEG;IND;1;SG
+hukata	ette hukkaisi	V;ACT;PRS;NEG;COND;2;PL
+hukata	olisi hukattu	V;PASS;PRS;PRF;POS;COND
+hukata	eivät ole hukanneet	V;ACT;PRS;PRF;NEG;IND;3;PL
+hukata	et hukannut	V;ACT;PST;NEG;IND;2;SG
+hukata	eivät hukkaa	V;ACT;PRS;NEG;IND;3;PL
+hukata	lienevät hukanneet	V;ACT;PRS;PRF;POS;POT;3;PL
+hukata	ovat hukanneet	V;ACT;PRS;PRF;POS;IND;3;PL
+hukata	hukatkaa	V;ACT;PRS;POS;IMP;2;PL
+hukata	ole hukannut	V;ACT;PRS;PRF;POS;IMP;2;SG
+hukata	lienee hukannut	V;ACT;PRS;PRF;POS;POT;3;SG
+hukata	hukkaamme	V;ACT;PRS;POS;IND;1;PL
+hukata	hukattava	V.PTCP;PASS;PRS
+hukata	hukattakoon	V;PASS;PRS;POS;IMP
+hukata	hukannee	V;ACT;PRS;POS;POT;3;SG
+hukata	ette hukkaa	V;ACT;PRS;NEG;IND;2;PL
+hukata	en liene hukannut	V;ACT;PRS;PRF;NEG;POT;1;SG
+hukata	eivät olleet hukanneet	V;ACT;PST;PRF;NEG;IND;3;PL
+hukata	hukkaavat	V;ACT;PRS;POS;IND;3;PL
+hukata	et liene hukannut	V;ACT;PRS;PRF;NEG;POT;2;SG
+hukata	älkää olko hukanneet	V;ACT;PRS;PRF;NEG;IMP;2;PL
+hukata	hukannen	V;ACT;PRS;POS;POT;1;SG
+hukata	hukkaat	V;ACT;PRS;POS;IND;2;SG
+hukata	hukatkoot	V;ACT;PRS;POS;IMP;3;PL
+hukata	hukkaisitte	V;ACT;PRS;POS;COND;2;PL
+hukata	hukkasitte	V;ACT;PST;POS;IND;2;PL
+hukata	olit hukannut	V;ACT;PST;PRF;POS;IND;2;SG
+hukata	ei hukanne	V;ACT;PRS;NEG;POT;3;SG
+hukata	on hukattu	V;PASS;PRS;PRF;POS;IND
+hukata	olisit hukannut	V;ACT;PRS;PRF;POS;COND;2;SG
+hukata	olimme hukanneet	V;ACT;PST;PRF;POS;IND;1;PL
+hukata	älkööt olko hukanneet	V;ACT;PRS;PRF;NEG;IMP;3;PL
+hukata	hukattaneen	V;PASS;PRS;POS;POT
+agentuuri	agentuureina	N;FRML;PL
+agentuuri	agentuureja	N;PRT;PL
+agentuuri	agentuurilla	N;AT+ESS;SG
+agentuuri	agentuurissa	N;IN+ESS;SG
+agentuuri	agentuuria	N;PRT;SG
+agentuuri	agentuurista	N;IN+ABL;SG
+agentuuri	agentuureista	N;IN+ABL;PL
+agentuuri	agentuurien	N;GEN;PL
+agentuuri	agentuuriin	N;IN+ALL;SG
+agentuuri	agentuurein	N;INS;PL
+agentuuri	agentuuri	N;NOM;SG
+agentuuri	agentuureilta	N;AT+ABL;PL
+agentuuri	agentuurina	N;FRML;SG
+agentuuri	agentuurit	N;ACC;PL
+agentuuri	agentuureille	N;AT+ALL;PL
+agentuuri	agentuuritta	N;PRIV;SG
+agentuuri	agentuureilla	N;AT+ESS;PL
+agentuuri	agentuureiksi	N;TRANS;PL
+agentuuri	agentuureissa	N;IN+ESS;PL
+agentuuri	agentuureineen	N;COM;PL
+agentuuri	agentuuriksi	N;TRANS;SG
+agentuuri	agentuurin	N;GEN;SG
+agentuuri	agentuurille	N;AT+ALL;SG
+agentuuri	agentuureihin	N;IN+ALL;PL
+agentuuri	agentuurit	N;NOM;PL
+agentuuri	agentuuri	N;ACC;SG
+agentuuri	agentuurilta	N;AT+ABL;SG
+agentuuri	agentuureitta	N;PRIV;PL
+kaksosveli	kaksosveljeksi	N;TRANS;SG
+kaksosveli	kaksosveljet	N;NOM;PL
+kaksosveli	kaksosveljellä	N;AT+ESS;SG
+kaksosveli	kaksosveljessä	N;IN+ESS;SG
+kaksosveli	kaksosveljiksi	N;TRANS;PL
+kaksosveli	kaksosveljestä	N;IN+ABL;SG
+kaksosveli	kaksosveljien	N;GEN;PL
+kaksosveli	kaksosveljeen	N;IN+ALL;SG
+kaksosveli	kaksosveljeä	N;PRT;SG
+kaksosveli	kaksosveljin	N;INS;PL
+kaksosveli	kaksosveljinä	N;FRML;PL
+kaksosveli	kaksosveljiä	N;PRT;PL
+kaksosveli	kaksosveljiltä	N;AT+ABL;PL
+kaksosveli	kaksosveljenä	N;FRML;SG
+kaksosveli	kaksosveljet	N;ACC;PL
+kaksosveli	kaksosveljille	N;AT+ALL;PL
+kaksosveli	kaksosveljettä	N;PRIV;SG
+kaksosveli	kaksosveljillä	N;AT+ESS;PL
+kaksosveli	kaksosveli	N;NOM;SG
+kaksosveli	kaksosveljissä	N;IN+ESS;PL
+kaksosveli	kaksosveljineen	N;COM;PL
+kaksosveli	kaksosveljistä	N;IN+ABL;PL
+kaksosveli	kaksosveljen	N;GEN;SG
+kaksosveli	kaksosveljelle	N;AT+ALL;SG
+kaksosveli	kaksosveljiin	N;IN+ALL;PL
+kaksosveli	kaksosveli	N;ACC;SG
+kaksosveli	kaksosveljeltä	N;AT+ABL;SG
+kaksosveli	kaksosveljittä	N;PRIV;PL
+kaide	kaiteeksi	N;TRANS;SG
+kaide	kaiteet	N;NOM;PL
+kaide	kaiteella	N;AT+ESS;SG
+kaide	kaiteessa	N;IN+ESS;SG
+kaide	kaiteiksi	N;TRANS;PL
+kaide	kaiteesta	N;IN+ABL;SG
+kaide	kaiteiden	N;GEN;PL
+kaide	kaiteeseen	N;IN+ALL;SG
+kaide	kaidetta	N;PRT;SG
+kaide	kaitein	N;INS;PL
+kaide	kaiteina	N;FRML;PL
+kaide	kaiteita	N;PRT;PL
+kaide	kaiteilta	N;AT+ABL;PL
+kaide	kaiteena	N;FRML;SG
+kaide	kaiteet	N;ACC;PL
+kaide	kaiteille	N;AT+ALL;PL
+kaide	kaiteetta	N;PRIV;SG
+kaide	kaiteilla	N;AT+ESS;PL
+kaide	kaide	N;NOM;SG
+kaide	kaiteissa	N;IN+ESS;PL
+kaide	kaiteine	N;COM;PL
+kaide	kaiteista	N;IN+ABL;PL
+kaide	kaiteen	N;GEN;SG
+kaide	kaiteelle	N;AT+ALL;SG
+kaide	kaiteisiin	N;IN+ALL;PL
+kaide	kaide	N;ACC;SG
+kaide	kaiteelta	N;AT+ABL;SG
+kaide	kaiteitta	N;PRIV;PL
+kirurgia	kirurgiaksi	N;TRANS;SG
+kirurgia	kirurgiat	N;NOM;PL
+kirurgia	kirurgialla	N;AT+ESS;SG
+kirurgia	kirurgiassa	N;IN+ESS;SG
+kirurgia	kirurgia	N;NOM;SG
+kirurgia	kirurgiasta	N;IN+ABL;SG
+kirurgia	kirurgioiden	N;GEN;PL
+kirurgia	kirurgiaan	N;IN+ALL;SG
+kirurgia	kirurgiaa	N;PRT;SG
+kirurgia	kirurgioin	N;INS;PL
+kirurgia	kirurgioina	N;FRML;PL
+kirurgia	kirurgioita	N;PRT;PL
+kirurgia	kirurgioilta	N;AT+ABL;PL
+kirurgia	kirurgiana	N;FRML;SG
+kirurgia	kirurgiat	N;ACC;PL
+kirurgia	kirurgioille	N;AT+ALL;PL
+kirurgia	kirurgiatta	N;PRIV;SG
+kirurgia	kirurgioilla	N;AT+ESS;PL
+kirurgia	kirurgioiksi	N;TRANS;PL
+kirurgia	kirurgioissa	N;IN+ESS;PL
+kirurgia	kirurgioineen	N;COM;PL
+kirurgia	kirurgioista	N;IN+ABL;PL
+kirurgia	kirurgian	N;GEN;SG
+kirurgia	kirurgialle	N;AT+ALL;SG
+kirurgia	kirurgioihin	N;IN+ALL;PL
+kirurgia	kirurgia	N;ACC;SG
+kirurgia	kirurgialta	N;AT+ABL;SG
+kirurgia	kirurgioitta	N;PRIV;PL
+veski	veskeinä	N;FRML;PL
+veski	veskejä	N;PRT;PL
+veski	veskillä	N;AT+ESS;SG
+veski	veskissä	N;IN+ESS;SG
+veski	veskiä	N;PRT;SG
+veski	veskistä	N;IN+ABL;SG
+veski	veskeistä	N;IN+ABL;PL
+veski	veskien	N;GEN;PL
+veski	veskiin	N;IN+ALL;SG
+veski	veskein	N;INS;PL
+veski	veski	N;NOM;SG
+veski	veskeiltä	N;AT+ABL;PL
+veski	veskinä	N;FRML;SG
+veski	veskit	N;ACC;PL
+veski	veskeille	N;AT+ALL;PL
+veski	veskittä	N;PRIV;SG
+veski	veskeillä	N;AT+ESS;PL
+veski	veskeiksi	N;TRANS;PL
+veski	veskeissä	N;IN+ESS;PL
+veski	veskeineen	N;COM;PL
+veski	veskiksi	N;TRANS;SG
+veski	veskin	N;GEN;SG
+veski	veskille	N;AT+ALL;SG
+veski	veskeihin	N;IN+ALL;PL
+veski	veskit	N;NOM;PL
+veski	veski	N;ACC;SG
+veski	veskiltä	N;AT+ABL;SG
+veski	veskeittä	N;PRIV;PL
+purje	purjeeksi	N;TRANS;SG
+purje	purjeet	N;NOM;PL
+purje	purjeella	N;AT+ESS;SG
+purje	purjeessa	N;IN+ESS;SG
+purje	purje	N;NOM;SG
+purje	purjeesta	N;IN+ABL;SG
+purje	purjeiden	N;GEN;PL
+purje	purjeeseen	N;IN+ALL;SG
+purje	purjetta	N;PRT;SG
+purje	purjein	N;INS;PL
+purje	purjeina	N;FRML;PL
+purje	purjeita	N;PRT;PL
+purje	purjeilta	N;AT+ABL;PL
+purje	purjeena	N;FRML;SG
+purje	purjeet	N;ACC;PL
+purje	purjeille	N;AT+ALL;PL
+purje	purjeetta	N;PRIV;SG
+purje	purjeilla	N;AT+ESS;PL
+purje	purjeiksi	N;TRANS;PL
+purje	purjeissa	N;IN+ESS;PL
+purje	purjeineen	N;COM;PL
+purje	purjeista	N;IN+ABL;PL
+purje	purjeen	N;GEN;SG
+purje	purjeelle	N;AT+ALL;SG
+purje	purjeisiin	N;IN+ALL;PL
+purje	purje	N;ACC;SG
+purje	purjeelta	N;AT+ABL;SG
+purje	purjeitta	N;PRIV;PL
+jaos	jaokseksi	N;TRANS;SG
+jaos	jaokset	N;NOM;PL
+jaos	jaoksella	N;AT+ESS;SG
+jaos	jaoksessa	N;IN+ESS;SG
+jaos	jaos	N;NOM;SG
+jaos	jaoksesta	N;IN+ABL;SG
+jaos	jaosten	N;GEN;PL
+jaos	jaokseen	N;IN+ALL;SG
+jaos	jaosta	N;PRT;SG
+jaos	jaoksin	N;INS;PL
+jaos	jaoksina	N;FRML;PL
+jaos	jaoksia	N;PRT;PL
+jaos	jaoksilta	N;AT+ABL;PL
+jaos	jaoksena	N;FRML;SG
+jaos	jaokset	N;ACC;PL
+jaos	jaoksille	N;AT+ALL;PL
+jaos	jaoksetta	N;PRIV;SG
+jaos	jaoksilla	N;AT+ESS;PL
+jaos	jaoksiksi	N;TRANS;PL
+jaos	jaoksissa	N;IN+ESS;PL
+jaos	jaoksineen	N;COM;PL
+jaos	jaoksista	N;IN+ABL;PL
+jaos	jaoksen	N;GEN;SG
+jaos	jaokselle	N;AT+ALL;SG
+jaos	jaoksiin	N;IN+ALL;PL
+jaos	jaos	N;ACC;SG
+jaos	jaokselta	N;AT+ABL;SG
+jaos	jaoksitta	N;PRIV;PL
+orkaani	orkaaneina	N;FRML;PL
+orkaani	orkaaneja	N;PRT;PL
+orkaani	orkaanilla	N;AT+ESS;SG
+orkaani	orkaanissa	N;IN+ESS;SG
+orkaani	orkaania	N;PRT;SG
+orkaani	orkaanista	N;IN+ABL;SG
+orkaani	orkaaneista	N;IN+ABL;PL
+orkaani	orkaanien	N;GEN;PL
+orkaani	orkaaniin	N;IN+ALL;SG
+orkaani	orkaanein	N;INS;PL
+orkaani	orkaani	N;NOM;SG
+orkaani	orkaaneilta	N;AT+ABL;PL
+orkaani	orkaanina	N;FRML;SG
+orkaani	orkaanit	N;ACC;PL
+orkaani	orkaaneille	N;AT+ALL;PL
+orkaani	orkaanitta	N;PRIV;SG
+orkaani	orkaaneilla	N;AT+ESS;PL
+orkaani	orkaaneiksi	N;TRANS;PL
+orkaani	orkaaneissa	N;IN+ESS;PL
+orkaani	orkaaneineen	N;COM;PL
+orkaani	orkaaniksi	N;TRANS;SG
+orkaani	orkaanin	N;GEN;SG
+orkaani	orkaanille	N;AT+ALL;SG
+orkaani	orkaaneihin	N;IN+ALL;PL
+orkaani	orkaanit	N;NOM;PL
+orkaani	orkaani	N;ACC;SG
+orkaani	orkaanilta	N;AT+ABL;SG
+orkaani	orkaaneitta	N;PRIV;PL
+edukas	edukkaaseen	ADJ;IN+ALL;SG
+edukas	edukkaalle	ADJ;AT+ALL;SG
+edukas	edukkaiksi	ADJ;TRANS;PL
+edukas	edukkailla	ADJ;AT+ESS;PL
+edukas	edukas	ADJ;ACC;SG
+edukas	edukkaalta	ADJ;AT+ABL;SG
+edukas	edukkaille	ADJ;AT+ALL;PL
+edukas	edukasta	ADJ;PRT;SG
+edukas	edukkaina	ADJ;FRML;PL
+edukas	edukkaissa	ADJ;IN+ESS;PL
+edukas	edukkaista	ADJ;IN+ABL;PL
+edukas	edukkaat	ADJ;NOM;PL
+edukas	edukkaitta	ADJ;PRIV;PL
+edukas	edukkaan	ADJ;GEADJ;SG
+edukas	edukkaalla	ADJ;AT+ESS;SG
+edukas	edukkaine	ADJ;COM;PL
+edukas	edukkaat	ADJ;ACC;PL
+edukas	edukkain	ADJ;INS;PL
+edukas	edukkaisiin	ADJ;IN+ALL;PL
+edukas	edukkaaksi	ADJ;TRANS;SG
+edukas	edukkailta	ADJ;AT+ABL;PL
+edukas	edukkaana	ADJ;FRML;SG
+edukas	edukkaita	ADJ;PRT;PL
+edukas	edukkaatta	ADJ;PRIV;SG
+edukas	edukas	ADJ;NOM;SG
+edukas	edukkaiden	ADJ;GEADJ;PL
+edukas	edukkaassa	ADJ;IN+ESS;SG
+edukas	edukkaasta	ADJ;IN+ABL;SG
+tunnustus	tunnustukseksi	N;TRANS;SG
+tunnustus	tunnustukset	N;NOM;PL
+tunnustus	tunnustuksella	N;AT+ESS;SG
+tunnustus	tunnustuksessa	N;IN+ESS;SG
+tunnustus	tunnustus	N;NOM;SG
+tunnustus	tunnustuksesta	N;IN+ABL;SG
+tunnustus	tunnustusten	N;GEN;PL
+tunnustus	tunnustukseen	N;IN+ALL;SG
+tunnustus	tunnustusta	N;PRT;SG
+tunnustus	tunnustuksin	N;INS;PL
+tunnustus	tunnustuksina	N;FRML;PL
+tunnustus	tunnustuksia	N;PRT;PL
+tunnustus	tunnustuksilta	N;AT+ABL;PL
+tunnustus	tunnustuksena	N;FRML;SG
+tunnustus	tunnustukset	N;ACC;PL
+tunnustus	tunnustuksille	N;AT+ALL;PL
+tunnustus	tunnustuksetta	N;PRIV;SG
+tunnustus	tunnustuksilla	N;AT+ESS;PL
+tunnustus	tunnustuksiksi	N;TRANS;PL
+tunnustus	tunnustuksissa	N;IN+ESS;PL
+tunnustus	tunnustuksineen	N;COM;PL
+tunnustus	tunnustuksista	N;IN+ABL;PL
+tunnustus	tunnustuksen	N;GEN;SG
+tunnustus	tunnustukselle	N;AT+ALL;SG
+tunnustus	tunnustuksiin	N;IN+ALL;PL
+tunnustus	tunnustus	N;ACC;SG
+tunnustus	tunnustukselta	N;AT+ABL;SG
+tunnustus	tunnustuksitta	N;PRIV;PL
+jahkailla	ette ole jahkailleet	V;ACT;PRS;PRF;NEG;IND;2;PL
+jahkailla	ette liene jahkailleet	V;ACT;PRS;PRF;NEG;POT;2;PL
+jahkailla	jahkailkoon	V;ACT;PRS;POS;IMP;3;SG
+jahkailla	ette olleet jahkailleet	V;ACT;PST;PRF;NEG;IND;2;PL
+jahkailla	jahkailisi	V;ACT;PRS;POS;COND;3;SG
+jahkailla	et jahkaile	V;ACT;PRS;NEG;IND;2;SG
+jahkailla	eivät jahkaille	V;ACT;PRS;NEG;POT;3;PL
+jahkailla	älä ole jahkaillut	V;ACT;PRS;PRF;NEG;IMP;2;SG
+jahkailla	olette jahkailleet	V;ACT;PRS;PRF;POS;IND;2;PL
+jahkailla	emme olisi jahkailleet	V;ACT;PRS;PRF;NEG;COND;1;PL
+jahkailla	älköön olko jahkailtu	V;PASS;PRS;PRF;NEG;IMP
+jahkailla	jahkailit	V;ACT;PST;POS;IND;2;SG
+jahkailla	olemme jahkailleet	V;ACT;PRS;PRF;POS;IND;1;PL
+jahkailla	et olisi jahkaillut	V;ACT;PRS;PRF;NEG;COND;2;SG
+jahkailla	jahkaillet	V;ACT;PRS;POS;POT;2;SG
+jahkailla	jahkaillevat	V;ACT;PRS;POS;POT;3;PL
+jahkailla	ei ollut jahkaillut	V;ACT;PST;PRF;NEG;IND;3;SG
+jahkailla	älkööt jahkailko	V;ACT;PRS;NEG;IMP;3;PL
+jahkailla	oli jahkaillut	V;ACT;PST;PRF;POS;IND;3;SG
+jahkailla	jahkaili	V;ACT;PST;POS;IND;3;SG
+jahkailla	jahkailtiin	V;PASS;PST;POS;IND
+jahkailla	olisitte jahkailleet	V;ACT;PRS;PRF;POS;COND;2;PL
+jahkailla	et jahkailisi	V;ACT;PRS;NEG;COND;2;SG
+jahkailla	älköön olko jahkaillut	V;ACT;PRS;PRF;NEG;IMP;3;SG
+jahkailla	lienet jahkaillut	V;ACT;PRS;PRF;POS;POT;2;SG
+jahkailla	ei jahkailtane	V;PASS;PRS;NEG;POT
+jahkailla	ei jahkailisi	V;ACT;PRS;NEG;COND;3;SG
+jahkailla	olkaamme jahkailleet	V;ACT;PRS;PRF;POS;IMP;1;PL
+jahkailla	lienemme jahkailleet	V;ACT;PRS;PRF;POS;POT;1;PL
+jahkailla	ei liene jahkailtu	V;PASS;PRS;PRF;NEG;POT
+jahkailla	jahkaile	V;ACT;PRS;POS;IMP;2;SG
+jahkailla	ei jahkaile	V;ACT;PRS;NEG;IND;3;SG
+jahkailla	ei jahkailla	V;PASS;PRS;NEG;IND
+jahkailla	olkaa jahkailleet	V;ACT;PRS;PRF;POS;IMP;2;PL
+jahkailla	en jahkailisi	V;ACT;PRS;NEG;COND;1;SG
+jahkailla	ei ollut jahkailtu	V;PASS;PST;PRF;NEG;IND
+jahkailla	älkää jahkailko	V;ACT;PRS;NEG;IMP;2;PL
+jahkailla	jahkailemme	V;ACT;PRS;POS;IND;1;PL
+jahkailla	ei ole jahkaillut	V;ACT;PRS;PRF;NEG;IND;3;SG
+jahkailla	emme jahkaille	V;ACT;PRS;NEG;POT;1;PL
+jahkailla	emme liene jahkailleet	V;ACT;PRS;PRF;NEG;POT;1;PL
+jahkailla	oli jahkailtu	V;PASS;PST;PRF;POS;IND
+jahkailla	en ollut jahkaillut	V;ACT;PST;PRF;NEG;IND;1;SG
+jahkailla	jahkailisimme	V;ACT;PRS;POS;COND;1;PL
+jahkailla	älköön jahkailko	V;ACT;PRS;NEG;IMP;3;SG
+jahkailla	ei liene jahkaillut	V;ACT;PRS;PRF;NEG;POT;3;SG
+jahkailla	älkäämme olko jahkailleet	V;ACT;PRS;PRF;NEG;IMP;1;PL
+jahkailla	jahkailtaisiin	V;PASS;PRS;POS;COND
+jahkailla	et jahkaille	V;ACT;PRS;NEG;POT;2;SG
+jahkailla	ei jahkailtu	V;PASS;PST;NEG;IND
+jahkailla	emme jahkailleet	V;ACT;PST;NEG;IND;1;PL
+jahkailla	ei ole jahkailtu	V;PASS;PRS;PRF;NEG;IND
+jahkailla	et ole jahkaillut	V;ACT;PRS;PRF;NEG;IND;2;SG
+jahkailla	et ollut jahkaillut	V;ACT;PST;PRF;NEG;IND;2;SG
+jahkailla	olet jahkaillut	V;ACT;PRS;PRF;POS;IND;2;SG
+jahkailla	en olisi jahkaillut	V;ACT;PRS;PRF;NEG;COND;1;SG
+jahkailla	jahkailla	V;NFIN
+jahkailla	en jahkaile	V;ACT;PRS;NEG;IND;1;SG
+jahkailla	jahkailette	V;ACT;PRS;POS;IND;2;PL
+jahkailla	on jahkaillut	V;ACT;PRS;PRF;POS;IND;3;SG
+jahkailla	olisivat jahkailleet	V;ACT;PRS;PRF;POS;COND;3;PL
+jahkailla	jahkaillen	V;ACT;PRS;POS;POT;1;SG
+jahkailla	jahkaillette	V;ACT;PRS;POS;POT;2;PL
+jahkailla	jahkailin	V;ACT;PST;POS;IND;1;SG
+jahkailla	jahkailisin	V;ACT;PRS;POS;COND;1;SG
+jahkailla	olisi jahkaillut	V;ACT;PRS;PRF;POS;COND;3;SG
+jahkailla	lienee jahkailtu	V;PASS;PRS;PRF;POS;POT
+jahkailla	jahkailen	V;ACT;PRS;POS;IND;1;SG
+jahkailla	olisin jahkaillut	V;ACT;PRS;PRF;POS;COND;1;SG
+jahkailla	jahkailee	V;ACT;PRS;POS;IND;3;SG
+jahkailla	olen jahkaillut	V;ACT;PRS;PRF;POS;IND;1;SG
+jahkailla	jahkaillaan	V;PASS;PRS;POS;IND
+jahkailla	jahkaileva	V.PTCP;ACT;PRS
+jahkailla	emme olleet jahkailleet	V;ACT;PST;PRF;NEG;IND;1;PL
+jahkailla	olitte jahkailleet	V;ACT;PST;PRF;POS;IND;2;PL
+jahkailla	olivat jahkailleet	V;ACT;PST;PRF;POS;IND;3;PL
+jahkailla	ei jahkaillut	V;ACT;PST;NEG;IND;3;SG
+jahkailla	emme jahkaile	V;ACT;PRS;NEG;IND;1;PL
+jahkailla	olkoon jahkailtu	V;PASS;PRS;PRF;POS;IMP
+jahkailla	emme ole jahkailleet	V;ACT;PRS;PRF;NEG;IND;1;PL
+jahkailla	olin jahkaillut	V;ACT;PST;PRF;POS;IND;1;SG
+jahkailla	eivät jahkailisi	V;ACT;PRS;NEG;COND;3;PL
+jahkailla	ei olisi jahkailtu	V;PASS;PRS;PRF;NEG;COND
+jahkailla	olisimme jahkailleet	V;ACT;PRS;PRF;POS;COND;1;PL
+jahkailla	älä jahkaile	V;ACT;PRS;NEG;IMP;2;SG
+jahkailla	jahkailimme	V;ACT;PST;POS;IND;1;PL
+jahkailla	emme jahkailisi	V;ACT;PRS;NEG;COND;1;PL
+jahkailla	olkoon jahkaillut	V;ACT;PRS;PRF;POS;IMP;3;SG
+jahkailla	ei olisi jahkaillut	V;ACT;PRS;PRF;NEG;COND;3;SG
+jahkailla	lienette jahkailleet	V;ACT;PRS;PRF;POS;POT;2;PL
+jahkailla	jahkaillut	V.PTCP;ACT;PST
+jahkailla	en jahkaille	V;ACT;PRS;NEG;POT;1;SG
+jahkailla	älköön jahkailtako	V;PASS;PRS;NEG;IMP
+jahkailla	lienen jahkaillut	V;ACT;PRS;PRF;POS;POT;1;SG
+jahkailla	ette olisi jahkailleet	V;ACT;PRS;PRF;NEG;COND;2;PL
+jahkailla	eivät liene jahkailleet	V;ACT;PRS;PRF;NEG;POT;3;PL
+jahkailla	jahkaillemme	V;ACT;PRS;POS;POT;1;PL
+jahkailla	ette jahkaille	V;ACT;PRS;NEG;POT;2;PL
+jahkailla	jahkailkaamme	V;ACT;PRS;POS;IMP;1;PL
+jahkailla	ette jahkailleet	V;ACT;PST;NEG;IND;2;PL
+jahkailla	eivät jahkailleet	V;ACT;PST;NEG;IND;3;PL
+jahkailla	en ole jahkaillut	V;ACT;PRS;PRF;NEG;IND;1;SG
+jahkailla	jahkailtu	V.PTCP;PASS;PST
+jahkailla	jahkailivat	V;ACT;PST;POS;IND;3;PL
+jahkailla	eivät olisi jahkailleet	V;ACT;PRS;PRF;NEG;COND;3;PL
+jahkailla	jahkailisit	V;ACT;PRS;POS;COND;2;SG
+jahkailla	olkoot jahkailleet	V;ACT;PRS;PRF;POS;IMP;3;PL
+jahkailla	älkäämme jahkailko	V;ACT;PRS;NEG;IMP;1;PL
+jahkailla	en jahkaillut	V;ACT;PST;NEG;IND;1;SG
+jahkailla	ette jahkailisi	V;ACT;PRS;NEG;COND;2;PL
+jahkailla	olisi jahkailtu	V;PASS;PRS;PRF;POS;COND
+jahkailla	eivät ole jahkailleet	V;ACT;PRS;PRF;NEG;IND;3;PL
+jahkailla	et jahkaillut	V;ACT;PST;NEG;IND;2;SG
+jahkailla	eivät jahkaile	V;ACT;PRS;NEG;IND;3;PL
+jahkailla	lienevät jahkailleet	V;ACT;PRS;PRF;POS;POT;3;PL
+jahkailla	ovat jahkailleet	V;ACT;PRS;PRF;POS;IND;3;PL
+jahkailla	jahkailkaa	V;ACT;PRS;POS;IMP;2;PL
+jahkailla	ole jahkaillut	V;ACT;PRS;PRF;POS;IMP;2;SG
+jahkailla	lienee jahkaillut	V;ACT;PRS;PRF;POS;POT;3;SG
+jahkailla	ei jahkailtaisi	V;PASS;PRS;NEG;COND
+jahkailla	jahkailtava	V.PTCP;PASS;PRS
+jahkailla	jahkailtakoon	V;PASS;PRS;POS;IMP
+jahkailla	jahkaillee	V;ACT;PRS;POS;POT;3;SG
+jahkailla	ette jahkaile	V;ACT;PRS;NEG;IND;2;PL
+jahkailla	en liene jahkaillut	V;ACT;PRS;PRF;NEG;POT;1;SG
+jahkailla	eivät olleet jahkailleet	V;ACT;PST;PRF;NEG;IND;3;PL
+jahkailla	jahkailevat	V;ACT;PRS;POS;IND;3;PL
+jahkailla	et liene jahkaillut	V;ACT;PRS;PRF;NEG;POT;2;SG
+jahkailla	älkää olko jahkailleet	V;ACT;PRS;PRF;NEG;IMP;2;PL
+jahkailla	jahkailisivat	V;ACT;PRS;POS;COND;3;PL
+jahkailla	jahkailet	V;ACT;PRS;POS;IND;2;SG
+jahkailla	jahkailkoot	V;ACT;PRS;POS;IMP;3;PL
+jahkailla	jahkailisitte	V;ACT;PRS;POS;COND;2;PL
+jahkailla	jahkailitte	V;ACT;PST;POS;IND;2;PL
+jahkailla	olit jahkaillut	V;ACT;PST;PRF;POS;IND;2;SG
+jahkailla	ei jahkaille	V;ACT;PRS;NEG;POT;3;SG
+jahkailla	on jahkailtu	V;PASS;PRS;PRF;POS;IND
+jahkailla	olisit jahkaillut	V;ACT;PRS;PRF;POS;COND;2;SG
+jahkailla	olimme jahkailleet	V;ACT;PST;PRF;POS;IND;1;PL
+jahkailla	älkööt olko jahkailleet	V;ACT;PRS;PRF;NEG;IMP;3;PL
+jahkailla	jahkailtaneen	V;PASS;PRS;POS;POT
+lihas	lihakseksi	N;TRANS;SG
+lihas	lihakset	N;NOM;PL
+lihas	lihaksella	N;AT+ESS;SG
+lihas	lihaksessa	N;IN+ESS;SG
+lihas	lihas	N;NOM;SG
+lihas	lihaksesta	N;IN+ABL;SG
+lihas	lihasten	N;GEN;PL
+lihas	lihakseen	N;IN+ALL;SG
+lihas	lihasta	N;PRT;SG
+lihas	lihaksin	N;INS;PL
+lihas	lihaksina	N;FRML;PL
+lihas	lihaksia	N;PRT;PL
+lihas	lihaksilta	N;AT+ABL;PL
+lihas	lihaksena	N;FRML;SG
+lihas	lihakset	N;ACC;PL
+lihas	lihaksille	N;AT+ALL;PL
+lihas	lihaksetta	N;PRIV;SG
+lihas	lihaksilla	N;AT+ESS;PL
+lihas	lihaksiksi	N;TRANS;PL
+lihas	lihaksissa	N;IN+ESS;PL
+lihas	lihaksineen	N;COM;PL
+lihas	lihaksista	N;IN+ABL;PL
+lihas	lihaksen	N;GEN;SG
+lihas	lihakselle	N;AT+ALL;SG
+lihas	lihaksiin	N;IN+ALL;PL
+lihas	lihas	N;ACC;SG
+lihas	lihakselta	N;AT+ABL;SG
+lihas	lihaksitta	N;PRIV;PL
+tuju	tujuun	ADJ;IN+ALL;SG
+tuju	tujulle	ADJ;AT+ALL;SG
+tuju	tujuiksi	ADJ;TRANS;PL
+tuju	tujuilla	ADJ;AT+ESS;PL
+tuju	tuju	ADJ;ACC;SG
+tuju	tujulta	ADJ;AT+ABL;SG
+tuju	tujulla	ADJ;AT+ESS;SG
+tuju	tujua	ADJ;PRT;SG
+tuju	tujuina	ADJ;FRML;PL
+tuju	tujuissa	ADJ;IN+ESS;PL
+tuju	tujuista	ADJ;IN+ABL;PL
+tuju	tujut	ADJ;NOM;PL
+tuju	tujuitta	ADJ;PRIV;PL
+tuju	tujut	ADJ;ACC;PL
+tuju	tujuille	ADJ;AT+ALL;PL
+tuju	tujuineen	ADJ;COM;PL
+tuju	tujun	ADJ;GEADJ;SG
+tuju	tujuin	ADJ;INS;PL
+tuju	tujuihin	ADJ;IN+ALL;PL
+tuju	tujuksi	ADJ;TRANS;SG
+tuju	tujuilta	ADJ;AT+ABL;PL
+tuju	tujuna	ADJ;FRML;SG
+tuju	tujuja	ADJ;PRT;PL
+tuju	tujutta	ADJ;PRIV;SG
+tuju	tuju	ADJ;NOM;SG
+tuju	tujujen	ADJ;GEADJ;PL
+tuju	tujussa	ADJ;IN+ESS;SG
+tuju	tujusta	ADJ;IN+ABL;SG
+rievä	rieväksi	N;TRANS;SG
+rievä	rievät	N;NOM;PL
+rievä	rievällä	N;AT+ESS;SG
+rievä	rievässä	N;IN+ESS;SG
+rievä	rievä	N;NOM;SG
+rievä	rievästä	N;IN+ABL;SG
+rievä	rievien	N;GEN;PL
+rievä	rievään	N;IN+ALL;SG
+rievä	rievää	N;PRT;SG
+rievä	rievin	N;INS;PL
+rievä	rievinä	N;FRML;PL
+rievä	rieviä	N;PRT;PL
+rievä	rieviltä	N;AT+ABL;PL
+rievä	rievänä	N;FRML;SG
+rievä	rievät	N;ACC;PL
+rievä	rieville	N;AT+ALL;PL
+rievä	rievättä	N;PRIV;SG
+rievä	rievillä	N;AT+ESS;PL
+rievä	rieviksi	N;TRANS;PL
+rievä	rievissä	N;IN+ESS;PL
+rievä	rievineen	N;COM;PL
+rievä	rievistä	N;IN+ABL;PL
+rievä	rievän	N;GEN;SG
+rievä	rievälle	N;AT+ALL;SG
+rievä	rieviin	N;IN+ALL;PL
+rievä	rievä	N;ACC;SG
+rievä	rievältä	N;AT+ABL;SG
+rievä	rievittä	N;PRIV;PL
+haju	hajuina	N;FRML;PL
+haju	hajuja	N;PRT;PL
+haju	hajulla	N;AT+ESS;SG
+haju	hajussa	N;IN+ESS;SG
+haju	haju	N;NOM;SG
+haju	hajusta	N;IN+ABL;SG
+haju	hajuista	N;IN+ABL;PL
+haju	hajujen	N;GEN;PL
+haju	hajuun	N;IN+ALL;SG
+haju	hajuin	N;INS;PL
+haju	hajuilta	N;AT+ABL;PL
+haju	hajuna	N;FRML;SG
+haju	hajut	N;ACC;PL
+haju	hajuille	N;AT+ALL;PL
+haju	hajutta	N;PRIV;SG
+haju	hajuilla	N;AT+ESS;PL
+haju	hajua	N;PRT;SG
+haju	hajuissa	N;IN+ESS;PL
+haju	hajut	N;NOM;PL
+haju	hajuineen	N;COM;PL
+haju	hajuksi	N;TRANS;SG
+haju	hajun	N;GEN;SG
+haju	hajulle	N;AT+ALL;SG
+haju	hajuihin	N;IN+ALL;PL
+haju	hajuiksi	N;TRANS;PL
+haju	haju	N;ACC;SG
+haju	hajulta	N;AT+ABL;SG
+haju	hajuitta	N;PRIV;PL
+prinssi	prinsseinä	N;FRML;PL
+prinssi	prinssejä	N;PRT;PL
+prinssi	prinssillä	N;AT+ESS;SG
+prinssi	prinssissä	N;IN+ESS;SG
+prinssi	prinssiä	N;PRT;SG
+prinssi	prinssistä	N;IN+ABL;SG
+prinssi	prinsseistä	N;IN+ABL;PL
+prinssi	prinssien	N;GEN;PL
+prinssi	prinssiin	N;IN+ALL;SG
+prinssi	prinssein	N;INS;PL
+prinssi	prinssi	N;NOM;SG
+prinssi	prinsseiltä	N;AT+ABL;PL
+prinssi	prinssinä	N;FRML;SG
+prinssi	prinssit	N;ACC;PL
+prinssi	prinsseille	N;AT+ALL;PL
+prinssi	prinssittä	N;PRIV;SG
+prinssi	prinsseillä	N;AT+ESS;PL
+prinssi	prinsseiksi	N;TRANS;PL
+prinssi	prinsseissä	N;IN+ESS;PL
+prinssi	prinsseineen	N;COM;PL
+prinssi	prinssiksi	N;TRANS;SG
+prinssi	prinssin	N;GEN;SG
+prinssi	prinssille	N;AT+ALL;SG
+prinssi	prinsseihin	N;IN+ALL;PL
+prinssi	prinssit	N;NOM;PL
+prinssi	prinssi	N;ACC;SG
+prinssi	prinssiltä	N;AT+ABL;SG
+prinssi	prinsseittä	N;PRIV;PL
+morfiini	morfiineina	N;FRML;PL
+morfiini	morfiineja	N;PRT;PL
+morfiini	morfiinilla	N;AT+ESS;SG
+morfiini	morfiinissa	N;IN+ESS;SG
+morfiini	morfiinia	N;PRT;SG
+morfiini	morfiinista	N;IN+ABL;SG
+morfiini	morfiineista	N;IN+ABL;PL
+morfiini	morfiinien	N;GEN;PL
+morfiini	morfiiniin	N;IN+ALL;SG
+morfiini	morfiinein	N;INS;PL
+morfiini	morfiini	N;NOM;SG
+morfiini	morfiineilta	N;AT+ABL;PL
+morfiini	morfiinina	N;FRML;SG
+morfiini	morfiinit	N;ACC;PL
+morfiini	morfiineille	N;AT+ALL;PL
+morfiini	morfiinitta	N;PRIV;SG
+morfiini	morfiineilla	N;AT+ESS;PL
+morfiini	morfiineiksi	N;TRANS;PL
+morfiini	morfiineissa	N;IN+ESS;PL
+morfiini	morfiineineen	N;COM;PL
+morfiini	morfiiniksi	N;TRANS;SG
+morfiini	morfiinin	N;GEN;SG
+morfiini	morfiinille	N;AT+ALL;SG
+morfiini	morfiineihin	N;IN+ALL;PL
+morfiini	morfiinit	N;NOM;PL
+morfiini	morfiini	N;ACC;SG
+morfiini	morfiinilta	N;AT+ABL;SG
+morfiini	morfiineitta	N;PRIV;PL
+euro	euroina	N;FRML;PL
+euro	euroja	N;PRT;PL
+euro	eurolla	N;AT+ESS;SG
+euro	eurossa	N;IN+ESS;SG
+euro	euro	N;NOM;SG
+euro	eurosta	N;IN+ABL;SG
+euro	euroista	N;IN+ABL;PL
+euro	eurojen	N;GEN;PL
+euro	euroon	N;IN+ALL;SG
+euro	euroin	N;INS;PL
+euro	euroilta	N;AT+ABL;PL
+euro	eurona	N;FRML;SG
+euro	eurot	N;ACC;PL
+euro	euroille	N;AT+ALL;PL
+euro	eurotta	N;PRIV;SG
+euro	euroilla	N;AT+ESS;PL
+euro	euroa	N;PRT;SG
+euro	euroissa	N;IN+ESS;PL
+euro	eurot	N;NOM;PL
+euro	euroineen	N;COM;PL
+euro	euroksi	N;TRANS;SG
+euro	euron	N;GEN;SG
+euro	eurolle	N;AT+ALL;SG
+euro	euroihin	N;IN+ALL;PL
+euro	euroiksi	N;TRANS;PL
+euro	euro	N;ACC;SG
+euro	eurolta	N;AT+ABL;SG
+euro	euroitta	N;PRIV;PL
+jazz	jazzeina	N;FRML;PL
+jazz	jazzeja	N;PRT;PL
+jazz	jazzilla	N;AT+ESS;SG
+jazz	jazzissa	N;IN+ESS;SG
+jazz	jazzia	N;PRT;SG
+jazz	jazzista	N;IN+ABL;SG
+jazz	jazzeista	N;IN+ABL;PL
+jazz	jazzien	N;GEN;PL
+jazz	jazziin	N;IN+ALL;SG
+jazz	jazzein	N;INS;PL
+jazz	jazz	N;NOM;SG
+jazz	jazzeilta	N;AT+ABL;PL
+jazz	jazzina	N;FRML;SG
+jazz	jazzit	N;ACC;PL
+jazz	jazzeille	N;AT+ALL;PL
+jazz	jazzitta	N;PRIV;SG
+jazz	jazzeilla	N;AT+ESS;PL
+jazz	jazzeiksi	N;TRANS;PL
+jazz	jazzeissa	N;IN+ESS;PL
+jazz	jazzeineen	N;COM;PL
+jazz	jazziksi	N;TRANS;SG
+jazz	jazzin	N;GEN;SG
+jazz	jazzille	N;AT+ALL;SG
+jazz	jazzeihin	N;IN+ALL;PL
+jazz	jazzit	N;NOM;PL
+jazz	jazz	N;ACC;SG
+jazz	jazzilta	N;AT+ABL;SG
+jazz	jazzeitta	N;PRIV;PL
+biosynteesi	biosynteeseinä	N;FRML;PL
+biosynteesi	biosynteesejä	N;PRT;PL
+biosynteesi	biosynteesillä	N;AT+ESS;SG
+biosynteesi	biosynteesissä	N;IN+ESS;SG
+biosynteesi	biosynteesiä	N;PRT;SG
+biosynteesi	biosynteesistä	N;IN+ABL;SG
+biosynteesi	biosynteeseistä	N;IN+ABL;PL
+biosynteesi	biosynteesien	N;GEN;PL
+biosynteesi	biosynteesiin	N;IN+ALL;SG
+biosynteesi	biosynteesein	N;INS;PL
+biosynteesi	biosynteesi	N;NOM;SG
+biosynteesi	biosynteeseiltä	N;AT+ABL;PL
+biosynteesi	biosynteesinä	N;FRML;SG
+biosynteesi	biosynteesit	N;ACC;PL
+biosynteesi	biosynteeseille	N;AT+ALL;PL
+biosynteesi	biosynteesittä	N;PRIV;SG
+biosynteesi	biosynteeseillä	N;AT+ESS;PL
+biosynteesi	biosynteeseiksi	N;TRANS;PL
+biosynteesi	biosynteeseissä	N;IN+ESS;PL
+biosynteesi	biosynteeseineen	N;COM;PL
+biosynteesi	biosynteesiksi	N;TRANS;SG
+biosynteesi	biosynteesin	N;GEN;SG
+biosynteesi	biosynteesille	N;AT+ALL;SG
+biosynteesi	biosynteeseihin	N;IN+ALL;PL
+biosynteesi	biosynteesit	N;NOM;PL
+biosynteesi	biosynteesi	N;ACC;SG
+biosynteesi	biosynteesiltä	N;AT+ABL;SG
+biosynteesi	biosynteeseittä	N;PRIV;PL
+teesi	teeseinä	N;FRML;PL
+teesi	teesejä	N;PRT;PL
+teesi	teesillä	N;AT+ESS;SG
+teesi	teesissä	N;IN+ESS;SG
+teesi	teesiä	N;PRT;SG
+teesi	teesistä	N;IN+ABL;SG
+teesi	teeseistä	N;IN+ABL;PL
+teesi	teesien	N;GEN;PL
+teesi	teesiin	N;IN+ALL;SG
+teesi	teesein	N;INS;PL
+teesi	teesi	N;NOM;SG
+teesi	teeseiltä	N;AT+ABL;PL
+teesi	teesinä	N;FRML;SG
+teesi	teesit	N;ACC;PL
+teesi	teeseille	N;AT+ALL;PL
+teesi	teesittä	N;PRIV;SG
+teesi	teeseillä	N;AT+ESS;PL
+teesi	teeseiksi	N;TRANS;PL
+teesi	teeseissä	N;IN+ESS;PL
+teesi	teeseineen	N;COM;PL
+teesi	teesiksi	N;TRANS;SG
+teesi	teesin	N;GEN;SG
+teesi	teesille	N;AT+ALL;SG
+teesi	teeseihin	N;IN+ALL;PL
+teesi	teesit	N;NOM;PL
+teesi	teesi	N;ACC;SG
+teesi	teesiltä	N;AT+ABL;SG
+teesi	teeseittä	N;PRIV;PL
+tsaari	tsaareina	N;FRML;PL
+tsaari	tsaareja	N;PRT;PL
+tsaari	tsaarilla	N;AT+ESS;SG
+tsaari	tsaarissa	N;IN+ESS;SG
+tsaari	tsaaria	N;PRT;SG
+tsaari	tsaarista	N;IN+ABL;SG
+tsaari	tsaareista	N;IN+ABL;PL
+tsaari	tsaarien	N;GEN;PL
+tsaari	tsaariin	N;IN+ALL;SG
+tsaari	tsaarein	N;INS;PL
+tsaari	tsaari	N;NOM;SG
+tsaari	tsaareilta	N;AT+ABL;PL
+tsaari	tsaarina	N;FRML;SG
+tsaari	tsaarit	N;ACC;PL
+tsaari	tsaareille	N;AT+ALL;PL
+tsaari	tsaaritta	N;PRIV;SG
+tsaari	tsaareilla	N;AT+ESS;PL
+tsaari	tsaareiksi	N;TRANS;PL
+tsaari	tsaareissa	N;IN+ESS;PL
+tsaari	tsaareineen	N;COM;PL
+tsaari	tsaariksi	N;TRANS;SG
+tsaari	tsaarin	N;GEN;SG
+tsaari	tsaarille	N;AT+ALL;SG
+tsaari	tsaareihin	N;IN+ALL;PL
+tsaari	tsaarit	N;NOM;PL
+tsaari	tsaari	N;ACC;SG
+tsaari	tsaarilta	N;AT+ABL;SG
+tsaari	tsaareitta	N;PRIV;PL
+aidata	aitaisi	V;ACT;PRS;POS;COND;3;SG
+aidata	ette liene aidanneet	V;ACT;PRS;PRF;NEG;POT;2;PL
+aidata	aidatkoon	V;ACT;PRS;POS;IMP;3;SG
+aidata	ette olleet aidanneet	V;ACT;PST;PRF;NEG;IND;2;PL
+aidata	ette ole aidanneet	V;ACT;PRS;PRF;NEG;IND;2;PL
+aidata	et aitaa	V;ACT;PRS;NEG;IND;2;SG
+aidata	eivät aidanne	V;ACT;PRS;NEG;POT;3;PL
+aidata	älä ole aidannut	V;ACT;PRS;PRF;NEG;IMP;2;SG
+aidata	olette aidanneet	V;ACT;PRS;PRF;POS;IND;2;PL
+aidata	emme olisi aidanneet	V;ACT;PRS;PRF;NEG;COND;1;PL
+aidata	älköön olko aidattu	V;PASS;PRS;PRF;NEG;IMP
+aidata	aitasit	V;ACT;PST;POS;IND;2;SG
+aidata	olemme aidanneet	V;ACT;PRS;PRF;POS;IND;1;PL
+aidata	et olisi aidannut	V;ACT;PRS;PRF;NEG;COND;2;SG
+aidata	aidannet	V;ACT;PRS;POS;POT;2;SG
+aidata	aidannevat	V;ACT;PRS;POS;POT;3;PL
+aidata	ei ollut aidannut	V;ACT;PST;PRF;NEG;IND;3;SG
+aidata	älkööt aidatko	V;ACT;PRS;NEG;IMP;3;PL
+aidata	oli aidannut	V;ACT;PST;PRF;POS;IND;3;SG
+aidata	aitasi	V;ACT;PST;POS;IND;3;SG
+aidata	aidattiin	V;PASS;PST;POS;IND
+aidata	olisitte aidanneet	V;ACT;PRS;PRF;POS;COND;2;PL
+aidata	et aitaisi	V;ACT;PRS;NEG;COND;2;SG
+aidata	älköön olko aidannut	V;ACT;PRS;PRF;NEG;IMP;3;SG
+aidata	lienet aidannut	V;ACT;PRS;PRF;POS;POT;2;SG
+aidata	ei aidattane	V;PASS;PRS;NEG;POT
+aidata	ei aitaisi	V;ACT;PRS;NEG;COND;3;SG
+aidata	olkaamme aidanneet	V;ACT;PRS;PRF;POS;IMP;1;PL
+aidata	lienemme aidanneet	V;ACT;PRS;PRF;POS;POT;1;PL
+aidata	ei liene aidattu	V;PASS;PRS;PRF;NEG;POT
+aidata	aitaa	V;ACT;PRS;POS;IMP;2;SG
+aidata	ei aitaa	V;ACT;PRS;NEG;IND;3;SG
+aidata	aitaan	V;ACT;PRS;POS;IND;1;SG
+aidata	olkaa aidanneet	V;ACT;PRS;PRF;POS;IMP;2;PL
+aidata	en aitaisi	V;ACT;PRS;NEG;COND;1;SG
+aidata	ei ollut aidattu	V;PASS;PST;PRF;NEG;IND
+aidata	älkää aidatko	V;ACT;PRS;NEG;IMP;2;PL
+aidata	ei ole aidannut	V;ACT;PRS;PRF;NEG;IND;3;SG
+aidata	emme aidanne	V;ACT;PRS;NEG;POT;1;PL
+aidata	emme liene aidanneet	V;ACT;PRS;PRF;NEG;POT;1;PL
+aidata	oli aidattu	V;PASS;PST;PRF;POS;IND
+aidata	en ollut aidannut	V;ACT;PST;PRF;NEG;IND;1;SG
+aidata	aitaisimme	V;ACT;PRS;POS;COND;1;PL
+aidata	älköön aidatko	V;ACT;PRS;NEG;IMP;3;SG
+aidata	ei liene aidannut	V;ACT;PRS;PRF;NEG;POT;3;SG
+aidata	älkäämme olko aidanneet	V;ACT;PRS;PRF;NEG;IMP;1;PL
+aidata	aidattaisiin	V;PASS;PRS;POS;COND
+aidata	et aidanne	V;ACT;PRS;NEG;POT;2;SG
+aidata	ei aidattu	V;PASS;PST;NEG;IND
+aidata	et ollut aidannut	V;ACT;PST;PRF;NEG;IND;2;SG
+aidata	ei ole aidattu	V;PASS;PRS;PRF;NEG;IND
+aidata	et ole aidannut	V;ACT;PRS;PRF;NEG;IND;2;SG
+aidata	emme aidanneet	V;ACT;PST;NEG;IND;1;PL
+aidata	olet aidannut	V;ACT;PRS;PRF;POS;IND;2;SG
+aidata	en olisi aidannut	V;ACT;PRS;PRF;NEG;COND;1;SG
+aidata	aidata	V;NFIN
+aidata	en aitaa	V;ACT;PRS;NEG;IND;1;SG
+aidata	aitaatte	V;ACT;PRS;POS;IND;2;PL
+aidata	et liene aidannut	V;ACT;PRS;PRF;NEG;POT;2;SG
+aidata	on aidannut	V;ACT;PRS;PRF;POS;IND;3;SG
+aidata	olisivat aidanneet	V;ACT;PRS;PRF;POS;COND;3;PL
+aidata	aitaisivat	V;ACT;PRS;POS;COND;3;PL
+aidata	aidannette	V;ACT;PRS;POS;POT;2;PL
+aidata	aitasin	V;ACT;PST;POS;IND;1;SG
+aidata	aitaisin	V;ACT;PRS;POS;COND;1;SG
+aidata	olisi aidannut	V;ACT;PRS;PRF;POS;COND;3;SG
+aidata	lienee aidattu	V;PASS;PRS;PRF;POS;POT
+aidata	ei aidata	V;PASS;PRS;NEG;IND
+aidata	olisin aidannut	V;ACT;PRS;PRF;POS;COND;1;SG
+aidata	aitaa	V;ACT;PRS;POS;IND;3;SG
+aidata	olen aidannut	V;ACT;PRS;PRF;POS;IND;1;SG
+aidata	aidataan	V;PASS;PRS;POS;IND
+aidata	aitaava	V.PTCP;ACT;PRS
+aidata	emme olleet aidanneet	V;ACT;PST;PRF;NEG;IND;1;PL
+aidata	olitte aidanneet	V;ACT;PST;PRF;POS;IND;2;PL
+aidata	olivat aidanneet	V;ACT;PST;PRF;POS;IND;3;PL
+aidata	ei aidannut	V;ACT;PST;NEG;IND;3;SG
+aidata	emme aitaa	V;ACT;PRS;NEG;IND;1;PL
+aidata	olkoon aidattu	V;PASS;PRS;PRF;POS;IMP
+aidata	emme ole aidanneet	V;ACT;PRS;PRF;NEG;IND;1;PL
+aidata	olin aidannut	V;ACT;PST;PRF;POS;IND;1;SG
+aidata	eivät aitaisi	V;ACT;PRS;NEG;COND;3;PL
+aidata	ei olisi aidattu	V;PASS;PRS;PRF;NEG;COND
+aidata	olisimme aidanneet	V;ACT;PRS;PRF;POS;COND;1;PL
+aidata	älä aitaa	V;ACT;PRS;NEG;IMP;2;SG
+aidata	ei aidattaisi	V;PASS;PRS;NEG;COND
+aidata	aitaavat	V;ACT;PRS;POS;IND;3;PL
+aidata	olkoon aidannut	V;ACT;PRS;PRF;POS;IMP;3;SG
+aidata	ei olisi aidannut	V;ACT;PRS;PRF;NEG;COND;3;SG
+aidata	lienette aidanneet	V;ACT;PRS;PRF;POS;POT;2;PL
+aidata	aidannut	V.PTCP;ACT;PST
+aidata	en aidanne	V;ACT;PRS;NEG;POT;1;SG
+aidata	älköön aidattako	V;PASS;PRS;NEG;IMP
+aidata	lienen aidannut	V;ACT;PRS;PRF;POS;POT;1;SG
+aidata	ette olisi aidanneet	V;ACT;PRS;PRF;NEG;COND;2;PL
+aidata	eivät liene aidanneet	V;ACT;PRS;PRF;NEG;POT;3;PL
+aidata	aidannemme	V;ACT;PRS;POS;POT;1;PL
+aidata	ette aidanne	V;ACT;PRS;NEG;POT;2;PL
+aidata	aidatkaamme	V;ACT;PRS;POS;IMP;1;PL
+aidata	ette aidanneet	V;ACT;PST;NEG;IND;2;PL
+aidata	eivät aidanneet	V;ACT;PST;NEG;IND;3;PL
+aidata	en ole aidannut	V;ACT;PRS;PRF;NEG;IND;1;SG
+aidata	aidattu	V.PTCP;PASS;PST
+aidata	aitasivat	V;ACT;PST;POS;IND;3;PL
+aidata	eivät olisi aidanneet	V;ACT;PRS;PRF;NEG;COND;3;PL
+aidata	aitaisit	V;ACT;PRS;POS;COND;2;SG
+aidata	olkoot aidanneet	V;ACT;PRS;PRF;POS;IMP;3;PL
+aidata	älkäämme aidatko	V;ACT;PRS;NEG;IMP;1;PL
+aidata	en aidannut	V;ACT;PST;NEG;IND;1;SG
+aidata	ette aitaisi	V;ACT;PRS;NEG;COND;2;PL
+aidata	olisi aidattu	V;PASS;PRS;PRF;POS;COND
+aidata	eivät ole aidanneet	V;ACT;PRS;PRF;NEG;IND;3;PL
+aidata	et aidannut	V;ACT;PST;NEG;IND;2;SG
+aidata	eivät aitaa	V;ACT;PRS;NEG;IND;3;PL
+aidata	lienevät aidanneet	V;ACT;PRS;PRF;POS;POT;3;PL
+aidata	ovat aidanneet	V;ACT;PRS;PRF;POS;IND;3;PL
+aidata	aidatkaa	V;ACT;PRS;POS;IMP;2;PL
+aidata	ole aidannut	V;ACT;PRS;PRF;POS;IMP;2;SG
+aidata	lienee aidannut	V;ACT;PRS;PRF;POS;POT;3;SG
+aidata	aitaamme	V;ACT;PRS;POS;IND;1;PL
+aidata	aidattava	V.PTCP;PASS;PRS
+aidata	aidattakoon	V;PASS;PRS;POS;IMP
+aidata	aidannee	V;ACT;PRS;POS;POT;3;SG
+aidata	ette aitaa	V;ACT;PRS;NEG;IND;2;PL
+aidata	en liene aidannut	V;ACT;PRS;PRF;NEG;POT;1;SG
+aidata	eivät olleet aidanneet	V;ACT;PST;PRF;NEG;IND;3;PL
+aidata	emme aitaisi	V;ACT;PRS;NEG;COND;1;PL
+aidata	aitasimme	V;ACT;PST;POS;IND;1;PL
+aidata	älkää olko aidanneet	V;ACT;PRS;PRF;NEG;IMP;2;PL
+aidata	aidannen	V;ACT;PRS;POS;POT;1;SG
+aidata	aitaat	V;ACT;PRS;POS;IND;2;SG
+aidata	aidatkoot	V;ACT;PRS;POS;IMP;3;PL
+aidata	aitaisitte	V;ACT;PRS;POS;COND;2;PL
+aidata	aitasitte	V;ACT;PST;POS;IND;2;PL
+aidata	olit aidannut	V;ACT;PST;PRF;POS;IND;2;SG
+aidata	ei aidanne	V;ACT;PRS;NEG;POT;3;SG
+aidata	on aidattu	V;PASS;PRS;PRF;POS;IND
+aidata	olisit aidannut	V;ACT;PRS;PRF;POS;COND;2;SG
+aidata	olimme aidanneet	V;ACT;PST;PRF;POS;IND;1;PL
+aidata	älkööt olko aidanneet	V;ACT;PRS;PRF;NEG;IMP;3;PL
+aidata	aidattaneen	V;PASS;PRS;POS;POT
+puuvilla	puuvillaksi	N;TRANS;SG
+puuvilla	puuvillat	N;NOM;PL
+puuvilla	puuvillalla	N;AT+ESS;SG
+puuvilla	puuvillassa	N;IN+ESS;SG
+puuvilla	puuvilla	N;NOM;SG
+puuvilla	puuvillasta	N;IN+ABL;SG
+puuvilla	puuvillojen	N;GEN;PL
+puuvilla	puuvillaan	N;IN+ALL;SG
+puuvilla	puuvillaa	N;PRT;SG
+puuvilla	puuvilloin	N;INS;PL
+puuvilla	puuvilloina	N;FRML;PL
+puuvilla	puuvilloja	N;PRT;PL
+puuvilla	puuvilloilta	N;AT+ABL;PL
+puuvilla	puuvillana	N;FRML;SG
+puuvilla	puuvillat	N;ACC;PL
+puuvilla	puuvilloille	N;AT+ALL;PL
+puuvilla	puuvillatta	N;PRIV;SG
+puuvilla	puuvilloilla	N;AT+ESS;PL
+puuvilla	puuvilloiksi	N;TRANS;PL
+puuvilla	puuvilloissa	N;IN+ESS;PL
+puuvilla	puuvilloineen	N;COM;PL
+puuvilla	puuvilloista	N;IN+ABL;PL
+puuvilla	puuvillan	N;GEN;SG
+puuvilla	puuvillalle	N;AT+ALL;SG
+puuvilla	puuvilloihin	N;IN+ALL;PL
+puuvilla	puuvilla	N;ACC;SG
+puuvilla	puuvillalta	N;AT+ABL;SG
+puuvilla	puuvilloitta	N;PRIV;PL
+folkloristi	folkloristeina	N;FRML;PL
+folkloristi	folkloristeja	N;PRT;PL
+folkloristi	folkloristilla	N;AT+ESS;SG
+folkloristi	folkloristissa	N;IN+ESS;SG
+folkloristi	folkloristia	N;PRT;SG
+folkloristi	folkloristista	N;IN+ABL;SG
+folkloristi	folkloristeista	N;IN+ABL;PL
+folkloristi	folkloristien	N;GEN;PL
+folkloristi	folkloristiin	N;IN+ALL;SG
+folkloristi	folkloristein	N;INS;PL
+folkloristi	folkloristi	N;NOM;SG
+folkloristi	folkloristeilta	N;AT+ABL;PL
+folkloristi	folkloristina	N;FRML;SG
+folkloristi	folkloristit	N;ACC;PL
+folkloristi	folkloristeille	N;AT+ALL;PL
+folkloristi	folkloristitta	N;PRIV;SG
+folkloristi	folkloristeilla	N;AT+ESS;PL
+folkloristi	folkloristeiksi	N;TRANS;PL
+folkloristi	folkloristeissa	N;IN+ESS;PL
+folkloristi	folkloristeineen	N;COM;PL
+folkloristi	folkloristiksi	N;TRANS;SG
+folkloristi	folkloristin	N;GEN;SG
+folkloristi	folkloristille	N;AT+ALL;SG
+folkloristi	folkloristeihin	N;IN+ALL;PL
+folkloristi	folkloristit	N;NOM;PL
+folkloristi	folkloristi	N;ACC;SG
+folkloristi	folkloristilta	N;AT+ABL;SG
+folkloristi	folkloristeitta	N;PRIV;PL
+katalaani	katalaaneina	N;FRML;PL
+katalaani	katalaaneja	N;PRT;PL
+katalaani	katalaanilla	N;AT+ESS;SG
+katalaani	katalaanissa	N;IN+ESS;SG
+katalaani	katalaania	N;PRT;SG
+katalaani	katalaanista	N;IN+ABL;SG
+katalaani	katalaaneista	N;IN+ABL;PL
+katalaani	katalaanien	N;GEN;PL
+katalaani	katalaaniin	N;IN+ALL;SG
+katalaani	katalaanein	N;INS;PL
+katalaani	katalaani	N;NOM;SG
+katalaani	katalaaneilta	N;AT+ABL;PL
+katalaani	katalaanina	N;FRML;SG
+katalaani	katalaanit	N;ACC;PL
+katalaani	katalaaneille	N;AT+ALL;PL
+katalaani	katalaanitta	N;PRIV;SG
+katalaani	katalaaneilla	N;AT+ESS;PL
+katalaani	katalaaneiksi	N;TRANS;PL
+katalaani	katalaaneissa	N;IN+ESS;PL
+katalaani	katalaaneineen	N;COM;PL
+katalaani	katalaaniksi	N;TRANS;SG
+katalaani	katalaanin	N;GEN;SG
+katalaani	katalaanille	N;AT+ALL;SG
+katalaani	katalaaneihin	N;IN+ALL;PL
+katalaani	katalaanit	N;NOM;PL
+katalaani	katalaani	N;ACC;SG
+katalaani	katalaanilta	N;AT+ABL;SG
+katalaani	katalaaneitta	N;PRIV;PL
+sari	sareina	N;FRML;PL
+sari	sareja	N;PRT;PL
+sari	sarilla	N;AT+ESS;SG
+sari	sarissa	N;IN+ESS;SG
+sari	saria	N;PRT;SG
+sari	sarista	N;IN+ABL;SG
+sari	sareista	N;IN+ABL;PL
+sari	sarien	N;GEN;PL
+sari	sariin	N;IN+ALL;SG
+sari	sarein	N;INS;PL
+sari	sari	N;NOM;SG
+sari	sareilta	N;AT+ABL;PL
+sari	sarina	N;FRML;SG
+sari	sarit	N;ACC;PL
+sari	sareille	N;AT+ALL;PL
+sari	saritta	N;PRIV;SG
+sari	sareilla	N;AT+ESS;PL
+sari	sareiksi	N;TRANS;PL
+sari	sareissa	N;IN+ESS;PL
+sari	sareineen	N;COM;PL
+sari	sariksi	N;TRANS;SG
+sari	sarin	N;GEN;SG
+sari	sarille	N;AT+ALL;SG
+sari	sareihin	N;IN+ALL;PL
+sari	sarit	N;NOM;PL
+sari	sari	N;ACC;SG
+sari	sarilta	N;AT+ABL;SG
+sari	sareitta	N;PRIV;PL
+kuuluva	kuuluvaan	ADJ;IN+ALL;SG
+kuuluva	kuuluvalle	ADJ;AT+ALL;SG
+kuuluva	kuuluviksi	ADJ;TRANS;PL
+kuuluva	kuuluvilla	ADJ;AT+ESS;PL
+kuuluva	kuuluva	ADJ;ACC;SG
+kuuluva	kuuluvalta	ADJ;AT+ABL;SG
+kuuluva	kuuluvalla	ADJ;AT+ESS;SG
+kuuluva	kuuluvaa	ADJ;PRT;SG
+kuuluva	kuuluvina	ADJ;FRML;PL
+kuuluva	kuuluvissa	ADJ;IN+ESS;PL
+kuuluva	kuuluvista	ADJ;IN+ABL;PL
+kuuluva	kuuluvat	ADJ;NOM;PL
+kuuluva	kuuluvitta	ADJ;PRIV;PL
+kuuluva	kuuluvan	ADJ;GEADJ;SG
+kuuluva	kuuluville	ADJ;AT+ALL;PL
+kuuluva	kuuluvine	ADJ;COM;PL
+kuuluva	kuuluvat	ADJ;ACC;PL
+kuuluva	kuuluvin	ADJ;INS;PL
+kuuluva	kuuluviin	ADJ;IN+ALL;PL
+kuuluva	kuuluvaksi	ADJ;TRANS;SG
+kuuluva	kuuluvilta	ADJ;AT+ABL;PL
+kuuluva	kuuluvana	ADJ;FRML;SG
+kuuluva	kuuluvia	ADJ;PRT;PL
+kuuluva	kuuluvatta	ADJ;PRIV;SG
+kuuluva	kuuluva	ADJ;NOM;SG
+kuuluva	kuuluvien	ADJ;GEADJ;PL
+kuuluva	kuuluvassa	ADJ;IN+ESS;SG
+kuuluva	kuuluvasta	ADJ;IN+ABL;SG
+poiste	poisteeksi	N;TRANS;SG
+poiste	poisteet	N;NOM;PL
+poiste	poisteella	N;AT+ESS;SG
+poiste	poisteessa	N;IN+ESS;SG
+poiste	poiste	N;NOM;SG
+poiste	poisteesta	N;IN+ABL;SG
+poiste	poisteiden	N;GEN;PL
+poiste	poisteeseen	N;IN+ALL;SG
+poiste	poistetta	N;PRT;SG
+poiste	poistein	N;INS;PL
+poiste	poisteina	N;FRML;PL
+poiste	poisteita	N;PRT;PL
+poiste	poisteilta	N;AT+ABL;PL
+poiste	poisteena	N;FRML;SG
+poiste	poisteet	N;ACC;PL
+poiste	poisteille	N;AT+ALL;PL
+poiste	poisteetta	N;PRIV;SG
+poiste	poisteilla	N;AT+ESS;PL
+poiste	poisteiksi	N;TRANS;PL
+poiste	poisteissa	N;IN+ESS;PL
+poiste	poisteineen	N;COM;PL
+poiste	poisteista	N;IN+ABL;PL
+poiste	poisteen	N;GEN;SG
+poiste	poisteelle	N;AT+ALL;SG
+poiste	poisteisiin	N;IN+ALL;PL
+poiste	poiste	N;ACC;SG
+poiste	poisteelta	N;AT+ABL;SG
+poiste	poisteitta	N;PRIV;PL
+beduiini	beduiineina	N;FRML;PL
+beduiini	beduiineja	N;PRT;PL
+beduiini	beduiinilla	N;AT+ESS;SG
+beduiini	beduiinissa	N;IN+ESS;SG
+beduiini	beduiinia	N;PRT;SG
+beduiini	beduiinista	N;IN+ABL;SG
+beduiini	beduiineista	N;IN+ABL;PL
+beduiini	beduiinien	N;GEN;PL
+beduiini	beduiiniin	N;IN+ALL;SG
+beduiini	beduiinein	N;INS;PL
+beduiini	beduiini	N;NOM;SG
+beduiini	beduiineilta	N;AT+ABL;PL
+beduiini	beduiinina	N;FRML;SG
+beduiini	beduiinit	N;ACC;PL
+beduiini	beduiineille	N;AT+ALL;PL
+beduiini	beduiinitta	N;PRIV;SG
+beduiini	beduiineilla	N;AT+ESS;PL
+beduiini	beduiineiksi	N;TRANS;PL
+beduiini	beduiineissa	N;IN+ESS;PL
+beduiini	beduiineineen	N;COM;PL
+beduiini	beduiiniksi	N;TRANS;SG
+beduiini	beduiinin	N;GEN;SG
+beduiini	beduiinille	N;AT+ALL;SG
+beduiini	beduiineihin	N;IN+ALL;PL
+beduiini	beduiinit	N;NOM;PL
+beduiini	beduiini	N;ACC;SG
+beduiini	beduiinilta	N;AT+ABL;SG
+beduiini	beduiineitta	N;PRIV;PL
+uiguuri	uiguureina	N;FRML;PL
+uiguuri	uiguureita	N;PRT;PL
+uiguuri	uiguurilla	N;AT+ESS;SG
+uiguuri	uiguurissa	N;IN+ESS;SG
+uiguuri	uiguuria	N;PRT;SG
+uiguuri	uiguurista	N;IN+ABL;SG
+uiguuri	uiguureista	N;IN+ABL;PL
+uiguuri	uiguurien	N;GEN;PL
+uiguuri	uiguuriin	N;IN+ALL;SG
+uiguuri	uiguurein	N;INS;PL
+uiguuri	uiguuri	N;NOM;SG
+uiguuri	uiguureilta	N;AT+ABL;PL
+uiguuri	uiguurina	N;FRML;SG
+uiguuri	uiguurit	N;ACC;PL
+uiguuri	uiguureille	N;AT+ALL;PL
+uiguuri	uiguuritta	N;PRIV;SG
+uiguuri	uiguureilla	N;AT+ESS;PL
+uiguuri	uiguureiksi	N;TRANS;PL
+uiguuri	uiguureissa	N;IN+ESS;PL
+uiguuri	uiguureineen	N;COM;PL
+uiguuri	uiguuriksi	N;TRANS;SG
+uiguuri	uiguurin	N;GEN;SG
+uiguuri	uiguurille	N;AT+ALL;SG
+uiguuri	uiguureihin	N;IN+ALL;PL
+uiguuri	uiguurit	N;NOM;PL
+uiguuri	uiguuri	N;ACC;SG
+uiguuri	uiguurilta	N;AT+ABL;SG
+uiguuri	uiguureitta	N;PRIV;PL
+konklaavi	konklaaveina	N;FRML;PL
+konklaavi	konklaaveja	N;PRT;PL
+konklaavi	konklaavilla	N;AT+ESS;SG
+konklaavi	konklaavissa	N;IN+ESS;SG
+konklaavi	konklaavia	N;PRT;SG
+konklaavi	konklaavista	N;IN+ABL;SG
+konklaavi	konklaaveista	N;IN+ABL;PL
+konklaavi	konklaavien	N;GEN;PL
+konklaavi	konklaaviin	N;IN+ALL;SG
+konklaavi	konklaavein	N;INS;PL
+konklaavi	konklaavi	N;NOM;SG
+konklaavi	konklaaveilta	N;AT+ABL;PL
+konklaavi	konklaavina	N;FRML;SG
+konklaavi	konklaavit	N;ACC;PL
+konklaavi	konklaaveille	N;AT+ALL;PL
+konklaavi	konklaavitta	N;PRIV;SG
+konklaavi	konklaaveilla	N;AT+ESS;PL
+konklaavi	konklaaveiksi	N;TRANS;PL
+konklaavi	konklaaveissa	N;IN+ESS;PL
+konklaavi	konklaaveineen	N;COM;PL
+konklaavi	konklaaviksi	N;TRANS;SG
+konklaavi	konklaavin	N;GEN;SG
+konklaavi	konklaaville	N;AT+ALL;SG
+konklaavi	konklaaveihin	N;IN+ALL;PL
+konklaavi	konklaavit	N;NOM;PL
+konklaavi	konklaavi	N;ACC;SG
+konklaavi	konklaavilta	N;AT+ABL;SG
+konklaavi	konklaaveitta	N;PRIV;PL
+rapiiri	rapiireina	N;FRML;PL
+rapiiri	rapiireja	N;PRT;PL
+rapiiri	rapiirilla	N;AT+ESS;SG
+rapiiri	rapiirissa	N;IN+ESS;SG
+rapiiri	rapiiria	N;PRT;SG
+rapiiri	rapiirista	N;IN+ABL;SG
+rapiiri	rapiireista	N;IN+ABL;PL
+rapiiri	rapiirien	N;GEN;PL
+rapiiri	rapiiriin	N;IN+ALL;SG
+rapiiri	rapiirein	N;INS;PL
+rapiiri	rapiiri	N;NOM;SG
+rapiiri	rapiireilta	N;AT+ABL;PL
+rapiiri	rapiirina	N;FRML;SG
+rapiiri	rapiirit	N;ACC;PL
+rapiiri	rapiireille	N;AT+ALL;PL
+rapiiri	rapiiritta	N;PRIV;SG
+rapiiri	rapiireilla	N;AT+ESS;PL
+rapiiri	rapiireiksi	N;TRANS;PL
+rapiiri	rapiireissa	N;IN+ESS;PL
+rapiiri	rapiireineen	N;COM;PL
+rapiiri	rapiiriksi	N;TRANS;SG
+rapiiri	rapiirin	N;GEN;SG
+rapiiri	rapiirille	N;AT+ALL;SG
+rapiiri	rapiireihin	N;IN+ALL;PL
+rapiiri	rapiirit	N;NOM;PL
+rapiiri	rapiiri	N;ACC;SG
+rapiiri	rapiirilta	N;AT+ABL;SG
+rapiiri	rapiireitta	N;PRIV;PL
+kraavi	kraaveina	N;FRML;PL
+kraavi	kraaveja	N;PRT;PL
+kraavi	kraavilla	N;AT+ESS;SG
+kraavi	kraavissa	N;IN+ESS;SG
+kraavi	kraavia	N;PRT;SG
+kraavi	kraavista	N;IN+ABL;SG
+kraavi	kraaveista	N;IN+ABL;PL
+kraavi	kraavien	N;GEN;PL
+kraavi	kraaviin	N;IN+ALL;SG
+kraavi	kraavein	N;INS;PL
+kraavi	kraavi	N;NOM;SG
+kraavi	kraaveilta	N;AT+ABL;PL
+kraavi	kraavina	N;FRML;SG
+kraavi	kraavit	N;ACC;PL
+kraavi	kraaveille	N;AT+ALL;PL
+kraavi	kraavitta	N;PRIV;SG
+kraavi	kraaveilla	N;AT+ESS;PL
+kraavi	kraaveiksi	N;TRANS;PL
+kraavi	kraaveissa	N;IN+ESS;PL
+kraavi	kraaveineen	N;COM;PL
+kraavi	kraaviksi	N;TRANS;SG
+kraavi	kraavin	N;GEN;SG
+kraavi	kraaville	N;AT+ALL;SG
+kraavi	kraaveihin	N;IN+ALL;PL
+kraavi	kraavit	N;NOM;PL
+kraavi	kraavi	N;ACC;SG
+kraavi	kraavilta	N;AT+ABL;SG
+kraavi	kraaveitta	N;PRIV;PL
+orbitaali	orbitaaleina	N;FRML;PL
+orbitaali	orbitaaleja	N;PRT;PL
+orbitaali	orbitaalilla	N;AT+ESS;SG
+orbitaali	orbitaalissa	N;IN+ESS;SG
+orbitaali	orbitaalia	N;PRT;SG
+orbitaali	orbitaalista	N;IN+ABL;SG
+orbitaali	orbitaaleista	N;IN+ABL;PL
+orbitaali	orbitaalien	N;GEN;PL
+orbitaali	orbitaaliin	N;IN+ALL;SG
+orbitaali	orbitaalein	N;INS;PL
+orbitaali	orbitaali	N;NOM;SG
+orbitaali	orbitaaleilta	N;AT+ABL;PL
+orbitaali	orbitaalina	N;FRML;SG
+orbitaali	orbitaalit	N;ACC;PL
+orbitaali	orbitaaleille	N;AT+ALL;PL
+orbitaali	orbitaalitta	N;PRIV;SG
+orbitaali	orbitaaleilla	N;AT+ESS;PL
+orbitaali	orbitaaleiksi	N;TRANS;PL
+orbitaali	orbitaaleissa	N;IN+ESS;PL
+orbitaali	orbitaaleineen	N;COM;PL
+orbitaali	orbitaaliksi	N;TRANS;SG
+orbitaali	orbitaalin	N;GEN;SG
+orbitaali	orbitaalille	N;AT+ALL;SG
+orbitaali	orbitaaleihin	N;IN+ALL;PL
+orbitaali	orbitaalit	N;NOM;PL
+orbitaali	orbitaali	N;ACC;SG
+orbitaali	orbitaalilta	N;AT+ABL;SG
+orbitaali	orbitaaleitta	N;PRIV;PL
+arseeni	arseeneina	N;FRML;PL
+arseeni	arseeneita	N;PRT;PL
+arseeni	arseenilla	N;AT+ESS;SG
+arseeni	arseenissa	N;IN+ESS;SG
+arseeni	arseenia	N;PRT;SG
+arseeni	arseenista	N;IN+ABL;SG
+arseeni	arseeneista	N;IN+ABL;PL
+arseeni	arseenien	N;GEN;PL
+arseeni	arseeniin	N;IN+ALL;SG
+arseeni	arseenein	N;INS;PL
+arseeni	arseeni	N;NOM;SG
+arseeni	arseeneilta	N;AT+ABL;PL
+arseeni	arseenina	N;FRML;SG
+arseeni	arseenit	N;ACC;PL
+arseeni	arseeneille	N;AT+ALL;PL
+arseeni	arseenitta	N;PRIV;SG
+arseeni	arseeneilla	N;AT+ESS;PL
+arseeni	arseeneiksi	N;TRANS;PL
+arseeni	arseeneissa	N;IN+ESS;PL
+arseeni	arseeneineen	N;COM;PL
+arseeni	arseeniksi	N;TRANS;SG
+arseeni	arseenin	N;GEN;SG
+arseeni	arseenille	N;AT+ALL;SG
+arseeni	arseeneihin	N;IN+ALL;PL
+arseeni	arseenit	N;NOM;PL
+arseeni	arseeni	N;ACC;SG
+arseeni	arseenilta	N;AT+ABL;SG
+arseeni	arseeneitta	N;PRIV;PL
+verbi	verbeinä	N;FRML;PL
+verbi	verbejä	N;PRT;PL
+verbi	verbillä	N;AT+ESS;SG
+verbi	verbissä	N;IN+ESS;SG
+verbi	verbiä	N;PRT;SG
+verbi	verbistä	N;IN+ABL;SG
+verbi	verbeistä	N;IN+ABL;PL
+verbi	verbien	N;GEN;PL
+verbi	verbiin	N;IN+ALL;SG
+verbi	verbein	N;INS;PL
+verbi	verbi	N;NOM;SG
+verbi	verbeiltä	N;AT+ABL;PL
+verbi	verbinä	N;FRML;SG
+verbi	verbit	N;ACC;PL
+verbi	verbeille	N;AT+ALL;PL
+verbi	verbittä	N;PRIV;SG
+verbi	verbeillä	N;AT+ESS;PL
+verbi	verbeiksi	N;TRANS;PL
+verbi	verbeissä	N;IN+ESS;PL
+verbi	verbeineen	N;COM;PL
+verbi	verbiksi	N;TRANS;SG
+verbi	verbin	N;GEN;SG
+verbi	verbille	N;AT+ALL;SG
+verbi	verbeihin	N;IN+ALL;PL
+verbi	verbit	N;NOM;PL
+verbi	verbi	N;ACC;SG
+verbi	verbiltä	N;AT+ABL;SG
+verbi	verbeittä	N;PRIV;PL
+maine	maineeksi	N;TRANS;SG
+maine	maineet	N;NOM;PL
+maine	maineella	N;AT+ESS;SG
+maine	maineessa	N;IN+ESS;SG
+maine	maine	N;NOM;SG
+maine	maineesta	N;IN+ABL;SG
+maine	maineiden	N;GEN;PL
+maine	maineeseen	N;IN+ALL;SG
+maine	mainetta	N;PRT;SG
+maine	mainein	N;INS;PL
+maine	maineina	N;FRML;PL
+maine	maineita	N;PRT;PL
+maine	maineilta	N;AT+ABL;PL
+maine	maineena	N;FRML;SG
+maine	maineet	N;ACC;PL
+maine	maineille	N;AT+ALL;PL
+maine	maineetta	N;PRIV;SG
+maine	maineilla	N;AT+ESS;PL
+maine	maineiksi	N;TRANS;PL
+maine	maineissa	N;IN+ESS;PL
+maine	maineineen	N;COM;PL
+maine	maineista	N;IN+ABL;PL
+maine	maineen	N;GEN;SG
+maine	maineelle	N;AT+ALL;SG
+maine	maineisiin	N;IN+ALL;PL
+maine	maine	N;ACC;SG
+maine	maineelta	N;AT+ABL;SG
+maine	maineitta	N;PRIV;PL
+matka	matkaksi	N;TRANS;SG
+matka	matkat	N;NOM;PL
+matka	matkalla	N;AT+ESS;SG
+matka	matkassa	N;IN+ESS;SG
+matka	matka	N;NOM;SG
+matka	matkasta	N;IN+ABL;SG
+matka	matkojen	N;GEN;PL
+matka	matkaan	N;IN+ALL;SG
+matka	matkaa	N;PRT;SG
+matka	matkoin	N;INS;PL
+matka	matkoina	N;FRML;PL
+matka	matkoja	N;PRT;PL
+matka	matkoilta	N;AT+ABL;PL
+matka	matkana	N;FRML;SG
+matka	matkat	N;ACC;PL
+matka	matkoille	N;AT+ALL;PL
+matka	matkatta	N;PRIV;SG
+matka	matkoilla	N;AT+ESS;PL
+matka	matkoiksi	N;TRANS;PL
+matka	matkoissa	N;IN+ESS;PL
+matka	matkoineen	N;COM;PL
+matka	matkoista	N;IN+ABL;PL
+matka	matkan	N;GEN;SG
+matka	matkalle	N;AT+ALL;SG
+matka	matkoihin	N;IN+ALL;PL
+matka	matka	N;ACC;SG
+matka	matkalta	N;AT+ABL;SG
+matka	matkoitta	N;PRIV;PL
+lao	laoina	N;FRML;PL
+lao	laoja	N;PRT;PL
+lao	laolla	N;AT+ESS;SG
+lao	laossa	N;IN+ESS;SG
+lao	lao	N;NOM;SG
+lao	laosta	N;IN+ABL;SG
+lao	laoista	N;IN+ABL;PL
+lao	laojen	N;GEN;PL
+lao	laoon	N;IN+ALL;SG
+lao	laoin	N;INS;PL
+lao	laoilta	N;AT+ABL;PL
+lao	laona	N;FRML;SG
+lao	laot	N;ACC;PL
+lao	laoille	N;AT+ALL;PL
+lao	laotta	N;PRIV;SG
+lao	laoilla	N;AT+ESS;PL
+lao	laoa	N;PRT;SG
+lao	laoissa	N;IN+ESS;PL
+lao	laot	N;NOM;PL
+lao	laoineen	N;COM;PL
+lao	laoksi	N;TRANS;SG
+lao	laon	N;GEN;SG
+lao	laolle	N;AT+ALL;SG
+lao	laoihin	N;IN+ALL;PL
+lao	laoiksi	N;TRANS;PL
+lao	lao	N;ACC;SG
+lao	laolta	N;AT+ABL;SG
+lao	laoitta	N;PRIV;PL
+naturalismi	naturalismeina	N;FRML;PL
+naturalismi	naturalismeja	N;PRT;PL
+naturalismi	naturalismilla	N;AT+ESS;SG
+naturalismi	naturalismissa	N;IN+ESS;SG
+naturalismi	naturalismia	N;PRT;SG
+naturalismi	naturalismista	N;IN+ABL;SG
+naturalismi	naturalismeista	N;IN+ABL;PL
+naturalismi	naturalismien	N;GEN;PL
+naturalismi	naturalismiin	N;IN+ALL;SG
+naturalismi	naturalismein	N;INS;PL
+naturalismi	naturalismi	N;NOM;SG
+naturalismi	naturalismeilta	N;AT+ABL;PL
+naturalismi	naturalismina	N;FRML;SG
+naturalismi	naturalismit	N;ACC;PL
+naturalismi	naturalismeille	N;AT+ALL;PL
+naturalismi	naturalismitta	N;PRIV;SG
+naturalismi	naturalismeilla	N;AT+ESS;PL
+naturalismi	naturalismeiksi	N;TRANS;PL
+naturalismi	naturalismeissa	N;IN+ESS;PL
+naturalismi	naturalismeineen	N;COM;PL
+naturalismi	naturalismiksi	N;TRANS;SG
+naturalismi	naturalismin	N;GEN;SG
+naturalismi	naturalismille	N;AT+ALL;SG
+naturalismi	naturalismeihin	N;IN+ALL;PL
+naturalismi	naturalismit	N;NOM;PL
+naturalismi	naturalismi	N;ACC;SG
+naturalismi	naturalismilta	N;AT+ABL;SG
+naturalismi	naturalismeitta	N;PRIV;PL
+meemi	meemeinä	N;FRML;PL
+meemi	meemejä	N;PRT;PL
+meemi	meemillä	N;AT+ESS;SG
+meemi	meemissä	N;IN+ESS;SG
+meemi	meemiä	N;PRT;SG
+meemi	meemistä	N;IN+ABL;SG
+meemi	meemeistä	N;IN+ABL;PL
+meemi	meemien	N;GEN;PL
+meemi	meemiin	N;IN+ALL;SG
+meemi	meemein	N;INS;PL
+meemi	meemi	N;NOM;SG
+meemi	meemeiltä	N;AT+ABL;PL
+meemi	meeminä	N;FRML;SG
+meemi	meemit	N;ACC;PL
+meemi	meemeille	N;AT+ALL;PL
+meemi	meemittä	N;PRIV;SG
+meemi	meemeillä	N;AT+ESS;PL
+meemi	meemeiksi	N;TRANS;PL
+meemi	meemeissä	N;IN+ESS;PL
+meemi	meemeineen	N;COM;PL
+meemi	meemiksi	N;TRANS;SG
+meemi	meemin	N;GEN;SG
+meemi	meemille	N;AT+ALL;SG
+meemi	meemeihin	N;IN+ALL;PL
+meemi	meemit	N;NOM;PL
+meemi	meemi	N;ACC;SG
+meemi	meemiltä	N;AT+ABL;SG
+meemi	meemeittä	N;PRIV;PL
+afrikaani	afrikaaneina	N;FRML;PL
+afrikaani	afrikaaneja	N;PRT;PL
+afrikaani	afrikaanilla	N;AT+ESS;SG
+afrikaani	afrikaanissa	N;IN+ESS;SG
+afrikaani	afrikaania	N;PRT;SG
+afrikaani	afrikaanista	N;IN+ABL;SG
+afrikaani	afrikaaneista	N;IN+ABL;PL
+afrikaani	afrikaanien	N;GEN;PL
+afrikaani	afrikaaniin	N;IN+ALL;SG
+afrikaani	afrikaanein	N;INS;PL
+afrikaani	afrikaani	N;NOM;SG
+afrikaani	afrikaaneilta	N;AT+ABL;PL
+afrikaani	afrikaanina	N;FRML;SG
+afrikaani	afrikaanit	N;ACC;PL
+afrikaani	afrikaaneille	N;AT+ALL;PL
+afrikaani	afrikaanitta	N;PRIV;SG
+afrikaani	afrikaaneilla	N;AT+ESS;PL
+afrikaani	afrikaaneiksi	N;TRANS;PL
+afrikaani	afrikaaneissa	N;IN+ESS;PL
+afrikaani	afrikaaneineen	N;COM;PL
+afrikaani	afrikaaniksi	N;TRANS;SG
+afrikaani	afrikaanin	N;GEN;SG
+afrikaani	afrikaanille	N;AT+ALL;SG
+afrikaani	afrikaaneihin	N;IN+ALL;PL
+afrikaani	afrikaanit	N;NOM;PL
+afrikaani	afrikaani	N;ACC;SG
+afrikaani	afrikaanilta	N;AT+ABL;SG
+afrikaani	afrikaaneitta	N;PRIV;PL
+kajastus	kajastukseksi	N;TRANS;SG
+kajastus	kajastukset	N;NOM;PL
+kajastus	kajastuksella	N;AT+ESS;SG
+kajastus	kajastuksessa	N;IN+ESS;SG
+kajastus	kajastus	N;NOM;SG
+kajastus	kajastuksesta	N;IN+ABL;SG
+kajastus	kajastusten	N;GEN;PL
+kajastus	kajastukseen	N;IN+ALL;SG
+kajastus	kajastusta	N;PRT;SG
+kajastus	kajastuksin	N;INS;PL
+kajastus	kajastuksina	N;FRML;PL
+kajastus	kajastuksia	N;PRT;PL
+kajastus	kajastuksilta	N;AT+ABL;PL
+kajastus	kajastuksena	N;FRML;SG
+kajastus	kajastukset	N;ACC;PL
+kajastus	kajastuksille	N;AT+ALL;PL
+kajastus	kajastuksetta	N;PRIV;SG
+kajastus	kajastuksilla	N;AT+ESS;PL
+kajastus	kajastuksiksi	N;TRANS;PL
+kajastus	kajastuksissa	N;IN+ESS;PL
+kajastus	kajastuksineen	N;COM;PL
+kajastus	kajastuksista	N;IN+ABL;PL
+kajastus	kajastuksen	N;GEN;SG
+kajastus	kajastukselle	N;AT+ALL;SG
+kajastus	kajastuksiin	N;IN+ALL;PL
+kajastus	kajastus	N;ACC;SG
+kajastus	kajastukselta	N;AT+ABL;SG
+kajastus	kajastuksitta	N;PRIV;PL
+komposti	komposteina	N;FRML;PL
+komposti	komposteja	N;PRT;PL
+komposti	kompostilla	N;AT+ESS;SG
+komposti	kompostissa	N;IN+ESS;SG
+komposti	kompostia	N;PRT;SG
+komposti	kompostista	N;IN+ABL;SG
+komposti	komposteista	N;IN+ABL;PL
+komposti	kompostien	N;GEN;PL
+komposti	kompostiin	N;IN+ALL;SG
+komposti	kompostein	N;INS;PL
+komposti	komposti	N;NOM;SG
+komposti	komposteilta	N;AT+ABL;PL
+komposti	kompostina	N;FRML;SG
+komposti	kompostit	N;ACC;PL
+komposti	komposteille	N;AT+ALL;PL
+komposti	kompostitta	N;PRIV;SG
+komposti	komposteilla	N;AT+ESS;PL
+komposti	komposteiksi	N;TRANS;PL
+komposti	komposteissa	N;IN+ESS;PL
+komposti	komposteineen	N;COM;PL
+komposti	kompostiksi	N;TRANS;SG
+komposti	kompostin	N;GEN;SG
+komposti	kompostille	N;AT+ALL;SG
+komposti	komposteihin	N;IN+ALL;PL
+komposti	kompostit	N;NOM;PL
+komposti	komposti	N;ACC;SG
+komposti	kompostilta	N;AT+ABL;SG
+komposti	komposteitta	N;PRIV;PL
+ilme	ilmeeksi	N;TRANS;SG
+ilme	ilmeet	N;NOM;PL
+ilme	ilmeellä	N;AT+ESS;SG
+ilme	ilmeessä	N;IN+ESS;SG
+ilme	ilme	N;NOM;SG
+ilme	ilmeestä	N;IN+ABL;SG
+ilme	ilmeiden	N;GEN;PL
+ilme	ilmeeseen	N;IN+ALL;SG
+ilme	ilmettä	N;PRT;SG
+ilme	ilmein	N;INS;PL
+ilme	ilmeinä	N;FRML;PL
+ilme	ilmeitä	N;PRT;PL
+ilme	ilmeiltä	N;AT+ABL;PL
+ilme	ilmeenä	N;FRML;SG
+ilme	ilmeet	N;ACC;PL
+ilme	ilmeille	N;AT+ALL;PL
+ilme	ilmeettä	N;PRIV;SG
+ilme	ilmeillä	N;AT+ESS;PL
+ilme	ilmeiksi	N;TRANS;PL
+ilme	ilmeissä	N;IN+ESS;PL
+ilme	ilmeineen	N;COM;PL
+ilme	ilmeistä	N;IN+ABL;PL
+ilme	ilmeen	N;GEN;SG
+ilme	ilmeelle	N;AT+ALL;SG
+ilme	ilmeisiin	N;IN+ALL;PL
+ilme	ilme	N;ACC;SG
+ilme	ilmeeltä	N;AT+ABL;SG
+ilme	ilmeittä	N;PRIV;PL
+alkoholismi	alkoholismeina	N;FRML;PL
+alkoholismi	alkoholismeja	N;PRT;PL
+alkoholismi	alkoholismilla	N;AT+ESS;SG
+alkoholismi	alkoholismissa	N;IN+ESS;SG
+alkoholismi	alkoholismia	N;PRT;SG
+alkoholismi	alkoholismista	N;IN+ABL;SG
+alkoholismi	alkoholismeista	N;IN+ABL;PL
+alkoholismi	alkoholismien	N;GEN;PL
+alkoholismi	alkoholismiin	N;IN+ALL;SG
+alkoholismi	alkoholismein	N;INS;PL
+alkoholismi	alkoholismi	N;NOM;SG
+alkoholismi	alkoholismeilta	N;AT+ABL;PL
+alkoholismi	alkoholismina	N;FRML;SG
+alkoholismi	alkoholismit	N;ACC;PL
+alkoholismi	alkoholismeille	N;AT+ALL;PL
+alkoholismi	alkoholismitta	N;PRIV;SG
+alkoholismi	alkoholismeilla	N;AT+ESS;PL
+alkoholismi	alkoholismeiksi	N;TRANS;PL
+alkoholismi	alkoholismeissa	N;IN+ESS;PL
+alkoholismi	alkoholismeineen	N;COM;PL
+alkoholismi	alkoholismiksi	N;TRANS;SG
+alkoholismi	alkoholismin	N;GEN;SG
+alkoholismi	alkoholismille	N;AT+ALL;SG
+alkoholismi	alkoholismeihin	N;IN+ALL;PL
+alkoholismi	alkoholismit	N;NOM;PL
+alkoholismi	alkoholismi	N;ACC;SG
+alkoholismi	alkoholismilta	N;AT+ABL;SG
+alkoholismi	alkoholismeitta	N;PRIV;PL
+intiansarvikuono	intiansarvikuonoina	N;FRML;PL
+intiansarvikuono	intiansarvikuonoja	N;PRT;PL
+intiansarvikuono	intiansarvikuonolla	N;AT+ESS;SG
+intiansarvikuono	intiansarvikuonossa	N;IN+ESS;SG
+intiansarvikuono	intiansarvikuono	N;NOM;SG
+intiansarvikuono	intiansarvikuonosta	N;IN+ABL;SG
+intiansarvikuono	intiansarvikuonoista	N;IN+ABL;PL
+intiansarvikuono	intiansarvikuonojen	N;GEN;PL
+intiansarvikuono	intiansarvikuonoon	N;IN+ALL;SG
+intiansarvikuono	intiansarvikuonoin	N;INS;PL
+intiansarvikuono	intiansarvikuonoilta	N;AT+ABL;PL
+intiansarvikuono	intiansarvikuonona	N;FRML;SG
+intiansarvikuono	intiansarvikuonot	N;ACC;PL
+intiansarvikuono	intiansarvikuonoille	N;AT+ALL;PL
+intiansarvikuono	intiansarvikuonotta	N;PRIV;SG
+intiansarvikuono	intiansarvikuonoilla	N;AT+ESS;PL
+intiansarvikuono	intiansarvikuonoa	N;PRT;SG
+intiansarvikuono	intiansarvikuonoissa	N;IN+ESS;PL
+intiansarvikuono	intiansarvikuonot	N;NOM;PL
+intiansarvikuono	intiansarvikuonoineen	N;COM;PL
+intiansarvikuono	intiansarvikuonoksi	N;TRANS;SG
+intiansarvikuono	intiansarvikuonon	N;GEN;SG
+intiansarvikuono	intiansarvikuonolle	N;AT+ALL;SG
+intiansarvikuono	intiansarvikuonoihin	N;IN+ALL;PL
+intiansarvikuono	intiansarvikuonoiksi	N;TRANS;PL
+intiansarvikuono	intiansarvikuono	N;ACC;SG
+intiansarvikuono	intiansarvikuonolta	N;AT+ABL;SG
+intiansarvikuono	intiansarvikuonoitta	N;PRIV;PL
+hemoglobiini	hemoglobiineina	N;FRML;PL
+hemoglobiini	hemoglobiineja	N;PRT;PL
+hemoglobiini	hemoglobiinilla	N;AT+ESS;SG
+hemoglobiini	hemoglobiinissa	N;IN+ESS;SG
+hemoglobiini	hemoglobiinia	N;PRT;SG
+hemoglobiini	hemoglobiinista	N;IN+ABL;SG
+hemoglobiini	hemoglobiineista	N;IN+ABL;PL
+hemoglobiini	hemoglobiinien	N;GEN;PL
+hemoglobiini	hemoglobiiniin	N;IN+ALL;SG
+hemoglobiini	hemoglobiinein	N;INS;PL
+hemoglobiini	hemoglobiini	N;NOM;SG
+hemoglobiini	hemoglobiineilta	N;AT+ABL;PL
+hemoglobiini	hemoglobiinina	N;FRML;SG
+hemoglobiini	hemoglobiinit	N;ACC;PL
+hemoglobiini	hemoglobiineille	N;AT+ALL;PL
+hemoglobiini	hemoglobiinitta	N;PRIV;SG
+hemoglobiini	hemoglobiineilla	N;AT+ESS;PL
+hemoglobiini	hemoglobiineiksi	N;TRANS;PL
+hemoglobiini	hemoglobiineissa	N;IN+ESS;PL
+hemoglobiini	hemoglobiineineen	N;COM;PL
+hemoglobiini	hemoglobiiniksi	N;TRANS;SG
+hemoglobiini	hemoglobiinin	N;GEN;SG
+hemoglobiini	hemoglobiinille	N;AT+ALL;SG
+hemoglobiini	hemoglobiineihin	N;IN+ALL;PL
+hemoglobiini	hemoglobiinit	N;NOM;PL
+hemoglobiini	hemoglobiini	N;ACC;SG
+hemoglobiini	hemoglobiinilta	N;AT+ABL;SG
+hemoglobiini	hemoglobiineitta	N;PRIV;PL

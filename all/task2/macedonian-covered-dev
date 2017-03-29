@@ -1,0 +1,708 @@
+остави	оставив	V;PST;1;SG
+остави		V;PRS;2;PL
+остави		V;PROG;PST;2;SG
+остави		V;IMP;2;SG
+остави		V.PTCP;PROG;PST;NEUT;SG
+остави		V.PTCP;PST;FEM;SG
+остави		V;PROG;PST;1;SG
+остави		V.PTCP;PST;NEUT;SG
+остави		V.PTCP;PST;PL
+остави		V;PRS;3;SG
+остави		V.PTCP;PST;PASS
+остави		V;PROG;PST;3;PL
+остави		V;PRS;1;SG
+остави		V;PST;2;SG
+остави	оставела	V.PTCP;PROG;PST;FEM;SG
+остави		V;PST;3;SG
+остави	оставел	V.PTCP;PROG;PST;MASC;SG
+остави	оставевте	V;PROG;PST;2;PL
+остави	оставивме	V;PST;1;PL
+остави		V;PRS;2;SG
+остави		V;IMP;2;PL
+остави		V;PRS;3;PL
+остави		V;PROG;PST;1;PL
+остави		V;PST;3;PL
+остави		V.PTCP;PROG;PST;PL
+остави		V;PROG;PST;3;SG
+остави		V;PST;2;PL
+остави		V;PRS;1;PL
+остави		V.PTCP;PST;MASC;SG
+сила		N;SG;DEF;REMT
+сила		N;PL;DEF
+сила		N;PL;INDF
+сила		N;SG;DEF;PROX
+сила		N;SG;DEF
+сила		N;PL;DEF;PROX
+сила		N;PL;VOC
+сила		N;SG;VOC
+сила		N;SG;INDF
+сила	силине	N;PL;DEF;REMT
+конвенција		N;SG;DEF;REMT
+конвенција		N;PL;DEF
+конвенција		N;PL;INDF
+конвенција		N;SG;DEF;PROX
+конвенција		N;SG;DEF
+конвенција		N;PL;DEF;PROX
+конвенција		N;PL;VOC
+конвенција		N;SG;VOC
+конвенција		N;SG;INDF
+конвенција	конвенциине	N;PL;DEF;REMT
+двобој		N;PL
+двобој		N;SG;DEF;REMT
+двобој		N;PL;DEF
+двобој		N;PL;INDF
+двобој		N;SG;DEF;PROX
+двобој		N;SG;DEF
+двобој	двобоиве	N;PL;DEF;PROX
+двобој		N;PL;VOC
+двобој		N;SG;VOC
+двобој		N;SG;INDF
+двобој		N;PL;DEF;REMT
+маса		N;SG;DEF;REMT
+маса		N;PL;DEF
+маса	маси	N;PL;INDF
+маса		N;SG;DEF;PROX
+маса		N;SG;DEF
+маса		N;PL;DEF;PROX
+маса		N;PL;VOC
+маса		N;SG;VOC
+маса		N;SG;INDF
+маса		N;PL;DEF;REMT
+палата		N;SG;DEF;REMT
+палата		N;PL;DEF
+палата		N;PL;INDF
+палата		N;SG;DEF;PROX
+палата		N;SG;DEF
+палата		N;PL;DEF;PROX
+палата		N;PL;VOC
+палата		N;SG;VOC
+палата	палата	N;SG;INDF
+палата		N;PL;DEF;REMT
+ѕвезда		N;SG;DEF;REMT
+ѕвезда		N;PL;DEF
+ѕвезда		N;PL;INDF
+ѕвезда	ѕвездава	N;SG;DEF;PROX
+ѕвезда		N;SG;DEF
+ѕвезда		N;PL;DEF;PROX
+ѕвезда		N;PL;VOC
+ѕвезда		N;SG;VOC
+ѕвезда		N;SG;INDF
+ѕвезда		N;PL;DEF;REMT
+дојде	дојдов	V;PST;1;SG
+дојде		V;PRS;2;PL
+дојде		V;PROG;PST;2;SG
+дојде		V;IMP;2;SG
+дојде		V;PRS;1;PL
+дојде		V.PTCP;PST;FEM;SG
+дојде		V;PROG;PST;1;SG
+дојде		V.PTCP;PST;NEUT;SG
+дојде	дошле	V.PTCP;PST;PL
+дојде	дојде	V;PRS;3;SG
+дојде		V.PTCP;PST;PASS
+дојде		V;PROG;PST;3;PL
+дојде		V;PRS;1;SG
+дојде	дојде	V;PST;2;SG
+дојде		V.PTCP;PROG;PST;FEM;SG
+дојде		V.PTCP;PROG;PST;NEUT;SG
+дојде		V;PST;3;SG
+дојде		V.PTCP;PROG;PST;MASC;SG
+дојде		V;PROG;PST;2;PL
+дојде		V;PST;1;PL
+дојде		V;PRS;2;SG
+дојде		V;IMP;2;PL
+дојде	дојдат	V;PRS;3;PL
+дојде		V;PROG;PST;1;PL
+дојде		V;PST;3;PL
+дојде		V.PTCP;PROG;PST;PL
+дојде		V;PROG;PST;3;SG
+дојде		V;PST;2;PL
+дојде		V.PTCP;PST;MASC;SG
+претвори		V;PST;1;SG
+претвори		V;PRS;2;PL
+претвори	претвореше	V;PROG;PST;2;SG
+претвори		V;IMP;2;SG
+претвори		V.PTCP;PROG;PST;NEUT;SG
+претвори		V.PTCP;PST;FEM;SG
+претвори		V;PROG;PST;1;SG
+претвори	претворило	V.PTCP;PST;NEUT;SG
+претвори		V.PTCP;PST;PL
+претвори		V;PRS;3;SG
+претвори		V.PTCP;PST;PASS
+претвори		V;PROG;PST;3;PL
+претвори		V;PRS;1;SG
+претвори		V;PST;2;SG
+претвори		V.PTCP;PROG;PST;FEM;SG
+претвори		V;PST;3;SG
+претвори		V.PTCP;PROG;PST;MASC;SG
+претвори		V;PROG;PST;2;PL
+претвори	претворивме	V;PST;1;PL
+претвори		V;PRS;2;SG
+претвори		V;IMP;2;PL
+претвори		V;PRS;3;PL
+претвори	претворевме	V;PROG;PST;1;PL
+претвори		V;PST;3;PL
+претвори		V.PTCP;PROG;PST;PL
+претвори		V;PROG;PST;3;SG
+претвори		V;PST;2;PL
+претвори	претвориме	V;PRS;1;PL
+претвори		V.PTCP;PST;MASC;SG
+црево		N;SG;DEF;REMT
+црево		N;PL;DEF
+црево		N;PL;INDF
+црево		N;SG;DEF;PROX
+црево		N;SG;DEF
+црево		N;PL;DEF;PROX
+црево		N;PL;VOC
+црево	црево	N;SG;VOC
+црево		N;SG;INDF
+црево		N;PL;DEF;REMT
+британски		ADJ;PL;DEF
+британски		ADJ;MASC;SG;DEF;PROX
+британски		ADJ;FEM;SG;INDF
+британски		ADJ;NEUT;SG;DEF;PROX
+британски		ADJ;PL;DEF;REMT
+британски		ADJ;MASC;SG;DEF
+британски		ADJ;MASC;SG;INDF
+британски		ADJ;MASC;SG;DEF;REMT
+британски		ADJ;FEM;SG;DEF
+британски	британскиве	ADJ;PL;DEF;PROX
+британски		ADJ;NEUT;SG;DEF;REMT
+британски		ADJ;FEM;SG;DEF;REMT
+британски	британскава	ADJ;FEM;SG;DEF;PROX
+британски		ADJ;NEUT;SG;DEF
+британски		ADJ;PL;INDF
+британски		ADJ;NEUT;SG;INDF
+посета		N;SG;DEF;REMT
+посета		N;PL;DEF
+посета		N;PL;INDF
+посета		N;SG;DEF;PROX
+посета	посетата	N;SG;DEF
+посета		N;PL;DEF;PROX
+посета		N;PL;VOC
+посета		N;SG;VOC
+посета		N;SG;INDF
+посета		N;PL;DEF;REMT
+план		N;PL
+план		N;SG;DEF;REMT
+план		N;PL;DEF
+план		N;PL;INDF
+план	планов	N;SG;DEF;PROX
+план		N;SG;DEF
+план		N;PL;DEF;PROX
+план		N;PL;VOC
+план		N;SG;VOC
+план		N;SG;INDF
+план		N;PL;DEF;REMT
+циклус		N;PL
+циклус		N;SG;DEF;REMT
+циклус		N;PL;DEF
+циклус	циклуси	N;PL;INDF
+циклус		N;SG;DEF;PROX
+циклус		N;SG;DEF
+циклус		N;PL;DEF;PROX
+циклус		N;PL;VOC
+циклус		N;SG;VOC
+циклус		N;SG;INDF
+циклус		N;PL;DEF;REMT
+дијаметар		N;PL
+дијаметар		N;SG;DEF;REMT
+дијаметар	дијаметрите	N;PL;DEF
+дијаметар		N;PL;INDF
+дијаметар		N;SG;DEF;PROX
+дијаметар		N;SG;DEF
+дијаметар		N;PL;DEF;PROX
+дијаметар		N;PL;VOC
+дијаметар		N;SG;VOC
+дијаметар		N;SG;INDF
+дијаметар		N;PL;DEF;REMT
+приклучи	приклучив	V;PST;1;SG
+приклучи		V;PRS;2;PL
+приклучи		V;PROG;PST;2;SG
+приклучи		V;IMP;2;SG
+приклучи		V.PTCP;PROG;PST;NEUT;SG
+приклучи		V.PTCP;PST;FEM;SG
+приклучи		V;PROG;PST;1;SG
+приклучи		V.PTCP;PST;NEUT;SG
+приклучи	приклучиле	V.PTCP;PST;PL
+приклучи		V;PRS;3;SG
+приклучи		V.PTCP;PST;PASS
+приклучи		V;PROG;PST;3;PL
+приклучи		V;PRS;1;SG
+приклучи		V;PST;2;SG
+приклучи		V.PTCP;PROG;PST;FEM;SG
+приклучи		V;PST;3;SG
+приклучи	приклучел	V.PTCP;PROG;PST;MASC;SG
+приклучи		V;PROG;PST;2;PL
+приклучи		V;PST;1;PL
+приклучи		V;PRS;2;SG
+приклучи		V;IMP;2;PL
+приклучи		V;PRS;3;PL
+приклучи	приклучевме	V;PROG;PST;1;PL
+приклучи	приклучија	V;PST;3;PL
+приклучи		V.PTCP;PROG;PST;PL
+приклучи		V;PROG;PST;3;SG
+приклучи		V;PST;2;PL
+приклучи		V;PRS;1;PL
+приклучи		V.PTCP;PST;MASC;SG
+нападне		V;PROG;PST;3;SG
+нападне		V;PST;1;SG
+нападне		V;PRS;2;PL
+нападне		V;PROG;PST;2;SG
+нападне		V;IMP;2;SG
+нападне	нападнеме	V;PRS;1;PL
+нападне		V.PTCP;PST;FEM;SG
+нападне	нападнев	V;PROG;PST;1;SG
+нападне		V.PTCP;PST;NEUT;SG
+нападне		V.PTCP;PST;PL
+нападне		V;PRS;3;SG
+нападне		V.PTCP;PST;PASS
+нападне		V;PROG;PST;3;PL
+нападне		V;PRS;1;SG
+нападне		V;PST;2;SG
+нападне		V.PTCP;PROG;PST;FEM;SG
+нападне		V.PTCP;PST;MASC;SG
+нападне	нападнел	V.PTCP;PROG;PST;MASC;SG
+нападне		V;PROG;PST;2;PL
+нападне	нападнавме	V;PST;1;PL
+нападне		V;PRS;2;SG
+нападне		V;IMP;2;PL
+нападне		V;PRS;3;PL
+нападне		V;PROG;PST;1;PL
+нападне		V;PST;3;PL
+нападне	нападнеле	V.PTCP;PROG;PST;PL
+нападне		V.PTCP;PROG;PST;NEUT;SG
+нападне		V;PST;2;PL
+нападне		V;PST;3;SG
+листа	листана	N;SG;DEF;REMT
+листа		N;PL;DEF
+листа		N;PL;INDF
+листа		N;SG;DEF;PROX
+листа		N;SG;DEF
+листа		N;PL;DEF;PROX
+листа		N;PL;VOC
+листа		N;SG;VOC
+листа		N;SG;INDF
+листа		N;PL;DEF;REMT
+вкус	вкуса	N;PL
+вкус		N;SG;DEF;REMT
+вкус		N;PL;DEF
+вкус		N;PL;INDF
+вкус		N;SG;DEF;PROX
+вкус		N;SG;DEF
+вкус		N;PL;DEF;PROX
+вкус		N;PL;VOC
+вкус		N;SG;VOC
+вкус		N;SG;INDF
+вкус		N;PL;DEF;REMT
+ранг	ранга	N;PL
+ранг		N;SG;DEF;REMT
+ранг		N;PL;DEF
+ранг		N;PL;INDF
+ранг		N;SG;DEF;PROX
+ранг		N;SG;DEF
+ранг		N;PL;DEF;PROX
+ранг		N;PL;VOC
+ранг		N;SG;VOC
+ранг		N;SG;INDF
+ранг		N;PL;DEF;REMT
+морепловец		N;PL
+морепловец		N;SG;DEF;REMT
+морепловец		N;PL;DEF
+морепловец		N;PL;INDF
+морепловец	морепловецов	N;SG;DEF;PROX
+морепловец		N;SG;DEF
+морепловец		N;PL;DEF;PROX
+морепловец		N;PL;VOC
+морепловец		N;SG;VOC
+морепловец		N;SG;INDF
+морепловец		N;PL;DEF;REMT
+договор		N;PL
+договор		N;SG;DEF;REMT
+договор		N;PL;DEF
+договор	договори	N;PL;INDF
+договор		N;SG;DEF;PROX
+договор		N;SG;DEF
+договор		N;PL;DEF;PROX
+договор		N;PL;VOC
+договор		N;SG;VOC
+договор		N;SG;INDF
+договор		N;PL;DEF;REMT
+норма		N;SG;DEF;REMT
+норма		N;PL;DEF
+норма		N;PL;INDF
+норма		N;SG;DEF;PROX
+норма		N;SG;DEF
+норма		N;PL;DEF;PROX
+норма	норми	N;PL;VOC
+норма		N;SG;VOC
+норма		N;SG;INDF
+норма		N;PL;DEF;REMT
+води		V.MSDR
+води		V;PRS;3;PL
+води		V;PROG;PST;1;PL
+води	води	V;PRS;3;SG
+води		V;IMP;2;PL
+води	водев	V;PROG;PST;1;SG
+води		V.PTCP;PST;PASS
+води		V;PROG;PST;3;PL
+води		V;PRS;2;PL
+води		V.PTCP;PROG;PST;MASC;SG
+води		V;PROG;PST;2;SG
+води		V;PRS;1;SG
+води		V;PROG;PST;2;PL
+води		V.PTCP;PROG;PST;PL
+води		V;PROG;PST;3;SG
+води		V.PTCP;PROG;PST;FEM;SG
+води		V.CVB
+води		V;PRS;1;PL
+води		V;PRS;2;SG
+води		V;IMP;2;SG
+води	водело	V.PTCP;PROG;PST;NEUT;SG
+компас		N;PL
+компас		N;SG;DEF;REMT
+компас		N;PL;DEF
+компас		N;PL;INDF
+компас		N;SG;DEF;PROX
+компас		N;SG;DEF
+компас		N;PL;DEF;PROX
+компас		N;PL;VOC
+компас	компасу	N;SG;VOC
+компас		N;SG;INDF
+компас		N;PL;DEF;REMT
+нешто		N;SG;DEF;REMT
+нешто		N;PL;DEF
+нешто	нешта	N;PL;INDF
+нешто		N;SG;DEF;PROX
+нешто		N;SG;DEF
+нешто		N;PL;DEF;PROX
+нешто		N;PL;VOC
+нешто		N;SG;VOC
+нешто		N;SG;INDF
+нешто		N;PL;DEF;REMT
+бенџо		N;SG;DEF;PROX
+бенџо		N;SG;VOC
+бенџо		N;SG;DEF;REMT
+бенџо		N;SG;INDF
+бенџо		N;SG;DEF
+сметка		N;SG;DEF;REMT
+сметка		N;PL;DEF
+сметка		N;PL;INDF
+сметка		N;SG;DEF;PROX
+сметка		N;SG;DEF
+сметка		N;PL;DEF;PROX
+сметка		N;PL;VOC
+сметка	сметко	N;SG;VOC
+сметка		N;SG;INDF
+сметка		N;PL;DEF;REMT
+писмо	писмоно	N;SG;DEF;REMT
+писмо		N;PL;DEF
+писмо		N;PL;INDF
+писмо		N;SG;DEF;PROX
+писмо		N;SG;DEF
+писмо		N;PL;DEF;PROX
+писмо		N;PL;VOC
+писмо		N;SG;VOC
+писмо		N;SG;INDF
+писмо		N;PL;DEF;REMT
+птица		N;SG;DEF;REMT
+птица		N;PL;DEF
+птица		N;PL;INDF
+птица		N;SG;DEF;PROX
+птица		N;SG;DEF
+птица		N;PL;DEF;PROX
+птица		N;PL;VOC
+птица		N;SG;VOC
+птица	птица	N;SG;INDF
+птица		N;PL;DEF;REMT
+крајбрежје		N;SG;DEF;REMT
+крајбрежје		N;PL;DEF
+крајбрежје		N;PL;INDF
+крајбрежје		N;SG;DEF;PROX
+крајбрежје		N;SG;DEF
+крајбрежје		N;PL;DEF;PROX
+крајбрежје	крајбрежја	N;PL;VOC
+крајбрежје		N;SG;VOC
+крајбрежје		N;SG;INDF
+крајбрежје		N;PL;DEF;REMT
+улица		N;SG;DEF;REMT
+улица		N;PL;DEF
+улица		N;PL;INDF
+улица	улицава	N;SG;DEF;PROX
+улица		N;SG;DEF
+улица		N;PL;DEF;PROX
+улица		N;PL;VOC
+улица		N;SG;VOC
+улица		N;SG;INDF
+улица		N;PL;DEF;REMT
+потврдува	потврдување	V.MSDR
+потврдува		V;PRS;3;PL
+потврдува		V;PROG;PST;1;PL
+потврдува		V.PTCP;PROG;PST;MASC;SG
+потврдува		V;PROG;PST;1;SG
+потврдува		V.PTCP;PST;PASS
+потврдува		V;PROG;PST;3;PL
+потврдува		V;PRS;2;PL
+потврдува		V;PRS;3;SG
+потврдува		V;PROG;PST;2;SG
+потврдува		V.PTCP;PROG;PST;PL
+потврдува		V;PROG;PST;2;PL
+потврдува		V.PTCP;PROG;PST;NEUT;SG
+потврдува	потврдуваме	V;PRS;1;PL
+потврдува	потврдувала	V.PTCP;PROG;PST;FEM;SG
+потврдува		V.CVB
+потврдува		V;PRS;2;SG
+потврдува		V;IMP;2;SG
+потврдува		V;PROG;PST;3;SG
+потврдува		V;IMP;2;PL
+потврдува		V;PRS;1;SG
+додаде		V;PST;1;SG
+додаде		V;PRS;2;PL
+додаде		V;PROG;PST;2;SG
+додаде		V;IMP;2;SG
+додаде		V;PRS;1;PL
+додаде		V.PTCP;PST;FEM;SG
+додаде	додадев	V;PROG;PST;1;SG
+додаде		V.PTCP;PST;NEUT;SG
+додаде		V.PTCP;PST;PL
+додаде		V;PRS;3;SG
+додаде		V.PTCP;PST;PASS
+додаде	додадеа	V;PROG;PST;3;PL
+додаде	додадам	V;PRS;1;SG
+додаде		V;PST;2;SG
+додаде		V.PTCP;PROG;PST;FEM;SG
+додаде		V.PTCP;PROG;PST;NEUT;SG
+додаде		V;PST;3;SG
+додаде		V.PTCP;PROG;PST;MASC;SG
+додаде	додадевте	V;PROG;PST;2;PL
+додаде		V;PST;1;PL
+додаде		V;PRS;2;SG
+додаде		V;IMP;2;PL
+додаде		V;PRS;3;PL
+додаде		V;PROG;PST;1;PL
+додаде		V;PST;3;PL
+додаде		V.PTCP;PROG;PST;PL
+додаде		V;PROG;PST;3;SG
+додаде	додадовте	V;PST;2;PL
+додаде		V.PTCP;PST;MASC;SG
+чета	четана	N;SG;DEF;REMT
+чета		N;PL;DEF
+чета		N;PL;INDF
+чета		N;SG;DEF;PROX
+чета		N;SG;DEF
+чета		N;PL;DEF;PROX
+чета		N;PL;VOC
+чета		N;SG;VOC
+чета		N;SG;INDF
+чета		N;PL;DEF;REMT
+престап		N;PL
+престап		N;SG;DEF;REMT
+престап		N;PL;DEF
+престап		N;PL;INDF
+престап		N;SG;DEF;PROX
+престап	престапот	N;SG;DEF
+престап		N;PL;DEF;PROX
+престап		N;PL;VOC
+престап		N;SG;VOC
+престап		N;SG;INDF
+престап		N;PL;DEF;REMT
+болен		ADJ;PL;DEF
+болен	болниов	ADJ;MASC;SG;DEF;PROX
+болен		ADJ;FEM;SG;INDF
+болен	болново	ADJ;NEUT;SG;DEF;PROX
+болен		ADJ;PL;DEF;REMT
+болен		ADJ;MASC;SG;DEF
+болен		ADJ;MASC;SG;INDF
+болен		ADJ;MASC;SG;DEF;REMT
+болен		ADJ;PL;INDF
+болен		ADJ;PL;DEF;PROX
+болен		ADJ;NEUT;SG;DEF;REMT
+болен		ADJ;FEM;SG;DEF;REMT
+болен		ADJ;FEM;SG;DEF;PROX
+болен		ADJ;NEUT;SG;DEF
+болен		ADJ;FEM;SG;DEF
+болен		ADJ;NEUT;SG;INDF
+јадење		N;SG;DEF;REMT
+јадење		N;PL;DEF
+јадење		N;PL;INDF
+јадење		N;SG;DEF;PROX
+јадење		N;SG;DEF
+јадење		N;PL;DEF;PROX
+јадење		N;PL;VOC
+јадење		N;SG;VOC
+јадење	јадење	N;SG;INDF
+јадење		N;PL;DEF;REMT
+јужен		ADJ;PL;DEF
+јужен		ADJ;MASC;SG;DEF;PROX
+јужен		ADJ;FEM;SG;INDF
+јужен		ADJ;NEUT;SG;DEF;PROX
+јужен		ADJ;PL;DEF;REMT
+јужен		ADJ;MASC;SG;DEF
+јужен		ADJ;MASC;SG;INDF
+јужен		ADJ;MASC;SG;DEF;REMT
+јужен		ADJ;PL;INDF
+јужен		ADJ;PL;DEF;PROX
+јужен		ADJ;NEUT;SG;DEF;REMT
+јужен		ADJ;FEM;SG;DEF;REMT
+јужен	јужнава	ADJ;FEM;SG;DEF;PROX
+јужен	јужното	ADJ;NEUT;SG;DEF
+јужен		ADJ;FEM;SG;DEF
+јужен		ADJ;NEUT;SG;INDF
+издание		N;SG;DEF;REMT
+издание		N;PL;DEF
+издание		N;PL;INDF
+издание		N;SG;DEF;PROX
+издание		N;SG;DEF
+издание		N;PL;DEF;PROX
+издание		N;PL;VOC
+издание	издание	N;SG;VOC
+издание		N;SG;INDF
+издание		N;PL;DEF;REMT
+намесник	намесника	N;PL
+намесник		N;SG;DEF;REMT
+намесник		N;PL;DEF
+намесник		N;PL;INDF
+намесник		N;SG;DEF;PROX
+намесник		N;SG;DEF
+намесник		N;PL;DEF;PROX
+намесник		N;PL;VOC
+намесник		N;SG;VOC
+намесник		N;SG;INDF
+намесник		N;PL;DEF;REMT
+врати		V;PST;1;SG
+врати		V;PRS;2;PL
+врати		V;PROG;PST;2;SG
+врати		V;IMP;2;SG
+врати		V.PTCP;PROG;PST;NEUT;SG
+врати	вратила	V.PTCP;PST;FEM;SG
+врати	вратев	V;PROG;PST;1;SG
+врати		V.PTCP;PST;NEUT;SG
+врати	вратиле	V.PTCP;PST;PL
+врати		V;PRS;3;SG
+врати		V.PTCP;PST;PASS
+врати		V;PROG;PST;3;PL
+врати	вратам	V;PRS;1;SG
+врати		V;PST;2;SG
+врати		V.PTCP;PROG;PST;FEM;SG
+врати		V;PST;3;SG
+врати		V.PTCP;PROG;PST;MASC;SG
+врати		V;PROG;PST;2;PL
+врати		V;PST;1;PL
+врати		V;PRS;2;SG
+врати	вратете	V;IMP;2;PL
+врати		V;PRS;3;PL
+врати		V;PROG;PST;1;PL
+врати		V;PST;3;PL
+врати		V.PTCP;PROG;PST;PL
+врати		V;PROG;PST;3;SG
+врати		V;PST;2;PL
+врати		V;PRS;1;PL
+врати		V.PTCP;PST;MASC;SG
+албански		ADJ;PL;DEF
+албански		ADJ;MASC;SG;DEF;PROX
+албански		ADJ;FEM;SG;INDF
+албански		ADJ;NEUT;SG;DEF;PROX
+албански		ADJ;PL;DEF;REMT
+албански		ADJ;MASC;SG;DEF
+албански		ADJ;MASC;SG;INDF
+албански		ADJ;MASC;SG;DEF;REMT
+албански		ADJ;FEM;SG;DEF
+албански	албанскиве	ADJ;PL;DEF;PROX
+албански		ADJ;NEUT;SG;DEF;REMT
+албански	албанскана	ADJ;FEM;SG;DEF;REMT
+албански		ADJ;FEM;SG;DEF;PROX
+албански		ADJ;NEUT;SG;DEF
+албански		ADJ;PL;INDF
+албански		ADJ;NEUT;SG;INDF
+единство	единствоно	N;SG;DEF;REMT
+единство		N;PL;DEF
+единство		N;PL;INDF
+единство		N;SG;DEF;PROX
+единство		N;SG;DEF
+единство		N;PL;DEF;PROX
+единство		N;PL;VOC
+единство		N;SG;VOC
+единство		N;SG;INDF
+единство		N;PL;DEF;REMT
+изгледа		V.MSDR
+изгледа		V;PRS;3;PL
+изгледа		V;PROG;PST;1;PL
+изгледа		V.PTCP;PROG;PST;MASC;SG
+изгледа		V;PROG;PST;1;SG
+изгледа		V;PROG;PST;3;PL
+изгледа		V;PRS;2;PL
+изгледа		V;PRS;3;SG
+изгледа		V;PROG;PST;2;SG
+изгледа	изгледале	V.PTCP;PROG;PST;PL
+изгледа	изгледавте	V;PROG;PST;2;PL
+изгледа	изгледало	V.PTCP;PROG;PST;NEUT;SG
+изгледа		V;PRS;1;PL
+изгледа		V.PTCP;PROG;PST;FEM;SG
+изгледа		V.CVB
+изгледа		V;PRS;2;SG
+изгледа		V;IMP;2;SG
+изгледа		V;PROG;PST;3;SG
+изгледа		V;IMP;2;PL
+изгледа		V;PRS;1;SG
+тајна		N;SG;DEF;REMT
+тајна		N;PL;DEF
+тајна		N;PL;INDF
+тајна		N;SG;DEF;PROX
+тајна	тајната	N;SG;DEF
+тајна		N;PL;DEF;PROX
+тајна		N;PL;VOC
+тајна		N;SG;VOC
+тајна		N;SG;INDF
+тајна		N;PL;DEF;REMT
+лингвистика		N;SG;DEF;PROX
+лингвистика		N;SG;VOC
+лингвистика		N;SG;DEF;REMT
+лингвистика		N;SG;INDF
+лингвистика		N;SG;DEF
+аван		N;PL
+аван		N;SG;DEF;REMT
+аван		N;PL;DEF
+аван		N;PL;INDF
+аван		N;SG;DEF;PROX
+аван		N;SG;DEF
+аван	аваниве	N;PL;DEF;PROX
+аван		N;PL;VOC
+аван		N;SG;VOC
+аван		N;SG;INDF
+аван		N;PL;DEF;REMT
+социјален		ADJ;PL;DEF
+социјален	социјалниов	ADJ;MASC;SG;DEF;PROX
+социјален	социјална	ADJ;FEM;SG;INDF
+социјален		ADJ;NEUT;SG;DEF;PROX
+социјален		ADJ;PL;DEF;REMT
+социјален		ADJ;MASC;SG;DEF
+социјален		ADJ;MASC;SG;INDF
+социјален		ADJ;MASC;SG;DEF;REMT
+социјален		ADJ;PL;INDF
+социјален		ADJ;PL;DEF;PROX
+социјален		ADJ;NEUT;SG;DEF;REMT
+социјален		ADJ;FEM;SG;DEF;REMT
+социјален		ADJ;FEM;SG;DEF;PROX
+социјален		ADJ;NEUT;SG;DEF
+социјален		ADJ;FEM;SG;DEF
+социјален		ADJ;NEUT;SG;INDF
+симболизира		V.MSDR
+симболизира		V;PRS;3;PL
+симболизира		V;PROG;PST;1;PL
+симболизира	симболизирал	V.PTCP;PROG;PST;MASC;SG
+симболизира		V;PROG;PST;1;SG
+симболизира		V.PTCP;PST;PASS
+симболизира		V;PROG;PST;3;PL
+симболизира		V;PRS;2;PL
+симболизира	симболизира	V;PRS;3;SG
+симболизира		V;PROG;PST;2;SG
+симболизира		V.PTCP;PROG;PST;PL
+симболизира		V;PROG;PST;2;PL
+симболизира		V.PTCP;PROG;PST;NEUT;SG
+симболизира		V;PRS;1;PL
+симболизира		V.PTCP;PROG;PST;FEM;SG
+симболизира	симболизирајќи	V.CVB
+симболизира		V;PRS;2;SG
+симболизира		V;IMP;2;SG
+симболизира		V;PROG;PST;3;SG
+симболизира		V;IMP;2;PL
+симболизира		V;PRS;1;SG

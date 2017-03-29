@@ -1,0 +1,1183 @@
+klášter	kláštere	N;VOC;SG
+klášter	klášterů	N;GEN;PL
+klášter	klášter	N;NOM;SG
+klášter	kláštery	N;VOC;PL
+klášter	kláštery	N;INS;PL
+klášter	klášterech	N;ESS;PL
+klášter	klášteře	N;ESS;SG
+klášter	klášteru	N;GEN;SG
+klášter	klášterem	N;INS;SG
+klášter	klášteru	N;DAT;SG
+klášter	kláštery	N;ACC;PL
+klášter	klášter	N;ACC;SG
+klášter	kláštery	N;NOM;PL
+klášter	klášterům	N;DAT;PL
+styk	styků	N;GEN;PL
+styk	styku	N;VOC;SG
+styk	styk	N;NOM;SG
+styk	styky	N;VOC;PL
+styk	styky	N;INS;PL
+styk	stycích	N;ESS;PL
+styk	styku	N;ESS;SG
+styk	styku	N;GEN;SG
+styk	stykem	N;INS;SG
+styk	styku	N;DAT;SG
+styk	styky	N;ACC;PL
+styk	styk	N;ACC;SG
+styk	styky	N;NOM;PL
+styk	stykům	N;DAT;PL
+bratranec	bratranče	N;VOC;SG
+bratranec	bratrancové	N;NOM;PL
+bratranec	bratrance	N;GEN;SG
+bratranec	bratranců	N;GEN;PL
+bratranec	bratranci	N;INS;PL
+bratranec	bratrancích	N;ESS;PL
+bratranec	bratrancovi	N;ESS;SG
+bratranec	bratranec	N;NOM;SG
+bratranec	bratrancem	N;INS;SG
+bratranec	bratrancovi	N;DAT;SG
+bratranec	bratrance	N;ACC;PL
+bratranec	bratrance	N;ACC;SG
+bratranec	bratrancové	N;VOC;PL
+bratranec	bratrancům	N;DAT;PL
+setkávat	byl bych setkával	V;COND;PST;1;SG;MASC
+setkávat	byl by setkával	V;COND;PST;3;SG;MASC
+setkávat	setkávala jste	V;IND;PST;2;PL;NEUT
+setkávat	setkávajíce	V.CVB;PRS;PL
+setkávat	setkávaly	V.PTCP;ACT;PRF;INAN;MASC;PL
+setkávat	setkávala byste	V;COND;PRS;2;PL;NEUT
+setkávat	setkávalo	V;IND;PST;3;SG;NEUT
+setkávat	setkáváte	V;IND;PRS;2;PL
+setkávat	bylo byste setkávalo	V;COND;PST;2;SG;FORM;NEUT
+setkávat	setkávav	V.CVB;PST;MASC;SG
+setkávat	setkávajíc	V.CVB;PRS;FEM;SG
+setkávat	setkávalo bych	V;COND;PRS;1;SG;NEUT
+setkávat	budete setkávat	V;IND;FUT;2;SG;FORM
+setkávat	setkáváni	V.PTCP;PASS;ANIM;MASC;PL
+setkávat	setkávala jsme	V;IND;PST;1;PL;NEUT
+setkávat	byla by setkávala	V;COND;PST;3;SG;FEM
+setkávat	setkávalo jsem	V;IND;PST;1;SG;NEUT
+setkávat	setkává	V;IND;PRS;3;SG
+setkávat	byla bych setkávala	V;COND;PST;1;SG;FEM
+setkávat	setkávala	V;IND;PST;3;PL;NEUT
+setkávat	setkávalo jste	V;IND;PST;2;SG;FORM;NEUT
+setkávat	setkávali	V;IND;PST;3;PL;MASC;ANIM
+setkávat	setkávali byste	V;COND;PRS;2;PL;MASC
+setkávat	byl byste setkával	V;COND;PST;2;SG;FORM;MASC
+setkávat	setkáván	V.PTCP;PASS;MASC;SG
+setkávat	setkávala jsem	V;IND;PST;1;SG;FEM
+setkávat	setkávají	V;IND;PRS;3;PL
+setkávat	setkávala	V.PTCP;ACT;PRF;FEM;SG
+setkávat	setkávala bych	V;COND;PRS;1;SG;FEM
+setkávat	setkávající	V.PTCP
+setkávat	setkávalo	V.PTCP;ACT;PRF;NEUT;SG
+setkávat	setkávala jste	V;IND;PST;2;SG;FORM;FEM
+setkávat	setkávána	V.PTCP;PASS;FEM;SG
+setkávat	byly bychom setkávaly	V;COND;PST;1;PL;FEM
+setkávat	budeme setkávat	V;IND;FUT;1;PL
+setkávat	setkávalo jsi	V;IND;PST;2;SG;NEUT
+setkávat	budou setkávat	V;IND;FUT;3;PL
+setkávat	setkávaly	V.PTCP;ACT;PRF;FEM;PL
+setkávat	setkávala jsi	V;IND;PST;2;SG;FEM
+setkávat	setkáváš	V;IND;PST;2;SG
+setkávat	setkávaly byste	V;COND;PRS;2;PL;FEM
+setkávat	setkávala	V.PTCP;ACT;PRF;NEUT;PL
+setkávat	setkávala	V;IND;PST;3;SG;FEM
+setkávat	setkával jsem	V;IND;PST;1;SG;MASC
+setkávat	setkávejme	V;IMP;1;PL
+setkávat	bylo bych setkávalo	V;COND;PST;1;SG;NEUT
+setkávat	setkávali jsme	V;IND;PST;1;PL;MASC
+setkávat	setkávejte	V;IMP;2;SG;FORM
+setkávat	setkávali jste	V;IND;PST;2;PL;MASC
+setkávat	setkáváme	V;IND;PRS;1;PL
+setkávat	setkávaly jste	V;IND;PST;2;PL;FEM
+setkávat	setkávaje	V.CVB;PRS;MASC;SG
+setkávat	setkávaly jsme	V;IND;PST;1;PL;FEM
+setkávat	setkávali	V.PTCP;ACT;PRF;ANIM;MASC;PL
+setkávat	setkávány	V.PTCP;PASS;INAN;MASC;PL
+setkávat	setkávaly	V;IND;PST;3;PL;FEM
+setkávat	setkávejte	V;IMP;2;PL
+setkávat	setkávaly	V;IND;PST;3;PL;MASC;INAN
+setkávat	setkávána	V.PTCP;PASS;NEUT;PL
+setkávat	setkávat	V;NFIN
+setkávat	setkával	V.PTCP;ACT;PRF;MASC;SG
+setkávat	setkávali by	V;COND;PRS;1;PL;MASC;ANIM
+setkávat	setkávavši	V.CVB;PST;FEM;SG
+setkávat	setkával bych	V;COND;PRS;1;SG;MASC
+setkávat	setkával jsi	V;IND;PST;2;SG;MASC
+setkávat	setkával by	V;COND;PRS;3;SG;MASC
+setkávat	setkával jste	V;IND;PST;2;SG;FORM;MASC
+setkávat	byli byste setkávali	V;COND;PST;2;PL;MASC
+setkávat	setkával byste	V;COND;PRS;2;SG;FORM;MASC
+setkávat	byla bychom setkávala	V;COND;PST;1;PL;NEUT
+setkávat	setkávali bychom	V;COND;PRS;1;PL;MASC
+setkávat	byl bys setkával	V;COND;PST;2;SG;MASC
+setkávat	byla bys setkávala	V;COND;PST;2;SG;FEM
+setkávat	budu setkávat	V;IND;FUT;1;SG
+setkávat	byla by setkávala	V;COND;PST;3;PL;NEUT
+setkávat	setkávala byste	V;COND;PRS;2;SG;FORM;FEM
+setkávat	byli by setkávali	V;COND;PST;3;PL;MASC;ANIM
+setkávat	bude setkávat	V;IND;FUT;3;SG
+setkávat	setkávala by	V;COND;PRS;3;SG;FEM
+setkávat	setkávala bychom	V;COND;PRS;1;PL;NEUT
+setkávat	byly by setkávaly	V;COND;PST;3;PL;FEM
+setkávat	setkávej	V;IMP;2;SG
+setkávat	setkáváno	V.PTCP;PASS;NEUT;SG
+setkávat	byly byste setkávaly	V;COND;PST;2;PL;FEM
+setkávat	bylo bys setkávalo	V;COND;PST;2;SG;NEUT
+setkávat	byli bychom setkávali	V;COND;PST;1;PL;MASC
+setkávat	budete setkávat	V;IND;FUT;2;PL
+setkávat	setkával bys	V;COND;PRS;2;SG;MASC
+setkávat	setkávala bys	V;COND;PRS;2;SG;FEM
+setkávat	setkávavše	V.CVB;PST;PL
+setkávat	setkávala by	V;COND;PRS;3;PL;NEUT
+setkávat	byla byste setkávala	V;COND;PST;2;SG;FORM;FEM
+setkávat	setkávaly by	V;COND;PRS;1;PL;MASC;INAN
+setkávat	setkávám	V;IND;PRS;1;SG
+setkávat	setkávání	V.CVB
+setkávat	setkávaly by	V;COND;PRS;3;PL;FEM
+setkávat	setkáváte	V;IND;PRS;2;SG;FORM
+setkávat	byla byste setkávala	V;COND;PST;2;PL;NEUT
+setkávat	setkávalo bys	V;COND;PRS;2;SG;NEUT
+setkávat	setkávalo by	V;COND;PRS;3;SG;NEUT
+setkávat	setkával	V;IND;PST;3;SG;MASC
+setkávat	setkávalo byste	V;COND;PRS;2;SG;FORM;NEUT
+setkávat	bylo by setkávalo	V;COND;PST;3;SG;NEUT
+setkávat	budeš setkávat	V;IND;FUT;2;SG
+setkávat	setkávaly bychom	V;COND;PRS;1;PL;FEM
+setkávat	setkávány	V.PTCP;PASS;FEM;PL
+setkávat	byly by setkávaly	V;COND;PST;3;PL;MASC;INAN
+srbský	srbské	ADJ;NOM;MASC;PL
+srbský	srbského	ADJ;ACC;ANIM;MASC;SG
+srbský	srbské	ADJ;DAT;FEM;SG
+srbský	srbským	ADJ;DAT;PL
+srbský	srbské	ADJ;VOC;MASC;PL
+srbský	srbští	ADJ;NOM;ANIM;MASC;PL
+srbský	srbskou	ADJ;ACC;FEM;SG
+srbský	srbského	ADJ;GEN;MASC;SG
+srbský	srbských	ADJ;GEN;PL
+srbský	srbského	ADJ;GEN;NEUT;SG
+srbský	srbská	ADJ;ACC;NEUT;PL
+srbský	srbské	ADJ;NOM;FEM;PL
+srbský	srbská	ADJ;NOM;NEUT;PL
+srbský	srbský	ADJ;NOM;MASC;SG
+srbský	srbští	ADJ;VOC;ANIM;MASC;PL
+srbský	srbské	ADJ;VOC;NEUT;SG
+srbský	srbském	ADJ;ESS;NEUT;SG
+srbský	srbské	ADJ;GEN;FEM;SG
+srbský	srbské	ADJ;ACC;MASC;PL
+srbský	srbské	ADJ;ACC;FEM;PL
+srbský	srbskými	ADJ;INS;PL
+srbský	srbském	ADJ;ESS;MASC;SG
+srbský	srbskému	ADJ;DAT;MASC;SG
+srbský	srbské	ADJ;NOM;NEUT;SG
+srbský	srbským	ADJ;INS;MASC;SG
+srbský	srbské	ADJ;ACC;NEUT;SG
+srbský	srbské	ADJ;VOC;FEM;PL
+srbský	srbská	ADJ;VOC;NEUT;PL
+srbský	srbský	ADJ;ACC;INAN;MASC;SG
+srbský	srbská	ADJ;VOC;FEM;SG
+srbský	srbskému	ADJ;DAT;NEUT;SG
+srbský	srbský	ADJ;VOC;MASC;SG
+srbský	srbská	ADJ;NOM;FEM;SG
+srbský	srbských	ADJ;ESS;PL
+srbský	srbské	ADJ;ESS;FEM;SG
+elektrický	elektrické	ADJ;NOM;MASC;PL
+elektrický	elektrického	ADJ;ACC;ANIM;MASC;SG
+elektrický	elektrické	ADJ;DAT;FEM;SG
+elektrický	elektrickým	ADJ;DAT;PL
+elektrický	elektrické	ADJ;VOC;MASC;PL
+elektrický	električtí	ADJ;NOM;ANIM;MASC;PL
+elektrický	elektrickou	ADJ;ACC;FEM;SG
+elektrický	elektrického	ADJ;GEN;MASC;SG
+elektrický	elektrických	ADJ;GEN;PL
+elektrický	elektrického	ADJ;GEN;NEUT;SG
+elektrický	elektrická	ADJ;ACC;NEUT;PL
+elektrický	elektrické	ADJ;NOM;FEM;PL
+elektrický	elektrická	ADJ;NOM;NEUT;PL
+elektrický	elektrický	ADJ;NOM;MASC;SG
+elektrický	električtí	ADJ;VOC;ANIM;MASC;PL
+elektrický	elektrické	ADJ;VOC;NEUT;SG
+elektrický	elektrickému	ADJ;DAT;MASC;SG
+elektrický	elektrické	ADJ;GEN;FEM;SG
+elektrický	elektrické	ADJ;ACC;MASC;PL
+elektrický	elektrické	ADJ;ACC;FEM;PL
+elektrický	elektrickými	ADJ;INS;PL
+elektrický	elektrickém	ADJ;ESS;MASC;SG
+elektrický	elektrickým	ADJ;ESS;NEUT;SG
+elektrický	elektrické	ADJ;NOM;NEUT;SG
+elektrický	elektrickým	ADJ;INS;MASC;SG
+elektrický	elektrické	ADJ;ACC;NEUT;SG
+elektrický	elektrické	ADJ;VOC;FEM;PL
+elektrický	elektrická	ADJ;VOC;NEUT;PL
+elektrický	elektrický	ADJ;ACC;INAN;MASC;SG
+elektrický	elektrická	ADJ;VOC;FEM;SG
+elektrický	elektrickému	ADJ;DAT;NEUT;SG
+elektrický	elektrický	ADJ;VOC;MASC;SG
+elektrický	elektrická	ADJ;NOM;FEM;SG
+elektrický	elektrických	ADJ;ESS;PL
+elektrický	elektrické	ADJ;ESS;FEM;SG
+naslouchat	byl bych naslouchal	V;COND;PST;1;SG;MASC
+naslouchat	byl by naslouchal	V;COND;PST;3;SG;MASC
+naslouchat	naslouchala jste	V;IND;PST;2;PL;NEUT
+naslouchat	naslouchajíce	V.CVB;PRS;PL
+naslouchat	naslouchaly	V.PTCP;ACT;PRF;INAN;MASC;PL
+naslouchat	naslouchala byste	V;COND;PRS;2;PL;NEUT
+naslouchat	naslouchalo	V;IND;PST;3;SG;NEUT
+naslouchat	nasloucháte	V;IND;PRS;2;PL
+naslouchat	bylo byste naslouchalo	V;COND;PST;2;SG;FORM;NEUT
+naslouchat	naslouchav	V.CVB;PST;MASC;SG
+naslouchat	naslouchajíc	V.CVB;PRS;FEM;SG
+naslouchat	naslouchalo bych	V;COND;PRS;1;SG;NEUT
+naslouchat	budete naslouchat	V;IND;FUT;2;SG;FORM
+naslouchat	nasloucháni	V.PTCP;PASS;ANIM;MASC;PL
+naslouchat	naslouchala jsme	V;IND;PST;1;PL;NEUT
+naslouchat	byla by naslouchala	V;COND;PST;3;SG;FEM
+naslouchat	naslouchalo jsem	V;IND;PST;1;SG;NEUT
+naslouchat	naslouchá	V;IND;PRS;3;SG
+naslouchat	byla bych naslouchala	V;COND;PST;1;SG;FEM
+naslouchat	naslouchala	V;IND;PST;3;PL;NEUT
+naslouchat	naslouchalo jste	V;IND;PST;2;SG;FORM;NEUT
+naslouchat	naslouchali	V;IND;PST;3;PL;MASC;ANIM
+naslouchat	naslouchali byste	V;COND;PRS;2;PL;MASC
+naslouchat	byl byste naslouchal	V;COND;PST;2;SG;FORM;MASC
+naslouchat	naslouchán	V.PTCP;PASS;MASC;SG
+naslouchat	naslouchala jsem	V;IND;PST;1;SG;FEM
+naslouchat	naslouchají	V;IND;PRS;3;PL
+naslouchat	naslouchala	V.PTCP;ACT;PRF;FEM;SG
+naslouchat	naslouchala bych	V;COND;PRS;1;SG;FEM
+naslouchat	naslouchající	V.PTCP
+naslouchat	naslouchalo	V.PTCP;ACT;PRF;NEUT;SG
+naslouchat	naslouchala jste	V;IND;PST;2;SG;FORM;FEM
+naslouchat	naslouchána	V.PTCP;PASS;FEM;SG
+naslouchat	byly bychom naslouchaly	V;COND;PST;1;PL;FEM
+naslouchat	budeme naslouchat	V;IND;FUT;1;PL
+naslouchat	naslouchalo jsi	V;IND;PST;2;SG;NEUT
+naslouchat	budou naslouchat	V;IND;FUT;3;PL
+naslouchat	naslouchaly	V.PTCP;ACT;PRF;FEM;PL
+naslouchat	naslouchala jsi	V;IND;PST;2;SG;FEM
+naslouchat	nasloucháš	V;IND;PST;2;SG
+naslouchat	naslouchaly byste	V;COND;PRS;2;PL;FEM
+naslouchat	naslouchala	V.PTCP;ACT;PRF;NEUT;PL
+naslouchat	naslouchala	V;IND;PST;3;SG;FEM
+naslouchat	naslouchal jsem	V;IND;PST;1;SG;MASC
+naslouchat	naslouchejme	V;IMP;1;PL
+naslouchat	bylo bych naslouchalo	V;COND;PST;1;SG;NEUT
+naslouchat	naslouchali jsme	V;IND;PST;1;PL;MASC
+naslouchat	naslouchejte	V;IMP;2;SG;FORM
+naslouchat	naslouchali jste	V;IND;PST;2;PL;MASC
+naslouchat	nasloucháme	V;IND;PRS;1;PL
+naslouchat	naslouchaly jste	V;IND;PST;2;PL;FEM
+naslouchat	naslouchaje	V.CVB;PRS;MASC;SG
+naslouchat	naslouchaly jsme	V;IND;PST;1;PL;FEM
+naslouchat	naslouchali	V.PTCP;ACT;PRF;ANIM;MASC;PL
+naslouchat	naslouchány	V.PTCP;PASS;INAN;MASC;PL
+naslouchat	naslouchaly	V;IND;PST;3;PL;FEM
+naslouchat	naslouchejte	V;IMP;2;PL
+naslouchat	naslouchaly	V;IND;PST;3;PL;MASC;INAN
+naslouchat	naslouchána	V.PTCP;PASS;NEUT;PL
+naslouchat	naslouchat	V;NFIN
+naslouchat	naslouchal	V.PTCP;ACT;PRF;MASC;SG
+naslouchat	naslouchali by	V;COND;PRS;1;PL;MASC;ANIM
+naslouchat	naslouchavši	V.CVB;PST;FEM;SG
+naslouchat	naslouchal bych	V;COND;PRS;1;SG;MASC
+naslouchat	naslouchal jsi	V;IND;PST;2;SG;MASC
+naslouchat	naslouchal by	V;COND;PRS;3;SG;MASC
+naslouchat	naslouchal jste	V;IND;PST;2;SG;FORM;MASC
+naslouchat	byli byste naslouchali	V;COND;PST;2;PL;MASC
+naslouchat	naslouchal byste	V;COND;PRS;2;SG;FORM;MASC
+naslouchat	byla bychom naslouchala	V;COND;PST;1;PL;NEUT
+naslouchat	naslouchali bychom	V;COND;PRS;1;PL;MASC
+naslouchat	byl bys naslouchal	V;COND;PST;2;SG;MASC
+naslouchat	byla bys naslouchala	V;COND;PST;2;SG;FEM
+naslouchat	budu naslouchat	V;IND;FUT;1;SG
+naslouchat	byla by naslouchala	V;COND;PST;3;PL;NEUT
+naslouchat	naslouchala byste	V;COND;PRS;2;SG;FORM;FEM
+naslouchat	byli by naslouchali	V;COND;PST;3;PL;MASC;ANIM
+naslouchat	bude naslouchat	V;IND;FUT;3;SG
+naslouchat	naslouchala by	V;COND;PRS;3;SG;FEM
+naslouchat	naslouchala bychom	V;COND;PRS;1;PL;NEUT
+naslouchat	byly by naslouchaly	V;COND;PST;3;PL;FEM
+naslouchat	naslouchej	V;IMP;2;SG
+naslouchat	nasloucháno	V.PTCP;PASS;NEUT;SG
+naslouchat	byly byste naslouchaly	V;COND;PST;2;PL;FEM
+naslouchat	bylo bys naslouchalo	V;COND;PST;2;SG;NEUT
+naslouchat	byli bychom naslouchali	V;COND;PST;1;PL;MASC
+naslouchat	budete naslouchat	V;IND;FUT;2;PL
+naslouchat	naslouchal bys	V;COND;PRS;2;SG;MASC
+naslouchat	naslouchala bys	V;COND;PRS;2;SG;FEM
+naslouchat	naslouchavše	V.CVB;PST;PL
+naslouchat	naslouchala by	V;COND;PRS;3;PL;NEUT
+naslouchat	byla byste naslouchala	V;COND;PST;2;SG;FORM;FEM
+naslouchat	naslouchaly by	V;COND;PRS;1;PL;MASC;INAN
+naslouchat	naslouchám	V;IND;PRS;1;SG
+naslouchat	naslouchání	V.CVB
+naslouchat	naslouchaly by	V;COND;PRS;3;PL;FEM
+naslouchat	nasloucháte	V;IND;PRS;2;SG;FORM
+naslouchat	byla byste naslouchala	V;COND;PST;2;PL;NEUT
+naslouchat	naslouchalo bys	V;COND;PRS;2;SG;NEUT
+naslouchat	naslouchalo by	V;COND;PRS;3;SG;NEUT
+naslouchat	naslouchal	V;IND;PST;3;SG;MASC
+naslouchat	naslouchalo byste	V;COND;PRS;2;SG;FORM;NEUT
+naslouchat	bylo by naslouchalo	V;COND;PST;3;SG;NEUT
+naslouchat	budeš naslouchat	V;IND;FUT;2;SG
+naslouchat	naslouchaly bychom	V;COND;PRS;1;PL;FEM
+naslouchat	naslouchány	V.PTCP;PASS;FEM;PL
+naslouchat	byly by naslouchaly	V;COND;PST;3;PL;MASC;INAN
+tvar	tvare	N;VOC;SG
+tvar	tvarů	N;GEN;PL
+tvar	tvar	N;NOM;SG
+tvar	tvary	N;VOC;PL
+tvar	tvary	N;INS;PL
+tvar	tvarech	N;ESS;PL
+tvar	tvaru	N;ESS;SG
+tvar	tvaru	N;GEN;SG
+tvar	tvarem	N;INS;SG
+tvar	tvaru	N;DAT;SG
+tvar	tvary	N;ACC;PL
+tvar	tvar	N;ACC;SG
+tvar	tvary	N;NOM;PL
+tvar	tvarům	N;DAT;PL
+zásaditý	zásadité	ADJ;NOM;MASC;PL
+zásaditý	zásaditého	ADJ;ACC;ANIM;MASC;SG
+zásaditý	zásadité	ADJ;DAT;FEM;SG
+zásaditý	zásaditým	ADJ;DAT;PL
+zásaditý	zásadité	ADJ;VOC;MASC;PL
+zásaditý	zásadití	ADJ;NOM;ANIM;MASC;PL
+zásaditý	zásaditou	ADJ;ACC;FEM;SG
+zásaditý	zásaditého	ADJ;GEN;MASC;SG
+zásaditý	zásaditých	ADJ;GEN;PL
+zásaditý	zásaditého	ADJ;GEN;NEUT;SG
+zásaditý	zásaditá	ADJ;ACC;NEUT;PL
+zásaditý	zásadité	ADJ;NOM;FEM;PL
+zásaditý	zásaditá	ADJ;NOM;NEUT;PL
+zásaditý	zásaditý	ADJ;NOM;MASC;SG
+zásaditý	zásadití	ADJ;VOC;ANIM;MASC;PL
+zásaditý	zásadité	ADJ;VOC;NEUT;SG
+zásaditý	zásaditém	ADJ;ESS;NEUT;SG
+zásaditý	zásadité	ADJ;GEN;FEM;SG
+zásaditý	zásadité	ADJ;ACC;MASC;PL
+zásaditý	zásadité	ADJ;ACC;FEM;PL
+zásaditý	zásaditými	ADJ;INS;PL
+zásaditý	zásaditém	ADJ;ESS;MASC;SG
+zásaditý	zásaditému	ADJ;DAT;MASC;SG
+zásaditý	zásadité	ADJ;NOM;NEUT;SG
+zásaditý	zásaditým	ADJ;INS;MASC;SG
+zásaditý	zásadité	ADJ;ACC;NEUT;SG
+zásaditý	zásadité	ADJ;VOC;FEM;PL
+zásaditý	zásaditá	ADJ;VOC;NEUT;PL
+zásaditý	zásaditý	ADJ;ACC;INAN;MASC;SG
+zásaditý	zásaditá	ADJ;VOC;FEM;SG
+zásaditý	zásaditému	ADJ;DAT;NEUT;SG
+zásaditý	zásaditý	ADJ;VOC;MASC;SG
+zásaditý	zásaditá	ADJ;NOM;FEM;SG
+zásaditý	zásaditých	ADJ;ESS;PL
+zásaditý	zásadité	ADJ;ESS;FEM;SG
+voják	vojáci	N;NOM;PL
+voják	vojáků	N;GEN;PL
+voják	vojáka	N;GEN;SG
+voják	vojáky	N;INS;PL
+voják	vojácích	N;ESS;PL
+voják	vojákovi	N;ESS;SG
+voják	vojáku	N;VOC;SG
+voják	voják	N;NOM;SG
+voják	vojákem	N;INS;SG
+voják	vojákovi	N;DAT;SG
+voják	vojáky	N;ACC;PL
+voják	vojáka	N;ACC;SG
+voják	vojáci	N;VOC;PL
+voják	vojákům	N;DAT;PL
+pořadí	pořadí	N;GEN;PL
+pořadí	pořadí	N;NOM;PL
+pořadí	pořadí	N;GEN;SG
+pořadí	pořadími	N;INS;PL
+pořadí	pořadích	N;ESS;PL
+pořadí	pořadí	N;ESS;SG
+pořadí	pořadí	N;VOC;SG
+pořadí	pořadí	N;NOM;SG
+pořadí	pořadím	N;INS;SG
+pořadí	pořadí	N;DAT;SG
+pořadí	pořadí	N;ACC;PL
+pořadí	pořadí	N;ACC;SG
+pořadí	pořadí	N;VOC;PL
+pořadí	pořadím	N;DAT;PL
+básník	básníci	N;NOM;PL
+básník	básníků	N;GEN;PL
+básník	básníka	N;GEN;SG
+básník	básníky	N;INS;PL
+básník	básnících	N;ESS;PL
+básník	básníku	N;ESS;SG
+básník	básníku	N;VOC;SG
+básník	básník	N;NOM;SG
+básník	básníkem	N;INS;SG
+básník	básníku	N;DAT;SG
+básník	básníky	N;ACC;PL
+básník	básníka	N;ACC;SG
+básník	básníky	N;VOC;PL
+básník	básníkům	N;DAT;PL
+déšť	deště	N;NOM;PL
+déšť	dešti	N;VOC;SG
+déšť	deště	N;GEN;SG
+déšť	dešťů	N;GEN;PL
+déšť	dešti	N;INS;PL
+déšť	deštích	N;ESS;PL
+déšť	dešti	N;ESS;SG
+déšť	déšť	N;NOM;SG
+déšť	deštěm	N;INS;SG
+déšť	dešti	N;DAT;SG
+déšť	deště	N;ACC;PL
+déšť	déšť	N;ACC;SG
+déšť	deště	N;VOC;PL
+déšť	dešťům	N;DAT;PL
+adresa	adres	N;GEN;PL
+adresa	adreso	N;VOC;SG
+adresa	adresa	N;NOM;SG
+adresa	adresy	N;VOC;PL
+adresa	adresami	N;INS;PL
+adresa	adresách	N;ESS;PL
+adresa	adrese	N;ESS;SG
+adresa	adresy	N;GEN;SG
+adresa	adresou	N;INS;SG
+adresa	adrese	N;DAT;SG
+adresa	adresy	N;ACC;PL
+adresa	adresu	N;ACC;SG
+adresa	adresy	N;NOM;PL
+adresa	adresám	N;DAT;PL
+listopad	listopade	N;VOC;SG
+listopad	listopadů	N;GEN;PL
+listopad	listopad	N;NOM;SG
+listopad	listopady	N;VOC;PL
+listopad	listopady	N;INS;PL
+listopad	listopadech	N;ESS;PL
+listopad	listopadu	N;ESS;SG
+listopad	listopadu	N;GEN;SG
+listopad	listopadem	N;INS;SG
+listopad	listopadu	N;DAT;SG
+listopad	listopady	N;ACC;PL
+listopad	listopad	N;ACC;SG
+listopad	listopady	N;NOM;PL
+listopad	listopadům	N;DAT;PL
+kříž	kříže	N;NOM;PL
+kříž	kříži	N;VOC;SG
+kříž	kříže	N;GEN;SG
+kříž	křížů	N;GEN;PL
+kříž	kříži	N;INS;PL
+kříž	křížích	N;ESS;PL
+kříž	kříži	N;ESS;SG
+kříž	kříž	N;NOM;SG
+kříž	křížem	N;INS;SG
+kříž	kříži	N;DAT;SG
+kříž	kříže	N;ACC;PL
+kříž	kříž	N;ACC;SG
+kříž	kříže	N;VOC;PL
+kříž	křížům	N;DAT;PL
+chorvatský	chorvatské	ADJ;NOM;MASC;PL
+chorvatský	chorvatského	ADJ;ACC;ANIM;MASC;SG
+chorvatský	chorvatské	ADJ;DAT;FEM;SG
+chorvatský	chorvatským	ADJ;DAT;PL
+chorvatský	chorvatské	ADJ;VOC;MASC;PL
+chorvatský	chorvatští	ADJ;NOM;ANIM;MASC;PL
+chorvatský	chorvatskou	ADJ;ACC;FEM;SG
+chorvatský	chorvatského	ADJ;GEN;MASC;SG
+chorvatský	chorvatských	ADJ;GEN;PL
+chorvatský	chorvatského	ADJ;GEN;NEUT;SG
+chorvatský	chorvatská	ADJ;ACC;NEUT;PL
+chorvatský	chorvatské	ADJ;NOM;FEM;PL
+chorvatský	chorvatská	ADJ;NOM;NEUT;PL
+chorvatský	chorvatský	ADJ;NOM;MASC;SG
+chorvatský	chorvatští	ADJ;VOC;ANIM;MASC;PL
+chorvatský	chorvatské	ADJ;VOC;NEUT;SG
+chorvatský	chorvatském	ADJ;ESS;NEUT;SG
+chorvatský	chorvatské	ADJ;GEN;FEM;SG
+chorvatský	chorvatské	ADJ;ACC;MASC;PL
+chorvatský	chorvatské	ADJ;ACC;FEM;PL
+chorvatský	chorvatskými	ADJ;INS;PL
+chorvatský	chorvatském	ADJ;ESS;MASC;SG
+chorvatský	chorvatskému	ADJ;DAT;MASC;SG
+chorvatský	chorvatské	ADJ;NOM;NEUT;SG
+chorvatský	chorvatským	ADJ;INS;MASC;SG
+chorvatský	chorvatské	ADJ;ACC;NEUT;SG
+chorvatský	chorvatské	ADJ;VOC;FEM;PL
+chorvatský	chorvatská	ADJ;VOC;NEUT;PL
+chorvatský	chorvatský	ADJ;ACC;INAN;MASC;SG
+chorvatský	chorvatská	ADJ;VOC;FEM;SG
+chorvatský	chorvatskému	ADJ;DAT;NEUT;SG
+chorvatský	chorvatský	ADJ;VOC;MASC;SG
+chorvatský	chorvatská	ADJ;NOM;FEM;SG
+chorvatský	chorvatských	ADJ;ESS;PL
+chorvatský	chorvatské	ADJ;ESS;FEM;SG
+správa	správ	N;GEN;PL
+správa	správo	N;VOC;SG
+správa	správa	N;NOM;SG
+správa	správy	N;VOC;PL
+správa	správami	N;INS;PL
+správa	správách	N;ESS;PL
+správa	správě	N;ESS;SG
+správa	správy	N;GEN;SG
+správa	správou	N;INS;SG
+správa	správě	N;DAT;SG
+správa	správy	N;ACC;PL
+správa	správu	N;ACC;SG
+správa	správy	N;NOM;PL
+správa	správám	N;DAT;PL
+změna	změn	N;GEN;PL
+změna	změno	N;VOC;SG
+změna	změna	N;NOM;SG
+změna	změny	N;VOC;PL
+změna	změnami	N;INS;PL
+změna	změnách	N;ESS;PL
+změna	změně	N;ESS;SG
+změna	změny	N;GEN;SG
+změna	změnou	N;INS;SG
+změna	změně	N;DAT;SG
+změna	změny	N;ACC;PL
+změna	změnu	N;ACC;SG
+změna	změny	N;NOM;PL
+změna	změnám	N;DAT;PL
+vzorec	vzorece	N;NOM;PL
+vzorec	vzoreci	N;VOC;SG
+vzorec	vzorece	N;GEN;SG
+vzorec	vzoreců	N;GEN;PL
+vzorec	vzoreci	N;INS;PL
+vzorec	vzorecích	N;ESS;PL
+vzorec	vzoreci	N;ESS;SG
+vzorec	vzorec	N;NOM;SG
+vzorec	vzorecem	N;INS;SG
+vzorec	vzoreci	N;DAT;SG
+vzorec	vzorece	N;ACC;PL
+vzorec	vzorec	N;ACC;SG
+vzorec	vzorece	N;VOC;PL
+vzorec	vzorecům	N;DAT;PL
+stěna	stěn	N;GEN;PL
+stěna	stěno	N;VOC;SG
+stěna	stěna	N;NOM;SG
+stěna	stěny	N;VOC;PL
+stěna	stěnami	N;INS;PL
+stěna	stěnách	N;ESS;PL
+stěna	stěně	N;ESS;SG
+stěna	stěny	N;GEN;SG
+stěna	stěnou	N;INS;SG
+stěna	stěně	N;DAT;SG
+stěna	stěny	N;ACC;PL
+stěna	stěnu	N;ACC;SG
+stěna	stěny	N;NOM;PL
+stěna	stěnám	N;DAT;PL
+vysoký	vysoké	ADJ;NOM;MASC;PL
+vysoký	vysokého	ADJ;ACC;ANIM;MASC;SG
+vysoký	vysoké	ADJ;DAT;FEM;SG
+vysoký	vysokým	ADJ;DAT;PL
+vysoký	vysoké	ADJ;VOC;MASC;PL
+vysoký	vysocí	ADJ;NOM;ANIM;MASC;PL
+vysoký	vysokou	ADJ;ACC;FEM;SG
+vysoký	vysokého	ADJ;GEN;MASC;SG
+vysoký	vysokých	ADJ;GEN;PL
+vysoký	vysokého	ADJ;GEN;NEUT;SG
+vysoký	vysoká	ADJ;ACC;NEUT;PL
+vysoký	vysoké	ADJ;NOM;FEM;PL
+vysoký	vysoká	ADJ;NOM;NEUT;PL
+vysoký	vysoký	ADJ;NOM;MASC;SG
+vysoký	vysocí	ADJ;VOC;ANIM;MASC;PL
+vysoký	vysoké	ADJ;VOC;NEUT;SG
+vysoký	vysokému	ADJ;DAT;MASC;SG
+vysoký	vysoké	ADJ;GEN;FEM;SG
+vysoký	vysoké	ADJ;ACC;MASC;PL
+vysoký	vysoké	ADJ;ACC;FEM;PL
+vysoký	vysokými	ADJ;INS;PL
+vysoký	vysokém	ADJ;ESS;MASC;SG
+vysoký	vysokým	ADJ;ESS;NEUT;SG
+vysoký	vysoké	ADJ;NOM;NEUT;SG
+vysoký	vysokým	ADJ;INS;MASC;SG
+vysoký	vysoké	ADJ;ACC;NEUT;SG
+vysoký	vysoké	ADJ;VOC;FEM;PL
+vysoký	vysoká	ADJ;VOC;NEUT;PL
+vysoký	vysoký	ADJ;ACC;INAN;MASC;SG
+vysoký	vysoká	ADJ;VOC;FEM;SG
+vysoký	vysokému	ADJ;DAT;NEUT;SG
+vysoký	vysoký	ADJ;VOC;MASC;SG
+vysoký	vysoká	ADJ;NOM;FEM;SG
+vysoký	vysokých	ADJ;ESS;PL
+vysoký	vysoké	ADJ;ESS;FEM;SG
+strom	strome	N;VOC;SG
+strom	stromů	N;GEN;PL
+strom	strom	N;NOM;SG
+strom	stromy	N;VOC;PL
+strom	stromy	N;INS;PL
+strom	stromech	N;ESS;PL
+strom	stromu	N;ESS;SG
+strom	stromu	N;GEN;SG
+strom	stromem	N;INS;SG
+strom	stromu	N;DAT;SG
+strom	stromy	N;ACC;PL
+strom	strom	N;ACC;SG
+strom	stromy	N;NOM;PL
+strom	stromům	N;DAT;PL
+plemeno	plemena	N;NOM;PL
+plemeno	plemen	N;GEN;PL
+plemeno	plemena	N;GEN;SG
+plemeno	plemeny	N;INS;PL
+plemeno	plemenech	N;ESS;PL
+plemeno	plemenu	N;ESS;SG
+plemeno	plemeno	N;VOC;SG
+plemeno	plemeno	N;NOM;SG
+plemeno	plemenem	N;INS;SG
+plemeno	plemenu	N;DAT;SG
+plemeno	plemena	N;ACC;PL
+plemeno	plemeno	N;ACC;SG
+plemeno	plemena	N;VOC;PL
+plemeno	plemenům	N;DAT;PL
+boj	boje	N;NOM;PL
+boj	boji	N;VOC;SG
+boj	boje	N;GEN;SG
+boj	bojů	N;GEN;PL
+boj	boji	N;INS;PL
+boj	bojích	N;ESS;PL
+boj	boji	N;ESS;SG
+boj	boj	N;NOM;SG
+boj	bojem	N;INS;SG
+boj	boji	N;DAT;SG
+boj	boje	N;ACC;PL
+boj	boj	N;ACC;SG
+boj	boje	N;VOC;PL
+boj	bojům	N;DAT;PL
+obřad	obřade	N;VOC;SG
+obřad	obřadů	N;GEN;PL
+obřad	obřad	N;NOM;SG
+obřad	obřady	N;VOC;PL
+obřad	obřady	N;INS;PL
+obřad	obřadech	N;ESS;PL
+obřad	obřadě	N;ESS;SG
+obřad	obřadu	N;GEN;SG
+obřad	obřadem	N;INS;SG
+obřad	obřadu	N;DAT;SG
+obřad	obřady	N;ACC;PL
+obřad	obřad	N;ACC;SG
+obřad	obřady	N;NOM;PL
+obřad	obřadům	N;DAT;PL
+znak	znaků	N;GEN;PL
+znak	znaku	N;VOC;SG
+znak	znak	N;NOM;SG
+znak	znaky	N;VOC;PL
+znak	znaky	N;INS;PL
+znak	znacích	N;ESS;PL
+znak	znaku	N;ESS;SG
+znak	znaku	N;GEN;SG
+znak	znakem	N;INS;SG
+znak	znaku	N;DAT;SG
+znak	znaky	N;ACC;PL
+znak	znak	N;ACC;SG
+znak	znaky	N;NOM;PL
+znak	znakům	N;DAT;PL
+výborný	výborné	ADJ;NOM;MASC;PL
+výborný	výborného	ADJ;ACC;ANIM;MASC;SG
+výborný	výborné	ADJ;DAT;FEM;SG
+výborný	výborným	ADJ;DAT;PL
+výborný	výborné	ADJ;VOC;MASC;PL
+výborný	výborní	ADJ;NOM;ANIM;MASC;PL
+výborný	výbornou	ADJ;ACC;FEM;SG
+výborný	výborného	ADJ;GEN;MASC;SG
+výborný	výborných	ADJ;GEN;PL
+výborný	výborného	ADJ;GEN;NEUT;SG
+výborný	výborná	ADJ;ACC;NEUT;PL
+výborný	výborné	ADJ;NOM;FEM;PL
+výborný	výborná	ADJ;NOM;NEUT;PL
+výborný	výborný	ADJ;NOM;MASC;SG
+výborný	výborní	ADJ;VOC;ANIM;MASC;PL
+výborný	výborné	ADJ;VOC;NEUT;SG
+výborný	výborném	ADJ;ESS;NEUT;SG
+výborný	výborné	ADJ;GEN;FEM;SG
+výborný	výborné	ADJ;ACC;MASC;PL
+výborný	výborné	ADJ;ACC;FEM;PL
+výborný	výbornými	ADJ;INS;PL
+výborný	výborném	ADJ;ESS;MASC;SG
+výborný	výbornému	ADJ;DAT;MASC;SG
+výborný	výborné	ADJ;NOM;NEUT;SG
+výborný	výborným	ADJ;INS;MASC;SG
+výborný	výborné	ADJ;ACC;NEUT;SG
+výborný	výborné	ADJ;VOC;FEM;PL
+výborný	výborná	ADJ;VOC;NEUT;PL
+výborný	výborný	ADJ;ACC;INAN;MASC;SG
+výborný	výborná	ADJ;VOC;FEM;SG
+výborný	výbornému	ADJ;DAT;NEUT;SG
+výborný	výborný	ADJ;VOC;MASC;SG
+výborný	výborná	ADJ;NOM;FEM;SG
+výborný	výborných	ADJ;ESS;PL
+výborný	výborné	ADJ;ESS;FEM;SG
+hra	her	N;GEN;PL
+hra	hro	N;VOC;SG
+hra	hra	N;NOM;SG
+hra	hry	N;VOC;PL
+hra	hrami	N;INS;PL
+hra	hrách	N;ESS;PL
+hra	hře	N;ESS;SG
+hra	hry	N;GEN;SG
+hra	hrou	N;INS;SG
+hra	hře	N;DAT;SG
+hra	hry	N;ACC;PL
+hra	hru	N;ACC;SG
+hra	hry	N;NOM;PL
+hra	hrám	N;DAT;PL
+autonomní	autonomního	ADJ;ACC;ANIM;MASC;SG
+autonomní	autonomní	ADJ;ACC;MASC;SG
+autonomní	autonomní	ADJ;DAT;FEM;SG
+autonomní	autonomním	ADJ;DAT;PL
+autonomní	autonomní	ADJ;VOC;PL
+autonomní	autonomní	ADJ;ACC;FEM;SG
+autonomní	autonomního	ADJ;GEN;MASC;SG
+autonomní	autonomních	ADJ;GEN;PL
+autonomní	autonomní	ADJ;INS;FEM;SG
+autonomní	autonomního	ADJ;GEN;NEUT;SG
+autonomní	autonomním	ADJ;INS;NEUT;SG
+autonomní	autonomní	ADJ;NOM;PL
+autonomní	autonomním	ADJ;ESS;NEUT;SG
+autonomní	autonomní	ADJ;GEN;FEM;SG
+autonomní	autonomní	ADJ;ACC;PL
+autonomní	autonomními	ADJ;INS;PL
+autonomní	autonomním	ADJ;ESS;MASC;SG
+autonomní	autonomní	ADJ;VOC;SG
+autonomní	autonomnímu	ADJ;DAT;MASC;SG
+autonomní	autonomním	ADJ;INS;MASC;SG
+autonomní	autonomní	ADJ;ACC;NEUT;SG
+autonomní	autonomnímu	ADJ;DAT;NEUT;SG
+autonomní	autonomní	ADJ;NOM;SG
+autonomní	autonomních	ADJ;ESS;PL
+autonomní	autonomní	ADJ;ESS;FEM;SG
+hudebník	hudebníci	N;NOM;PL
+hudebník	hudebníků	N;GEN;PL
+hudebník	hudebníka	N;GEN;SG
+hudebník	hudebníky	N;INS;PL
+hudebník	hudebnících	N;ESS;PL
+hudebník	hudebníku	N;ESS;SG
+hudebník	hudebníku	N;VOC;SG
+hudebník	hudebník	N;NOM;SG
+hudebník	hudebníkem	N;INS;SG
+hudebník	hudebníku	N;DAT;SG
+hudebník	hudebníky	N;ACC;PL
+hudebník	hudebníka	N;ACC;SG
+hudebník	hudebníci	N;VOC;PL
+hudebník	hudebníkům	N;DAT;PL
+srdce	srdce	N;NOM;PL
+srdce	srdce	N;VOC;SG
+srdce	srdce	N;GEN;SG
+srdce	srdcí	N;GEN;PL
+srdce	srdci	N;INS;PL
+srdce	srdcích	N;ESS;PL
+srdce	srdci	N;ESS;SG
+srdce	srdce	N;NOM;SG
+srdce	srdcem	N;INS;SG
+srdce	srdci	N;DAT;SG
+srdce	srdce	N;ACC;PL
+srdce	srdce	N;ACC;SG
+srdce	srdce	N;VOC;PL
+srdce	srdcím	N;DAT;PL
+propagační	propagačního	ADJ;ACC;ANIM;MASC;SG
+propagační	propagační	ADJ;ACC;MASC;SG
+propagační	propagační	ADJ;DAT;FEM;SG
+propagační	propagačním	ADJ;DAT;PL
+propagační	propagační	ADJ;VOC;PL
+propagační	propagační	ADJ;ACC;FEM;SG
+propagační	propagačního	ADJ;GEN;MASC;SG
+propagační	propagačních	ADJ;GEN;PL
+propagační	propagační	ADJ;INS;FEM;SG
+propagační	propagačního	ADJ;GEN;NEUT;SG
+propagační	propagačním	ADJ;INS;NEUT;SG
+propagační	propagační	ADJ;NOM;PL
+propagační	propagačním	ADJ;ESS;NEUT;SG
+propagační	propagační	ADJ;GEN;FEM;SG
+propagační	propagační	ADJ;ACC;PL
+propagační	propagačními	ADJ;INS;PL
+propagační	propagačním	ADJ;ESS;MASC;SG
+propagační	propagační	ADJ;VOC;SG
+propagační	propagačnímu	ADJ;DAT;MASC;SG
+propagační	propagačním	ADJ;INS;MASC;SG
+propagační	propagační	ADJ;ACC;NEUT;SG
+propagační	propagačnímu	ADJ;DAT;NEUT;SG
+propagační	propagační	ADJ;NOM;SG
+propagační	propagačních	ADJ;ESS;PL
+propagační	propagační	ADJ;ESS;FEM;SG
+premiéra	premiér	N;GEN;PL
+premiéra	premiéro	N;VOC;SG
+premiéra	premiéra	N;NOM;SG
+premiéra	premiéry	N;VOC;PL
+premiéra	premiérami	N;INS;PL
+premiéra	premiérách	N;ESS;PL
+premiéra	premiéře	N;ESS;SG
+premiéra	premiéry	N;GEN;SG
+premiéra	premiérou	N;INS;SG
+premiéra	premiéře	N;DAT;SG
+premiéra	premiéry	N;ACC;PL
+premiéra	premiéru	N;ACC;SG
+premiéra	premiéry	N;NOM;PL
+premiéra	premiérám	N;DAT;PL
+ves	vsí	N;GEN;PL
+ves	vsi	N;NOM;PL
+ves	ves	N;NOM;SG
+ves	vsemi	N;INS;PL
+ves	vsích	N;ESS;PL
+ves	vsi	N;ESS;SG
+ves	vsi	N;VOC;SG
+ves	vsi	N;GEN;SG
+ves	vsí	N;INS;SG
+ves	vsi	N;DAT;SG
+ves	vsi	N;ACC;PL
+ves	ves	N;ACC;SG
+ves	vsi	N;VOC;PL
+ves	vsím	N;DAT;PL
+hotel	hotele	N;VOC;SG
+hotel	hotelů	N;GEN;PL
+hotel	hotel	N;NOM;SG
+hotel	hotely	N;VOC;PL
+hotel	hotely	N;INS;PL
+hotel	hotelech	N;ESS;PL
+hotel	hotelu	N;ESS;SG
+hotel	hotelu	N;GEN;SG
+hotel	hotelem	N;INS;SG
+hotel	hotelu	N;DAT;SG
+hotel	hotely	N;ACC;PL
+hotel	hotel	N;ACC;SG
+hotel	hotely	N;NOM;PL
+hotel	hotelům	N;DAT;PL
+studentka	studentek	N;GEN;PL
+studentka	studentko	N;VOC;SG
+studentka	studentka	N;NOM;SG
+studentka	studentky	N;VOC;PL
+studentka	studentkami	N;INS;PL
+studentka	studentkách	N;ESS;PL
+studentka	studentce	N;ESS;SG
+studentka	studentky	N;GEN;SG
+studentka	studentkou	N;INS;SG
+studentka	studentce	N;DAT;SG
+studentka	studentky	N;ACC;PL
+studentka	studentku	N;ACC;SG
+studentka	studentky	N;NOM;PL
+studentka	studentkám	N;DAT;PL
+los	losy	N;VOC;INAN;PL
+los	losem	N;INS;ANIM;SG
+los	los	N;NOM;INAN;SG
+los	losi	N;VOC;ANIM;PL
+los	losa	N;GEN;ANIM;SG
+los	losy	N;INS;INAN;PL
+los	losem	N;INS;INAN;SG
+los	losu	N;DAT;INAN;SG
+los	losy	N;ACC;ANIM;PL
+los	losy	N;ACC;INAN;PL
+los	lose	N;VOC;INAN;SG
+los	losu	N;GEN;INAN;SG
+los	losům	N;DAT;ANIM;PL
+los	losu	N;ESS;ANIM;SG
+los	losi	N;NOM;ANIM;PL
+los	losech	N;ESS;INAN;PL
+los	losy	N;INS;ANIM;PL
+los	lose	N;VOC;ANIM;SG
+los	losy	N;NOM;INAN;PL
+los	losů	N;GEN;ANIM;PL
+los	losa	N;ACC;ANIM;SG
+los	losům	N;DAT;INAN;PL
+los	los	N;ACC;INAN;SG
+los	losech	N;ESS;ANIM;PL
+los	losu	N;DAT;ANIM;SG
+los	lose	N;ESS;INAN;SG
+los	losů	N;GEN;INAN;PL
+los	los	N;NOM;ANIM;SG
+hala	hal	N;GEN;PL
+hala	halo	N;VOC;SG
+hala	hala	N;NOM;SG
+hala	haly	N;VOC;PL
+hala	halami	N;INS;PL
+hala	halách	N;ESS;PL
+hala	hale	N;ESS;SG
+hala	haly	N;GEN;SG
+hala	halou	N;INS;SG
+hala	hale	N;DAT;SG
+hala	haly	N;ACC;PL
+hala	halu	N;ACC;SG
+hala	haly	N;NOM;PL
+hala	halám	N;DAT;PL
+žádost	žádostí	N;GEN;PL
+žádost	žádosti	N;NOM;PL
+žádost	žádosti	N;GEN;SG
+žádost	žádostmi	N;INS;PL
+žádost	žádostech	N;ESS;PL
+žádost	žádosti	N;ESS;SG
+žádost	žádosti	N;VOC;SG
+žádost	žádost	N;NOM;SG
+žádost	žádostí	N;INS;SG
+žádost	žádosti	N;DAT;SG
+žádost	žádosti	N;ACC;PL
+žádost	žádost	N;ACC;SG
+žádost	žádosti	N;VOC;PL
+žádost	žádostem	N;DAT;PL
+chuť	chutě	N;NOM;PL
+chuť	chutí	N;GEN;PL
+chuť	chutě	N;GEN;SG
+chuť	chutěmi	N;INS;PL
+chuť	chutích	N;ESS;PL
+chuť	chuti	N;ESS;SG
+chuť	chuti	N;VOC;SG
+chuť	chuť	N;NOM;SG
+chuť	chutí	N;INS;SG
+chuť	chuti	N;DAT;SG
+chuť	chutě	N;ACC;PL
+chuť	chuť	N;ACC;SG
+chuť	chutě	N;VOC;PL
+chuť	chutím	N;DAT;PL
+akademie	akademie	N;NOM;PL
+akademie	akademie	N;VOC;SG
+akademie	akademie	N;GEN;SG
+akademie	akademií	N;GEN;PL
+akademie	akademiemi	N;INS;PL
+akademie	akademiích	N;ESS;PL
+akademie	akademii	N;ESS;SG
+akademie	akademie	N;NOM;SG
+akademie	akademií	N;INS;SG
+akademie	akademii	N;DAT;SG
+akademie	akademie	N;ACC;PL
+akademie	akademii	N;ACC;SG
+akademie	akademie	N;VOC;PL
+akademie	akademiím	N;DAT;PL
+poslouchat	byl bych poslouchal	V;COND;PST;1;SG;MASC
+poslouchat	byl by poslouchal	V;COND;PST;3;SG;MASC
+poslouchat	poslouchala jste	V;IND;PST;2;PL;NEUT
+poslouchat	poslouchajíce	V.CVB;PRS;PL
+poslouchat	poslouchaly	V.PTCP;ACT;PRF;INAN;MASC;PL
+poslouchat	poslouchala byste	V;COND;PRS;2;PL;NEUT
+poslouchat	poslouchalo	V;IND;PST;3;SG;NEUT
+poslouchat	posloucháte	V;IND;PRS;2;PL
+poslouchat	bylo byste poslouchalo	V;COND;PST;2;SG;FORM;NEUT
+poslouchat	poslouchav	V.CVB;PST;MASC;SG
+poslouchat	poslouchajíc	V.CVB;PRS;FEM;SG
+poslouchat	poslouchalo bych	V;COND;PRS;1;SG;NEUT
+poslouchat	budete poslouchat	V;IND;FUT;2;SG;FORM
+poslouchat	posloucháni	V.PTCP;PASS;ANIM;MASC;PL
+poslouchat	poslouchala jsme	V;IND;PST;1;PL;NEUT
+poslouchat	byla by poslouchala	V;COND;PST;3;SG;FEM
+poslouchat	poslouchalo jsem	V;IND;PST;1;SG;NEUT
+poslouchat	poslouchá	V;IND;PRS;3;SG
+poslouchat	byla bych poslouchala	V;COND;PST;1;SG;FEM
+poslouchat	poslouchala	V;IND;PST;3;PL;NEUT
+poslouchat	poslouchalo jste	V;IND;PST;2;SG;FORM;NEUT
+poslouchat	poslouchali	V;IND;PST;3;PL;MASC;ANIM
+poslouchat	poslouchali byste	V;COND;PRS;2;PL;MASC
+poslouchat	byl byste poslouchal	V;COND;PST;2;SG;FORM;MASC
+poslouchat	poslouchán	V.PTCP;PASS;MASC;SG
+poslouchat	poslouchala jsem	V;IND;PST;1;SG;FEM
+poslouchat	poslouchají	V;IND;PRS;3;PL
+poslouchat	poslouchala	V.PTCP;ACT;PRF;FEM;SG
+poslouchat	poslouchala bych	V;COND;PRS;1;SG;FEM
+poslouchat	poslouchající	V.PTCP
+poslouchat	poslouchalo	V.PTCP;ACT;PRF;NEUT;SG
+poslouchat	poslouchala jste	V;IND;PST;2;SG;FORM;FEM
+poslouchat	poslouchána	V.PTCP;PASS;FEM;SG
+poslouchat	byly bychom poslouchaly	V;COND;PST;1;PL;FEM
+poslouchat	budeme poslouchat	V;IND;FUT;1;PL
+poslouchat	poslouchalo jsi	V;IND;PST;2;SG;NEUT
+poslouchat	budou poslouchat	V;IND;FUT;3;PL
+poslouchat	poslouchaly	V.PTCP;ACT;PRF;FEM;PL
+poslouchat	poslouchala jsi	V;IND;PST;2;SG;FEM
+poslouchat	posloucháš	V;IND;PST;2;SG
+poslouchat	poslouchaly byste	V;COND;PRS;2;PL;FEM
+poslouchat	poslouchala	V.PTCP;ACT;PRF;NEUT;PL
+poslouchat	poslouchala	V;IND;PST;3;SG;FEM
+poslouchat	poslouchal jsem	V;IND;PST;1;SG;MASC
+poslouchat	poslouchejme	V;IMP;1;PL
+poslouchat	bylo bych poslouchalo	V;COND;PST;1;SG;NEUT
+poslouchat	poslouchali jsme	V;IND;PST;1;PL;MASC
+poslouchat	poslouchejte	V;IMP;2;SG;FORM
+poslouchat	poslouchali jste	V;IND;PST;2;PL;MASC
+poslouchat	posloucháme	V;IND;PRS;1;PL
+poslouchat	poslouchaly jste	V;IND;PST;2;PL;FEM
+poslouchat	poslouchaje	V.CVB;PRS;MASC;SG
+poslouchat	poslouchaly jsme	V;IND;PST;1;PL;FEM
+poslouchat	poslouchali	V.PTCP;ACT;PRF;ANIM;MASC;PL
+poslouchat	poslouchány	V.PTCP;PASS;INAN;MASC;PL
+poslouchat	poslouchaly	V;IND;PST;3;PL;FEM
+poslouchat	poslouchejte	V;IMP;2;PL
+poslouchat	poslouchaly	V;IND;PST;3;PL;MASC;INAN
+poslouchat	poslouchána	V.PTCP;PASS;NEUT;PL
+poslouchat	poslouchat	V;NFIN
+poslouchat	poslouchal	V.PTCP;ACT;PRF;MASC;SG
+poslouchat	poslouchali by	V;COND;PRS;1;PL;MASC;ANIM
+poslouchat	poslouchavši	V.CVB;PST;FEM;SG
+poslouchat	poslouchal bych	V;COND;PRS;1;SG;MASC
+poslouchat	poslouchal jsi	V;IND;PST;2;SG;MASC
+poslouchat	poslouchal by	V;COND;PRS;3;SG;MASC
+poslouchat	poslouchal jste	V;IND;PST;2;SG;FORM;MASC
+poslouchat	byli byste poslouchali	V;COND;PST;2;PL;MASC
+poslouchat	poslouchal byste	V;COND;PRS;2;SG;FORM;MASC
+poslouchat	byla bychom poslouchala	V;COND;PST;1;PL;NEUT
+poslouchat	poslouchali bychom	V;COND;PRS;1;PL;MASC
+poslouchat	byl bys poslouchal	V;COND;PST;2;SG;MASC
+poslouchat	byla bys poslouchala	V;COND;PST;2;SG;FEM
+poslouchat	budu poslouchat	V;IND;FUT;1;SG
+poslouchat	byla by poslouchala	V;COND;PST;3;PL;NEUT
+poslouchat	poslouchala byste	V;COND;PRS;2;SG;FORM;FEM
+poslouchat	byli by poslouchali	V;COND;PST;3;PL;MASC;ANIM
+poslouchat	bude poslouchat	V;IND;FUT;3;SG
+poslouchat	poslouchala by	V;COND;PRS;3;SG;FEM
+poslouchat	poslouchala bychom	V;COND;PRS;1;PL;NEUT
+poslouchat	byly by poslouchaly	V;COND;PST;3;PL;FEM
+poslouchat	poslouchej	V;IMP;2;SG
+poslouchat	posloucháno	V.PTCP;PASS;NEUT;SG
+poslouchat	byly byste poslouchaly	V;COND;PST;2;PL;FEM
+poslouchat	bylo bys poslouchalo	V;COND;PST;2;SG;NEUT
+poslouchat	byli bychom poslouchali	V;COND;PST;1;PL;MASC
+poslouchat	budete poslouchat	V;IND;FUT;2;PL
+poslouchat	poslouchal bys	V;COND;PRS;2;SG;MASC
+poslouchat	poslouchala bys	V;COND;PRS;2;SG;FEM
+poslouchat	poslouchavše	V.CVB;PST;PL
+poslouchat	poslouchala by	V;COND;PRS;3;PL;NEUT
+poslouchat	byla byste poslouchala	V;COND;PST;2;SG;FORM;FEM
+poslouchat	poslouchaly by	V;COND;PRS;1;PL;MASC;INAN
+poslouchat	poslouchám	V;IND;PRS;1;SG
+poslouchat	poslouchání	V.CVB
+poslouchat	poslouchaly by	V;COND;PRS;3;PL;FEM
+poslouchat	posloucháte	V;IND;PRS;2;SG;FORM
+poslouchat	byla byste poslouchala	V;COND;PST;2;PL;NEUT
+poslouchat	poslouchalo bys	V;COND;PRS;2;SG;NEUT
+poslouchat	poslouchalo by	V;COND;PRS;3;SG;NEUT
+poslouchat	poslouchal	V;IND;PST;3;SG;MASC
+poslouchat	poslouchalo byste	V;COND;PRS;2;SG;FORM;NEUT
+poslouchat	bylo by poslouchalo	V;COND;PST;3;SG;NEUT
+poslouchat	budeš poslouchat	V;IND;FUT;2;SG
+poslouchat	poslouchaly bychom	V;COND;PRS;1;PL;FEM
+poslouchat	poslouchány	V.PTCP;PASS;FEM;PL
+poslouchat	byly by poslouchaly	V;COND;PST;3;PL;MASC;INAN
+účinek	účinků	N;GEN;PL
+účinek	účinku	N;VOC;SG
+účinek	účinek	N;NOM;SG
+účinek	účinky	N;VOC;PL
+účinek	účinky	N;INS;PL
+účinek	účincích	N;ESS;PL
+účinek	účinku	N;ESS;SG
+účinek	účinku	N;GEN;SG
+účinek	účinkem	N;INS;SG
+účinek	účinku	N;DAT;SG
+účinek	účinky	N;ACC;PL
+účinek	účinek	N;ACC;SG
+účinek	účinky	N;NOM;PL
+účinek	účinkům	N;DAT;PL
+loď	lodě	N;NOM;PL
+loď	lodí	N;GEN;PL
+loď	lodě	N;GEN;SG
+loď	loděmi	N;INS;PL
+loď	lodích	N;ESS;PL
+loď	lodi	N;ESS;SG
+loď	lodi	N;VOC;SG
+loď	loď	N;NOM;SG
+loď	lodí	N;INS;SG
+loď	lodi	N;DAT;SG
+loď	lodě	N;ACC;PL
+loď	loď	N;ACC;SG
+loď	lodě	N;VOC;PL
+loď	lodím	N;DAT;PL
+myšlenka	myšlenek	N;GEN;PL
+myšlenka	myšlenko	N;VOC;SG
+myšlenka	myšlenka	N;NOM;SG
+myšlenka	myšlenky	N;VOC;PL
+myšlenka	myšlenkami	N;INS;PL
+myšlenka	myšlenkách	N;ESS;PL
+myšlenka	myšlence	N;ESS;SG
+myšlenka	myšlenky	N;GEN;SG
+myšlenka	myšlenkou	N;INS;SG
+myšlenka	myšlence	N;DAT;SG
+myšlenka	myšlenky	N;ACC;PL
+myšlenka	myšlenku	N;ACC;SG
+myšlenka	myšlenky	N;NOM;PL
+myšlenka	myšlenkám	N;DAT;PL
+volný	volné	ADJ;NOM;MASC;PL
+volný	volného	ADJ;ACC;ANIM;MASC;SG
+volný	volné	ADJ;DAT;FEM;SG
+volný	volným	ADJ;DAT;PL
+volný	volné	ADJ;VOC;MASC;PL
+volný	volní	ADJ;NOM;ANIM;MASC;PL
+volný	volnou	ADJ;ACC;FEM;SG
+volný	volného	ADJ;GEN;MASC;SG
+volný	volných	ADJ;GEN;PL
+volný	volného	ADJ;GEN;NEUT;SG
+volný	volná	ADJ;ACC;NEUT;PL
+volný	volné	ADJ;NOM;FEM;PL
+volný	volná	ADJ;NOM;NEUT;PL
+volný	volný	ADJ;NOM;MASC;SG
+volný	volní	ADJ;VOC;ANIM;MASC;PL
+volný	volné	ADJ;VOC;NEUT;SG
+volný	volnému	ADJ;DAT;MASC;SG
+volný	volné	ADJ;GEN;FEM;SG
+volný	volné	ADJ;ACC;MASC;PL
+volný	volné	ADJ;ACC;FEM;PL
+volný	volnými	ADJ;INS;PL
+volný	volném	ADJ;ESS;MASC;SG
+volný	volným	ADJ;ESS;NEUT;SG
+volný	volné	ADJ;NOM;NEUT;SG
+volný	volným	ADJ;INS;MASC;SG
+volný	volné	ADJ;ACC;NEUT;SG
+volný	volné	ADJ;VOC;FEM;PL
+volný	volná	ADJ;VOC;NEUT;PL
+volný	volný	ADJ;ACC;INAN;MASC;SG
+volný	volná	ADJ;VOC;FEM;SG
+volný	volnému	ADJ;DAT;NEUT;SG
+volný	volný	ADJ;VOC;MASC;SG
+volný	volná	ADJ;NOM;FEM;SG
+volný	volných	ADJ;ESS;PL
+volný	volné	ADJ;ESS;FEM;SG
+soustava	soustav	N;GEN;PL
+soustava	soustavo	N;VOC;SG
+soustava	soustava	N;NOM;SG
+soustava	soustavy	N;VOC;PL
+soustava	soustavami	N;INS;PL
+soustava	soustavách	N;ESS;PL
+soustava	soustavě	N;ESS;SG
+soustava	soustavy	N;GEN;SG
+soustava	soustavou	N;INS;SG
+soustava	soustavě	N;DAT;SG
+soustava	soustavy	N;ACC;PL
+soustava	soustavu	N;ACC;SG
+soustava	soustavy	N;NOM;PL
+soustava	soustavám	N;DAT;PL
+komunistický	komunistické	ADJ;NOM;MASC;PL
+komunistický	komunistického	ADJ;ACC;ANIM;MASC;SG
+komunistický	komunistické	ADJ;DAT;FEM;SG
+komunistický	komunistickým	ADJ;DAT;PL
+komunistický	komunistické	ADJ;VOC;MASC;PL
+komunistický	komunističtí	ADJ;NOM;ANIM;MASC;PL
+komunistický	komunistickou	ADJ;ACC;FEM;SG
+komunistický	komunistického	ADJ;GEN;MASC;SG
+komunistický	komunistických	ADJ;GEN;PL
+komunistický	komunistického	ADJ;GEN;NEUT;SG
+komunistický	komunistická	ADJ;ACC;NEUT;PL
+komunistický	komunistické	ADJ;NOM;FEM;PL
+komunistický	komunistická	ADJ;NOM;NEUT;PL
+komunistický	komunistický	ADJ;NOM;MASC;SG
+komunistický	komunističtí	ADJ;VOC;ANIM;MASC;PL
+komunistický	komunistické	ADJ;VOC;NEUT;SG
+komunistický	komunistickém	ADJ;ESS;NEUT;SG
+komunistický	komunistické	ADJ;GEN;FEM;SG
+komunistický	komunistické	ADJ;ACC;MASC;PL
+komunistický	komunistické	ADJ;ACC;FEM;PL
+komunistický	komunistickými	ADJ;INS;PL
+komunistický	komunistickém	ADJ;ESS;MASC;SG
+komunistický	komunistickému	ADJ;DAT;MASC;SG
+komunistický	komunistické	ADJ;NOM;NEUT;SG
+komunistický	komunistickým	ADJ;INS;MASC;SG
+komunistický	komunistické	ADJ;ACC;NEUT;SG
+komunistický	komunistické	ADJ;VOC;FEM;PL
+komunistický	komunistická	ADJ;VOC;NEUT;PL
+komunistický	komunistický	ADJ;ACC;INAN;MASC;SG
+komunistický	komunistická	ADJ;VOC;FEM;SG
+komunistický	komunistickému	ADJ;DAT;NEUT;SG
+komunistický	komunistický	ADJ;VOC;MASC;SG
+komunistický	komunistická	ADJ;NOM;FEM;SG
+komunistický	komunistických	ADJ;ESS;PL
+komunistický	komunistické	ADJ;ESS;FEM;SG
+certifikát	certifikáte	N;VOC;SG
+certifikát	certifikátů	N;GEN;PL
+certifikát	certifikát	N;NOM;SG
+certifikát	certifikáty	N;VOC;PL
+certifikát	certifikáty	N;INS;PL
+certifikát	certifikátech	N;ESS;PL
+certifikát	certifikátu	N;ESS;SG
+certifikát	certifikátu	N;GEN;SG
+certifikát	certifikátem	N;INS;SG
+certifikát	certifikátu	N;DAT;SG
+certifikát	certifikáty	N;ACC;PL
+certifikát	certifikát	N;ACC;SG
+certifikát	certifikáty	N;NOM;PL
+certifikát	certifikátům	N;DAT;PL

@@ -1,0 +1,632 @@
+Umwälzung		N;GEN;PL
+Umwälzung	Umwälzungen	N;NOM;PL
+Umwälzung		N;GEN;SG
+Umwälzung		N;NOM;SG
+Umwälzung		N;DAT;SG
+Umwälzung		N;ACC;PL
+Umwälzung		N;ACC;SG
+Umwälzung		N;DAT;PL
+Trümmersprache		N;GEN;PL
+Trümmersprache	Trümmersprachen	N;NOM;PL
+Trümmersprache		N;GEN;SG
+Trümmersprache		N;NOM;SG
+Trümmersprache		N;DAT;SG
+Trümmersprache		N;ACC;PL
+Trümmersprache		N;ACC;SG
+Trümmersprache		N;DAT;PL
+Alkin	Alkine	N;GEN;PL
+Alkin		N;NOM;PL
+Alkin		N;NOM;SG
+Alkin		N;GEN;SG
+Alkin		N;DAT;SG
+Alkin		N;ACC;PL
+Alkin		N;ACC;SG
+Alkin		N;DAT;PL
+ermutigen	ermutigen	V;SBJV;PRS;3;PL
+ermutigen		V;SBJV;PST;1;SG
+ermutigen	ermutigen	V;IND;PRS;1;PL
+ermutigen		V.PTCP;PRS
+ermutigen		V;IND;PST;2;PL
+ermutigen		V;IMP;2;SG
+ermutigen		V;SBJV;PST;2;PL
+ermutigen		V;SBJV;PST;3;SG
+ermutigen		V;NFIN
+ermutigen		V;IND;PRS;3;PL
+ermutigen		V;IND;PRS;2;PL
+ermutigen		V;SBJV;PRS;1;PL
+ermutigen		V;IND;PST;1;PL
+ermutigen		V;SBJV;PRS;3;SG
+ermutigen		V;IND;PST;3;PL
+ermutigen		V;IMP;2;PL
+ermutigen		V.PTCP;PST
+ermutigen		V;SBJV;PST;3;PL
+ermutigen		V;IND;PRS;1;SG
+ermutigen		V;SBJV;PRS;1;SG
+ermutigen		V;IND;PRS;3;SG
+ermutigen		V;SBJV;PRS;2;PL
+ermutigen		V;IND;PST;2;SG
+ermutigen	ermutigten	V;SBJV;PST;1;PL
+ermutigen		V;IND;PST;1;SG
+ermutigen	ermutigtest	V;SBJV;PST;2;SG
+ermutigen		V;IND;PRS;2;SG
+ermutigen		V;SBJV;PRS;2;SG
+ermutigen	ermutigte	V;IND;PST;3;SG
+Deo		N;GEN;PL
+Deo		N;NOM;PL
+Deo		N;NOM;SG
+Deo		N;GEN;SG
+Deo	Deo	N;DAT;SG
+Deo		N;ACC;PL
+Deo		N;ACC;SG
+Deo		N;DAT;PL
+Ethyl		N;DAT;SG
+Ethyl		N;NOM;SG
+Ethyl		N;GEN;SG
+Ethyl		N;ACC;SG
+friemeln		V;SBJV;PRS;3;PL
+friemeln		V;SBJV;PST;1;SG
+friemeln	friemeln	V;IND;PRS;1;PL
+friemeln		V.PTCP;PRS
+friemeln		V;IND;PST;2;PL
+friemeln		V;IMP;2;SG
+friemeln	friemeln	V;IND;PRS;3;PL
+friemeln		V;SBJV;PST;3;SG
+friemeln		V;SBJV;PST;2;PL
+friemeln		V;IND;PRS;2;PL
+friemeln		V;SBJV;PRS;1;PL
+friemeln		V;IND;PST;1;PL
+friemeln		V;IND;PST;2;SG
+friemeln		V;IND;PST;3;PL
+friemeln		V;IMP;2;PL
+friemeln		V.PTCP;PST
+friemeln	friemelten	V;SBJV;PST;3;PL
+friemeln		V;IND;PRS;1;SG
+friemeln		V;SBJV;PRS;1;SG
+friemeln		V;IND;PRS;3;SG
+friemeln		V;SBJV;PRS;2;PL
+friemeln	friemeln	V;NFIN
+friemeln		V;SBJV;PRS;3;SG
+friemeln	friemelten	V;SBJV;PST;1;PL
+friemeln		V;IND;PST;1;SG
+friemeln		V;SBJV;PST;2;SG
+friemeln		V;IND;PRS;2;SG
+friemeln		V;SBJV;PRS;2;SG
+friemeln		V;IND;PST;3;SG
+flitzen		V;SBJV;PRS;3;PL
+flitzen		V;SBJV;PST;1;SG
+flitzen		V;IND;PRS;1;PL
+flitzen		V.PTCP;PRS
+flitzen		V;IND;PST;2;PL
+flitzen		V;IMP;2;SG
+flitzen	flitztet	V;SBJV;PST;2;PL
+flitzen		V;SBJV;PST;3;SG
+flitzen		V;NFIN
+flitzen		V;IND;PRS;3;PL
+flitzen		V;IND;PRS;2;PL
+flitzen		V;SBJV;PRS;1;PL
+flitzen		V;IND;PST;1;PL
+flitzen	flitze	V;SBJV;PRS;3;SG
+flitzen		V;IND;PST;3;PL
+flitzen		V;IMP;2;PL
+flitzen		V.PTCP;PST
+flitzen		V;SBJV;PST;3;PL
+flitzen		V;IND;PRS;1;SG
+flitzen		V;SBJV;PRS;1;SG
+flitzen		V;IND;PRS;3;SG
+flitzen		V;SBJV;PRS;2;PL
+flitzen		V;IND;PST;2;SG
+flitzen	flitzten	V;SBJV;PST;1;PL
+flitzen		V;IND;PST;1;SG
+flitzen	flitztest	V;SBJV;PST;2;SG
+flitzen	flitzt	V;IND;PRS;2;SG
+flitzen		V;SBJV;PRS;2;SG
+flitzen		V;IND;PST;3;SG
+Durchschlag		N;GEN;PL
+Durchschlag		N;NOM;PL
+Durchschlag		N;GEN;SG
+Durchschlag		N;NOM;SG
+Durchschlag		N;DAT;SG
+Durchschlag		N;ACC;PL
+Durchschlag		N;ACC;SG
+Durchschlag	Durchschlägen	N;DAT;PL
+konstatieren		V;SBJV;PRS;3;PL
+konstatieren		V;SBJV;PST;1;SG
+konstatieren		V;IND;PRS;1;PL
+konstatieren		V.PTCP;PRS
+konstatieren		V;IND;PST;2;PL
+konstatieren		V;IMP;2;SG
+konstatieren		V;SBJV;PST;2;PL
+konstatieren		V;SBJV;PST;3;SG
+konstatieren		V;NFIN
+konstatieren		V;IND;PRS;3;PL
+konstatieren		V;IND;PRS;2;PL
+konstatieren	konstatieren	V;SBJV;PRS;1;PL
+konstatieren		V;IND;PST;1;PL
+konstatieren		V;SBJV;PRS;3;SG
+konstatieren		V;IND;PST;3;PL
+konstatieren	konstatiert	V;IMP;2;PL
+konstatieren		V.PTCP;PST
+konstatieren	konstatierten	V;SBJV;PST;3;PL
+konstatieren		V;IND;PRS;1;SG
+konstatieren		V;SBJV;PRS;1;SG
+konstatieren		V;IND;PRS;3;SG
+konstatieren		V;SBJV;PRS;2;PL
+konstatieren		V;IND;PST;2;SG
+konstatieren		V;SBJV;PST;1;PL
+konstatieren	konstatierte	V;IND;PST;1;SG
+konstatieren		V;SBJV;PST;2;SG
+konstatieren	konstatierst	V;IND;PRS;2;SG
+konstatieren		V;SBJV;PRS;2;SG
+konstatieren		V;IND;PST;3;SG
+Käbelchen		N;GEN;PL
+Käbelchen		N;NOM;PL
+Käbelchen		N;NOM;SG
+Käbelchen		N;GEN;SG
+Käbelchen		N;DAT;SG
+Käbelchen		N;ACC;PL
+Käbelchen		N;ACC;SG
+Käbelchen	Käbelchen	N;DAT;PL
+Koenzym		N;GEN;PL
+Koenzym		N;NOM;PL
+Koenzym		N;NOM;SG
+Koenzym		N;GEN;SG
+Koenzym		N;DAT;SG
+Koenzym		N;ACC;PL
+Koenzym	Koenzym	N;ACC;SG
+Koenzym		N;DAT;PL
+Schneemann		N;GEN;PL
+Schneemann		N;NOM;PL
+Schneemann		N;GEN;SG
+Schneemann		N;NOM;SG
+Schneemann		N;DAT;SG
+Schneemann		N;ACC;PL
+Schneemann		N;ACC;SG
+Schneemann	Schneemännern	N;DAT;PL
+Getreide		N;DAT;SG
+Getreide		N;NOM;SG
+Getreide		N;GEN;SG
+Getreide		N;ACC;SG
+Kanzlei		N;GEN;PL
+Kanzlei		N;NOM;PL
+Kanzlei		N;GEN;SG
+Kanzlei		N;NOM;SG
+Kanzlei		N;DAT;SG
+Kanzlei		N;ACC;PL
+Kanzlei	Kanzlei	N;ACC;SG
+Kanzlei		N;DAT;PL
+Haspel		N;GEN;PL
+Haspel		N;NOM;PL
+Haspel	Haspel	N;NOM;SG
+Haspel		N;GEN;SG
+Haspel		N;DAT;SG
+Haspel		N;ACC;PL
+Haspel		N;ACC;SG
+Haspel		N;DAT;PL
+Provokateur	Provokateure	N;GEN;PL
+Provokateur		N;NOM;PL
+Provokateur		N;NOM;SG
+Provokateur		N;GEN;SG
+Provokateur		N;DAT;SG
+Provokateur		N;ACC;PL
+Provokateur		N;ACC;SG
+Provokateur		N;DAT;PL
+Polytheist		N;GEN;PL
+Polytheist		N;NOM;PL
+Polytheist		N;GEN;SG
+Polytheist		N;NOM;SG
+Polytheist	Polytheisten	N;DAT;SG
+Polytheist		N;ACC;PL
+Polytheist		N;ACC;SG
+Polytheist		N;DAT;PL
+Mangelsymptom		N;GEN;PL
+Mangelsymptom		N;NOM;PL
+Mangelsymptom		N;NOM;SG
+Mangelsymptom		N;GEN;SG
+Mangelsymptom		N;DAT;SG
+Mangelsymptom	Mangelsymptome	N;ACC;PL
+Mangelsymptom		N;ACC;SG
+Mangelsymptom		N;DAT;PL
+Wortstamm		N;GEN;PL
+Wortstamm		N;NOM;PL
+Wortstamm		N;GEN;SG
+Wortstamm		N;NOM;SG
+Wortstamm		N;DAT;SG
+Wortstamm		N;ACC;PL
+Wortstamm	Wortstamm	N;ACC;SG
+Wortstamm		N;DAT;PL
+Dinosaurier		N;GEN;PL
+Dinosaurier		N;NOM;PL
+Dinosaurier		N;NOM;SG
+Dinosaurier	Dinosauriers	N;GEN;SG
+Dinosaurier		N;DAT;SG
+Dinosaurier		N;ACC;PL
+Dinosaurier		N;ACC;SG
+Dinosaurier		N;DAT;PL
+Getue		N;DAT;SG
+Getue		N;NOM;SG
+Getue		N;GEN;SG
+Getue		N;ACC;SG
+Metronom		N;GEN;PL
+Metronom		N;NOM;PL
+Metronom	Metronom	N;NOM;SG
+Metronom		N;GEN;SG
+Metronom		N;DAT;SG
+Metronom		N;ACC;PL
+Metronom		N;ACC;SG
+Metronom		N;DAT;PL
+kennen lernen		V;SBJV;PRS;3;PL
+kennen lernen	lernte kennen	V;SBJV;PST;1;SG
+kennen lernen	lernen kennen	V;IND;PRS;1;PL
+kennen lernen		V.PTCP;PRS
+kennen lernen		V;IND;PST;2;PL
+kennen lernen		V;IMP;2;SG
+kennen lernen		V;IND;PRS;3;PL
+kennen lernen		V;SBJV;PST;3;SG
+kennen lernen		V;SBJV;PST;2;PL
+kennen lernen		V;IND;PRS;2;PL
+kennen lernen		V;SBJV;PRS;1;PL
+kennen lernen		V;IND;PST;1;PL
+kennen lernen		V;SBJV;PRS;3;SG
+kennen lernen		V;IND;PST;3;PL
+kennen lernen	lernt kennen	V;IMP;2;PL
+kennen lernen		V.PTCP;PST
+kennen lernen		V;SBJV;PST;3;PL
+kennen lernen		V;IND;PRS;1;SG
+kennen lernen		V;SBJV;PRS;1;SG
+kennen lernen		V;IND;PRS;3;SG
+kennen lernen		V;SBJV;PRS;2;PL
+kennen lernen		V;NFIN
+kennen lernen		V;IND;PST;2;SG
+kennen lernen		V;SBJV;PST;1;PL
+kennen lernen	lernte kennen	V;IND;PST;1;SG
+kennen lernen		V;SBJV;PST;2;SG
+kennen lernen	lernst kennen	V;IND;PRS;2;SG
+kennen lernen		V;SBJV;PRS;2;SG
+kennen lernen		V;IND;PST;3;SG
+Cupalit		N;GEN;PL
+Cupalit		N;NOM;PL
+Cupalit	Cupalit	N;NOM;SG
+Cupalit		N;GEN;SG
+Cupalit		N;DAT;SG
+Cupalit		N;ACC;PL
+Cupalit		N;ACC;SG
+Cupalit		N;DAT;PL
+Rebhuhn		N;GEN;PL
+Rebhuhn		N;NOM;PL
+Rebhuhn		N;GEN;SG
+Rebhuhn		N;NOM;SG
+Rebhuhn		N;DAT;SG
+Rebhuhn	Rebhühner	N;ACC;PL
+Rebhuhn		N;ACC;SG
+Rebhuhn		N;DAT;PL
+plagiieren		V;SBJV;PRS;3;PL
+plagiieren		V;SBJV;PST;1;SG
+plagiieren		V;IND;PRS;1;PL
+plagiieren	plagiierend	V.PTCP;PRS
+plagiieren		V;IND;PST;2;PL
+plagiieren		V;IMP;2;SG
+plagiieren		V;SBJV;PST;2;PL
+plagiieren		V;SBJV;PST;3;SG
+plagiieren		V;NFIN
+plagiieren		V;IND;PRS;3;PL
+plagiieren		V;IND;PRS;2;PL
+plagiieren		V;SBJV;PRS;1;PL
+plagiieren		V;IND;PST;1;PL
+plagiieren		V;SBJV;PRS;3;SG
+plagiieren		V;IND;PST;3;PL
+plagiieren		V;IMP;2;PL
+plagiieren		V.PTCP;PST
+plagiieren		V;SBJV;PST;3;PL
+plagiieren	plagiiere	V;IND;PRS;1;SG
+plagiieren	plagiiere	V;SBJV;PRS;1;SG
+plagiieren		V;IND;PRS;3;SG
+plagiieren		V;SBJV;PRS;2;PL
+plagiieren		V;IND;PST;2;SG
+plagiieren		V;SBJV;PST;1;PL
+plagiieren		V;IND;PST;1;SG
+plagiieren	plagiiertest	V;SBJV;PST;2;SG
+plagiieren	plagiierst	V;IND;PRS;2;SG
+plagiieren		V;SBJV;PRS;2;SG
+plagiieren		V;IND;PST;3;SG
+Kratzer	Kratzer	N;GEN;PL
+Kratzer		N;NOM;PL
+Kratzer		N;NOM;SG
+Kratzer		N;GEN;SG
+Kratzer		N;DAT;SG
+Kratzer		N;ACC;PL
+Kratzer		N;ACC;SG
+Kratzer		N;DAT;PL
+Glühröhrchen		N;GEN;PL
+Glühröhrchen		N;NOM;PL
+Glühröhrchen	Glühröhrchen	N;NOM;SG
+Glühröhrchen		N;GEN;SG
+Glühröhrchen		N;DAT;SG
+Glühröhrchen		N;ACC;PL
+Glühröhrchen		N;ACC;SG
+Glühröhrchen		N;DAT;PL
+Klasse		N;GEN;PL
+Klasse		N;NOM;PL
+Klasse	Klasse	N;GEN;SG
+Klasse		N;NOM;SG
+Klasse		N;DAT;SG
+Klasse		N;ACC;PL
+Klasse		N;ACC;SG
+Klasse		N;DAT;PL
+Brutkasten	Brutkästen	N;GEN;PL
+Brutkasten		N;NOM;PL
+Brutkasten		N;NOM;SG
+Brutkasten		N;GEN;SG
+Brutkasten		N;DAT;SG
+Brutkasten		N;ACC;PL
+Brutkasten		N;ACC;SG
+Brutkasten		N;DAT;PL
+Umgangssprache		N;GEN;PL
+Umgangssprache		N;NOM;PL
+Umgangssprache		N;GEN;SG
+Umgangssprache		N;NOM;SG
+Umgangssprache	Umgangssprache	N;DAT;SG
+Umgangssprache		N;ACC;PL
+Umgangssprache		N;ACC;SG
+Umgangssprache		N;DAT;PL
+verkriechen		V;SBJV;PRS;3;PL
+verkriechen		V;SBJV;PST;1;SG
+verkriechen	verkriechen	V;IND;PRS;1;PL
+verkriechen		V.PTCP;PRS
+verkriechen		V;IND;PST;2;PL
+verkriechen		V;IMP;2;SG
+verkriechen	verkriechen	V;IND;PRS;3;PL
+verkriechen		V;SBJV;PST;3;SG
+verkriechen		V;SBJV;PRS;2;PL
+verkriechen		V;IND;PRS;2;PL
+verkriechen		V;SBJV;PRS;1;PL
+verkriechen	verkriechest	V;SBJV;PRS;2;SG
+verkriechen		V;NFIN
+verkriechen		V;IND;PST;3;PL
+verkriechen		V.PTCP;PST
+verkriechen		V;SBJV;PST;3;PL
+verkriechen	verkrieche	V;IND;PRS;1;SG
+verkriechen		V;SBJV;PRS;1;SG
+verkriechen		V;IND;PRS;3;SG
+verkriechen		V;IMP;2;PL
+verkriechen		V;SBJV;PRS;3;SG
+verkriechen		V;IND;PST;2;SG
+verkriechen		V;SBJV;PST;1;PL
+verkriechen		V;IND;PST;1;SG
+verkriechen		V;SBJV;PST;2;SG
+verkriechen		V;IND;PRS;2;SG
+verkriechen	verkröchet	V;SBJV;PST;2;PL
+verkriechen		V;IND;PST;1;PL
+verkriechen		V;IND;PST;3;SG
+freisetzen		V;SBJV;PRS;3;PL
+freisetzen		V;IND;PST;2;PL
+freisetzen		V;SBJV;PST;1;SG
+freisetzen		V;IND;PRS;1;PL
+freisetzen	freisetzend	V.PTCP;PRS
+freisetzen		V;SBJV;PRS;3;SG
+freisetzen		V;IMP;2;SG
+freisetzen		V;IND;PRS;3;PL
+freisetzen	setzte frei	V;SBJV;PST;3;SG
+freisetzen		V;SBJV;PST;2;PL
+freisetzen	setzt frei	V;IND;PRS;2;PL
+freisetzen		V;SBJV;PRS;1;PL
+freisetzen	setzten frei	V;IND;PST;1;PL
+freisetzen		V;NFIN
+freisetzen		V;IND;PST;3;PL
+freisetzen		V;IMP;2;PL
+freisetzen		V.PTCP;PST
+freisetzen		V;SBJV;PST;3;PL
+freisetzen		V;IND;PRS;1;SG
+freisetzen		V;SBJV;PRS;1;SG
+freisetzen		V;IND;PRS;3;SG
+freisetzen		V;SBJV;PRS;2;PL
+freisetzen	setztest frei	V;IND;PST;2;SG
+freisetzen		V;SBJV;PST;1;PL
+freisetzen		V;IND;PST;1;SG
+freisetzen		V;SBJV;PST;2;SG
+freisetzen		V;IND;PRS;2;SG
+freisetzen		V;SBJV;PRS;2;SG
+freisetzen		V;IND;PST;3;SG
+Tabak		N;GEN;PL
+Tabak		N;NOM;PL
+Tabak		N;NOM;SG
+Tabak		N;GEN;SG
+Tabak		N;DAT;SG
+Tabak		N;ACC;PL
+Tabak	Tabak	N;ACC;SG
+Tabak		N;DAT;PL
+Phloëm		N;DAT;SG
+Phloëm		N;NOM;SG
+Phloëm		N;GEN;SG
+Phloëm		N;ACC;SG
+verminen	verminen	V;SBJV;PRS;3;PL
+verminen		V;SBJV;PST;1;SG
+verminen		V;IND;PRS;1;PL
+verminen		V.PTCP;PRS
+verminen		V;IND;PST;2;PL
+verminen		V;IMP;2;SG
+verminen		V;SBJV;PST;2;PL
+verminen	verminte	V;SBJV;PST;3;SG
+verminen		V;NFIN
+verminen		V;IND;PRS;3;PL
+verminen	vermint	V;IND;PRS;2;PL
+verminen		V;SBJV;PRS;1;PL
+verminen		V;IND;PST;1;PL
+verminen		V;SBJV;PRS;3;SG
+verminen	verminten	V;IND;PST;3;PL
+verminen		V;IMP;2;PL
+verminen		V.PTCP;PST
+verminen		V;SBJV;PST;3;PL
+verminen		V;IND;PRS;1;SG
+verminen	vermine	V;SBJV;PRS;1;SG
+verminen		V;IND;PRS;3;SG
+verminen		V;SBJV;PRS;2;PL
+verminen		V;IND;PST;2;SG
+verminen		V;SBJV;PST;1;PL
+verminen		V;IND;PST;1;SG
+verminen		V;SBJV;PST;2;SG
+verminen		V;IND;PRS;2;SG
+verminen		V;SBJV;PRS;2;SG
+verminen		V;IND;PST;3;SG
+Äthiopierin		N;GEN;PL
+Äthiopierin		N;NOM;PL
+Äthiopierin		N;GEN;SG
+Äthiopierin	Äthiopierin	N;NOM;SG
+Äthiopierin		N;DAT;SG
+Äthiopierin		N;ACC;PL
+Äthiopierin		N;ACC;SG
+Äthiopierin		N;DAT;PL
+Betttuch		N;GEN;PL
+Betttuch		N;NOM;PL
+Betttuch		N;GEN;SG
+Betttuch		N;NOM;SG
+Betttuch	Betttuch	N;DAT;SG
+Betttuch		N;ACC;PL
+Betttuch		N;ACC;SG
+Betttuch		N;DAT;PL
+Möglichkeit		N;GEN;PL
+Möglichkeit		N;NOM;PL
+Möglichkeit		N;GEN;SG
+Möglichkeit		N;NOM;SG
+Möglichkeit	Möglichkeit	N;DAT;SG
+Möglichkeit		N;ACC;PL
+Möglichkeit		N;ACC;SG
+Möglichkeit		N;DAT;PL
+sengen		V;SBJV;PRS;3;PL
+sengen		V;SBJV;PST;1;SG
+sengen		V;IND;PRS;1;PL
+sengen		V.PTCP;PRS
+sengen		V;IND;PST;2;PL
+sengen		V;IMP;2;SG
+sengen		V;SBJV;PST;2;PL
+sengen		V;SBJV;PST;3;SG
+sengen	sengen	V;NFIN
+sengen		V;IND;PRS;3;PL
+sengen	sengt	V;IND;PRS;2;PL
+sengen		V;SBJV;PRS;1;PL
+sengen		V;IND;PST;1;PL
+sengen		V;SBJV;PRS;3;SG
+sengen		V;IND;PST;3;PL
+sengen		V;IMP;2;PL
+sengen		V.PTCP;PST
+sengen		V;SBJV;PST;3;PL
+sengen		V;IND;PRS;1;SG
+sengen	senge	V;SBJV;PRS;1;SG
+sengen		V;IND;PRS;3;SG
+sengen		V;SBJV;PRS;2;PL
+sengen	sengtest	V;IND;PST;2;SG
+sengen		V;SBJV;PST;1;PL
+sengen		V;IND;PST;1;SG
+sengen		V;SBJV;PST;2;SG
+sengen		V;IND;PRS;2;SG
+sengen	sengest	V;SBJV;PRS;2;SG
+sengen		V;IND;PST;3;SG
+Sorge	Sorgen	N;GEN;PL
+Sorge		N;NOM;PL
+Sorge		N;GEN;SG
+Sorge		N;NOM;SG
+Sorge		N;DAT;SG
+Sorge		N;ACC;PL
+Sorge		N;ACC;SG
+Sorge		N;DAT;PL
+Synekdoche		N;GEN;PL
+Synekdoche		N;NOM;PL
+Synekdoche		N;GEN;SG
+Synekdoche		N;NOM;SG
+Synekdoche		N;DAT;SG
+Synekdoche		N;ACC;PL
+Synekdoche		N;ACC;SG
+Synekdoche	Synekdochen	N;DAT;PL
+Völkerball		N;DAT;SG
+Völkerball		N;GEN;SG
+Völkerball		N;NOM;SG
+Völkerball		N;ACC;SG
+aussprechen		V;SBJV;PRS;3;PL
+aussprechen		V;SBJV;PST;1;SG
+aussprechen		V;IND;PRS;1;PL
+aussprechen		V.PTCP;PRS
+aussprechen	spracht aus	V;IND;PST;2;PL
+aussprechen		V;IMP;2;SG
+aussprechen	sprechen aus	V;IND;PRS;3;PL
+aussprechen		V;SBJV;PST;3;SG
+aussprechen		V;NFIN
+aussprechen		V;SBJV;PST;2;PL
+aussprechen		V;IND;PRS;2;PL
+aussprechen		V;SBJV;PRS;1;PL
+aussprechen		V;IND;PST;1;PL
+aussprechen	spreche aus	V;SBJV;PRS;3;SG
+aussprechen		V;IND;PST;3;PL
+aussprechen		V;IMP;2;PL
+aussprechen		V.PTCP;PST
+aussprechen		V;SBJV;PST;3;PL
+aussprechen		V;IND;PRS;1;SG
+aussprechen		V;SBJV;PRS;1;SG
+aussprechen		V;IND;PRS;3;SG
+aussprechen		V;SBJV;PRS;2;PL
+aussprechen	sprachst aus	V;IND;PST;2;SG
+aussprechen	sprächen aus	V;SBJV;PST;1;PL
+aussprechen		V;IND;PST;1;SG
+aussprechen		V;SBJV;PST;2;SG
+aussprechen		V;IND;PRS;2;SG
+aussprechen		V;SBJV;PRS;2;SG
+aussprechen		V;IND;PST;3;SG
+sputen		V;SBJV;PRS;3;PL
+sputen		V;SBJV;PST;1;SG
+sputen	sputen	V;IND;PRS;1;PL
+sputen		V.PTCP;PRS
+sputen		V;IND;PST;2;PL
+sputen		V;IMP;2;SG
+sputen		V;SBJV;PST;2;PL
+sputen	sputete	V;SBJV;PST;3;SG
+sputen		V;IND;PRS;3;PL
+sputen		V;IND;PRS;2;PL
+sputen		V;SBJV;PRS;1;PL
+sputen		V;IND;PST;1;PL
+sputen		V;NFIN
+sputen		V;IND;PST;3;PL
+sputen	sputet	V;SBJV;PRS;2;PL
+sputen		V.PTCP;PST
+sputen		V;SBJV;PST;3;PL
+sputen		V;IND;PRS;1;SG
+sputen		V;SBJV;PRS;1;SG
+sputen	sputet	V;IND;PRS;3;SG
+sputen		V;IMP;2;PL
+sputen	sputetest	V;IND;PST;2;SG
+sputen		V;SBJV;PRS;3;SG
+sputen		V;SBJV;PST;1;PL
+sputen		V;IND;PST;1;SG
+sputen		V;SBJV;PST;2;SG
+sputen		V;IND;PRS;2;SG
+sputen		V;SBJV;PRS;2;SG
+sputen		V;IND;PST;3;SG
+Fixierbad		N;GEN;PL
+Fixierbad		N;NOM;PL
+Fixierbad		N;NOM;SG
+Fixierbad		N;GEN;SG
+Fixierbad		N;DAT;SG
+Fixierbad		N;ACC;PL
+Fixierbad	Fixierbad	N;ACC;SG
+Fixierbad		N;DAT;PL
+Schwarte		N;GEN;PL
+Schwarte		N;NOM;PL
+Schwarte		N;GEN;SG
+Schwarte		N;NOM;SG
+Schwarte		N;DAT;SG
+Schwarte	Schwarten	N;ACC;PL
+Schwarte		N;ACC;SG
+Schwarte		N;DAT;PL
+Schweizer		N;GEN;PL
+Schweizer		N;NOM;PL
+Schweizer		N;NOM;SG
+Schweizer		N;GEN;SG
+Schweizer		N;DAT;SG
+Schweizer		N;ACC;PL
+Schweizer	Schweizer	N;ACC;SG
+Schweizer		N;DAT;PL
+Dichtungsmaterial	Dichtungsmaterialien	N;GEN;PL
+Dichtungsmaterial		N;NOM;PL
+Dichtungsmaterial		N;NOM;SG
+Dichtungsmaterial		N;GEN;SG
+Dichtungsmaterial		N;DAT;SG
+Dichtungsmaterial		N;ACC;PL
+Dichtungsmaterial		N;ACC;SG
+Dichtungsmaterial		N;DAT;PL

@@ -1,0 +1,265 @@
+شہر	شہر	N;NOM;PL
+شہر	شہر	N;VOC;SG
+شہر	شہر	N;NOM;SG
+شہر	شہروں	N;ACC;PL
+شہر	شہر	N;ACC;SG
+شہر	شہرو	N;VOC;PL
+سالگرہ	سالگرہ	N;VOC;SG
+سالگرہ	سالگرہیں	N;NOM;PL
+سالگرہ	سالگرہ	N;NOM;SG
+سالگرہ	سالگرہوں	N;ACC;PL
+سالگرہ	سالگرہ	N;ACC;SG
+سالگرہ	سالگرہو	N;VOC;PL
+کتاب	کتاب	N;VOC;SG
+کتاب	کتابیں	N;NOM;PL
+کتاب	کتاب	N;NOM;SG
+کتاب	کتابوں	N;ACC;PL
+کتاب	کتاب	N;ACC;SG
+کتاب	کتابو	N;VOC;PL
+بولی	بولی	N;VOC;SG
+بولی	بولیاں	N;NOM;PL
+بولی	بولی	N;NOM;SG
+بولی	بولیوں	N;ACC;PL
+بولی	بولی	N;ACC;SG
+بولی	بولیو	N;VOC;PL
+کہنا	کہ رہا تھا	V;1;SG;PROG;PST;MASC
+کہنا	کہی ہوں	V;1;SG;PRF;PRS;FEM
+کہنا	کہے ہوں	V;1;PL;PRF;SBJV;MASC
+کہنا	میں کہوں گا	V;1;SG;SBJV;MASC
+کہنا	تم کہو	V;2;PL;SBJV
+کہنا	کہی ہوں گی	V;3;PL;PRF;LGSPEC3;FEM
+کہنا	یہ  وہ کہے گی	V;3;SG;SBJV;FEM
+کہنا	ہم کہیں گے	V;1;PL;SBJV;MASC
+کہنا	کہ رہا ہو	V;2;SG;PROG;SBJV;MASC
+کہنا	کہے ہوں	V;3;PL;PRF;SBJV;MASC
+کہنا	کہتا ہو	V;2;SG;HAB;SBJV;MASC
+کہنا	کہی ہوتی	V;1;SG;PRF;LGSPEC4;FEM
+کہنا	کہی ہے	V;3;SG;PRF;PRS;FEM
+کہنا	کہے ہیں	V;1;PL;PRF;PRS;MASC
+کہنا	کہتے ہیں	V;3;PL;HAB;PRS;MASC
+کہنا	کہ رہی ہوں	V;1;PL;PROG;SBJV;FEM
+کہنا	کہتا ہوتا	V;3;SG;HAB;LGSPEC4;MASC
+کہنا	کہ رہی ہیں	V;3;PL;PROG;PRS;FEM
+کہنا	کہ رہی تھی	V;3;SG;PROG;PST;FEM
+کہنا	کہی تھیں	V;3;PL;PRF;PST;FEM
+کہنا	کہ رہی ہوتی	V;3;SG;PROG;LGSPEC4;FEM
+کہنا	کہی ہو گی	V;2;PL;PRF;LGSPEC3;FEM
+کہنا	کہ رہی ہوں	V;3;PL;PROG;SBJV;FEM
+کہنا	کہے ہیں	V;3;PL;PRF;PRS;MASC
+کہنا	کہتے ہو	V;2;PL;HAB;SBJV;MASC
+کہنا	کہے ہوں گے	V;3;PL;PRF;LGSPEC3;MASC
+کہنا	کہی ہو گی	V;2;SG;PRF;LGSPEC3;FEM
+کہنا	کہے ہو	V;2;PL;PRF;PRS;MASC
+کہنا	کہ رہا ہوں	V;1;SG;PROG;PRS;MASC
+کہنا	کہتی ہوتی	V;3;SG;HAB;LGSPEC4;FEM
+کہنا	کہا تھا	V;1;SG;PRF;PST;MASC
+کہنا	کہی ہو	V;2;SG;PRF;SBJV;FEM
+کہنا	کہ رہے تھے	V;2;PL;PROG;PST;MASC
+کہنا	کہ رہی ہوں گی	V;1;SG;PROG;LGSPEC3;FEM
+کہنا	کہ رہا ہوتا	V;1;SG;PROG;LGSPEC4;MASC
+کہنا	کہتی ہے	V;3;SG;HAB;PRS;FEM
+کہنا	کہ رہے ہیں	V;3;PL;PROG;PRS;MASC
+کہنا	کہ رہی تھی	V;1;SG;PROG;PST;FEM
+کہنا	کہا ہوں	V;1;SG;PRF;PRS;MASC
+کہنا	کہ رہا ہو گا	V;2;SG;PROG;LGSPEC3;MASC
+کہنا	کہی	V;V.PTCP;FEM;PL;PFV
+کہنا	کہا تھا	V;3;SG;PRF;PST;MASC
+کہنا	یہ  وہ کہیں گی	V;3;PL;SBJV;FEM
+کہنا	کہی ہو	V;2;PL;PRF;SBJV;FEM
+کہنا	کہنا	V;NFIN;LGSPEC1
+کہنا	کہ رہی ہو	V;2;SG;PROG;SBJV;FEM
+کہنا	کہنے	V;NFIN;LGSPEC2
+کہنا	کہ رہا ہے	V;3;SG;PROG;PRS;MASC
+کہنا	کہتی تھی	V;2;SG;HAB;PST;FEM
+کہنا	کہتے ہوتے	V;1;PL;HAB;LGSPEC4;MASC
+کہنا	کہ رہا ہو گا	V;3;SG;PROG;LGSPEC3;MASC
+کہنا	کہتی ہیں	V;3;PL;HAB;PRS;FEM
+کہنا	یہ  وہ کہیں	V;3;PL;SBJV
+کہنا	کہتے تھے	V;1;PL;HAB;PST;MASC
+کہنا	کہا ہوتا	V;3;SG;PRF;LGSPEC4;MASC
+کہنا	کہی ہے	V;2;SG;PRF;PRS;FEM
+کہنا	کہ رہے ہو	V;2;PL;PROG;PRS;MASC
+کہنا	کہ رہی ہو گی	V;2;SG;PROG;LGSPEC3;FEM
+کہنا	کہتی ہوں گی	V;3;PL;HAB;LGSPEC3;FEM
+کہنا	کہئیے	V;2;PL;IMP;FORM
+کہنا	کہ رہا ہو	V;3;SG;PROG;SBJV;MASC
+کہنا	کہتے ہوتے	V;3;PL;HAB;LGSPEC4;MASC
+کہنا	کہے تھے	V;2;PL;PRF;PST;MASC
+کہنا	کہ رہی تھیں	V;3;PL;PROG;PST;FEM
+کہنا	کہی ہیں	V;3;PL;PRF;PRS;FEM
+کہنا	کہتا ہو	V;3;SG;HAB;SBJV;MASC
+کہنا	کہ رہی ہے	V;2;SG;PROG;PRS;FEM
+کہنا	کہتا تھا	V;1;SG;HAB;PST;MASC
+کہنا	تو کہے گی	V;2;SG;SBJV;FEM
+کہنا	کہی ہوتی	V;1;PL;PRF;LGSPEC4;FEM
+کہنا	کہ رہے ہوتے	V;1;PL;PROG;LGSPEC4;MASC
+کہنا	کہا ہوں	V;1;SG;PRF;SBJV;MASC
+کہنا	کہ رہی ہوں	V;1;SG;PROG;SBJV;FEM
+کہنا	کہتی ہے	V;2;SG;HAB;PRS;FEM
+کہنا	کہتے ہوں گے	V;1;PL;HAB;LGSPEC3;MASC
+کہنا	کہ رہی ہو گی	V;2;PL;PROG;LGSPEC3;FEM
+کہنا	کہتی ہوں	V;1;SG;HAB;PRS;FEM
+کہنا	کہتا ہوں گا	V;1;SG;HAB;LGSPEC3;MASC
+کہنا	کہتا ہو گا	V;3;SG;HAB;LGSPEC3;MASC
+کہنا	کہی	V;V.PTCP;FEM;SG;PFV
+کہنا	کہ رہی ہیں	V;1;PL;PROG;PRS;FEM
+کہنا	کہی ہوں گی	V;1;PL;PRF;LGSPEC3;FEM
+کہنا	کہتی ہو	V;3;SG;HAB;SBJV;FEM
+کہنا	کہا ہو	V;3;SG;PRF;SBJV;MASC
+کہنا	کہ رہا ہوں	V;1;SG;PROG;SBJV;MASC
+کہنا	کہی ہوں	V;1;PL;PRF;SBJV;FEM
+کہنا	کہتا ہوتا	V;1;SG;HAB;LGSPEC4;MASC
+کہنا	کہتے ہوتے	V;2;PL;HAB;LGSPEC4;MASC
+کہنا	کہے ہوتے	V;2;PL;PRF;LGSPEC4;MASC
+کہنا	کہتا ہوں	V;1;SG;HAB;SBJV;MASC
+کہنا	کہ رہی ہوں گی	V;1;PL;PROG;LGSPEC3;FEM
+کہنا	کہی ہو	V;3;SG;PRF;SBJV;FEM
+کہنا	یہ  وہ کہے گا	V;3;SG;SBJV;MASC
+کہنا	کہتی تھی	V;3;SG;HAB;PST;FEM
+کہنا	کہتی تھی	V;1;SG;HAB;PST;FEM
+کہنا	کہ رہے ہو گے	V;2;PL;PROG;LGSPEC3;MASC
+کہنا	کہتی ہوتی	V;3;PL;HAB;LGSPEC4;FEM
+کہنا	کہے ہوتے	V;3;PL;PRF;LGSPEC4;MASC
+کہنا	کہ رہی ہو	V;2;PL;PROG;PRS;FEM
+کہنا	کہتا ہے	V;2;SG;HAB;PRS;MASC
+کہنا	کہتی ہوں گی	V;1;SG;HAB;LGSPEC3;FEM
+کہنا	کہتی ہو	V;2;SG;HAB;SBJV;FEM
+کہنا	کہتی ہوتی	V;1;SG;HAB;LGSPEC4;FEM
+کہنا	کہ رہے ہوتے	V;3;PL;PROG;LGSPEC4;MASC
+کہنا	کہتے ہوں	V;3;PL;HAB;SBJV;MASC
+کہنا	کہی ہوں گی	V;1;SG;PRF;LGSPEC3;FEM
+کہنا	کہے ہوں گے	V;1;PL;PRF;LGSPEC3;MASC
+کہنا	کہتی ہو	V;2;PL;HAB;SBJV;FEM
+کہنا	کہتا ہو گا	V;2;SG;HAB;LGSPEC3;MASC
+کہنا	کہ رہے ہوتے	V;2;PL;PROG;LGSPEC4;MASC
+کہنا	کہا ہے	V;2;SG;PRF;PRS;MASC
+کہنا	کہ رہی ہو	V;3;SG;PROG;SBJV;FEM
+کہنا	کہا ہو گا	V;3;SG;PRF;LGSPEC3;MASC
+کہنا	کہ رہی تھیں	V;1;PL;PROG;PST;FEM
+کہنا	ہم کہیں گی	V;1;PL;SBJV;FEM
+کہنا	تو کہے گا	V;2;SG;SBJV;MASC
+کہنا	کہ رہی ہوتی	V;3;PL;PROG;LGSPEC4;FEM
+کہنا	کہتی ہو گی	V;2;SG;HAB;LGSPEC3;FEM
+کہنا	کہے تھے	V;3;PL;PRF;PST;MASC
+کہنا	کہتی ہوں	V;3;PL;HAB;SBJV;FEM
+کہنا	تم کہو گی	V;2;PL;SBJV;FEM
+کہنا	کہ رہے تھے	V;1;PL;PROG;PST;MASC
+کہنا	کہتی ہوں	V;1;PL;HAB;SBJV;FEM
+کہنا	کہتی ہو	V;2;PL;HAB;PRS;FEM
+کہنا	کہا ہو	V;2;SG;PRF;SBJV;MASC
+کہنا	کہتی ہو گی	V;3;SG;HAB;LGSPEC3;FEM
+کہنا	کہتا ہوتا	V;2;SG;HAB;LGSPEC4;MASC
+کہنا	کہ رہے ہوں گے	V;1;PL;PROG;LGSPEC3;MASC
+کہنا	کہی ہوں	V;1;SG;PRF;SBJV;FEM
+کہنا	کہتی ہوں گی	V;1;PL;HAB;LGSPEC3;FEM
+کہنا	کہے	V;V.PTCP;MASC;PL;PFV
+کہنا	کہتی ہوتی	V;2;PL;HAB;LGSPEC4;FEM
+کہنا	کہتی ہو گی	V;2;PL;HAB;LGSPEC3;FEM
+کہنا	کہ رہا ہوں گا	V;1;SG;PROG;LGSPEC3;MASC
+کہنا	کہتا ہے	V;3;SG;HAB;PRS;MASC
+کہنا	کہتی تھیں	V;3;PL;HAB;PST;FEM
+کہنا	کہ رہی ہے	V;3;SG;PROG;PRS;FEM
+کہنا	کہتی	V;V.PTCP;FEM;PL;IPFV
+کہنا	کہتی ہیں	V;1;PL;HAB;PRS;FEM
+کہنا	کہ رہی ہو گی	V;3;SG;PROG;LGSPEC3;FEM
+کہنا	کہتے ہو	V;2;PL;HAB;PRS;MASC
+کہنا	کہی ہیں	V;1;PL;PRF;PRS;FEM
+کہنا	یہ  وہ کہیں گے	V;3;PL;SBJV;MASC
+کہنا	کہتی ہوتی	V;1;PL;HAB;LGSPEC4;FEM
+کہنا	کہ رہا ہوتا	V;2;SG;PROG;LGSPEC4;MASC
+کہنا	کہی تھیں	V;1;PL;PRF;PST;FEM
+کہنا	کہی ہوتی	V;2;SG;PRF;LGSPEC4;FEM
+کہنا	تو کہے	V;2;SG;SBJV
+کہنا	کہی ہو	V;2;PL;PRF;PRS;FEM
+کہنا	کہتے	V;V.PTCP;MASC;PL;IPFV
+کہنا	کہا ہو گا	V;2;SG;PRF;LGSPEC3;MASC
+کہنا	کہا تھا	V;2;SG;PRF;PST;MASC
+کہنا	کہ رہا تھا	V;2;SG;PROG;PST;MASC
+کہنا	کہ رہے ہیں	V;1;PL;PROG;PRS;MASC
+کہنا	کہی تھی	V;2;SG;PRF;PST;FEM
+کہنا	کہتے تھے	V;3;PL;HAB;PST;MASC
+کہنا	کہو	V;2;SG;IMP;FORM
+کہنا	میں کہوں گی	V;1;SG;SBJV;FEM
+کہنا	کہے تھے	V;1;PL;PRF;PST;MASC
+کہنا	کہ رہی تھی	V;2;SG;PROG;PST;FEM
+کہنا	کہا ہوتا	V;2;SG;PRF;LGSPEC4;MASC
+کہنا	کہ رہی ہوتی	V;1;PL;PROG;LGSPEC4;FEM
+کہنا	کہ رہے ہوں	V;1;PL;PROG;SBJV;MASC
+کہنا	کہ رہا تھا	V;3;SG;PROG;PST;MASC
+کہنا	کہے ہوتے	V;1;PL;PRF;LGSPEC4;MASC
+کہنا	کہا ہوں گا	V;1;SG;PRF;LGSPEC3;MASC
+کہنا	کہتا تھا	V;3;SG;HAB;PST;MASC
+کہنا	کہی ہوں	V;3;PL;PRF;SBJV;FEM
+کہنا	کہ رہا ہے	V;2;SG;PROG;PRS;MASC
+کہنا	یہ  وہ کہے	V;3;SG;SBJV
+کہنا	کہی تھی	V;1;SG;PRF;PST;FEM
+کہنا	کہتی تھیں	V;1;PL;HAB;PST;FEM
+کہنا	کہی ہوتی	V;2;PL;PRF;LGSPEC4;FEM
+کہنا	کہ رہی ہوں	V;1;SG;PROG;PRS;FEM
+کہنا	کہی ہوتی	V;3;SG;PRF;LGSPEC4;FEM
+کہنا	کہا ہے	V;3;SG;PRF;PRS;MASC
+کہنا	کہتا	V;V.PTCP;MASC;SG;IPFV
+کہنا	کہے ہو	V;2;PL;PRF;SBJV;MASC
+کہنا	کہتا تھا	V;2;SG;HAB;PST;MASC
+کہنا	کہتے ہو گے	V;2;PL;HAB;LGSPEC3;MASC
+کہنا	کہتے ہوں	V;1;PL;HAB;SBJV;MASC
+کہنا	کہی ہو گی	V;3;SG;PRF;LGSPEC3;FEM
+کہنا	کہ رہے ہوں	V;3;PL;PROG;SBJV;MASC
+کہنا	تم کہو گے	V;2;PL;SBJV;MASC
+کہنا	کہ	V;2;SG;IMP;INFM
+کہنا	کہ رہی ہوتی	V;1;SG;PROG;LGSPEC4;FEM
+کہنا	کہتی تھیں	V;2;PL;HAB;PST;FEM
+کہنا	ہم کہیں	V;1;PL;SBJV
+کہنا	کہی ہوتی	V;3;PL;PRF;LGSPEC4;FEM
+کہنا	کہتی ہوتی	V;2;SG;HAB;LGSPEC4;FEM
+کہنا	کہے ہو گے	V;2;PL;PRF;LGSPEC3;MASC
+کہنا	کہ رہی ہو	V;2;PL;PROG;SBJV;FEM
+کہنا	کہی تھی	V;3;SG;PRF;PST;FEM
+کہنا	کہا	V;V.PTCP;MASC;SG;PFV
+کہنا	کہ رہے تھے	V;3;PL;PROG;PST;MASC
+کہنا	کہ رہی ہوتی	V;2;PL;PROG;LGSPEC4;FEM
+کہنا	کہ رہا ہوتا	V;3;SG;PROG;LGSPEC4;MASC
+کہنا	کہ رہے ہوں گے	V;3;PL;PROG;LGSPEC3;MASC
+کہنا	کہی تھیں	V;2;PL;PRF;PST;FEM
+کہنا	کہتے ہیں	V;1;PL;HAB;PRS;MASC
+کہنا	کہ رہی ہوتی	V;2;SG;PROG;LGSPEC4;FEM
+کہنا	کہتے تھے	V;2;PL;HAB;PST;MASC
+کہنا	کہ رہی تھیں	V;2;PL;PROG;PST;FEM
+کہنا	کہتی ہوں	V;1;SG;HAB;SBJV;FEM
+کہنا	کہتے ہوں گے	V;3;PL;HAB;LGSPEC3;MASC
+کہنا	کہتی	V;V.PTCP;FEM;SG;IPFV
+کہنا	کہ رہے ہو	V;2;PL;PROG;SBJV;MASC
+کہنا	کہ رہی ہوں گی	V;3;PL;PROG;LGSPEC3;FEM
+کہنا	کہتا ہوں	V;1;SG;HAB;PRS;MASC
+کہنا	میں کہوں	V;1;SG;SBJV
+کہنا	کہا ہوتا	V;1;SG;PRF;LGSPEC4;MASC
+حکومت	حکومت	N;VOC;SG
+حکومت	حکومتیں	N;NOM;PL
+حکومت	حکومت	N;NOM;SG
+حکومت	حکومتوں	N;ACC;PL
+حکومت	حکومت	N;ACC;SG
+حکومت	حکومتو	N;VOC;PL
+پایہ	پایے	N;NOM;PL
+پایہ	پایے	N;VOC;SG
+پایہ	پایہ	N;NOM;SG
+پایہ	پایوں	N;ACC;PL
+پایہ	پایے	N;ACC;SG
+پایہ	پایو	N;VOC;PL
+بازی	بازی	N;VOC;SG
+بازی	بازیاں	N;NOM;PL
+بازی	بازی	N;NOM;SG
+بازی	بازیوں	N;ACC;PL
+بازی	بازی	N;ACC;SG
+بازی	بازیو	N;VOC;PL
+فیصلہ	فیصلے	N;NOM;PL
+فیصلہ	فیصلے	N;VOC;SG
+فیصلہ	فیصلہ	N;NOM;SG
+فیصلہ	فیصلوں	N;ACC;PL
+فیصلہ	فیصلے	N;ACC;SG
+فیصلہ	فیصلو	N;VOC;PL
+حق	حق	N;NOM;PL
+حق	حق	N;VOC;SG
+حق	حق	N;NOM;SG
+حق	حقوں	N;ACC;PL
+حق	حق	N;ACC;SG
+حق	حقو	N;VOC;PL

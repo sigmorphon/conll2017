@@ -1,0 +1,903 @@
+sargs		N;NOM;PL
+sargs		N;VOC;SG
+sargs		N;GEN;SG
+sargs		N;GEN;PL
+sargs	sargiem	N;INST;PL
+sargs		N;NOM;SG
+sargs		N;LOC;PL
+sargs	sargam	N;DAT;SG
+sargs		N;LOC;SG
+sargs		N;ACC;PL
+sargs		N;ACC;SG
+sargs		N;VOC;PL
+sargs		N;INST;SG
+sargs		N;DAT;PL
+cūška		N;VOC;SG
+cūška		N;NOM;PL
+cūška		N;NOM;SG
+cūška		N;GEN;PL
+cūška	cūškām	N;INST;PL
+cūška		N;GEN;SG
+cūška		N;LOC;PL
+cūška		N;DAT;SG
+cūška		N;LOC;SG
+cūška	cūškas	N;ACC;PL
+cūška		N;ACC;SG
+cūška		N;VOC;PL
+cūška		N;INST;SG
+cūška		N;DAT;PL
+meitenīgais	meitenīgajai	ADJ;GEN;SG;FEM
+meitenīgais		ADJ;DAT;PL;FEM
+meitenīgais		ADJ;DAT;SG;FEM
+meitenīgais		ADJ;NOM;PL;FEM
+meitenīgais	meitenīgajam	ADJ;GEN;SG;MASC
+meitenīgais		ADJ;NOM;SG;FEM
+meitenīgais		ADJ;INST;SG;MASC
+meitenīgais		ADJ;DAT;SG;MASC
+meitenīgais		ADJ;LOC;PL;FEM
+meitenīgais		ADJ;ACC;SG;MASC
+meitenīgais		ADJ;LOC;SG;FEM
+meitenīgais		ADJ;INST;SG;FEM
+meitenīgais		ADJ;DAT;PL;MASC
+meitenīgais		ADJ;LOC;SG;MASC
+meitenīgais		ADJ;LOC;PL;MASC
+meitenīgais		ADJ;ACC;PL;FEM
+meitenīgais	meitenīgo	ADJ;ACC;PL;MASC
+meitenīgais		ADJ;GEN;PL;MASC
+meitenīgais		ADJ;INST;PL;MASC
+meitenīgais		ADJ;ACC;SG;FEM
+meitenīgais		ADJ;INST;PL;FEM
+meitenīgais		ADJ;GEN;PL;FEM
+meitenīgais	meitenīgo	ADJ;NOM;SG;MASC
+meitenīgais		ADJ;NOM;PL;MASC
+īgnais		ADJ;GEN;SG;FEM
+īgnais		ADJ;DAT;PL;FEM
+īgnais		ADJ;DAT;SG;FEM
+īgnais		ADJ;NOM;PL;FEM
+īgnais		ADJ;GEN;SG;MASC
+īgnais		ADJ;NOM;SG;FEM
+īgnais	īgnajā	ADJ;INST;SG;MASC
+īgnais		ADJ;DAT;SG;MASC
+īgnais		ADJ;LOC;PL;FEM
+īgnais		ADJ;ACC;SG;MASC
+īgnais		ADJ;LOC;SG;FEM
+īgnais		ADJ;INST;SG;FEM
+īgnais		ADJ;DAT;PL;MASC
+īgnais		ADJ;LOC;SG;MASC
+īgnais		ADJ;LOC;PL;MASC
+īgnais		ADJ;ACC;PL;FEM
+īgnais	īgno	ADJ;ACC;PL;MASC
+īgnais		ADJ;GEN;PL;MASC
+īgnais		ADJ;INST;PL;MASC
+īgnais		ADJ;ACC;SG;FEM
+īgnais		ADJ;INST;PL;FEM
+īgnais	īgnajām	ADJ;GEN;PL;FEM
+īgnais		ADJ;NOM;SG;MASC
+īgnais	īgnos	ADJ;NOM;PL;MASC
+rādītājs		N;NOM;PL
+rādītājs		N;VOC;SG
+rādītājs		N;GEN;SG
+rādītājs		N;GEN;PL
+rādītājs		N;INST;PL
+rādītājs		N;NOM;SG
+rādītājs		N;LOC;PL
+rādītājs	rādītājam	N;DAT;SG
+rādītājs	rādītājā	N;LOC;SG
+rādītājs		N;ACC;PL
+rādītājs		N;ACC;SG
+rādītājs		N;VOC;PL
+rādītājs		N;INST;SG
+rādītājs		N;DAT;PL
+leitiete		N;GEN;PL
+leitiete		N;VOC;SG
+leitiete		N;NOM;SG
+leitiete		N;VOC;PL
+leitiete		N;INST;PL
+leitiete		N;GEN;SG
+leitiete	leitietēs	N;LOC;PL
+leitiete		N;DAT;SG
+leitiete		N;LOC;SG
+leitiete		N;ACC;PL
+leitiete		N;ACC;SG
+leitiete		N;NOM;PL
+leitiete		N;INST;SG
+leitiete	leitietēm	N;DAT;PL
+mīksnākais	mīksnākajai	ADJ;GEN;SG;FEM
+mīksnākais		ADJ;DAT;PL;FEM
+mīksnākais		ADJ;DAT;SG;FEM
+mīksnākais	mīksnākās	ADJ;NOM;PL;FEM
+mīksnākais		ADJ;GEN;SG;MASC
+mīksnākais		ADJ;NOM;SG;FEM
+mīksnākais		ADJ;INST;SG;MASC
+mīksnākais		ADJ;DAT;SG;MASC
+mīksnākais		ADJ;LOC;PL;FEM
+mīksnākais		ADJ;ACC;SG;MASC
+mīksnākais		ADJ;LOC;SG;FEM
+mīksnākais		ADJ;INST;SG;FEM
+mīksnākais		ADJ;DAT;PL;MASC
+mīksnākais		ADJ;LOC;SG;MASC
+mīksnākais		ADJ;LOC;PL;MASC
+mīksnākais		ADJ;ACC;PL;FEM
+mīksnākais		ADJ;ACC;PL;MASC
+mīksnākais		ADJ;GEN;PL;MASC
+mīksnākais		ADJ;INST;PL;MASC
+mīksnākais	mīksnākās	ADJ;ACC;SG;FEM
+mīksnākais		ADJ;INST;PL;FEM
+mīksnākais		ADJ;GEN;PL;FEM
+mīksnākais	mīksnāko	ADJ;NOM;SG;MASC
+mīksnākais		ADJ;NOM;PL;MASC
+homonīms		N;NOM;PL
+homonīms		N;VOC;SG
+homonīms		N;GEN;SG
+homonīms		N;GEN;PL
+homonīms		N;INST;PL
+homonīms		N;NOM;SG
+homonīms		N;LOC;PL
+homonīms		N;DAT;SG
+homonīms	homonīmā	N;LOC;SG
+homonīms		N;ACC;PL
+homonīms		N;ACC;SG
+homonīms		N;VOC;PL
+homonīms	homonīmu	N;INST;SG
+homonīms		N;DAT;PL
+kalnainākais		ADJ;GEN;SG;FEM
+kalnainākais	kalnainākajām	ADJ;DAT;PL;FEM
+kalnainākais		ADJ;DAT;SG;FEM
+kalnainākais		ADJ;NOM;PL;FEM
+kalnainākais	kalnainākajam	ADJ;GEN;SG;MASC
+kalnainākais		ADJ;NOM;SG;FEM
+kalnainākais		ADJ;INST;SG;MASC
+kalnainākais		ADJ;DAT;SG;MASC
+kalnainākais		ADJ;LOC;PL;FEM
+kalnainākais		ADJ;ACC;SG;MASC
+kalnainākais		ADJ;LOC;SG;FEM
+kalnainākais		ADJ;INST;SG;FEM
+kalnainākais		ADJ;DAT;PL;MASC
+kalnainākais		ADJ;LOC;SG;MASC
+kalnainākais	kalnainākie	ADJ;LOC;PL;MASC
+kalnainākais		ADJ;ACC;PL;FEM
+kalnainākais		ADJ;ACC;PL;MASC
+kalnainākais		ADJ;GEN;PL;MASC
+kalnainākais		ADJ;INST;PL;MASC
+kalnainākais		ADJ;ACC;SG;FEM
+kalnainākais		ADJ;INST;PL;FEM
+kalnainākais	kalnainākajām	ADJ;GEN;PL;FEM
+kalnainākais		ADJ;NOM;SG;MASC
+kalnainākais		ADJ;NOM;PL;MASC
+nezīst		V;LGSPEC1;IMP
+nezīst		V;3;SG;IMP
+nezīst		V;NFIN;NEG
+nezīst		V;2;SG;PST;IND
+nezīst		V;3;PL;PRS;IND
+nezīst		V;LGSPEC1;PST
+nezīst		V;1;SG;PST;IND
+nezīst	nezīdis	V;V.PTCP;PST;ACT
+nezīst		V;1;PL;IMP
+nezīst		V;3;PL;PST;IND
+nezīst		V;V.PTCP;PRS;LGSPEC3
+nezīst		V;3;PL;IMP
+nezīst		V;LGSPEC1;PRS
+nezīst		V;3;PL;FUT;IND
+nezīst		V;1;PL;PRS;IND
+nezīst		V;2;SG;IMP
+nezīst	nezīdīsim	V;1;PL;FUT;IND
+nezīst	nezīd	V;2;SG;PRS;IND
+nezīst		V;V.PTCP;PRS;PASS
+nezīst		V;COND;PRS
+nezīst		V;V.PTCP;PST;PASS
+nezīst		V;2;PL;PST;IND
+nezīst		V;1;SG;PRS;IND
+nezīst		V;2;PL;IMP
+nezīst	neesot jāzīž	V;LGSPEC2;LGSPEC7
+nezīst		V;1;SG;FUT;IND
+nezīst		V;V.MSDR
+nezīst		V;3;SG;PRS;IND
+nezīst	nezīdām	V;1;PL;PST;IND
+nezīst		V;2;PL;PRS;IND
+nezīst		V;NFIN
+nezīst		V;LGSPEC2;IND
+nezīst		V;3;SG;PST;IND
+nezīst		V;2;PL;FUT;IND
+nezīst		V;V.PTCP;PRS;LGSPEC6
+nezīst	nezīžot	V;V.PTCP;PRS;LGSPEC5
+nezīst		V;V.PTCP;PRS;LGSPEC4
+nezīst		V;LGSPEC1;FUT
+nezīst		V;COND;PST
+nezīst		V;3;SG;FUT;IND
+nezīst	nezīdīsi	V;2;SG;FUT;IND
+smagāks		ADJ;DAT;PL;MASC
+smagāks		ADJ;DAT;SG;FEM
+smagāks		ADJ;ACC;PL;FEM
+smagāks	smagākas	ADJ;NOM;PL;FEM
+smagāks		ADJ;ACC;SG;MASC
+smagāks		ADJ;GEN;SG;MASC
+smagāks		ADJ;ACC;PL;MASC
+smagāks		ADJ;GEN;PL;MASC
+smagāks		ADJ;NOM;SG;FEM
+smagāks		ADJ;ACC;SG;FEM
+smagāks		ADJ;INST;PL;MASC
+smagāks	smagākai	ADJ;GEN;SG;FEM
+smagāks		ADJ;INST;SG;FEM
+smagāks		ADJ;DAT;PL;FEM
+smagāks		ADJ;INST;PL;FEM
+smagāks		ADJ;INST;SG;MASC
+smagāks		ADJ;DAT;SG;MASC
+smagāks		ADJ;GEN;PL;FEM
+smagāks		ADJ;NOM;SG;MASC
+smagāks	smagākus	ADJ;NOM;PL;MASC
+puse		N;VOC;SG
+puse	puses	N;NOM;PL
+puse		N;NOM;SG
+puse		N;GEN;PL
+puse		N;INST;PL
+puse		N;GEN;SG
+puse		N;LOC;PL
+puse		N;DAT;SG
+puse		N;LOC;SG
+puse		N;ACC;PL
+puse		N;ACC;SG
+puse		N;VOC;PL
+puse	pusi	N;INST;SG
+puse		N;DAT;PL
+valgais		ADJ;GEN;SG;FEM
+valgais	valgajām	ADJ;DAT;PL;FEM
+valgais	valgo	ADJ;DAT;SG;FEM
+valgais		ADJ;NOM;PL;FEM
+valgais		ADJ;GEN;SG;MASC
+valgais		ADJ;NOM;SG;FEM
+valgais		ADJ;INST;SG;MASC
+valgais		ADJ;DAT;SG;MASC
+valgais		ADJ;LOC;PL;FEM
+valgais		ADJ;ACC;SG;MASC
+valgais		ADJ;LOC;SG;FEM
+valgais		ADJ;INST;SG;FEM
+valgais		ADJ;DAT;PL;MASC
+valgais		ADJ;LOC;SG;MASC
+valgais		ADJ;LOC;PL;MASC
+valgais		ADJ;ACC;PL;FEM
+valgais		ADJ;ACC;PL;MASC
+valgais	valgajiem	ADJ;GEN;PL;MASC
+valgais		ADJ;INST;PL;MASC
+valgais		ADJ;ACC;SG;FEM
+valgais	valgajās	ADJ;INST;PL;FEM
+valgais		ADJ;GEN;PL;FEM
+valgais		ADJ;NOM;SG;MASC
+valgais		ADJ;NOM;PL;MASC
+indiete		N;GEN;PL
+indiete		N;VOC;SG
+indiete		N;NOM;SG
+indiete		N;VOC;PL
+indiete		N;INST;PL
+indiete		N;GEN;SG
+indiete		N;LOC;PL
+indiete		N;DAT;SG
+indiete	indietē	N;LOC;SG
+indiete		N;ACC;PL
+indiete	indieti	N;ACC;SG
+indiete		N;NOM;PL
+indiete		N;INST;SG
+indiete		N;DAT;PL
+tintnīca		N;VOC;SG
+tintnīca		N;NOM;PL
+tintnīca		N;NOM;SG
+tintnīca		N;GEN;PL
+tintnīca	tintnīcām	N;INST;PL
+tintnīca		N;GEN;SG
+tintnīca		N;LOC;PL
+tintnīca		N;DAT;SG
+tintnīca	tintnīcā	N;LOC;SG
+tintnīca		N;ACC;PL
+tintnīca		N;ACC;SG
+tintnīca		N;VOC;PL
+tintnīca		N;INST;SG
+tintnīca		N;DAT;PL
+trusis		N;NOM;PL
+trusis		N;VOC;SG
+trusis	truša	N;GEN;SG
+trusis		N;GEN;PL
+trusis		N;INST;PL
+trusis		N;NOM;SG
+trusis		N;LOC;PL
+trusis		N;DAT;SG
+trusis		N;LOC;SG
+trusis	trušus	N;ACC;PL
+trusis		N;ACC;SG
+trusis		N;VOC;PL
+trusis		N;INST;SG
+trusis		N;DAT;PL
+ciemiņš		N;NOM;PL
+ciemiņš	ciemiņ	N;VOC;SG
+ciemiņš		N;GEN;SG
+ciemiņš		N;GEN;PL
+ciemiņš		N;INST;PL
+ciemiņš		N;NOM;SG
+ciemiņš		N;LOC;PL
+ciemiņš		N;DAT;SG
+ciemiņš		N;LOC;SG
+ciemiņš		N;ACC;PL
+ciemiņš		N;ACC;SG
+ciemiņš		N;VOC;PL
+ciemiņš		N;INST;SG
+ciemiņš	ciemiņiem	N;DAT;PL
+gatavošana		N;VOC;SG
+gatavošana		N;GEN;SG
+gatavošana		N;NOM;SG
+gatavošana		N;DAT;SG
+gatavošana		N;LOC;SG
+gatavošana		N;ACC;SG
+gatavošana		N;INST;SG
+prostituēšana		N;VOC;SG
+prostituēšana		N;GEN;SG
+prostituēšana		N;NOM;SG
+prostituēšana		N;DAT;SG
+prostituēšana		N;LOC;SG
+prostituēšana		N;ACC;SG
+prostituēšana		N;INST;SG
+eksistenciālisms		N;VOC;SG
+eksistenciālisms		N;GEN;SG
+eksistenciālisms		N;NOM;SG
+eksistenciālisms		N;DAT;SG
+eksistenciālisms		N;LOC;SG
+eksistenciālisms		N;ACC;SG
+eksistenciālisms		N;INST;SG
+staignums		N;NOM;PL
+staignums		N;VOC;SG
+staignums		N;GEN;SG
+staignums		N;GEN;PL
+staignums	staignumiem	N;INST;PL
+staignums		N;NOM;SG
+staignums		N;LOC;PL
+staignums	staignumam	N;DAT;SG
+staignums		N;LOC;SG
+staignums		N;ACC;PL
+staignums		N;ACC;SG
+staignums		N;VOC;PL
+staignums		N;INST;SG
+staignums		N;DAT;PL
+ēģiptiskais		ADJ;GEN;SG;FEM
+ēģiptiskais		ADJ;DAT;PL;FEM
+ēģiptiskais	ēģiptisko	ADJ;DAT;SG;FEM
+ēģiptiskais		ADJ;NOM;PL;FEM
+ēģiptiskais	ēģiptiskajam	ADJ;GEN;SG;MASC
+ēģiptiskais		ADJ;NOM;SG;FEM
+ēģiptiskais		ADJ;INST;SG;MASC
+ēģiptiskais		ADJ;DAT;SG;MASC
+ēģiptiskais		ADJ;LOC;PL;FEM
+ēģiptiskais		ADJ;ACC;SG;MASC
+ēģiptiskais		ADJ;LOC;SG;FEM
+ēģiptiskais	ēģiptiskajā	ADJ;INST;SG;FEM
+ēģiptiskais		ADJ;DAT;PL;MASC
+ēģiptiskais		ADJ;LOC;SG;MASC
+ēģiptiskais		ADJ;LOC;PL;MASC
+ēģiptiskais		ADJ;ACC;PL;FEM
+ēģiptiskais		ADJ;ACC;PL;MASC
+ēģiptiskais		ADJ;GEN;PL;MASC
+ēģiptiskais		ADJ;INST;PL;MASC
+ēģiptiskais		ADJ;ACC;SG;FEM
+ēģiptiskais		ADJ;INST;PL;FEM
+ēģiptiskais		ADJ;GEN;PL;FEM
+ēģiptiskais	ēģiptisko	ADJ;NOM;SG;MASC
+ēģiptiskais		ADJ;NOM;PL;MASC
+nāvīgāks		ADJ;DAT;PL;MASC
+nāvīgāks		ADJ;DAT;SG;FEM
+nāvīgāks		ADJ;ACC;PL;FEM
+nāvīgāks	nāvīgākas	ADJ;NOM;PL;FEM
+nāvīgāks		ADJ;ACC;SG;MASC
+nāvīgāks		ADJ;GEN;SG;MASC
+nāvīgāks		ADJ;ACC;PL;MASC
+nāvīgāks		ADJ;GEN;PL;MASC
+nāvīgāks	nāvīgāku	ADJ;NOM;SG;FEM
+nāvīgāks		ADJ;ACC;SG;FEM
+nāvīgāks		ADJ;INST;PL;MASC
+nāvīgāks		ADJ;GEN;SG;FEM
+nāvīgāks		ADJ;INST;SG;FEM
+nāvīgāks		ADJ;DAT;PL;FEM
+nāvīgāks	nāvīgākās	ADJ;INST;PL;FEM
+nāvīgāks		ADJ;INST;SG;MASC
+nāvīgāks		ADJ;DAT;SG;MASC
+nāvīgāks		ADJ;GEN;PL;FEM
+nāvīgāks		ADJ;NOM;SG;MASC
+nāvīgāks		ADJ;NOM;PL;MASC
+dzejnieks		N;NOM;PL
+dzejnieks		N;VOC;SG
+dzejnieks	dzejnieka	N;GEN;SG
+dzejnieks		N;GEN;PL
+dzejnieks		N;INST;PL
+dzejnieks		N;NOM;SG
+dzejnieks		N;LOC;PL
+dzejnieks		N;DAT;SG
+dzejnieks		N;LOC;SG
+dzejnieks		N;ACC;PL
+dzejnieks		N;ACC;SG
+dzejnieks		N;VOC;PL
+dzejnieks	dzejnieku	N;INST;SG
+dzejnieks		N;DAT;PL
+rūda		N;VOC;SG
+rūda		N;NOM;PL
+rūda		N;NOM;SG
+rūda		N;GEN;PL
+rūda		N;INST;PL
+rūda		N;GEN;SG
+rūda		N;LOC;PL
+rūda		N;DAT;SG
+rūda		N;LOC;SG
+rūda		N;ACC;PL
+rūda		N;ACC;SG
+rūda	rūdas	N;VOC;PL
+rūda		N;INST;SG
+rūda	rūdām	N;DAT;PL
+nereģistrēšana		N;VOC;SG
+nereģistrēšana		N;GEN;SG
+nereģistrēšana		N;NOM;SG
+nereģistrēšana		N;DAT;SG
+nereģistrēšana		N;LOC;SG
+nereģistrēšana		N;ACC;SG
+nereģistrēšana		N;INST;SG
+nedziedāšana		N;VOC;SG
+nedziedāšana		N;GEN;SG
+nedziedāšana		N;NOM;SG
+nedziedāšana		N;DAT;SG
+nedziedāšana		N;LOC;SG
+nedziedāšana		N;ACC;SG
+nedziedāšana		N;INST;SG
+ceptuve		N;VOC;SG
+ceptuve		N;NOM;PL
+ceptuve		N;NOM;SG
+ceptuve	ceptuvju	N;GEN;PL
+ceptuve		N;INST;PL
+ceptuve		N;GEN;SG
+ceptuve		N;LOC;PL
+ceptuve		N;DAT;SG
+ceptuve		N;LOC;SG
+ceptuve		N;ACC;PL
+ceptuve		N;ACC;SG
+ceptuve		N;VOC;PL
+ceptuve	ceptuvi	N;INST;SG
+ceptuve		N;DAT;PL
+pergamentpapīrs		N;NOM;PL
+pergamentpapīrs		N;VOC;SG
+pergamentpapīrs		N;GEN;SG
+pergamentpapīrs		N;GEN;PL
+pergamentpapīrs	pergamentpapīriem	N;INST;PL
+pergamentpapīrs		N;NOM;SG
+pergamentpapīrs		N;LOC;PL
+pergamentpapīrs		N;DAT;SG
+pergamentpapīrs		N;LOC;SG
+pergamentpapīrs		N;ACC;PL
+pergamentpapīrs		N;ACC;SG
+pergamentpapīrs	pergamentpapīri	N;VOC;PL
+pergamentpapīrs		N;INST;SG
+pergamentpapīrs		N;DAT;PL
+greznība		N;VOC;SG
+greznība		N;GEN;SG
+greznība		N;NOM;SG
+greznība		N;DAT;SG
+greznība		N;LOC;SG
+greznība		N;ACC;SG
+greznība		N;INST;SG
+balodis		N;VOC;SG
+balodis		N;NOM;PL
+balodis		N;NOM;SG
+balodis		N;GEN;PL
+balodis		N;INST;PL
+balodis		N;GEN;SG
+balodis		N;LOC;PL
+balodis		N;DAT;SG
+balodis		N;LOC;SG
+balodis		N;ACC;PL
+balodis		N;ACC;SG
+balodis		N;VOC;PL
+balodis	balodi	N;INST;SG
+balodis	baložiem	N;DAT;PL
+blondīne		N;VOC;SG
+blondīne		N;NOM;PL
+blondīne		N;NOM;SG
+blondīne		N;GEN;PL
+blondīne	blondīnēm	N;INST;PL
+blondīne		N;GEN;SG
+blondīne		N;LOC;PL
+blondīne		N;DAT;SG
+blondīne	blondīnē	N;LOC;SG
+blondīne		N;ACC;PL
+blondīne		N;ACC;SG
+blondīne		N;VOC;PL
+blondīne		N;INST;SG
+blondīne		N;DAT;PL
+vismežainākais		ADJ;GEN;SG;FEM
+vismežainākais		ADJ;DAT;PL;FEM
+vismežainākais		ADJ;DAT;SG;FEM
+vismežainākais		ADJ;NOM;PL;FEM
+vismežainākais		ADJ;GEN;SG;MASC
+vismežainākais		ADJ;NOM;SG;FEM
+vismežainākais		ADJ;INST;SG;MASC
+vismežainākais		ADJ;DAT;SG;MASC
+vismežainākais	vismežainākās	ADJ;LOC;PL;FEM
+vismežainākais		ADJ;ACC;SG;MASC
+vismežainākais		ADJ;LOC;SG;FEM
+vismežainākais		ADJ;INST;SG;FEM
+vismežainākais		ADJ;DAT;PL;MASC
+vismežainākais		ADJ;LOC;SG;MASC
+vismežainākais		ADJ;LOC;PL;MASC
+vismežainākais		ADJ;ACC;PL;FEM
+vismežainākais	vismežaināko	ADJ;ACC;PL;MASC
+vismežainākais	vismežainākajiem	ADJ;GEN;PL;MASC
+vismežainākais		ADJ;INST;PL;MASC
+vismežainākais		ADJ;ACC;SG;FEM
+vismežainākais	vismežainākajās	ADJ;INST;PL;FEM
+vismežainākais		ADJ;GEN;PL;FEM
+vismežainākais		ADJ;NOM;SG;MASC
+vismežainākais		ADJ;NOM;PL;MASC
+spalvmākonis		N;NOM;PL
+spalvmākonis		N;VOC;SG
+spalvmākonis		N;GEN;SG
+spalvmākonis		N;GEN;PL
+spalvmākonis		N;INST;PL
+spalvmākonis		N;NOM;SG
+spalvmākonis	spalvmākoņos	N;LOC;PL
+spalvmākonis		N;DAT;SG
+spalvmākonis		N;LOC;SG
+spalvmākonis		N;ACC;PL
+spalvmākonis	spalvmākoni	N;ACC;SG
+spalvmākonis		N;VOC;PL
+spalvmākonis		N;INST;SG
+spalvmākonis		N;DAT;PL
+viesmīlīgākais		ADJ;GEN;SG;FEM
+viesmīlīgākais		ADJ;DAT;PL;FEM
+viesmīlīgākais		ADJ;DAT;SG;FEM
+viesmīlīgākais	viesmīlīgākās	ADJ;NOM;PL;FEM
+viesmīlīgākais		ADJ;GEN;SG;MASC
+viesmīlīgākais		ADJ;NOM;SG;FEM
+viesmīlīgākais	viesmīlīgākajā	ADJ;INST;SG;MASC
+viesmīlīgākais		ADJ;DAT;SG;MASC
+viesmīlīgākais		ADJ;LOC;PL;FEM
+viesmīlīgākais		ADJ;ACC;SG;MASC
+viesmīlīgākais		ADJ;LOC;SG;FEM
+viesmīlīgākais		ADJ;INST;SG;FEM
+viesmīlīgākais		ADJ;DAT;PL;MASC
+viesmīlīgākais		ADJ;LOC;SG;MASC
+viesmīlīgākais		ADJ;LOC;PL;MASC
+viesmīlīgākais		ADJ;ACC;PL;FEM
+viesmīlīgākais		ADJ;ACC;PL;MASC
+viesmīlīgākais	viesmīlīgākajiem	ADJ;GEN;PL;MASC
+viesmīlīgākais		ADJ;INST;PL;MASC
+viesmīlīgākais		ADJ;ACC;SG;FEM
+viesmīlīgākais		ADJ;INST;PL;FEM
+viesmīlīgākais		ADJ;GEN;PL;FEM
+viesmīlīgākais	viesmīlīgāko	ADJ;NOM;SG;MASC
+viesmīlīgākais		ADJ;NOM;PL;MASC
+dailais		ADJ;GEN;SG;FEM
+dailais		ADJ;DAT;PL;FEM
+dailais		ADJ;DAT;SG;FEM
+dailais		ADJ;NOM;PL;FEM
+dailais		ADJ;GEN;SG;MASC
+dailais		ADJ;NOM;SG;FEM
+dailais		ADJ;INST;SG;MASC
+dailais		ADJ;DAT;SG;MASC
+dailais	dailās	ADJ;LOC;PL;FEM
+dailais		ADJ;ACC;SG;MASC
+dailais		ADJ;LOC;SG;FEM
+dailais		ADJ;INST;SG;FEM
+dailais		ADJ;DAT;PL;MASC
+dailais		ADJ;LOC;SG;MASC
+dailais	dailie	ADJ;LOC;PL;MASC
+dailais		ADJ;ACC;PL;FEM
+dailais	dailo	ADJ;ACC;PL;MASC
+dailais	dailajiem	ADJ;GEN;PL;MASC
+dailais		ADJ;INST;PL;MASC
+dailais		ADJ;ACC;SG;FEM
+dailais		ADJ;INST;PL;FEM
+dailais		ADJ;GEN;PL;FEM
+dailais		ADJ;NOM;SG;MASC
+dailais		ADJ;NOM;PL;MASC
+visšausmīgākais	visšausmīgākajai	ADJ;GEN;SG;FEM
+visšausmīgākais		ADJ;DAT;PL;FEM
+visšausmīgākais		ADJ;DAT;SG;FEM
+visšausmīgākais	visšausmīgākās	ADJ;NOM;PL;FEM
+visšausmīgākais		ADJ;GEN;SG;MASC
+visšausmīgākais		ADJ;NOM;SG;FEM
+visšausmīgākais	visšausmīgākajā	ADJ;INST;SG;MASC
+visšausmīgākais		ADJ;DAT;SG;MASC
+visšausmīgākais	visšausmīgākās	ADJ;LOC;PL;FEM
+visšausmīgākais		ADJ;ACC;SG;MASC
+visšausmīgākais		ADJ;LOC;SG;FEM
+visšausmīgākais		ADJ;INST;SG;FEM
+visšausmīgākais		ADJ;DAT;PL;MASC
+visšausmīgākais		ADJ;LOC;SG;MASC
+visšausmīgākais		ADJ;LOC;PL;MASC
+visšausmīgākais		ADJ;ACC;PL;FEM
+visšausmīgākais		ADJ;ACC;PL;MASC
+visšausmīgākais		ADJ;GEN;PL;MASC
+visšausmīgākais		ADJ;INST;PL;MASC
+visšausmīgākais		ADJ;ACC;SG;FEM
+visšausmīgākais		ADJ;INST;PL;FEM
+visšausmīgākais		ADJ;GEN;PL;FEM
+visšausmīgākais		ADJ;NOM;SG;MASC
+visšausmīgākais		ADJ;NOM;PL;MASC
+nepārtulkošana		N;VOC;SG
+nepārtulkošana		N;GEN;SG
+nepārtulkošana		N;NOM;SG
+nepārtulkošana		N;DAT;SG
+nepārtulkošana		N;LOC;SG
+nepārtulkošana		N;ACC;SG
+nepārtulkošana		N;INST;SG
+vēlāks		ADJ;DAT;PL;MASC
+vēlāks		ADJ;DAT;SG;FEM
+vēlāks		ADJ;ACC;PL;FEM
+vēlāks	vēlākas	ADJ;NOM;PL;FEM
+vēlāks		ADJ;ACC;SG;MASC
+vēlāks		ADJ;GEN;SG;MASC
+vēlāks		ADJ;ACC;PL;MASC
+vēlāks		ADJ;GEN;PL;MASC
+vēlāks		ADJ;NOM;SG;FEM
+vēlāks		ADJ;ACC;SG;FEM
+vēlāks		ADJ;INST;PL;MASC
+vēlāks		ADJ;GEN;SG;FEM
+vēlāks	vēlākā	ADJ;INST;SG;FEM
+vēlāks		ADJ;DAT;PL;FEM
+vēlāks	vēlākās	ADJ;INST;PL;FEM
+vēlāks		ADJ;INST;SG;MASC
+vēlāks		ADJ;DAT;SG;MASC
+vēlāks		ADJ;GEN;PL;FEM
+vēlāks		ADJ;NOM;SG;MASC
+vēlāks		ADJ;NOM;PL;MASC
+pazīt		V;LGSPEC1;IMP
+pazīt		V;3;SG;IMP
+pazīt		V;NFIN;NEG
+pazīt		V;2;SG;PST;IND
+pazīt		V;3;PL;PRS;IND
+pazīt	esot pazinis	V;LGSPEC1;PST
+pazīt		V;3;PL;FUT;IND
+pazīt		V;V.PTCP;PST;ACT
+pazīt		V;1;PL;IMP
+pazīt		V;3;PL;PST;IND
+pazīt		V;V.PTCP;PRS;LGSPEC3
+pazīt		V;3;PL;IMP
+pazīt	pazīstot	V;LGSPEC1;PRS
+pazīt		V;1;SG;PST;IND
+pazīt		V;1;PL;PRS;IND
+pazīt		V;2;SG;IMP
+pazīt		V;1;PL;FUT;IND
+pazīt		V;2;SG;PRS;IND
+pazīt	pazīstams	V;V.PTCP;PRS;PASS
+pazīt		V;COND;PRS
+pazīt		V;V.PTCP;PST;PASS
+pazīt		V;2;PL;PST;IND
+pazīt		V;1;SG;PRS;IND
+pazīt		V;2;PL;IMP
+pazīt		V;LGSPEC2;LGSPEC7
+pazīt	pazīšu	V;1;SG;FUT;IND
+pazīt	pazīšana	V;V.MSDR
+pazīt		V;3;SG;PRS;IND
+pazīt		V;1;PL;PST;IND
+pazīt		V;2;PL;PRS;IND
+pazīt		V;NFIN
+pazīt	būt jāpazīst	V;LGSPEC2;IND
+pazīt	pazina	V;3;SG;PST;IND
+pazīt		V;LGSPEC2;LgSPEC8
+pazīt		V;2;PL;FUT;IND
+pazīt		V;V.PTCP;PRS;LGSPEC6
+pazīt		V;V.PTCP;PRS;LGSPEC5
+pazīt		V;V.PTCP;PRS;LGSPEC4
+pazīt		V;LGSPEC1;FUT
+pazīt		V;COND;PST
+pazīt		V;3;SG;FUT;IND
+pazīt		V;2;SG;FUT;IND
+trūcīgāks		ADJ;DAT;PL;MASC
+trūcīgāks		ADJ;DAT;SG;FEM
+trūcīgāks		ADJ;ACC;PL;FEM
+trūcīgāks		ADJ;NOM;PL;FEM
+trūcīgāks		ADJ;ACC;SG;MASC
+trūcīgāks		ADJ;GEN;SG;MASC
+trūcīgāks	trūcīgāku	ADJ;ACC;PL;MASC
+trūcīgāks		ADJ;GEN;PL;MASC
+trūcīgāks		ADJ;NOM;SG;FEM
+trūcīgāks		ADJ;ACC;SG;FEM
+trūcīgāks		ADJ;INST;PL;MASC
+trūcīgāks		ADJ;GEN;SG;FEM
+trūcīgāks		ADJ;INST;SG;FEM
+trūcīgāks	trūcīgākām	ADJ;DAT;PL;FEM
+trūcīgāks		ADJ;INST;PL;FEM
+trūcīgāks		ADJ;INST;SG;MASC
+trūcīgāks	trūcīgāku	ADJ;DAT;SG;MASC
+trūcīgāks		ADJ;GEN;PL;FEM
+trūcīgāks		ADJ;NOM;SG;MASC
+trūcīgāks		ADJ;NOM;PL;MASC
+seksualitāte		N;VOC;SG
+seksualitāte		N;GEN;SG
+seksualitāte		N;NOM;SG
+seksualitāte		N;DAT;SG
+seksualitāte		N;LOC;SG
+seksualitāte		N;ACC;SG
+seksualitāte		N;INST;SG
+ciešākais		ADJ;GEN;SG;FEM
+ciešākais	ciešākajām	ADJ;DAT;PL;FEM
+ciešākais		ADJ;DAT;SG;FEM
+ciešākais		ADJ;NOM;PL;FEM
+ciešākais		ADJ;GEN;SG;MASC
+ciešākais		ADJ;NOM;SG;FEM
+ciešākais	ciešākajā	ADJ;INST;SG;MASC
+ciešākais		ADJ;DAT;SG;MASC
+ciešākais	ciešākās	ADJ;LOC;PL;FEM
+ciešākais		ADJ;ACC;SG;MASC
+ciešākais		ADJ;LOC;SG;FEM
+ciešākais		ADJ;INST;SG;FEM
+ciešākais		ADJ;DAT;PL;MASC
+ciešākais		ADJ;LOC;SG;MASC
+ciešākais		ADJ;LOC;PL;MASC
+ciešākais		ADJ;ACC;PL;FEM
+ciešākais		ADJ;ACC;PL;MASC
+ciešākais		ADJ;GEN;PL;MASC
+ciešākais	ciešākajos	ADJ;INST;PL;MASC
+ciešākais		ADJ;ACC;SG;FEM
+ciešākais		ADJ;INST;PL;FEM
+ciešākais		ADJ;GEN;PL;FEM
+ciešākais		ADJ;NOM;SG;MASC
+ciešākais		ADJ;NOM;PL;MASC
+nemaksāt		V;LGSPEC1;IMP
+nemaksāt		V;3;SG;IMP
+nemaksāt		V;2;PL;FUT;IND
+nemaksāt		V;NFIN;NEG
+nemaksāt		V;2;SG;PST;IND
+nemaksāt	nemaksā	V;3;PL;PRS;IND
+nemaksāt		V;LGSPEC1;PST
+nemaksāt		V;1;SG;PST;IND
+nemaksāt	nemaksājot	V;LGSPEC1;PRS
+nemaksāt		V;1;PL;IMP
+nemaksāt		V;3;PL;PST;IND
+nemaksāt		V;3;PL;FUT;IND
+nemaksāt		V;3;PL;IMP
+nemaksāt		V;V.PTCP;PST;ACT
+nemaksāt		V;1;PL;PRS;IND
+nemaksāt	nemaksā	V;2;SG;IMP
+nemaksāt		V;1;PL;FUT;IND
+nemaksāt		V;2;SG;PRS;IND
+nemaksāt		V;V.PTCP;PRS;PASS
+nemaksāt		V;COND;PRS
+nemaksāt	nemaksāts	V;V.PTCP;PST;PASS
+nemaksāt		V;2;PL;PST;IND
+nemaksāt		V;1;SG;PRS;IND
+nemaksāt		V;2;PL;IMP
+nemaksāt		V;LGSPEC2;LGSPEC7
+nemaksāt		V;1;SG;FUT;IND
+nemaksāt		V;V.MSDR
+nemaksāt		V;3;SG;PRS;IND
+nemaksāt		V;1;PL;PST;IND
+nemaksāt		V;2;PL;PRS;IND
+nemaksāt		V;NFIN
+nemaksāt		V;LGSPEC2;IND
+nemaksāt		V;3;SG;PST;IND
+nemaksāt		V;V.PTCP;PRS;LGSPEC3
+nemaksāt		V;V.PTCP;PRS;LGSPEC6
+nemaksāt		V;V.PTCP;PRS;LGSPEC5
+nemaksāt		V;V.PTCP;PRS;LGSPEC4
+nemaksāt	nemaksāšot	V;LGSPEC1;FUT
+nemaksāt	nebūtu maksājis	V;COND;PST
+nemaksāt		V;3;SG;FUT;IND
+nemaksāt	nemaksāsi	V;2;SG;FUT;IND
+modrākais		ADJ;GEN;SG;FEM
+modrākais		ADJ;DAT;PL;FEM
+modrākais		ADJ;DAT;SG;FEM
+modrākais		ADJ;NOM;PL;FEM
+modrākais		ADJ;GEN;SG;MASC
+modrākais		ADJ;NOM;SG;FEM
+modrākais		ADJ;INST;SG;MASC
+modrākais		ADJ;DAT;SG;MASC
+modrākais		ADJ;LOC;PL;FEM
+modrākais	modrākā	ADJ;ACC;SG;MASC
+modrākais		ADJ;LOC;SG;FEM
+modrākais		ADJ;INST;SG;FEM
+modrākais		ADJ;DAT;PL;MASC
+modrākais		ADJ;LOC;SG;MASC
+modrākais	modrākie	ADJ;LOC;PL;MASC
+modrākais	modrāko	ADJ;ACC;PL;FEM
+modrākais		ADJ;ACC;PL;MASC
+modrākais		ADJ;GEN;PL;MASC
+modrākais	modrākajos	ADJ;INST;PL;MASC
+modrākais		ADJ;ACC;SG;FEM
+modrākais		ADJ;INST;PL;FEM
+modrākais		ADJ;GEN;PL;FEM
+modrākais		ADJ;NOM;SG;MASC
+modrākais		ADJ;NOM;PL;MASC
+īstenais	īstenajai	ADJ;GEN;SG;FEM
+īstenais		ADJ;DAT;PL;FEM
+īstenais		ADJ;DAT;SG;FEM
+īstenais		ADJ;NOM;PL;FEM
+īstenais		ADJ;GEN;SG;MASC
+īstenais		ADJ;NOM;SG;FEM
+īstenais		ADJ;INST;SG;MASC
+īstenais		ADJ;DAT;SG;MASC
+īstenais		ADJ;LOC;PL;FEM
+īstenais	īstenā	ADJ;ACC;SG;MASC
+īstenais		ADJ;LOC;SG;FEM
+īstenais		ADJ;INST;SG;FEM
+īstenais		ADJ;DAT;PL;MASC
+īstenais		ADJ;LOC;SG;MASC
+īstenais		ADJ;LOC;PL;MASC
+īstenais		ADJ;ACC;PL;FEM
+īstenais		ADJ;ACC;PL;MASC
+īstenais		ADJ;GEN;PL;MASC
+īstenais		ADJ;INST;PL;MASC
+īstenais		ADJ;ACC;SG;FEM
+īstenais	īstenajās	ADJ;INST;PL;FEM
+īstenais		ADJ;GEN;PL;FEM
+īstenais		ADJ;NOM;SG;MASC
+īstenais	īstenos	ADJ;NOM;PL;MASC
+sīriskais		ADJ;GEN;SG;FEM
+sīriskais	sīriskajām	ADJ;DAT;PL;FEM
+sīriskais		ADJ;DAT;SG;FEM
+sīriskais	sīriskās	ADJ;NOM;PL;FEM
+sīriskais		ADJ;GEN;SG;MASC
+sīriskais		ADJ;NOM;SG;FEM
+sīriskais		ADJ;INST;SG;MASC
+sīriskais		ADJ;DAT;SG;MASC
+sīriskais		ADJ;LOC;PL;FEM
+sīriskais	sīriskā	ADJ;ACC;SG;MASC
+sīriskais		ADJ;LOC;SG;FEM
+sīriskais		ADJ;INST;SG;FEM
+sīriskais		ADJ;DAT;PL;MASC
+sīriskais		ADJ;LOC;SG;MASC
+sīriskais	sīriskie	ADJ;LOC;PL;MASC
+sīriskais		ADJ;ACC;PL;FEM
+sīriskais		ADJ;ACC;PL;MASC
+sīriskais		ADJ;GEN;PL;MASC
+sīriskais		ADJ;INST;PL;MASC
+sīriskais		ADJ;ACC;SG;FEM
+sīriskais		ADJ;INST;PL;FEM
+sīriskais		ADJ;GEN;PL;FEM
+sīriskais		ADJ;NOM;SG;MASC
+sīriskais		ADJ;NOM;PL;MASC
+tantals		N;VOC;SG
+tantals		N;GEN;SG
+tantals		N;NOM;SG
+tantals		N;DAT;SG
+tantals		N;LOC;SG
+tantals		N;ACC;SG
+tantals		N;INST;SG
+kontinentālākais		ADJ;GEN;SG;FEM
+kontinentālākais		ADJ;DAT;PL;FEM
+kontinentālākais		ADJ;DAT;SG;FEM
+kontinentālākais	kontinentālākās	ADJ;NOM;PL;FEM
+kontinentālākais		ADJ;GEN;SG;MASC
+kontinentālākais		ADJ;NOM;SG;FEM
+kontinentālākais	kontinentālākajā	ADJ;INST;SG;MASC
+kontinentālākais		ADJ;DAT;SG;MASC
+kontinentālākais		ADJ;LOC;PL;FEM
+kontinentālākais	kontinentālākā	ADJ;ACC;SG;MASC
+kontinentālākais		ADJ;LOC;SG;FEM
+kontinentālākais		ADJ;INST;SG;FEM
+kontinentālākais		ADJ;DAT;PL;MASC
+kontinentālākais		ADJ;LOC;SG;MASC
+kontinentālākais		ADJ;LOC;PL;MASC
+kontinentālākais		ADJ;ACC;PL;FEM
+kontinentālākais		ADJ;ACC;PL;MASC
+kontinentālākais		ADJ;GEN;PL;MASC
+kontinentālākais	kontinentālākajos	ADJ;INST;PL;MASC
+kontinentālākais		ADJ;ACC;SG;FEM
+kontinentālākais		ADJ;INST;PL;FEM
+kontinentālākais		ADJ;GEN;PL;FEM
+kontinentālākais		ADJ;NOM;SG;MASC
+kontinentālākais		ADJ;NOM;PL;MASC
+visciešākais	visciešākajai	ADJ;GEN;SG;FEM
+visciešākais		ADJ;DAT;PL;FEM
+visciešākais		ADJ;DAT;SG;FEM
+visciešākais		ADJ;NOM;PL;FEM
+visciešākais		ADJ;GEN;SG;MASC
+visciešākais		ADJ;NOM;SG;FEM
+visciešākais	visciešākajā	ADJ;INST;SG;MASC
+visciešākais		ADJ;DAT;SG;MASC
+visciešākais		ADJ;LOC;PL;FEM
+visciešākais		ADJ;ACC;SG;MASC
+visciešākais	visciešākā	ADJ;LOC;SG;FEM
+visciešākais	visciešākajā	ADJ;INST;SG;FEM
+visciešākais		ADJ;DAT;PL;MASC
+visciešākais		ADJ;LOC;SG;MASC
+visciešākais		ADJ;LOC;PL;MASC
+visciešākais		ADJ;ACC;PL;FEM
+visciešākais		ADJ;ACC;PL;MASC
+visciešākais		ADJ;GEN;PL;MASC
+visciešākais		ADJ;INST;PL;MASC
+visciešākais		ADJ;ACC;SG;FEM
+visciešākais		ADJ;INST;PL;FEM
+visciešākais		ADJ;GEN;PL;FEM
+visciešākais		ADJ;NOM;SG;MASC
+visciešākais		ADJ;NOM;PL;MASC

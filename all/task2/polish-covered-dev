@@ -1,0 +1,1019 @@
+informacja	informacje	N;NOM;PL
+informacja		N;VOC;SG
+informacja		N;NOM;SG
+informacja		N;GEN;PL
+informacja		N;INS;PL
+informacja	informacjach	N;ESS;PL
+informacja		N;ESS;SG
+informacja		N;GEN;SG
+informacja		N;INS;SG
+informacja		N;DAT;SG
+informacja		N;ACC;PL
+informacja		N;ACC;SG
+informacja		N;VOC;PL
+informacja		N;DAT;PL
+stary		ADJ;FEM;ACC;SG
+stary		ADJ;MASC;HUM;NOM;PL
+stary		ADJ;NEUT;DAT;SG
+stary		ADJ;FEM;DAT;SG
+stary		ADJ;DAT;PL
+stary		ADJ;MASC;NOM;SG
+stary		ADJ;MASC;DAT;SG
+stary		ADJ;MASC;INS;SG
+stary	starych	ADJ;GEN;PL
+stary		ADJ;NEUT;ACC;SG
+stary		ADJ;MASC;HUM;ACC;SG
+stary		ADJ;MASC;HUM;ACC;PL
+stary	stare	ADJ;NOM;PL
+stary		ADJ;NEUT;ESS;SG
+stary		ADJ;FEM;ESS;SG
+stary		ADJ;ACC;PL
+stary	starej	ADJ;FEM;GEN;SG
+stary		ADJ;NEUT;GEN;SG
+stary		ADJ;FEM;INS;SG
+stary		ADJ;NEUT;INS;SG
+stary		ADJ;MASC;INAN;ACC;SG
+stary		ADJ;MASC;ANIM;ACC;SG
+stary		ADJ;INS;PL
+stary		ADJ;FEM;NOM;SG
+stary	stare	ADJ;NEUT;NOM;SG
+stary		ADJ;MASC;ESS;SG
+stary		ADJ;MASC;GEN;SG
+stary	starych	ADJ;ESS;PL
+tom	tomie	N;VOC;SG
+tom		N;GEN;PL
+tom		N;NOM;SG
+tom		N;VOC;PL
+tom		N;INS;PL
+tom		N;ESS;PL
+tom		N;ESS;SG
+tom		N;GEN;SG
+tom		N;INS;SG
+tom	tomowi	N;DAT;SG
+tom		N;ACC;PL
+tom		N;ACC;SG
+tom		N;NOM;PL
+tom		N;DAT;PL
+zamężna		ADJ;FEM;ACC;SG
+zamężna		ADJ;NEUT;DAT;SG
+zamężna		ADJ;FEM;DAT;SG
+zamężna	zamężni	ADJ;MASC;HUM;NOM;PL
+zamężna		ADJ;MASC;NOM;SG
+zamężna		ADJ;MASC;DAT;SG
+zamężna		ADJ;MASC;INS;SG
+zamężna	zamężnych	ADJ;GEN;PL
+zamężna		ADJ;NEUT;ACC;SG
+zamężna		ADJ;MASC;HUM;ACC;SG
+zamężna	zamężnych	ADJ;MASC;HUM;ACC;PL
+zamężna		ADJ;NOM;PL
+zamężna		ADJ;NEUT;ESS;SG
+zamężna		ADJ;FEM;ESS;SG
+zamężna		ADJ;ACC;PL
+zamężna		ADJ;FEM;GEN;SG
+zamężna	zamężnego	ADJ;NEUT;GEN;SG
+zamężna		ADJ;FEM;INS;SG
+zamężna		ADJ;NEUT;INS;SG
+zamężna		ADJ;MASC;INAN;ACC;SG
+zamężna		ADJ;MASC;ANIM;ACC;SG
+zamężna		ADJ;DAT;PL
+zamężna	zamężnymi	ADJ;INS;PL
+zamężna		ADJ;FEM;NOM;SG
+zamężna		ADJ;NEUT;NOM;SG
+zamężna		ADJ;MASC;ESS;SG
+zamężna		ADJ;MASC;GEN;SG
+zamężna		ADJ;ESS;PL
+drewno		N;GEN;PL
+drewno	drewna	N;NOM;PL
+drewno	drewna	N;GEN;SG
+drewno		N;INS;PL
+drewno		N;ESS;PL
+drewno		N;ESS;SG
+drewno		N;VOC;SG
+drewno		N;NOM;SG
+drewno		N;INS;SG
+drewno		N;DAT;SG
+drewno		N;ACC;PL
+drewno		N;ACC;SG
+drewno		N;VOC;PL
+drewno		N;DAT;PL
+wieżowiec		N;NOM;PL
+wieżowiec		N;GEN;PL
+wieżowiec		N;GEN;SG
+wieżowiec		N;INS;PL
+wieżowiec		N;ESS;PL
+wieżowiec		N;ESS;SG
+wieżowiec		N;VOC;SG
+wieżowiec		N;NOM;SG
+wieżowiec	wieżowcem	N;INS;SG
+wieżowiec		N;DAT;SG
+wieżowiec		N;ACC;PL
+wieżowiec	wieżowiec	N;ACC;SG
+wieżowiec		N;VOC;PL
+wieżowiec		N;DAT;PL
+wziąć		V.MSDR
+wziąć	wzięte	V.PTCP;PST;PASS;SG;NEUT
+wziąć		V;FUT;2;PL
+wziąć		V;COND;1;PL
+wziąć		V.CVB;PST
+wziąć		V.PTCP;PST;PASS;SG;FEM
+wziąć	wziąłby	V;COND;3;SG;MASC
+wziąć		V;PST;2;SG;MASC
+wziąć	weźmie	V;FUT;3;SG
+wziąć		V;COND;3;PL
+wziąć	wziął	V;PST;3;SG;MASC
+wziąć		V;FUT;1;SG
+wziąć	wzięłam	V;PST;1;SG;FEM
+wziąć		V;IMP;2;SG
+wziąć		V.PTCP;PST;PASS;PL;MASC;HUM
+wziąć		V;COND;3;PL;MASC;HUM
+wziąć		V.PTCP;PST;PASS
+wziąć		V.PTCP;PST;PASS;SG;MASC
+wziąć		V;PST;2;PL
+wziąć		V.PTCP;PST;PASS;PL
+wziąć		V;IMP;1;SG
+wziąć		V;NFIN
+wziąć		V;COND;3;SG;FEM
+wziąć		V;PST;2;SG;FEM
+wziąć		V;FUT;3;PL
+wziąć	niech wezmą	V;IMP;3;PL
+wziąć	wzięliście	V;PST;2;PL;MASC;HUM
+wziąć		V;FUT;2;SG
+wziąć		V;COND;2;SG;FEM
+wziąć		V;PST;1;SG;MASC
+wziąć		V;COND;2;PL
+wziąć		V;COND;1;SG;FEM
+wziąć	wzięłyśmy	V;PST;1;PL
+wziąć		V;PST;1;PL;MASC;HUM
+wziąć		V;IMP;2;PL
+wziąć		V;COND;2;SG;MASC
+wziąć		V;COND;1;PL;MASC;HUM
+wziąć		V;FUT;1;PL
+wziąć		V;PST;3;PL
+wziąć		V;COND;2;PL;MASC;HUM
+wziąć		V;PST;3;SG;NEUT
+wziąć		V;PST;3;SG;FEM
+wziąć		V;IMP;1;PL
+wziąć		V;COND;1;SG;MASC
+wziąć		V;IMP;3;SG
+wziąć		V;COND;3;SG;NEUT
+wziąć		V;PST;3;PL;MASC;HUM
+wojsko		N;NOM;PL
+wojsko		N;GEN;PL
+wojsko		N;GEN;SG
+wojsko		N;INS;PL
+wojsko		N;ESS;PL
+wojsko		N;ESS;SG
+wojsko		N;VOC;SG
+wojsko		N;NOM;SG
+wojsko		N;INS;SG
+wojsko		N;DAT;SG
+wojsko		N;ACC;PL
+wojsko	wojsko	N;ACC;SG
+wojsko	wojska	N;VOC;PL
+wojsko		N;DAT;PL
+brytyjski		ADJ;FEM;ACC;SG
+brytyjski		ADJ;NEUT;DAT;SG
+brytyjski	brytyjskiej	ADJ;FEM;DAT;SG
+brytyjski		ADJ;MASC;HUM;NOM;PL
+brytyjski	brytyjskich	ADJ;MASC;HUM;ACC;PL
+brytyjski		ADJ;MASC;DAT;SG
+brytyjski	brytyjskim	ADJ;MASC;INS;SG
+brytyjski		ADJ;GEN;PL
+brytyjski		ADJ;NEUT;ACC;SG
+brytyjski		ADJ;MASC;HUM;ACC;SG
+brytyjski		ADJ;MASC;NOM;SG
+brytyjski	brytyjskie	ADJ;NOM;PL
+brytyjski		ADJ;NEUT;ESS;SG
+brytyjski		ADJ;FEM;ESS;SG
+brytyjski		ADJ;ACC;PL
+brytyjski		ADJ;FEM;GEN;SG
+brytyjski		ADJ;NEUT;GEN;SG
+brytyjski		ADJ;FEM;INS;SG
+brytyjski		ADJ;NEUT;INS;SG
+brytyjski		ADJ;MASC;INAN;ACC;SG
+brytyjski		ADJ;MASC;ANIM;ACC;SG
+brytyjski		ADJ;DAT;PL
+brytyjski		ADJ;INS;PL
+brytyjski	brytyjska	ADJ;FEM;NOM;SG
+brytyjski		ADJ;NEUT;NOM;SG
+brytyjski		ADJ;MASC;ESS;SG
+brytyjski		ADJ;MASC;GEN;SG
+brytyjski		ADJ;ESS;PL
+kwartet		N;VOC;SG
+kwartet		N;GEN;PL
+kwartet		N;NOM;SG
+kwartet		N;VOC;PL
+kwartet		N;INS;PL
+kwartet		N;ESS;PL
+kwartet		N;ESS;SG
+kwartet		N;GEN;SG
+kwartet		N;INS;SG
+kwartet		N;DAT;SG
+kwartet	kwartety	N;ACC;PL
+kwartet		N;ACC;SG
+kwartet	kwartety	N;NOM;PL
+kwartet		N;DAT;PL
+bankructwo		N;GEN;PL
+bankructwo		N;NOM;PL
+bankructwo		N;GEN;SG
+bankructwo	bankructwami	N;INS;PL
+bankructwo		N;ESS;PL
+bankructwo	bankructwie	N;ESS;SG
+bankructwo		N;VOC;SG
+bankructwo		N;NOM;SG
+bankructwo		N;INS;SG
+bankructwo		N;DAT;SG
+bankructwo		N;ACC;PL
+bankructwo		N;ACC;SG
+bankructwo		N;VOC;PL
+bankructwo		N;DAT;PL
+chorwacki		ADJ;FEM;ACC;SG
+chorwacki		ADJ;NEUT;DAT;SG
+chorwacki		ADJ;FEM;DAT;SG
+chorwacki		ADJ;MASC;HUM;NOM;PL
+chorwacki		ADJ;MASC;HUM;ACC;PL
+chorwacki		ADJ;MASC;DAT;SG
+chorwacki		ADJ;MASC;INS;SG
+chorwacki		ADJ;GEN;PL
+chorwacki		ADJ;NEUT;ACC;SG
+chorwacki		ADJ;MASC;HUM;ACC;SG
+chorwacki		ADJ;MASC;NOM;SG
+chorwacki		ADJ;NOM;PL
+chorwacki		ADJ;NEUT;ESS;SG
+chorwacki		ADJ;FEM;ESS;SG
+chorwacki	chorwackie	ADJ;ACC;PL
+chorwacki	chorwackiej	ADJ;FEM;GEN;SG
+chorwacki	chorwackiego	ADJ;NEUT;GEN;SG
+chorwacki	chorwacką	ADJ;FEM;INS;SG
+chorwacki		ADJ;NEUT;INS;SG
+chorwacki		ADJ;MASC;INAN;ACC;SG
+chorwacki		ADJ;MASC;ANIM;ACC;SG
+chorwacki		ADJ;DAT;PL
+chorwacki		ADJ;INS;PL
+chorwacki		ADJ;FEM;NOM;SG
+chorwacki		ADJ;NEUT;NOM;SG
+chorwacki	chorwackim	ADJ;MASC;ESS;SG
+chorwacki		ADJ;MASC;GEN;SG
+chorwacki		ADJ;ESS;PL
+szerokość	szerokości	N;GEN;PL
+szerokość		N;NOM;PL
+szerokość		N;GEN;SG
+szerokość		N;INS;PL
+szerokość		N;ESS;PL
+szerokość		N;ESS;SG
+szerokość		N;VOC;SG
+szerokość		N;NOM;SG
+szerokość		N;INS;SG
+szerokość	szerokości	N;DAT;SG
+szerokość		N;ACC;PL
+szerokość		N;ACC;SG
+szerokość		N;VOC;PL
+szerokość		N;DAT;PL
+język	języki	N;NOM;PL
+język		N;GEN;PL
+język		N;GEN;SG
+język		N;INS;PL
+język		N;ESS;PL
+język		N;ESS;SG
+język		N;VOC;SG
+język		N;NOM;SG
+język		N;INS;SG
+język		N;DAT;SG
+język		N;ACC;PL
+język	język	N;ACC;SG
+język		N;VOC;PL
+język		N;DAT;PL
+dąb		N;VOC;SG
+dąb		N;GEN;PL
+dąb		N;NOM;SG
+dąb		N;VOC;PL
+dąb	dębami	N;INS;PL
+dąb		N;ESS;PL
+dąb		N;ESS;SG
+dąb	dębu	N;GEN;SG
+dąb		N;INS;SG
+dąb		N;DAT;SG
+dąb		N;ACC;PL
+dąb		N;ACC;SG
+dąb		N;NOM;PL
+dąb		N;DAT;PL
+geograficzny	geograficzną	ADJ;FEM;ACC;SG
+geograficzny		ADJ;NEUT;DAT;SG
+geograficzny		ADJ;FEM;DAT;SG
+geograficzny		ADJ;MASC;HUM;NOM;PL
+geograficzny		ADJ;MASC;NOM;SG
+geograficzny		ADJ;MASC;DAT;SG
+geograficzny		ADJ;MASC;INS;SG
+geograficzny		ADJ;GEN;PL
+geograficzny		ADJ;NEUT;ACC;SG
+geograficzny	geograficznego	ADJ;MASC;HUM;ACC;SG
+geograficzny		ADJ;MASC;HUM;ACC;PL
+geograficzny		ADJ;NOM;PL
+geograficzny	geograficznym	ADJ;NEUT;ESS;SG
+geograficzny		ADJ;FEM;ESS;SG
+geograficzny		ADJ;ACC;PL
+geograficzny		ADJ;FEM;GEN;SG
+geograficzny		ADJ;NEUT;GEN;SG
+geograficzny		ADJ;FEM;INS;SG
+geograficzny		ADJ;NEUT;INS;SG
+geograficzny		ADJ;MASC;INAN;ACC;SG
+geograficzny		ADJ;MASC;ANIM;ACC;SG
+geograficzny	geograficznym	ADJ;DAT;PL
+geograficzny		ADJ;INS;PL
+geograficzny		ADJ;FEM;NOM;SG
+geograficzny		ADJ;NEUT;NOM;SG
+geograficzny	geograficznym	ADJ;MASC;ESS;SG
+geograficzny		ADJ;MASC;GEN;SG
+geograficzny		ADJ;ESS;PL
+podróż		N;NOM;PL
+podróż		N;GEN;PL
+podróż		N;NOM;SG
+podróż		N;INS;PL
+podróż		N;ESS;PL
+podróż		N;ESS;SG
+podróż		N;VOC;SG
+podróż		N;GEN;SG
+podróż	podróżą	N;INS;SG
+podróż		N;DAT;SG
+podróż		N;ACC;PL
+podróż	podróż	N;ACC;SG
+podróż		N;VOC;PL
+podróż		N;DAT;PL
+budynek		N;NOM;PL
+budynek		N;GEN;PL
+budynek		N;NOM;SG
+budynek		N;INS;PL
+budynek		N;ESS;PL
+budynek		N;ESS;SG
+budynek	budynku	N;VOC;SG
+budynek		N;GEN;SG
+budynek		N;INS;SG
+budynek		N;DAT;SG
+budynek		N;ACC;PL
+budynek		N;ACC;SG
+budynek		N;VOC;PL
+budynek	budynkom	N;DAT;PL
+kucharz	kucharze	N;NOM;PL
+kucharz		N;VOC;SG
+kucharz		N;GEN;SG
+kucharz		N;GEN;PL
+kucharz		N;INS;PL
+kucharz		N;ESS;PL
+kucharz		N;ESS;SG
+kucharz		N;NOM;SG
+kucharz	kucharzem	N;INS;SG
+kucharz		N;DAT;SG
+kucharz		N;ACC;PL
+kucharz		N;ACC;SG
+kucharz		N;VOC;PL
+kucharz		N;DAT;PL
+autostrada		N;GEN;PL
+autostrada		N;VOC;SG
+autostrada		N;NOM;SG
+autostrada		N;VOC;PL
+autostrada	autostradami	N;INS;PL
+autostrada		N;ESS;PL
+autostrada		N;ESS;SG
+autostrada		N;GEN;SG
+autostrada		N;INS;SG
+autostrada		N;DAT;SG
+autostrada	autostrady	N;ACC;PL
+autostrada		N;ACC;SG
+autostrada		N;NOM;PL
+autostrada		N;DAT;PL
+córka		N;GEN;PL
+córka		N;NOM;PL
+córka		N;NOM;SG
+córka		N;INS;PL
+córka		N;ESS;PL
+córka		N;ESS;SG
+córka		N;VOC;SG
+córka		N;GEN;SG
+córka	córką	N;INS;SG
+córka		N;DAT;SG
+córka		N;ACC;PL
+córka		N;ACC;SG
+córka	córki	N;VOC;PL
+córka		N;DAT;PL
+auto		N;NOM;PL
+auto		N;GEN;PL
+auto		N;GEN;SG
+auto		N;INS;PL
+auto		N;ESS;PL
+auto		N;ESS;SG
+auto		N;VOC;SG
+auto		N;NOM;SG
+auto	autem	N;INS;SG
+auto		N;DAT;SG
+auto		N;ACC;PL
+auto		N;ACC;SG
+auto		N;VOC;PL
+auto	autom	N;DAT;PL
+buławnik		N;NOM;PL
+buławnik	buławników	N;GEN;PL
+buławnik		N;GEN;SG
+buławnik		N;INS;PL
+buławnik		N;ESS;PL
+buławnik		N;ESS;SG
+buławnik		N;VOC;SG
+buławnik		N;NOM;SG
+buławnik		N;INS;SG
+buławnik		N;DAT;SG
+buławnik		N;ACC;PL
+buławnik		N;ACC;SG
+buławnik		N;VOC;PL
+buławnik	buławnikom	N;DAT;PL
+poparcie		N;VOC;SG
+poparcie		N;GEN;SG
+poparcie		N;ESS;SG
+poparcie		N;NOM;SG
+poparcie		N;INS;SG
+poparcie		N;DAT;SG
+poparcie		N;ACC;SG
+gwiazda		N;GEN;PL
+gwiazda		N;VOC;SG
+gwiazda		N;NOM;SG
+gwiazda	gwiazdy	N;VOC;PL
+gwiazda		N;INS;PL
+gwiazda		N;ESS;PL
+gwiazda		N;ESS;SG
+gwiazda		N;GEN;SG
+gwiazda		N;INS;SG
+gwiazda	gwieździe	N;DAT;SG
+gwiazda		N;ACC;PL
+gwiazda		N;ACC;SG
+gwiazda		N;NOM;PL
+gwiazda		N;DAT;PL
+test		N;VOC;SG
+test		N;GEN;PL
+test		N;NOM;SG
+test	testy	N;VOC;PL
+test		N;INS;PL
+test		N;ESS;PL
+test		N;ESS;SG
+test		N;GEN;SG
+test		N;INS;SG
+test		N;DAT;SG
+test		N;ACC;PL
+test		N;ACC;SG
+test	testy	N;NOM;PL
+test		N;DAT;PL
+szerszy		ADJ;FEM;ACC;SG
+szerszy		ADJ;NEUT;DAT;SG
+szerszy		ADJ;FEM;DAT;SG
+szerszy		ADJ;MASC;HUM;NOM;PL
+szerszy		ADJ;MASC;NOM;SG
+szerszy		ADJ;MASC;DAT;SG
+szerszy		ADJ;MASC;INS;SG
+szerszy		ADJ;GEN;PL
+szerszy	szersze	ADJ;NEUT;ACC;SG
+szerszy		ADJ;MASC;HUM;ACC;SG
+szerszy		ADJ;MASC;HUM;ACC;PL
+szerszy	szersze	ADJ;NOM;PL
+szerszy		ADJ;NEUT;ESS;SG
+szerszy	szerszej	ADJ;FEM;ESS;SG
+szerszy		ADJ;ACC;PL
+szerszy		ADJ;FEM;GEN;SG
+szerszy		ADJ;NEUT;GEN;SG
+szerszy	szerszą	ADJ;FEM;INS;SG
+szerszy		ADJ;NEUT;INS;SG
+szerszy		ADJ;MASC;INAN;ACC;SG
+szerszy	szerszego	ADJ;MASC;ANIM;ACC;SG
+szerszy		ADJ;DAT;PL
+szerszy		ADJ;INS;PL
+szerszy		ADJ;FEM;NOM;SG
+szerszy		ADJ;NEUT;NOM;SG
+szerszy		ADJ;MASC;ESS;SG
+szerszy		ADJ;MASC;GEN;SG
+szerszy		ADJ;ESS;PL
+bułgarski		ADJ;FEM;ACC;SG
+bułgarski		ADJ;NEUT;DAT;SG
+bułgarski		ADJ;FEM;DAT;SG
+bułgarski		ADJ;MASC;HUM;NOM;PL
+bułgarski		ADJ;MASC;HUM;ACC;PL
+bułgarski		ADJ;MASC;DAT;SG
+bułgarski		ADJ;MASC;INS;SG
+bułgarski		ADJ;GEN;PL
+bułgarski	bułgarskie	ADJ;NEUT;ACC;SG
+bułgarski		ADJ;MASC;HUM;ACC;SG
+bułgarski		ADJ;MASC;NOM;SG
+bułgarski	bułgarskie	ADJ;NOM;PL
+bułgarski		ADJ;NEUT;ESS;SG
+bułgarski		ADJ;FEM;ESS;SG
+bułgarski	bułgarskie	ADJ;ACC;PL
+bułgarski		ADJ;FEM;GEN;SG
+bułgarski		ADJ;NEUT;GEN;SG
+bułgarski		ADJ;FEM;INS;SG
+bułgarski	bułgarskim	ADJ;NEUT;INS;SG
+bułgarski		ADJ;MASC;INAN;ACC;SG
+bułgarski		ADJ;MASC;ANIM;ACC;SG
+bułgarski		ADJ;DAT;PL
+bułgarski		ADJ;INS;PL
+bułgarski		ADJ;FEM;NOM;SG
+bułgarski		ADJ;NEUT;NOM;SG
+bułgarski		ADJ;MASC;ESS;SG
+bułgarski		ADJ;MASC;GEN;SG
+bułgarski	bułgarskich	ADJ;ESS;PL
+nowe		ADJ;FEM;ACC;SG
+nowe	nowemu	ADJ;NEUT;DAT;SG
+nowe		ADJ;FEM;DAT;SG
+nowe	nowi	ADJ;MASC;HUM;NOM;PL
+nowe		ADJ;MASC;NOM;SG
+nowe		ADJ;MASC;DAT;SG
+nowe		ADJ;MASC;INS;SG
+nowe		ADJ;GEN;PL
+nowe		ADJ;NEUT;ACC;SG
+nowe	nowego	ADJ;MASC;HUM;ACC;SG
+nowe		ADJ;MASC;HUM;ACC;PL
+nowe		ADJ;NOM;PL
+nowe		ADJ;NEUT;ESS;SG
+nowe	nowej	ADJ;FEM;ESS;SG
+nowe		ADJ;ACC;PL
+nowe		ADJ;FEM;GEN;SG
+nowe		ADJ;NEUT;GEN;SG
+nowe		ADJ;FEM;INS;SG
+nowe		ADJ;NEUT;INS;SG
+nowe		ADJ;MASC;INAN;ACC;SG
+nowe		ADJ;MASC;ANIM;ACC;SG
+nowe		ADJ;DAT;PL
+nowe		ADJ;INS;PL
+nowe	nowa	ADJ;FEM;NOM;SG
+nowe		ADJ;NEUT;NOM;SG
+nowe		ADJ;MASC;ESS;SG
+nowe		ADJ;MASC;GEN;SG
+nowe		ADJ;ESS;PL
+drogowy		ADJ;FEM;ACC;SG
+drogowy		ADJ;NEUT;DAT;SG
+drogowy		ADJ;FEM;DAT;SG
+drogowy		ADJ;MASC;HUM;NOM;PL
+drogowy		ADJ;MASC;NOM;SG
+drogowy		ADJ;MASC;DAT;SG
+drogowy		ADJ;MASC;INS;SG
+drogowy	drogowych	ADJ;GEN;PL
+drogowy	drogowe	ADJ;NEUT;ACC;SG
+drogowy		ADJ;MASC;HUM;ACC;SG
+drogowy		ADJ;MASC;HUM;ACC;PL
+drogowy		ADJ;NOM;PL
+drogowy	drogowym	ADJ;NEUT;ESS;SG
+drogowy	drogowej	ADJ;FEM;ESS;SG
+drogowy		ADJ;ACC;PL
+drogowy		ADJ;FEM;GEN;SG
+drogowy		ADJ;NEUT;GEN;SG
+drogowy		ADJ;FEM;INS;SG
+drogowy		ADJ;NEUT;INS;SG
+drogowy		ADJ;MASC;INAN;ACC;SG
+drogowy		ADJ;MASC;ANIM;ACC;SG
+drogowy		ADJ;DAT;PL
+drogowy	drogowymi	ADJ;INS;PL
+drogowy		ADJ;FEM;NOM;SG
+drogowy		ADJ;NEUT;NOM;SG
+drogowy		ADJ;MASC;ESS;SG
+drogowy		ADJ;MASC;GEN;SG
+drogowy		ADJ;ESS;PL
+marszałek		N;NOM;PL
+marszałek		N;GEN;PL
+marszałek	marszałka	N;GEN;SG
+marszałek		N;INS;PL
+marszałek		N;ESS;PL
+marszałek		N;ESS;SG
+marszałek		N;VOC;SG
+marszałek	marszałek	N;NOM;SG
+marszałek		N;INS;SG
+marszałek		N;DAT;SG
+marszałek		N;ACC;PL
+marszałek		N;ACC;SG
+marszałek		N;VOC;PL
+marszałek		N;DAT;PL
+jezioro		N;NOM;PL
+jezioro		N;GEN;PL
+jezioro		N;GEN;SG
+jezioro		N;INS;PL
+jezioro		N;ESS;PL
+jezioro	jeziorze	N;ESS;SG
+jezioro	jezioro	N;VOC;SG
+jezioro		N;NOM;SG
+jezioro		N;INS;SG
+jezioro		N;DAT;SG
+jezioro		N;ACC;PL
+jezioro		N;ACC;SG
+jezioro		N;VOC;PL
+jezioro		N;DAT;PL
+mechaniczny		ADJ;FEM;ACC;SG
+mechaniczny		ADJ;NEUT;DAT;SG
+mechaniczny		ADJ;FEM;DAT;SG
+mechaniczny		ADJ;MASC;HUM;NOM;PL
+mechaniczny		ADJ;MASC;NOM;SG
+mechaniczny		ADJ;MASC;DAT;SG
+mechaniczny	mechanicznym	ADJ;MASC;INS;SG
+mechaniczny		ADJ;GEN;PL
+mechaniczny		ADJ;NEUT;ACC;SG
+mechaniczny	mechanicznego	ADJ;MASC;HUM;ACC;SG
+mechaniczny		ADJ;MASC;HUM;ACC;PL
+mechaniczny	mechaniczne	ADJ;NOM;PL
+mechaniczny		ADJ;NEUT;ESS;SG
+mechaniczny		ADJ;FEM;ESS;SG
+mechaniczny	mechaniczne	ADJ;ACC;PL
+mechaniczny		ADJ;FEM;GEN;SG
+mechaniczny		ADJ;NEUT;GEN;SG
+mechaniczny		ADJ;FEM;INS;SG
+mechaniczny		ADJ;NEUT;INS;SG
+mechaniczny		ADJ;MASC;INAN;ACC;SG
+mechaniczny		ADJ;MASC;ANIM;ACC;SG
+mechaniczny	mechanicznym	ADJ;DAT;PL
+mechaniczny		ADJ;INS;PL
+mechaniczny		ADJ;FEM;NOM;SG
+mechaniczny		ADJ;NEUT;NOM;SG
+mechaniczny		ADJ;MASC;ESS;SG
+mechaniczny		ADJ;MASC;GEN;SG
+mechaniczny		ADJ;ESS;PL
+temat		N;VOC;SG
+temat		N;GEN;PL
+temat		N;NOM;SG
+temat		N;VOC;PL
+temat		N;INS;PL
+temat		N;ESS;PL
+temat	temacie	N;ESS;SG
+temat		N;GEN;SG
+temat	tematem	N;INS;SG
+temat		N;DAT;SG
+temat		N;ACC;PL
+temat		N;ACC;SG
+temat		N;NOM;PL
+temat		N;DAT;PL
+tancerka	tancerek	N;GEN;PL
+tancerka		N;NOM;PL
+tancerka		N;NOM;SG
+tancerka		N;INS;PL
+tancerka		N;ESS;PL
+tancerka		N;ESS;SG
+tancerka		N;VOC;SG
+tancerka		N;GEN;SG
+tancerka		N;INS;SG
+tancerka		N;DAT;SG
+tancerka		N;ACC;PL
+tancerka	tancerkę	N;ACC;SG
+tancerka		N;VOC;PL
+tancerka		N;DAT;PL
+używać	używanie	V.MSDR
+używać		V;FUT;2;PL
+używać		V;COND;1;PL
+używać	używałybyście	V;COND;2;PL
+używać		V.PTCP;PST;PASS;SG;FEM
+używać		V;FUT;1;SG;FEM
+używać	używacie	V;PRS;2;PL
+używać		V;COND;3;SG;MASC
+używać	używałeś	V;PST;2;SG;MASC
+używać	używam	V;PRS;1;SG
+używać		V;COND;3;PL
+używać	używał	V;PST;3;SG;MASC
+używać		V.PTCP;PST;ACT;SG;MASC
+używać		V;PST;1;SG;FEM
+używać		V;IMP;2;SG
+używać		V;PRS;1;PL
+używać		V;COND;2;SG;FEM
+używać		V;FUT;3;SG;FEM
+używać		V;COND;3;PL;MASC;HUM
+używać		V;PRS;3;SG
+używać		V;FUT;1;PL;MASC;HUM
+używać	używasz	V;PRS;2;SG
+używać		V;PST;2;PL
+używać		V.PTCP;PST;PASS;PL
+używać		V.PTCP;PST;PASS;SG;MASC
+używać		V;COND;2;SG;MASC
+używać		V;COND;3;SG;FEM
+używać		V;PST;1;SG;MASC
+używać		V;FUT;1;SG;MASC
+używać	używający	V.PTCP;PST;ACT;PL;MASC;HUM
+używać		V;IMP;3;PL
+używać	będzie używało	V;FUT;3;SG;NEUT
+używać		V.PTCP;PST;PASS;SG;NEUT
+używać	używałoby	V;COND;3;SG;NEUT
+używać		V;FUT;3;SG;MASC
+używać		V;PST;1;PL
+używać		V.PTCP;PST;PASS;PL;MASC;HUM
+używać		V;PST;2;SG;FEM
+używać		V;FUT;3;PL;MASC;HUM
+używać		V;FUT;2;PL;MASC;HUM
+używać		V;COND;1;SG;FEM
+używać		V.CVB
+używać		V.PTCP;PST;ACT;PL
+używać		V;FUT;3;PL
+używać		V;PST;1;PL;MASC;HUM
+używać		V;IMP;2;PL
+używać		V;IMP;3;SG
+używać		V;NFIN
+używać		V;COND;1;PL;MASC;HUM
+używać		V;PRS;3;PL
+używać	będziemy używały	V;FUT;1;PL
+używać		V;PST;3;PL
+używać		V.PTCP;PST;ACT;SG;NEUT
+używać		V;COND;2;PL;MASC;HUM
+używać		V;PST;3;SG;NEUT
+używać		V.PTCP;PST;PASS
+używać		V;PST;3;SG;FEM
+używać		V;PST;3;PL;MASC;HUM
+używać		V;IMP;1;PL
+używać	używałbym	V;COND;1;SG;MASC
+używać		V;FUT;2;SG;FEM
+używać		V;PST;2;PL;MASC;HUM
+używać		V.PTCP;PST;ACT;SG;FEM
+używać		V;FUT;2;SG;MASC
+dystans		N;NOM;PL
+dystans		N;VOC;SG
+dystans		N;NOM;SG
+dystans		N;GEN;PL
+dystans		N;INS;PL
+dystans		N;ESS;PL
+dystans	dystansie	N;ESS;SG
+dystans		N;GEN;SG
+dystans		N;INS;SG
+dystans		N;DAT;SG
+dystans	dystanse	N;ACC;PL
+dystans		N;ACC;SG
+dystans		N;VOC;PL
+dystans		N;DAT;PL
+zabrać		V.MSDR
+zabrać		V.PTCP;PST;PASS;SG;NEUT
+zabrać		V;FUT;2;PL
+zabrać		V;COND;1;PL
+zabrać	zabrawszy	V.CVB;PST
+zabrać		V.PTCP;PST;PASS;SG;FEM
+zabrać	zabrałby	V;COND;3;SG;MASC
+zabrać		V;PST;2;SG;MASC
+zabrać		V;FUT;3;SG
+zabrać	zabrałyby	V;COND;3;PL
+zabrać		V;PST;3;SG;MASC
+zabrać		V;FUT;1;SG
+zabrać		V;PST;1;SG;FEM
+zabrać		V;IMP;2;SG
+zabrać		V;COND;2;SG;FEM
+zabrać		V;COND;3;PL;MASC;HUM
+zabrać		V.PTCP;PST;PASS
+zabrać	zabrany	V.PTCP;PST;PASS;SG;MASC
+zabrać		V;PST;2;PL
+zabrać		V.PTCP;PST;PASS;PL
+zabrać		V;IMP;1;SG
+zabrać		V;NFIN
+zabrać		V;COND;3;SG;FEM
+zabrać	zabrałem	V;PST;1;SG;MASC
+zabrać		V;FUT;3;PL
+zabrać		V;IMP;3;PL
+zabrać		V;PST;2;PL;MASC;HUM
+zabrać		V;FUT;2;SG
+zabrać	zabrani	V.PTCP;PST;PASS;PL;MASC;HUM
+zabrać		V;PST;2;SG;FEM
+zabrać		V;COND;2;PL
+zabrać		V;COND;1;SG;FEM
+zabrać		V;PST;1;PL
+zabrać		V;PST;1;PL;MASC;HUM
+zabrać		V;IMP;2;PL
+zabrać		V;COND;2;SG;MASC
+zabrać		V;COND;1;PL;MASC;HUM
+zabrać		V;FUT;1;PL
+zabrać	zabrały	V;PST;3;PL
+zabrać	zabralibyście	V;COND;2;PL;MASC;HUM
+zabrać		V;PST;3;SG;NEUT
+zabrać		V;PST;3;SG;FEM
+zabrać		V;IMP;1;PL
+zabrać		V;COND;1;SG;MASC
+zabrać		V;IMP;3;SG
+zabrać		V;COND;3;SG;NEUT
+zabrać		V;PST;3;PL;MASC;HUM
+tron		N;VOC;SG
+tron		N;GEN;PL
+tron	tron	N;NOM;SG
+tron		N;VOC;PL
+tron		N;INS;PL
+tron		N;ESS;PL
+tron		N;ESS;SG
+tron		N;GEN;SG
+tron		N;INS;SG
+tron	tronowi	N;DAT;SG
+tron		N;ACC;PL
+tron		N;ACC;SG
+tron		N;NOM;PL
+tron		N;DAT;PL
+przyjęcie		N;NOM;PL
+przyjęcie		N;VOC;SG
+przyjęcie		N;GEN;SG
+przyjęcie	przyjęć	N;GEN;PL
+przyjęcie		N;INS;PL
+przyjęcie		N;ESS;PL
+przyjęcie	przyjęciu	N;ESS;SG
+przyjęcie		N;NOM;SG
+przyjęcie		N;INS;SG
+przyjęcie		N;DAT;SG
+przyjęcie		N;ACC;PL
+przyjęcie		N;ACC;SG
+przyjęcie		N;VOC;PL
+przyjęcie		N;DAT;PL
+rumuński		ADJ;FEM;ACC;SG
+rumuński		ADJ;NEUT;DAT;SG
+rumuński		ADJ;FEM;DAT;SG
+rumuński		ADJ;MASC;HUM;NOM;PL
+rumuński		ADJ;MASC;HUM;ACC;PL
+rumuński		ADJ;MASC;DAT;SG
+rumuński	rumuńskim	ADJ;MASC;INS;SG
+rumuński		ADJ;GEN;PL
+rumuński		ADJ;NEUT;ACC;SG
+rumuński		ADJ;MASC;HUM;ACC;SG
+rumuński		ADJ;MASC;NOM;SG
+rumuński		ADJ;NOM;PL
+rumuński	rumuńskim	ADJ;NEUT;ESS;SG
+rumuński		ADJ;FEM;ESS;SG
+rumuński		ADJ;ACC;PL
+rumuński		ADJ;FEM;GEN;SG
+rumuński		ADJ;NEUT;GEN;SG
+rumuński		ADJ;FEM;INS;SG
+rumuński		ADJ;NEUT;INS;SG
+rumuński		ADJ;MASC;INAN;ACC;SG
+rumuński		ADJ;MASC;ANIM;ACC;SG
+rumuński		ADJ;DAT;PL
+rumuński		ADJ;INS;PL
+rumuński		ADJ;FEM;NOM;SG
+rumuński	rumuńskie	ADJ;NEUT;NOM;SG
+rumuński		ADJ;MASC;ESS;SG
+rumuński	rumuńskiego	ADJ;MASC;GEN;SG
+rumuński	rumuńskich	ADJ;ESS;PL
+znany		ADJ;FEM;ACC;SG
+znany		ADJ;NEUT;DAT;SG
+znany		ADJ;FEM;DAT;SG
+znany		ADJ;MASC;HUM;NOM;PL
+znany		ADJ;MASC;NOM;SG
+znany		ADJ;MASC;DAT;SG
+znany		ADJ;MASC;INS;SG
+znany		ADJ;GEN;PL
+znany		ADJ;NEUT;ACC;SG
+znany		ADJ;MASC;HUM;ACC;SG
+znany	znanych	ADJ;MASC;HUM;ACC;PL
+znany	znane	ADJ;NOM;PL
+znany		ADJ;NEUT;ESS;SG
+znany	znanej	ADJ;FEM;ESS;SG
+znany		ADJ;ACC;PL
+znany		ADJ;FEM;GEN;SG
+znany	znanego	ADJ;NEUT;GEN;SG
+znany		ADJ;FEM;INS;SG
+znany		ADJ;NEUT;INS;SG
+znany		ADJ;MASC;INAN;ACC;SG
+znany		ADJ;MASC;ANIM;ACC;SG
+znany		ADJ;DAT;PL
+znany		ADJ;INS;PL
+znany		ADJ;FEM;NOM;SG
+znany		ADJ;NEUT;NOM;SG
+znany		ADJ;MASC;ESS;SG
+znany		ADJ;MASC;GEN;SG
+znany	znanych	ADJ;ESS;PL
+drewniany		ADJ;FEM;ACC;SG
+drewniany	drewnianemu	ADJ;NEUT;DAT;SG
+drewniany		ADJ;FEM;DAT;SG
+drewniany		ADJ;MASC;HUM;NOM;PL
+drewniany		ADJ;MASC;NOM;SG
+drewniany		ADJ;MASC;DAT;SG
+drewniany		ADJ;MASC;INS;SG
+drewniany		ADJ;GEN;PL
+drewniany	drewniane	ADJ;NEUT;ACC;SG
+drewniany		ADJ;MASC;HUM;ACC;SG
+drewniany		ADJ;MASC;HUM;ACC;PL
+drewniany		ADJ;NOM;PL
+drewniany		ADJ;NEUT;ESS;SG
+drewniany		ADJ;FEM;ESS;SG
+drewniany	drewniane	ADJ;ACC;PL
+drewniany		ADJ;FEM;GEN;SG
+drewniany		ADJ;NEUT;GEN;SG
+drewniany		ADJ;FEM;INS;SG
+drewniany		ADJ;NEUT;INS;SG
+drewniany	drewniany	ADJ;MASC;INAN;ACC;SG
+drewniany		ADJ;MASC;ANIM;ACC;SG
+drewniany		ADJ;DAT;PL
+drewniany		ADJ;INS;PL
+drewniany		ADJ;FEM;NOM;SG
+drewniany	drewniane	ADJ;NEUT;NOM;SG
+drewniany		ADJ;MASC;ESS;SG
+drewniany		ADJ;MASC;GEN;SG
+drewniany		ADJ;ESS;PL
+ziemia		N;NOM;PL
+ziemia		N;VOC;SG
+ziemia		N;NOM;SG
+ziemia		N;GEN;PL
+ziemia		N;INS;PL
+ziemia		N;ESS;PL
+ziemia		N;ESS;SG
+ziemia		N;GEN;SG
+ziemia	ziemią	N;INS;SG
+ziemia		N;DAT;SG
+ziemia		N;ACC;PL
+ziemia		N;ACC;SG
+ziemia		N;VOC;PL
+ziemia	ziemiom	N;DAT;PL
+myśl		N;GEN;PL
+myśl	myśli	N;NOM;PL
+myśl		N;GEN;SG
+myśl		N;INS;PL
+myśl		N;ESS;PL
+myśl		N;ESS;SG
+myśl	myśli	N;VOC;SG
+myśl		N;NOM;SG
+myśl		N;INS;SG
+myśl		N;DAT;SG
+myśl		N;ACC;PL
+myśl		N;ACC;SG
+myśl		N;VOC;PL
+myśl		N;DAT;PL
+główny		ADJ;FEM;ACC;SG
+główny	głównemu	ADJ;NEUT;DAT;SG
+główny		ADJ;FEM;DAT;SG
+główny	główni	ADJ;MASC;HUM;NOM;PL
+główny		ADJ;MASC;NOM;SG
+główny	głównemu	ADJ;MASC;DAT;SG
+główny		ADJ;MASC;INS;SG
+główny		ADJ;GEN;PL
+główny		ADJ;NEUT;ACC;SG
+główny		ADJ;MASC;HUM;ACC;SG
+główny		ADJ;MASC;HUM;ACC;PL
+główny		ADJ;NOM;PL
+główny		ADJ;NEUT;ESS;SG
+główny		ADJ;FEM;ESS;SG
+główny		ADJ;ACC;PL
+główny		ADJ;FEM;GEN;SG
+główny	głównego	ADJ;NEUT;GEN;SG
+główny		ADJ;FEM;INS;SG
+główny		ADJ;NEUT;INS;SG
+główny		ADJ;MASC;INAN;ACC;SG
+główny		ADJ;MASC;ANIM;ACC;SG
+główny	głównym	ADJ;DAT;PL
+główny		ADJ;INS;PL
+główny		ADJ;FEM;NOM;SG
+główny		ADJ;NEUT;NOM;SG
+główny		ADJ;MASC;ESS;SG
+główny		ADJ;MASC;GEN;SG
+główny		ADJ;ESS;PL
+ośli		ADJ;FEM;ACC;SG
+ośli		ADJ;NEUT;DAT;SG
+ośli		ADJ;FEM;DAT;SG
+ośli	ośli	ADJ;MASC;HUM;NOM;PL
+ośli		ADJ;MASC;NOM;SG
+ośli		ADJ;MASC;DAT;SG
+ośli		ADJ;MASC;INS;SG
+ośli		ADJ;GEN;PL
+ośli		ADJ;NEUT;ACC;SG
+ośli	oślego	ADJ;MASC;HUM;ACC;SG
+ośli		ADJ;MASC;HUM;ACC;PL
+ośli	ośle	ADJ;NOM;PL
+ośli		ADJ;NEUT;ESS;SG
+ośli	oślej	ADJ;FEM;ESS;SG
+ośli		ADJ;ACC;PL
+ośli		ADJ;FEM;GEN;SG
+ośli		ADJ;NEUT;GEN;SG
+ośli		ADJ;FEM;INS;SG
+ośli		ADJ;NEUT;INS;SG
+ośli		ADJ;MASC;INAN;ACC;SG
+ośli		ADJ;MASC;ANIM;ACC;SG
+ośli		ADJ;DAT;PL
+ośli		ADJ;INS;PL
+ośli		ADJ;FEM;NOM;SG
+ośli		ADJ;NEUT;NOM;SG
+ośli		ADJ;MASC;ESS;SG
+ośli		ADJ;MASC;GEN;SG
+ośli	oślich	ADJ;ESS;PL
+Francuz	Francuzie	N;VOC;SG
+Francuz		N;NOM;PL
+Francuz		N;GEN;SG
+Francuz		N;GEN;PL
+Francuz		N;INS;PL
+Francuz		N;ESS;PL
+Francuz		N;ESS;SG
+Francuz		N;NOM;SG
+Francuz		N;INS;SG
+Francuz		N;DAT;SG
+Francuz		N;ACC;PL
+Francuz	Francuza	N;ACC;SG
+Francuz		N;VOC;PL
+Francuz		N;DAT;PL
+teren		N;VOC;SG
+teren		N;GEN;PL
+teren	teren	N;NOM;SG
+teren		N;VOC;PL
+teren		N;INS;PL
+teren		N;ESS;PL
+teren		N;ESS;SG
+teren		N;GEN;SG
+teren		N;INS;SG
+teren		N;DAT;SG
+teren		N;ACC;PL
+teren		N;ACC;SG
+teren	tereny	N;NOM;PL
+teren		N;DAT;PL
+wąwóz		N;VOC;SG
+wąwóz		N;GEN;PL
+wąwóz	wąwóz	N;NOM;SG
+wąwóz		N;VOC;PL
+wąwóz		N;INS;PL
+wąwóz		N;ESS;PL
+wąwóz		N;ESS;SG
+wąwóz		N;GEN;SG
+wąwóz		N;INS;SG
+wąwóz		N;DAT;SG
+wąwóz		N;ACC;PL
+wąwóz	wąwóz	N;ACC;SG
+wąwóz		N;NOM;PL
+wąwóz		N;DAT;PL

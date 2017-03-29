@@ -1,0 +1,567 @@
+llwyddo	llwyddith o	V;COL;3;SG;IND;PRS
+llwyddo	llwyddai fo	V;COL;3;SG;IND;IPFV
+llwyddo	llwyddon nhw	V;COL;3;PL;IND;PST
+llwyddo	llwyddaist ti	V;COL;2;SG;IND;PST
+llwyddo	llwyddet ti	V;COL;2;SG;IND;IPFV
+llwyddo	llwyddan nhw	V;COL;3;PL;IND;PRS
+llwyddo	llwydda	V;COL;2;SG;IMP
+llwyddo	llwyddwch chi	V;COL;2;PL;IND;PRS
+llwyddo	llwyddwn i	V;COL;1;SG;IND;IPFV
+llwyddo	llwydden nhw	V;COL;3;PL;IND;IPFV
+llwyddo	llwyddon ni	V;COL;1;PL;IND;PST
+llwyddo	llwyddoch chi	V;COL;2;PL;IND;PST
+llwyddo	llwyddech chi	V;COL;2;PL;IND;IPFV
+llwyddo	llwyddi di	V;COL;2;SG;IND;PRS
+llwyddo	llwyddwn ni	V;COL;1;PL;IND;PRS
+llwyddo	llwyddodd o	V;COL;3;SG;IND;PST
+llwyddo	llwyddais i	V;COL;1;SG;IND;PST
+llwyddo	llwyddwch	V;COL;2;PL;IMP
+llwyddo	llwydda i	V;COL;1;SG;IND;PRS
+llwyddo	llwydden ni	V;COL;1;PL;IND;IPFV
+mynd	aeth o	V;COL;3;SG;IND;PRS
+mynd	est ti	V;COL;2;SG;IND;PRS
+mynd	aethwn	V;LIT;1;SG;IND;PST
+mynd	elai	V;LIT;3;SG;SBJV
+mynd	eith o	V;COL;3;SG;IND;IPFV
+mynd	aethit	V;LIT;2;SG;IND;PST
+mynd	aethoch chi	V;COL;2;PL;IND;PRS
+mynd	êl	V;LIT;3;SG;IND;PST;PFV
+mynd	aent	V;LIT;3;PL;IMP
+mynd	elech	V;LIT;2;PL;SBJV
+mynd	elent	V;LIT;3;PL;SBJV
+mynd	aethem	V;LIT;1;PL;IND;PST
+mynd	aethom	V;LIT;1;PL;IND;IPFV
+mynd	aethost	V;LIT;2;SG;IND;IPFV
+mynd	aethai	V;LIT;3;SG;IND;PST
+mynd	aeth	V;LIT;3;SG;IND;IPFV
+mynd	awn	V;LIT;1;PL;IMP
+mynd	aethent	V;LIT;3;PL;IND;PST
+mynd	aethont	V;LIT;3;PL;IND;IPFV
+mynd	awn ni	V;COL;1;PL;IND;IPFV
+mynd	elwn	V;LIT;1;SG;SBJV
+mynd	mynededig	V;V.PTCP
+mynd	aen nhw	V;COL;3;PL;IND;PST
+mynd	dos	V;COL;2;SG;IMP
+mynd	elwyf	V;LIT;1;SG;IND;PST;PFV
+mynd	eler	V;LIT;4;IND;PST;PFV
+mynd	ân nhw	V;COL;3;PL;IND;IPFV
+mynd	aethon ni	V;COL;1;PL;IND;PRS
+mynd	aethpwyd	V;LIT;4;IND;IPFV
+mynd	es i	V;COL;1;SG;IND;PRS
+mynd	aech	V;LIT;2;PL;IND;PRS
+mynd	âi fe	V;COL;3;SG;IND;PST
+mynd	aethoch	V;LIT;2;PL;IND;IPFV
+mynd	aethid	V;LIT;4;IND;PST
+mynd	awn	V;LIT;1;SG;IND;PRS
+mynd	aet ti	V;COL;2;SG;IND;PST
+mynd	ei di	V;COL;2;SG;IND;IPFV
+mynd	a i	V;COL;1;SG;IND;IPFV
+mynd	aem	V;LIT;1;PL;IND;PRS
+mynd	aech chi	V;COL;2;PL;IND;PST
+mynd	eloch	V;LIT;2;PL;IND;PST;PFV
+mynd	ait	V;LIT;2;SG;IND;PRS
+mynd	elem	V;LIT;1;PL;SBJV
+mynd	âi	V;LIT;3;SG;IND;PRS
+mynd	ewch chi	V;COL;2;PL;IND;IPFV
+mynd	aed	V;LIT;3;SG;IMP
+mynd	aent	V;LIT;3;PL;IND;PRS
+mynd	awn i	V;COL;1;SG;IND;PST
+mynd	mynd	V;V.MSDR
+mynd	elych	V;LIT;2;SG;IND;PST;PFV
+mynd	elont	V;LIT;3;PL;IND;PST;PFV
+mynd	euthum	V;LIT;1;SG;IND;IPFV
+mynd	aethon nhw	V;COL;3;PL;IND;PRS
+mynd	ewch	V;LIT;2;PL;IMP
+mynd	ewch	V;COL;2;PL;IMP
+mynd	aen ni	V;COL;1;PL;IND;PST
+mynd	aer	V;LIT;4;IMP
+mynd	elom	V;LIT;1;PL;IND;PST;PFV
+mynd	elid	V;LIT;4;SBJV
+mynd	aethech	V;LIT;2;PL;IND;PST
+mynd	elit	V;LIT;2;SG;SBJV
+mynd	eid	V;LIT;4;IND;PRS
+mynd	dos	V;LIT;2;SG;IMP
+dilyn	dilyned	V;LIT;3;SG;IMP
+dilyn	dilynith o	V;COL;3;SG;IND;PRS
+dilyn	dilyni di	V;COL;2;SG;IND;PRS
+dilyn	dilynais	V;LIT;1;SG;IND;PST
+dilyn	dilyno	V;LIT;3;SG;SBJV
+dilyn	dilynaf	V;LIT;1;SG;IND;PRS
+dilyn	dilynaist	V;LIT;2;SG;IND;PST
+dilyn	dilynwch chi	V;COL;2;PL;IND;PRS
+dilyn	dilynasai	V;LIT;3;SG;IND;PST;PFV
+dilyn	dilynent	V;LIT;3;PL;IMP
+dilyn	dilynoch	V;LIT;2;PL;SBJV
+dilyn	dilynech chi	V;COL;2;PL;IND;IPFV
+dilyn	dilynasom	V;LIT;1;PL;IND;PST
+dilyn	dilynem	V;LIT;1;PL;IND;IPFV
+dilyn	dilynit	V;LIT;2;SG;IND;IPFV
+dilyn	dilynodd	V;LIT;3;SG;IND;PST
+dilyn	dilynai	V;LIT;3;SG;IND;IPFV
+dilyn	dilynont	V;LIT;3;PL;SBJV
+dilyn	dilynasant	V;LIT;3;PL;IND;PST
+dilyn	dilyna i	V;COL;1;SG;IND;PRS
+dilyn	dilynen ni	V;COL;1;PL;IND;IPFV
+dilyn	dilynwyf	V;LIT;1;SG;SBJV
+dilyn	dilynwyd	V;LIT;4;IND;PST
+dilyn	dilynon nhw	V;COL;3;PL;IND;PST
+dilyn	dilynaswn	V;LIT;1;SG;IND;PST;PFV
+dilyn	dilynasid	V;LIT;4;IND;PST;PFV
+dilyn	dilynen nhw	V;COL;3;PL;IND;IPFV
+dilyn	dilynwn i	V;COL;1;SG;IND;IPFV
+dilyn	dilynid	V;LIT;4;IND;IPFV
+dilyn	dilynent	V;LIT;3;PL;IND;IPFV
+dilyn	dilynwch	V;LIT;2;PL;IND;PRS
+dilyn	dilynodd o	V;COL;3;SG;IND;PST
+dilyn	dilynwn	V;LIT;1;PL;IMP
+dilyn	dilynech	V;LIT;2;PL;IND;IPFV
+dilyn	dilynedig	V;V.PTCP
+dilyn	dilynasit	V;LIT;2;SG;IND;PST;PFV
+dilyn	dilynaist ti	V;COL;2;SG;IND;PST
+dilyn	dilynet ti	V;COL;2;SG;IND;IPFV
+dilyn	dilyna	V;COL;2;SG;IMP
+dilyn	dilynwn	V;LIT;1;PL;IND;PRS
+dilyn	dilynoch chi	V;COL;2;PL;IND;PST
+dilyn	dilynasech	V;LIT;2;PL;IND;PST;PFV
+dilyn	dilynasent	V;LIT;3;PL;IND;PST;PFV
+dilyn	dilynom	V;LIT;1;PL;SBJV
+dilyn	dilyn	V;LIT;3;SG;IND;PRS
+dilyn	dilynai fo	V;COL;3;SG;IND;IPFV
+dilyn	dilynwn ni	V;COL;1;PL;IND;PRS
+dilyn	dilynant	V;LIT;3;PL;IND;PRS
+dilyn	dilynais i	V;COL;1;SG;IND;PST
+dilyn	dilyn	V;V.MSDR
+dilyn	dilyni	V;LIT;2;SG;IND;PRS
+dilyn	dilynwn	V;LIT;1;SG;IND;IPFV
+dilyn	dilynan nhw	V;COL;3;PL;IND;PRS
+dilyn	dilynwch	V;LIT;2;PL;IMP
+dilyn	dilynwch	V;COL;2;PL;IMP
+dilyn	dilynon ni	V;COL;1;PL;IND;PST
+dilyn	dilyner	V;LIT;4;IMP
+dilyn	dilynasem	V;LIT;1;PL;IND;PST;PFV
+dilyn	dilyner	V;LIT;4;SBJV
+dilyn	dilynasoch	V;LIT;2;PL;IND;PST
+dilyn	dilynych	V;LIT;2;SG;SBJV
+dilyn	dilynir	V;LIT;4;IND;PRS
+dilyn	dilyn	V;LIT;2;SG;IMP
+gofyn	gofynnais	V;LIT;1;SG;IND;PST
+gofyn	gofynno	V;LIT;3;SG;SBJV
+gofyn	gofynnaf	V;LIT;1;SG;IND;PRS
+gofyn	gofynnaist	V;LIT;2;SG;IND;PST
+gofyn	gofynasai	V;LIT;3;SG;IND;PST;PFV
+gofyn	gofynnent	V;LIT;3;PL;IMP
+gofyn	gofynnoch	V;LIT;2;PL;SBJV
+gofyn	gofynasom	V;LIT;1;PL;IND;PST
+gofyn	gofynnem	V;LIT;1;PL;IND;IPFV
+gofyn	gofynnit	V;LIT;2;SG;IND;IPFV
+gofyn	gofynnodd	V;LIT;3;SG;IND;PST
+gofyn	gofynnai	V;LIT;3;SG;IND;IPFV
+gofyn	gofynnont	V;LIT;3;PL;SBJV
+gofyn	gofynasant	V;LIT;3;PL;IND;PST
+gofyn	gofynnent	V;LIT;3;PL;IND;IPFV
+gofyn	gofynnwyf	V;LIT;1;SG;SBJV
+gofyn	gofynaswn	V;LIT;1;SG;IND;PST;PFV
+gofyn	gofynasid	V;LIT;4;IND;PST;PFV
+gofyn	gofynnid	V;LIT;4;IND;IPFV
+gofyn	gofynnwch	V;LIT;2;PL;IND;PRS
+gofyn	gofynnech	V;LIT;2;PL;IND;IPFV
+gofyn	gofynedig	V;V.PTCP
+gofyn	gofynasit	V;LIT;2;SG;IND;PST;PFV
+gofyn	gofynnwn	V;LIT;1;PL;IND;PRS
+gofyn	gofynasech	V;LIT;2;PL;IND;PST;PFV
+gofyn	gofynasent	V;LIT;3;PL;IND;PST;PFV
+gofyn	gofynnom	V;LIT;1;PL;SBJV
+gofyn	gofyn	V;LIT;3;SG;IND;PRS
+gofyn	gofynned	V;LIT;3;SG;IMP
+gofyn	gofynnant	V;LIT;3;PL;IND;PRS
+gofyn	gofynnwn	V;LIT;1;PL;IMP
+gofyn	gofyn	V;V.MSDR
+gofyn	gofynni	V;LIT;2;SG;IND;PRS
+gofyn	gofynnwn	V;LIT;1;SG;IND;IPFV
+gofyn	gofynnwch	V;LIT;2;PL;IMP
+gofyn	gofynnwyd	V;LIT;4;IND;PST
+gofyn	gofynner	V;LIT;4;IMP
+gofyn	gofynasem	V;LIT;1;PL;IND;PST;PFV
+gofyn	gofynner	V;LIT;4;SBJV
+gofyn	gofynasoch	V;LIT;2;PL;IND;PST
+gofyn	gofynnych	V;LIT;2;SG;SBJV
+gofyn	gofynnir	V;LIT;4;IND;PRS
+gofyn	gofyn	V;LIT;2;SG;IMP
+dangos	dangosed	V;LIT;3;SG;IMP
+dangos	dangosith o	V;COL;3;SG;IND;PRS
+dangos	dangosi di	V;COL;2;SG;IND;PRS
+dangos	dangosais	V;LIT;1;SG;IND;PST
+dangos	dangoso	V;LIT;3;SG;SBJV
+dangos	dangosaf	V;LIT;1;SG;IND;PRS
+dangos	dangosaist	V;LIT;2;SG;IND;PST
+dangos	dangoswch chi	V;COL;2;PL;IND;PRS
+dangos	dangosasai	V;LIT;3;SG;IND;PST;PFV
+dangos	dangosent	V;LIT;3;PL;IMP
+dangos	dangosoch	V;LIT;2;PL;SBJV
+dangos	dangosech chi	V;COL;2;PL;IND;IPFV
+dangos	dangosasom	V;LIT;1;PL;IND;PST
+dangos	dangosem	V;LIT;1;PL;IND;IPFV
+dangos	dangosit	V;LIT;2;SG;IND;IPFV
+dangos	dangosodd	V;LIT;3;SG;IND;PST
+dangos	dangosai	V;LIT;3;SG;IND;IPFV
+dangos	dangosont	V;LIT;3;PL;SBJV
+dangos	dangosasant	V;LIT;3;PL;IND;PST
+dangos	dangosa i	V;COL;1;SG;IND;PRS
+dangos	dangosen ni	V;COL;1;PL;IND;IPFV
+dangos	dangoswyf	V;LIT;1;SG;SBJV
+dangos	dangoswyd	V;LIT;4;IND;PST
+dangos	dangoson nhw	V;COL;3;PL;IND;PST
+dangos	dangosaswn	V;LIT;1;SG;IND;PST;PFV
+dangos	dangosasid	V;LIT;4;IND;PST;PFV
+dangos	dangosen nhw	V;COL;3;PL;IND;IPFV
+dangos	dangoswn i	V;COL;1;SG;IND;IPFV
+dangos	dangosid	V;LIT;4;IND;IPFV
+dangos	dangosent	V;LIT;3;PL;IND;IPFV
+dangos	dangoswch	V;LIT;2;PL;IND;PRS
+dangos	dangosodd o	V;COL;3;SG;IND;PST
+dangos	dangoswn	V;LIT;1;PL;IMP
+dangos	dangosech	V;LIT;2;PL;IND;IPFV
+dangos	dangosedig	V;V.PTCP
+dangos	dangosasit	V;LIT;2;SG;IND;PST;PFV
+dangos	dangosaist ti	V;COL;2;SG;IND;PST
+dangos	dangoset ti	V;COL;2;SG;IND;IPFV
+dangos	dangosa	V;COL;2;SG;IMP
+dangos	dangoswn	V;LIT;1;PL;IND;PRS
+dangos	dangosoch chi	V;COL;2;PL;IND;PST
+dangos	dangosasech	V;LIT;2;PL;IND;PST;PFV
+dangos	dangosasent	V;LIT;3;PL;IND;PST;PFV
+dangos	dangosom	V;LIT;1;PL;SBJV
+dangos	dengys	V;LIT;3;SG;IND;PRS
+dangos	dangosai fo	V;COL;3;SG;IND;IPFV
+dangos	dangoswn ni	V;COL;1;PL;IND;PRS
+dangos	dangosant	V;LIT;3;PL;IND;PRS
+dangos	dangosais i	V;COL;1;SG;IND;PST
+dangos	dangos	V;V.MSDR
+dangos	dangosi	V;LIT;2;SG;IND;PRS
+dangos	dangoswn	V;LIT;1;SG;IND;IPFV
+dangos	dangosan nhw	V;COL;3;PL;IND;PRS
+dangos	dangoswch	V;LIT;2;PL;IMP
+dangos	dangoswch	V;COL;2;PL;IMP
+dangos	dangoson ni	V;COL;1;PL;IND;PST
+dangos	dangoser	V;LIT;4;IMP
+dangos	dangosasem	V;LIT;1;PL;IND;PST;PFV
+dangos	dangoser	V;LIT;4;SBJV
+dangos	dangosasoch	V;LIT;2;PL;IND;PST
+dangos	dangosych	V;LIT;2;SG;SBJV
+dangos	dangosir	V;LIT;4;IND;PRS
+dangos	dangos	V;LIT;2;SG;IMP
+sefyll	safed	V;LIT;3;SG;IMP
+sefyll	safith o	V;COL;3;SG;IND;PRS
+sefyll	safi di	V;COL;2;SG;IND;PRS
+sefyll	safais	V;LIT;1;SG;IND;PST
+sefyll	safo	V;LIT;3;SG;SBJV
+sefyll	safaf	V;LIT;1;SG;IND;PRS
+sefyll	safaist	V;LIT;2;SG;IND;PST
+sefyll	safwch chi	V;COL;2;PL;IND;PRS
+sefyll	safasai	V;LIT;3;SG;IND;PST;PFV
+sefyll	safent	V;LIT;3;PL;IMP
+sefyll	safoch	V;LIT;2;PL;SBJV
+sefyll	safech chi	V;COL;2;PL;IND;IPFV
+sefyll	safasom	V;LIT;1;PL;IND;PST
+sefyll	safem	V;LIT;1;PL;IND;IPFV
+sefyll	safit	V;LIT;2;SG;IND;IPFV
+sefyll	safodd	V;LIT;3;SG;IND;PST
+sefyll	safai	V;LIT;3;SG;IND;IPFV
+sefyll	safont	V;LIT;3;PL;SBJV
+sefyll	safasant	V;LIT;3;PL;IND;PST
+sefyll	safa i	V;COL;1;SG;IND;PRS
+sefyll	safen ni	V;COL;1;PL;IND;IPFV
+sefyll	safwyf	V;LIT;1;SG;SBJV
+sefyll	safwyd	V;LIT;4;IND;PST
+sefyll	safon nhw	V;COL;3;PL;IND;PST
+sefyll	safaswn	V;LIT;1;SG;IND;PST;PFV
+sefyll	safasid	V;LIT;4;IND;PST;PFV
+sefyll	safen nhw	V;COL;3;PL;IND;IPFV
+sefyll	safwn i	V;COL;1;SG;IND;IPFV
+sefyll	safid	V;LIT;4;IND;IPFV
+sefyll	safent	V;LIT;3;PL;IND;IPFV
+sefyll	safwch	V;LIT;2;PL;IND;PRS
+sefyll	safodd o	V;COL;3;SG;IND;PST
+sefyll	safwn	V;LIT;1;PL;IMP
+sefyll	safech	V;LIT;2;PL;IND;IPFV
+sefyll	safedigsafadwy	V;V.PTCP
+sefyll	safasit	V;LIT;2;SG;IND;PST;PFV
+sefyll	safaist ti	V;COL;2;SG;IND;PST
+sefyll	safet ti	V;COL;2;SG;IND;IPFV
+sefyll	safa	V;COL;2;SG;IMP
+sefyll	safwn	V;LIT;1;PL;IND;PRS
+sefyll	safoch chi	V;COL;2;PL;IND;PST
+sefyll	safasech	V;LIT;2;PL;IND;PST;PFV
+sefyll	safasent	V;LIT;3;PL;IND;PST;PFV
+sefyll	safom	V;LIT;1;PL;SBJV
+sefyll	saif	V;LIT;3;SG;IND;PRS
+sefyll	safai fo	V;COL;3;SG;IND;IPFV
+sefyll	safwn ni	V;COL;1;PL;IND;PRS
+sefyll	safant	V;LIT;3;PL;IND;PRS
+sefyll	safais i	V;COL;1;SG;IND;PST
+sefyll	sefyll	V;V.MSDR
+sefyll	safi	V;LIT;2;SG;IND;PRS
+sefyll	safwn	V;LIT;1;SG;IND;IPFV
+sefyll	safan nhw	V;COL;3;PL;IND;PRS
+sefyll	safwch	V;LIT;2;PL;IMP
+sefyll	safwch	V;COL;2;PL;IMP
+sefyll	safon ni	V;COL;1;PL;IND;PST
+sefyll	safer	V;LIT;4;IMP
+sefyll	safasem	V;LIT;1;PL;IND;PST;PFV
+sefyll	safer	V;LIT;4;SBJV
+sefyll	safasoch	V;LIT;2;PL;IND;PST
+sefyll	safych	V;LIT;2;SG;SBJV
+sefyll	safir	V;LIT;4;IND;PRS
+sefyll	saf	V;LIT;2;SG;IMP
+awgrymu	awgrymed	V;LIT;3;SG;IMP
+awgrymu	awgrymith o	V;COL;3;SG;IND;PRS
+awgrymu	awgrymi di	V;COL;2;SG;IND;PRS
+awgrymu	awgrymais	V;LIT;1;SG;IND;PST
+awgrymu	awgrymo	V;LIT;3;SG;SBJV
+awgrymu	awgrymaf	V;LIT;1;SG;IND;PRS
+awgrymu	awgrymaist	V;LIT;2;SG;IND;PST
+awgrymu	awgrymwch chi	V;COL;2;PL;IND;PRS
+awgrymu	awgrymasai	V;LIT;3;SG;IND;PST;PFV
+awgrymu	awgryment	V;LIT;3;PL;IMP
+awgrymu	awgrymoch	V;LIT;2;PL;SBJV
+awgrymu	awgrymech chi	V;COL;2;PL;IND;IPFV
+awgrymu	awgrymasom	V;LIT;1;PL;IND;PST
+awgrymu	awgrymem	V;LIT;1;PL;IND;IPFV
+awgrymu	awgrymit	V;LIT;2;SG;IND;IPFV
+awgrymu	awgrymodd	V;LIT;3;SG;IND;PST
+awgrymu	awgrymai	V;LIT;3;SG;IND;IPFV
+awgrymu	awgrymont	V;LIT;3;PL;SBJV
+awgrymu	awgrymasant	V;LIT;3;PL;IND;PST
+awgrymu	awgryma i	V;COL;1;SG;IND;PRS
+awgrymu	awgrymen ni	V;COL;1;PL;IND;IPFV
+awgrymu	awgrymwyf	V;LIT;1;SG;SBJV
+awgrymu	awgrymwyd	V;LIT;4;IND;PST
+awgrymu	awgrymon nhw	V;COL;3;PL;IND;PST
+awgrymu	awgrymaswn	V;LIT;1;SG;IND;PST;PFV
+awgrymu	awgrymasid	V;LIT;4;IND;PST;PFV
+awgrymu	awgrymen nhw	V;COL;3;PL;IND;IPFV
+awgrymu	awgrymwn i	V;COL;1;SG;IND;IPFV
+awgrymu	awgrymid	V;LIT;4;IND;IPFV
+awgrymu	awgryment	V;LIT;3;PL;IND;IPFV
+awgrymu	awgrymwch	V;LIT;2;PL;IND;PRS
+awgrymu	awgrymodd o	V;COL;3;SG;IND;PST
+awgrymu	awgrymwn	V;LIT;1;PL;IMP
+awgrymu	awgrymech	V;LIT;2;PL;IND;IPFV
+awgrymu	awgrymedig	V;V.PTCP
+awgrymu	awgrymasit	V;LIT;2;SG;IND;PST;PFV
+awgrymu	awgrymaist ti	V;COL;2;SG;IND;PST
+awgrymu	awgrymet ti	V;COL;2;SG;IND;IPFV
+awgrymu	awgryma	V;COL;2;SG;IMP
+awgrymu	awgrymwn	V;LIT;1;PL;IND;PRS
+awgrymu	awgrymoch chi	V;COL;2;PL;IND;PST
+awgrymu	awgrymasech	V;LIT;2;PL;IND;PST;PFV
+awgrymu	awgrymasent	V;LIT;3;PL;IND;PST;PFV
+awgrymu	awgrymom	V;LIT;1;PL;SBJV
+awgrymu	awgryma	V;LIT;3;SG;IND;PRS
+awgrymu	awgrymai fo	V;COL;3;SG;IND;IPFV
+awgrymu	awgrymwn ni	V;COL;1;PL;IND;PRS
+awgrymu	awgrymant	V;LIT;3;PL;IND;PRS
+awgrymu	awgrymais i	V;COL;1;SG;IND;PST
+awgrymu	awgrymu	V;V.MSDR
+awgrymu	awgrymi	V;LIT;2;SG;IND;PRS
+awgrymu	awgrymwn	V;LIT;1;SG;IND;IPFV
+awgrymu	awgryman nhw	V;COL;3;PL;IND;PRS
+awgrymu	awgrymwch	V;LIT;2;PL;IMP
+awgrymu	awgrymwch	V;COL;2;PL;IMP
+awgrymu	awgrymon ni	V;COL;1;PL;IND;PST
+awgrymu	awgrymer	V;LIT;4;IMP
+awgrymu	awgrymasem	V;LIT;1;PL;IND;PST;PFV
+awgrymu	awgrymer	V;LIT;4;SBJV
+awgrymu	awgrymasoch	V;LIT;2;PL;IND;PST
+awgrymu	awgrymych	V;LIT;2;SG;SBJV
+awgrymu	awgrymir	V;LIT;4;IND;PRS
+awgrymu	awgryma	V;LIT;2;SG;IMP
+colli	colled	V;LIT;3;SG;IMP
+colli	collith o	V;COL;3;SG;IND;PRS
+colli	colli di	V;COL;2;SG;IND;PRS
+colli	collais	V;LIT;1;SG;IND;PST
+colli	collo	V;LIT;3;SG;SBJV
+colli	collaf	V;LIT;1;SG;IND;PRS
+colli	collaist	V;LIT;2;SG;IND;PST
+colli	collwch chi	V;COL;2;PL;IND;PRS
+colli	collasai	V;LIT;3;SG;IND;PST;PFV
+colli	collent	V;LIT;3;PL;IMP
+colli	colloch	V;LIT;2;PL;SBJV
+colli	collech chi	V;COL;2;PL;IND;IPFV
+colli	collasom	V;LIT;1;PL;IND;PST
+colli	collem	V;LIT;1;PL;IND;IPFV
+colli	collit	V;LIT;2;SG;IND;IPFV
+colli	collodd	V;LIT;3;SG;IND;PST
+colli	collai	V;LIT;3;SG;IND;IPFV
+colli	collont	V;LIT;3;PL;SBJV
+colli	collasant	V;LIT;3;PL;IND;PST
+colli	colla i	V;COL;1;SG;IND;PRS
+colli	collen ni	V;COL;1;PL;IND;IPFV
+colli	collwyf	V;LIT;1;SG;SBJV
+colli	collwyd	V;LIT;4;IND;PST
+colli	collon nhw	V;COL;3;PL;IND;PST
+colli	collaswn	V;LIT;1;SG;IND;PST;PFV
+colli	collasid	V;LIT;4;IND;PST;PFV
+colli	collen nhw	V;COL;3;PL;IND;IPFV
+colli	collwn i	V;COL;1;SG;IND;IPFV
+colli	collid	V;LIT;4;IND;IPFV
+colli	collent	V;LIT;3;PL;IND;IPFV
+colli	collwch	V;LIT;2;PL;IND;PRS
+colli	collodd o	V;COL;3;SG;IND;PST
+colli	collwn	V;LIT;1;PL;IMP
+colli	collech	V;LIT;2;PL;IND;IPFV
+colli	colledig	V;V.PTCP
+colli	collasit	V;LIT;2;SG;IND;PST;PFV
+colli	collaist ti	V;COL;2;SG;IND;PST
+colli	collet ti	V;COL;2;SG;IND;IPFV
+colli	colla	V;COL;2;SG;IMP
+colli	collwn	V;LIT;1;PL;IND;PRS
+colli	colloch chi	V;COL;2;PL;IND;PST
+colli	collasech	V;LIT;2;PL;IND;PST;PFV
+colli	collasent	V;LIT;3;PL;IND;PST;PFV
+colli	collom	V;LIT;1;PL;SBJV
+colli	cyll	V;LIT;3;SG;IND;PRS
+colli	collai fo	V;COL;3;SG;IND;IPFV
+colli	collwn ni	V;COL;1;PL;IND;PRS
+colli	collant	V;LIT;3;PL;IND;PRS
+colli	collais i	V;COL;1;SG;IND;PST
+colli	colli	V;V.MSDR
+colli	colli	V;LIT;2;SG;IND;PRS
+colli	collwn	V;LIT;1;SG;IND;IPFV
+colli	collan nhw	V;COL;3;PL;IND;PRS
+colli	collwch	V;LIT;2;PL;IMP
+colli	collwch	V;COL;2;PL;IMP
+colli	collon ni	V;COL;1;PL;IND;PST
+colli	coller	V;LIT;4;IMP
+colli	collasem	V;LIT;1;PL;IND;PST;PFV
+colli	coller	V;LIT;4;SBJV
+colli	collasoch	V;LIT;2;PL;IND;PST
+colli	collych	V;LIT;2;SG;SBJV
+colli	collir	V;LIT;4;IND;PRS
+colli	coll	V;LIT;2;SG;IMP
+lleoli	lleoled	V;LIT;3;SG;IMP
+lleoli	lleolith o	V;COL;3;SG;IND;PRS
+lleoli	lleoli di	V;COL;2;SG;IND;PRS
+lleoli	lleolais	V;LIT;1;SG;IND;PST
+lleoli	lleolo	V;LIT;3;SG;SBJV
+lleoli	lleolaf	V;LIT;1;SG;IND;PRS
+lleoli	lleolaist	V;LIT;2;SG;IND;PST
+lleoli	lleolwch chi	V;COL;2;PL;IND;PRS
+lleoli	lleolasai	V;LIT;3;SG;IND;PST;PFV
+lleoli	lleolent	V;LIT;3;PL;IMP
+lleoli	lleoloch	V;LIT;2;PL;SBJV
+lleoli	lleolech chi	V;COL;2;PL;IND;IPFV
+lleoli	lleolasom	V;LIT;1;PL;IND;PST
+lleoli	lleolem	V;LIT;1;PL;IND;IPFV
+lleoli	lleolit	V;LIT;2;SG;IND;IPFV
+lleoli	lleolodd	V;LIT;3;SG;IND;PST
+lleoli	lleolai	V;LIT;3;SG;IND;IPFV
+lleoli	lleolont	V;LIT;3;PL;SBJV
+lleoli	lleolasant	V;LIT;3;PL;IND;PST
+lleoli	lleola i	V;COL;1;SG;IND;PRS
+lleoli	lleolen ni	V;COL;1;PL;IND;IPFV
+lleoli	lleolwyf	V;LIT;1;SG;SBJV
+lleoli	lleolwyd	V;LIT;4;IND;PST
+lleoli	lleolon nhw	V;COL;3;PL;IND;PST
+lleoli	lleolaswn	V;LIT;1;SG;IND;PST;PFV
+lleoli	lleolasid	V;LIT;4;IND;PST;PFV
+lleoli	lleolen nhw	V;COL;3;PL;IND;IPFV
+lleoli	lleolwn i	V;COL;1;SG;IND;IPFV
+lleoli	lleolid	V;LIT;4;IND;IPFV
+lleoli	lleolent	V;LIT;3;PL;IND;IPFV
+lleoli	lleolwch	V;LIT;2;PL;IND;PRS
+lleoli	lleolodd o	V;COL;3;SG;IND;PST
+lleoli	lleolwn	V;LIT;1;PL;IMP
+lleoli	lleolech	V;LIT;2;PL;IND;IPFV
+lleoli	lleoledig	V;V.PTCP
+lleoli	lleolasit	V;LIT;2;SG;IND;PST;PFV
+lleoli	lleolaist ti	V;COL;2;SG;IND;PST
+lleoli	lleolet ti	V;COL;2;SG;IND;IPFV
+lleoli	lleola	V;COL;2;SG;IMP
+lleoli	lleolwn	V;LIT;1;PL;IND;PRS
+lleoli	lleoloch chi	V;COL;2;PL;IND;PST
+lleoli	lleolasech	V;LIT;2;PL;IND;PST;PFV
+lleoli	lleolasent	V;LIT;3;PL;IND;PST;PFV
+lleoli	lleolom	V;LIT;1;PL;SBJV
+lleoli	lleola	V;LIT;3;SG;IND;PRS
+lleoli	lleolai fo	V;COL;3;SG;IND;IPFV
+lleoli	lleolwn ni	V;COL;1;PL;IND;PRS
+lleoli	lleolant	V;LIT;3;PL;IND;PRS
+lleoli	lleolais i	V;COL;1;SG;IND;PST
+lleoli	lleoli	V;V.MSDR
+lleoli	lleoli	V;LIT;2;SG;IND;PRS
+lleoli	lleolwn	V;LIT;1;SG;IND;IPFV
+lleoli	lleolan nhw	V;COL;3;PL;IND;PRS
+lleoli	lleolwch	V;LIT;2;PL;IMP
+lleoli	lleolwch	V;COL;2;PL;IMP
+lleoli	lleolon ni	V;COL;1;PL;IND;PST
+lleoli	lleoler	V;LIT;4;IMP
+lleoli	lleolasem	V;LIT;1;PL;IND;PST;PFV
+lleoli	lleoler	V;LIT;4;SBJV
+lleoli	lleolasoch	V;LIT;2;PL;IND;PST
+lleoli	lleolych	V;LIT;2;SG;SBJV
+lleoli	lleolir	V;LIT;4;IND;PRS
+lleoli	lleola	V;LIT;2;SG;IMP
+cynnwys	cynhwysith o	V;COL;3;SG;IND;PRS
+cynnwys	cynhwysi di	V;COL;2;SG;IND;PRS
+cynnwys	cynhwysais	V;LIT;1;SG;IND;PST
+cynnwys	cynhwyso	V;LIT;3;SG;SBJV
+cynnwys	cynhwysai fo	V;COL;3;SG;IND;IPFV
+cynnwys	cynhwysaist	V;LIT;2;SG;IND;PST
+cynnwys	cynhwyswch chi	V;COL;2;PL;IND;PRS
+cynnwys	cynhwyswn i	V;COL;1;SG;IND;IPFV
+cynnwys	cynhwysent	V;LIT;3;PL;IMP
+cynnwys	cynhwysoch	V;LIT;2;PL;SBJV
+cynnwys	cynhwysech chi	V;COL;2;PL;IND;IPFV
+cynnwys	cynwysasom	V;LIT;1;PL;IND;PST
+cynnwys	cynhwysem	V;LIT;1;PL;IND;IPFV
+cynnwys	cynhwysit	V;LIT;2;SG;IND;IPFV
+cynnwys	cynhwysodd	V;LIT;3;SG;IND;PST
+cynnwys	cynhwysai	V;LIT;3;SG;IND;IPFV
+cynnwys	cynhwysont	V;LIT;3;PL;SBJV
+cynnwys	cynhwyswn	V;LIT;1;PL;IMP
+cynnwys	cynhwysent	V;LIT;3;PL;IND;IPFV
+cynnwys	cynhwysen ni	V;COL;1;PL;IND;IPFV
+cynnwys	cynhwyswyf	V;LIT;1;SG;SBJV
+cynnwys	cynwysedig	V;V.PTCP
+cynnwys	cynhwyson nhw	V;COL;3;PL;IND;PST
+cynnwys	cynwysaswn	V;LIT;1;SG;IND;PST;PFV
+cynnwys	cynwysasid	V;LIT;4;IND;PST;PFV
+cynnwys	cynhwysen nhw	V;COL;3;PL;IND;IPFV
+cynnwys	cynhwyswn ni	V;COL;1;PL;IND;PRS
+cynnwys	cynwysasant	V;LIT;3;PL;IND;PST
+cynnwys	cynhwysid	V;LIT;4;IND;IPFV
+cynnwys	cynhwysa i	V;COL;1;SG;IND;PRS
+cynnwys	cynhwyswch	V;LIT;2;PL;IND;PRS
+cynnwys	cynhwysodd o	V;COL;3;SG;IND;PST
+cynnwys	cynhwysech	V;LIT;2;PL;IND;IPFV
+cynnwys	cynhwyswch	V;COL;2;PL;IMP
+cynnwys	cynwysasai	V;LIT;3;SG;IND;PST;PFV
+cynnwys	cynhwysaf	V;LIT;1;SG;IND;PRS
+cynnwys	cynhwysaist ti	V;COL;2;SG;IND;PST
+cynnwys	cynhwyset ti	V;COL;2;SG;IND;IPFV
+cynnwys	cynhwysa	V;COL;2;SG;IMP
+cynnwys	cynhwyswn	V;LIT;1;PL;IND;PRS
+cynnwys	cynhwysoch chi	V;COL;2;PL;IND;PST
+cynnwys	cynnwys	V;V.MSDR
+cynnwys	cynhwysi	V;LIT;2;SG;IND;PRS
+cynnwys	cynhwysom	V;LIT;1;PL;SBJV
+cynnwys	cynhwysa	V;LIT;3;SG;IND;PRS
+cynnwys	cynhwysed	V;LIT;3;SG;IMP
+cynnwys	cynhwysant	V;LIT;3;PL;IND;PRS
+cynnwys	cynhwysais i	V;COL;1;SG;IND;PST
+cynnwys	cynwysasech	V;LIT;2;PL;IND;PST;PFV
+cynnwys	cynwysasit	V;LIT;2;SG;IND;PST;PFV
+cynnwys	cynwysasent	V;LIT;3;PL;IND;PST;PFV
+cynnwys	cynhwyswn	V;LIT;1;SG;IND;IPFV
+cynnwys	cynhwysan nhw	V;COL;3;PL;IND;PRS
+cynnwys	cynhwyswch	V;LIT;2;PL;IMP
+cynnwys	cynhwyswyd	V;LIT;4;IND;PST
+cynnwys	cynhwyson ni	V;COL;1;PL;IND;PST
+cynnwys	cynhwyser	V;LIT;4;IMP
+cynnwys	cynwysasem	V;LIT;1;PL;IND;PST;PFV
+cynnwys	cynhwyser	V;LIT;4;SBJV
+cynnwys	cynwysasoch	V;LIT;2;PL;IND;PST
+cynnwys	cynhwysych	V;LIT;2;SG;SBJV
+cynnwys	cynhwysir	V;LIT;4;IND;PRS
+cynnwys	cynhwysa	V;LIT;2;SG;IMP

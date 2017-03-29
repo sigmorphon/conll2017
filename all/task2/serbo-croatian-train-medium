@@ -1,0 +1,481 @@
+upotreba	upotreba	N;GEN;PL
+upotreba	upotrebe	N;NOM;PL
+upotreba	upotreba	N;NOM;SG
+upotreba	upotrebama	N;INS;PL
+upotreba	upotrebama	N;ESS;PL
+upotreba	upotrebi	N;ESS;SG
+upotreba	upotrebo	N;VOC;SG
+upotreba	upotrebe	N;GEN;SG
+upotreba	upotrebom	N;INS;SG
+upotreba	upotrebi	N;DAT;SG
+upotreba	upotrebe	N;ACC;PL
+upotreba	upotrebu	N;ACC;SG
+upotreba	upotrebe	N;VOC;PL
+upotreba	upotrebama	N;DAT;PL
+смрт	plural	N;NOM;PL
+смрт	singular	N;NOM;SG
+тројански	тројански	ADJ;MASC;ACC;SG;INAN
+канадски	канадски	ADJ;MASC;ACC;SG;INAN
+заједнички	заједнички	ADJ;MASC;ACC;SG;INAN
+први	први	ADJ;MASC;ACC;SG;INAN
+post	poste	N;VOC;SG
+post	postova	N;GEN;PL
+post	pȍsta	N;GEN;SG
+post	postovi	N;VOC;PL
+post	postovima	N;INS;PL
+post	postovima	N;ESS;PL
+post	postu	N;ESS;SG
+post	pȏst	N;NOM;SG
+post	postom	N;INS;SG
+post	postu	N;DAT;SG
+post	postove	N;ACC;PL
+post	post	N;ACC;SG
+post	pòstovi	N;NOM;PL
+post	postovima	N;DAT;PL
+par	pare	N;VOC;SG
+par	parova	N;GEN;PL
+par	para	N;GEN;SG
+par	parovi	N;VOC;PL
+par	parovima	N;INS;PL
+par	parovima	N;ESS;PL
+par	paru	N;ESS;SG
+par	pȃr	N;NOM;SG
+par	parom	N;INS;SG
+par	paru	N;DAT;SG
+par	parove	N;ACC;PL
+par	par	N;ACC;SG
+par	pȁrovi	N;NOM;PL
+par	parovima	N;DAT;PL
+tip	típōvā	N;GEN;PL
+tip	típovi	N;NOM;PL
+tip	tipa	N;GEN;SG
+tip	tipovima	N;INS;PL
+tip	tipovima	N;ESS;PL
+tip	tipu	N;ESS;SG
+tip	tipu	N;VOC;SG
+tip	tȋp	N;NOM;SG
+tip	tipom	N;INS;SG
+tip	tipu	N;DAT;SG
+tip	tipove	N;ACC;PL
+tip	tip	N;ACC;SG
+tip	tipovi	N;VOC;PL
+tip	tipovima	N;DAT;PL
+prvi	prve	ADJ;FEM;VOC;PL
+prvi	prva	ADJ;NEUT;VOC;PL
+prvi	prvoga	ADJ;MASC;ACC;SG;ANIM
+prvi	prve	ADJ;MASC;ACC;PL
+prvi	prvomu	ADJ;NEUT;DAT;SG
+prvi	prvoj	ADJ;FEM;DAT;SG
+prvi	prvima	ADJ;NEUT;INS;PL
+prvi	prvi	ADJ;MASC;VOC;PL
+prvi	prvi	ADJ;MASC;ACC;SG;INAN
+prvi	prvi	ADJ;MASC;NOM;SG
+prvi	prve	ADJ;FEM;NOM;PL
+prvi	prva	ADJ;NEUT;NOM;PL
+prvi	prvima	ADJ;NEUT;ESS;PL
+prvi	prvo	ADJ;NEUT;ACC;SG
+prvi	prvu	ADJ;FEM;ACC;SG
+prvi	prvih	ADJ;MASC;GEN;PL
+prvi	prvima	ADJ;FEM;INS;PL
+prvi	prvomu	ADJ;MASC;DAT;SG
+prvi	prvima	ADJ;FEM;ESS;PL
+prvi	prvima	ADJ;MASC;ESS;PL
+prvi	prvim	ADJ;MASC;INS;SG
+prvi	prvima	ADJ;NEUT;DAT;PL
+prvi	prvima	ADJ;FEM;DAT;PL
+prvi	prvome	ADJ;NEUT;ESS;SG
+prvi	prvoj	ADJ;FEM;ESS;SG
+prvi	prve	ADJ;FEM;GEN;SG
+prvi	prvoga	ADJ;NEUT;GEN;SG
+prvi	prva	ADJ;FEM;VOC;SG
+prvi	prvi	ADJ;MASC;NOM;PL
+prvi	prvima	ADJ;MASC;DAT;PL
+prvi	prvom	ADJ;FEM;INS;SG
+prvi	prvima	ADJ;MASC;INS;PL
+prvi	prvim	ADJ;NEUT;INS;SG
+prvi	prva	ADJ;NEUT;ACC;PL
+prvi	prve	ADJ;FEM;ACC;PL
+prvi	prvi	ADJ;MASC;VOC;SG
+prvi	prvo	ADJ;NEUT;VOC;SG
+prvi	prva	ADJ;FEM;NOM;SG
+prvi	prvo	ADJ;NEUT;NOM;SG
+prvi	prvome	ADJ;MASC;ESS;SG
+prvi	prvoga	ADJ;MASC;GEN;SG
+prvi	prvih	ADJ;FEM;GEN;PL
+prvi	prvih	ADJ;NEUT;GEN;PL
+излазни	излазни	ADJ;MASC;ACC;SG;INAN
+свестан	свеснији	ADJ;CMPR;MASC;ACC;SG;INAN
+свестан	свестан	ADJ;INDF;MASC;ACC;SG;INAN
+свестан	најсвеснији	ADJ;SPRL;MASC;ACC;SG;INAN
+свестан	свесни	ADJ;DEF;MASC;ACC;SG;INAN
+други	други	ADJ;MASC;ACC;SG;INAN
+опрезан	опрезнији	ADJ;CMPR;MASC;ACC;SG;INAN
+опрезан	опрезан	ADJ;INDF;MASC;ACC;SG;INAN
+опрезан	најопрезнији	ADJ;SPRL;MASC;ACC;SG;INAN
+опрезан	опрезни	ADJ;DEF;MASC;ACC;SG;INAN
+prodaja	prodaja	N;GEN;PL
+prodaja	prodaje	N;NOM;PL
+prodaja	prodaja	N;NOM;SG
+prodaja	prodajama	N;INS;PL
+prodaja	prodajama	N;ESS;PL
+prodaja	prodaji	N;ESS;SG
+prodaja	prodajo	N;VOC;SG
+prodaja	prodaje	N;GEN;SG
+prodaja	prodajom	N;INS;SG
+prodaja	prodaji	N;DAT;SG
+prodaja	prodaje	N;ACC;PL
+prodaja	prodaju	N;ACC;SG
+prodaja	prodaje	N;VOC;PL
+prodaja	prodajama	N;DAT;PL
+познат	познатији	ADJ;CMPR;MASC;ACC;SG;INAN
+познат	познат	ADJ;INDF;MASC;ACC;SG;INAN
+познат	најпознатији	ADJ;SPRL;MASC;ACC;SG;INAN
+познат	познати	ADJ;DEF;MASC;ACC;SG;INAN
+просечан	просечан	ADJ;INDF;MASC;ACC;SG;INAN
+просечан	просечни	ADJ;DEF;MASC;ACC;SG;INAN
+детаљан	најдетаљнији	ADJ;SPRL;MASC;ACC;SG;INAN
+детаљан	детаљнији	ADJ;CMPR;MASC;ACC;SG;INAN
+детаљан	детаљан	ADJ;INDF;MASC;ACC;SG;INAN
+детаљан	детаљни	ADJ;DEF;MASC;ACC;SG;INAN
+teatar	teatara	N;GEN;PL
+teatar	teatre	N;VOC;SG
+teatar	teatra	N;GEN;SG
+teatar	teatri	N;VOC;PL
+teatar	teatrima	N;INS;PL
+teatar	teatrima	N;ESS;PL
+teatar	teatru	N;ESS;SG
+teatar	teatar	N;NOM;SG
+teatar	teatrom	N;INS;SG
+teatar	teatru	N;DAT;SG
+teatar	teatre	N;ACC;PL
+teatar	teatar	N;ACC;SG
+teatar	teatri	N;NOM;PL
+teatar	teatrima	N;DAT;PL
+ограничен	ограничен	ADJ;INDF;MASC;ACC;SG;INAN
+ограничен	ограничени	ADJ;DEF;MASC;ACC;SG;INAN
+помоћни	помоћни	ADJ;MASC;ACC;SG;INAN
+iskustvo	ìskūstāvā	N;GEN;PL
+iskustvo	iskustva	N;NOM;PL
+iskustvo	iskustva	N;GEN;SG
+iskustvo	iskustvima	N;INS;PL
+iskustvo	iskustvima	N;ESS;PL
+iskustvo	iskustvu	N;ESS;SG
+iskustvo	iskustvo	N;VOC;SG
+iskustvo	iskústvo	N;NOM;SG
+iskustvo	iskustvom	N;INS;SG
+iskustvo	iskustvu	N;DAT;SG
+iskustvo	iskustva	N;ACC;PL
+iskustvo	iskustvo	N;ACC;SG
+iskustvo	iskustva	N;VOC;PL
+iskustvo	iskustvima	N;DAT;PL
+средњи	средњи	ADJ;MASC;ACC;SG;INAN
+француски	француски	ADJ;MASC;ACC;SG;INAN
+светски	светски	ADJ;MASC;ACC;SG;INAN
+енглески	енглески	ADJ;MASC;ACC;SG;INAN
+такав	такви	ADJ;DEF;MASC;ACC;SG;INAN
+odrednica	odrednica	N;GEN;PL
+odrednica	odrednice	N;NOM;PL
+odrednica	odrednica	N;NOM;SG
+odrednica	odrednicama	N;INS;PL
+odrednica	odrednicama	N;ESS;PL
+odrednica	odrednici	N;ESS;SG
+odrednica	odrednico	N;VOC;SG
+odrednica	odrednice	N;GEN;SG
+odrednica	odrednicom	N;INS;SG
+odrednica	odrednici	N;DAT;SG
+odrednica	odrednice	N;ACC;PL
+odrednica	odrednicu	N;ACC;SG
+odrednica	odrednice	N;VOC;PL
+odrednica	odrednicama	N;DAT;PL
+pogled	pogleda	N;GEN;PL
+pogled	poglede	N;VOC;SG
+pogled	pogleda	N;GEN;SG
+pogled	pogledi	N;VOC;PL
+pogled	pogledima	N;INS;PL
+pogled	pogledima	N;ESS;PL
+pogled	pogledu	N;ESS;SG
+pogled	pogled	N;NOM;SG
+pogled	pogledom	N;INS;SG
+pogled	pogledu	N;DAT;SG
+pogled	poglede	N;ACC;PL
+pogled	pogled	N;ACC;SG
+pogled	pogledi	N;NOM;PL
+pogled	pogledima	N;DAT;PL
+бугарски	бугарски	ADJ;MASC;ACC;SG;INAN
+formula	formula	N;GEN;PL
+formula	formule	N;NOM;PL
+formula	formula	N;NOM;SG
+formula	formulama	N;INS;PL
+formula	formulama	N;ESS;PL
+formula	formuli	N;ESS;SG
+formula	formulo	N;VOC;SG
+formula	formule	N;GEN;SG
+formula	formulom	N;INS;SG
+formula	formuli	N;DAT;SG
+formula	formule	N;ACC;PL
+formula	formulu	N;ACC;SG
+formula	formule	N;VOC;PL
+formula	formulama	N;DAT;PL
+povećati	povećat ćeš	V;FUT;2;SG
+povećati	povećat ćete	V;FUT;2;PL
+povećati	poveća	V;PROG;PST;3;SG
+povećati	povećao sam	V;PST;1;SG
+povećati	povećaš	V;PRS;2;SG
+povećati	povećate	V;PRS;2;PL
+povećati	povećale	V.PTCP;ACT;PST;PL;FEM
+povećati	povećao bi	V;COND;2;SG
+povećati	povećala	V.PTCP;ACT;PST;SG;FEM
+povećati	povećana	V.PTCP;PASS;PST;SG;FEM
+povećati	bio bih povećao	V;COND;PST;1;SG
+povećati	budem povećao	V;FUT;1;SG;LGSPEC1
+povećati	budemo povećali	V;FUT;1;PL;LGSPEC1
+povećati	povećani	V.PTCP;PASS;PST;PL;MASC
+povećati	povećaj	V;IMP;2;SG
+povećati	bili bi povećali	V;COND;PST;3;PL
+povećati	povećalo	V.PTCP;ACT;PST;SG;NEUT
+povećati	povećamo	V;PRS;1;PL
+povećati	bio je povećao	V;PRF;PST;3;SG
+povećati	budeš povećao	V;FUT;2;SG;LGSPEC1
+povećati	povećah	V;PROG;PST;1;SG
+povećati	povećano	V.PTCP;PASS;PST;SG;NEUT
+povećati	bili ste povećali	V;PRF;PST;2;PL
+povećati	poveća	V;PRS;3;SG
+povećati	povećat će	V;FUT;3;PL
+povećati	povećaše	V;PROG;PST;3;PL
+povećati	povećan	V.PTCP;PASS;PST;SG;MASC
+povećati	povećam	V;PRS;1;SG
+povećati	povećao si	V;PST;2;SG
+povećati	povećao bih	V;COND;1;SG
+povećati	bio sam povećao	V;PRF;PST;1;SG
+povećati	povećao bi	V;COND;3;SG
+povećati	povećaste	V;PROG;PST;2;PL
+povećati	bili biste povećali	V;COND;PST;2;PL
+povećati	povećao je	V;PST;3;SG
+povećati	budete povećali	V;FUT;2;PL;LGSPEC1
+povećati	povećat ćemo	V;FUT;1;PL
+povećati	povećat će	V;FUT;3;SG
+povećati	povećana	V.PTCP;PASS;PST;PL;NEUT
+povećati	poveća	V;PROG;PST;2;SG
+povećati	bude povećao	V;FUT;3;SG;LGSPEC1
+povećati	bili su povećali	V;PRF;PST;3;PL
+povećati	povećane	V.PTCP;PASS;PST;PL;FEM
+povećati	bili bismo povećali	V;COND;PST;1;PL
+povećati	povećali biste	V;COND;2;PL
+povećati	povećali smo	V;PST;1;PL
+povećati	povećala	V.PTCP;ACT;PST;PL;NEUT
+povećati	povećajte	V;IMP;2;PL
+povećati	bio bi povećao	V;COND;PST;3;SG
+povećati	povećaju	V;PRS;3;PL
+povećati	bio si povećao	V;PRF;PST;2;SG
+povećati	povećao	V.PTCP;ACT;PST;SG;MASC
+povećati	povećali bi	V;COND;3;PL
+povećati	povećali	V.PTCP;ACT;PST;PL;MASC
+povećati	povećali su	V;PST;3;PL
+povećati	povećali bismo	V;COND;1;PL
+povećati	budu povećali	V;FUT;3;PL;LGSPEC1
+povećati	povećali ste	V;PST;2;PL
+povećati	povećasmo	V;PROG;PST;1;PL
+povećati	bili smo povećali	V;PRF;PST;1;PL
+povećati	povećajmo	V;IMP;1;PL
+povećati	bio bi povećao	V;COND;PST;2;SG
+povećati	povećat ću	V;FUT;1;SG
+геометријски	геометријски	ADJ;MASC;ACC;SG;INAN
+određivanje	određivanja	N;GEN;PL
+određivanje	određivanja	N;NOM;PL
+određivanje	određivanja	N;GEN;SG
+određivanje	određivanjima	N;INS;PL
+određivanje	određivanjima	N;ESS;PL
+određivanje	određivanju	N;ESS;SG
+određivanje	određivanje	N;VOC;SG
+određivanje	određivanje	N;NOM;SG
+određivanje	određivanjem	N;INS;SG
+određivanje	određivanju	N;DAT;SG
+određivanje	određivanja	N;ACC;PL
+određivanje	određivanje	N;ACC;SG
+određivanje	određivanja	N;VOC;PL
+određivanje	određivanjima	N;DAT;PL
+izvor	ȉzvōrā	N;GEN;PL
+izvor	ìzvore	N;VOC;SG
+izvor	ìzvora	N;GEN;SG
+izvor	ìzvori	N;VOC;PL
+izvor	ìzvorima	N;INS;PL
+izvor	ìzvorima	N;ESS;PL
+izvor	ìzvoru	N;ESS;SG
+izvor	ìzvor	N;NOM;SG
+izvor	ìzvorom	N;INS;SG
+izvor	ìzvoru	N;DAT;SG
+izvor	ìzvore	N;ACC;PL
+izvor	ìzvor	N;ACC;SG
+izvor	ìzvori	N;NOM;PL
+izvor	ìzvorima	N;DAT;PL
+kriza	kriza	N;GEN;PL
+kriza	krize	N;NOM;PL
+kriza	kriza	N;NOM;SG
+kriza	krizama	N;INS;PL
+kriza	krizama	N;ESS;PL
+kriza	krizi	N;ESS;SG
+kriza	krizo	N;VOC;SG
+kriza	krize	N;GEN;SG
+kriza	krizom	N;INS;SG
+kriza	krizi	N;DAT;SG
+kriza	krize	N;ACC;PL
+kriza	krizu	N;ACC;SG
+kriza	krize	N;VOC;PL
+kriza	krizama	N;DAT;PL
+top	tope	N;VOC;SG
+top	topova	N;GEN;PL
+top	topa	N;GEN;SG
+top	topovi	N;VOC;PL
+top	topovima	N;INS;PL
+top	topovima	N;ESS;PL
+top	topu	N;ESS;SG
+top	top	N;NOM;SG
+top	topom	N;INS;SG
+top	topu	N;DAT;SG
+top	topove	N;ACC;PL
+top	top	N;ACC;SG
+top	topovi	N;NOM;PL
+top	topovima	N;DAT;PL
+problem	problema	N;GEN;PL
+problem	probleme	N;VOC;SG
+problem	problema	N;GEN;SG
+problem	problemi	N;VOC;PL
+problem	problemima	N;INS;PL
+problem	problemima	N;ESS;PL
+problem	problemu	N;ESS;SG
+problem	problem	N;NOM;SG
+problem	problemom	N;INS;SG
+problem	problemu	N;DAT;SG
+problem	probleme	N;ACC;PL
+problem	problem	N;ACC;SG
+problem	problemi	N;NOM;PL
+problem	problemima	N;DAT;PL
+prazniti	praznit ćeš	V;FUT;2;SG
+prazniti	praznit ćete	V;FUT;2;PL
+prazniti	pražnjaše	V;PROG;PST;3;SG
+prazniti	praznio sam	V;PST;1;SG
+prazniti	prazniš	V;PRS;2;SG
+prazniti	praznite	V;PRS;2;PL
+prazniti	praznile	V.PTCP;ACT;PST;PL;FEM
+prazniti	praznio bi	V;COND;2;SG
+prazniti	praznila	V.PTCP;ACT;PST;SG;FEM
+prazniti	praznit će	V;FUT;3;SG
+prazniti	bio bih praznio	V;COND;PST;1;SG
+prazniti	budem praznio	V;FUT;1;SG;LGSPEC1
+prazniti	budemo praznili	V;FUT;1;PL;LGSPEC1
+prazniti	pražnjeni	V.PTCP;PASS;PST;PL;MASC
+prazniti	prazni	V;IMP;2;SG
+prazniti	bili bi praznili	V;COND;PST;3;PL
+prazniti	praznilo	V.PTCP;ACT;PST;SG;NEUT
+prazniti	praznimo	V;PRS;1;PL
+prazniti	bio je praznio	V;PRF;PST;3;SG
+prazniti	budeš praznio	V;FUT;2;SG;LGSPEC1
+prazniti	pražnjah	V;PROG;PST;1;SG
+prazniti	pražnjeno	V.PTCP;PASS;PST;SG;NEUT
+prazniti	bili ste praznili	V;PRF;PST;2;PL
+prazniti	prazni	V;PRS;3;SG
+prazniti	praznit će	V;FUT;3;PL
+prazniti	pražnjahu	V;PROG;PST;3;PL
+prazniti	pražnjen	V.PTCP;PASS;PST;SG;MASC
+prazniti	praznim	V;PRS;1;SG
+prazniti	praznio si	V;PST;2;SG
+prazniti	praznio bih	V;COND;1;SG
+prazniti	bio sam praznio	V;PRF;PST;1;SG
+prazniti	praznio bi	V;COND;3;SG
+prazniti	pražnjaste	V;PROG;PST;2;PL
+prazniti	bili biste praznili	V;COND;PST;2;PL
+prazniti	praznio je	V;PST;3;SG
+prazniti	budete praznili	V;FUT;2;PL;LGSPEC1
+prazniti	praznit ćemo	V;FUT;1;PL
+prazniti	pražnjena	V.PTCP;PASS;PST;PL;NEUT
+prazniti	pražnjaše	V;PROG;PST;2;SG
+prazniti	bude praznio	V;FUT;3;SG;LGSPEC1
+prazniti	bili su praznili	V;PRF;PST;3;PL
+prazniti	pražnjene	V.PTCP;PASS;PST;PL;FEM
+prazniti	bili bismo praznili	V;COND;PST;1;PL
+prazniti	praznili biste	V;COND;2;PL
+prazniti	praznili smo	V;PST;1;PL
+prazniti	praznila	V.PTCP;ACT;PST;PL;NEUT
+prazniti	praznite	V;IMP;2;PL
+prazniti	bio bi praznio	V;COND;PST;3;SG
+prazniti	prazne	V;PRS;3;PL
+prazniti	bio si praznio	V;PRF;PST;2;SG
+prazniti	praznio	V.PTCP;ACT;PST;SG;MASC
+prazniti	praznili bi	V;COND;3;PL
+prazniti	praznili	V.PTCP;ACT;PST;PL;MASC
+prazniti	praznili su	V;PST;3;PL
+prazniti	praznili bismo	V;COND;1;PL
+prazniti	budu praznili	V;FUT;3;PL;LGSPEC1
+prazniti	pražnjena	V.PTCP;PASS;PST;SG;FEM
+prazniti	praznili ste	V;PST;2;PL
+prazniti	pražnjasmo	V;PROG;PST;1;PL
+prazniti	bili smo praznili	V;PRF;PST;1;PL
+prazniti	praznimo	V;IMP;1;PL
+prazniti	bio bi praznio	V;COND;PST;2;SG
+prazniti	praznit ću	V;FUT;1;SG
+правни	правни	ADJ;MASC;ACC;SG;INAN
+pokret	pokreta	N;GEN;PL
+pokret	pokrete	N;VOC;SG
+pokret	pokreta	N;GEN;SG
+pokret	pokreti	N;VOC;PL
+pokret	pokretima	N;INS;PL
+pokret	pokretima	N;ESS;PL
+pokret	pokretu	N;ESS;SG
+pokret	pokret	N;NOM;SG
+pokret	pokretom	N;INS;SG
+pokret	pokretu	N;DAT;SG
+pokret	pokrete	N;ACC;PL
+pokret	pokret	N;ACC;SG
+pokret	pokreti	N;NOM;PL
+pokret	pokretima	N;DAT;PL
+богат	најбогатији	ADJ;SPRL;MASC;ACC;SG;INAN
+богат	богатији	ADJ;CMPR;MASC;ACC;SG;INAN
+богат	богат	ADJ;INDF;MASC;ACC;SG;INAN
+богат	богати	ADJ;DEF;MASC;ACC;SG;INAN
+član	člane	N;VOC;SG
+član	člȁnovi	N;GEN;PL
+član	člana	N;GEN;SG
+član	članovi	N;VOC;PL
+član	članovima	N;INS;PL
+član	članovima	N;ESS;PL
+član	članu	N;ESS;SG
+član	član	N;NOM;SG
+član	članom	N;INS;SG
+član	članu	N;DAT;SG
+član	članove	N;ACC;PL
+član	član	N;ACC;SG
+član	članovi	N;NOM;PL
+član	članovima	N;DAT;PL
+tretman	tretmanu	N;VOC;SG
+tretman	tretmána	N;GEN;SG
+tretman	tretmanu	N;ESS;SG
+tretman	trètmān	N;NOM;SG
+tretman	tretmanom	N;INS;SG
+tretman	tretmanu	N;DAT;SG
+tretman	tretman	N;ACC;SG
+јефтин	најјефтинији	ADJ;SPRL;MASC;ACC;SG;INAN
+јефтин	јефтинији	ADJ;CMPR;MASC;ACC;SG;INAN
+јефтин	јефтин	ADJ;INDF;MASC;ACC;SG;INAN
+јефтин	јефтини	ADJ;DEF;MASC;ACC;SG;INAN
+шаховски	шаховски	ADJ;MASC;ACC;SG;INAN
+policija	policija	N;GEN;PL
+policija	policije	N;NOM;PL
+policija	policija	N;NOM;SG
+policija	policijama	N;INS;PL
+policija	policijama	N;ESS;PL
+policija	policiji	N;ESS;SG
+policija	policijo	N;VOC;SG
+policija	policije	N;GEN;SG
+policija	policijom	N;INS;SG
+policija	policiji	N;DAT;SG
+policija	policije	N;ACC;PL
+policija	policiju	N;ACC;SG
+policija	policije	N;VOC;PL
+policija	policijama	N;DAT;PL
+непобедив	непобедив	ADJ;INDF;MASC;ACC;SG;INAN
+непобедив	непобедиви	ADJ;DEF;MASC;ACC;SG;INAN
+српски	српски	ADJ;MASC;ACC;SG;INAN
+независан	независнији	ADJ;CMPR;MASC;ACC;SG;INAN
+независан	независан	ADJ;INDF;MASC;ACC;SG;INAN
+независан	најнезависнији	ADJ;SPRL;MASC;ACC;SG;INAN
+независан	независни	ADJ;DEF;MASC;ACC;SG;INAN

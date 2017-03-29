@@ -1,0 +1,705 @@
+жарт		N;VOC;SG
+жарт		N;NOM;PL
+жарт		N;NOM;SG
+жарт		N;GEN;PL
+жарт		N;INS;PL
+жарт		N;ESS;PL
+жарт		N;ESS;SG
+жарт	жарту	N;GEN;SG
+жарт	жартом	N;INS;SG
+жарт		N;DAT;SG
+жарт		N;ACC;PL
+жарт		N;ACC;SG
+жарт		N;VOC;PL
+жарт		N;DAT;PL
+жаль	жалі	N;NOM;PL
+жаль		N;GEN;PL
+жаль		N;NOM;SG
+жаль		N;INS;PL
+жаль		N;ESS;PL
+жаль		N;ESS;SG
+жаль	жалю	N;VOC;SG
+жаль		N;GEN;SG
+жаль		N;INS;SG
+жаль		N;DAT;SG
+жаль		N;ACC;PL
+жаль		N;ACC;SG
+жаль		N;VOC;PL
+жаль		N;DAT;PL
+літо		N;GEN;PL
+літо		N;NOM;PL
+літо		N;GEN;SG
+літо	літами	N;INS;PL
+літо		N;ESS;PL
+літо		N;ESS;SG
+літо	літо	N;VOC;SG
+літо		N;NOM;SG
+літо		N;INS;SG
+літо		N;DAT;SG
+літо		N;ACC;PL
+літо		N;ACC;SG
+літо		N;VOC;PL
+літо		N;DAT;PL
+докторат		N;VOC;SG
+докторат		N;NOM;PL
+докторат		N;NOM;SG
+докторат		N;GEN;PL
+докторат	докторатами	N;INS;PL
+докторат		N;ESS;PL
+докторат		N;ESS;SG
+докторат		N;GEN;SG
+докторат		N;INS;SG
+докторат		N;DAT;SG
+докторат		N;ACC;PL
+докторат	докторат	N;ACC;SG
+докторат		N;VOC;PL
+докторат		N;DAT;PL
+скеля		N;VOC;SG
+скеля		N;NOM;PL
+скеля		N;GEN;SG
+скеля		N;GEN;PL
+скеля		N;INS;PL
+скеля		N;ESS;PL
+скеля		N;ESS;SG
+скеля		N;NOM;SG
+скеля		N;INS;SG
+скеля		N;DAT;SG
+скеля		N;ACC;PL
+скеля		N;ACC;SG
+скеля	скелі	N;VOC;PL
+скеля	скелям	N;DAT;PL
+множина		N;GEN;PL
+множина		N;NOM;PL
+множина		N;NOM;SG
+множина		N;INS;PL
+множина	множинах	N;ESS;PL
+множина		N;ESS;SG
+множина		N;VOC;SG
+множина		N;GEN;SG
+множина	множиною	N;INS;SG
+множина		N;DAT;SG
+множина		N;ACC;PL
+множина		N;ACC;SG
+множина		N;VOC;PL
+множина		N;DAT;PL
+онук		N;NOM;PL
+онук		N;GEN;PL
+онук		N;GEN;SG
+онук		N;INS;PL
+онук		N;ESS;PL
+онук		N;ESS;SG
+онук		N;VOC;SG
+онук		N;NOM;SG
+онук		N;INS;SG
+онук		N;DAT;SG
+онук		N;ACC;PL
+онук	онука	N;ACC;SG
+онук		N;VOC;PL
+онук	онукам	N;DAT;PL
+описати		V.PTCP;PASS;PST
+описати		V;PST;PL
+описати		V;FUT;2;PL
+описати	описало	V;PST;NEUT;SG
+описати		V.CVB;PST
+описати		V;FUT;1;PL
+описати		V;PST;FEM;SG
+описати		V;FUT;3;SG
+описати		V;PST;MASC;SG
+описати		V;FUT;2;SG
+описати		V;FUT;1;SG
+описати		V;IMP;1;PL
+описати	опишуть	V;FUT;3;PL
+описати		V;IMP;2;SG
+описати		V;IMP;2;PL
+описати		V;NFIN
+обовязок		N;NOM;PL
+обовязок		N;GEN;PL
+обовязок		N;GEN;SG
+обовязок		N;INS;PL
+обовязок		N;ESS;PL
+обовязок		N;ESS;SG
+обовязок	обовязку	N;VOC;SG
+обовязок		N;NOM;SG
+обовязок		N;INS;SG
+обовязок		N;DAT;SG
+обовязок	обовязки	N;ACC;PL
+обовязок		N;ACC;SG
+обовязок		N;VOC;PL
+обовязок		N;DAT;PL
+креслення		N;NOM;PL
+креслення		N;VOC;SG
+креслення		N;GEN;SG
+креслення	креслень	N;GEN;PL
+креслення		N;INS;PL
+креслення		N;ESS;PL
+креслення		N;ESS;SG
+креслення		N;NOM;SG
+креслення	кресленням	N;INS;SG
+креслення		N;DAT;SG
+креслення		N;ACC;PL
+креслення		N;ACC;SG
+креслення		N;VOC;PL
+креслення		N;DAT;PL
+лосось		N;NOM;PL
+лосось		N;GEN;PL
+лосось		N;NOM;SG
+лосось		N;INS;PL
+лосось		N;ESS;PL
+лосось	лососеві	N;ESS;SG
+лосось		N;VOC;SG
+лосось		N;GEN;SG
+лосось		N;INS;SG
+лосось		N;DAT;SG
+лосось	лососі	N;ACC;PL
+лосось		N;ACC;SG
+лосось		N;VOC;PL
+лосось		N;DAT;PL
+сектор		N;VOC;SG
+сектор		N;NOM;PL
+сектор	сектора	N;GEN;SG
+сектор		N;GEN;PL
+сектор		N;INS;PL
+сектор		N;ESS;PL
+сектор		N;ESS;SG
+сектор	сектор	N;NOM;SG
+сектор		N;INS;SG
+сектор		N;DAT;SG
+сектор		N;ACC;PL
+сектор		N;ACC;SG
+сектор		N;VOC;PL
+сектор		N;DAT;PL
+революція		N;VOC;SG
+революція		N;NOM;PL
+революція		N;GEN;SG
+революція		N;GEN;PL
+революція		N;INS;PL
+революція	революціях	N;ESS;PL
+революція		N;ESS;SG
+революція		N;NOM;SG
+революція	революцією	N;INS;SG
+революція		N;DAT;SG
+революція		N;ACC;PL
+революція		N;ACC;SG
+революція		N;VOC;PL
+революція		N;DAT;PL
+наука	наук	N;GEN;PL
+наука		N;NOM;PL
+наука		N;NOM;SG
+наука		N;INS;PL
+наука		N;ESS;PL
+наука		N;ESS;SG
+наука	науко	N;VOC;SG
+наука		N;GEN;SG
+наука		N;INS;SG
+наука		N;DAT;SG
+наука		N;ACC;PL
+наука		N;ACC;SG
+наука		N;VOC;PL
+наука		N;DAT;PL
+рости		V;FUT;2;PL
+рости		V.CVB;PST
+рости		V;PRS;2;PL
+рости	буде рости	V;FUT;3;SG
+рости		V;FUT;1;SG
+рости		V;IMP;2;SG
+рости		V;PRS;3;SG
+рости	росла	V;PST;FEM;SG
+рости		V;PRS;1;SG
+рости		V;PST;MASC;SG
+рости		V;FUT;3;PL
+рости	будеш рости	V;FUT;2;SG
+рости		V;PST;PL
+рости		V.CVB;PRS
+рости		V;PRS;2;SG
+рости		V;IMP;2;PL
+рости		V;NFIN
+рости		V;PRS;3;PL
+рости		V;PST;NEUT;SG
+рости		V;FUT;1;PL
+рости		V;PRS;1;PL
+рости		V;IMP;1;PL
+дах		N;NOM;PL
+дах		N;GEN;PL
+дах		N;NOM;SG
+дах		N;INS;PL
+дах	дахах	N;ESS;PL
+дах		N;ESS;SG
+дах	даху	N;VOC;SG
+дах		N;GEN;SG
+дах		N;INS;SG
+дах		N;DAT;SG
+дах		N;ACC;PL
+дах		N;ACC;SG
+дах		N;VOC;PL
+дах		N;DAT;PL
+кодекс		N;VOC;SG
+кодекс		N;NOM;PL
+кодекс		N;NOM;SG
+кодекс		N;GEN;PL
+кодекс		N;INS;PL
+кодекс		N;ESS;PL
+кодекс		N;ESS;SG
+кодекс		N;GEN;SG
+кодекс	кодексом	N;INS;SG
+кодекс		N;DAT;SG
+кодекс	кодекси	N;ACC;PL
+кодекс		N;ACC;SG
+кодекс		N;VOC;PL
+кодекс		N;DAT;PL
+онука		N;NOM;PL
+онука		N;VOC;SG
+онука	онука	N;NOM;SG
+онука		N;GEN;PL
+онука		N;INS;PL
+онука		N;ESS;PL
+онука	онуці	N;ESS;SG
+онука		N;GEN;SG
+онука		N;INS;SG
+онука		N;DAT;SG
+онука		N;ACC;PL
+онука		N;ACC;SG
+онука		N;VOC;PL
+онука		N;DAT;PL
+землетрус		N;VOC;SG
+землетрус		N;NOM;PL
+землетрус		N;NOM;SG
+землетрус		N;GEN;PL
+землетрус		N;INS;PL
+землетрус		N;ESS;PL
+землетрус		N;ESS;SG
+землетрус		N;GEN;SG
+землетрус	землетрусом	N;INS;SG
+землетрус	землетрусу	N;DAT;SG
+землетрус		N;ACC;PL
+землетрус		N;ACC;SG
+землетрус		N;VOC;PL
+землетрус		N;DAT;PL
+борсук		N;NOM;PL
+борсук		N;GEN;PL
+борсук		N;GEN;SG
+борсук		N;INS;PL
+борсук		N;ESS;PL
+борсук		N;ESS;SG
+борсук		N;VOC;SG
+борсук		N;NOM;SG
+борсук		N;INS;SG
+борсук	борсуку	N;DAT;SG
+борсук	борсуки	N;ACC;PL
+борсук		N;ACC;SG
+борсук		N;VOC;PL
+борсук		N;DAT;PL
+австрійський		ADJ;NEUT;DAT;SG
+австрійський	австрійській	ADJ;FEM;DAT;SG
+австрійський		ADJ;ANIM;ACC;PL
+австрійський		ADJ;DAT;PL
+австрійський		ADJ;MASC;NOM;SG
+австрійський		ADJ;MASC;DAT;SG
+австрійський	австрійським	ADJ;MASC;INS;SG
+австрійський		ADJ;GEN;PL
+австрійський		ADJ;NEUT;ACC;SG
+австрійський		ADJ;FEM;ACC;SG
+австрійський		ADJ;NOM;PL
+австрійський		ADJ;NEUT;ESS;SG
+австрійський		ADJ;FEM;ESS;SG
+австрійський		ADJ;INAN;ACC;PL
+австрійський		ADJ;FEM;GEN;SG
+австрійський		ADJ;NEUT;GEN;SG
+австрійський		ADJ;FEM;INS;SG
+австрійський		ADJ;NEUT;INS;SG
+австрійський	австрійський	ADJ;MASC;INAN;ACC;SG
+австрійський		ADJ;MASC;ANIM;ACC;SG
+австрійський		ADJ;INS;PL
+австрійський		ADJ;FEM;NOM;SG
+австрійський		ADJ;NEUT;NOM;SG
+австрійський		ADJ;MASC;ESS;SG
+австрійський	австрійського	ADJ;MASC;GEN;SG
+австрійський		ADJ;ESS;PL
+стегно		N;GEN;PL
+стегно		N;NOM;PL
+стегно		N;GEN;SG
+стегно		N;INS;PL
+стегно		N;ESS;PL
+стегно	стегні	N;ESS;SG
+стегно		N;VOC;SG
+стегно		N;NOM;SG
+стегно	стегном	N;INS;SG
+стегно		N;DAT;SG
+стегно		N;ACC;PL
+стегно		N;ACC;SG
+стегно		N;VOC;PL
+стегно		N;DAT;PL
+бабка	бабки	N;NOM;PL
+бабка		N;VOC;SG
+бабка		N;NOM;SG
+бабка		N;GEN;PL
+бабка		N;INS;PL
+бабка		N;ESS;PL
+бабка		N;ESS;SG
+бабка		N;GEN;SG
+бабка		N;INS;SG
+бабка		N;DAT;SG
+бабка		N;ACC;PL
+бабка		N;ACC;SG
+бабка		N;VOC;PL
+бабка	бабкам	N;DAT;PL
+карась	карасі	N;NOM;PL
+карась		N;GEN;PL
+карась		N;NOM;SG
+карась		N;INS;PL
+карась		N;ESS;PL
+карась		N;ESS;SG
+карась		N;VOC;SG
+карась		N;GEN;SG
+карась		N;INS;SG
+карась	карасеві	N;DAT;SG
+карась		N;ACC;PL
+карась		N;ACC;SG
+карась		N;VOC;PL
+карась		N;DAT;PL
+залоза		N;GEN;PL
+залоза		N;NOM;PL
+залоза		N;NOM;SG
+залоза		N;INS;PL
+залоза		N;ESS;PL
+залоза		N;ESS;SG
+залоза	залозо	N;VOC;SG
+залоза		N;GEN;SG
+залоза		N;INS;SG
+залоза		N;DAT;SG
+залоза	залози	N;ACC;PL
+залоза		N;ACC;SG
+залоза		N;VOC;PL
+залоза		N;DAT;PL
+вязень		N;NOM;PL
+вязень		N;GEN;PL
+вязень		N;NOM;SG
+вязень		N;INS;PL
+вязень		N;ESS;PL
+вязень		N;ESS;SG
+вязень		N;VOC;SG
+вязень		N;GEN;SG
+вязень	вязнем	N;INS;SG
+вязень		N;DAT;SG
+вязень		N;ACC;PL
+вязень	вязня	N;ACC;SG
+вязень		N;VOC;PL
+вязень		N;DAT;PL
+кістка		N;NOM;PL
+кістка		N;VOC;SG
+кістка		N;NOM;SG
+кістка		N;GEN;PL
+кістка		N;INS;PL
+кістка	кістках	N;ESS;PL
+кістка		N;ESS;SG
+кістка		N;GEN;SG
+кістка		N;INS;SG
+кістка		N;DAT;SG
+кістка		N;ACC;PL
+кістка		N;ACC;SG
+кістка		N;VOC;PL
+кістка	кісткам	N;DAT;PL
+ціль		N;VOC;SG
+ціль		N;GEN;PL
+ціль		N;GEN;SG
+ціль		N;VOC;PL
+ціль		N;INS;PL
+ціль		N;ESS;PL
+ціль		N;ESS;SG
+ціль		N;NOM;SG
+ціль	ціллю	N;INS;SG
+ціль	цілі	N;DAT;SG
+ціль		N;ACC;PL
+ціль		N;ACC;SG
+ціль		N;NOM;PL
+ціль		N;DAT;PL
+компютер	компютере	N;VOC;SG
+компютер		N;NOM;PL
+компютер		N;GEN;SG
+компютер		N;GEN;PL
+компютер		N;INS;PL
+компютер		N;ESS;PL
+компютер		N;ESS;SG
+компютер		N;NOM;SG
+компютер		N;INS;SG
+компютер	компютеру	N;DAT;SG
+компютер		N;ACC;PL
+компютер		N;ACC;SG
+компютер		N;VOC;PL
+компютер		N;DAT;PL
+фінансування		N;VOC;SG
+фінансування		N;GEN;SG
+фінансування		N;ESS;SG
+фінансування		N;NOM;SG
+фінансування		N;INS;SG
+фінансування		N;DAT;SG
+фінансування		N;ACC;SG
+ринок		N;NOM;PL
+ринок		N;GEN;PL
+ринок		N;GEN;SG
+ринок		N;INS;PL
+ринок		N;ESS;PL
+ринок		N;ESS;SG
+ринок		N;VOC;SG
+ринок		N;NOM;SG
+ринок		N;INS;SG
+ринок	ринку	N;DAT;SG
+ринок		N;ACC;PL
+ринок		N;ACC;SG
+ринок	ринки	N;VOC;PL
+ринок		N;DAT;PL
+літера		N;GEN;PL
+літера	літери	N;NOM;PL
+літера		N;NOM;SG
+літера	літерами	N;INS;PL
+літера		N;ESS;PL
+літера		N;ESS;SG
+літера		N;VOC;SG
+літера		N;GEN;SG
+літера		N;INS;SG
+літера		N;DAT;SG
+літера		N;ACC;PL
+літера		N;ACC;SG
+літера		N;VOC;PL
+літера		N;DAT;PL
+столиця		N;VOC;SG
+столиця	столиці	N;NOM;PL
+столиця		N;GEN;SG
+столиця		N;GEN;PL
+столиця		N;INS;PL
+столиця		N;ESS;PL
+столиця		N;ESS;SG
+столиця	столиця	N;NOM;SG
+столиця		N;INS;SG
+столиця		N;DAT;SG
+столиця		N;ACC;PL
+столиця		N;ACC;SG
+столиця		N;VOC;PL
+столиця		N;DAT;PL
+колесо		N;NOM;PL
+колесо		N;VOC;SG
+колесо		N;GEN;SG
+колесо	коліс	N;GEN;PL
+колесо		N;INS;PL
+колесо		N;ESS;PL
+колесо		N;ESS;SG
+колесо		N;NOM;SG
+колесо		N;INS;SG
+колесо	колесу	N;DAT;SG
+колесо		N;ACC;PL
+колесо		N;ACC;SG
+колесо		N;VOC;PL
+колесо		N;DAT;PL
+обставина		N;GEN;PL
+обставина		N;NOM;PL
+обставина		N;NOM;SG
+обставина		N;INS;PL
+обставина		N;ESS;PL
+обставина		N;ESS;SG
+обставина		N;VOC;SG
+обставина		N;GEN;SG
+обставина		N;INS;SG
+обставина	обставині	N;DAT;SG
+обставина		N;ACC;PL
+обставина	обставину	N;ACC;SG
+обставина		N;VOC;PL
+обставина		N;DAT;PL
+стіна		N;GEN;PL
+стіна		N;NOM;PL
+стіна		N;NOM;SG
+стіна		N;INS;PL
+стіна		N;ESS;PL
+стіна		N;ESS;SG
+стіна		N;VOC;SG
+стіна		N;GEN;SG
+стіна	стіною	N;INS;SG
+стіна		N;DAT;SG
+стіна		N;ACC;PL
+стіна		N;ACC;SG
+стіна	стіни	N;VOC;PL
+стіна		N;DAT;PL
+виклад		N;VOC;SG
+виклад	виклади	N;NOM;PL
+виклад		N;NOM;SG
+виклад		N;GEN;PL
+виклад		N;INS;PL
+виклад		N;ESS;PL
+виклад		N;ESS;SG
+виклад		N;GEN;SG
+виклад		N;INS;SG
+виклад		N;DAT;SG
+виклад		N;ACC;PL
+виклад		N;ACC;SG
+виклад	виклади	N;VOC;PL
+виклад		N;DAT;PL
+панство		N;VOC;SG
+панство		N;GEN;SG
+панство		N;ESS;SG
+панство		N;NOM;SG
+панство		N;INS;SG
+панство		N;DAT;SG
+панство		N;ACC;SG
+небеса		N;VOC;SG
+небеса		N;GEN;SG
+небеса		N;ESS;SG
+небеса		N;NOM;SG
+небеса		N;INS;SG
+небеса		N;DAT;SG
+небеса		N;ACC;SG
+бібліотекар	бібліотекарі	N;NOM;PL
+бібліотекар		N;GEN;PL
+бібліотекар		N;NOM;SG
+бібліотекар		N;INS;PL
+бібліотекар		N;ESS;PL
+бібліотекар		N;ESS;SG
+бібліотекар		N;VOC;SG
+бібліотекар		N;GEN;SG
+бібліотекар		N;INS;SG
+бібліотекар		N;DAT;SG
+бібліотекар		N;ACC;PL
+бібліотекар		N;ACC;SG
+бібліотекар		N;VOC;PL
+бібліотекар	бібліотекарям	N;DAT;PL
+обличчя		N;GEN;PL
+обличчя		N;NOM;PL
+обличчя		N;GEN;SG
+обличчя		N;INS;PL
+обличчя		N;ESS;PL
+обличчя		N;ESS;SG
+обличчя	обличчя	N;VOC;SG
+обличчя		N;NOM;SG
+обличчя	обличчям	N;INS;SG
+обличчя		N;DAT;SG
+обличчя		N;ACC;PL
+обличчя		N;ACC;SG
+обличчя		N;VOC;PL
+обличчя		N;DAT;PL
+ложе		N;GEN;PL
+ложе		N;NOM;PL
+ложе		N;GEN;SG
+ложе		N;INS;PL
+ложе		N;ESS;PL
+ложе		N;ESS;SG
+ложе	ложе	N;VOC;SG
+ложе		N;NOM;SG
+ложе		N;INS;SG
+ложе		N;DAT;SG
+ложе		N;ACC;PL
+ложе		N;ACC;SG
+ложе	ложа	N;VOC;PL
+ложе		N;DAT;PL
+звинуватити		V;FUT;2;SG
+звинуватити		V;PST;PL
+звинуватити		V;FUT;2;PL
+звинуватити		V;PST;NEUT;SG
+звинуватити		V.CVB;PST
+звинуватити		V;FUT;1;PL
+звинуватити		V;PST;FEM;SG
+звинуватити		V;FUT;3;SG
+звинуватити	звинуватив	V;PST;MASC;SG
+звинуватити		V;FUT;1;SG
+звинуватити		V;IMP;1;PL
+звинуватити	звинуватять	V;FUT;3;PL
+звинуватити		V;IMP;2;SG
+звинуватити		V;IMP;2;PL
+звинуватити		V.PTCP;PASS;PST
+звинуватити		V;NFIN
+міра	мір	N;GEN;PL
+міра		N;NOM;PL
+міра		N;NOM;SG
+міра	мірами	N;INS;PL
+міра		N;ESS;PL
+міра		N;ESS;SG
+міра		N;VOC;SG
+міра		N;GEN;SG
+міра		N;INS;SG
+міра		N;DAT;SG
+міра		N;ACC;PL
+міра		N;ACC;SG
+міра		N;VOC;PL
+міра		N;DAT;PL
+абатство		N;GEN;PL
+абатство		N;NOM;PL
+абатство	абатства	N;GEN;SG
+абатство		N;INS;PL
+абатство	абатствах	N;ESS;PL
+абатство		N;ESS;SG
+абатство		N;VOC;SG
+абатство		N;NOM;SG
+абатство		N;INS;SG
+абатство		N;DAT;SG
+абатство		N;ACC;PL
+абатство		N;ACC;SG
+абатство		N;VOC;PL
+абатство		N;DAT;PL
+хвороба		N;GEN;PL
+хвороба		N;NOM;PL
+хвороба		N;NOM;SG
+хвороба		N;INS;PL
+хвороба		N;ESS;PL
+хвороба		N;ESS;SG
+хвороба	хворобо	N;VOC;SG
+хвороба		N;GEN;SG
+хвороба		N;INS;SG
+хвороба		N;DAT;SG
+хвороба		N;ACC;PL
+хвороба		N;ACC;SG
+хвороба	хвороби	N;VOC;PL
+хвороба		N;DAT;PL
+береза		N;NOM;PL
+береза		N;VOC;SG
+береза	береза	N;NOM;SG
+береза	беріз	N;GEN;PL
+береза		N;INS;PL
+береза		N;ESS;PL
+береза		N;ESS;SG
+береза		N;GEN;SG
+береза		N;INS;SG
+береза		N;DAT;SG
+береза		N;ACC;PL
+береза		N;ACC;SG
+береза		N;VOC;PL
+береза		N;DAT;PL
+українець		N;NOM;PL
+українець		N;GEN;PL
+українець		N;NOM;SG
+українець		N;INS;PL
+українець		N;ESS;PL
+українець	українцеві	N;ESS;SG
+українець	українцю	N;VOC;SG
+українець		N;GEN;SG
+українець		N;INS;SG
+українець		N;DAT;SG
+українець		N;ACC;PL
+українець		N;ACC;SG
+українець		N;VOC;PL
+українець		N;DAT;PL
+купувати		V.PTCP;PASS;PST
+купувати		V;FUT;2;PL
+купувати		V.CVB;PST
+купувати		V;PRS;2;PL
+купувати	буде купувати	V;FUT;3;SG
+купувати		V;FUT;1;SG
+купувати		V;IMP;2;SG
+купувати		V;PRS;3;SG
+купувати		V;PST;FEM;SG
+купувати		V;PRS;1;SG
+купувати	купував	V;PST;MASC;SG
+купувати		V;FUT;3;PL
+купувати		V;FUT;2;SG
+купувати		V;PST;PL
+купувати		V.CVB;PRS
+купувати		V;PRS;2;SG
+купувати	купуйте	V;IMP;2;PL
+купувати		V;NFIN
+купувати		V;PRS;3;PL
+купувати		V;PST;NEUT;SG
+купувати		V;FUT;1;PL
+купувати		V;PRS;1;PL
+купувати	купуймо	V;IMP;1;PL
+Різдво		N;VOC;SG
+Різдво		N;GEN;SG
+Різдво		N;ESS;SG
+Різдво		N;NOM;SG
+Різдво		N;INS;SG
+Різдво		N;DAT;SG
+Різдво		N;ACC;SG

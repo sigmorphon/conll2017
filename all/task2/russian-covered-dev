@@ -1,0 +1,743 @@
+хозяйство		N;GEN;PL
+хозяйство		N;NOM;PL
+хозяйство		N;GEN;SG
+хозяйство		N;INS;PL
+хозяйство		N;ESS;PL
+хозяйство		N;ESS;SG
+хозяйство	хозяйство	N;NOM;SG
+хозяйство		N;INS;SG
+хозяйство		N;DAT;SG
+хозяйство		N;ACC;SG
+хозяйство		N;DAT;PL
+тополь		N;GEN;PL
+тополь		N;NOM;PL
+тополь		N;NOM;SG
+тополь		N;INS;PL
+тополь		N;ESS;PL
+тополь		N;ESS;SG
+тополь		N;GEN;SG
+тополь		N;INS;SG
+тополь	тополю	N;DAT;SG
+тополь		N;ACC;SG
+тополь		N;DAT;PL
+речной		ADJ;DAT;FEM;SG
+речной		ADJ;DAT;PL
+речной		ADJ;ACC;FEM;SG
+речной		ADJ;GEN;MASC;SG
+речной		ADJ;GEN;PL
+речной		ADJ;INS;FEM;SG
+речной	речного	ADJ;GEN;NEUT;SG
+речной		ADJ;INS;NEUT;SG
+речной		ADJ;NOM;PL
+речной		ADJ;NOM;MASC;SG
+речной		ADJ;ESS;NEUT;SG
+речной	речной	ADJ;GEN;FEM;SG
+речной		ADJ;ANIM;ACC;MASC;SG
+речной	речными	ADJ;INS;PL
+речной		ADJ;ACC;INAN;PL
+речной		ADJ;ACC;ANIM;PL
+речной		ADJ;ESS;MASC;SG
+речной		ADJ;DAT;MASC;SG
+речной		ADJ;NOM;NEUT;SG
+речной		ADJ;INS;MASC;SG
+речной		ADJ;ACC;NEUT;SG
+речной		ADJ;INAN;ACC;MASC;SG
+речной		ADJ;DAT;NEUT;SG
+речной	речная	ADJ;NOM;FEM;SG
+речной		ADJ;ESS;PL
+речной		ADJ;ESS;FEM;SG
+подразделение		N;GEN;PL
+подразделение		N;NOM;PL
+подразделение		N;NOM;SG
+подразделение		N;INS;PL
+подразделение		N;ESS;PL
+подразделение		N;ESS;SG
+подразделение		N;GEN;SG
+подразделение		N;INS;SG
+подразделение		N;DAT;SG
+подразделение		N;ACC;PL
+подразделение		N;ACC;SG
+подразделение	подразделениям	N;DAT;PL
+мальчик		N;NOM;PL
+мальчик		N;GEN;PL
+мальчик		N;GEN;SG
+мальчик		N;INS;PL
+мальчик		N;ESS;PL
+мальчик		N;ESS;SG
+мальчик		N;NOM;SG
+мальчик		N;INS;SG
+мальчик	мальчику	N;DAT;SG
+мальчик		N;ACC;SG
+мальчик		N;DAT;PL
+непрерывный		ADJ;DAT;FEM;SG
+непрерывный		ADJ;DAT;PL
+непрерывный		ADJ;ACC;FEM;SG
+непрерывный		ADJ;MASC;SG;LGSPEC1
+непрерывный		ADJ;GEN;MASC;SG
+непрерывный		ADJ;GEN;PL
+непрерывный		ADJ;INS;FEM;SG
+непрерывный		ADJ;GEN;NEUT;SG
+непрерывный		ADJ;INS;NEUT;SG
+непрерывный		ADJ;NOM;PL
+непрерывный		ADJ;NEUT;SG;LGSPEC1
+непрерывный		ADJ;FEM;SG;LGSPEC1
+непрерывный		ADJ;NOM;MASC;SG
+непрерывный	непрерывном	ADJ;ESS;NEUT;SG
+непрерывный		ADJ;GEN;FEM;SG
+непрерывный		ADJ;ANIM;ACC;MASC;SG
+непрерывный	непрерывны	ADJ;PL;LGSPEC1
+непрерывный		ADJ;INS;PL
+непрерывный		ADJ;ACC;INAN;PL
+непрерывный	непрерывных	ADJ;ACC;ANIM;PL
+непрерывный		ADJ;ESS;MASC;SG
+непрерывный		ADJ;DAT;MASC;SG
+непрерывный	непрерывное	ADJ;NOM;NEUT;SG
+непрерывный		ADJ;INS;MASC;SG
+непрерывный		ADJ;ACC;NEUT;SG
+непрерывный		ADJ;INAN;ACC;MASC;SG
+непрерывный		ADJ;DAT;NEUT;SG
+непрерывный		ADJ;NOM;FEM;SG
+непрерывный	непрерывных	ADJ;ESS;PL
+непрерывный		ADJ;ESS;FEM;SG
+отмечаться		V;FUT;2;PL
+отмечаться		V.CVB;PST
+отмечаться		V;PRS;2;PL
+отмечаться	будет отмечаться	V;FUT;3;SG
+отмечаться		V.PTCP;ACT;PRS
+отмечаться		V;FUT;1;SG
+отмечаться		V;IMP;2;SG
+отмечаться		V;PRS;3;SG
+отмечаться	отмечаюсь	V;PRS;1;SG
+отмечаться		V;FUT;3;PL
+отмечаться	отмечался	V;PST;SG;MASC
+отмечаться		V;FUT;2;SG
+отмечаться		V;PST;PL
+отмечаться		V.CVB;PRS
+отмечаться		V;PST;SG;NEUT
+отмечаться		V.PTCP;ACT;PST
+отмечаться	отмечаешься	V;PRS;2;SG
+отмечаться		V;IMP;2;PL
+отмечаться		V;NFIN
+отмечаться		V;PRS;3;PL
+отмечаться		V;PST;SG;FEM
+отмечаться		V;FUT;1;PL
+отмечаться		V;PRS;1;PL
+департамент		N;GEN;PL
+департамент		N;NOM;PL
+департамент		N;GEN;SG
+департамент		N;INS;PL
+департамент	департаментах	N;ESS;PL
+департамент		N;ESS;SG
+департамент		N;NOM;SG
+департамент		N;INS;SG
+департамент		N;DAT;SG
+департамент		N;ACC;PL
+департамент		N;ACC;SG
+департамент		N;DAT;PL
+эскалатор		N;GEN;PL
+эскалатор		N;NOM;PL
+эскалатор		N;GEN;SG
+эскалатор		N;INS;PL
+эскалатор		N;ESS;PL
+эскалатор		N;ESS;SG
+эскалатор	эскалатор	N;NOM;SG
+эскалатор		N;INS;SG
+эскалатор		N;DAT;SG
+эскалатор		N;ACC;SG
+эскалатор		N;DAT;PL
+продюсер		N;GEN;PL
+продюсер		N;NOM;PL
+продюсер		N;GEN;SG
+продюсер		N;INS;PL
+продюсер		N;ESS;PL
+продюсер		N;ESS;SG
+продюсер		N;NOM;SG
+продюсер	продюсером	N;INS;SG
+продюсер		N;DAT;SG
+продюсер		N;ACC;PL
+продюсер		N;ACC;SG
+продюсер		N;DAT;PL
+мастер		N;NOM;PL
+мастер		N;GEN;PL
+мастер		N;GEN;SG
+мастер		N;INS;PL
+мастер		N;ESS;PL
+мастер		N;ESS;SG
+мастер		N;NOM;SG
+мастер		N;INS;SG
+мастер	мастеру	N;DAT;SG
+мастер		N;ACC;SG
+мастер		N;DAT;PL
+брат		N;GEN;PL
+брат		N;NOM;PL
+брат	брата	N;GEN;SG
+брат		N;INS;PL
+брат		N;ESS;PL
+брат		N;ESS;SG
+брат		N;NOM;SG
+брат		N;INS;SG
+брат		N;DAT;SG
+брат		N;ACC;SG
+брат		N;DAT;PL
+пользователь		N;GEN;PL
+пользователь		N;NOM;PL
+пользователь		N;NOM;SG
+пользователь		N;INS;PL
+пользователь		N;ESS;PL
+пользователь		N;ESS;SG
+пользователь		N;GEN;SG
+пользователь		N;INS;SG
+пользователь		N;DAT;SG
+пользователь		N;ACC;PL
+пользователь		N;ACC;SG
+пользователь	пользователям	N;DAT;PL
+московский		ADJ;DAT;FEM;SG
+московский		ADJ;DAT;PL
+московский		ADJ;ACC;FEM;SG
+московский		ADJ;GEN;MASC;SG
+московский		ADJ;GEN;PL
+московский		ADJ;INS;FEM;SG
+московский		ADJ;GEN;NEUT;SG
+московский		ADJ;INS;NEUT;SG
+московский	московские	ADJ;NOM;PL
+московский		ADJ;NOM;MASC;SG
+московский	московском	ADJ;ESS;NEUT;SG
+московский		ADJ;GEN;FEM;SG
+московский		ADJ;ANIM;ACC;MASC;SG
+московский		ADJ;INS;PL
+московский		ADJ;ACC;INAN;PL
+московский	московских	ADJ;ACC;ANIM;PL
+московский		ADJ;ESS;MASC;SG
+московский		ADJ;DAT;MASC;SG
+московский	московское	ADJ;NOM;NEUT;SG
+московский		ADJ;INS;MASC;SG
+московский		ADJ;ACC;NEUT;SG
+московский		ADJ;INAN;ACC;MASC;SG
+московский		ADJ;DAT;NEUT;SG
+московский		ADJ;NOM;FEM;SG
+московский		ADJ;ESS;PL
+московский		ADJ;ESS;FEM;SG
+ассистент	ассистентов	N;GEN;PL
+ассистент		N;NOM;PL
+ассистент		N;GEN;SG
+ассистент		N;INS;PL
+ассистент		N;ESS;PL
+ассистент		N;ESS;SG
+ассистент		N;NOM;SG
+ассистент		N;INS;SG
+ассистент		N;DAT;SG
+ассистент		N;ACC;PL
+ассистент		N;ACC;SG
+ассистент		N;DAT;PL
+американский		ADJ;DAT;FEM;SG
+американский		ADJ;DAT;PL
+американский	американскую	ADJ;ACC;FEM;SG
+американский		ADJ;GEN;MASC;SG
+американский		ADJ;GEN;PL
+американский		ADJ;INS;FEM;SG
+американский		ADJ;GEN;NEUT;SG
+американский		ADJ;INS;NEUT;SG
+американский		ADJ;NOM;PL
+американский		ADJ;NOM;MASC;SG
+американский	американском	ADJ;ESS;NEUT;SG
+американский		ADJ;GEN;FEM;SG
+американский		ADJ;ANIM;ACC;MASC;SG
+американский		ADJ;INS;PL
+американский		ADJ;ACC;INAN;PL
+американский		ADJ;ACC;ANIM;PL
+американский		ADJ;ESS;MASC;SG
+американский	американскому	ADJ;DAT;MASC;SG
+американский	американское	ADJ;NOM;NEUT;SG
+американский		ADJ;INS;MASC;SG
+американский		ADJ;ACC;NEUT;SG
+американский		ADJ;INAN;ACC;MASC;SG
+американский		ADJ;DAT;NEUT;SG
+американский		ADJ;NOM;FEM;SG
+американский		ADJ;ESS;PL
+американский		ADJ;ESS;FEM;SG
+обосноваться		V;FUT;2;SG
+обосноваться		V;PST;PL
+обосноваться		V;FUT;2;PL
+обосноваться		V.CVB;PST
+обосноваться		V;PST;SG;FEM
+обосноваться		V;PST;SG;NEUT
+обосноваться		V;FUT;1;PL
+обосноваться	обоснуется	V;FUT;3;SG
+обосноваться		V;FUT;1;SG
+обосноваться		V.PTCP;ACT;PST
+обосноваться		V;FUT;3;PL
+обосноваться		V;IMP;2;SG
+обосноваться	обоснуйтесь	V;IMP;2;PL
+обосноваться		V;NFIN
+обосноваться		V;PST;SG;MASC
+альтернативный		ADJ;DAT;FEM;SG
+альтернативный		ADJ;DAT;PL
+альтернативный	альтернативную	ADJ;ACC;FEM;SG
+альтернативный		ADJ;GEN;MASC;SG
+альтернативный	альтернативных	ADJ;GEN;PL
+альтернативный		ADJ;INS;FEM;SG
+альтернативный		ADJ;GEN;NEUT;SG
+альтернативный		ADJ;INS;NEUT;SG
+альтернативный		ADJ;NOM;PL
+альтернативный		ADJ;NOM;MASC;SG
+альтернативный		ADJ;ESS;NEUT;SG
+альтернативный	альтернативной	ADJ;GEN;FEM;SG
+альтернативный		ADJ;ANIM;ACC;MASC;SG
+альтернативный		ADJ;INS;PL
+альтернативный		ADJ;ACC;INAN;PL
+альтернативный		ADJ;ACC;ANIM;PL
+альтернативный		ADJ;ESS;MASC;SG
+альтернативный		ADJ;DAT;MASC;SG
+альтернативный		ADJ;NOM;NEUT;SG
+альтернативный		ADJ;INS;MASC;SG
+альтернативный		ADJ;ACC;NEUT;SG
+альтернативный	альтернативный	ADJ;INAN;ACC;MASC;SG
+альтернативный		ADJ;DAT;NEUT;SG
+альтернативный		ADJ;NOM;FEM;SG
+альтернативный		ADJ;ESS;PL
+альтернативный		ADJ;ESS;FEM;SG
+кратер		N;GEN;PL
+кратер		N;NOM;PL
+кратер		N;GEN;SG
+кратер		N;INS;PL
+кратер		N;ESS;PL
+кратер		N;ESS;SG
+кратер		N;NOM;SG
+кратер		N;INS;SG
+кратер		N;DAT;SG
+кратер		N;ACC;PL
+кратер	кратер	N;ACC;SG
+кратер		N;DAT;PL
+извержение		N;GEN;PL
+извержение		N;NOM;PL
+извержение		N;NOM;SG
+извержение		N;INS;PL
+извержение		N;ESS;PL
+извержение		N;ESS;SG
+извержение		N;GEN;SG
+извержение		N;INS;SG
+извержение		N;DAT;SG
+извержение		N;ACC;PL
+извержение	извержение	N;ACC;SG
+извержение		N;DAT;PL
+демократический	демократической	ADJ;DAT;FEM;SG
+демократический		ADJ;DAT;PL
+демократический		ADJ;ACC;FEM;SG
+демократический		ADJ;GEN;MASC;SG
+демократический		ADJ;GEN;PL
+демократический		ADJ;INS;FEM;SG
+демократический		ADJ;GEN;NEUT;SG
+демократический		ADJ;INS;NEUT;SG
+демократический		ADJ;NOM;PL
+демократический		ADJ;NOM;MASC;SG
+демократический	демократическом	ADJ;ESS;NEUT;SG
+демократический		ADJ;GEN;FEM;SG
+демократический		ADJ;ANIM;ACC;MASC;SG
+демократический		ADJ;INS;PL
+демократический	демократические	ADJ;ACC;INAN;PL
+демократический		ADJ;ACC;ANIM;PL
+демократический		ADJ;ESS;MASC;SG
+демократический		ADJ;DAT;MASC;SG
+демократический		ADJ;NOM;NEUT;SG
+демократический	демократическим	ADJ;INS;MASC;SG
+демократический		ADJ;ACC;NEUT;SG
+демократический		ADJ;INAN;ACC;MASC;SG
+демократический		ADJ;DAT;NEUT;SG
+демократический		ADJ;NOM;FEM;SG
+демократический		ADJ;ESS;PL
+демократический		ADJ;ESS;FEM;SG
+розыгрыш		N;GEN;PL
+розыгрыш		N;NOM;PL
+розыгрыш		N;GEN;SG
+розыгрыш		N;INS;PL
+розыгрыш		N;ESS;PL
+розыгрыш		N;ESS;SG
+розыгрыш	розыгрыш	N;NOM;SG
+розыгрыш		N;INS;SG
+розыгрыш		N;DAT;SG
+розыгрыш		N;ACC;PL
+розыгрыш		N;ACC;SG
+розыгрыш		N;DAT;PL
+технология		N;NOM;PL
+технология		N;GEN;PL
+технология		N;GEN;SG
+технология		N;INS;PL
+технология	технологиях	N;ESS;PL
+технология		N;ESS;SG
+технология		N;NOM;SG
+технология		N;INS;SG
+технология		N;DAT;SG
+технология		N;ACC;PL
+технология		N;ACC;SG
+технология		N;DAT;PL
+латинский	латинской	ADJ;DAT;FEM;SG
+латинский		ADJ;DAT;PL
+латинский		ADJ;ACC;FEM;SG
+латинский		ADJ;GEN;MASC;SG
+латинский		ADJ;GEN;PL
+латинский		ADJ;INS;FEM;SG
+латинский		ADJ;GEN;NEUT;SG
+латинский		ADJ;INS;NEUT;SG
+латинский		ADJ;NOM;PL
+латинский		ADJ;NOM;MASC;SG
+латинский	латинском	ADJ;ESS;NEUT;SG
+латинский		ADJ;GEN;FEM;SG
+латинский		ADJ;ANIM;ACC;MASC;SG
+латинский		ADJ;INS;PL
+латинский		ADJ;ACC;INAN;PL
+латинский		ADJ;ACC;ANIM;PL
+латинский		ADJ;ESS;MASC;SG
+латинский		ADJ;DAT;MASC;SG
+латинский	латинское	ADJ;NOM;NEUT;SG
+латинский		ADJ;INS;MASC;SG
+латинский		ADJ;ACC;NEUT;SG
+латинский	латинский	ADJ;INAN;ACC;MASC;SG
+латинский		ADJ;DAT;NEUT;SG
+латинский		ADJ;NOM;FEM;SG
+латинский		ADJ;ESS;PL
+латинский		ADJ;ESS;FEM;SG
+достижение	достижений	N;GEN;PL
+достижение		N;NOM;PL
+достижение		N;NOM;SG
+достижение		N;INS;PL
+достижение		N;ESS;PL
+достижение		N;ESS;SG
+достижение		N;GEN;SG
+достижение		N;INS;SG
+достижение		N;DAT;SG
+достижение		N;ACC;SG
+достижение		N;DAT;PL
+склонность		N;GEN;PL
+склонность		N;NOM;PL
+склонность		N;GEN;SG
+склонность		N;INS;PL
+склонность		N;ESS;PL
+склонность		N;ESS;SG
+склонность		N;NOM;SG
+склонность		N;INS;SG
+склонность		N;DAT;SG
+склонность		N;ACC;PL
+склонность	склонность	N;ACC;SG
+склонность		N;DAT;PL
+монстр		N;GEN;PL
+монстр		N;NOM;PL
+монстр		N;GEN;SG
+монстр		N;INS;PL
+монстр		N;ESS;PL
+монстр		N;ESS;SG
+монстр		N;NOM;SG
+монстр		N;INS;SG
+монстр		N;DAT;SG
+монстр		N;ACC;PL
+монстр	монстра	N;ACC;SG
+монстр		N;DAT;PL
+подряд		N;GEN;PL
+подряд		N;NOM;PL
+подряд		N;GEN;SG
+подряд		N;INS;PL
+подряд		N;ESS;PL
+подряд		N;ESS;SG
+подряд		N;NOM;SG
+подряд	подрядом	N;INS;SG
+подряд		N;DAT;SG
+подряд		N;ACC;PL
+подряд		N;ACC;SG
+подряд		N;DAT;PL
+этноним		N;GEN;PL
+этноним		N;NOM;PL
+этноним	этнонима	N;GEN;SG
+этноним		N;INS;PL
+этноним		N;ESS;PL
+этноним		N;ESS;SG
+этноним		N;NOM;SG
+этноним		N;INS;SG
+этноним		N;DAT;SG
+этноним		N;ACC;PL
+этноним		N;ACC;SG
+этноним		N;DAT;PL
+пожар		N;GEN;PL
+пожар		N;NOM;PL
+пожар		N;GEN;SG
+пожар		N;INS;PL
+пожар		N;ESS;PL
+пожар		N;ESS;SG
+пожар		N;NOM;SG
+пожар		N;INS;SG
+пожар		N;DAT;SG
+пожар		N;ACC;PL
+пожар	пожар	N;ACC;SG
+пожар		N;DAT;PL
+журналист		N;GEN;PL
+журналист		N;NOM;PL
+журналист	журналиста	N;GEN;SG
+журналист		N;INS;PL
+журналист		N;ESS;PL
+журналист		N;ESS;SG
+журналист		N;NOM;SG
+журналист		N;INS;SG
+журналист		N;DAT;SG
+журналист		N;ACC;SG
+журналист		N;DAT;PL
+хоккеист		N;GEN;PL
+хоккеист		N;NOM;PL
+хоккеист		N;GEN;SG
+хоккеист		N;INS;PL
+хоккеист		N;ESS;PL
+хоккеист	хоккеисте	N;ESS;SG
+хоккеист		N;NOM;SG
+хоккеист		N;INS;SG
+хоккеист		N;DAT;SG
+хоккеист		N;ACC;PL
+хоккеист		N;ACC;SG
+хоккеист		N;DAT;PL
+локальный		ADJ;DAT;FEM;SG
+локальный		ADJ;DAT;PL
+локальный		ADJ;ACC;FEM;SG
+локальный	локального	ADJ;GEN;MASC;SG
+локальный		ADJ;GEN;PL
+локальный	локальной	ADJ;INS;FEM;SG
+локальный		ADJ;GEN;NEUT;SG
+локальный		ADJ;INS;NEUT;SG
+локальный		ADJ;NOM;PL
+локальный		ADJ;NOM;MASC;SG
+локальный	локальном	ADJ;ESS;NEUT;SG
+локальный		ADJ;GEN;FEM;SG
+локальный		ADJ;ANIM;ACC;MASC;SG
+локальный		ADJ;INS;PL
+локальный		ADJ;ACC;INAN;PL
+локальный		ADJ;ACC;ANIM;PL
+локальный	локальном	ADJ;ESS;MASC;SG
+локальный		ADJ;DAT;MASC;SG
+локальный		ADJ;NOM;NEUT;SG
+локальный		ADJ;INS;MASC;SG
+локальный		ADJ;ACC;NEUT;SG
+локальный		ADJ;INAN;ACC;MASC;SG
+локальный		ADJ;DAT;NEUT;SG
+локальный		ADJ;NOM;FEM;SG
+локальный		ADJ;ESS;PL
+локальный		ADJ;ESS;FEM;SG
+пескарь		N;GEN;PL
+пескарь		N;NOM;PL
+пескарь		N;NOM;SG
+пескарь		N;INS;PL
+пескарь		N;ESS;PL
+пескарь		N;ESS;SG
+пескарь		N;GEN;SG
+пескарь		N;INS;SG
+пескарь		N;DAT;SG
+пескарь		N;ACC;PL
+пескарь		N;ACC;SG
+пескарь	пескарям	N;DAT;PL
+вертолёт		N;GEN;PL
+вертолёт		N;NOM;PL
+вертолёт		N;GEN;SG
+вертолёт		N;INS;PL
+вертолёт		N;ESS;PL
+вертолёт		N;ESS;SG
+вертолёт		N;NOM;SG
+вертолёт	вертолётом	N;INS;SG
+вертолёт		N;DAT;SG
+вертолёт		N;ACC;PL
+вертолёт		N;ACC;SG
+вертолёт		N;DAT;PL
+ящерица	ящериц	N;GEN;PL
+ящерица		N;NOM;PL
+ящерица		N;NOM;SG
+ящерица		N;INS;PL
+ящерица		N;ESS;PL
+ящерица		N;ESS;SG
+ящерица		N;GEN;SG
+ящерица		N;INS;SG
+ящерица		N;DAT;SG
+ящерица		N;ACC;SG
+ящерица		N;DAT;PL
+обучение		N;GEN;PL
+обучение		N;NOM;PL
+обучение	обучение	N;NOM;SG
+обучение		N;INS;PL
+обучение		N;ESS;PL
+обучение		N;ESS;SG
+обучение		N;GEN;SG
+обучение		N;INS;SG
+обучение		N;DAT;SG
+обучение		N;ACC;PL
+обучение		N;ACC;SG
+обучение		N;DAT;PL
+продолжительность		N;GEN;PL
+продолжительность		N;NOM;PL
+продолжительность		N;GEN;SG
+продолжительность		N;INS;PL
+продолжительность		N;ESS;PL
+продолжительность	продолжительности	N;ESS;SG
+продолжительность		N;NOM;SG
+продолжительность		N;INS;SG
+продолжительность		N;DAT;SG
+продолжительность		N;ACC;SG
+продолжительность		N;DAT;PL
+толковый		ADJ;DAT;FEM;SG
+толковый		ADJ;DAT;PL
+толковый		ADJ;ACC;FEM;SG
+толковый	толков	ADJ;MASC;SG;LGSPEC1
+толковый		ADJ;GEN;MASC;SG
+толковый		ADJ;GEN;PL
+толковый		ADJ;INS;FEM;SG
+толковый		ADJ;GEN;NEUT;SG
+толковый		ADJ;INS;NEUT;SG
+толковый		ADJ;NOM;PL
+толковый		ADJ;NEUT;SG;LGSPEC1
+толковый		ADJ;FEM;SG;LGSPEC1
+толковый		ADJ;NOM;MASC;SG
+толковый	толковом	ADJ;ESS;NEUT;SG
+толковый		ADJ;GEN;FEM;SG
+толковый		ADJ;ANIM;ACC;MASC;SG
+толковый	толковы	ADJ;PL;LGSPEC1
+толковый		ADJ;INS;PL
+толковый		ADJ;ACC;INAN;PL
+толковый		ADJ;ACC;ANIM;PL
+толковый	толковом	ADJ;ESS;MASC;SG
+толковый		ADJ;DAT;MASC;SG
+толковый		ADJ;NOM;NEUT;SG
+толковый		ADJ;INS;MASC;SG
+толковый		ADJ;ACC;NEUT;SG
+толковый		ADJ;INAN;ACC;MASC;SG
+толковый		ADJ;DAT;NEUT;SG
+толковый		ADJ;NOM;FEM;SG
+толковый	толковых	ADJ;ESS;PL
+толковый		ADJ;ESS;FEM;SG
+эль		N;GEN;PL
+эль		N;NOM;PL
+эль		N;NOM;SG
+эль	элями	N;INS;PL
+эль		N;ESS;PL
+эль		N;ESS;SG
+эль		N;GEN;SG
+эль		N;INS;SG
+эль		N;DAT;SG
+эль		N;ACC;SG
+эль		N;DAT;PL
+базар		N;GEN;PL
+базар		N;NOM;PL
+базар		N;GEN;SG
+базар	базарами	N;INS;PL
+базар		N;ESS;PL
+базар		N;ESS;SG
+базар		N;NOM;SG
+базар		N;INS;SG
+базар		N;DAT;SG
+базар		N;ACC;SG
+базар		N;DAT;PL
+чешский		N;INS;SG
+чешский		N;ESS;SG
+чешский		N;NOM;SG
+чешский		N;GEN;SG
+чешский		N;ACC;SG
+аудит		N;GEN;PL
+аудит		N;NOM;PL
+аудит		N;GEN;SG
+аудит		N;INS;PL
+аудит	аудитах	N;ESS;PL
+аудит		N;ESS;SG
+аудит		N;NOM;SG
+аудит		N;INS;SG
+аудит		N;DAT;SG
+аудит		N;ACC;PL
+аудит		N;ACC;SG
+аудит		N;DAT;PL
+отчёт		N;GEN;PL
+отчёт		N;NOM;PL
+отчёт		N;GEN;SG
+отчёт		N;INS;PL
+отчёт		N;ESS;PL
+отчёт		N;ESS;SG
+отчёт		N;NOM;SG
+отчёт	отчётом	N;INS;SG
+отчёт		N;DAT;SG
+отчёт		N;ACC;PL
+отчёт		N;ACC;SG
+отчёт		N;DAT;PL
+прозвище	прозвищ	N;GEN;PL
+прозвище		N;NOM;PL
+прозвище		N;GEN;SG
+прозвище		N;INS;PL
+прозвище		N;ESS;PL
+прозвище		N;ESS;SG
+прозвище		N;NOM;SG
+прозвище		N;INS;SG
+прозвище		N;DAT;SG
+прозвище		N;ACC;PL
+прозвище		N;ACC;SG
+прозвище		N;DAT;PL
+боярин		N;GEN;PL
+боярин		N;NOM;PL
+боярин		N;NOM;SG
+боярин		N;INS;PL
+боярин		N;ESS;PL
+боярин		N;ESS;SG
+боярин	боярина	N;GEN;SG
+боярин		N;INS;SG
+боярин		N;DAT;SG
+боярин		N;ACC;PL
+боярин		N;ACC;SG
+боярин		N;DAT;PL
+городской		ADJ;DAT;FEM;SG
+городской		ADJ;DAT;PL
+городской		ADJ;ACC;FEM;SG
+городской		ADJ;GEN;MASC;SG
+городской		ADJ;GEN;PL
+городской		ADJ;INS;FEM;SG
+городской		ADJ;GEN;NEUT;SG
+городской		ADJ;INS;NEUT;SG
+городской	городские	ADJ;NOM;PL
+городской		ADJ;NOM;MASC;SG
+городской		ADJ;ESS;NEUT;SG
+городской	городской	ADJ;GEN;FEM;SG
+городской		ADJ;ANIM;ACC;MASC;SG
+городской		ADJ;INS;PL
+городской		ADJ;ACC;INAN;PL
+городской		ADJ;ACC;ANIM;PL
+городской		ADJ;ESS;MASC;SG
+городской		ADJ;DAT;MASC;SG
+городской		ADJ;NOM;NEUT;SG
+городской	городским	ADJ;INS;MASC;SG
+городской		ADJ;ACC;NEUT;SG
+городской		ADJ;INAN;ACC;MASC;SG
+городской		ADJ;DAT;NEUT;SG
+городской	городская	ADJ;NOM;FEM;SG
+городской		ADJ;ESS;PL
+городской		ADJ;ESS;FEM;SG
+аттестат		N;GEN;PL
+аттестат		N;NOM;PL
+аттестат		N;GEN;SG
+аттестат		N;INS;PL
+аттестат		N;ESS;PL
+аттестат		N;ESS;SG
+аттестат		N;NOM;SG
+аттестат		N;INS;SG
+аттестат		N;DAT;SG
+аттестат	аттестаты	N;ACC;PL
+аттестат		N;ACC;SG
+аттестат		N;DAT;PL
+акт		N;GEN;PL
+акт		N;NOM;PL
+акт		N;GEN;SG
+акт		N;INS;PL
+акт		N;ESS;PL
+акт		N;ESS;SG
+акт		N;NOM;SG
+акт	актом	N;INS;SG
+акт		N;DAT;SG
+акт		N;ACC;PL
+акт		N;ACC;SG
+акт		N;DAT;PL
+колхоз		N;GEN;PL
+колхоз		N;NOM;PL
+колхоз		N;GEN;SG
+колхоз		N;INS;PL
+колхоз		N;ESS;PL
+колхоз		N;ESS;SG
+колхоз		N;NOM;SG
+колхоз	колхозом	N;INS;SG
+колхоз		N;DAT;SG
+колхоз		N;ACC;PL
+колхоз		N;ACC;SG
+колхоз		N;DAT;PL

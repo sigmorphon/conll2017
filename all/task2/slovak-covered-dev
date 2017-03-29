@@ -1,0 +1,783 @@
+hôrka		N;NOM;PL
+hôrka		N;GEN;PL
+hôrka		N;NOM;SG
+hôrka		N;INS;PL
+hôrka		N;ESS;PL
+hôrka	hôrke	N;ESS;SG
+hôrka		N;GEN;SG
+hôrka		N;INS;SG
+hôrka		N;DAT;SG
+hôrka		N;ACC;PL
+hôrka		N;ACC;SG
+hôrka		N;DAT;PL
+hnedý		ADJ;NEUT;DAT;SG
+hnedý		ADJ;FEM;DAT;SG
+hnedý		ADJ;DAT;PL
+hnedý	hnedý	ADJ;MASC;NOM;SG
+hnedý		ADJ;MASC;DAT;SG
+hnedý	hnedým	ADJ;MASC;INS;SG
+hnedý		ADJ;MASC;ANIM;NOM;PL
+hnedý		ADJ;GEN;PL
+hnedý		ADJ;NEUT;ACC;SG
+hnedý		ADJ;FEM;ACC;SG
+hnedý		ADJ;NOM;PL
+hnedý		ADJ;NEUT;ESS;SG
+hnedý		ADJ;FEM;ESS;SG
+hnedý		ADJ;ACC;PL
+hnedý		ADJ;FEM;GEN;SG
+hnedý		ADJ;NEUT;GEN;SG
+hnedý	hnedou	ADJ;FEM;INS;SG
+hnedý	hnedým	ADJ;NEUT;INS;SG
+hnedý		ADJ;MASC;INAN;ACC;SG
+hnedý		ADJ;MASC;ANIM;ACC;SG
+hnedý		ADJ;INS;PL
+hnedý		ADJ;MASC;ANIM;ACC;PL
+hnedý		ADJ;FEM;NOM;SG
+hnedý		ADJ;NEUT;NOM;SG
+hnedý		ADJ;MASC;ESS;SG
+hnedý		ADJ;MASC;GEN;SG
+hnedý		ADJ;ESS;PL
+kilogram		N;GEN;PL
+kilogram		N;NOM;PL
+kilogram		N;NOM;SG
+kilogram		N;INS;PL
+kilogram		N;ESS;PL
+kilogram		N;ESS;SG
+kilogram		N;GEN;SG
+kilogram		N;INS;SG
+kilogram		N;DAT;SG
+kilogram		N;ACC;PL
+kilogram		N;ACC;SG
+kilogram	kilogramom	N;DAT;PL
+vankúš		N;NOM;PL
+vankúš		N;GEN;PL
+vankúš		N;GEN;SG
+vankúš		N;INS;PL
+vankúš		N;ESS;PL
+vankúš		N;ESS;SG
+vankúš		N;NOM;SG
+vankúš	vankúšom	N;INS;SG
+vankúš		N;DAT;SG
+vankúš		N;ACC;PL
+vankúš		N;ACC;SG
+vankúš		N;DAT;PL
+brázda	brázd	N;GEN;PL
+brázda		N;NOM;PL
+brázda		N;NOM;SG
+brázda		N;INS;PL
+brázda		N;ESS;PL
+brázda		N;ESS;SG
+brázda		N;GEN;SG
+brázda		N;INS;SG
+brázda		N;DAT;SG
+brázda		N;ACC;PL
+brázda		N;ACC;SG
+brázda		N;DAT;PL
+tenký		ADJ;NEUT;DAT;SG
+tenký		ADJ;FEM;DAT;SG
+tenký		ADJ;DAT;PL
+tenký		ADJ;MASC;NOM;SG
+tenký		ADJ;MASC;DAT;SG
+tenký		ADJ;MASC;INS;SG
+tenký	tenkí	ADJ;MASC;ANIM;NOM;PL
+tenký		ADJ;GEN;PL
+tenký		ADJ;NEUT;ACC;SG
+tenký		ADJ;FEM;ACC;SG
+tenký		ADJ;NOM;PL
+tenký	tenkom	ADJ;NEUT;ESS;SG
+tenký	tenkej	ADJ;FEM;ESS;SG
+tenký		ADJ;ACC;PL
+tenký		ADJ;FEM;GEN;SG
+tenký		ADJ;NEUT;GEN;SG
+tenký		ADJ;FEM;INS;SG
+tenký		ADJ;NEUT;INS;SG
+tenký	tenký	ADJ;MASC;INAN;ACC;SG
+tenký		ADJ;MASC;ANIM;ACC;SG
+tenký		ADJ;INS;PL
+tenký		ADJ;MASC;ANIM;ACC;PL
+tenký		ADJ;FEM;NOM;SG
+tenký		ADJ;NEUT;NOM;SG
+tenký		ADJ;MASC;ESS;SG
+tenký		ADJ;MASC;GEN;SG
+tenký		ADJ;ESS;PL
+vodík		N;GEN;SG
+vodík		N;ESS;SG
+vodík		N;NOM;SG
+vodík		N;INS;SG
+vodík		N;DAT;SG
+vodík		N;ACC;SG
+jastrab		N;GEN;PL
+jastrab	jastraby	N;NOM;PL
+jastrab		N;GEN;SG
+jastrab		N;INS;PL
+jastrab		N;ESS;PL
+jastrab		N;ESS;SG
+jastrab		N;NOM;SG
+jastrab		N;INS;SG
+jastrab		N;DAT;SG
+jastrab		N;ACC;PL
+jastrab		N;ACC;SG
+jastrab		N;DAT;PL
+životopis		N;GEN;PL
+životopis		N;NOM;PL
+životopis		N;GEN;SG
+životopis		N;INS;PL
+životopis		N;ESS;PL
+životopis		N;ESS;SG
+životopis		N;NOM;SG
+životopis		N;INS;SG
+životopis		N;DAT;SG
+životopis		N;ACC;PL
+životopis		N;ACC;SG
+životopis	životopisom	N;DAT;PL
+nahý		ADJ;NEUT;DAT;SG
+nahý	nahej	ADJ;FEM;DAT;SG
+nahý		ADJ;DAT;PL
+nahý		ADJ;MASC;NOM;SG
+nahý		ADJ;MASC;DAT;SG
+nahý		ADJ;MASC;INS;SG
+nahý	nahí	ADJ;MASC;ANIM;NOM;PL
+nahý		ADJ;GEN;PL
+nahý		ADJ;NEUT;ACC;SG
+nahý		ADJ;FEM;ACC;SG
+nahý		ADJ;NOM;PL
+nahý		ADJ;NEUT;ESS;SG
+nahý		ADJ;FEM;ESS;SG
+nahý		ADJ;ACC;PL
+nahý		ADJ;FEM;GEN;SG
+nahý		ADJ;NEUT;GEN;SG
+nahý		ADJ;FEM;INS;SG
+nahý		ADJ;NEUT;INS;SG
+nahý		ADJ;MASC;INAN;ACC;SG
+nahý		ADJ;MASC;ANIM;ACC;SG
+nahý		ADJ;INS;PL
+nahý	nahých	ADJ;MASC;ANIM;ACC;PL
+nahý		ADJ;FEM;NOM;SG
+nahý		ADJ;NEUT;NOM;SG
+nahý		ADJ;MASC;ESS;SG
+nahý	nahého	ADJ;MASC;GEN;SG
+nahý		ADJ;ESS;PL
+rameno		N;NOM;PL
+rameno		N;GEN;PL
+rameno		N;GEN;SG
+rameno		N;INS;PL
+rameno		N;ESS;PL
+rameno		N;ESS;SG
+rameno		N;NOM;SG
+rameno		N;INS;SG
+rameno		N;DAT;SG
+rameno		N;ACC;PL
+rameno	rameno	N;ACC;SG
+rameno		N;DAT;PL
+kôra		N;GEN;PL
+kôra		N;NOM;PL
+kôra		N;NOM;SG
+kôra		N;INS;PL
+kôra		N;ESS;PL
+kôra		N;ESS;SG
+kôra		N;GEN;SG
+kôra		N;INS;SG
+kôra		N;DAT;SG
+kôra	kôry	N;ACC;PL
+kôra		N;ACC;SG
+kôra		N;DAT;PL
+uhličitý		ADJ;NEUT;DAT;SG
+uhličitý		ADJ;FEM;DAT;SG
+uhličitý		ADJ;DAT;PL
+uhličitý		ADJ;MASC;NOM;SG
+uhličitý		ADJ;MASC;DAT;SG
+uhličitý	uhličitým	ADJ;MASC;INS;SG
+uhličitý	uhličití	ADJ;MASC;ANIM;NOM;PL
+uhličitý		ADJ;GEN;PL
+uhličitý	uhličité	ADJ;NEUT;ACC;SG
+uhličitý		ADJ;FEM;ACC;SG
+uhličitý		ADJ;NOM;PL
+uhličitý		ADJ;NEUT;ESS;SG
+uhličitý		ADJ;FEM;ESS;SG
+uhličitý		ADJ;ACC;PL
+uhličitý		ADJ;FEM;GEN;SG
+uhličitý	uhličitého	ADJ;NEUT;GEN;SG
+uhličitý		ADJ;FEM;INS;SG
+uhličitý		ADJ;NEUT;INS;SG
+uhličitý		ADJ;MASC;INAN;ACC;SG
+uhličitý		ADJ;MASC;ANIM;ACC;SG
+uhličitý		ADJ;INS;PL
+uhličitý		ADJ;MASC;ANIM;ACC;PL
+uhličitý		ADJ;FEM;NOM;SG
+uhličitý		ADJ;NEUT;NOM;SG
+uhličitý		ADJ;MASC;ESS;SG
+uhličitý		ADJ;MASC;GEN;SG
+uhličitý		ADJ;ESS;PL
+lepší		ADJ;NEUT;DAT;SG
+lepší		ADJ;FEM;DAT;SG
+lepší		ADJ;DAT;PL
+lepší		ADJ;MASC;NOM;SG
+lepší		ADJ;MASC;DAT;SG
+lepší		ADJ;MASC;INS;SG
+lepší		ADJ;MASC;ANIM;NOM;PL
+lepší		ADJ;GEN;PL
+lepší	lepšie	ADJ;NEUT;ACC;SG
+lepší		ADJ;FEM;ACC;SG
+lepší		ADJ;NOM;PL
+lepší		ADJ;NEUT;ESS;SG
+lepší		ADJ;FEM;ESS;SG
+lepší		ADJ;ACC;PL
+lepší		ADJ;FEM;GEN;SG
+lepší		ADJ;NEUT;GEN;SG
+lepší	lepšou	ADJ;FEM;INS;SG
+lepší	lepším	ADJ;NEUT;INS;SG
+lepší	lepší	ADJ;MASC;INAN;ACC;SG
+lepší		ADJ;MASC;ANIM;ACC;SG
+lepší		ADJ;INS;PL
+lepší		ADJ;MASC;ANIM;ACC;PL
+lepší		ADJ;FEM;NOM;SG
+lepší		ADJ;NEUT;NOM;SG
+lepší		ADJ;MASC;ESS;SG
+lepší		ADJ;MASC;GEN;SG
+lepší		ADJ;ESS;PL
+žlna		N;GEN;PL
+žlna		N;NOM;PL
+žlna		N;NOM;SG
+žlna		N;INS;PL
+žlna		N;ESS;PL
+žlna		N;ESS;SG
+žlna		N;GEN;SG
+žlna	žlnou	N;INS;SG
+žlna		N;DAT;SG
+žlna		N;ACC;PL
+žlna		N;ACC;SG
+žlna		N;DAT;PL
+sestra		N;GEN;PL
+sestra		N;NOM;PL
+sestra		N;NOM;SG
+sestra		N;INS;PL
+sestra		N;ESS;PL
+sestra		N;ESS;SG
+sestra		N;GEN;SG
+sestra		N;INS;SG
+sestra		N;DAT;SG
+sestra		N;ACC;PL
+sestra	sestru	N;ACC;SG
+sestra		N;DAT;PL
+sneh		N;NOM;PL
+sneh		N;GEN;PL
+sneh		N;INS;PL
+sneh		N;ESS;PL
+sneh		N;ACC;PL
+sneh		N;DAT;PL
+idea		N;GEN;PL
+idea	idey	N;NOM;PL
+idea		N;NOM;SG
+idea		N;INS;PL
+idea		N;ESS;PL
+idea		N;ESS;SG
+idea		N;GEN;SG
+idea		N;INS;SG
+idea		N;DAT;SG
+idea		N;ACC;PL
+idea		N;ACC;SG
+idea		N;DAT;PL
+veda		N;NOM;PL
+veda		N;GEN;PL
+veda		N;NOM;SG
+veda	vedami	N;INS;PL
+veda		N;ESS;PL
+veda		N;ESS;SG
+veda		N;GEN;SG
+veda		N;INS;SG
+veda		N;DAT;SG
+veda		N;ACC;PL
+veda		N;ACC;SG
+veda		N;DAT;PL
+banán		N;GEN;PL
+banán		N;NOM;PL
+banán		N;GEN;SG
+banán		N;INS;PL
+banán		N;ESS;PL
+banán		N;ESS;SG
+banán	banán	N;NOM;SG
+banán		N;INS;SG
+banán		N;DAT;SG
+banán		N;ACC;PL
+banán		N;ACC;SG
+banán		N;DAT;PL
+vedec		N;NOM;PL
+vedec		N;GEN;PL
+vedec		N;GEN;SG
+vedec		N;INS;PL
+vedec		N;ESS;PL
+vedec		N;ESS;SG
+vedec		N;NOM;SG
+vedec		N;INS;SG
+vedec		N;DAT;SG
+vedec		N;ACC;PL
+vedec	vedca	N;ACC;SG
+vedec		N;DAT;PL
+léno		N;NOM;PL
+léno		N;GEN;PL
+léno		N;GEN;SG
+léno		N;INS;PL
+léno		N;ESS;PL
+léno		N;ESS;SG
+léno		N;NOM;SG
+léno		N;INS;SG
+léno		N;DAT;SG
+léno		N;ACC;PL
+léno		N;ACC;SG
+léno	lénam	N;DAT;PL
+mužský		ADJ;NEUT;DAT;SG
+mužský		ADJ;FEM;DAT;SG
+mužský		ADJ;DAT;PL
+mužský		ADJ;MASC;NOM;SG
+mužský		ADJ;MASC;DAT;SG
+mužský	mužským	ADJ;MASC;INS;SG
+mužský	mužskí	ADJ;MASC;ANIM;NOM;PL
+mužský		ADJ;GEN;PL
+mužský		ADJ;NEUT;ACC;SG
+mužský		ADJ;FEM;ACC;SG
+mužský		ADJ;NOM;PL
+mužský		ADJ;NEUT;ESS;SG
+mužský		ADJ;FEM;ESS;SG
+mužský		ADJ;ACC;PL
+mužský	mužskej	ADJ;FEM;GEN;SG
+mužský		ADJ;NEUT;GEN;SG
+mužský		ADJ;FEM;INS;SG
+mužský		ADJ;NEUT;INS;SG
+mužský		ADJ;MASC;INAN;ACC;SG
+mužský		ADJ;MASC;ANIM;ACC;SG
+mužský		ADJ;INS;PL
+mužský		ADJ;MASC;ANIM;ACC;PL
+mužský		ADJ;FEM;NOM;SG
+mužský	mužské	ADJ;NEUT;NOM;SG
+mužský		ADJ;MASC;ESS;SG
+mužský		ADJ;MASC;GEN;SG
+mužský		ADJ;ESS;PL
+európsky	európskemu	ADJ;NEUT;DAT;SG
+európsky		ADJ;FEM;DAT;SG
+európsky		ADJ;DAT;PL
+európsky		ADJ;MASC;NOM;SG
+európsky		ADJ;MASC;DAT;SG
+európsky		ADJ;MASC;INS;SG
+európsky	európski	ADJ;MASC;ANIM;NOM;PL
+európsky		ADJ;GEN;PL
+európsky		ADJ;NEUT;ACC;SG
+európsky		ADJ;FEM;ACC;SG
+európsky		ADJ;NOM;PL
+európsky		ADJ;NEUT;ESS;SG
+európsky		ADJ;FEM;ESS;SG
+európsky	európske	ADJ;ACC;PL
+európsky		ADJ;FEM;GEN;SG
+európsky		ADJ;NEUT;GEN;SG
+európsky		ADJ;FEM;INS;SG
+európsky		ADJ;NEUT;INS;SG
+európsky		ADJ;MASC;INAN;ACC;SG
+európsky		ADJ;MASC;ANIM;ACC;SG
+európsky	európskymi	ADJ;INS;PL
+európsky		ADJ;MASC;ANIM;ACC;PL
+európsky		ADJ;FEM;NOM;SG
+európsky		ADJ;NEUT;NOM;SG
+európsky		ADJ;MASC;ESS;SG
+európsky		ADJ;MASC;GEN;SG
+európsky		ADJ;ESS;PL
+štvrť		N;NOM;PL
+štvrť		N;GEN;PL
+štvrť		N;GEN;SG
+štvrť		N;INS;PL
+štvrť		N;ESS;PL
+štvrť		N;ESS;SG
+štvrť		N;NOM;SG
+štvrť		N;INS;SG
+štvrť		N;DAT;SG
+štvrť		N;ACC;PL
+štvrť		N;ACC;SG
+štvrť	štvrtiam	N;DAT;PL
+mexický		ADJ;NEUT;DAT;SG
+mexický		ADJ;FEM;DAT;SG
+mexický		ADJ;DAT;PL
+mexický	mexický	ADJ;MASC;NOM;SG
+mexický		ADJ;MASC;DAT;SG
+mexický		ADJ;MASC;INS;SG
+mexický		ADJ;MASC;ANIM;NOM;PL
+mexický		ADJ;GEN;PL
+mexický		ADJ;NEUT;ACC;SG
+mexický		ADJ;FEM;ACC;SG
+mexický		ADJ;NOM;PL
+mexický	mexickom	ADJ;NEUT;ESS;SG
+mexický		ADJ;FEM;ESS;SG
+mexický		ADJ;ACC;PL
+mexický		ADJ;FEM;GEN;SG
+mexický		ADJ;NEUT;GEN;SG
+mexický		ADJ;FEM;INS;SG
+mexický		ADJ;NEUT;INS;SG
+mexický		ADJ;MASC;INAN;ACC;SG
+mexický	mexického	ADJ;MASC;ANIM;ACC;SG
+mexický		ADJ;INS;PL
+mexický		ADJ;MASC;ANIM;ACC;PL
+mexický		ADJ;FEM;NOM;SG
+mexický		ADJ;NEUT;NOM;SG
+mexický		ADJ;MASC;ESS;SG
+mexický		ADJ;MASC;GEN;SG
+mexický	mexických	ADJ;ESS;PL
+chodník		N;GEN;PL
+chodník		N;NOM;PL
+chodník		N;GEN;SG
+chodník		N;INS;PL
+chodník	chodníkoch	N;ESS;PL
+chodník		N;ESS;SG
+chodník		N;NOM;SG
+chodník		N;INS;SG
+chodník		N;DAT;SG
+chodník		N;ACC;PL
+chodník		N;ACC;SG
+chodník		N;DAT;PL
+srdce		N;NOM;PL
+srdce		N;GEN;PL
+srdce		N;GEN;SG
+srdce		N;INS;PL
+srdce		N;ESS;PL
+srdce	srdci	N;ESS;SG
+srdce		N;NOM;SG
+srdce		N;INS;SG
+srdce		N;DAT;SG
+srdce		N;ACC;PL
+srdce		N;ACC;SG
+srdce		N;DAT;PL
+borovicový		ADJ;NEUT;DAT;SG
+borovicový	borovicovej	ADJ;FEM;DAT;SG
+borovicový	borovicovým	ADJ;DAT;PL
+borovicový		ADJ;MASC;NOM;SG
+borovicový		ADJ;MASC;DAT;SG
+borovicový		ADJ;MASC;INS;SG
+borovicový	borovicoví	ADJ;MASC;ANIM;NOM;PL
+borovicový		ADJ;GEN;PL
+borovicový		ADJ;NEUT;ACC;SG
+borovicový		ADJ;FEM;ACC;SG
+borovicový		ADJ;NOM;PL
+borovicový		ADJ;NEUT;ESS;SG
+borovicový		ADJ;FEM;ESS;SG
+borovicový		ADJ;ACC;PL
+borovicový		ADJ;FEM;GEN;SG
+borovicový		ADJ;NEUT;GEN;SG
+borovicový		ADJ;FEM;INS;SG
+borovicový		ADJ;NEUT;INS;SG
+borovicový		ADJ;MASC;INAN;ACC;SG
+borovicový		ADJ;MASC;ANIM;ACC;SG
+borovicový		ADJ;INS;PL
+borovicový		ADJ;MASC;ANIM;ACC;PL
+borovicový		ADJ;FEM;NOM;SG
+borovicový		ADJ;NEUT;NOM;SG
+borovicový	borovicovom	ADJ;MASC;ESS;SG
+borovicový		ADJ;MASC;GEN;SG
+borovicový		ADJ;ESS;PL
+schopný		ADJ;NEUT;DAT;SG
+schopný		ADJ;FEM;DAT;SG
+schopný		ADJ;DAT;PL
+schopný		ADJ;MASC;NOM;SG
+schopný		ADJ;MASC;DAT;SG
+schopný		ADJ;MASC;INS;SG
+schopný		ADJ;MASC;ANIM;NOM;PL
+schopný		ADJ;GEN;PL
+schopný		ADJ;NEUT;ACC;SG
+schopný		ADJ;FEM;ACC;SG
+schopný		ADJ;NOM;PL
+schopný	schopnom	ADJ;NEUT;ESS;SG
+schopný		ADJ;FEM;ESS;SG
+schopný		ADJ;ACC;PL
+schopný		ADJ;FEM;GEN;SG
+schopný		ADJ;NEUT;GEN;SG
+schopný		ADJ;FEM;INS;SG
+schopný		ADJ;NEUT;INS;SG
+schopný		ADJ;MASC;INAN;ACC;SG
+schopný		ADJ;MASC;ANIM;ACC;SG
+schopný		ADJ;INS;PL
+schopný	schopných	ADJ;MASC;ANIM;ACC;PL
+schopný	schopná	ADJ;FEM;NOM;SG
+schopný		ADJ;NEUT;NOM;SG
+schopný		ADJ;MASC;ESS;SG
+schopný		ADJ;MASC;GEN;SG
+schopný	schopných	ADJ;ESS;PL
+cibuľa	cibule	N;NOM;PL
+cibuľa		N;GEN;PL
+cibuľa		N;NOM;SG
+cibuľa		N;INS;PL
+cibuľa		N;ESS;PL
+cibuľa		N;ESS;SG
+cibuľa		N;GEN;SG
+cibuľa		N;INS;SG
+cibuľa		N;DAT;SG
+cibuľa		N;ACC;PL
+cibuľa		N;ACC;SG
+cibuľa		N;DAT;PL
+modrý	modrému	ADJ;NEUT;DAT;SG
+modrý		ADJ;FEM;DAT;SG
+modrý		ADJ;DAT;PL
+modrý		ADJ;MASC;NOM;SG
+modrý		ADJ;MASC;DAT;SG
+modrý		ADJ;MASC;INS;SG
+modrý		ADJ;MASC;ANIM;NOM;PL
+modrý		ADJ;GEN;PL
+modrý		ADJ;NEUT;ACC;SG
+modrý	modrú	ADJ;FEM;ACC;SG
+modrý		ADJ;NOM;PL
+modrý		ADJ;NEUT;ESS;SG
+modrý		ADJ;FEM;ESS;SG
+modrý		ADJ;ACC;PL
+modrý		ADJ;FEM;GEN;SG
+modrý	modrého	ADJ;NEUT;GEN;SG
+modrý		ADJ;FEM;INS;SG
+modrý		ADJ;NEUT;INS;SG
+modrý		ADJ;MASC;INAN;ACC;SG
+modrý		ADJ;MASC;ANIM;ACC;SG
+modrý		ADJ;INS;PL
+modrý		ADJ;MASC;ANIM;ACC;PL
+modrý	modrá	ADJ;FEM;NOM;SG
+modrý		ADJ;NEUT;NOM;SG
+modrý		ADJ;MASC;ESS;SG
+modrý		ADJ;MASC;GEN;SG
+modrý		ADJ;ESS;PL
+cestovateľ		N;NOM;PL
+cestovateľ		N;GEN;PL
+cestovateľ		N;GEN;SG
+cestovateľ		N;INS;PL
+cestovateľ		N;ESS;PL
+cestovateľ		N;ESS;SG
+cestovateľ		N;NOM;SG
+cestovateľ		N;INS;SG
+cestovateľ		N;DAT;SG
+cestovateľ	cestovateľov	N;ACC;PL
+cestovateľ		N;ACC;SG
+cestovateľ		N;DAT;PL
+múr		N;GEN;PL
+múr	múry	N;NOM;PL
+múr		N;NOM;SG
+múr		N;INS;PL
+múr		N;ESS;PL
+múr		N;ESS;SG
+múr		N;GEN;SG
+múr		N;INS;SG
+múr		N;DAT;SG
+múr		N;ACC;PL
+múr		N;ACC;SG
+múr		N;DAT;PL
+dar		N;GEN;PL
+dar		N;NOM;PL
+dar		N;NOM;SG
+dar	darmi	N;INS;PL
+dar		N;ESS;PL
+dar		N;ESS;SG
+dar		N;GEN;SG
+dar		N;INS;SG
+dar		N;DAT;SG
+dar		N;ACC;PL
+dar		N;ACC;SG
+dar		N;DAT;PL
+matkin		ADJ;NEUT;DAT;SG
+matkin		ADJ;FEM;DAT;SG
+matkin		ADJ;DAT;PL
+matkin		ADJ;MASC;NOM;SG
+matkin		ADJ;MASC;DAT;SG
+matkin		ADJ;MASC;INS;SG
+matkin		ADJ;MASC;ANIM;NOM;PL
+matkin		ADJ;GEN;PL
+matkin		ADJ;NEUT;ACC;SG
+matkin	matkinu	ADJ;FEM;ACC;SG
+matkin		ADJ;NOM;PL
+matkin		ADJ;NEUT;ESS;SG
+matkin		ADJ;FEM;ESS;SG
+matkin	matkine	ADJ;ACC;PL
+matkin	matkinej	ADJ;FEM;GEN;SG
+matkin		ADJ;NEUT;GEN;SG
+matkin		ADJ;FEM;INS;SG
+matkin		ADJ;NEUT;INS;SG
+matkin		ADJ;MASC;INAN;ACC;SG
+matkin	matkinho	ADJ;MASC;ANIM;ACC;SG
+matkin		ADJ;INS;PL
+matkin		ADJ;MASC;ANIM;ACC;PL
+matkin		ADJ;FEM;NOM;SG
+matkin		ADJ;NEUT;NOM;SG
+matkin		ADJ;MASC;ESS;SG
+matkin		ADJ;MASC;GEN;SG
+matkin		ADJ;ESS;PL
+Čech		N;GEN;PL
+Čech		N;NOM;PL
+Čech		N;GEN;SG
+Čech		N;INS;PL
+Čech		N;ESS;PL
+Čech		N;ESS;SG
+Čech		N;NOM;SG
+Čech		N;INS;SG
+Čech	Čechovi	N;DAT;SG
+Čech		N;ACC;PL
+Čech		N;ACC;SG
+Čech		N;DAT;PL
+kotol		N;GEN;PL
+kotol		N;NOM;PL
+kotol		N;GEN;SG
+kotol		N;INS;PL
+kotol		N;ESS;PL
+kotol		N;ESS;SG
+kotol	kotol	N;NOM;SG
+kotol		N;INS;SG
+kotol		N;DAT;SG
+kotol		N;ACC;PL
+kotol		N;ACC;SG
+kotol		N;DAT;PL
+baran		N;GEN;PL
+baran		N;NOM;PL
+baran		N;GEN;SG
+baran		N;INS;PL
+baran	baranoch	N;ESS;PL
+baran		N;ESS;SG
+baran		N;NOM;SG
+baran		N;INS;SG
+baran		N;DAT;SG
+baran		N;ACC;PL
+baran		N;ACC;SG
+baran		N;DAT;PL
+jazda		N;GEN;PL
+jazda		N;NOM;PL
+jazda		N;NOM;SG
+jazda		N;INS;PL
+jazda		N;ESS;PL
+jazda		N;ESS;SG
+jazda		N;GEN;SG
+jazda		N;INS;SG
+jazda		N;DAT;SG
+jazda	jazdy	N;ACC;PL
+jazda		N;ACC;SG
+jazda		N;DAT;PL
+kĺb		N;GEN;PL
+kĺb		N;NOM;PL
+kĺb		N;GEN;SG
+kĺb		N;INS;PL
+kĺb		N;ESS;PL
+kĺb	kĺbe	N;ESS;SG
+kĺb		N;NOM;SG
+kĺb		N;INS;SG
+kĺb		N;DAT;SG
+kĺb		N;ACC;PL
+kĺb		N;ACC;SG
+kĺb		N;DAT;PL
+dinosaurus		N;GEN;PL
+dinosaurus		N;NOM;PL
+dinosaurus		N;GEN;SG
+dinosaurus		N;INS;PL
+dinosaurus		N;ESS;PL
+dinosaurus		N;ESS;SG
+dinosaurus	dinosaurus	N;NOM;SG
+dinosaurus		N;INS;SG
+dinosaurus		N;DAT;SG
+dinosaurus		N;ACC;PL
+dinosaurus		N;ACC;SG
+dinosaurus		N;DAT;PL
+Slovan		N;NOM;PL
+Slovan		N;GEN;PL
+Slovan		N;GEN;SG
+Slovan		N;INS;PL
+Slovan		N;ESS;PL
+Slovan		N;ESS;SG
+Slovan		N;NOM;SG
+Slovan		N;INS;SG
+Slovan		N;DAT;SG
+Slovan		N;ACC;PL
+Slovan		N;ACC;SG
+Slovan	Slovanom	N;DAT;PL
+mýto		N;NOM;PL
+mýto		N;GEN;PL
+mýto		N;GEN;SG
+mýto	mýtami	N;INS;PL
+mýto		N;ESS;PL
+mýto		N;ESS;SG
+mýto		N;NOM;SG
+mýto		N;INS;SG
+mýto		N;DAT;SG
+mýto		N;ACC;PL
+mýto		N;ACC;SG
+mýto		N;DAT;PL
+svastika		N;GEN;PL
+svastika	svastiky	N;NOM;PL
+svastika		N;NOM;SG
+svastika		N;INS;PL
+svastika		N;ESS;PL
+svastika		N;ESS;SG
+svastika		N;GEN;SG
+svastika		N;INS;SG
+svastika		N;DAT;SG
+svastika		N;ACC;PL
+svastika		N;ACC;SG
+svastika		N;DAT;PL
+daň	dane	N;NOM;PL
+daň		N;GEN;PL
+daň		N;GEN;SG
+daň		N;INS;PL
+daň		N;ESS;PL
+daň		N;ESS;SG
+daň		N;NOM;SG
+daň		N;INS;SG
+daň		N;DAT;SG
+daň		N;ACC;PL
+daň		N;ACC;SG
+daň		N;DAT;PL
+korenie		N;NOM;PL
+korenie		N;GEN;PL
+korenie		N;GEN;SG
+korenie		N;INS;PL
+korenie		N;ESS;PL
+korenie	korení	N;ESS;SG
+korenie		N;NOM;SG
+korenie		N;INS;SG
+korenie		N;DAT;SG
+korenie		N;ACC;PL
+korenie		N;ACC;SG
+korenie		N;DAT;PL
+česť		N;GEN;PL
+česť		N;NOM;PL
+česť		N;NOM;SG
+česť	cťami	N;INS;PL
+česť		N;ESS;PL
+česť		N;ESS;SG
+česť		N;GEN;SG
+česť		N;INS;SG
+česť		N;DAT;SG
+česť		N;ACC;PL
+česť		N;ACC;SG
+česť		N;DAT;PL
+pravý		ADJ;NEUT;DAT;SG
+pravý	pravej	ADJ;FEM;DAT;SG
+pravý		ADJ;DAT;PL
+pravý		ADJ;MASC;NOM;SG
+pravý		ADJ;MASC;DAT;SG
+pravý		ADJ;MASC;INS;SG
+pravý	praví	ADJ;MASC;ANIM;NOM;PL
+pravý		ADJ;GEN;PL
+pravý		ADJ;NEUT;ACC;SG
+pravý		ADJ;FEM;ACC;SG
+pravý		ADJ;NOM;PL
+pravý		ADJ;NEUT;ESS;SG
+pravý		ADJ;FEM;ESS;SG
+pravý		ADJ;ACC;PL
+pravý		ADJ;FEM;GEN;SG
+pravý		ADJ;NEUT;GEN;SG
+pravý		ADJ;FEM;INS;SG
+pravý		ADJ;NEUT;INS;SG
+pravý		ADJ;MASC;INAN;ACC;SG
+pravý	pravého	ADJ;MASC;ANIM;ACC;SG
+pravý		ADJ;INS;PL
+pravý	pravých	ADJ;MASC;ANIM;ACC;PL
+pravý		ADJ;FEM;NOM;SG
+pravý		ADJ;NEUT;NOM;SG
+pravý		ADJ;MASC;ESS;SG
+pravý		ADJ;MASC;GEN;SG
+pravý		ADJ;ESS;PL
+vulkán		N;GEN;PL
+vulkán		N;NOM;PL
+vulkán		N;NOM;SG
+vulkán		N;INS;PL
+vulkán		N;ESS;PL
+vulkán		N;ESS;SG
+vulkán		N;GEN;SG
+vulkán		N;INS;SG
+vulkán		N;DAT;SG
+vulkán		N;ACC;PL
+vulkán	vulkán	N;ACC;SG
+vulkán		N;DAT;PL

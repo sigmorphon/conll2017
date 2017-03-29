@@ -1,0 +1,500 @@
+shtëpi	shtëpi	N;ACC;PL;NDEF
+shtëpi	shtëpisë	N;DAT;SG;DEF
+shtëpi	shtëpi	N;NOM;SG;NDEF
+shtëpi	shtëpinë	N;ACC;SG;DEF
+shtëpi	shtëpia	N;NOM;SG;DEF
+shtëpi	shtëpi	N;NOM;PL;NDEF
+shtëpi	shtëpi	N;ACC;SG;NDEF
+shtëpi	shtëpitë	N;ACC;PL;DEF
+shtëpi	shtëpitë	N;NOM;PL;DEF
+shtëpi	shtëpive	N;GEN;PL;NDEF
+shtëpi	shtëpie	N;ABL;SG;NDEF
+shtëpi	shtëpisë	N;GEN;SG;DEF
+shtëpi	shtëpish	N;ABL;PL;NDEF
+shtëpi	shtëpive	N;GEN;PL;DEF
+shtëpi	shtëpie	N;DAT;SG;NDEF
+shtëpi	shtëpive	N;DAT;PL;DEF
+shtëpi	shtëpisë	N;ABL;SG;DEF
+shtëpi	shtëpie	N;GEN;SG;NDEF
+shtëpi	shtëpive	N;DAT;PL;NDEF
+shtëpi	shtëpive	N;ABL;PL;DEF
+vendos	do të kemi vendosur	V;1;PL;IND;PRF;FUT
+vendos	vendosnit	V;2;PL;IND;IPFV
+vendos	vendosshit	V;2;PL;OPT;PRS
+vendos	paskëshe vendosur	V;2;SG;ADM;PRF;PST
+vendos	vendosshin	V;3;PL;OPT;PRS
+vendos	të ketë vendosur	V;3;SG;SBJV;PRF
+vendos	patën vendosur	V;3;PL;IND;PRF;PST
+vendos	paçit vendosur	V;2;PL;OPT;PRF
+vendos	të vendosnin	V;3;PL;SBJV;PST
+vendos	të vendosë	V;3;SG;SBJV;PRS
+vendos	vendosnim	V;1;PL;IND;IPFV
+vendos	paçin vendosur	V;3;PL;OPT;PRF
+vendos	do të vendos	V;1;SG;IND;FUT
+vendos	duke vendosur	V;V.PTCP;PRS
+vendos	të kishit vendosur	V;2;PL;SBJV;PRF;PRF
+vendos	vendosja	V;1;SG;IND;IPFV
+vendos	vendos	V;2;SG;IMP
+vendos	të vendosnim	V;1;PL;SBJV;PST
+vendos	pate vendosur	V;2;SG;IND;PRF;PST
+vendos	vendoskësh	V;3;SG;ADM;IPFV
+vendos	vendosur	V;V.PTCP
+vendos	paçim vendosur	V;1;PL;OPT;PRF
+vendos	paskësha vendosur	V;1;SG;ADM;PRF;PST
+vendos	do të vendosnin	V;3;PL;COND;PRS
+vendos	do të kishim vendosur	V;1;PL;COND;PRF
+vendos	të vendosni	V;2;PL;SBJV;PRS
+vendos	vendosshim	V;1;PL;OPT;PRS
+vendos	të keni vendosur	V;2;PL;SBJV;PRF
+vendos	do të kishin vendosur	V;3;PL;COND;PRF
+vendos	të kemi vendosur	V;1;PL;SBJV;PRF
+vendos	vendosën	V;3;PL;IND;PST
+vendos	të kesh vendosur	V;2;SG;SBJV;PRF
+vendos	të vendosim	V;1;PL;SBJV;PRS
+vendos	të vendosësh	V;2;SG;SBJV;PRS
+vendos	do të vendosë	V;3;SG;IND;FUT
+vendos	vendosi	V;3;SG;IND;PST
+vendos	vendoste	V;3;SG;IND;IPFV
+vendos	vendosnin	V;3;PL;IND;IPFV
+vendos	do të keni vendosur	V;2;PL;IND;PRF;FUT
+vendos	do të kem vendosur	V;1;SG;IND;PRF;FUT
+vendos	do të vendosim	V;1;PL;IND;FUT
+vendos	të vendos	V;1;SG;SBJV;PRS
+vendos	paskëshim vendosur	V;1;PL;ADM;PRF;PST
+vendos	të kishin vendosur	V;3;PL;SBJV;PRF;PST
+vendos	vendose	V;2;SG;IND;PST
+vendos	të kem vendosur	V;1;SG;SBJV;PRF
+vendos	paska vendosur	V;3;SG;ADM;PRF
+vendos	vendos	V;3;SG;IND;PRS
+vendos	vendosni	V;2;PL;IMP
+vendos	paskemi vendosur	V;1;PL;ADM;PRF
+vendos	do të vendosësh	V;2;SG;IND;FUT
+vendos	ke vendosur	V;2;SG;IND;PRF
+vendos	ka vendosur	V;3;SG;IND;PRF
+vendos	vendoska	V;3;SG;ADM;PRS
+vendos	pata vendosur	V;1;SG;IND;PRF;PST
+vendos	të vendoste	V;3;SG;SBJV;PST
+vendos	për të vendosur	V;NFIN
+vendos	të kishe vendosur	V;2;SG;SBJV;PRF;PST
+vendos	vendossh	V;2;SG;OPT;PRS
+vendos	paskan vendosur	V;3;PL;ADM;PRF
+vendos	paç vendosur	V;2;SG;OPT;PRF
+vendos	vendoskan	V;3;PL;ADM;PRS
+vendos	vendoskeni	V;2;PL;ADM;PRS
+vendos	duke pasë vendosur	V;V.PTCP;PST
+vendos	do të vendosin	V;3;PL;IND;FUT
+vendos	do të kisha vendosur	V;1;SG;COND;PRF
+vendos	paça vendosur	V;1;SG;OPT;PRF
+vendos	vendoskam	V;1;SG;ADM;PRS
+vendos	vendostë	V;3;SG;OPT;PRS
+vendos	vendoskëshit	V;2;PL;ADM;IPFV
+vendos	vendosa	V;1;SG;IND;PST
+vendos	pastë vendosur	V;3;SG;OPT;PRF
+vendos	paskam vendosur	V;1;SG;ADM;PRF
+vendos	të vendosja	V;1;SG;SBJV;PST
+vendos	paskësh vendosur	V;3;SG;ADM;PRF;PST
+vendos	do të vendosja	V;1;SG;COND;PRS
+vendos	vendossha	V;1;SG;OPT;PRS
+vendos	do të kishe vendosur	V;2;SG;COND;PRF
+vendos	keni vendosur	V;2;PL;IND;PRF
+vendos	vendoskemi	V;1;PL;ADM;PRS
+vendos	do të vendosje	V;2;SG;COND;PRS
+vendos	do të vendosni	V;2;PL;IND;FUT
+vendos	vendosëm	V;1;PL;IND;PST
+vendos	kam vendosur	V;1;SG;IND;PRF
+vendos	do të vendoste	V;3;SG;COND;PRS
+vendos	patëm vendosur	V;1;PL;IND;PRF;PST
+vendos	vendosni	V;2;PL;IND;PRS
+vendos	vendos	V;1;SG;IND;PRS
+vendos	do të kishte vendosur	V;3;SG;COND;PRF
+vendos	paskeni vendosur	V;2;PL;ADM;PRF
+vendos	paskëshin vendosur	V;3;PL;ADM;PRF;PST
+vendos	kemi vendosur	V;1;PL;IND;PRF
+vendos	patët vendosur	V;2;PL;IND;PRF;PRF
+vendos	do të vendosnim	V;1;PL;COND;PRS
+vendos	vendosët	V;2;PL;IND;PST
+vendos	vendosim	V;1;PL;IND;PRS
+vendos	të kisha vendosur	V;1;SG;SBJV;PRF;PST
+vendos	të vendosnit	V;2;PL;SBJV;PST
+vendos	do të kishit vendosur	V;2;PL;COND;PRF
+vendos	do të vendosnit	V;2;PL;COND;PRS
+vendos	pati vendosur	V;3;SG;IND;PRF;PST
+vendos	paske vendosur	V;2;SG;ADM;PRF
+vendos	vendoskëshim	V;1;PL;ADM;IPFV
+vendos	kanë vendosur	V;3;PL;IND;PRF
+vendos	të kishim vendosur	V;1;PL;SBJV;PRF;PST
+vendos	do të kenë vendosur	V;3;PL;IND;PRF;FUT
+vendos	vendosin	V;3;PL;IND;PRS
+vendos	vendoske	V;2;SG;ADM;PRS
+vendos	të vendosje	V;2;SG;SBJV;PST
+vendos	vendoskëshin	V;3;PL;ADM;IPFV
+vendos	vendoskësha	V;1;SG;ADM;IPFV
+vendos	vendosje	V;2;SG;IND;IPFV
+vendos	vendos	V;2;SG;IND;PRS
+vendos	do të kesh vendosur	V;2;SG;IND;PRF;FUT
+vendos	do të ketë vendosur	V;3;SG;IND;PRF;FUT
+vendos	paskëshit vendosur	V;2;PL;ADM;PRF;PRF
+vendos	të vendosin	V;3;PL;SBJV;PRS
+vendos	vendoskëshe	V;2;SG;ADM;IPFV
+vendos	të kishte vendosur	V;3;SG;SBJV;PRF;PST
+vendos	të kenë vendosur	V;3;PL;SBJV;PRF
+anëtar	anëtarë	N;ACC;PL;NDEF
+anëtar	anëtarit	N;DAT;SG;DEF
+anëtar	anëtar	N;NOM;SG;NDEF
+anëtar	anëtarin	N;ACC;SG;DEF
+anëtar	anëtari	N;NOM;SG;DEF
+anëtar	anëtarë	N;NOM;PL;NDEF
+anëtar	anëtar	N;ACC;SG;NDEF
+anëtar	anëtarët	N;ACC;PL;DEF
+anëtar	anëtarët	N;NOM;PL;DEF
+anëtar	anëtarëve	N;GEN;PL;NDEF
+anëtar	anëtari	N;ABL;SG;NDEF
+anëtar	anëtarit	N;GEN;SG;DEF
+anëtar	anëtarësh	N;ABL;PL;NDEF
+anëtar	anëtarëve	N;GEN;PL;DEF
+anëtar	anëtari	N;DAT;SG;NDEF
+anëtar	anëtarëve	N;DAT;PL;DEF
+anëtar	anëtarit	N;ABL;SG;DEF
+anëtar	anëtari	N;GEN;SG;NDEF
+anëtar	anëtarëve	N;DAT;PL;NDEF
+anëtar	anëtarëve	N;ABL;PL;DEF
+shpall	do të kemi shpallur	V;1;PL;IND;PRF;FUT
+shpall	shpallnit	V;2;PL;IND;IPFV
+shpall	shpallshit	V;2;PL;OPT;PRS
+shpall	paskëshe shpallur	V;2;SG;ADM;PRF;PST
+shpall	shpallshin	V;3;PL;OPT;PRS
+shpall	të ketë shpallur	V;3;SG;SBJV;PRF
+shpall	patën shpallur	V;3;PL;IND;PRF;PST
+shpall	paçit shpallur	V;2;PL;OPT;PRF
+shpall	të shpallnin	V;3;PL;SBJV;PST
+shpall	të shpallë	V;3;SG;SBJV;PRS
+shpall	do të kishte shpallur	V;3;SG;COND;PRF
+shpall	paçin shpallur	V;3;PL;OPT;PRF
+shpall	do të shpall	V;1;SG;IND;FUT
+shpall	duke shpallur	V;V.PTCP;PRS
+shpall	të kishit shpallur	V;2;PL;SBJV;PRF;PRF
+shpall	shpallja	V;1;SG;IND;IPFV
+shpall	të kishin shpallur	V;3;PL;SBJV;PRF;PST
+shpall	të shpallnim	V;1;PL;SBJV;PST
+shpall	pate shpallur	V;2;SG;IND;PRF;PST
+shpall	shpallkësh	V;3;SG;ADM;IPFV
+shpall	shpallur	V;V.PTCP
+shpall	paçim shpallur	V;1;PL;OPT;PRF
+shpall	paskësha shpallur	V;1;SG;ADM;PRF;PST
+shpall	do të shpallnin	V;3;PL;COND;PRS
+shpall	shpallkësha	V;1;SG;ADM;IPFV
+shpall	të shpallni	V;2;PL;SBJV;PRS
+shpall	shpallshim	V;1;PL;OPT;PRS
+shpall	të keni shpallur	V;2;PL;SBJV;PRF
+shpall	do të kishin shpallur	V;3;PL;COND;PRF
+shpall	të kemi shpallur	V;1;PL;SBJV;PRF
+shpall	shpallën	V;3;PL;IND;PST
+shpall	duke pasë shpallur	V;V.PTCP;PST
+shpall	të shpallim	V;1;PL;SBJV;PRS
+shpall	të shpallësh	V;2;SG;SBJV;PRS
+shpall	do të shpallë	V;3;SG;IND;FUT
+shpall	shpalli	V;3;SG;IND;PST
+shpall	shpallte	V;3;SG;IND;IPFV
+shpall	shpallnin	V;3;PL;IND;IPFV
+shpall	do të keni shpallur	V;2;PL;IND;PRF;FUT
+shpall	do të kem shpallur	V;1;SG;IND;PRF;FUT
+shpall	do të shpallim	V;1;PL;IND;FUT
+shpall	të shpall	V;1;SG;SBJV;PRS
+shpall	paskëshim shpallur	V;1;PL;ADM;PRF;PST
+shpall	shpall	V;2;SG;IMP
+shpall	shpalle	V;2;SG;IND;PST
+shpall	të kem shpallur	V;1;SG;SBJV;PRF
+shpall	paska shpallur	V;3;SG;ADM;PRF
+shpall	shpall	V;3;SG;IND;PRS
+shpall	shpallni	V;2;PL;IMP
+shpall	paskemi shpallur	V;1;PL;ADM;PRF
+shpall	do të shpallësh	V;2;SG;IND;FUT
+shpall	ke shpallur	V;2;SG;IND;PRF
+shpall	ka shpallur	V;3;SG;IND;PRF
+shpall	shpallka	V;3;SG;ADM;PRS
+shpall	pata shpallur	V;1;SG;IND;PRF;PST
+shpall	të shpallte	V;3;SG;SBJV;PST
+shpall	për të shpallur	V;NFIN
+shpall	të kishe shpallur	V;2;SG;SBJV;PRF;PST
+shpall	shpallsh	V;2;SG;OPT;PRS
+shpall	paskan shpallur	V;3;PL;ADM;PRF
+shpall	paç shpallur	V;2;SG;OPT;PRF
+shpall	shpallkan	V;3;PL;ADM;PRS
+shpall	shpallkeni	V;2;PL;ADM;PRS
+shpall	do të shpallin	V;3;PL;IND;FUT
+shpall	do të kisha shpallur	V;1;SG;COND;PRF
+shpall	paça shpallur	V;1;SG;OPT;PRF
+shpall	shpallkam	V;1;SG;ADM;PRS
+shpall	shpalltë	V;3;SG;OPT;PRS
+shpall	shpallkëshit	V;2;PL;ADM;IPFV
+shpall	shpalla	V;1;SG;IND;PST
+shpall	pastë shpallur	V;3;SG;OPT;PRF
+shpall	paskam shpallur	V;1;SG;ADM;PRF
+shpall	të shpallja	V;1;SG;SBJV;PST
+shpall	paskësh shpallur	V;3;SG;ADM;PRF;PST
+shpall	do të shpallja	V;1;SG;COND;PRS
+shpall	shpallsha	V;1;SG;OPT;PRS
+shpall	do të kishe shpallur	V;2;SG;COND;PRF
+shpall	keni shpallur	V;2;PL;IND;PRF
+shpall	shpallkemi	V;1;PL;ADM;PRS
+shpall	do të shpallje	V;2;SG;COND;PRS
+shpall	shpallni	V;2;PL;IND;PRS
+shpall	shpallëm	V;1;PL;IND;PST
+shpall	kam shpallur	V;1;SG;IND;PRF
+shpall	do të shpallte	V;3;SG;COND;PRS
+shpall	patëm shpallur	V;1;PL;IND;PRF;PST
+shpall	do të shpallni	V;2;PL;IND;FUT
+shpall	shpall	V;1;SG;IND;PRS
+shpall	shpallnim	V;1;PL;IND;IPFV
+shpall	paskeni shpallur	V;2;PL;ADM;PRF
+shpall	paskëshin shpallur	V;3;PL;ADM;PRF;PST
+shpall	kemi shpallur	V;1;PL;IND;PRF
+shpall	patët shpallur	V;2;PL;IND;PRF;PRF
+shpall	do të shpallnim	V;1;PL;COND;PRS
+shpall	shpallët	V;2;PL;IND;PST
+shpall	shpallim	V;1;PL;IND;PRS
+shpall	të kisha shpallur	V;1;SG;SBJV;PRF;PST
+shpall	të shpallnit	V;2;PL;SBJV;PST
+shpall	do të kishit shpallur	V;2;PL;COND;PRF
+shpall	do të shpallnit	V;2;PL;COND;PRS
+shpall	pati shpallur	V;3;SG;IND;PRF;PST
+shpall	paske shpallur	V;2;SG;ADM;PRF
+shpall	shpallkëshim	V;1;PL;ADM;IPFV
+shpall	kanë shpallur	V;3;PL;IND;PRF
+shpall	të kishim shpallur	V;1;PL;SBJV;PRF;PST
+shpall	do të kenë shpallur	V;3;PL;IND;PRF;FUT
+shpall	shpallin	V;3;PL;IND;PRS
+shpall	shpallke	V;2;SG;ADM;PRS
+shpall	të shpallje	V;2;SG;SBJV;PST
+shpall	shpallkëshin	V;3;PL;ADM;IPFV
+shpall	të kesh shpallur	V;2;SG;SBJV;PRF
+shpall	shpallje	V;2;SG;IND;IPFV
+shpall	shpall	V;2;SG;IND;PRS
+shpall	do të kesh shpallur	V;2;SG;IND;PRF;FUT
+shpall	do të ketë shpallur	V;3;SG;IND;PRF;FUT
+shpall	paskëshit shpallur	V;2;PL;ADM;PRF;PRF
+shpall	do të kishim shpallur	V;1;PL;COND;PRF
+shpall	të shpallin	V;3;PL;SBJV;PRS
+shpall	shpallkëshe	V;2;SG;ADM;IPFV
+shpall	të kishte shpallur	V;3;SG;SBJV;PRF;PST
+shpall	të kenë shpallur	V;3;PL;SBJV;PRF
+shkak	shkaqe	N;ACC;PL;NDEF
+shkak	shkakut	N;DAT;SG;DEF
+shkak	shkaku	N;GEN;SG;NDEF
+shkak	shkakun	N;ACC;SG;DEF
+shkak	shkaku	N;NOM;SG;DEF
+shkak	shkaqe	N;NOM;PL;NDEF
+shkak	shkak	N;ACC;SG;NDEF
+shkak	shkaqet	N;ACC;PL;DEF
+shkak	shkaqet	N;NOM;PL;DEF
+shkak	shkaqeve	N;GEN;PL;NDEF
+shkak	shkaku	N;ABL;SG;NDEF
+shkak	shkakut	N;GEN;SG;DEF
+shkak	shkaqesh	N;ABL;PL;NDEF
+shkak	shkaqeve	N;GEN;PL;DEF
+shkak	shkaku	N;DAT;SG;NDEF
+shkak	shkaqeve	N;DAT;PL;DEF
+shkak	shkakut	N;ABL;SG;DEF
+shkak	shkak	N;NOM;SG;NDEF
+shkak	shkaqeve	N;DAT;PL;NDEF
+shkak	shkaqeve	N;ABL;PL;DEF
+lëng	lëngje	N;ACC;PL;NDEF
+lëng	lëngut	N;DAT;SG;DEF
+lëng	lëngu	N;GEN;SG;NDEF
+lëng	lëngun	N;ACC;SG;DEF
+lëng	lëngu	N;NOM;SG;DEF
+lëng	lëngje	N;NOM;PL;NDEF
+lëng	lëng	N;ACC;SG;NDEF
+lëng	lëngjet	N;ACC;PL;DEF
+lëng	lëngjet	N;NOM;PL;DEF
+lëng	lëngjeve	N;GEN;PL;NDEF
+lëng	lëngu	N;ABL;SG;NDEF
+lëng	lëngut	N;GEN;SG;DEF
+lëng	lëngjesh	N;ABL;PL;NDEF
+lëng	lëngjeve	N;GEN;PL;DEF
+lëng	lëngu	N;DAT;SG;NDEF
+lëng	lëngjeve	N;DAT;PL;DEF
+lëng	lëngut	N;ABL;SG;DEF
+lëng	lëng	N;NOM;SG;NDEF
+lëng	lëngjeve	N;DAT;PL;NDEF
+lëng	lëngjeve	N;ABL;PL;DEF
+qendër	qendra	N;ACC;PL;NDEF
+qendër	qendrës	N;DAT;SG;DEF
+qendër	qendre	N;GEN;SG;NDEF
+qendër	qendrën	N;ACC;SG;DEF
+qendër	qendra	N;NOM;SG;DEF
+qendër	qendra	N;NOM;PL;NDEF
+qendër	qendër	N;ACC;SG;NDEF
+qendër	qendrat	N;ACC;PL;DEF
+qendër	qendrat	N;NOM;PL;DEF
+qendër	qendrave	N;GEN;PL;NDEF
+qendër	qendre	N;ABL;SG;NDEF
+qendër	qendrës	N;GEN;SG;DEF
+qendër	qendrash	N;ABL;PL;NDEF
+qendër	qendrave	N;GEN;PL;DEF
+qendër	qendre	N;DAT;SG;NDEF
+qendër	qendrave	N;DAT;PL;DEF
+qendër	qendrës	N;ABL;SG;DEF
+qendër	qendër	N;NOM;SG;NDEF
+qendër	qendrave	N;DAT;PL;NDEF
+qendër	qendrave	N;ABL;PL;DEF
+planet	planete	N;ACC;PL;NDEF
+planet	planetit	N;DAT;SG;DEF
+planet	planet	N;NOM;SG;NDEF
+planet	planetin	N;ACC;SG;DEF
+planet	planeti	N;NOM;SG;DEF
+planet	planete	N;NOM;PL;NDEF
+planet	planet	N;ACC;SG;NDEF
+planet	planetet	N;ACC;PL;DEF
+planet	planetet	N;NOM;PL;DEF
+planet	planeteve	N;GEN;PL;NDEF
+planet	planeti	N;ABL;SG;NDEF
+planet	planetit	N;GEN;SG;DEF
+planet	planetesh	N;ABL;PL;NDEF
+planet	planeteve	N;GEN;PL;DEF
+planet	planeti	N;DAT;SG;NDEF
+planet	planeteve	N;DAT;PL;DEF
+planet	planetit	N;ABL;SG;DEF
+planet	planeti	N;GEN;SG;NDEF
+planet	planeteve	N;DAT;PL;NDEF
+planet	planeteve	N;ABL;PL;DEF
+ishull	ishuj	N;ACC;PL;NDEF
+ishull	ishullit	N;DAT;SG;DEF
+ishull	ishull	N;NOM;SG;NDEF
+ishull	ishullin	N;ACC;SG;DEF
+ishull	ishulli	N;NOM;SG;DEF
+ishull	ishuj	N;NOM;PL;NDEF
+ishull	ishull	N;ACC;SG;NDEF
+ishull	ishujt	N;ACC;PL;DEF
+ishull	ishujt	N;NOM;PL;DEF
+ishull	ishujve	N;GEN;PL;NDEF
+ishull	ishulli	N;ABL;SG;NDEF
+ishull	ishullit	N;GEN;SG;DEF
+ishull	ishujsh	N;ABL;PL;NDEF
+ishull	ishujve	N;GEN;PL;DEF
+ishull	ishulli	N;DAT;SG;NDEF
+ishull	ishujve	N;DAT;PL;DEF
+ishull	ishullit	N;ABL;SG;DEF
+ishull	ishulli	N;GEN;SG;NDEF
+ishull	ishujve	N;DAT;PL;NDEF
+ishull	ishujve	N;ABL;PL;DEF
+hap	do të kemi hapur	V;1;PL;IND;PRF;FUT
+hap	hapnit	V;2;PL;IND;IPFV
+hap	hapshit	V;2;PL;OPT;PRS
+hap	paskëshe hapur	V;2;SG;ADM;PRF;PST
+hap	hapshin	V;3;PL;OPT;PRS
+hap	të ketë hapur	V;3;SG;SBJV;PRF
+hap	patën hapur	V;3;PL;IND;PRF;PST
+hap	paçit hapur	V;2;PL;OPT;PRF
+hap	të hapnin	V;3;PL;SBJV;PST
+hap	të hapë	V;3;SG;SBJV;PRS
+hap	do të kishte hapur	V;3;SG;COND;PRF
+hap	hape	V;2;SG;IND;PST
+hap	do të hap	V;1;SG;IND;FUT
+hap	duke hapur	V;V.PTCP;PRS
+hap	të kishit hapur	V;2;PL;SBJV;PRF;PRF
+hap	hapja	V;1;SG;IND;IPFV
+hap	të kishin hapur	V;3;PL;SBJV;PRF;PST
+hap	të hapnim	V;1;PL;SBJV;PST
+hap	pate hapur	V;2;SG;IND;PRF;PST
+hap	hapkësh	V;3;SG;ADM;IPFV
+hap	hapur	V;V.PTCP
+hap	paçim hapur	V;1;PL;OPT;PRF
+hap	paskësha hapur	V;1;SG;ADM;PRF;PST
+hap	do të hapnin	V;3;PL;COND;PRS
+hap	hapkësha	V;1;SG;ADM;IPFV
+hap	të hapni	V;2;PL;SBJV;PRS
+hap	hapshim	V;1;PL;OPT;PRS
+hap	të keni hapur	V;2;PL;SBJV;PRF
+hap	do të kishin hapur	V;3;PL;COND;PRF
+hap	do të hapnim	V;1;PL;COND;PRS
+hap	të kemi hapur	V;1;PL;SBJV;PRF
+hap	hapën	V;3;PL;IND;PST
+hap	duke pasë hapur	V;V.PTCP;PST
+hap	të hapim	V;1;PL;SBJV;PRS
+hap	të hapësh	V;2;SG;SBJV;PRS
+hap	do të hapë	V;3;SG;IND;FUT
+hap	hapi	V;3;SG;IND;PST
+hap	hapte	V;3;SG;IND;IPFV
+hap	hapnin	V;3;PL;IND;IPFV
+hap	do të keni hapur	V;2;PL;IND;PRF;FUT
+hap	do të kem hapur	V;1;SG;IND;PRF;FUT
+hap	do të hapim	V;1;PL;IND;FUT
+hap	të hap	V;1;SG;SBJV;PRS
+hap	paskëshim hapur	V;1;PL;ADM;PRF;PST
+hap	hap	V;2;SG;IMP
+hap	paçin hapur	V;3;PL;OPT;PRF
+hap	të kem hapur	V;1;SG;SBJV;PRF
+hap	paska hapur	V;3;SG;ADM;PRF
+hap	hap	V;3;SG;IND;PRS
+hap	hapni	V;2;PL;IMP
+hap	paskemi hapur	V;1;PL;ADM;PRF
+hap	do të hapësh	V;2;SG;IND;FUT
+hap	ke hapur	V;2;SG;IND;PRF
+hap	ka hapur	V;3;SG;IND;PRF
+hap	hapka	V;3;SG;ADM;PRS
+hap	hap	V;2;SG;IND;PRS
+hap	të hapte	V;3;SG;SBJV;PST
+hap	hapkemi	V;1;PL;ADM;PRS
+hap	të kishe hapur	V;2;SG;SBJV;PRF;PST
+hap	hapsh	V;2;SG;OPT;PRS
+hap	paskan hapur	V;3;PL;ADM;PRF
+hap	paç hapur	V;2;SG;OPT;PRF
+hap	hapkan	V;3;PL;ADM;PRS
+hap	do të hapin	V;3;PL;IND;FUT
+hap	do të kisha hapur	V;1;SG;COND;PRF
+hap	paça hapur	V;1;SG;OPT;PRF
+hap	hapkam	V;1;SG;ADM;PRS
+hap	haptë	V;3;SG;OPT;PRS
+hap	hapkëshit	V;2;PL;ADM;IPFV
+hap	hapa	V;1;SG;IND;PST
+hap	pastë hapur	V;3;SG;OPT;PRF
+hap	paskam hapur	V;1;SG;ADM;PRF
+hap	të hapja	V;1;SG;SBJV;PST
+hap	paskësh hapur	V;3;SG;ADM;PRF;PST
+hap	do të hapja	V;1;SG;COND;PRS
+hap	hapsha	V;1;SG;OPT;PRS
+hap	do të kishe hapur	V;2;SG;COND;PRF
+hap	keni hapur	V;2;PL;IND;PRF
+hap	për të hapur	V;NFIN
+hap	do të hapje	V;2;SG;COND;PRS
+hap	hapni	V;2;PL;IND;PRS
+hap	hapëm	V;1;PL;IND;PST
+hap	kam hapur	V;1;SG;IND;PRF
+hap	pata hapur	V;1;SG;IND;PRF;PST
+hap	do të hapte	V;3;SG;COND;PRS
+hap	patëm hapur	V;1;PL;IND;PRF;PST
+hap	do të hapni	V;2;PL;IND;FUT
+hap	hap	V;1;SG;IND;PRS
+hap	hapnim	V;1;PL;IND;IPFV
+hap	paskeni hapur	V;2;PL;ADM;PRF
+hap	paskëshin hapur	V;3;PL;ADM;PRF;PST
+hap	kemi hapur	V;1;PL;IND;PRF
+hap	patët hapur	V;2;PL;IND;PRF;PRF
+hap	hapkeni	V;2;PL;ADM;PRS
+hap	hapët	V;2;PL;IND;PST
+hap	hapim	V;1;PL;IND;PRS
+hap	të kisha hapur	V;1;SG;SBJV;PRF;PST
+hap	të hapnit	V;2;PL;SBJV;PST
+hap	do të kishit hapur	V;2;PL;COND;PRF
+hap	pati hapur	V;3;SG;IND;PRF;PST
+hap	do të hapnit	V;2;PL;COND;PRS
+hap	paske hapur	V;2;SG;ADM;PRF
+hap	hapkëshim	V;1;PL;ADM;IPFV
+hap	kanë hapur	V;3;PL;IND;PRF
+hap	të kishim hapur	V;1;PL;SBJV;PRF;PST
+hap	do të kenë hapur	V;3;PL;IND;PRF;FUT
+hap	hapin	V;3;PL;IND;PRS
+hap	hapke	V;2;SG;ADM;PRS
+hap	të hapje	V;2;SG;SBJV;PST
+hap	hapkëshin	V;3;PL;ADM;IPFV
+hap	të kesh hapur	V;2;SG;SBJV;PRF
+hap	hapje	V;2;SG;IND;IPFV
+hap	do të kesh hapur	V;2;SG;IND;PRF;FUT
+hap	do të ketë hapur	V;3;SG;IND;PRF;FUT
+hap	paskëshit hapur	V;2;PL;ADM;PRF;PRF
+hap	do të kishim hapur	V;1;PL;COND;PRF
+hap	të hapin	V;3;PL;SBJV;PRS
+hap	hapkëshe	V;2;SG;ADM;IPFV
+hap	të kishte hapur	V;3;SG;SBJV;PRF;PST
+hap	të kenë hapur	V;3;PL;SBJV;PRF

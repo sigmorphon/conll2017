@@ -1,0 +1,1131 @@
+presrédek		N;NOM;PL
+presrédek		N;GEN;PL
+presrédek		N;GEN;SG
+presrédek		N;INS;PL
+presrédek		N;ACC;DU
+presrédek	presrédkih	N;ESS;PL
+presrédek		N;ESS;SG
+presrédek	presrédkoma	N;DAT;DU
+presrédek		N;NOM;SG
+presrédek		N;INS;SG
+presrédek	presrédku	N;DAT;SG
+presrédek		N;ESS;DU
+presrédek		N;ACC;PL
+presrédek		N;ACC;SG
+presrédek		N;DAT;PL
+presrédek		N;GEN;DU
+presrédek		N;INS;DU
+presrédek		N;NOM;DU
+blagoslovíti		V.MSDR
+blagoslovíti		V;IND;PRS;3;DU
+blagoslovíti		V;IND;PRS;3;SG
+blagoslovíti		V;IMP;2;SG
+blagoslovíti	blagoslovíjo	V;IND;PRS;3;PL
+blagoslovíti		V.PCTP;ACT;PST
+blagoslovíti		V;IND;PRF;PST
+blagoslovíti	sem blagoslôvil	V;IND;PST
+blagoslovíti		V;COND;PRS
+blagoslovíti		V;IMP;2;DU
+blagoslovíti	blagoslovíva	V;IND;PRS;1;DU
+blagoslovíti	blagoslovíva	V;IMP;1;DU
+blagoslovíti		V;IND;PRS;2;PL
+blagoslovíti		V;IMP;2;PL
+blagoslovíti		V;NFIN
+blagoslovíti		V;IND;FUT
+blagoslovíti		V;IND;PRS;2;SG
+blagoslovíti		V.PCTP;PASS;PST
+blagoslovíti		V;IND;PRS;1;SG
+blagoslovíti		V;IMP;1;PL
+blagoslovíti		V;IND;PRS;2;DU
+blagoslovíti		V;COND;PST
+blagoslovíti		V;IND;PRS;1;PL
+píti		V.MSDR
+píti		V;IND;PRS;3;DU
+píti		V;IND;PRS;3;SG
+píti		V;IMP;2;SG
+píti		V;IND;PRS;3;PL
+píti		V.PCTP;ACT;PRS
+píti		V;IND;PRS;2;PL
+píti		V;IND;PRF;PST
+píti		V;IND;PST
+píti		V;COND;PRS
+píti	píjta	V;IMP;2;DU
+píti	píjeva	V;IND;PRS;1;DU
+píti		V;IMP;1;DU
+píti		V.PCTP;ACT;PST
+píti	píjte	V;IMP;2;PL
+píti		V;NFIN
+píti		V;IND;FUT
+píti		V;IND;PRS;2;SG
+píti	pít	V.PCTP;PASS;PST
+píti		V;IND;PRS;1;SG
+píti		V;IMP;1;PL
+píti		V;IND;PRS;2;DU
+píti		V;COND;PST
+píti		V;IND;PRS;1;PL
+ukàz	ukázi	N;NOM;PL
+ukàz		N;GEN;PL
+ukàz		N;ESS;DU
+ukàz		N;INS;PL
+ukàz		N;ACC;DU
+ukàz		N;ESS;PL
+ukàz		N;ESS;SG
+ukàz		N;DAT;DU
+ukàz		N;NOM;SG
+ukàz		N;GEN;SG
+ukàz		N;INS;SG
+ukàz		N;DAT;SG
+ukàz		N;ACC;PL
+ukàz		N;NOM;DU
+ukàz	ukázom	N;DAT;PL
+ukàz		N;GEN;DU
+ukàz		N;INS;DU
+ukàz	ukàz	N;ACC;SG
+turíst		N;NOM;PL
+turíst		N;GEN;PL
+turíst		N;ESS;DU
+turíst		N;INS;PL
+turíst		N;ACC;DU
+turíst		N;ESS;PL
+turíst		N;ESS;SG
+turíst		N;DAT;DU
+turíst		N;NOM;SG
+turíst	turísta	N;GEN;SG
+turíst		N;INS;SG
+turíst		N;DAT;SG
+turíst		N;ACC;PL
+turíst		N;ACC;SG
+turíst		N;DAT;PL
+turíst	turístov	N;GEN;DU
+turíst	turístoma	N;INS;DU
+turíst		N;NOM;DU
+velikán	velikáni	N;NOM;PL
+velikán		N;GEN;PL
+velikán	velikánih	N;ESS;DU
+velikán		N;INS;PL
+velikán		N;ACC;DU
+velikán		N;ESS;PL
+velikán		N;ESS;SG
+velikán	velikánoma	N;DAT;DU
+velikán		N;NOM;SG
+velikán		N;GEN;SG
+velikán		N;INS;SG
+velikán		N;DAT;SG
+velikán		N;ACC;PL
+velikán		N;ACC;SG
+velikán		N;DAT;PL
+velikán		N;GEN;DU
+velikán		N;INS;DU
+velikán		N;NOM;DU
+gnosticízem		N;NOM;PL
+gnosticízem		N;GEN;PL
+gnosticízem	gnosticízma	N;GEN;SG
+gnosticízem		N;INS;PL
+gnosticízem	gnosticízma	N;ACC;DU
+gnosticízem		N;ESS;PL
+gnosticízem		N;ESS;SG
+gnosticízem		N;DAT;DU
+gnosticízem		N;NOM;SG
+gnosticízem		N;INS;SG
+gnosticízem		N;DAT;SG
+gnosticízem		N;ESS;DU
+gnosticízem		N;ACC;PL
+gnosticízem		N;ACC;SG
+gnosticízem		N;DAT;PL
+gnosticízem	gnosticízmov	N;GEN;DU
+gnosticízem		N;INS;DU
+gnosticízem		N;NOM;DU
+prijáznejši		ADJ;MASC;INS;DU
+prijáznejši		ADJ;FEM;DAT;PL
+prijáznejši		ADJ;NEUT;ESS;PL
+prijáznejši		ADJ;FEM;ESS;PL
+prijáznejši		ADJ;MASC;ACC;PL
+prijáznejši		ADJ;NEUT;DAT;SG
+prijáznejši		ADJ;FEM;DAT;SG
+prijáznejši		ADJ;MASC;NOM;SG
+prijáznejši		ADJ;MASC;DAT;SG
+prijáznejši		ADJ;NEUT;NOM;PL
+prijáznejši		ADJ;MASC;ACC;DU
+prijáznejši		ADJ;NEUT;ACC;SG
+prijáznejši		ADJ;FEM;ACC;SG
+prijáznejši		ADJ;MASC;GEN;PL
+prijáznejši		ADJ;FEM;INS;PL
+prijáznejši		ADJ;NEUT;INS;DU
+prijáznejši		ADJ;FEM;NOM;PL
+prijáznejši		ADJ;NEUT;INS;SG
+prijáznejši		ADJ;NEUT;INS;PL
+prijáznejši	prijáznejši	ADJ;FEM;ACC;DU
+prijáznejši		ADJ;NEUT;ACC;DU
+prijáznejši	prijáznejšim	ADJ;MASC;INS;SG
+prijáznejši		ADJ;FEM;INS;DU
+prijáznejši		ADJ;NEUT;DAT;PL
+prijáznejši		ADJ;MASC;DAT;DU
+prijáznejši	prijáznejšem	ADJ;NEUT;ESS;SG
+prijáznejši		ADJ;FEM;ESS;SG
+prijáznejši		ADJ;MASC;GEN;DU
+prijáznejši		ADJ;FEM;GEN;SG
+prijáznejši		ADJ;NEUT;GEN;SG
+prijáznejši	prijáznejšo	ADJ;FEM;INS;SG
+prijáznejši		ADJ;MASC;NOM;PL
+prijáznejši		ADJ;MASC;DAT;PL
+prijáznejši		ADJ;MASC;ESS;PL
+prijáznejši		ADJ;MASC;INS;PL
+prijáznejši	prijáznejših	ADJ;NEUT;GEN;DU
+prijáznejši		ADJ;FEM;GEN;DU
+prijáznejši		ADJ;NEUT;ACC;PL
+prijáznejši		ADJ;FEM;ACC;PL
+prijáznejši	prijáznejšima	ADJ;FEM;DAT;DU
+prijáznejši		ADJ;NEUT;DAT;DU
+prijáznejši	prijáznejša	ADJ;MASC;NOM;DU
+prijáznejši		ADJ;MASC;ESS;DU
+prijáznejši		ADJ;FEM;NOM;SG
+prijáznejši		ADJ;NEUT;NOM;SG
+prijáznejši		ADJ;NEUT;ESS;DU
+prijáznejši	prijáznejšem	ADJ;MASC;ESS;SG
+prijáznejši	prijáznejši	ADJ;NEUT;NOM;DU
+prijáznejši		ADJ;FEM;NOM;DU
+prijáznejši		ADJ;FEM;ESS;DU
+prijáznejši		ADJ;MASC;GEN;SG
+prijáznejši		ADJ;FEM;GEN;PL
+prijáznejši	prijáznejših	ADJ;NEUT;GEN;PL
+resníčnejši		ADJ;MASC;INS;DU
+resníčnejši	resníčnejšim	ADJ;FEM;DAT;PL
+resníčnejši	resníčnejših	ADJ;NEUT;ESS;PL
+resníčnejši		ADJ;FEM;ESS;PL
+resníčnejši		ADJ;MASC;ACC;PL
+resníčnejši		ADJ;NEUT;DAT;SG
+resníčnejši		ADJ;FEM;DAT;SG
+resníčnejši		ADJ;MASC;NOM;SG
+resníčnejši		ADJ;MASC;DAT;SG
+resníčnejši		ADJ;NEUT;NOM;PL
+resníčnejši	resníčnejša	ADJ;MASC;ACC;DU
+resníčnejši		ADJ;NEUT;ACC;SG
+resníčnejši		ADJ;FEM;ACC;SG
+resníčnejši		ADJ;MASC;GEN;PL
+resníčnejši		ADJ;FEM;INS;PL
+resníčnejši	resníčnejšima	ADJ;NEUT;INS;DU
+resníčnejši	resníčnejše	ADJ;FEM;NOM;PL
+resníčnejši		ADJ;NEUT;INS;SG
+resníčnejši		ADJ;NEUT;INS;PL
+resníčnejši		ADJ;FEM;ACC;DU
+resníčnejši		ADJ;NEUT;ACC;DU
+resníčnejši		ADJ;MASC;INS;SG
+resníčnejši		ADJ;FEM;INS;DU
+resníčnejši		ADJ;NEUT;DAT;PL
+resníčnejši		ADJ;MASC;DAT;DU
+resníčnejši		ADJ;NEUT;ESS;SG
+resníčnejši		ADJ;FEM;ESS;SG
+resníčnejši		ADJ;MASC;GEN;DU
+resníčnejši		ADJ;FEM;GEN;SG
+resníčnejši		ADJ;NEUT;GEN;SG
+resníčnejši		ADJ;FEM;INS;SG
+resníčnejši		ADJ;MASC;NOM;PL
+resníčnejši	resníčnejšim	ADJ;MASC;DAT;PL
+resníčnejši		ADJ;MASC;ESS;PL
+resníčnejši		ADJ;MASC;INS;PL
+resníčnejši		ADJ;NEUT;GEN;DU
+resníčnejši		ADJ;FEM;GEN;DU
+resníčnejši		ADJ;NEUT;ACC;PL
+resníčnejši	resníčnejše	ADJ;FEM;ACC;PL
+resníčnejši	resníčnejšima	ADJ;FEM;DAT;DU
+resníčnejši	resníčnejšima	ADJ;NEUT;DAT;DU
+resníčnejši		ADJ;MASC;NOM;DU
+resníčnejši		ADJ;MASC;ESS;DU
+resníčnejši		ADJ;FEM;NOM;SG
+resníčnejši		ADJ;NEUT;NOM;SG
+resníčnejši		ADJ;NEUT;ESS;DU
+resníčnejši		ADJ;MASC;ESS;SG
+resníčnejši		ADJ;NEUT;NOM;DU
+resníčnejši		ADJ;FEM;NOM;DU
+resníčnejši		ADJ;FEM;ESS;DU
+resníčnejši	resníčnejšega	ADJ;MASC;GEN;SG
+resníčnejši		ADJ;FEM;GEN;PL
+resníčnejši		ADJ;NEUT;GEN;PL
+svéča		N;NOM;PL
+svéča	svéč	N;GEN;PL
+svéča		N;ESS;DU
+svéča		N;ACC;SG
+svéča		N;ACC;DU
+svéča		N;INS;PL
+svéča		N;ESS;PL
+svéča		N;ESS;SG
+svéča		N;DAT;DU
+svéča	svéča	N;NOM;SG
+svéča		N;INS;SG
+svéča		N;DAT;SG
+svéča		N;ACC;PL
+svéča		N;NOM;DU
+svéča		N;GEN;DU
+svéča		N;GEN;SG
+svéča		N;INS;DU
+svéča	svéčam	N;DAT;PL
+háfnij		N;GEN;SG
+háfnij		N;ESS;SG
+háfnij		N;NOM;SG
+háfnij		N;INS;SG
+háfnij		N;DAT;SG
+háfnij		N;ACC;SG
+svízec		N;GEN;PL
+svízec		N;ACC;PL
+svízec		N;GEN;SG
+svízec		N;INS;PL
+svízec		N;ACC;DU
+svízec		N;ESS;PL
+svízec	svízcu	N;ESS;SG
+svízec	svízcema	N;DAT;DU
+svízec		N;NOM;SG
+svízec		N;ESS;DU
+svízec		N;INS;SG
+svízec		N;DAT;SG
+svízec		N;NOM;PL
+svízec	svízcem	N;DAT;PL
+svízec		N;ACC;SG
+svízec		N;GEN;DU
+svízec		N;INS;DU
+svízec		N;NOM;DU
+kúrva		N;NOM;PL
+kúrva		N;GEN;PL
+kúrva		N;ESS;DU
+kúrva		N;ACC;SG
+kúrva		N;ACC;DU
+kúrva		N;INS;PL
+kúrva		N;ESS;PL
+kúrva		N;ESS;SG
+kúrva		N;DAT;DU
+kúrva		N;NOM;SG
+kúrva		N;INS;SG
+kúrva		N;DAT;SG
+kúrva	kúrve	N;ACC;PL
+kúrva	kúrvi	N;NOM;DU
+kúrva	kúrv	N;GEN;DU
+kúrva		N;GEN;SG
+kúrva		N;INS;DU
+kúrva		N;DAT;PL
+teroríst		N;NOM;PL
+teroríst	terorístov	N;GEN;PL
+teroríst		N;ESS;DU
+teroríst		N;INS;PL
+teroríst	terorísta	N;ACC;DU
+teroríst		N;ESS;PL
+teroríst		N;ESS;SG
+teroríst		N;DAT;DU
+teroríst		N;NOM;SG
+teroríst		N;GEN;SG
+teroríst		N;INS;SG
+teroríst		N;DAT;SG
+teroríst		N;ACC;PL
+teroríst		N;ACC;SG
+teroríst		N;DAT;PL
+teroríst		N;GEN;DU
+teroríst	terorístoma	N;INS;DU
+teroríst		N;NOM;DU
+áfna		N;GEN;PL
+áfna		N;NOM;PL
+áfna		N;ESS;DU
+áfna	áfni	N;NOM;DU
+áfna		N;ACC;DU
+áfna		N;INS;PL
+áfna		N;ESS;PL
+áfna		N;ACC;SG
+áfna		N;ESS;SG
+áfna	áfnama	N;DAT;DU
+áfna	áfna	N;NOM;SG
+áfna		N;INS;SG
+áfna		N;DAT;SG
+áfna		N;ACC;PL
+áfna		N;GEN;DU
+áfna		N;GEN;SG
+áfna		N;INS;DU
+áfna		N;DAT;PL
+klofúta		N;NOM;PL
+klofúta	klofút	N;GEN;PL
+klofúta		N;ESS;DU
+klofúta		N;ACC;SG
+klofúta		N;ACC;DU
+klofúta		N;INS;PL
+klofúta		N;ESS;PL
+klofúta	klofúti	N;ESS;SG
+klofúta		N;DAT;DU
+klofúta		N;NOM;SG
+klofúta		N;INS;SG
+klofúta	klofúti	N;DAT;SG
+klofúta		N;ACC;PL
+klofúta		N;NOM;DU
+klofúta		N;GEN;DU
+klofúta		N;GEN;SG
+klofúta		N;INS;DU
+klofúta		N;DAT;PL
+nebotíčnik		N;NOM;PL
+nebotíčnik	nebotíčnikov	N;GEN;PL
+nebotíčnik		N;ESS;DU
+nebotíčnik		N;INS;PL
+nebotíčnik		N;ACC;DU
+nebotíčnik		N;ESS;PL
+nebotíčnik	nebotíčniku	N;ESS;SG
+nebotíčnik		N;DAT;DU
+nebotíčnik		N;NOM;SG
+nebotíčnik		N;GEN;SG
+nebotíčnik		N;INS;SG
+nebotíčnik		N;DAT;SG
+nebotíčnik		N;ACC;PL
+nebotíčnik		N;NOM;DU
+nebotíčnik		N;DAT;PL
+nebotíčnik	nebotíčnikov	N;GEN;DU
+nebotíčnik		N;INS;DU
+nebotíčnik		N;ACC;SG
+ksilofón		N;NOM;PL
+ksilofón		N;GEN;PL
+ksilofón		N;ESS;DU
+ksilofón		N;INS;PL
+ksilofón		N;ACC;DU
+ksilofón		N;ESS;PL
+ksilofón	ksilofónu	N;ESS;SG
+ksilofón		N;DAT;DU
+ksilofón	ksilofón	N;NOM;SG
+ksilofón		N;GEN;SG
+ksilofón		N;INS;SG
+ksilofón		N;DAT;SG
+ksilofón		N;ACC;PL
+ksilofón	ksilofóna	N;NOM;DU
+ksilofón		N;DAT;PL
+ksilofón		N;GEN;DU
+ksilofón		N;INS;DU
+ksilofón		N;ACC;SG
+svetlêjši		ADJ;MASC;INS;DU
+svetlêjši	svetlêjšim	ADJ;FEM;DAT;PL
+svetlêjši		ADJ;NEUT;ESS;PL
+svetlêjši	svetlêjših	ADJ;FEM;ESS;PL
+svetlêjši		ADJ;MASC;ACC;PL
+svetlêjši		ADJ;NEUT;DAT;SG
+svetlêjši		ADJ;FEM;DAT;SG
+svetlêjši		ADJ;MASC;NOM;SG
+svetlêjši		ADJ;MASC;DAT;SG
+svetlêjši		ADJ;NEUT;NOM;PL
+svetlêjši		ADJ;MASC;ACC;DU
+svetlêjši		ADJ;NEUT;ACC;SG
+svetlêjši		ADJ;FEM;ACC;SG
+svetlêjši		ADJ;MASC;GEN;PL
+svetlêjši	svetlêjšimi	ADJ;FEM;INS;PL
+svetlêjši		ADJ;NEUT;INS;DU
+svetlêjši		ADJ;FEM;NOM;PL
+svetlêjši		ADJ;NEUT;INS;SG
+svetlêjši		ADJ;NEUT;INS;PL
+svetlêjši	svetlêjši	ADJ;FEM;ACC;DU
+svetlêjši		ADJ;NEUT;ACC;DU
+svetlêjši		ADJ;MASC;INS;SG
+svetlêjši		ADJ;FEM;INS;DU
+svetlêjši		ADJ;NEUT;DAT;PL
+svetlêjši		ADJ;MASC;DAT;DU
+svetlêjši		ADJ;NEUT;ESS;SG
+svetlêjši		ADJ;FEM;ESS;SG
+svetlêjši		ADJ;MASC;GEN;DU
+svetlêjši		ADJ;FEM;GEN;SG
+svetlêjši		ADJ;NEUT;GEN;SG
+svetlêjši		ADJ;FEM;INS;SG
+svetlêjši	svetlêjši	ADJ;MASC;NOM;PL
+svetlêjši	svetlêjšim	ADJ;MASC;DAT;PL
+svetlêjši		ADJ;MASC;ESS;PL
+svetlêjši		ADJ;MASC;INS;PL
+svetlêjši		ADJ;NEUT;GEN;DU
+svetlêjši		ADJ;FEM;GEN;DU
+svetlêjši	svetlêjša	ADJ;NEUT;ACC;PL
+svetlêjši		ADJ;FEM;ACC;PL
+svetlêjši		ADJ;FEM;DAT;DU
+svetlêjši		ADJ;NEUT;DAT;DU
+svetlêjši	svetlêjša	ADJ;MASC;NOM;DU
+svetlêjši		ADJ;MASC;ESS;DU
+svetlêjši	svetlêjša	ADJ;FEM;NOM;SG
+svetlêjši		ADJ;NEUT;NOM;SG
+svetlêjši		ADJ;NEUT;ESS;DU
+svetlêjši	svetlêjšem	ADJ;MASC;ESS;SG
+svetlêjši		ADJ;NEUT;NOM;DU
+svetlêjši		ADJ;FEM;NOM;DU
+svetlêjši		ADJ;FEM;ESS;DU
+svetlêjši		ADJ;MASC;GEN;SG
+svetlêjši		ADJ;FEM;GEN;PL
+svetlêjši		ADJ;NEUT;GEN;PL
+oddájnik		N;NOM;PL
+oddájnik		N;GEN;PL
+oddájnik		N;ESS;DU
+oddájnik		N;INS;PL
+oddájnik		N;ACC;DU
+oddájnik	oddájnikih	N;ESS;PL
+oddájnik		N;ESS;SG
+oddájnik		N;DAT;DU
+oddájnik		N;NOM;SG
+oddájnik		N;GEN;SG
+oddájnik		N;INS;SG
+oddájnik		N;DAT;SG
+oddájnik		N;ACC;PL
+oddájnik		N;NOM;DU
+oddájnik		N;DAT;PL
+oddájnik	oddájnikov	N;GEN;DU
+oddájnik	oddájnikoma	N;INS;DU
+oddájnik		N;ACC;SG
+pôsel	pôsli	N;NOM;PL
+pôsel	pôslov	N;GEN;PL
+pôsel		N;GEN;SG
+pôsel		N;INS;PL
+pôsel	pôsla	N;ACC;DU
+pôsel		N;ESS;PL
+pôsel		N;ESS;SG
+pôsel		N;DAT;DU
+pôsel		N;NOM;SG
+pôsel		N;INS;SG
+pôsel		N;DAT;SG
+pôsel		N;ESS;DU
+pôsel		N;ACC;PL
+pôsel		N;ACC;SG
+pôsel		N;DAT;PL
+pôsel		N;GEN;DU
+pôsel		N;INS;DU
+pôsel		N;NOM;DU
+asteroíd		N;NOM;PL
+asteroíd		N;GEN;PL
+asteroíd		N;ESS;DU
+asteroíd		N;INS;PL
+asteroíd		N;ACC;DU
+asteroíd		N;ESS;PL
+asteroíd	asteroídu	N;ESS;SG
+asteroíd	asteroídoma	N;DAT;DU
+asteroíd		N;NOM;SG
+asteroíd		N;GEN;SG
+asteroíd		N;INS;SG
+asteroíd		N;DAT;SG
+asteroíd		N;ACC;PL
+asteroíd		N;NOM;DU
+asteroíd	asteroídom	N;DAT;PL
+asteroíd		N;GEN;DU
+asteroíd		N;INS;DU
+asteroíd		N;ACC;SG
+minúta		N;NOM;PL
+minúta		N;GEN;PL
+minúta		N;ESS;DU
+minúta	minúto	N;ACC;SG
+minúta		N;ACC;DU
+minúta		N;INS;PL
+minúta		N;ESS;PL
+minúta		N;ESS;SG
+minúta		N;DAT;DU
+minúta	minúta	N;NOM;SG
+minúta		N;INS;SG
+minúta		N;DAT;SG
+minúta		N;ACC;PL
+minúta		N;NOM;DU
+minúta		N;GEN;DU
+minúta		N;GEN;SG
+minúta		N;INS;DU
+minúta	minútam	N;DAT;PL
+prijáteljica		N;NOM;PL
+prijáteljica		N;GEN;PL
+prijáteljica		N;ESS;DU
+prijáteljica		N;ACC;SG
+prijáteljica		N;ACC;DU
+prijáteljica	prijáteljicami	N;INS;PL
+prijáteljica		N;ESS;PL
+prijáteljica		N;ESS;SG
+prijáteljica		N;DAT;DU
+prijáteljica		N;NOM;SG
+prijáteljica	prijáteljico	N;INS;SG
+prijáteljica		N;DAT;SG
+prijáteljica		N;ACC;PL
+prijáteljica		N;NOM;DU
+prijáteljica	prijáteljic	N;GEN;DU
+prijáteljica		N;GEN;SG
+prijáteljica		N;INS;DU
+prijáteljica		N;DAT;PL
+ubíti		V.MSDR
+ubíti		V;IND;PRS;1;PL
+ubíti	ubíje	V;IND;PRS;3;SG
+ubíti	ubíj	V;IMP;2;SG
+ubíti		V;IND;PRS;3;PL
+ubíti		V.PCTP;ACT;PRS
+ubíti		V;IND;PRS;2;PL
+ubíti		V;IND;PRF;PST
+ubíti		V;IND;PST
+ubíti		V;COND;PRS
+ubíti	ubíjta	V;IMP;2;DU
+ubíti		V;IND;PRS;1;DU
+ubíti		V;IMP;1;DU
+ubíti		V.PCTP;ACT;PST
+ubíti		V;IMP;2;PL
+ubíti		V;NFIN
+ubíti		V;IND;FUT
+ubíti		V.PCTP;PASS;PST
+ubíti	ubíješ	V;IND;PRS;2;SG
+ubíti		V;IND;PRS;3;DU
+ubíti		V;IND;PRS;1;SG
+ubíti		V;IMP;1;PL
+ubíti		V;IND;PRS;2;DU
+ubíti		V;COND;PST
+slájši		ADJ;MASC;INS;DU
+slájši		ADJ;FEM;DAT;PL
+slájši		ADJ;NEUT;ESS;PL
+slájši	slájših	ADJ;FEM;ESS;PL
+slájši	slájše	ADJ;MASC;ACC;PL
+slájši	slájšemu	ADJ;NEUT;DAT;SG
+slájši		ADJ;FEM;DAT;SG
+slájši		ADJ;MASC;NOM;SG
+slájši		ADJ;MASC;DAT;SG
+slájši		ADJ;NEUT;NOM;PL
+slájši		ADJ;MASC;ACC;DU
+slájši		ADJ;NEUT;ACC;SG
+slájši		ADJ;FEM;ACC;SG
+slájši		ADJ;MASC;GEN;PL
+slájši	slájšimi	ADJ;FEM;INS;PL
+slájši		ADJ;NEUT;INS;DU
+slájši		ADJ;FEM;NOM;PL
+slájši		ADJ;NEUT;INS;SG
+slájši		ADJ;NEUT;INS;PL
+slájši	slájši	ADJ;FEM;ACC;DU
+slájši	slájši	ADJ;NEUT;ACC;DU
+slájši		ADJ;MASC;INS;SG
+slájši		ADJ;FEM;INS;DU
+slájši		ADJ;NEUT;DAT;PL
+slájši		ADJ;MASC;DAT;DU
+slájši		ADJ;NEUT;ESS;SG
+slájši		ADJ;FEM;ESS;SG
+slájši		ADJ;MASC;GEN;DU
+slájši		ADJ;FEM;GEN;SG
+slájši		ADJ;NEUT;GEN;SG
+slájši		ADJ;FEM;INS;SG
+slájši		ADJ;MASC;NOM;PL
+slájši	slájšim	ADJ;MASC;DAT;PL
+slájši		ADJ;MASC;ESS;PL
+slájši		ADJ;MASC;INS;PL
+slájši		ADJ;NEUT;GEN;DU
+slájši		ADJ;FEM;GEN;DU
+slájši	slájša	ADJ;NEUT;ACC;PL
+slájši		ADJ;FEM;ACC;PL
+slájši		ADJ;FEM;DAT;DU
+slájši		ADJ;NEUT;DAT;DU
+slájši		ADJ;MASC;NOM;DU
+slájši		ADJ;MASC;ESS;DU
+slájši		ADJ;FEM;NOM;SG
+slájši		ADJ;NEUT;NOM;SG
+slájši	slájših	ADJ;NEUT;ESS;DU
+slájši		ADJ;MASC;ESS;SG
+slájši	slájši	ADJ;NEUT;NOM;DU
+slájši		ADJ;FEM;NOM;DU
+slájši		ADJ;FEM;ESS;DU
+slájši		ADJ;MASC;GEN;SG
+slájši		ADJ;FEM;GEN;PL
+slájši		ADJ;NEUT;GEN;PL
+tlák		N;NOM;PL
+tlák		N;GEN;PL
+tlák		N;ESS;DU
+tlák		N;INS;PL
+tlák		N;ACC;DU
+tlák		N;ESS;PL
+tlák		N;ESS;SG
+tlák		N;DAT;DU
+tlák		N;NOM;SG
+tlák		N;GEN;SG
+tlák	tlákom	N;INS;SG
+tlák		N;DAT;SG
+tlák		N;ACC;PL
+tlák	tláka	N;NOM;DU
+tlák		N;DAT;PL
+tlák		N;GEN;DU
+tlák	tlákoma	N;INS;DU
+tlák		N;ACC;SG
+kálcij		N;GEN;SG
+kálcij		N;ESS;SG
+kálcij		N;NOM;SG
+kálcij		N;INS;SG
+kálcij		N;DAT;SG
+kálcij		N;ACC;SG
+fíga		N;NOM;PL
+fíga		N;GEN;PL
+fíga	fígah	N;ESS;DU
+fíga		N;ACC;SG
+fíga		N;ACC;DU
+fíga	fígami	N;INS;PL
+fíga		N;ESS;PL
+fíga		N;ESS;SG
+fíga		N;DAT;DU
+fíga		N;NOM;SG
+fíga		N;INS;SG
+fíga		N;DAT;SG
+fíga	fíge	N;ACC;PL
+fíga		N;NOM;DU
+fíga		N;GEN;DU
+fíga		N;GEN;SG
+fíga		N;INS;DU
+fíga		N;DAT;PL
+klarinét		N;NOM;PL
+klarinét		N;GEN;PL
+klarinét	klarinétih	N;ESS;DU
+klarinét		N;INS;PL
+klarinét		N;ACC;DU
+klarinét		N;ESS;PL
+klarinét		N;ESS;SG
+klarinét		N;DAT;DU
+klarinét		N;NOM;SG
+klarinét		N;GEN;SG
+klarinét		N;INS;SG
+klarinét		N;DAT;SG
+klarinét		N;ACC;PL
+klarinét		N;NOM;DU
+klarinét		N;DAT;PL
+klarinét		N;GEN;DU
+klarinét	klarinétoma	N;INS;DU
+klarinét	klarinét	N;ACC;SG
+toplêjši		ADJ;MASC;INS;DU
+toplêjši		ADJ;FEM;DAT;PL
+toplêjši	toplêjših	ADJ;NEUT;ESS;PL
+toplêjši		ADJ;FEM;ESS;PL
+toplêjši		ADJ;MASC;ACC;PL
+toplêjši		ADJ;NEUT;DAT;SG
+toplêjši	toplêjši	ADJ;FEM;DAT;SG
+toplêjši		ADJ;MASC;NOM;SG
+toplêjši		ADJ;MASC;DAT;SG
+toplêjši		ADJ;NEUT;NOM;PL
+toplêjši		ADJ;MASC;ACC;DU
+toplêjši		ADJ;NEUT;ACC;SG
+toplêjši		ADJ;FEM;ACC;SG
+toplêjši		ADJ;MASC;GEN;PL
+toplêjši		ADJ;FEM;INS;PL
+toplêjši		ADJ;NEUT;INS;DU
+toplêjši	toplêjše	ADJ;FEM;NOM;PL
+toplêjši		ADJ;NEUT;INS;SG
+toplêjši		ADJ;NEUT;INS;PL
+toplêjši		ADJ;FEM;ACC;DU
+toplêjši		ADJ;NEUT;ACC;DU
+toplêjši		ADJ;MASC;INS;SG
+toplêjši		ADJ;FEM;INS;DU
+toplêjši	toplêjšim	ADJ;NEUT;DAT;PL
+toplêjši		ADJ;MASC;DAT;DU
+toplêjši		ADJ;NEUT;ESS;SG
+toplêjši	toplêjši	ADJ;FEM;ESS;SG
+toplêjši		ADJ;MASC;GEN;DU
+toplêjši	toplêjše	ADJ;FEM;GEN;SG
+toplêjši		ADJ;NEUT;GEN;SG
+toplêjši	toplêjšo	ADJ;FEM;INS;SG
+toplêjši		ADJ;MASC;NOM;PL
+toplêjši		ADJ;MASC;DAT;PL
+toplêjši		ADJ;MASC;ESS;PL
+toplêjši		ADJ;MASC;INS;PL
+toplêjši		ADJ;NEUT;GEN;DU
+toplêjši		ADJ;FEM;GEN;DU
+toplêjši	toplêjša	ADJ;NEUT;ACC;PL
+toplêjši		ADJ;FEM;ACC;PL
+toplêjši	toplêjšima	ADJ;FEM;DAT;DU
+toplêjši		ADJ;NEUT;DAT;DU
+toplêjši		ADJ;MASC;NOM;DU
+toplêjši		ADJ;MASC;ESS;DU
+toplêjši	toplêjša	ADJ;FEM;NOM;SG
+toplêjši		ADJ;NEUT;NOM;SG
+toplêjši		ADJ;NEUT;ESS;DU
+toplêjši		ADJ;MASC;ESS;SG
+toplêjši		ADJ;NEUT;NOM;DU
+toplêjši		ADJ;FEM;NOM;DU
+toplêjši		ADJ;FEM;ESS;DU
+toplêjši		ADJ;MASC;GEN;SG
+toplêjši		ADJ;FEM;GEN;PL
+toplêjši		ADJ;NEUT;GEN;PL
+nàjjéznejši		ADJ;MASC;INS;DU
+nàjjéznejši		ADJ;FEM;DAT;PL
+nàjjéznejši		ADJ;NEUT;ESS;PL
+nàjjéznejši		ADJ;FEM;ESS;PL
+nàjjéznejši		ADJ;MASC;ACC;PL
+nàjjéznejši		ADJ;NEUT;DAT;SG
+nàjjéznejši		ADJ;FEM;DAT;SG
+nàjjéznejši		ADJ;MASC;NOM;SG
+nàjjéznejši		ADJ;MASC;DAT;SG
+nàjjéznejši	nàjjéznejša	ADJ;NEUT;NOM;PL
+nàjjéznejši		ADJ;MASC;ACC;DU
+nàjjéznejši		ADJ;NEUT;ACC;SG
+nàjjéznejši		ADJ;FEM;ACC;SG
+nàjjéznejši	nàjjéznejših	ADJ;MASC;GEN;PL
+nàjjéznejši		ADJ;FEM;INS;PL
+nàjjéznejši	nàjjéznejšima	ADJ;NEUT;INS;DU
+nàjjéznejši		ADJ;FEM;NOM;PL
+nàjjéznejši		ADJ;NEUT;INS;SG
+nàjjéznejši		ADJ;NEUT;INS;PL
+nàjjéznejši		ADJ;FEM;ACC;DU
+nàjjéznejši		ADJ;NEUT;ACC;DU
+nàjjéznejši		ADJ;MASC;INS;SG
+nàjjéznejši		ADJ;FEM;INS;DU
+nàjjéznejši		ADJ;NEUT;DAT;PL
+nàjjéznejši		ADJ;MASC;DAT;DU
+nàjjéznejši	nàjjéznejšem	ADJ;NEUT;ESS;SG
+nàjjéznejši	nàjjéznejši	ADJ;FEM;ESS;SG
+nàjjéznejši		ADJ;MASC;GEN;DU
+nàjjéznejši	nàjjéznejše	ADJ;FEM;GEN;SG
+nàjjéznejši		ADJ;NEUT;GEN;SG
+nàjjéznejši		ADJ;FEM;INS;SG
+nàjjéznejši	nàjjéznejši	ADJ;MASC;NOM;PL
+nàjjéznejši	nàjjéznejšim	ADJ;MASC;DAT;PL
+nàjjéznejši		ADJ;MASC;ESS;PL
+nàjjéznejši		ADJ;MASC;INS;PL
+nàjjéznejši		ADJ;NEUT;GEN;DU
+nàjjéznejši		ADJ;FEM;GEN;DU
+nàjjéznejši		ADJ;NEUT;ACC;PL
+nàjjéznejši		ADJ;FEM;ACC;PL
+nàjjéznejši	nàjjéznejšima	ADJ;FEM;DAT;DU
+nàjjéznejši	nàjjéznejšima	ADJ;NEUT;DAT;DU
+nàjjéznejši		ADJ;MASC;NOM;DU
+nàjjéznejši		ADJ;MASC;ESS;DU
+nàjjéznejši		ADJ;FEM;NOM;SG
+nàjjéznejši		ADJ;NEUT;NOM;SG
+nàjjéznejši		ADJ;NEUT;ESS;DU
+nàjjéznejši		ADJ;MASC;ESS;SG
+nàjjéznejši		ADJ;NEUT;NOM;DU
+nàjjéznejši		ADJ;FEM;NOM;DU
+nàjjéznejši		ADJ;FEM;ESS;DU
+nàjjéznejši		ADJ;MASC;GEN;SG
+nàjjéznejši		ADJ;FEM;GEN;PL
+nàjjéznejši		ADJ;NEUT;GEN;PL
+réč		N;GEN;PL
+réč		N;NOM;PL
+réč		N;ESS;DU
+réč		N;INS;PL
+réč		N;ACC;SG
+réč		N;NOM;DU
+réč		N;ACC;DU
+réč	rečéh	N;ESS;PL
+réč		N;ESS;SG
+réč		N;DAT;DU
+réč	réč	N;NOM;SG
+réč	rečí	N;GEN;SG
+réč		N;INS;SG
+réč		N;DAT;SG
+réč		N;ACC;PL
+réč		N;GEN;DU
+réč		N;INS;DU
+réč		N;DAT;PL
+drséti		V.MSDR
+drséti		V;IND;PRS;1;PL
+drséti		V;IMP;2;SG
+drséti		V;IND;PRS;3;PL
+drséti		V.PCTP;ACT;PRS
+drséti	drsèl	V.PCTP;ACT;PST
+drséti		V;IND;PRF;PST
+drséti		V;IND;PST
+drséti		V;COND;PRS
+drséti	drsíta	V;IMP;2;DU
+drséti		V;IND;PRS;2;PL
+drséti		V;IND;PRS;1;DU
+drséti		V;IMP;1;DU
+drséti		V;IND;PRS;3;SG
+drséti		V;IMP;2;PL
+drséti		V;NFIN
+drséti		V;IND;FUT
+drséti	drsíš	V;IND;PRS;2;SG
+drséti		V;IND;PRS;3;DU
+drséti	drsím	V;IND;PRS;1;SG
+drséti		V;IMP;1;PL
+drséti		V;IND;PRS;2;DU
+drséti		V;COND;PST
+kálij		N;GEN;SG
+kálij		N;ESS;SG
+kálij		N;NOM;SG
+kálij		N;INS;SG
+kálij		N;DAT;SG
+kálij		N;ACC;SG
+Túrkinja		N;NOM;PL
+Túrkinja	Túrkinj	N;GEN;PL
+Túrkinja		N;ESS;DU
+Túrkinja		N;ACC;SG
+Túrkinja		N;ACC;DU
+Túrkinja	Túrkinjami	N;INS;PL
+Túrkinja		N;ESS;PL
+Túrkinja		N;ESS;SG
+Túrkinja		N;DAT;DU
+Túrkinja		N;NOM;SG
+Túrkinja	Túrkinjo	N;INS;SG
+Túrkinja		N;DAT;SG
+Túrkinja		N;ACC;PL
+Túrkinja		N;NOM;DU
+Túrkinja		N;GEN;DU
+Túrkinja		N;GEN;SG
+Túrkinja		N;INS;DU
+Túrkinja		N;DAT;PL
+poljúb	poljúbi	N;NOM;PL
+poljúb		N;GEN;PL
+poljúb		N;ESS;DU
+poljúb		N;INS;PL
+poljúb		N;ACC;DU
+poljúb		N;ESS;PL
+poljúb		N;ESS;SG
+poljúb		N;DAT;DU
+poljúb		N;NOM;SG
+poljúb		N;GEN;SG
+poljúb		N;INS;SG
+poljúb	poljúbu	N;DAT;SG
+poljúb		N;ACC;PL
+poljúb		N;NOM;DU
+poljúb		N;DAT;PL
+poljúb		N;GEN;DU
+poljúb	poljúboma	N;INS;DU
+poljúb		N;ACC;SG
+mrhovína		N;NOM;PL
+mrhovína		N;GEN;PL
+mrhovína	mrhovínah	N;ESS;DU
+mrhovína		N;ACC;SG
+mrhovína		N;ACC;DU
+mrhovína	mrhovínami	N;INS;PL
+mrhovína		N;ESS;PL
+mrhovína		N;ESS;SG
+mrhovína		N;DAT;DU
+mrhovína		N;NOM;SG
+mrhovína		N;INS;SG
+mrhovína		N;DAT;SG
+mrhovína		N;ACC;PL
+mrhovína		N;NOM;DU
+mrhovína		N;GEN;DU
+mrhovína	mrhovíne	N;GEN;SG
+mrhovína		N;INS;DU
+mrhovína		N;DAT;PL
+rokavíca		N;NOM;PL
+rokavíca		N;GEN;PL
+rokavíca		N;ESS;DU
+rokavíca	rokavíco	N;ACC;SG
+rokavíca		N;ACC;DU
+rokavíca		N;INS;PL
+rokavíca		N;ESS;PL
+rokavíca		N;ESS;SG
+rokavíca	rokavícama	N;DAT;DU
+rokavíca		N;NOM;SG
+rokavíca		N;INS;SG
+rokavíca		N;DAT;SG
+rokavíca		N;ACC;PL
+rokavíca	rokavíci	N;NOM;DU
+rokavíca		N;GEN;DU
+rokavíca		N;GEN;SG
+rokavíca		N;INS;DU
+rokavíca		N;DAT;PL
+pí		N;GEN;PL
+pí		N;NOM;PL
+pí		N;GEN;SG
+pí	pí	N;ACC;SG
+pí		N;INS;PL
+pí		N;ACC;DU
+pí		N;ESS;PL
+pí		N;ESS;SG
+pí		N;DAT;DU
+pí		N;NOM;SG
+pí	píjih	N;ESS;DU
+pí		N;INS;SG
+pí		N;DAT;SG
+pí		N;ACC;PL
+pí	píja	N;NOM;DU
+pí		N;GEN;DU
+pí		N;INS;DU
+pí		N;DAT;PL
+kardinál		N;NOM;PL
+kardinál		N;GEN;PL
+kardinál		N;ESS;DU
+kardinál	kardináli	N;INS;PL
+kardinál		N;ACC;DU
+kardinál		N;ESS;PL
+kardinál		N;ESS;SG
+kardinál		N;DAT;DU
+kardinál		N;NOM;SG
+kardinál		N;GEN;SG
+kardinál		N;INS;SG
+kardinál	kardinálu	N;DAT;SG
+kardinál	kardinále	N;ACC;PL
+kardinál		N;ACC;SG
+kardinál		N;DAT;PL
+kardinál		N;GEN;DU
+kardinál		N;INS;DU
+kardinál		N;NOM;DU
+usódnejši		ADJ;MASC;INS;DU
+usódnejši		ADJ;FEM;DAT;PL
+usódnejši		ADJ;NEUT;ESS;PL
+usódnejši		ADJ;FEM;ESS;PL
+usódnejši		ADJ;MASC;ACC;PL
+usódnejši		ADJ;NEUT;DAT;SG
+usódnejši		ADJ;FEM;DAT;SG
+usódnejši	usódnejši	ADJ;MASC;NOM;SG
+usódnejši	usódnejšemu	ADJ;MASC;DAT;SG
+usódnejši		ADJ;NEUT;NOM;PL
+usódnejši		ADJ;MASC;ACC;DU
+usódnejši		ADJ;NEUT;ACC;SG
+usódnejši	usódnejšo	ADJ;FEM;ACC;SG
+usódnejši		ADJ;MASC;GEN;PL
+usódnejši		ADJ;FEM;INS;PL
+usódnejši		ADJ;NEUT;INS;DU
+usódnejši		ADJ;FEM;NOM;PL
+usódnejši		ADJ;NEUT;INS;SG
+usódnejši		ADJ;NEUT;INS;PL
+usódnejši	usódnejši	ADJ;FEM;ACC;DU
+usódnejši		ADJ;NEUT;ACC;DU
+usódnejši	usódnejšim	ADJ;MASC;INS;SG
+usódnejši	usódnejšima	ADJ;FEM;INS;DU
+usódnejši	usódnejšim	ADJ;NEUT;DAT;PL
+usódnejši		ADJ;MASC;DAT;DU
+usódnejši		ADJ;NEUT;ESS;SG
+usódnejši		ADJ;FEM;ESS;SG
+usódnejši		ADJ;MASC;GEN;DU
+usódnejši		ADJ;FEM;GEN;SG
+usódnejši		ADJ;NEUT;GEN;SG
+usódnejši		ADJ;FEM;INS;SG
+usódnejši		ADJ;MASC;NOM;PL
+usódnejši		ADJ;MASC;DAT;PL
+usódnejši		ADJ;MASC;ESS;PL
+usódnejši		ADJ;MASC;INS;PL
+usódnejši		ADJ;NEUT;GEN;DU
+usódnejši		ADJ;FEM;GEN;DU
+usódnejši		ADJ;NEUT;ACC;PL
+usódnejši		ADJ;FEM;ACC;PL
+usódnejši		ADJ;FEM;DAT;DU
+usódnejši		ADJ;NEUT;DAT;DU
+usódnejši	usódnejša	ADJ;MASC;NOM;DU
+usódnejši		ADJ;MASC;ESS;DU
+usódnejši		ADJ;FEM;NOM;SG
+usódnejši	usódnejše	ADJ;NEUT;NOM;SG
+usódnejši		ADJ;NEUT;ESS;DU
+usódnejši		ADJ;MASC;ESS;SG
+usódnejši	usódnejši	ADJ;NEUT;NOM;DU
+usódnejši		ADJ;FEM;NOM;DU
+usódnejši		ADJ;FEM;ESS;DU
+usódnejši		ADJ;MASC;GEN;SG
+usódnejši		ADJ;FEM;GEN;PL
+usódnejši		ADJ;NEUT;GEN;PL
+kòš		N;GEN;PL
+kòš		N;NOM;PL
+kòš		N;GEN;SG
+kòš		N;ACC;SG
+kòš		N;INS;PL
+kòš		N;ACC;DU
+kòš		N;ESS;PL
+kòš	kôšu	N;ESS;SG
+kòš		N;DAT;DU
+kòš		N;NOM;SG
+kòš		N;ESS;DU
+kòš		N;INS;SG
+kòš		N;DAT;SG
+kòš		N;ACC;PL
+kòš	kôša	N;NOM;DU
+kòš		N;GEN;DU
+kòš	kôšema	N;INS;DU
+kòš		N;DAT;PL
+kapétanka		N;NOM;PL
+kapétanka		N;GEN;PL
+kapétanka		N;ESS;DU
+kapétanka		N;ACC;SG
+kapétanka	kapétanki	N;ACC;DU
+kapétanka		N;INS;PL
+kapétanka		N;ESS;PL
+kapétanka		N;ESS;SG
+kapétanka		N;DAT;DU
+kapétanka		N;NOM;SG
+kapétanka		N;INS;SG
+kapétanka	kapétanki	N;DAT;SG
+kapétanka		N;ACC;PL
+kapétanka		N;NOM;DU
+kapétanka		N;GEN;DU
+kapétanka		N;GEN;SG
+kapétanka	kapétankama	N;INS;DU
+kapétanka		N;DAT;PL
+svák		N;NOM;PL
+svák	svákov	N;GEN;PL
+svák		N;ESS;DU
+svák		N;INS;PL
+svák	sváka	N;ACC;DU
+svák		N;ESS;PL
+svák		N;ESS;SG
+svák		N;DAT;DU
+svák		N;NOM;SG
+svák		N;GEN;SG
+svák		N;INS;SG
+svák		N;DAT;SG
+svák		N;ACC;PL
+svák		N;ACC;SG
+svák	svákom	N;DAT;PL
+svák		N;GEN;DU
+svák		N;INS;DU
+svák		N;NOM;DU
+bás		N;NOM;PL
+bás	básov	N;GEN;PL
+bás		N;ESS;DU
+bás		N;INS;PL
+bás		N;ACC;DU
+bás		N;ESS;PL
+bás		N;ESS;SG
+bás		N;DAT;DU
+bás		N;NOM;SG
+bás	bása	N;GEN;SG
+bás		N;INS;SG
+bás		N;DAT;SG
+bás		N;ACC;PL
+bás	bása	N;NOM;DU
+bás		N;DAT;PL
+bás		N;GEN;DU
+bás		N;INS;DU
+bás		N;ACC;SG
+pívo		N;NOM;PL
+pívo		N;GEN;PL
+pívo	píva	N;GEN;SG
+pívo	pívo	N;ACC;SG
+pívo		N;INS;PL
+pívo		N;ACC;DU
+pívo	pívih	N;ESS;PL
+pívo		N;ESS;SG
+pívo		N;DAT;DU
+pívo		N;NOM;SG
+pívo		N;ESS;DU
+pívo		N;INS;SG
+pívo		N;DAT;SG
+pívo		N;ACC;PL
+pívo		N;NOM;DU
+pívo		N;DAT;PL
+pívo		N;INS;DU
+pívo		N;GEN;DU
+mílo		N;NOM;PL
+mílo		N;GEN;PL
+mílo		N;GEN;SG
+mílo		N;ACC;SG
+mílo		N;INS;PL
+mílo		N;ACC;DU
+mílo		N;ESS;PL
+mílo		N;ESS;SG
+mílo		N;DAT;DU
+mílo		N;NOM;SG
+mílo	mílih	N;ESS;DU
+mílo		N;INS;SG
+mílo	mílu	N;DAT;SG
+mílo		N;ACC;PL
+mílo		N;NOM;DU
+mílo		N;DAT;PL
+mílo		N;INS;DU
+mílo	míl	N;GEN;DU
+spálnica		N;NOM;PL
+spálnica		N;GEN;PL
+spálnica		N;ESS;DU
+spálnica		N;ACC;SG
+spálnica	spálnici	N;ACC;DU
+spálnica		N;INS;PL
+spálnica		N;ESS;PL
+spálnica		N;ESS;SG
+spálnica		N;DAT;DU
+spálnica	spálnica	N;NOM;SG
+spálnica		N;INS;SG
+spálnica	spálnici	N;DAT;SG
+spálnica		N;ACC;PL
+spálnica		N;NOM;DU
+spálnica		N;GEN;DU
+spálnica		N;GEN;SG
+spálnica		N;INS;DU
+spálnica		N;DAT;PL
+gépard	gépardi	N;NOM;PL
+gépard		N;GEN;PL
+gépard		N;ESS;DU
+gépard		N;INS;PL
+gépard	géparda	N;ACC;DU
+gépard		N;ESS;PL
+gépard		N;ESS;SG
+gépard		N;DAT;DU
+gépard		N;NOM;SG
+gépard		N;GEN;SG
+gépard		N;INS;SG
+gépard		N;DAT;SG
+gépard		N;ACC;PL
+gépard		N;ACC;SG
+gépard		N;DAT;PL
+gépard		N;GEN;DU
+gépard		N;INS;DU
+gépard	géparda	N;NOM;DU

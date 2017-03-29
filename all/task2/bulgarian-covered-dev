@@ -1,0 +1,771 @@
+реч		N;PL;DEF
+реч		N;PL;INDF
+реч		N;SG;DEF
+реч		N;SG;INDF
+пейзаж		N;PL
+пейзаж		N;PL;DEF
+пейзаж		N;PL;INDF
+пейзаж		N;SG;ACC;DEF
+пейзаж		N;SG;NOM;DEF
+пейзаж	пейзажи	N;PL;VOC
+пейзаж		N;SG;VOC
+пейзаж		N;SG;INDF
+баба		N;SG;DEF
+баба		N;PL;DEF
+баба		N;PL;INDF
+баба		N;PL;VOC
+баба		N;SG;VOC
+баба		N;SG;INDF
+агентка		N;SG;DEF
+агентка		N;PL;DEF
+агентка		N;PL;INDF
+агентка		N;PL;VOC
+агентка		N;SG;VOC
+агентка		N;SG;INDF
+гений		N;PL
+гений		N;PL;DEF
+гений	гении	N;PL;INDF
+гений		N;SG;ACC;DEF
+гений		N;SG;NOM;DEF
+гений		N;PL;VOC
+гений		N;SG;VOC
+гений		N;SG;INDF
+гребен		ADJ;SPRL;NEUT;SG;INDF
+гребен		ADJ;SPRL;MASC;SG;VOC
+гребен		ADJ;CMPR;PL;INDF
+гребен		ADJ;CMPR;NEUT;SG;INDF
+гребен	гребни	ADJ;MASC;SG;VOC
+гребен		ADJ;MASC;SG;ACC;DEF
+гребен		ADJ;NEUT;SG;DEF
+гребен		ADJ;FEM;SG;DEF
+гребен		ADJ;PL;DEF
+гребен		ADJ;SPRL;FEM;SG;INDF
+гребен	по-гребният	ADJ;CMPR;MASC;SG;NOM;DEF
+гребен		ADJ;SPRL;MASC;SG;NOM;DEF
+гребен		ADJ;CMPR;MASC;SG;INDF
+гребен	гребни	ADJ;PL;INDF
+гребен		ADJ;CMPR;MASC;SG;VOC
+гребен		ADJ;FEM;SG;INDF
+гребен		ADJ;SPRL;MASC;SG;INDF
+гребен		ADJ;CMPR;NEUT;SG;DEF
+гребен		ADJ;MASC;SG;INDF
+гребен	най-гребни	ADJ;SPRL;PL;INDF
+гребен		ADJ;NEUT;SG;INDF
+гребен	най-гребната	ADJ;SPRL;FEM;SG;DEF
+гребен		ADJ;SPRL;PL;DEF
+гребен		ADJ;SPRL;NEUT;SG;DEF
+гребен		ADJ;SPRL;MASC;SG;ACC;DEF
+гребен		ADJ;CMPR;FEM;SG;DEF
+гребен		ADJ;CMPR;FEM;SG;INDF
+гребен		ADJ;CMPR;PL;DEF
+гребен		ADJ;CMPR;MASC;SG;ACC;DEF
+гребен		ADJ;MASC;SG;NOM;DEF
+човка		N;SG;DEF
+човка		N;PL;DEF
+човка		N;PL;INDF
+човка		N;PL;VOC
+човка		N;SG;VOC
+човка		N;SG;INDF
+арсенал		N;PL
+арсенал		N;PL;DEF
+арсенал		N;PL;INDF
+арсенал	арсенала	N;SG;ACC;DEF
+арсенал		N;SG;NOM;DEF
+арсенал		N;PL;VOC
+арсенал		N;SG;VOC
+арсенал		N;SG;INDF
+грижа		N;SG;DEF
+грижа		N;PL;DEF
+грижа		N;PL;INDF
+грижа		N;PL;VOC
+грижа		N;SG;VOC
+грижа		N;SG;INDF
+бас		N;PL
+бас		N;PL;DEF
+бас		N;PL;INDF
+бас		N;SG;ACC;DEF
+бас		N;SG;NOM;DEF
+бас		N;PL;VOC
+бас		N;SG;VOC
+бас	бас	N;SG;INDF
+разбирам	разбирано	V.PTCP;PASS;PST;NEUT;SG;INDF
+разбирам		V.PTCP;ACT;PST;MASC;SG;INDF
+разбирам		V.PTCP;ACT;PRS;FEM;SG;DEF
+разбирам		V.PTCP;PASS;PST;MASC;SG;DEF;NOM
+разбирам		V.PTCP;ACT;PST;NEUT;SG;INDF
+разбирам		V.PTCP;ACT;PST;NFH;FEM;SG;INDF
+разбирам		V.PTCP;ACT;PST;PL;INDF
+разбирам	разбиращия	V.PTCP;ACT;PRS;MASC;SG;DEF;ACC
+разбирам		V;IND;PRS;1;PL
+разбирам		V.PTCP;ACT;PST;MASC;SG;DEF;NOM
+разбирам	разбираното	V.PTCP;PASS;PST;NEUT;SG;DEF
+разбирам		V;IMP;2;SG
+разбирам	разбират	V;IND;PRS;3;PL
+разбирам		V.PTCP;PASS;PST;MASC;SG;DEF;ACC
+разбирам		V;IND;PROG;PST;1;SG
+разбирам		V;IND;PROG;PST;1;PL
+разбирам		V;IND;PRS;2;PL
+разбирам		V.MSDR;PL;INDF
+разбирам		V.PTCP;ACT;PRS;MASC;SG;INDF
+разбирам		V.PTCP;ACT;PRS;FEM;SG;INDF
+разбирам		V;IND;PST;1;PL
+разбирам		V.PTCP;ACT;PST;FEM;SG;INDF
+разбирам		V.PTCP;ACT;PST;PL;DEF
+разбирам		V.PTCP;ACT;PST;NFH;PL;INDF
+разбирам		V.PTCP;ACT;PST;FEM;SG;DEF
+разбирам		V;IND;PROG;PST;2;SG
+разбирам		V.PTCP;PASS;PST;FEM;SG;DEF
+разбирам		V;IND;PST;2;PL
+разбирам	разбираха	V;IND;PROG;PST;3;PL
+разбирам		V.PTCP;ACT;PST;NFH;NEUT;SG;INDF
+разбирам		V;IND;PST;3;PL
+разбирам	разбирахте	V;IND;PROG;PST;2;PL
+разбирам	разбиралото	V.PTCP;ACT;PST;NEUT;SG;DEF
+разбирам		V.PTCP;ACT;PRS;NEUT;SG;INDF
+разбирам		V.PTCP;ACT;PRS;NEUT;SG;DEF
+разбирам		V.PTCP;PASS;PST;PL;DEF
+разбирам		V.CVB
+разбирам		V.PTCP;PASS;PST;MASC;SG;INDF
+разбирам		V.PTCP;ACT;PRS;PL;DEF
+разбирам		V;IND;PRS;1;SG
+разбирам		V.MSDR;PL;DEF
+разбирам		V;IND;PRS;3;SG
+разбирам		V;IMP;2;PL
+разбирам	разбира	V;IND;PST;2;SG
+разбирам	разбиране	V.MSDR;NEUT;SG;INDF
+разбирам		V.PTCP;PASS;PST;FEM;SG;INDF
+разбирам	разбирани	V.PTCP;PASS;PST;PL;INDF
+разбирам		V.PTCP;ACT;PST;NFH;MASC;SG;INDF
+разбирам		V;IND;PRS;2;SG
+разбирам		V;IND;PST;1;SG
+разбирам		V.PTCP;ACT;PST;MASC;SG;DEF;ACC
+разбирам		V.PTCP;ACT;PRS;PL;INDF
+разбирам		V.PTCP;ACT;PRS;MASC;SG;DEF;NOM
+разбирам		V.MSDR;NEUT;SG;DEF
+разбирам		V;IND;PROG;PST;3;SG
+разбирам		V;IND;PST;3;SG
+рамо		N;PL;DEF
+рамо		N;PL;INDF
+рамо		N;SG;DEF
+рамо		N;SG;INDF
+бреме		N;PL;DEF
+бреме		N;PL;INDF
+бреме		N;SG;DEF
+бреме		N;SG;INDF
+насекомо		N;PL;DEF
+насекомо		N;PL;INDF
+насекомо		N;SG;DEF
+насекомо		N;SG;INDF
+абревиатура		N;SG;DEF
+абревиатура		N;PL;DEF
+абревиатура		N;PL;INDF
+абревиатура		N;PL;VOC
+абревиатура		N;SG;VOC
+абревиатура		N;SG;INDF
+мога		V.PTCP;ACT;PST;MASC;SG;INDF
+мога		V.PTCP;ACT;PRS;FEM;SG;DEF
+мога		V.PTCP;ACT;PST;NEUT;SG;INDF
+мога		V.PTCP;ACT;PST;NFH;FEM;SG;INDF
+мога		V.PTCP;ACT;PST;PL;INDF
+мога		V.PTCP;ACT;PRS;MASC;SG;DEF;ACC
+мога		V;IND;PRS;1;PL
+мога		V.PTCP;ACT;PST;MASC;SG;DEF;NOM
+мога	можахте	V;IND;PST;2;PL
+мога		V;IND;PRS;3;PL
+мога	можех	V;IND;PROG;PST;1;SG
+мога		V;IND;PRS;2;PL
+мога		V.MSDR;PL;INDF
+мога		V.PTCP;ACT;PRS;MASC;SG;INDF
+мога		V.PTCP;ACT;PRS;FEM;SG;INDF
+мога		V;IND;PST;1;PL
+мога		V.PTCP;ACT;PST;FEM;SG;INDF
+мога	моглите	V.PTCP;ACT;PST;PL;DEF
+мога		V.PTCP;ACT;PST;NFH;PL;INDF
+мога		V.PTCP;ACT;PST;FEM;SG;DEF
+мога		V;IND;PROG;PST;2;SG
+мога		V;IND;PROG;PST;3;PL
+мога		V.PTCP;ACT;PST;NFH;NEUT;SG;INDF
+мога		V;IND;PST;3;PL
+мога		V;IND;PROG;PST;2;PL
+мога		V.PTCP;ACT;PST;NEUT;SG;DEF
+мога		V.PTCP;ACT;PRS;NEUT;SG;DEF
+мога	можейки	V.CVB
+мога		V;IND;PROG;PST;1;PL
+мога		V.PTCP;ACT;PRS;PL;DEF
+мога	мога	V;IND;PRS;1;SG
+мога		V.MSDR;PL;DEF
+мога	може	V;IND;PRS;3;SG
+мога		V;IND;PST;2;SG
+мога		V.MSDR;NEUT;SG;INDF
+мога		V;IND;PST;1;SG
+мога		V.PTCP;ACT;PST;NFH;MASC;SG;INDF
+мога	можеш	V;IND;PRS;2;SG
+мога		V.PTCP;ACT;PRS;NEUT;SG;INDF
+мога		V.PTCP;ACT;PST;MASC;SG;DEF;ACC
+мога		V.PTCP;ACT;PRS;PL;INDF
+мога	можещият	V.PTCP;ACT;PRS;MASC;SG;DEF;NOM
+мога		V.MSDR;NEUT;SG;DEF
+мога		V;IND;PROG;PST;3;SG
+мога		V;IND;PST;3;SG
+ножица		N;SG;DEF
+ножица		N;PL;DEF
+ножица		N;PL;INDF
+ножица		N;PL;VOC
+ножица		N;SG;VOC
+ножица		N;SG;INDF
+здрав		ADJ;SPRL;NEUT;SG;INDF
+здрав		ADJ;SPRL;MASC;SG;VOC
+здрав		ADJ;CMPR;PL;INDF
+здрав		ADJ;CMPR;NEUT;SG;INDF
+здрав	здрави	ADJ;MASC;SG;VOC
+здрав	здравия	ADJ;MASC;SG;ACC;DEF
+здрав		ADJ;NEUT;SG;DEF
+здрав		ADJ;FEM;SG;DEF
+здрав		ADJ;PL;DEF
+здрав		ADJ;SPRL;FEM;SG;INDF
+здрав		ADJ;CMPR;MASC;SG;NOM;DEF
+здрав		ADJ;SPRL;MASC;SG;NOM;DEF
+здрав		ADJ;CMPR;MASC;SG;INDF
+здрав	здрави	ADJ;PL;INDF
+здрав		ADJ;CMPR;MASC;SG;VOC
+здрав		ADJ;FEM;SG;INDF
+здрав		ADJ;SPRL;MASC;SG;INDF
+здрав		ADJ;CMPR;NEUT;SG;DEF
+здрав		ADJ;MASC;SG;INDF
+здрав		ADJ;SPRL;PL;INDF
+здрав	здраво	ADJ;NEUT;SG;INDF
+здрав		ADJ;SPRL;FEM;SG;DEF
+здрав	най-здравите	ADJ;SPRL;PL;DEF
+здрав		ADJ;SPRL;NEUT;SG;DEF
+здрав		ADJ;SPRL;MASC;SG;ACC;DEF
+здрав		ADJ;CMPR;FEM;SG;DEF
+здрав		ADJ;CMPR;FEM;SG;INDF
+здрав		ADJ;CMPR;PL;DEF
+здрав		ADJ;CMPR;MASC;SG;ACC;DEF
+здрав		ADJ;MASC;SG;NOM;DEF
+сянка		N;SG;DEF
+сянка		N;PL;DEF
+сянка		N;PL;INDF
+сянка		N;PL;VOC
+сянка		N;SG;VOC
+сянка		N;SG;INDF
+въже		N;PL;DEF
+въже		N;PL;INDF
+въже		N;SG;DEF
+въже		N;SG;INDF
+хубав		ADJ;SPRL;NEUT;SG;INDF
+хубав		ADJ;SPRL;MASC;SG;VOC
+хубав		ADJ;CMPR;PL;INDF
+хубав		ADJ;CMPR;NEUT;SG;INDF
+хубав		ADJ;MASC;SG;ACC;DEF
+хубав		ADJ;NEUT;SG;DEF
+хубав		ADJ;FEM;SG;DEF
+хубав	хубавите	ADJ;PL;DEF
+хубав		ADJ;SPRL;FEM;SG;INDF
+хубав		ADJ;CMPR;MASC;SG;NOM;DEF
+хубав		ADJ;SPRL;MASC;SG;NOM;DEF
+хубав	по-хубав	ADJ;CMPR;MASC;SG;INDF
+хубав		ADJ;CMPR;FEM;SG;DEF
+хубав		ADJ;CMPR;MASC;SG;VOC
+хубав	хубава	ADJ;FEM;SG;INDF
+хубав		ADJ;SPRL;MASC;SG;INDF
+хубав	по-хубавото	ADJ;CMPR;NEUT;SG;DEF
+хубав		ADJ;MASC;SG;INDF
+хубав		ADJ;SPRL;PL;INDF
+хубав		ADJ;NEUT;SG;INDF
+хубав		ADJ;SPRL;FEM;SG;DEF
+хубав		ADJ;SPRL;PL;DEF
+хубав		ADJ;SPRL;NEUT;SG;DEF
+хубав		ADJ;SPRL;MASC;SG;ACC;DEF
+хубав		ADJ;PL;INDF
+хубав		ADJ;CMPR;FEM;SG;INDF
+хубав	по-хубавите	ADJ;CMPR;PL;DEF
+хубав		ADJ;CMPR;MASC;SG;ACC;DEF
+хубав		ADJ;MASC;SG;NOM;DEF
+хубав		ADJ;MASC;SG;VOC
+мед		N;PL
+мед		N;PL;DEF
+мед	медове	N;PL;INDF
+мед		N;SG;ACC;DEF
+мед		N;SG;NOM;DEF
+мед		N;PL;VOC
+мед		N;SG;VOC
+мед		N;SG;INDF
+англичанка		N;SG;DEF
+англичанка		N;PL;DEF
+англичанка		N;PL;INDF
+англичанка		N;PL;VOC
+англичанка		N;SG;VOC
+англичанка		N;SG;INDF
+цял		ADJ;SPRL;NEUT;SG;INDF
+цял		ADJ;SPRL;MASC;SG;VOC
+цял		ADJ;CMPR;PL;INDF
+цял	цели	ADJ;MASC;SG;VOC
+цял		ADJ;MASC;SG;ACC;DEF
+цял	цялото	ADJ;NEUT;SG;DEF
+цял	цялата	ADJ;FEM;SG;DEF
+цял		ADJ;PL;DEF
+цял		ADJ;SPRL;FEM;SG;INDF
+цял		ADJ;CMPR;MASC;SG;NOM;DEF
+цял		ADJ;SPRL;MASC;SG;NOM;DEF
+цял		ADJ;CMPR;MASC;SG;INDF
+цял		ADJ;PL;INDF
+цял		ADJ;CMPR;MASC;SG;VOC
+цял		ADJ;FEM;SG;INDF
+цял		ADJ;SPRL;MASC;SG;INDF
+цял		ADJ;CMPR;NEUT;SG;DEF
+цял		ADJ;MASC;SG;INDF
+цял		ADJ;SPRL;PL;INDF
+цял	цяло	ADJ;NEUT;SG;INDF
+цял		ADJ;SPRL;FEM;SG;DEF
+цял		ADJ;SPRL;PL;DEF
+цял		ADJ;SPRL;NEUT;SG;DEF
+цял		ADJ;SPRL;MASC;SG;ACC;DEF
+цял		ADJ;CMPR;FEM;SG;DEF
+цял		ADJ;CMPR;FEM;SG;INDF
+цял	по-целите	ADJ;CMPR;PL;DEF
+цял		ADJ;CMPR;MASC;SG;ACC;DEF
+цял		ADJ;MASC;SG;NOM;DEF
+цял		ADJ;CMPR;NEUT;SG;INDF
+анонимен		ADJ;SPRL;NEUT;SG;INDF
+анонимен		ADJ;SPRL;MASC;SG;VOC
+анонимен		ADJ;CMPR;PL;INDF
+анонимен		ADJ;CMPR;NEUT;SG;INDF
+анонимен		ADJ;MASC;SG;VOC
+анонимен		ADJ;MASC;SG;ACC;DEF
+анонимен		ADJ;NEUT;SG;DEF
+анонимен		ADJ;FEM;SG;DEF
+анонимен		ADJ;PL;DEF
+анонимен		ADJ;SPRL;FEM;SG;INDF
+анонимен		ADJ;CMPR;MASC;SG;NOM;DEF
+анонимен	най-анонимният	ADJ;SPRL;MASC;SG;NOM;DEF
+анонимен		ADJ;CMPR;MASC;SG;INDF
+анонимен		ADJ;PL;INDF
+анонимен		ADJ;CMPR;MASC;SG;VOC
+анонимен		ADJ;FEM;SG;INDF
+анонимен		ADJ;SPRL;MASC;SG;INDF
+анонимен		ADJ;CMPR;NEUT;SG;DEF
+анонимен	анонимен	ADJ;MASC;SG;INDF
+анонимен	най-анонимни	ADJ;SPRL;PL;INDF
+анонимен		ADJ;NEUT;SG;INDF
+анонимен		ADJ;SPRL;FEM;SG;DEF
+анонимен		ADJ;SPRL;PL;DEF
+анонимен	най-анонимното	ADJ;SPRL;NEUT;SG;DEF
+анонимен		ADJ;SPRL;MASC;SG;ACC;DEF
+анонимен		ADJ;CMPR;FEM;SG;DEF
+анонимен		ADJ;CMPR;FEM;SG;INDF
+анонимен		ADJ;CMPR;PL;DEF
+анонимен		ADJ;CMPR;MASC;SG;ACC;DEF
+анонимен	анонимният	ADJ;MASC;SG;NOM;DEF
+владика		N;SG;DEF
+владика		N;PL;DEF
+владика		N;PL;INDF
+владика		N;PL;VOC
+владика		N;SG;VOC
+владика		N;SG;INDF
+растение		N;PL;DEF
+растение		N;PL;INDF
+растение		N;SG;DEF
+растение		N;SG;INDF
+смяна		N;SG;DEF
+смяна		N;PL;DEF
+смяна		N;PL;INDF
+смяна		N;PL;VOC
+смяна		N;SG;VOC
+смяна		N;SG;INDF
+болен		ADJ;SPRL;NEUT;SG;INDF
+болен		ADJ;SPRL;MASC;SG;VOC
+болен		ADJ;CMPR;PL;INDF
+болен		ADJ;CMPR;NEUT;SG;INDF
+болен		ADJ;MASC;SG;VOC
+болен		ADJ;MASC;SG;ACC;DEF
+болен	болното	ADJ;NEUT;SG;DEF
+болен		ADJ;FEM;SG;DEF
+болен		ADJ;PL;DEF
+болен		ADJ;SPRL;FEM;SG;INDF
+болен		ADJ;CMPR;MASC;SG;NOM;DEF
+болен	най-болният	ADJ;SPRL;MASC;SG;NOM;DEF
+болен	по-болен	ADJ;CMPR;MASC;SG;INDF
+болен		ADJ;PL;INDF
+болен		ADJ;CMPR;MASC;SG;VOC
+болен		ADJ;FEM;SG;INDF
+болен		ADJ;SPRL;MASC;SG;INDF
+болен		ADJ;CMPR;NEUT;SG;DEF
+болен	болен	ADJ;MASC;SG;INDF
+болен		ADJ;SPRL;PL;INDF
+болен		ADJ;NEUT;SG;INDF
+болен	най-болната	ADJ;SPRL;FEM;SG;DEF
+болен		ADJ;SPRL;PL;DEF
+болен		ADJ;SPRL;NEUT;SG;DEF
+болен		ADJ;SPRL;MASC;SG;ACC;DEF
+болен		ADJ;CMPR;FEM;SG;DEF
+болен		ADJ;CMPR;FEM;SG;INDF
+болен		ADJ;CMPR;PL;DEF
+болен		ADJ;CMPR;MASC;SG;ACC;DEF
+болен		ADJ;MASC;SG;NOM;DEF
+госпожа		N;SG;DEF
+госпожа		N;PL;DEF
+госпожа		N;PL;INDF
+госпожа		N;PL;VOC
+госпожа		N;SG;VOC
+госпожа		N;SG;INDF
+близък		ADJ;SPRL;NEUT;SG;INDF
+близък	най-близки	ADJ;SPRL;MASC;SG;VOC
+близък		ADJ;CMPR;PL;INDF
+близък	по-близко	ADJ;CMPR;NEUT;SG;INDF
+близък		ADJ;MASC;SG;VOC
+близък		ADJ;MASC;SG;ACC;DEF
+близък	близкото	ADJ;NEUT;SG;DEF
+близък		ADJ;FEM;SG;DEF
+близък		ADJ;PL;DEF
+близък	най-близка	ADJ;SPRL;FEM;SG;INDF
+близък		ADJ;CMPR;MASC;SG;NOM;DEF
+близък		ADJ;SPRL;MASC;SG;INDF
+близък		ADJ;CMPR;MASC;SG;INDF
+близък		ADJ;PL;INDF
+близък		ADJ;CMPR;MASC;SG;VOC
+близък		ADJ;FEM;SG;INDF
+близък		ADJ;SPRL;MASC;SG;NOM;DEF
+близък		ADJ;CMPR;NEUT;SG;DEF
+близък		ADJ;MASC;SG;INDF
+близък		ADJ;SPRL;PL;INDF
+близък	близко	ADJ;NEUT;SG;INDF
+близък		ADJ;SPRL;FEM;SG;DEF
+близък		ADJ;SPRL;PL;DEF
+близък		ADJ;SPRL;NEUT;SG;DEF
+близък		ADJ;SPRL;MASC;SG;ACC;DEF
+близък		ADJ;CMPR;FEM;SG;DEF
+близък		ADJ;CMPR;FEM;SG;INDF
+близък		ADJ;CMPR;PL;DEF
+близък		ADJ;CMPR;MASC;SG;ACC;DEF
+близък		ADJ;MASC;SG;NOM;DEF
+блясък		N;PL
+блясък		N;PL;DEF
+блясък		N;PL;INDF
+блясък	блясъка	N;SG;ACC;DEF
+блясък		N;PL;VOC
+блясък		N;SG;NOM;DEF
+блясък		N;SG;VOC
+блясък		N;SG;INDF
+госпожица		N;SG;DEF
+госпожица		N;PL;DEF
+госпожица		N;PL;INDF
+госпожица		N;PL;VOC
+госпожица		N;SG;VOC
+госпожица		N;SG;INDF
+гърло		N;PL;DEF
+гърло		N;PL;INDF
+гърло		N;SG;DEF
+гърло		N;SG;INDF
+антена		N;SG;DEF
+антена		N;PL;DEF
+антена		N;PL;INDF
+антена		N;PL;VOC
+антена		N;SG;VOC
+антена		N;SG;INDF
+дълъг		ADJ;SPRL;NEUT;SG;INDF
+дълъг		ADJ;SPRL;MASC;SG;VOC
+дълъг		ADJ;CMPR;PL;INDF
+дълъг		ADJ;CMPR;NEUT;SG;INDF
+дълъг		ADJ;MASC;SG;VOC
+дълъг		ADJ;MASC;SG;ACC;DEF
+дълъг		ADJ;NEUT;SG;DEF
+дълъг	дългата	ADJ;FEM;SG;DEF
+дълъг	дългите	ADJ;PL;DEF
+дълъг		ADJ;SPRL;FEM;SG;INDF
+дълъг		ADJ;CMPR;MASC;SG;NOM;DEF
+дълъг		ADJ;SPRL;MASC;SG;INDF
+дълъг		ADJ;CMPR;MASC;SG;INDF
+дълъг		ADJ;PL;INDF
+дълъг		ADJ;CMPR;MASC;SG;VOC
+дълъг		ADJ;FEM;SG;INDF
+дълъг		ADJ;SPRL;MASC;SG;NOM;DEF
+дълъг		ADJ;CMPR;NEUT;SG;DEF
+дълъг		ADJ;MASC;SG;INDF
+дълъг	най-дълги	ADJ;SPRL;PL;INDF
+дълъг		ADJ;NEUT;SG;INDF
+дълъг		ADJ;SPRL;FEM;SG;DEF
+дълъг		ADJ;SPRL;PL;DEF
+дълъг	най-дългото	ADJ;SPRL;NEUT;SG;DEF
+дълъг		ADJ;SPRL;MASC;SG;ACC;DEF
+дълъг		ADJ;CMPR;FEM;SG;DEF
+дълъг		ADJ;CMPR;FEM;SG;INDF
+дълъг		ADJ;CMPR;PL;DEF
+дълъг	по-дългия	ADJ;CMPR;MASC;SG;ACC;DEF
+дълъг		ADJ;MASC;SG;NOM;DEF
+сечение		N;PL;DEF
+сечение		N;PL;INDF
+сечение		N;SG;DEF
+сечение		N;SG;INDF
+огледало		N;PL;DEF
+огледало		N;PL;INDF
+огледало		N;SG;DEF
+огледало		N;SG;INDF
+връв		N;PL;DEF
+връв		N;PL;INDF
+връв		N;SG;DEF
+връв		N;SG;INDF
+лек		ADJ;SPRL;NEUT;SG;INDF
+лек		ADJ;SPRL;MASC;SG;VOC
+лек		ADJ;CMPR;PL;INDF
+лек		ADJ;CMPR;NEUT;SG;INDF
+лек		ADJ;MASC;SG;VOC
+лек	лекия	ADJ;MASC;SG;ACC;DEF
+лек	лекото	ADJ;NEUT;SG;DEF
+лек		ADJ;FEM;SG;DEF
+лек	леките	ADJ;PL;DEF
+лек		ADJ;SPRL;FEM;SG;INDF
+лек		ADJ;CMPR;MASC;SG;NOM;DEF
+лек		ADJ;SPRL;MASC;SG;NOM;DEF
+лек	по-лек	ADJ;CMPR;MASC;SG;INDF
+лек		ADJ;PL;INDF
+лек		ADJ;CMPR;MASC;SG;VOC
+лек	лека	ADJ;FEM;SG;INDF
+лек		ADJ;SPRL;MASC;SG;INDF
+лек		ADJ;CMPR;NEUT;SG;DEF
+лек		ADJ;MASC;SG;INDF
+лек		ADJ;SPRL;PL;INDF
+лек		ADJ;NEUT;SG;INDF
+лек		ADJ;SPRL;FEM;SG;DEF
+лек		ADJ;SPRL;PL;DEF
+лек		ADJ;SPRL;NEUT;SG;DEF
+лек		ADJ;SPRL;MASC;SG;ACC;DEF
+лек		ADJ;CMPR;FEM;SG;DEF
+лек		ADJ;CMPR;FEM;SG;INDF
+лек		ADJ;CMPR;PL;DEF
+лек		ADJ;CMPR;MASC;SG;ACC;DEF
+лек		ADJ;MASC;SG;NOM;DEF
+възможен		ADJ;SPRL;NEUT;SG;INDF
+възможен		ADJ;SPRL;MASC;SG;VOC
+възможен		ADJ;CMPR;PL;INDF
+възможен		ADJ;CMPR;NEUT;SG;INDF
+възможен		ADJ;MASC;SG;VOC
+възможен		ADJ;MASC;SG;ACC;DEF
+възможен		ADJ;NEUT;SG;DEF
+възможен		ADJ;FEM;SG;DEF
+възможен	възможните	ADJ;PL;DEF
+възможен		ADJ;SPRL;FEM;SG;INDF
+възможен		ADJ;CMPR;MASC;SG;NOM;DEF
+възможен		ADJ;SPRL;MASC;SG;NOM;DEF
+възможен		ADJ;CMPR;MASC;SG;INDF
+възможен		ADJ;PL;INDF
+възможен	по-възможни	ADJ;CMPR;MASC;SG;VOC
+възможен		ADJ;FEM;SG;INDF
+възможен	най-възможен	ADJ;SPRL;MASC;SG;INDF
+възможен		ADJ;CMPR;NEUT;SG;DEF
+възможен	възможен	ADJ;MASC;SG;INDF
+възможен		ADJ;SPRL;PL;INDF
+възможен		ADJ;NEUT;SG;INDF
+възможен		ADJ;SPRL;FEM;SG;DEF
+възможен		ADJ;SPRL;PL;DEF
+възможен		ADJ;SPRL;NEUT;SG;DEF
+възможен	най-възможния	ADJ;SPRL;MASC;SG;ACC;DEF
+възможен		ADJ;CMPR;FEM;SG;DEF
+възможен		ADJ;CMPR;FEM;SG;INDF
+възможен		ADJ;CMPR;PL;DEF
+възможен		ADJ;CMPR;MASC;SG;ACC;DEF
+възможен		ADJ;MASC;SG;NOM;DEF
+жълт		ADJ;SPRL;NEUT;SG;INDF
+жълт	най-жълти	ADJ;SPRL;MASC;SG;VOC
+жълт		ADJ;CMPR;PL;INDF
+жълт		ADJ;CMPR;NEUT;SG;INDF
+жълт		ADJ;MASC;SG;VOC
+жълт		ADJ;MASC;SG;ACC;DEF
+жълт		ADJ;NEUT;SG;DEF
+жълт		ADJ;FEM;SG;DEF
+жълт		ADJ;PL;DEF
+жълт	най-жълта	ADJ;SPRL;FEM;SG;INDF
+жълт		ADJ;CMPR;MASC;SG;NOM;DEF
+жълт		ADJ;SPRL;MASC;SG;NOM;DEF
+жълт		ADJ;CMPR;MASC;SG;INDF
+жълт		ADJ;PL;INDF
+жълт	по-жълти	ADJ;CMPR;MASC;SG;VOC
+жълт		ADJ;FEM;SG;INDF
+жълт	най-жълт	ADJ;SPRL;MASC;SG;INDF
+жълт		ADJ;CMPR;NEUT;SG;DEF
+жълт		ADJ;MASC;SG;INDF
+жълт		ADJ;SPRL;PL;INDF
+жълт		ADJ;NEUT;SG;INDF
+жълт		ADJ;SPRL;FEM;SG;DEF
+жълт		ADJ;SPRL;PL;DEF
+жълт		ADJ;SPRL;NEUT;SG;DEF
+жълт		ADJ;SPRL;MASC;SG;ACC;DEF
+жълт		ADJ;CMPR;FEM;SG;DEF
+жълт		ADJ;CMPR;FEM;SG;INDF
+жълт	по-жълтите	ADJ;CMPR;PL;DEF
+жълт		ADJ;CMPR;MASC;SG;ACC;DEF
+жълт		ADJ;MASC;SG;NOM;DEF
+шведски		ADJ;SPRL;NEUT;SG;INDF
+шведски	най-шведски	ADJ;SPRL;MASC;SG;VOC
+шведски		ADJ;CMPR;PL;INDF
+шведски		ADJ;CMPR;NEUT;SG;INDF
+шведски		ADJ;MASC;SG;ACC;DEF
+шведски		ADJ;NEUT;SG;DEF
+шведски	шведската	ADJ;FEM;SG;DEF
+шведски		ADJ;PL;DEF
+шведски		ADJ;SPRL;FEM;SG;INDF
+шведски		ADJ;CMPR;MASC;SG;NOM;DEF
+шведски		ADJ;SPRL;MASC;SG;NOM;DEF
+шведски		ADJ;CMPR;MASC;SG;INDF
+шведски		ADJ;CMPR;FEM;SG;DEF
+шведски	по-шведски	ADJ;CMPR;MASC;SG;VOC
+шведски		ADJ;FEM;SG;INDF
+шведски		ADJ;SPRL;MASC;SG;INDF
+шведски		ADJ;CMPR;NEUT;SG;DEF
+шведски	шведски	ADJ;MASC;SG;INDF
+шведски		ADJ;SPRL;PL;INDF
+шведски		ADJ;NEUT;SG;INDF
+шведски		ADJ;SPRL;FEM;SG;DEF
+шведски		ADJ;SPRL;PL;DEF
+шведски		ADJ;SPRL;NEUT;SG;DEF
+шведски		ADJ;SPRL;MASC;SG;ACC;DEF
+шведски		ADJ;PL;INDF
+шведски		ADJ;CMPR;FEM;SG;INDF
+шведски	по-шведските	ADJ;CMPR;PL;DEF
+шведски		ADJ;CMPR;MASC;SG;ACC;DEF
+шведски		ADJ;MASC;SG;NOM;DEF
+шведски		ADJ;MASC;SG;VOC
+тъмносин		ADJ;SPRL;NEUT;SG;INDF
+тъмносин		ADJ;SPRL;MASC;SG;VOC
+тъмносин		ADJ;CMPR;PL;INDF
+тъмносин		ADJ;MASC;SG;VOC
+тъмносин		ADJ;MASC;SG;ACC;DEF
+тъмносин		ADJ;NEUT;SG;DEF
+тъмносин	тъмносинята	ADJ;FEM;SG;DEF
+тъмносин		ADJ;PL;DEF
+тъмносин		ADJ;SPRL;FEM;SG;INDF
+тъмносин		ADJ;CMPR;MASC;SG;NOM;DEF
+тъмносин	най-тъмносин	ADJ;SPRL;MASC;SG;INDF
+тъмносин		ADJ;CMPR;MASC;SG;INDF
+тъмносин	по-тъмносинята	ADJ;CMPR;FEM;SG;DEF
+тъмносин		ADJ;CMPR;MASC;SG;VOC
+тъмносин		ADJ;FEM;SG;INDF
+тъмносин	най-тъмносиният	ADJ;SPRL;MASC;SG;NOM;DEF
+тъмносин		ADJ;CMPR;NEUT;SG;DEF
+тъмносин		ADJ;MASC;SG;INDF
+тъмносин		ADJ;SPRL;PL;INDF
+тъмносин		ADJ;NEUT;SG;INDF
+тъмносин		ADJ;SPRL;FEM;SG;DEF
+тъмносин		ADJ;SPRL;PL;DEF
+тъмносин		ADJ;SPRL;NEUT;SG;DEF
+тъмносин		ADJ;SPRL;MASC;SG;ACC;DEF
+тъмносин		ADJ;PL;INDF
+тъмносин		ADJ;CMPR;FEM;SG;INDF
+тъмносин		ADJ;CMPR;PL;DEF
+тъмносин		ADJ;CMPR;MASC;SG;ACC;DEF
+тъмносин		ADJ;MASC;SG;NOM;DEF
+тъмносин	по-тъмносиньо	ADJ;CMPR;NEUT;SG;INDF
+бог		N;PL
+бог	боговете	N;PL;DEF
+бог		N;PL;INDF
+бог		N;SG;ACC;DEF
+бог		N;SG;NOM;DEF
+бог		N;PL;VOC
+бог		N;SG;VOC
+бог		N;SG;INDF
+абхазки		ADJ;SPRL;NEUT;SG;INDF
+абхазки		ADJ;SPRL;MASC;SG;VOC
+абхазки		ADJ;CMPR;PL;INDF
+абхазки		ADJ;CMPR;NEUT;SG;INDF
+абхазки	абхазки	ADJ;MASC;SG;VOC
+абхазки		ADJ;MASC;SG;ACC;DEF
+абхазки		ADJ;NEUT;SG;DEF
+абхазки		ADJ;FEM;SG;DEF
+абхазки		ADJ;PL;DEF
+абхазки		ADJ;SPRL;FEM;SG;INDF
+абхазки	по-абхазкият	ADJ;CMPR;MASC;SG;NOM;DEF
+абхазки		ADJ;SPRL;MASC;SG;NOM;DEF
+абхазки		ADJ;CMPR;MASC;SG;INDF
+абхазки		ADJ;PL;INDF
+абхазки		ADJ;CMPR;MASC;SG;VOC
+абхазки		ADJ;FEM;SG;INDF
+абхазки		ADJ;SPRL;MASC;SG;INDF
+абхазки	по-абхазкото	ADJ;CMPR;NEUT;SG;DEF
+абхазки		ADJ;MASC;SG;INDF
+абхазки		ADJ;SPRL;PL;INDF
+абхазки		ADJ;NEUT;SG;INDF
+абхазки		ADJ;SPRL;FEM;SG;DEF
+абхазки		ADJ;SPRL;PL;DEF
+абхазки		ADJ;SPRL;NEUT;SG;DEF
+абхазки	най-абхазкия	ADJ;SPRL;MASC;SG;ACC;DEF
+абхазки		ADJ;CMPR;FEM;SG;DEF
+абхазки	по-абхазка	ADJ;CMPR;FEM;SG;INDF
+абхазки		ADJ;CMPR;PL;DEF
+абхазки		ADJ;CMPR;MASC;SG;ACC;DEF
+абхазки		ADJ;MASC;SG;NOM;DEF
+микроорганизъм		N;PL
+микроорганизъм		N;PL;DEF
+микроорганизъм	микроорганизми	N;PL;INDF
+микроорганизъм		N;SG;ACC;DEF
+микроорганизъм		N;SG;NOM;DEF
+микроорганизъм		N;PL;VOC
+микроорганизъм		N;SG;VOC
+микроорганизъм		N;SG;INDF
+подробен		ADJ;SPRL;NEUT;SG;INDF
+подробен		ADJ;SPRL;MASC;SG;VOC
+подробен	по-подробни	ADJ;CMPR;PL;INDF
+подробен	по-подробно	ADJ;CMPR;NEUT;SG;INDF
+подробен		ADJ;MASC;SG;VOC
+подробен		ADJ;MASC;SG;ACC;DEF
+подробен		ADJ;NEUT;SG;DEF
+подробен		ADJ;FEM;SG;DEF
+подробен		ADJ;PL;DEF
+подробен		ADJ;SPRL;FEM;SG;INDF
+подробен		ADJ;CMPR;MASC;SG;NOM;DEF
+подробен	най-подробният	ADJ;SPRL;MASC;SG;NOM;DEF
+подробен		ADJ;CMPR;MASC;SG;INDF
+подробен		ADJ;PL;INDF
+подробен	по-подробни	ADJ;CMPR;MASC;SG;VOC
+подробен		ADJ;FEM;SG;INDF
+подробен		ADJ;SPRL;MASC;SG;INDF
+подробен		ADJ;CMPR;NEUT;SG;DEF
+подробен		ADJ;MASC;SG;INDF
+подробен		ADJ;SPRL;PL;INDF
+подробен		ADJ;NEUT;SG;INDF
+подробен	най-подробната	ADJ;SPRL;FEM;SG;DEF
+подробен		ADJ;SPRL;PL;DEF
+подробен		ADJ;SPRL;NEUT;SG;DEF
+подробен		ADJ;SPRL;MASC;SG;ACC;DEF
+подробен		ADJ;CMPR;FEM;SG;DEF
+подробен		ADJ;CMPR;FEM;SG;INDF
+подробен		ADJ;CMPR;PL;DEF
+подробен		ADJ;CMPR;MASC;SG;ACC;DEF
+подробен		ADJ;MASC;SG;NOM;DEF
+лъв		N;PL
+лъв	лъвовете	N;PL;DEF
+лъв		N;PL;INDF
+лъв		N;SG;ACC;DEF
+лъв		N;SG;NOM;DEF
+лъв		N;PL;VOC
+лъв		N;SG;VOC
+лъв		N;SG;INDF
+балкански		ADJ;SPRL;NEUT;SG;INDF
+балкански		ADJ;SPRL;MASC;SG;VOC
+балкански		ADJ;CMPR;PL;INDF
+балкански		ADJ;CMPR;NEUT;SG;INDF
+балкански		ADJ;MASC;SG;VOC
+балкански		ADJ;MASC;SG;ACC;DEF
+балкански	балканското	ADJ;NEUT;SG;DEF
+балкански		ADJ;FEM;SG;DEF
+балкански		ADJ;PL;DEF
+балкански		ADJ;SPRL;FEM;SG;INDF
+балкански		ADJ;CMPR;MASC;SG;NOM;DEF
+балкански		ADJ;SPRL;MASC;SG;NOM;DEF
+балкански		ADJ;CMPR;MASC;SG;INDF
+балкански		ADJ;PL;INDF
+балкански		ADJ;CMPR;MASC;SG;VOC
+балкански		ADJ;FEM;SG;INDF
+балкански		ADJ;SPRL;MASC;SG;INDF
+балкански		ADJ;CMPR;NEUT;SG;DEF
+балкански	балкански	ADJ;MASC;SG;INDF
+балкански		ADJ;SPRL;PL;INDF
+балкански		ADJ;NEUT;SG;INDF
+балкански		ADJ;SPRL;FEM;SG;DEF
+балкански		ADJ;SPRL;PL;DEF
+балкански		ADJ;SPRL;NEUT;SG;DEF
+балкански		ADJ;SPRL;MASC;SG;ACC;DEF
+балкански		ADJ;CMPR;FEM;SG;DEF
+балкански		ADJ;CMPR;FEM;SG;INDF
+балкански	по-балканските	ADJ;CMPR;PL;DEF
+балкански	по-балканския	ADJ;CMPR;MASC;SG;ACC;DEF
+балкански	балканският	ADJ;MASC;SG;NOM;DEF
