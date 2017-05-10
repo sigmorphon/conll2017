@@ -1,0 +1,3034 @@
+amenințare	amenințare	N;VOC;SG
+amenințare	amenințărilor	N;GEN/DAT;PL;DEF
+amenințare	amenințările	N;NOM/ACC;PL;DEF
+amenințare	unei amenințări	N;GEN/DAT;SG;INDF
+amenințare	amenințărilor	N;VOC;PL
+amenințare	niște amenințări	N;NOM/ACC;SG;INDF
+minoritate	minoritate	N;VOC;SG
+minoritate	minorităților	N;GEN/DAT;PL;DEF
+minoritate	minoritățile	N;NOM/ACC;PL;DEF
+minoritate	unei minorități	N;GEN/DAT;SG;INDF
+minoritate	minorităților	N;VOC;PL
+minoritate	niște minorități	N;NOM/ACC;SG;INDF
+cetățean	cetățeanule	N;VOC;SG
+cetățean	cetățenilor	N;GEN/DAT;PL;DEF
+cetățean	cetățenii	N;NOM/ACC;PL;DEF
+cetățean	unui cetățean	N;GEN/DAT;SG;INDF
+cetățean	cetățenilor	N;VOC;PL
+cetățean	niște cetățeni	N;NOM/ACC;SG;INDF
+căutare	căutare	N;VOC;SG
+căutare	căutărilor	N;GEN/DAT;PL;DEF
+căutare	căutările	N;NOM/ACC;PL;DEF
+căutare	unei căutări	N;GEN/DAT;SG;INDF
+căutare	căutărilor	N;VOC;PL
+căutare	niște căutări	N;NOM/ACC;SG;INDF
+îndemânare	îndemânare	N;VOC;SG
+îndemânare	îndemânarea	N;NOM/ACC;PL;DEF
+îndemânare	îndemânări	N;GEN/DAT;SG;INDF
+îndemânare	îndemânării	N;GEN/DAT;PL;DEF
+îndemânare	îndemânare	N;NOM/ACC;SG;INDF
+oficial	oficiali	ADJ;DAT/GEN;FEM;SG;INDF
+oficial	oficialului	ADJ;DAT/GEN;MASC;SG;DEF
+oficial	oficiali	ADJ;NOM/ACC;FEM;SG;INDF
+oficial	oficiale	ADJ;DAT/GEN;PL;INDF
+oficial	oficialul	ADJ;NOM/ACC;MASC;SG;DEF
+oficial	oficial	ADJ;NOM/ACC;MASC;SG;INDF
+oficial	oficialei	ADJ;DAT/GEN;NEUT;SG;DEF
+oficial	oficialilor	ADJ;DAT/GEN;FEM;SG;DEF
+oficial	oficial	ADJ;DAT/GEN;MASC;SG;INDF
+oficial	oficialele	ADJ;NOM/ACC;PL;DEF
+oficial	oficiala	ADJ;NOM/ACC;NEUT;SG;DEF
+oficial	oficialii	ADJ;NOM/ACC;FEM;SG;DEF
+oficial	oficialelor	ADJ;DAT/GEN;PL;DEF
+oficial	oficiale	ADJ;NOM/ACC;PL;INDF
+oficial	oficială	ADJ;NOM/ACC;NEUT;SG;INDF
+oficial	oficiale	ADJ;DAT/GEN;NEUT;SG;INDF
+origine	origine	N;VOC;SG
+origine	originilor	N;GEN/DAT;PL;DEF
+origine	originile	N;NOM/ACC;PL;DEF
+origine	unei origini	N;GEN/DAT;SG;INDF
+origine	originilor	N;VOC;PL
+origine	niște origini	N;NOM/ACC;SG;INDF
+autor	autorule	N;VOC;SG
+autor	autorilor	N;GEN/DAT;PL;DEF
+autor	autorii	N;NOM/ACC;PL;DEF
+autor	unui autor	N;GEN/DAT;SG;INDF
+autor	autorilor	N;VOC;PL
+autor	niște autori	N;NOM/ACC;SG;INDF
+simplu	simpli	ADJ;DAT/GEN;FEM;SG;INDF
+simplu	simplului	ADJ;DAT/GEN;MASC;SG;DEF
+simplu	simpli	ADJ;NOM/ACC;FEM;SG;INDF
+simplu	simple	ADJ;DAT/GEN;PL;INDF
+simplu	simplul	ADJ;NOM/ACC;MASC;SG;DEF
+simplu	simplu	ADJ;NOM/ACC;MASC;SG;INDF
+simplu	simplei	ADJ;DAT/GEN;NEUT;SG;DEF
+simplu	simplilor	ADJ;DAT/GEN;FEM;SG;DEF
+simplu	simplu	ADJ;DAT/GEN;MASC;SG;INDF
+simplu	simplele	ADJ;NOM/ACC;PL;DEF
+simplu	simpla	ADJ;NOM/ACC;NEUT;SG;DEF
+simplu	simplii	ADJ;NOM/ACC;FEM;SG;DEF
+simplu	simplelor	ADJ;DAT/GEN;PL;DEF
+simplu	simple	ADJ;NOM/ACC;PL;INDF
+simplu	simplă	ADJ;NOM/ACC;NEUT;SG;INDF
+simplu	simple	ADJ;DAT/GEN;NEUT;SG;INDF
+oraș	orașule	N;VOC;SG
+oraș	orașelor	N;GEN/DAT;PL;DEF
+oraș	orașele	N;NOM/ACC;PL;DEF
+oraș	unui oraș	N;GEN/DAT;SG;INDF
+oraș	orașelor	N;VOC;PL
+oraș	niște orașe	N;NOM/ACC;SG;INDF
+asteroid	asteroidule	N;VOC;SG
+asteroid	asteroizilor	N;GEN/DAT;PL;DEF
+asteroid	asteroizii	N;NOM/ACC;PL;DEF
+asteroid	unui asteroid	N;GEN/DAT;SG;INDF
+asteroid	asteroizilor	N;VOC;PL
+asteroid	niște asteroizi	N;NOM/ACC;SG;INDF
+peșteră	peșteră	N;VOC;SG
+peșteră	peșterilor	N;GEN/DAT;PL;DEF
+peșteră	peșterile	N;NOM/ACC;PL;DEF
+peșteră	unei peșteri	N;GEN/DAT;SG;INDF
+peșteră	peșterilor	N;VOC;PL
+peșteră	niște peșteri	N;NOM/ACC;SG;INDF
+nume	nume	N;VOC;SG
+nume	numelor	N;GEN/DAT;PL;DEF
+nume	numele	N;NOM/ACC;PL;DEF
+nume	unui nume	N;GEN/DAT;SG;INDF
+nume	numelor	N;VOC;PL
+nume	niște nume	N;NOM/ACC;SG;INDF
+localitate	localitate	N;VOC;SG
+localitate	localităților	N;GEN/DAT;PL;DEF
+localitate	localitățile	N;NOM/ACC;PL;DEF
+localitate	unei localități	N;GEN/DAT;SG;INDF
+localitate	localităților	N;VOC;PL
+localitate	niște localități	N;NOM/ACC;SG;INDF
+școală	școală	N;VOC;SG
+școală	școlilor	N;GEN/DAT;PL;DEF
+școală	școlile	N;NOM/ACC;PL;DEF
+școală	unei școli	N;GEN/DAT;SG;INDF
+școală	școlilor	N;VOC;PL
+școală	niște școli	N;NOM/ACC;SG;INDF
+gata	gata	ADJ;DAT/GEN;FEM;SG;INDF
+gata	gata	ADJ;NOM/ACC;FEM;SG;INDF
+gata	gata	ADJ;DAT/GEN;PL;INDF
+gata	gata	ADJ;NOM/ACC;MASC;SG;INDF
+gata	gata	ADJ;DAT/GEN;MASC;SG;INDF
+gata	gata	ADJ;NOM/ACC;NEUT;SG;INDF
+gata	gata	ADJ;NOM/ACC;PL;INDF
+gata	gata	ADJ;DAT/GEN;NEUT;SG;INDF
+studia	studiam	V;IND;PST;1;PL;IPFV
+studia	studiase	V;IND;PST;3;SG;PRF
+studia	să studieze	V;SBJV;PRS;3;PL
+studia	studiază	V;POS;IMP;2;SG
+studia	studiem	V;IND;PRS;1;PL
+studia	studiază	V;IND;PRS;3;PL
+studia	studiați	V;IND;PRS;2;PL
+studia	să studiem	V;SBJV;PRS;1;PL
+studia	să studiezi	V;SBJV;PRS;2;SG
+studia	să studieze	V;SBJV;PRS;3;SG
+studia	studiarăm	V;IND;PST;1;PL;PFV
+studia	nu studiați	V;NEG;IMP;3;PL
+studia	studiară	V;IND;PST;3;PL;PFV
+studia	studiai	V;IND;PST;2;SG;IPFV
+studia	studiind	V.CVB;PRS
+studia	nu studia	V;NEG;IMP;2;SG
+studia	studiați	V;POS;IMP;3;PL
+studia	studiat	V.PTCP;PST
+studia	studiez	V;IND;PRS;1;SG
+studia	să studiez	V;SBJV;PRS;1;SG
+studia	studiaseși	V;IND;PST;2;SG;PRF
+studia	studiază	V;IND;PRS;3;SG
+studia	să studiați	V;SBJV;PRS;2;PL
+studia	a studia	V;NFIN
+studia	studiaserăm	V;IND;PST;1;PL;PRF
+studia	studiarăți	V;IND;PST;2;PL;PFV
+studia	studiai	V;IND;PST;1;SG;PFV
+studia	studiau	V;IND;PST;3;PL;IPFV
+studia	studiezi	V;IND;PRS;2;SG
+studia	studiaserăți	V;IND;PST;2;PL;PRF
+studia	studiam	V;IND;PST;1;SG;IPFV
+studia	studie	V;IND;PST;3;SG;PFV
+studia	studiasem	V;IND;PST;1;SG;PRF
+studia	studia	V;IND;PST;3;SG;IPFV
+studia	studiați	V;IND;PST;2;PL;IPFV
+studia	studiași	V;IND;PST;2;SG;PFV
+studia	studiaseră	V;IND;PST;3;PL;PRF
+târziu	târzii	ADJ;DAT/GEN;FEM;SG;INDF
+târziu	târziului	ADJ;DAT/GEN;MASC;SG;DEF
+târziu	târzii	ADJ;NOM/ACC;FEM;SG;INDF
+târziu	târzii	ADJ;DAT/GEN;PL;INDF
+târziu	târziul	ADJ;NOM/ACC;MASC;SG;DEF
+târziu	târziu	ADJ;NOM/ACC;MASC;SG;INDF
+târziu	târziei	ADJ;DAT/GEN;NEUT;SG;DEF
+târziu	târziilor	ADJ;DAT/GEN;FEM;SG;DEF
+târziu	târziu	ADJ;DAT/GEN;MASC;SG;INDF
+târziu	târziile	ADJ;NOM/ACC;PL;DEF
+târziu	târzia	ADJ;NOM/ACC;NEUT;SG;DEF
+târziu	târziii	ADJ;NOM/ACC;FEM;SG;DEF
+târziu	târziilor	ADJ;DAT/GEN;PL;DEF
+târziu	târzii	ADJ;NOM/ACC;PL;INDF
+târziu	târzie	ADJ;NOM/ACC;NEUT;SG;INDF
+târziu	târzii	ADJ;DAT/GEN;NEUT;SG;INDF
+recunoscut	recunoscuți	ADJ;DAT/GEN;FEM;SG;INDF
+recunoscut	recunoscutului	ADJ;DAT/GEN;MASC;SG;DEF
+recunoscut	recunoscuți	ADJ;NOM/ACC;FEM;SG;INDF
+recunoscut	recunoscute	ADJ;DAT/GEN;PL;INDF
+recunoscut	recunoscutul	ADJ;NOM/ACC;MASC;SG;DEF
+recunoscut	recunoscut	ADJ;NOM/ACC;MASC;SG;INDF
+recunoscut	recunoscutei	ADJ;DAT/GEN;NEUT;SG;DEF
+recunoscut	recunoscuților	ADJ;DAT/GEN;FEM;SG;DEF
+recunoscut	recunoscut	ADJ;DAT/GEN;MASC;SG;INDF
+recunoscut	recunoscutele	ADJ;NOM/ACC;PL;DEF
+recunoscut	recunoscuta	ADJ;NOM/ACC;NEUT;SG;DEF
+recunoscut	recunoscuții	ADJ;NOM/ACC;FEM;SG;DEF
+recunoscut	recunoscutelor	ADJ;DAT/GEN;PL;DEF
+recunoscut	recunoscute	ADJ;NOM/ACC;PL;INDF
+recunoscut	recunoscută	ADJ;NOM/ACC;NEUT;SG;INDF
+recunoscut	recunoscute	ADJ;DAT/GEN;NEUT;SG;INDF
+construcție	construcție	N;VOC;SG
+construcție	construcțiilor	N;GEN/DAT;PL;DEF
+construcție	construcțiile	N;NOM/ACC;PL;DEF
+construcție	unei construcții	N;GEN/DAT;SG;INDF
+construcție	construcțiilor	N;VOC;PL
+construcție	niște construcții	N;NOM/ACC;SG;INDF
+singur	singuri	ADJ;DAT/GEN;FEM;SG;INDF
+singur	singurului	ADJ;DAT/GEN;MASC;SG;DEF
+singur	singuri	ADJ;NOM/ACC;FEM;SG;INDF
+singur	singure	ADJ;DAT/GEN;PL;INDF
+singur	singurul	ADJ;NOM/ACC;MASC;SG;DEF
+singur	singur	ADJ;NOM/ACC;MASC;SG;INDF
+singur	singurei	ADJ;DAT/GEN;NEUT;SG;DEF
+singur	singurilor	ADJ;DAT/GEN;FEM;SG;DEF
+singur	singur	ADJ;DAT/GEN;MASC;SG;INDF
+singur	singurele	ADJ;NOM/ACC;PL;DEF
+singur	singura	ADJ;NOM/ACC;NEUT;SG;DEF
+singur	singurii	ADJ;NOM/ACC;FEM;SG;DEF
+singur	singurelor	ADJ;DAT/GEN;PL;DEF
+singur	singure	ADJ;NOM/ACC;PL;INDF
+singur	singură	ADJ;NOM/ACC;NEUT;SG;INDF
+singur	singure	ADJ;DAT/GEN;NEUT;SG;INDF
+ridicat	ridicați	ADJ;DAT/GEN;FEM;SG;INDF
+ridicat	ridicatului	ADJ;DAT/GEN;MASC;SG;DEF
+ridicat	ridicați	ADJ;NOM/ACC;FEM;SG;INDF
+ridicat	ridicate	ADJ;DAT/GEN;PL;INDF
+ridicat	ridicatul	ADJ;NOM/ACC;MASC;SG;DEF
+ridicat	ridicat	ADJ;NOM/ACC;MASC;SG;INDF
+ridicat	ridicatei	ADJ;DAT/GEN;NEUT;SG;DEF
+ridicat	ridicaților	ADJ;DAT/GEN;FEM;SG;DEF
+ridicat	ridicat	ADJ;DAT/GEN;MASC;SG;INDF
+ridicat	ridicatele	ADJ;NOM/ACC;PL;DEF
+ridicat	ridicata	ADJ;NOM/ACC;NEUT;SG;DEF
+ridicat	ridicată	ADJ;NOM/ACC;NEUT;SG;INDF
+ridicat	ridicatelor	ADJ;DAT/GEN;PL;DEF
+ridicat	ridicate	ADJ;NOM/ACC;PL;INDF
+ridicat	ridicații	ADJ;NOM/ACC;FEM;SG;DEF
+ridicat	ridicate	ADJ;DAT/GEN;NEUT;SG;INDF
+pădure	pădure	N;VOC;SG
+pădure	pădurilor	N;GEN/DAT;PL;DEF
+pădure	pădurile	N;NOM/ACC;PL;DEF
+pădure	unei păduri	N;GEN/DAT;SG;INDF
+pădure	pădurilor	N;VOC;PL
+pădure	niște păduri	N;NOM/ACC;SG;INDF
+față	față	N;VOC;SG
+față	fețelor	N;GEN/DAT;PL;DEF
+față	fețele	N;NOM/ACC;PL;DEF
+față	unei fețe	N;GEN/DAT;SG;INDF
+față	fețelor	N;VOC;PL
+față	niște fețe	N;NOM/ACC;SG;INDF
+rar	rari	ADJ;DAT/GEN;FEM;SG;INDF
+rar	rarului	ADJ;DAT/GEN;MASC;SG;DEF
+rar	rari	ADJ;NOM/ACC;FEM;SG;INDF
+rar	rare	ADJ;DAT/GEN;PL;INDF
+rar	rarul	ADJ;NOM/ACC;MASC;SG;DEF
+rar	rar	ADJ;NOM/ACC;MASC;SG;INDF
+rar	rarei	ADJ;DAT/GEN;NEUT;SG;DEF
+rar	rarilor	ADJ;DAT/GEN;FEM;SG;DEF
+rar	rar	ADJ;DAT/GEN;MASC;SG;INDF
+rar	rarele	ADJ;NOM/ACC;PL;DEF
+rar	rara	ADJ;NOM/ACC;NEUT;SG;DEF
+rar	rarii	ADJ;NOM/ACC;FEM;SG;DEF
+rar	rarelor	ADJ;DAT/GEN;PL;DEF
+rar	rare	ADJ;NOM/ACC;PL;INDF
+rar	rară	ADJ;NOM/ACC;NEUT;SG;INDF
+rar	rare	ADJ;DAT/GEN;NEUT;SG;INDF
+crede	credeam	V;IND;PST;1;PL;IPFV
+crede	crezuse	V;IND;PST;3;SG;PRF
+crede	să creadă	V;SBJV;PRS;3;PL
+crede	crede	V;POS;IMP;2;SG
+crede	credem	V;IND;PRS;1;PL
+crede	cred	V;IND;PRS;3;PL
+crede	credeți	V;IND;PRS;2;PL
+crede	să credem	V;SBJV;PRS;1;PL
+crede	să crezi	V;SBJV;PRS;2;SG
+crede	să creadă	V;SBJV;PRS;3;SG
+crede	crezurăm	V;IND;PST;1;PL;PFV
+crede	nu credeți	V;NEG;IMP;3;PL
+crede	crezură	V;IND;PST;3;PL;PFV
+crede	credeai	V;IND;PST;2;SG;IPFV
+crede	crezând	V.CVB;PRS
+crede	nu crede	V;NEG;IMP;2;SG
+crede	credeți	V;POS;IMP;3;PL
+crede	crezut	V.PTCP;PST
+crede	cred	V;IND;PRS;1;SG
+crede	să cred	V;SBJV;PRS;1;SG
+crede	crezuseși	V;IND;PST;2;SG;PRF
+crede	crede	V;IND;PRS;3;SG
+crede	să credeți	V;SBJV;PRS;2;PL
+crede	a crede	V;NFIN
+crede	crezuserăm	V;IND;PST;1;PL;PRF
+crede	crezurăți	V;IND;PST;2;PL;PFV
+crede	crezui	V;IND;PST;1;SG;PFV
+crede	credeau	V;IND;PST;3;PL;IPFV
+crede	crezi	V;IND;PRS;2;SG
+crede	crezuserăți	V;IND;PST;2;PL;PRF
+crede	credeam	V;IND;PST;1;SG;IPFV
+crede	crezu	V;IND;PST;3;SG;PFV
+crede	crezusem	V;IND;PST;1;SG;PRF
+crede	credea	V;IND;PST;3;SG;IPFV
+crede	credeați	V;IND;PST;2;PL;IPFV
+crede	crezuși	V;IND;PST;2;SG;PFV
+crede	crezuseră	V;IND;PST;3;PL;PRF
+rămas	rămasule	N;VOC;SG
+rămas	rămasurilor	N;GEN/DAT;PL;DEF
+rămas	rămasurile	N;NOM/ACC;PL;DEF
+rămas	unui rămas	N;GEN/DAT;SG;INDF
+rămas	rămasurilor	N;VOC;PL
+rămas	niște rămasuri	N;NOM/ACC;SG;INDF
+important	importanți	ADJ;DAT/GEN;FEM;SG;INDF
+important	importantului	ADJ;DAT/GEN;MASC;SG;DEF
+important	importanți	ADJ;NOM/ACC;FEM;SG;INDF
+important	importante	ADJ;DAT/GEN;PL;INDF
+important	importantul	ADJ;NOM/ACC;MASC;SG;DEF
+important	important	ADJ;NOM/ACC;MASC;SG;INDF
+important	importantei	ADJ;DAT/GEN;NEUT;SG;DEF
+important	importanților	ADJ;DAT/GEN;FEM;SG;DEF
+important	important	ADJ;DAT/GEN;MASC;SG;INDF
+important	importantele	ADJ;NOM/ACC;PL;DEF
+important	importanta	ADJ;NOM/ACC;NEUT;SG;DEF
+important	importanții	ADJ;NOM/ACC;FEM;SG;DEF
+important	importantelor	ADJ;DAT/GEN;PL;DEF
+important	importante	ADJ;NOM/ACC;PL;INDF
+important	importantă	ADJ;NOM/ACC;NEUT;SG;INDF
+important	importante	ADJ;DAT/GEN;NEUT;SG;INDF
+rusă	rusă	N;VOC;SG
+rusă	rusa	N;NOM/ACC;PL;DEF
+rusă	ruse	N;GEN/DAT;SG;INDF
+rusă	rusei	N;GEN/DAT;PL;DEF
+rusă	rusă	N;NOM/ACC;SG;INDF
+exemplu	exemplule	N;VOC;SG
+exemplu	exemplelor	N;GEN/DAT;PL;DEF
+exemplu	exemplele	N;NOM/ACC;PL;DEF
+exemplu	unui exemplu	N;GEN/DAT;SG;INDF
+exemplu	exemplelor	N;VOC;PL
+exemplu	niște exemple	N;NOM/ACC;SG;INDF
+fel	felule	N;VOC;SG
+fel	felurilor	N;GEN/DAT;PL;DEF
+fel	felurile	N;NOM/ACC;PL;DEF
+fel	unui fel	N;GEN/DAT;SG;INDF
+fel	felurilor	N;VOC;PL
+fel	niște feluri	N;NOM/ACC;SG;INDF
+loc	locule	N;VOC;SG
+loc	locurilor	N;GEN/DAT;PL;DEF
+loc	locurile	N;NOM/ACC;PL;DEF
+loc	unui loc	N;GEN/DAT;SG;INDF
+loc	locurilor	N;VOC;PL
+loc	niște locuri	N;NOM/ACC;SG;INDF
+retrage	retrageam	V;IND;PST;1;PL;IPFV
+retrage	retrasese	V;IND;PST;3;SG;PRF
+retrage	să retragă	V;SBJV;PRS;3;PL
+retrage	retrage	V;POS;IMP;2;SG
+retrage	retragem	V;IND;PRS;1;PL
+retrage	retrag	V;IND;PRS;3;PL
+retrage	retrageți	V;IND;PRS;2;PL
+retrage	să retragem	V;SBJV;PRS;1;PL
+retrage	să retragi	V;SBJV;PRS;2;SG
+retrage	să retragă	V;SBJV;PRS;3;SG
+retrage	retraserăm	V;IND;PST;1;PL;PFV
+retrage	nu retrageți	V;NEG;IMP;3;PL
+retrage	retraseră	V;IND;PST;3;PL;PFV
+retrage	retrageai	V;IND;PST;2;SG;IPFV
+retrage	retragând	V.CVB;PRS
+retrage	nu retrage	V;NEG;IMP;2;SG
+retrage	retrageți	V;POS;IMP;3;PL
+retrage	retras	V.PTCP;PST
+retrage	retrag	V;IND;PRS;1;SG
+retrage	să retrag	V;SBJV;PRS;1;SG
+retrage	retraseseși	V;IND;PST;2;SG;PRF
+retrage	retrage	V;IND;PRS;3;SG
+retrage	să retrageți	V;SBJV;PRS;2;PL
+retrage	a retrage	V;NFIN
+retrage	retraseserăm	V;IND;PST;1;PL;PRF
+retrage	retraserăți	V;IND;PST;2;PL;PFV
+retrage	retrasei	V;IND;PST;1;SG;PFV
+retrage	retrageau	V;IND;PST;3;PL;IPFV
+retrage	retragi	V;IND;PRS;2;SG
+retrage	retraseserăți	V;IND;PST;2;PL;PRF
+retrage	retrageam	V;IND;PST;1;SG;IPFV
+retrage	retrase	V;IND;PST;3;SG;PFV
+retrage	retrasesem	V;IND;PST;1;SG;PRF
+retrage	retragea	V;IND;PST;3;SG;IPFV
+retrage	retrageați	V;IND;PST;2;PL;IPFV
+retrage	retraseși	V;IND;PST;2;SG;PFV
+retrage	retraseseră	V;IND;PST;3;PL;PRF
+învăța	învățam	V;IND;PST;1;PL;IPFV
+învăța	învățase	V;IND;PST;3;SG;PRF
+învăța	să învețe	V;SBJV;PRS;3;PL
+învăța	învață	V;POS;IMP;2;SG
+învăța	învățăm	V;IND;PRS;1;PL
+învăța	învață	V;IND;PRS;3;PL
+învăța	învățați	V;IND;PRS;2;PL
+învăța	să învățăm	V;SBJV;PRS;1;PL
+învăța	să înveți	V;SBJV;PRS;2;SG
+învăța	să învețe	V;SBJV;PRS;3;SG
+învăța	învățarăm	V;IND;PST;1;PL;PFV
+învăța	nu învățați	V;NEG;IMP;3;PL
+învăța	învățară	V;IND;PST;3;PL;PFV
+învăța	învățai	V;IND;PST;2;SG;IPFV
+învăța	învățând	V.CVB;PRS
+învăța	nu învăța	V;NEG;IMP;2;SG
+învăța	învățați	V;POS;IMP;3;PL
+învăța	învățat	V.PTCP;PST
+învăța	învăț	V;IND;PRS;1;SG
+învăța	să învăț	V;SBJV;PRS;1;SG
+învăța	învățaseși	V;IND;PST;2;SG;PRF
+învăța	învață	V;IND;PRS;3;SG
+învăța	să învățați	V;SBJV;PRS;2;PL
+învăța	a învăța	V;NFIN
+învăța	învățaserăm	V;IND;PST;1;PL;PRF
+învăța	învățarăți	V;IND;PST;2;PL;PFV
+învăța	învățai	V;IND;PST;1;SG;PFV
+învăța	învățau	V;IND;PST;3;PL;IPFV
+învăța	înveți	V;IND;PRS;2;SG
+învăța	învățaserăți	V;IND;PST;2;PL;PRF
+învăța	învățam	V;IND;PST;1;SG;IPFV
+învăța	învăță	V;IND;PST;3;SG;PFV
+învăța	învățasem	V;IND;PST;1;SG;PRF
+învăța	învăța	V;IND;PST;3;SG;IPFV
+învăța	învățați	V;IND;PST;2;PL;IPFV
+învăța	învățași	V;IND;PST;2;SG;PFV
+învăța	învățaseră	V;IND;PST;3;PL;PRF
+comunitate	comunitate	N;VOC;SG
+comunitate	comunităților	N;GEN/DAT;PL;DEF
+comunitate	comunitățile	N;NOM/ACC;PL;DEF
+comunitate	unei comunități	N;GEN/DAT;SG;INDF
+comunitate	comunităților	N;VOC;PL
+comunitate	niște comunități	N;NOM/ACC;SG;INDF
+larg	largi	ADJ;DAT/GEN;FEM;SG;INDF
+larg	largului	ADJ;DAT/GEN;MASC;SG;DEF
+larg	largi	ADJ;NOM/ACC;FEM;SG;INDF
+larg	largi	ADJ;DAT/GEN;PL;INDF
+larg	largul	ADJ;NOM/ACC;MASC;SG;DEF
+larg	larg	ADJ;NOM/ACC;MASC;SG;INDF
+larg	largii	ADJ;DAT/GEN;NEUT;SG;DEF
+larg	largilor	ADJ;DAT/GEN;FEM;SG;DEF
+larg	larg	ADJ;DAT/GEN;MASC;SG;INDF
+larg	largile	ADJ;NOM/ACC;PL;DEF
+larg	larga	ADJ;NOM/ACC;NEUT;SG;DEF
+larg	largii	ADJ;NOM/ACC;FEM;SG;DEF
+larg	largilor	ADJ;DAT/GEN;PL;DEF
+larg	largi	ADJ;NOM/ACC;PL;INDF
+larg	largă	ADJ;NOM/ACC;NEUT;SG;INDF
+larg	largi	ADJ;DAT/GEN;NEUT;SG;INDF
+rus	rușilor	ADJ;DAT/GEN;FEM;SG;INDF
+rus	rusule	ADJ;DAT/GEN;MASC;SG;DEF
+rus	definite articulation	ADJ;NOM/ACC;FEM;SG;INDF
+rus	un rus	ADJ;NOM/ACC;MASC;SG;DEF
+rus	definite articulation	ADJ;NOM/ACC;MASC;SG;INDF
+rus	rușilor	ADJ;DAT/GEN;NEUT;SG;DEF
+rus	rusului	ADJ;DAT/GEN;MASC;SG;INDF
+rus	rușii	ADJ;NOM/ACC;PL;DEF
+rus	rusul	ADJ;NOM/ACC;NEUT;SG;DEF
+rus	indefinite articulation	ADJ;NOM/ACC;NEUT;SG;INDF
+rus	niște ruși	ADJ;NOM/ACC;FEM;SG;DEF
+rus	unor ruși	ADJ;DAT/GEN;NEUT;SG;INDF
+componentă	componentă	N;VOC;SG
+componentă	componentelor	N;GEN/DAT;PL;DEF
+componentă	componentele	N;NOM/ACC;PL;DEF
+componentă	unei componente	N;GEN/DAT;SG;INDF
+componentă	componentelor	N;VOC;PL
+componentă	niște componente	N;NOM/ACC;SG;INDF
+an	anule	N;VOC;SG
+an	anilor	N;GEN/DAT;PL;DEF
+an	anii	N;NOM/ACC;PL;DEF
+an	unui an	N;GEN/DAT;SG;INDF
+an	anilor	N;VOC;PL
+an	niște ani	N;NOM/ACC;SG;INDF
+urma	urmam	V;IND;PST;1;PL;IPFV
+urma	urmase	V;IND;PST;3;SG;PRF
+urma	să urmeze	V;SBJV;PRS;3;PL
+urma	urmează	V;POS;IMP;2;SG
+urma	urmăm	V;IND;PRS;1;PL
+urma	urmează	V;IND;PRS;3;PL
+urma	urmați	V;IND;PRS;2;PL
+urma	să urmăm	V;SBJV;PRS;1;PL
+urma	să urmezi	V;SBJV;PRS;2;SG
+urma	să urmeze	V;SBJV;PRS;3;SG
+urma	urmarăm	V;IND;PST;1;PL;PFV
+urma	nu urmați	V;NEG;IMP;3;PL
+urma	urmară	V;IND;PST;3;PL;PFV
+urma	urmai	V;IND;PST;2;SG;IPFV
+urma	urmând	V.CVB;PRS
+urma	nu urma	V;NEG;IMP;2;SG
+urma	urmați	V;POS;IMP;3;PL
+urma	urmat	V.PTCP;PST
+urma	urmez	V;IND;PRS;1;SG
+urma	să urmez	V;SBJV;PRS;1;SG
+urma	urmaseși	V;IND;PST;2;SG;PRF
+urma	urmează	V;IND;PRS;3;SG
+urma	să urmați	V;SBJV;PRS;2;PL
+urma	a urma	V;NFIN
+urma	urmaserăm	V;IND;PST;1;PL;PRF
+urma	urmarăți	V;IND;PST;2;PL;PFV
+urma	urmai	V;IND;PST;1;SG;PFV
+urma	urmau	V;IND;PST;3;PL;IPFV
+urma	urmezi	V;IND;PRS;2;SG
+urma	urmaserăți	V;IND;PST;2;PL;PRF
+urma	urmam	V;IND;PST;1;SG;IPFV
+urma	urmă	V;IND;PST;3;SG;PFV
+urma	urmasem	V;IND;PST;1;SG;PRF
+urma	urma	V;IND;PST;3;SG;IPFV
+urma	urmați	V;IND;PST;2;PL;IPFV
+urma	urmași	V;IND;PST;2;SG;PFV
+urma	urmaseră	V;IND;PST;3;PL;PRF
+economic	economici	ADJ;DAT/GEN;FEM;SG;INDF
+economic	economicului	ADJ;DAT/GEN;MASC;SG;DEF
+economic	economici	ADJ;NOM/ACC;FEM;SG;INDF
+economic	economice	ADJ;DAT/GEN;PL;INDF
+economic	economicul	ADJ;NOM/ACC;MASC;SG;DEF
+economic	economic	ADJ;NOM/ACC;MASC;SG;INDF
+economic	economicei	ADJ;DAT/GEN;NEUT;SG;DEF
+economic	economicilor	ADJ;DAT/GEN;FEM;SG;DEF
+economic	economic	ADJ;DAT/GEN;MASC;SG;INDF
+economic	economicele	ADJ;NOM/ACC;PL;DEF
+economic	economica	ADJ;NOM/ACC;NEUT;SG;DEF
+economic	economicii	ADJ;NOM/ACC;FEM;SG;DEF
+economic	economicelor	ADJ;DAT/GEN;PL;DEF
+economic	economice	ADJ;NOM/ACC;PL;INDF
+economic	economică	ADJ;NOM/ACC;NEUT;SG;INDF
+economic	economice	ADJ;DAT/GEN;NEUT;SG;INDF
+naștere	naștere	N;VOC;SG
+naștere	nașterilor	N;GEN/DAT;PL;DEF
+naștere	nașterile	N;NOM/ACC;PL;DEF
+naștere	unei nașteri	N;GEN/DAT;SG;INDF
+naștere	nașterilor	N;VOC;PL
+naștere	niște nașteri	N;NOM/ACC;SG;INDF
+bucura	bucuram	V;IND;PST;1;PL;IPFV
+bucura	bucurase	V;IND;PST;3;SG;PRF
+bucura	să bucure	V;SBJV;PRS;3;PL
+bucura	bucură	V;POS;IMP;2;SG
+bucura	bucurăm	V;IND;PRS;1;PL
+bucura	bucură	V;IND;PRS;3;PL
+bucura	bucurați	V;IND;PRS;2;PL
+bucura	să bucurăm	V;SBJV;PRS;1;PL
+bucura	să bucuri	V;SBJV;PRS;2;SG
+bucura	să bucure	V;SBJV;PRS;3;SG
+bucura	bucurarăm	V;IND;PST;1;PL;PFV
+bucura	nu bucurați	V;NEG;IMP;3;PL
+bucura	bucurară	V;IND;PST;3;PL;PFV
+bucura	bucurai	V;IND;PST;2;SG;IPFV
+bucura	bucurând	V.CVB;PRS
+bucura	nu bucura	V;NEG;IMP;2;SG
+bucura	bucurați	V;POS;IMP;3;PL
+bucura	bucurat	V.PTCP;PST
+bucura	bucur	V;IND;PRS;1;SG
+bucura	să bucur	V;SBJV;PRS;1;SG
+bucura	bucuraseși	V;IND;PST;2;SG;PRF
+bucura	bucură	V;IND;PRS;3;SG
+bucura	să bucurați	V;SBJV;PRS;2;PL
+bucura	a bucura	V;NFIN
+bucura	bucuraserăm	V;IND;PST;1;PL;PRF
+bucura	bucurarăți	V;IND;PST;2;PL;PFV
+bucura	bucurai	V;IND;PST;1;SG;PFV
+bucura	bucurau	V;IND;PST;3;PL;IPFV
+bucura	bucuri	V;IND;PRS;2;SG
+bucura	bucuraserăți	V;IND;PST;2;PL;PRF
+bucura	bucuram	V;IND;PST;1;SG;IPFV
+bucura	bucură	V;IND;PST;3;SG;PFV
+bucura	bucurasem	V;IND;PST;1;SG;PRF
+bucura	bucura	V;IND;PST;3;SG;IPFV
+bucura	bucurați	V;IND;PST;2;PL;IPFV
+bucura	bucurași	V;IND;PST;2;SG;PFV
+bucura	bucuraseră	V;IND;PST;3;PL;PRF
+baie	baie	N;VOC;SG
+baie	băilor	N;GEN/DAT;PL;DEF
+baie	băile	N;NOM/ACC;PL;DEF
+baie	unei băi	N;GEN/DAT;SG;INDF
+baie	băilor	N;VOC;PL
+baie	niște băi	N;NOM/ACC;SG;INDF
+vorbitoare	vorbitoare	N;VOC;SG
+vorbitoare	vorbitoarelor	N;GEN/DAT;PL;DEF
+vorbitoare	vorbitoarele	N;NOM/ACC;PL;DEF
+vorbitoare	unei vorbitoare	N;GEN/DAT;SG;INDF
+vorbitoare	vorbitoarelor	N;VOC;PL
+vorbitoare	niște vorbitoare	N;NOM/ACC;SG;INDF
+aduce	aduceam	V;IND;PST;1;PL;IPFV
+aduce	adusese	V;IND;PST;3;SG;PRF
+aduce	să aducă	V;SBJV;PRS;3;PL
+aduce	adu	V;POS;IMP;2;SG
+aduce	aducem	V;IND;PRS;1;PL
+aduce	aduc	V;IND;PRS;3;PL
+aduce	aduceți	V;IND;PRS;2;PL
+aduce	să aducem	V;SBJV;PRS;1;PL
+aduce	să aduci	V;SBJV;PRS;2;SG
+aduce	să aducă	V;SBJV;PRS;3;SG
+aduce	aduserăm	V;IND;PST;1;PL;PFV
+aduce	nu aduceți	V;NEG;IMP;3;PL
+aduce	aduseră	V;IND;PST;3;PL;PFV
+aduce	aduceai	V;IND;PST;2;SG;IPFV
+aduce	aducând	V.CVB;PRS
+aduce	nu aduce	V;NEG;IMP;2;SG
+aduce	aduceți	V;POS;IMP;3;PL
+aduce	adus	V.PTCP;PST
+aduce	aduc	V;IND;PRS;1;SG
+aduce	să aduc	V;SBJV;PRS;1;SG
+aduce	aduseseși	V;IND;PST;2;SG;PRF
+aduce	aduce	V;IND;PRS;3;SG
+aduce	să aduceți	V;SBJV;PRS;2;PL
+aduce	a aduce	V;NFIN
+aduce	aduseserăm	V;IND;PST;1;PL;PRF
+aduce	aduserăți	V;IND;PST;2;PL;PFV
+aduce	adusei	V;IND;PST;1;SG;PFV
+aduce	aduceau	V;IND;PST;3;PL;IPFV
+aduce	aduci	V;IND;PRS;2;SG
+aduce	aduseserăți	V;IND;PST;2;PL;PRF
+aduce	aduceam	V;IND;PST;1;SG;IPFV
+aduce	aduse	V;IND;PST;3;SG;PFV
+aduce	adusesem	V;IND;PST;1;SG;PRF
+aduce	aducea	V;IND;PST;3;SG;IPFV
+aduce	aduceați	V;IND;PST;2;PL;IPFV
+aduce	aduseși	V;IND;PST;2;SG;PFV
+aduce	aduseseră	V;IND;PST;3;PL;PRF
+alfabet	alfabetule	N;VOC;SG
+alfabet	alfabetelor	N;GEN/DAT;PL;DEF
+alfabet	alfabetele	N;NOM/ACC;PL;DEF
+alfabet	unui alfabet	N;GEN/DAT;SG;INDF
+alfabet	alfabetelor	N;VOC;PL
+alfabet	niște alfabete	N;NOM/ACC;SG;INDF
+avantaj	avantajule	N;VOC;SG
+avantaj	avantajelor	N;GEN/DAT;PL;DEF
+avantaj	avantajele	N;NOM/ACC;PL;DEF
+avantaj	unui avantaj	N;GEN/DAT;SG;INDF
+avantaj	avantajelor	N;VOC;PL
+avantaj	niște avantaje	N;NOM/ACC;SG;INDF
+victorie	victorie	N;VOC;SG
+victorie	victoriilor	N;GEN/DAT;PL;DEF
+victorie	victoriile	N;NOM/ACC;PL;DEF
+victorie	unei victorii	N;GEN/DAT;SG;INDF
+victorie	victoriilor	N;VOC;PL
+victorie	niște victorii	N;NOM/ACC;SG;INDF
+înălțime	înălțime	N;VOC;SG
+înălțime	înălțimilor	N;GEN/DAT;PL;DEF
+înălțime	înălțimile	N;NOM/ACC;PL;DEF
+înălțime	unei înălțimi	N;GEN/DAT;SG;INDF
+înălțime	înălțimilor	N;VOC;PL
+înălțime	niște înălțimi	N;NOM/ACC;SG;INDF
+influența	influențam	V;IND;PST;1;PL;IPFV
+influența	influențase	V;IND;PST;3;SG;PRF
+influența	să influențeze	V;SBJV;PRS;3;PL
+influența	influențează	V;POS;IMP;2;SG
+influența	influențăm	V;IND;PRS;1;PL
+influența	influențează	V;IND;PRS;3;PL
+influența	influențați	V;IND;PRS;2;PL
+influența	să influențăm	V;SBJV;PRS;1;PL
+influența	să influențezi	V;SBJV;PRS;2;SG
+influența	să influențeze	V;SBJV;PRS;3;SG
+influența	influențarăm	V;IND;PST;1;PL;PFV
+influența	nu influențați	V;NEG;IMP;3;PL
+influența	influențară	V;IND;PST;3;PL;PFV
+influența	influențai	V;IND;PST;2;SG;IPFV
+influența	influențând	V.CVB;PRS
+influența	nu influența	V;NEG;IMP;2;SG
+influența	influențați	V;POS;IMP;3;PL
+influența	influențat	V.PTCP;PST
+influența	influențez	V;IND;PRS;1;SG
+influența	să influențez	V;SBJV;PRS;1;SG
+influența	influențaseși	V;IND;PST;2;SG;PRF
+influența	influențează	V;IND;PRS;3;SG
+influența	să influențați	V;SBJV;PRS;2;PL
+influența	a influența	V;NFIN
+influența	influențaserăm	V;IND;PST;1;PL;PRF
+influența	influențarăți	V;IND;PST;2;PL;PFV
+influența	influențai	V;IND;PST;1;SG;PFV
+influența	influențau	V;IND;PST;3;PL;IPFV
+influența	influențezi	V;IND;PRS;2;SG
+influența	influențaserăți	V;IND;PST;2;PL;PRF
+influența	influențam	V;IND;PST;1;SG;IPFV
+influența	influență	V;IND;PST;3;SG;PFV
+influența	influențasem	V;IND;PST;1;SG;PRF
+influența	influența	V;IND;PST;3;SG;IPFV
+influența	influențați	V;IND;PST;2;PL;IPFV
+influența	influențași	V;IND;PST;2;SG;PFV
+influența	influențaseră	V;IND;PST;3;PL;PRF
+salva	salvam	V;IND;PST;1;PL;IPFV
+salva	salvase	V;IND;PST;3;SG;PRF
+salva	să salveze	V;SBJV;PRS;3;PL
+salva	salvează	V;POS;IMP;2;SG
+salva	salvăm	V;IND;PRS;1;PL
+salva	salvează	V;IND;PRS;3;PL
+salva	salvați	V;IND;PRS;2;PL
+salva	să salvăm	V;SBJV;PRS;1;PL
+salva	să salvezi	V;SBJV;PRS;2;SG
+salva	să salveze	V;SBJV;PRS;3;SG
+salva	salvarăm	V;IND;PST;1;PL;PFV
+salva	nu salvați	V;NEG;IMP;3;PL
+salva	salvară	V;IND;PST;3;PL;PFV
+salva	salvai	V;IND;PST;2;SG;IPFV
+salva	salvând	V.CVB;PRS
+salva	nu salva	V;NEG;IMP;2;SG
+salva	salvați	V;POS;IMP;3;PL
+salva	salvat	V.PTCP;PST
+salva	salvez	V;IND;PRS;1;SG
+salva	să salvez	V;SBJV;PRS;1;SG
+salva	salvaseși	V;IND;PST;2;SG;PRF
+salva	salvează	V;IND;PRS;3;SG
+salva	să salvați	V;SBJV;PRS;2;PL
+salva	a salva	V;NFIN
+salva	salvaserăm	V;IND;PST;1;PL;PRF
+salva	salvarăți	V;IND;PST;2;PL;PFV
+salva	salvai	V;IND;PST;1;SG;PFV
+salva	salvau	V;IND;PST;3;PL;IPFV
+salva	salvezi	V;IND;PRS;2;SG
+salva	salvaserăți	V;IND;PST;2;PL;PRF
+salva	salvam	V;IND;PST;1;SG;IPFV
+salva	salvă	V;IND;PST;3;SG;PFV
+salva	salvasem	V;IND;PST;1;SG;PRF
+salva	salva	V;IND;PST;3;SG;IPFV
+salva	salvați	V;IND;PST;2;PL;IPFV
+salva	salvași	V;IND;PST;2;SG;PFV
+salva	salvaseră	V;IND;PST;3;PL;PRF
+învins	învinși	ADJ;DAT/GEN;FEM;SG;INDF
+învins	învinsului	ADJ;DAT/GEN;MASC;SG;DEF
+învins	învinși	ADJ;NOM/ACC;FEM;SG;INDF
+învins	învinse	ADJ;DAT/GEN;PL;INDF
+învins	învinsul	ADJ;NOM/ACC;MASC;SG;DEF
+învins	învins	ADJ;NOM/ACC;MASC;SG;INDF
+învins	învinsei	ADJ;DAT/GEN;NEUT;SG;DEF
+învins	învinșilor	ADJ;DAT/GEN;FEM;SG;DEF
+învins	învins	ADJ;DAT/GEN;MASC;SG;INDF
+învins	învinsele	ADJ;NOM/ACC;PL;DEF
+învins	învinsa	ADJ;NOM/ACC;NEUT;SG;DEF
+învins	învinșii	ADJ;NOM/ACC;FEM;SG;DEF
+învins	învinselor	ADJ;DAT/GEN;PL;DEF
+învins	învinse	ADJ;NOM/ACC;PL;INDF
+învins	învinsă	ADJ;NOM/ACC;NEUT;SG;INDF
+învins	învinse	ADJ;DAT/GEN;NEUT;SG;INDF
+avut	avuturilor	ADJ;DAT/GEN;FEM;SG;INDF
+avut	avutule	ADJ;DAT/GEN;MASC;SG;DEF
+avut	definite articulation	ADJ;NOM/ACC;FEM;SG;INDF
+avut	un avut	ADJ;NOM/ACC;MASC;SG;DEF
+avut	definite articulation	ADJ;NOM/ACC;MASC;SG;INDF
+avut	avuturilor	ADJ;DAT/GEN;NEUT;SG;DEF
+avut	avutului	ADJ;DAT/GEN;MASC;SG;INDF
+avut	avuturile	ADJ;NOM/ACC;PL;DEF
+avut	avutul	ADJ;NOM/ACC;NEUT;SG;DEF
+avut	indefinite articulation	ADJ;NOM/ACC;NEUT;SG;INDF
+avut	niște avuturi	ADJ;NOM/ACC;FEM;SG;DEF
+avut	unor avuturi	ADJ;DAT/GEN;NEUT;SG;INDF
+bolnav	bolnavi	ADJ;DAT/GEN;FEM;SG;INDF
+bolnav	bolnavului	ADJ;DAT/GEN;MASC;SG;DEF
+bolnav	bolnavi	ADJ;NOM/ACC;FEM;SG;INDF
+bolnav	bolnave	ADJ;DAT/GEN;PL;INDF
+bolnav	bolnavul	ADJ;NOM/ACC;MASC;SG;DEF
+bolnav	bolnav	ADJ;NOM/ACC;MASC;SG;INDF
+bolnav	bolnavei	ADJ;DAT/GEN;NEUT;SG;DEF
+bolnav	bolnavilor	ADJ;DAT/GEN;FEM;SG;DEF
+bolnav	bolnav	ADJ;DAT/GEN;MASC;SG;INDF
+bolnav	bolnavele	ADJ;NOM/ACC;PL;DEF
+bolnav	bolnava	ADJ;NOM/ACC;NEUT;SG;DEF
+bolnav	bolnavii	ADJ;NOM/ACC;FEM;SG;DEF
+bolnav	bolnavelor	ADJ;DAT/GEN;PL;DEF
+bolnav	bolnave	ADJ;NOM/ACC;PL;INDF
+bolnav	bolnavă	ADJ;NOM/ACC;NEUT;SG;INDF
+bolnav	bolnave	ADJ;DAT/GEN;NEUT;SG;INDF
+ține	țineam	V;IND;PST;1;PL;IPFV
+ține	ținuse	V;IND;PST;3;SG;PRF
+ține	să țină	V;SBJV;PRS;3;PL
+ține	ține	V;POS;IMP;2;SG
+ține	ținem	V;IND;PRS;1;PL
+ține	țin	V;IND;PRS;3;PL
+ține	țineți	V;IND;PRS;2;PL
+ține	să ținem	V;SBJV;PRS;1;PL
+ține	să ții	V;SBJV;PRS;2;SG
+ține	să țină	V;SBJV;PRS;3;SG
+ține	ținurăm	V;IND;PST;1;PL;PFV
+ține	nu țineți	V;NEG;IMP;3;PL
+ține	ținură	V;IND;PST;3;PL;PFV
+ține	țineai	V;IND;PST;2;SG;IPFV
+ține	ținând	V.CVB;PRS
+ține	nu ține	V;NEG;IMP;2;SG
+ține	țineți	V;POS;IMP;3;PL
+ține	ținut	V.PTCP;PST
+ține	țin	V;IND;PRS;1;SG
+ține	să țin	V;SBJV;PRS;1;SG
+ține	ținuseși	V;IND;PST;2;SG;PRF
+ține	ține	V;IND;PRS;3;SG
+ține	să țineți	V;SBJV;PRS;2;PL
+ține	a ține	V;NFIN
+ține	ținuserăm	V;IND;PST;1;PL;PRF
+ține	ținurăți	V;IND;PST;2;PL;PFV
+ține	ținui	V;IND;PST;1;SG;PFV
+ține	țineau	V;IND;PST;3;PL;IPFV
+ține	ții	V;IND;PRS;2;SG
+ține	ținuserăți	V;IND;PST;2;PL;PRF
+ține	țineam	V;IND;PST;1;SG;IPFV
+ține	ținu	V;IND;PST;3;SG;PFV
+ține	ținusem	V;IND;PST;1;SG;PRF
+ține	ținea	V;IND;PST;3;SG;IPFV
+ține	țineați	V;IND;PST;2;PL;IPFV
+ține	ținuși	V;IND;PST;2;SG;PFV
+ține	ținuseră	V;IND;PST;3;PL;PRF
+adjectiv	adjectivule	N;VOC;SG
+adjectiv	adjectivelor	N;GEN/DAT;PL;DEF
+adjectiv	adjectivele	N;NOM/ACC;PL;DEF
+adjectiv	unui adjectiv	N;GEN/DAT;SG;INDF
+adjectiv	adjectivelor	N;VOC;PL
+adjectiv	niște adjective	N;NOM/ACC;SG;INDF
+atac	atacule	N;VOC;SG
+atac	atacurilor	N;GEN/DAT;PL;DEF
+atac	atacurile	N;NOM/ACC;PL;DEF
+atac	unui atac	N;GEN/DAT;SG;INDF
+atac	atacurilor	N;VOC;PL
+atac	niște atacuri	N;NOM/ACC;SG;INDF
+coleg	colegule	N;VOC;SG
+coleg	colegilor	N;GEN/DAT;PL;DEF
+coleg	colegii	N;NOM/ACC;PL;DEF
+coleg	unui coleg	N;GEN/DAT;SG;INDF
+coleg	colegilor	N;VOC;PL
+coleg	niște colegi	N;NOM/ACC;SG;INDF
+egal	egalilor	ADJ;DAT/GEN;FEM;SG;INDF
+egal	egalule	ADJ;DAT/GEN;MASC;SG;DEF
+egal	definite articulation	ADJ;NOM/ACC;FEM;SG;INDF
+egal	un egal	ADJ;NOM/ACC;MASC;SG;DEF
+egal	definite articulation	ADJ;NOM/ACC;MASC;SG;INDF
+egal	egalilor	ADJ;DAT/GEN;NEUT;SG;DEF
+egal	egalului	ADJ;DAT/GEN;MASC;SG;INDF
+egal	egalii	ADJ;NOM/ACC;PL;DEF
+egal	egalul	ADJ;NOM/ACC;NEUT;SG;DEF
+egal	indefinite articulation	ADJ;NOM/ACC;NEUT;SG;INDF
+egal	niște egali	ADJ;NOM/ACC;FEM;SG;DEF
+egal	unor egali	ADJ;DAT/GEN;NEUT;SG;INDF
+persoană	persoană	N;VOC;SG
+persoană	persoanelor	N;GEN/DAT;PL;DEF
+persoană	persoanele	N;NOM/ACC;PL;DEF
+persoană	unei persoane	N;GEN/DAT;SG;INDF
+persoană	persoanelor	N;VOC;PL
+persoană	niște persoane	N;NOM/ACC;SG;INDF
+bine	bine	ADJ;DAT/GEN;FEM;SG;INDF
+bine	bine	ADJ;NOM/ACC;FEM;SG;INDF
+bine	bine	ADJ;DAT/GEN;PL;INDF
+bine	bine	ADJ;NOM/ACC;MASC;SG;INDF
+bine	bine	ADJ;DAT/GEN;MASC;SG;INDF
+bine	bine	ADJ;NOM/ACC;NEUT;SG;INDF
+bine	bine	ADJ;NOM/ACC;PL;INDF
+bine	bine	ADJ;DAT/GEN;NEUT;SG;INDF
+hrăni	hrăneam	V;IND;PST;1;PL;IPFV
+hrăni	hrănise	V;IND;PST;3;SG;PRF
+hrăni	să hrănească	V;SBJV;PRS;3;PL
+hrăni	hrănește	V;POS;IMP;2;SG
+hrăni	hrănim	V;IND;PRS;1;PL
+hrăni	hrănesc	V;IND;PRS;3;PL
+hrăni	hrăniți	V;IND;PRS;2;PL
+hrăni	să hrănim	V;SBJV;PRS;1;PL
+hrăni	să hrănești	V;SBJV;PRS;2;SG
+hrăni	să hrănească	V;SBJV;PRS;3;SG
+hrăni	hrănirăm	V;IND;PST;1;PL;PFV
+hrăni	nu hrăniți	V;NEG;IMP;3;PL
+hrăni	hrăniră	V;IND;PST;3;PL;PFV
+hrăni	hrăneai	V;IND;PST;2;SG;IPFV
+hrăni	hrănind	V.CVB;PRS
+hrăni	nu hrăni	V;NEG;IMP;2;SG
+hrăni	hrăniți	V;POS;IMP;3;PL
+hrăni	hrănit	V.PTCP;PST
+hrăni	hrănesc	V;IND;PRS;1;SG
+hrăni	să hrănesc	V;SBJV;PRS;1;SG
+hrăni	hrăniseși	V;IND;PST;2;SG;PRF
+hrăni	hrănește	V;IND;PRS;3;SG
+hrăni	să hrăniți	V;SBJV;PRS;2;PL
+hrăni	a hrăni	V;NFIN
+hrăni	hrăniserăm	V;IND;PST;1;PL;PRF
+hrăni	hrănirăți	V;IND;PST;2;PL;PFV
+hrăni	hrănii	V;IND;PST;1;SG;PFV
+hrăni	hrăneau	V;IND;PST;3;PL;IPFV
+hrăni	hrănești	V;IND;PRS;2;SG
+hrăni	hrăniserăți	V;IND;PST;2;PL;PRF
+hrăni	hrăneam	V;IND;PST;1;SG;IPFV
+hrăni	hrăni	V;IND;PST;3;SG;PFV
+hrăni	hrănisem	V;IND;PST;1;SG;PRF
+hrăni	hrănea	V;IND;PST;3;SG;IPFV
+hrăni	hrăneați	V;IND;PST;2;PL;IPFV
+hrăni	hrăniși	V;IND;PST;2;SG;PFV
+hrăni	hrăniseră	V;IND;PST;3;PL;PRF
+părăsit	părăsiți	ADJ;DAT/GEN;FEM;SG;INDF
+părăsit	părăsitului	ADJ;DAT/GEN;MASC;SG;DEF
+părăsit	părăsiți	ADJ;NOM/ACC;FEM;SG;INDF
+părăsit	părăsite	ADJ;DAT/GEN;PL;INDF
+părăsit	părăsitul	ADJ;NOM/ACC;MASC;SG;DEF
+părăsit	părăsit	ADJ;NOM/ACC;MASC;SG;INDF
+părăsit	părăsitei	ADJ;DAT/GEN;NEUT;SG;DEF
+părăsit	părăsiților	ADJ;DAT/GEN;FEM;SG;DEF
+părăsit	părăsit	ADJ;DAT/GEN;MASC;SG;INDF
+părăsit	părăsitele	ADJ;NOM/ACC;PL;DEF
+părăsit	părăsita	ADJ;NOM/ACC;NEUT;SG;DEF
+părăsit	părăsiții	ADJ;NOM/ACC;FEM;SG;DEF
+părăsit	părăsitelor	ADJ;DAT/GEN;PL;DEF
+părăsit	părăsite	ADJ;NOM/ACC;PL;INDF
+părăsit	părăsită	ADJ;NOM/ACC;NEUT;SG;INDF
+părăsit	părăsite	ADJ;DAT/GEN;NEUT;SG;INDF
+dezvoltat	dezvoltați	ADJ;DAT/GEN;FEM;SG;INDF
+dezvoltat	dezvoltatului	ADJ;DAT/GEN;MASC;SG;DEF
+dezvoltat	dezvoltați	ADJ;NOM/ACC;FEM;SG;INDF
+dezvoltat	dezvoltate	ADJ;DAT/GEN;PL;INDF
+dezvoltat	dezvoltatul	ADJ;NOM/ACC;MASC;SG;DEF
+dezvoltat	dezvoltat	ADJ;NOM/ACC;MASC;SG;INDF
+dezvoltat	dezvoltatei	ADJ;DAT/GEN;NEUT;SG;DEF
+dezvoltat	dezvoltaților	ADJ;DAT/GEN;FEM;SG;DEF
+dezvoltat	dezvoltat	ADJ;DAT/GEN;MASC;SG;INDF
+dezvoltat	dezvoltatele	ADJ;NOM/ACC;PL;DEF
+dezvoltat	dezvoltata	ADJ;NOM/ACC;NEUT;SG;DEF
+dezvoltat	dezvoltații	ADJ;NOM/ACC;FEM;SG;DEF
+dezvoltat	dezvoltatelor	ADJ;DAT/GEN;PL;DEF
+dezvoltat	dezvoltate	ADJ;NOM/ACC;PL;INDF
+dezvoltat	dezvoltată	ADJ;NOM/ACC;NEUT;SG;INDF
+dezvoltat	dezvoltate	ADJ;DAT/GEN;NEUT;SG;INDF
+înghețat	înghețați	ADJ;DAT/GEN;FEM;SG;INDF
+înghețat	înghețatului	ADJ;DAT/GEN;MASC;SG;DEF
+înghețat	înghețați	ADJ;NOM/ACC;FEM;SG;INDF
+înghețat	înghețate	ADJ;DAT/GEN;PL;INDF
+înghețat	înghețatul	ADJ;NOM/ACC;MASC;SG;DEF
+înghețat	înghețat	ADJ;NOM/ACC;MASC;SG;INDF
+înghețat	înghețatei	ADJ;DAT/GEN;NEUT;SG;DEF
+înghețat	înghețaților	ADJ;DAT/GEN;FEM;SG;DEF
+înghețat	înghețat	ADJ;DAT/GEN;MASC;SG;INDF
+înghețat	înghețatele	ADJ;NOM/ACC;PL;DEF
+înghețat	înghețata	ADJ;NOM/ACC;NEUT;SG;DEF
+înghețat	înghețații	ADJ;NOM/ACC;FEM;SG;DEF
+înghețat	înghețatelor	ADJ;DAT/GEN;PL;DEF
+înghețat	înghețate	ADJ;NOM/ACC;PL;INDF
+înghețat	înghețată	ADJ;NOM/ACC;NEUT;SG;INDF
+înghețat	înghețate	ADJ;DAT/GEN;NEUT;SG;INDF
+francez	francezilor	ADJ;DAT/GEN;FEM;SG;INDF
+francez	francezule	ADJ;DAT/GEN;MASC;SG;DEF
+francez	definite articulation	ADJ;NOM/ACC;FEM;SG;INDF
+francez	un francez	ADJ;NOM/ACC;MASC;SG;DEF
+francez	definite articulation	ADJ;NOM/ACC;MASC;SG;INDF
+francez	francezilor	ADJ;DAT/GEN;NEUT;SG;DEF
+francez	francezului	ADJ;DAT/GEN;MASC;SG;INDF
+francez	francezii	ADJ;NOM/ACC;PL;DEF
+francez	francezul	ADJ;NOM/ACC;NEUT;SG;DEF
+francez	indefinite articulation	ADJ;NOM/ACC;NEUT;SG;INDF
+francez	niște francezi	ADJ;NOM/ACC;FEM;SG;DEF
+francez	unor francezi	ADJ;DAT/GEN;NEUT;SG;INDF
+religie	religie	N;VOC;SG
+religie	religiilor	N;GEN/DAT;PL;DEF
+religie	religiile	N;NOM/ACC;PL;DEF
+religie	unei religii	N;GEN/DAT;SG;INDF
+religie	religiilor	N;VOC;PL
+religie	niște religii	N;NOM/ACC;SG;INDF
+apărare	apărare	N;VOC;SG
+apărare	apărărilor	N;GEN/DAT;PL;DEF
+apărare	apărările	N;NOM/ACC;PL;DEF
+apărare	unei apărări	N;GEN/DAT;SG;INDF
+apărare	apărărilor	N;VOC;PL
+apărare	niște apărări	N;NOM/ACC;SG;INDF
+hârtie	hârtie	N;VOC;SG
+hârtie	hârtiilor	N;GEN/DAT;PL;DEF
+hârtie	hârtiile	N;NOM/ACC;PL;DEF
+hârtie	unei hârtii	N;GEN/DAT;SG;INDF
+hârtie	hârtiilor	N;VOC;PL
+hârtie	niște hârtii	N;NOM/ACC;SG;INDF
+expedia	expediam	V;IND;PST;1;PL;IPFV
+expedia	expediase	V;IND;PST;3;SG;PRF
+expedia	să expedieze	V;SBJV;PRS;3;PL
+expedia	expediază	V;POS;IMP;2;SG
+expedia	expediem	V;IND;PRS;1;PL
+expedia	expediază	V;IND;PRS;3;PL
+expedia	expediați	V;IND;PRS;2;PL
+expedia	să expediem	V;SBJV;PRS;1;PL
+expedia	să expediezi	V;SBJV;PRS;2;SG
+expedia	să expedieze	V;SBJV;PRS;3;SG
+expedia	expediarăm	V;IND;PST;1;PL;PFV
+expedia	nu expediați	V;NEG;IMP;3;PL
+expedia	expediară	V;IND;PST;3;PL;PFV
+expedia	expediai	V;IND;PST;2;SG;IPFV
+expedia	expediind	V.CVB;PRS
+expedia	nu expedia	V;NEG;IMP;2;SG
+expedia	expediați	V;POS;IMP;3;PL
+expedia	expediat	V.PTCP;PST
+expedia	expediez	V;IND;PRS;1;SG
+expedia	să expediez	V;SBJV;PRS;1;SG
+expedia	expediaseși	V;IND;PST;2;SG;PRF
+expedia	expediază	V;IND;PRS;3;SG
+expedia	să expediați	V;SBJV;PRS;2;PL
+expedia	a expedia	V;NFIN
+expedia	expediaserăm	V;IND;PST;1;PL;PRF
+expedia	expediarăți	V;IND;PST;2;PL;PFV
+expedia	expediai	V;IND;PST;1;SG;PFV
+expedia	expediau	V;IND;PST;3;PL;IPFV
+expedia	expediezi	V;IND;PRS;2;SG
+expedia	expediaserăți	V;IND;PST;2;PL;PRF
+expedia	expediam	V;IND;PST;1;SG;IPFV
+expedia	expedie	V;IND;PST;3;SG;PFV
+expedia	expediasem	V;IND;PST;1;SG;PRF
+expedia	expedia	V;IND;PST;3;SG;IPFV
+expedia	expediați	V;IND;PST;2;PL;IPFV
+expedia	expediași	V;IND;PST;2;SG;PFV
+expedia	expediaseră	V;IND;PST;3;PL;PRF
+erou	eroule	N;VOC;SG
+erou	eroilor	N;GEN/DAT;PL;DEF
+erou	eroii	N;NOM/ACC;PL;DEF
+erou	unui erou	N;GEN/DAT;SG;INDF
+erou	eroilor	N;VOC;PL
+erou	niște eroi	N;NOM/ACC;SG;INDF
+posibil	posibilelor	ADJ;DAT/GEN;FEM;SG;INDF
+posibil	posibilule	ADJ;DAT/GEN;MASC;SG;DEF
+posibil	definite articulation	ADJ;NOM/ACC;FEM;SG;INDF
+posibil	un posibil	ADJ;NOM/ACC;MASC;SG;DEF
+posibil	definite articulation	ADJ;NOM/ACC;MASC;SG;INDF
+posibil	posibilelor	ADJ;DAT/GEN;NEUT;SG;DEF
+posibil	posibilului	ADJ;DAT/GEN;MASC;SG;INDF
+posibil	posibilele	ADJ;NOM/ACC;PL;DEF
+posibil	posibilul	ADJ;NOM/ACC;NEUT;SG;DEF
+posibil	indefinite articulation	ADJ;NOM/ACC;NEUT;SG;INDF
+posibil	niște posibile	ADJ;NOM/ACC;FEM;SG;DEF
+posibil	unor posibile	ADJ;DAT/GEN;NEUT;SG;INDF
+bate	băteam	V;IND;PST;1;PL;IPFV
+bate	bătuse	V;IND;PST;3;SG;PRF
+bate	să bată	V;SBJV;PRS;3;PL
+bate	bate	V;POS;IMP;2;SG
+bate	batem	V;IND;PRS;1;PL
+bate	bat	V;IND;PRS;3;PL
+bate	bateți	V;IND;PRS;2;PL
+bate	să batem	V;SBJV;PRS;1;PL
+bate	să bați	V;SBJV;PRS;2;SG
+bate	să bată	V;SBJV;PRS;3;SG
+bate	băturăm	V;IND;PST;1;PL;PFV
+bate	nu bateți	V;NEG;IMP;3;PL
+bate	bătură	V;IND;PST;3;PL;PFV
+bate	băteai	V;IND;PST;2;SG;IPFV
+bate	bătând	V.CVB;PRS
+bate	nu bate	V;NEG;IMP;2;SG
+bate	bateți	V;POS;IMP;3;PL
+bate	bătut	V.PTCP;PST
+bate	bat	V;IND;PRS;1;SG
+bate	să bat	V;SBJV;PRS;1;SG
+bate	bătuseși	V;IND;PST;2;SG;PRF
+bate	bate	V;IND;PRS;3;SG
+bate	să bateți	V;SBJV;PRS;2;PL
+bate	a bate	V;NFIN
+bate	bătuserăm	V;IND;PST;1;PL;PRF
+bate	băturăți	V;IND;PST;2;PL;PFV
+bate	bătui	V;IND;PST;1;SG;PFV
+bate	băteau	V;IND;PST;3;PL;IPFV
+bate	bați	V;IND;PRS;2;SG
+bate	bătuserăți	V;IND;PST;2;PL;PRF
+bate	băteam	V;IND;PST;1;SG;IPFV
+bate	bătu	V;IND;PST;3;SG;PFV
+bate	bătusem	V;IND;PST;1;SG;PRF
+bate	bătea	V;IND;PST;3;SG;IPFV
+bate	băteați	V;IND;PST;2;PL;IPFV
+bate	bătuși	V;IND;PST;2;SG;PFV
+bate	bătuseră	V;IND;PST;3;PL;PRF
+lăsat	lăsați	ADJ;DAT/GEN;FEM;SG;INDF
+lăsat	lăsatului	ADJ;DAT/GEN;MASC;SG;DEF
+lăsat	lăsați	ADJ;NOM/ACC;FEM;SG;INDF
+lăsat	lăsate	ADJ;DAT/GEN;PL;INDF
+lăsat	lăsatul	ADJ;NOM/ACC;MASC;SG;DEF
+lăsat	lăsat	ADJ;NOM/ACC;MASC;SG;INDF
+lăsat	lăsatei	ADJ;DAT/GEN;NEUT;SG;DEF
+lăsat	lăsaților	ADJ;DAT/GEN;FEM;SG;DEF
+lăsat	lăsat	ADJ;DAT/GEN;MASC;SG;INDF
+lăsat	lăsatele	ADJ;NOM/ACC;PL;DEF
+lăsat	lăsata	ADJ;NOM/ACC;NEUT;SG;DEF
+lăsat	lăsată	ADJ;NOM/ACC;NEUT;SG;INDF
+lăsat	lăsatelor	ADJ;DAT/GEN;PL;DEF
+lăsat	lăsate	ADJ;NOM/ACC;PL;INDF
+lăsat	lăsații	ADJ;NOM/ACC;FEM;SG;DEF
+lăsat	lăsate	ADJ;DAT/GEN;NEUT;SG;INDF
+disponibil	disponibili	ADJ;DAT/GEN;FEM;SG;INDF
+disponibil	disponibilului	ADJ;DAT/GEN;MASC;SG;DEF
+disponibil	disponibili	ADJ;NOM/ACC;FEM;SG;INDF
+disponibil	disponibile	ADJ;DAT/GEN;PL;INDF
+disponibil	disponibilul	ADJ;NOM/ACC;MASC;SG;DEF
+disponibil	disponibil	ADJ;NOM/ACC;MASC;SG;INDF
+disponibil	disponibilei	ADJ;DAT/GEN;NEUT;SG;DEF
+disponibil	disponibililor	ADJ;DAT/GEN;FEM;SG;DEF
+disponibil	disponibil	ADJ;DAT/GEN;MASC;SG;INDF
+disponibil	disponibilele	ADJ;NOM/ACC;PL;DEF
+disponibil	disponibila	ADJ;NOM/ACC;NEUT;SG;DEF
+disponibil	disponibilii	ADJ;NOM/ACC;FEM;SG;DEF
+disponibil	disponibilelor	ADJ;DAT/GEN;PL;DEF
+disponibil	disponibile	ADJ;NOM/ACC;PL;INDF
+disponibil	disponibilă	ADJ;NOM/ACC;NEUT;SG;INDF
+disponibil	disponibile	ADJ;DAT/GEN;NEUT;SG;INDF
+sculptură	sculptură	N;VOC;SG
+sculptură	sculpturilor	N;GEN/DAT;PL;DEF
+sculptură	sculpturile	N;NOM/ACC;PL;DEF
+sculptură	unei sculpturi	N;GEN/DAT;SG;INDF
+sculptură	sculpturilor	N;VOC;PL
+sculptură	niște sculpturi	N;NOM/ACC;SG;INDF
+britanic	britanici	ADJ;DAT/GEN;FEM;SG;INDF
+britanic	britanicului	ADJ;DAT/GEN;MASC;SG;DEF
+britanic	britanici	ADJ;NOM/ACC;FEM;SG;INDF
+britanic	britanice	ADJ;DAT/GEN;PL;INDF
+britanic	britanicul	ADJ;NOM/ACC;MASC;SG;DEF
+britanic	britanic	ADJ;NOM/ACC;MASC;SG;INDF
+britanic	britanicei	ADJ;DAT/GEN;NEUT;SG;DEF
+britanic	britanicilor	ADJ;DAT/GEN;FEM;SG;DEF
+britanic	britanic	ADJ;DAT/GEN;MASC;SG;INDF
+britanic	britanicele	ADJ;NOM/ACC;PL;DEF
+britanic	britanica	ADJ;NOM/ACC;NEUT;SG;DEF
+britanic	britanicii	ADJ;NOM/ACC;FEM;SG;DEF
+britanic	britanicelor	ADJ;DAT/GEN;PL;DEF
+britanic	britanice	ADJ;NOM/ACC;PL;INDF
+britanic	britanică	ADJ;NOM/ACC;NEUT;SG;INDF
+britanic	britanice	ADJ;DAT/GEN;NEUT;SG;INDF
+stea	stea	N;VOC;SG
+stea	stelelor	N;GEN/DAT;PL;DEF
+stea	stelele	N;NOM/ACC;PL;DEF
+stea	unei stele	N;GEN/DAT;SG;INDF
+stea	stelelor	N;VOC;PL
+stea	niște stele	N;NOM/ACC;SG;INDF
+valoare	valoare	N;VOC;SG
+valoare	valorilor	N;GEN/DAT;PL;DEF
+valoare	valorile	N;NOM/ACC;PL;DEF
+valoare	unei valori	N;GEN/DAT;SG;INDF
+valoare	valorilor	N;VOC;PL
+valoare	niște valori	N;NOM/ACC;SG;INDF
+cântăreț	cântărețule	N;VOC;SG
+cântăreț	cântăreților	N;GEN/DAT;PL;DEF
+cântăreț	cântăreții	N;NOM/ACC;PL;DEF
+cântăreț	unui cântăreț	N;GEN/DAT;SG;INDF
+cântăreț	cântăreților	N;VOC;PL
+cântăreț	niște cântăreți	N;NOM/ACC;SG;INDF
+popor	poporule	N;VOC;SG
+popor	popoarelor	N;GEN/DAT;PL;DEF
+popor	popoarele	N;NOM/ACC;PL;DEF
+popor	unui popor	N;GEN/DAT;SG;INDF
+popor	popoarelor	N;VOC;PL
+popor	niște popoare	N;NOM/ACC;SG;INDF
+bluză	bluză	N;VOC;SG
+bluză	bluzelor	N;GEN/DAT;PL;DEF
+bluză	bluzele	N;NOM/ACC;PL;DEF
+bluză	unei bluze	N;GEN/DAT;SG;INDF
+bluză	bluzelor	N;VOC;PL
+bluză	niște bluze	N;NOM/ACC;SG;INDF
+spune	spuneam	V;IND;PST;1;PL;IPFV
+spune	spusese	V;IND;PST;3;SG;PRF
+spune	să spună	V;SBJV;PRS;3;PL
+spune	spune	V;POS;IMP;2;SG
+spune	spunem	V;IND;PRS;1;PL
+spune	spun	V;IND;PRS;3;PL
+spune	spuneți	V;IND;PRS;2;PL
+spune	să spunem	V;SBJV;PRS;1;PL
+spune	să spui	V;SBJV;PRS;2;SG
+spune	să spună	V;SBJV;PRS;3;SG
+spune	spuserăm	V;IND;PST;1;PL;PFV
+spune	nu spuneți	V;NEG;IMP;3;PL
+spune	spuseră	V;IND;PST;3;PL;PFV
+spune	spuneai	V;IND;PST;2;SG;IPFV
+spune	spunând	V.CVB;PRS
+spune	nu spune	V;NEG;IMP;2;SG
+spune	spuneți	V;POS;IMP;3;PL
+spune	spus	V.PTCP;PST
+spune	spun	V;IND;PRS;1;SG
+spune	să spun	V;SBJV;PRS;1;SG
+spune	spuseseși	V;IND;PST;2;SG;PRF
+spune	spune	V;IND;PRS;3;SG
+spune	să spuneți	V;SBJV;PRS;2;PL
+spune	a spune	V;NFIN
+spune	spuseserăm	V;IND;PST;1;PL;PRF
+spune	spuserăți	V;IND;PST;2;PL;PFV
+spune	spusei	V;IND;PST;1;SG;PFV
+spune	spuneau	V;IND;PST;3;PL;IPFV
+spune	spui	V;IND;PRS;2;SG
+spune	spuseserăți	V;IND;PST;2;PL;PRF
+spune	spuneam	V;IND;PST;1;SG;IPFV
+spune	spuse	V;IND;PST;3;SG;PFV
+spune	spusesem	V;IND;PST;1;SG;PRF
+spune	spunea	V;IND;PST;3;SG;IPFV
+spune	spuneați	V;IND;PST;2;PL;IPFV
+spune	spuseși	V;IND;PST;2;SG;PFV
+spune	spuseseră	V;IND;PST;3;PL;PRF
+vedea	vedeam	V;IND;PST;1;PL;IPFV
+vedea	văzuse	V;IND;PST;3;SG;PRF
+vedea	să vadă	V;SBJV;PRS;3;PL
+vedea	vezi	V;POS;IMP;2;SG
+vedea	vedem	V;IND;PRS;1;PL
+vedea	văd	V;IND;PRS;3;PL
+vedea	vedeți	V;IND;PRS;2;PL
+vedea	să vedem	V;SBJV;PRS;1;PL
+vedea	să vezi	V;SBJV;PRS;2;SG
+vedea	să vadă	V;SBJV;PRS;3;SG
+vedea	văzurăm	V;IND;PST;1;PL;PFV
+vedea	nu vedeți	V;NEG;IMP;3;PL
+vedea	văzură	V;IND;PST;3;PL;PFV
+vedea	vedeai	V;IND;PST;2;SG;IPFV
+vedea	văzând	V.CVB;PRS
+vedea	nu vedea	V;NEG;IMP;2;SG
+vedea	vedeți	V;POS;IMP;3;PL
+vedea	văzut	V.PTCP;PST
+vedea	văd	V;IND;PRS;1;SG
+vedea	să văd	V;SBJV;PRS;1;SG
+vedea	văzuseși	V;IND;PST;2;SG;PRF
+vedea	vede	V;IND;PRS;3;SG
+vedea	să vedeți	V;SBJV;PRS;2;PL
+vedea	a vedea	V;NFIN
+vedea	văzuserăm	V;IND;PST;1;PL;PRF
+vedea	văzurăți	V;IND;PST;2;PL;PFV
+vedea	văzui	V;IND;PST;1;SG;PFV
+vedea	vedeau	V;IND;PST;3;PL;IPFV
+vedea	vezi	V;IND;PRS;2;SG
+vedea	văzuserăți	V;IND;PST;2;PL;PRF
+vedea	vedeam	V;IND;PST;1;SG;IPFV
+vedea	văzu	V;IND;PST;3;SG;PFV
+vedea	văzusem	V;IND;PST;1;SG;PRF
+vedea	vedea	V;IND;PST;3;SG;IPFV
+vedea	vedeați	V;IND;PST;2;PL;IPFV
+vedea	văzuși	V;IND;PST;2;SG;PFV
+vedea	văzuseră	V;IND;PST;3;PL;PRF
+dispune	dispuneam	V;IND;PST;1;PL;IPFV
+dispune	dispusese	V;IND;PST;3;SG;PRF
+dispune	să dispună	V;SBJV;PRS;3;PL
+dispune	dispune	V;POS;IMP;2;SG
+dispune	dispunem	V;IND;PRS;1;PL
+dispune	dispun	V;IND;PRS;3;PL
+dispune	dispuneți	V;IND;PRS;2;PL
+dispune	să dispunem	V;SBJV;PRS;1;PL
+dispune	să dispui	V;SBJV;PRS;2;SG
+dispune	să dispună	V;SBJV;PRS;3;SG
+dispune	dispuserăm	V;IND;PST;1;PL;PFV
+dispune	nu dispuneți	V;NEG;IMP;3;PL
+dispune	dispuseră	V;IND;PST;3;PL;PFV
+dispune	dispuneai	V;IND;PST;2;SG;IPFV
+dispune	dispunând	V.CVB;PRS
+dispune	nu dispune	V;NEG;IMP;2;SG
+dispune	dispuneți	V;POS;IMP;3;PL
+dispune	dispus	V.PTCP;PST
+dispune	dispun	V;IND;PRS;1;SG
+dispune	să dispun	V;SBJV;PRS;1;SG
+dispune	dispuseseși	V;IND;PST;2;SG;PRF
+dispune	dispune	V;IND;PRS;3;SG
+dispune	să dispuneți	V;SBJV;PRS;2;PL
+dispune	a dispune	V;NFIN
+dispune	dispuseserăm	V;IND;PST;1;PL;PRF
+dispune	dispuserăți	V;IND;PST;2;PL;PFV
+dispune	dispusei	V;IND;PST;1;SG;PFV
+dispune	dispuneau	V;IND;PST;3;PL;IPFV
+dispune	dispui	V;IND;PRS;2;SG
+dispune	dispuseserăți	V;IND;PST;2;PL;PRF
+dispune	dispuneam	V;IND;PST;1;SG;IPFV
+dispune	dispuse	V;IND;PST;3;SG;PFV
+dispune	dispusesem	V;IND;PST;1;SG;PRF
+dispune	dispunea	V;IND;PST;3;SG;IPFV
+dispune	dispuneați	V;IND;PST;2;PL;IPFV
+dispune	dispuseși	V;IND;PST;2;SG;PFV
+dispune	dispuseseră	V;IND;PST;3;PL;PRF
+stepă	stepă	N;VOC;SG
+stepă	stepelor	N;GEN/DAT;PL;DEF
+stepă	stepele	N;NOM/ACC;PL;DEF
+stepă	unei stepe	N;GEN/DAT;SG;INDF
+stepă	stepelor	N;VOC;PL
+stepă	niște stepe	N;NOM/ACC;SG;INDF
+activitate	activitate	N;VOC;SG
+activitate	activităților	N;GEN/DAT;PL;DEF
+activitate	activitățile	N;NOM/ACC;PL;DEF
+activitate	unei activități	N;GEN/DAT;SG;INDF
+activitate	activităților	N;VOC;PL
+activitate	niște activități	N;NOM/ACC;SG;INDF
+cuprinde	cuprindeam	V;IND;PST;1;PL;IPFV
+cuprinde	cuprinsese	V;IND;PST;3;SG;PRF
+cuprinde	să cuprindă	V;SBJV;PRS;3;PL
+cuprinde	cuprinde	V;POS;IMP;2;SG
+cuprinde	cuprindem	V;IND;PRS;1;PL
+cuprinde	cuprind	V;IND;PRS;3;PL
+cuprinde	cuprindeți	V;IND;PRS;2;PL
+cuprinde	să cuprindem	V;SBJV;PRS;1;PL
+cuprinde	să cuprinzi	V;SBJV;PRS;2;SG
+cuprinde	să cuprindă	V;SBJV;PRS;3;SG
+cuprinde	cuprinserăm	V;IND;PST;1;PL;PFV
+cuprinde	nu cuprindeți	V;NEG;IMP;3;PL
+cuprinde	cuprinseră	V;IND;PST;3;PL;PFV
+cuprinde	cuprindeai	V;IND;PST;2;SG;IPFV
+cuprinde	cuprinzând	V.CVB;PRS
+cuprinde	nu cuprinde	V;NEG;IMP;2;SG
+cuprinde	cuprindeți	V;POS;IMP;3;PL
+cuprinde	cuprins	V.PTCP;PST
+cuprinde	cuprind	V;IND;PRS;1;SG
+cuprinde	să cuprind	V;SBJV;PRS;1;SG
+cuprinde	cuprinseseși	V;IND;PST;2;SG;PRF
+cuprinde	cuprinde	V;IND;PRS;3;SG
+cuprinde	să cuprindeți	V;SBJV;PRS;2;PL
+cuprinde	a cuprinde	V;NFIN
+cuprinde	cuprinseserăm	V;IND;PST;1;PL;PRF
+cuprinde	cuprinserăți	V;IND;PST;2;PL;PFV
+cuprinde	cuprinsei	V;IND;PST;1;SG;PFV
+cuprinde	cuprindeau	V;IND;PST;3;PL;IPFV
+cuprinde	cuprinzi	V;IND;PRS;2;SG
+cuprinde	cuprinseserăți	V;IND;PST;2;PL;PRF
+cuprinde	cuprindeam	V;IND;PST;1;SG;IPFV
+cuprinde	cuprinse	V;IND;PST;3;SG;PFV
+cuprinde	cuprinsesem	V;IND;PST;1;SG;PRF
+cuprinde	cuprindea	V;IND;PST;3;SG;IPFV
+cuprinde	cuprindeați	V;IND;PST;2;PL;IPFV
+cuprinde	cuprinseși	V;IND;PST;2;SG;PFV
+cuprinde	cuprinseseră	V;IND;PST;3;PL;PRF
+plăti	plăteam	V;IND;PST;1;PL;IPFV
+plăti	plătise	V;IND;PST;3;SG;PRF
+plăti	să plătească	V;SBJV;PRS;3;PL
+plăti	plătește	V;POS;IMP;2;SG
+plăti	plătim	V;IND;PRS;1;PL
+plăti	plătesc	V;IND;PRS;3;PL
+plăti	plătiți	V;IND;PRS;2;PL
+plăti	să plătim	V;SBJV;PRS;1;PL
+plăti	să plătești	V;SBJV;PRS;2;SG
+plăti	să plătească	V;SBJV;PRS;3;SG
+plăti	plătirăm	V;IND;PST;1;PL;PFV
+plăti	nu plătiți	V;NEG;IMP;3;PL
+plăti	plătiră	V;IND;PST;3;PL;PFV
+plăti	plăteai	V;IND;PST;2;SG;IPFV
+plăti	plătind	V.CVB;PRS
+plăti	nu plăti	V;NEG;IMP;2;SG
+plăti	plătiți	V;POS;IMP;3;PL
+plăti	plătit	V.PTCP;PST
+plăti	plătesc	V;IND;PRS;1;SG
+plăti	să plătesc	V;SBJV;PRS;1;SG
+plăti	plătiseși	V;IND;PST;2;SG;PRF
+plăti	plătește	V;IND;PRS;3;SG
+plăti	să plătiți	V;SBJV;PRS;2;PL
+plăti	a plăti	V;NFIN
+plăti	plătiserăm	V;IND;PST;1;PL;PRF
+plăti	plătirăți	V;IND;PST;2;PL;PFV
+plăti	plătii	V;IND;PST;1;SG;PFV
+plăti	plăteau	V;IND;PST;3;PL;IPFV
+plăti	plătești	V;IND;PRS;2;SG
+plăti	plătiserăți	V;IND;PST;2;PL;PRF
+plăti	plăteam	V;IND;PST;1;SG;IPFV
+plăti	plăti	V;IND;PST;3;SG;PFV
+plăti	plătisem	V;IND;PST;1;SG;PRF
+plăti	plătea	V;IND;PST;3;SG;IPFV
+plăti	plăteați	V;IND;PST;2;PL;IPFV
+plăti	plătiși	V;IND;PST;2;SG;PFV
+plăti	plătiseră	V;IND;PST;3;PL;PRF
+tăia	tăiam	V;IND;PST;1;PL;IPFV
+tăia	tăiase	V;IND;PST;3;SG;PRF
+tăia	să taie	V;SBJV;PRS;3;PL
+tăia	taie	V;POS;IMP;2;SG
+tăia	tăiem	V;IND;PRS;1;PL
+tăia	taie	V;IND;PRS;3;PL
+tăia	tăiați	V;IND;PRS;2;PL
+tăia	să tăiem	V;SBJV;PRS;1;PL
+tăia	să tai	V;SBJV;PRS;2;SG
+tăia	să taie	V;SBJV;PRS;3;SG
+tăia	tăiarăm	V;IND;PST;1;PL;PFV
+tăia	nu tăiați	V;NEG;IMP;3;PL
+tăia	tăiară	V;IND;PST;3;PL;PFV
+tăia	tăiai	V;IND;PST;2;SG;IPFV
+tăia	tăind	V.CVB;PRS
+tăia	nu tăia	V;NEG;IMP;2;SG
+tăia	tăiați	V;POS;IMP;3;PL
+tăia	tăiat	V.PTCP;PST
+tăia	tai	V;IND;PRS;1;SG
+tăia	să tai	V;SBJV;PRS;1;SG
+tăia	tăiaseși	V;IND;PST;2;SG;PRF
+tăia	taie	V;IND;PRS;3;SG
+tăia	să tăiați	V;SBJV;PRS;2;PL
+tăia	a tăia	V;NFIN
+tăia	tăiaserăm	V;IND;PST;1;PL;PRF
+tăia	tăiarăți	V;IND;PST;2;PL;PFV
+tăia	tăiai	V;IND;PST;1;SG;PFV
+tăia	tăiau	V;IND;PST;3;PL;IPFV
+tăia	tai	V;IND;PRS;2;SG
+tăia	tăiaserăți	V;IND;PST;2;PL;PRF
+tăia	tăiam	V;IND;PST;1;SG;IPFV
+tăia	tăie	V;IND;PST;3;SG;PFV
+tăia	tăiasem	V;IND;PST;1;SG;PRF
+tăia	tăia	V;IND;PST;3;SG;IPFV
+tăia	tăiați	V;IND;PST;2;PL;IPFV
+tăia	tăiași	V;IND;PST;2;SG;PFV
+tăia	tăiaseră	V;IND;PST;3;PL;PRF
+ușă	ușă	N;VOC;SG
+ușă	ușilor	N;GEN/DAT;PL;DEF
+ușă	ușile	N;NOM/ACC;PL;DEF
+ușă	unei uși	N;GEN/DAT;SG;INDF
+ușă	ușilor	N;VOC;PL
+ușă	niște uși	N;NOM/ACC;SG;INDF
+biologie	biologie	N;VOC;SG
+biologie	biologia	N;NOM/ACC;PL;DEF
+biologie	biologii	N;GEN/DAT;SG;INDF
+biologie	biologiei	N;GEN/DAT;PL;DEF
+biologie	biologie	N;NOM/ACC;SG;INDF
+viteaz	viteji	ADJ;DAT/GEN;FEM;SG;INDF
+viteaz	viteazului	ADJ;DAT/GEN;MASC;SG;DEF
+viteaz	viteji	ADJ;NOM/ACC;FEM;SG;INDF
+viteaz	viteze	ADJ;DAT/GEN;PL;INDF
+viteaz	viteazul	ADJ;NOM/ACC;MASC;SG;DEF
+viteaz	viteaz	ADJ;NOM/ACC;MASC;SG;INDF
+viteaz	vitezei	ADJ;DAT/GEN;NEUT;SG;DEF
+viteaz	vitejilor	ADJ;DAT/GEN;FEM;SG;DEF
+viteaz	viteaz	ADJ;DAT/GEN;MASC;SG;INDF
+viteaz	vitezele	ADJ;NOM/ACC;PL;DEF
+viteaz	viteaza	ADJ;NOM/ACC;NEUT;SG;DEF
+viteaz	vitejii	ADJ;NOM/ACC;FEM;SG;DEF
+viteaz	vitezelor	ADJ;DAT/GEN;PL;DEF
+viteaz	viteze	ADJ;NOM/ACC;PL;INDF
+viteaz	vitează	ADJ;NOM/ACC;NEUT;SG;INDF
+viteaz	viteze	ADJ;DAT/GEN;NEUT;SG;INDF
+centru	centrule	N;VOC;SG
+centru	centrelor	N;GEN/DAT;PL;DEF
+centru	centrele	N;NOM/ACC;PL;DEF
+centru	unui centru	N;GEN/DAT;SG;INDF
+centru	centrelor	N;VOC;PL
+centru	niște centre	N;NOM/ACC;SG;INDF
+locui	locuiam	V;IND;PST;1;PL;IPFV
+locui	locuise	V;IND;PST;3;SG;PRF
+locui	să locuiască	V;SBJV;PRS;3;PL
+locui	locuiește	V;POS;IMP;2;SG
+locui	locuim	V;IND;PRS;1;PL
+locui	locuiesc	V;IND;PRS;3;PL
+locui	locuiți	V;IND;PRS;2;PL
+locui	să locuim	V;SBJV;PRS;1;PL
+locui	să locuiești	V;SBJV;PRS;2;SG
+locui	să locuiască	V;SBJV;PRS;3;SG
+locui	locuirăm	V;IND;PST;1;PL;PFV
+locui	nu locuiți	V;NEG;IMP;3;PL
+locui	locuiră	V;IND;PST;3;PL;PFV
+locui	locuiai	V;IND;PST;2;SG;IPFV
+locui	locuind	V.CVB;PRS
+locui	nu locui	V;NEG;IMP;2;SG
+locui	locuiți	V;POS;IMP;3;PL
+locui	locuit	V.PTCP;PST
+locui	locuiesc	V;IND;PRS;1;SG
+locui	să locuiesc	V;SBJV;PRS;1;SG
+locui	locuiseși	V;IND;PST;2;SG;PRF
+locui	locuiește	V;IND;PRS;3;SG
+locui	să locuiți	V;SBJV;PRS;2;PL
+locui	a locui	V;NFIN
+locui	locuiserăm	V;IND;PST;1;PL;PRF
+locui	locuirăți	V;IND;PST;2;PL;PFV
+locui	locuii	V;IND;PST;1;SG;PFV
+locui	locuiau	V;IND;PST;3;PL;IPFV
+locui	locuiești	V;IND;PRS;2;SG
+locui	locuiserăți	V;IND;PST;2;PL;PRF
+locui	locuiam	V;IND;PST;1;SG;IPFV
+locui	locui	V;IND;PST;3;SG;PFV
+locui	locuisem	V;IND;PST;1;SG;PRF
+locui	locuia	V;IND;PST;3;SG;IPFV
+locui	locuiați	V;IND;PST;2;PL;IPFV
+locui	locuiși	V;IND;PST;2;SG;PFV
+locui	locuiseră	V;IND;PST;3;PL;PRF
+familie	familie	N;VOC;SG
+familie	familiilor	N;GEN/DAT;PL;DEF
+familie	familiile	N;NOM/ACC;PL;DEF
+familie	unei familii	N;GEN/DAT;SG;INDF
+familie	familiilor	N;VOC;PL
+familie	niște familii	N;NOM/ACC;SG;INDF
+film	filmule	N;VOC;SG
+film	filmelor	N;GEN/DAT;PL;DEF
+film	filmele	N;NOM/ACC;PL;DEF
+film	unui film	N;GEN/DAT;SG;INDF
+film	filmelor	N;VOC;PL
+film	niște filme	N;NOM/ACC;SG;INDF
+reprezentant	reprezentantule	N;VOC;SG
+reprezentant	reprezentanților	N;GEN/DAT;PL;DEF
+reprezentant	reprezentanții	N;NOM/ACC;PL;DEF
+reprezentant	unui reprezentant	N;GEN/DAT;SG;INDF
+reprezentant	reprezentanților	N;VOC;PL
+reprezentant	niște reprezentanți	N;NOM/ACC;SG;INDF
+cunoaștere	cunoaștere	N;VOC;SG
+cunoaștere	cunoașterilor	N;GEN/DAT;PL;DEF
+cunoaștere	cunoașterile	N;NOM/ACC;PL;DEF
+cunoaștere	unei cunoașteri	N;GEN/DAT;SG;INDF
+cunoaștere	cunoașterilor	N;VOC;PL
+cunoaștere	niște cunoașteri	N;NOM/ACC;SG;INDF
+greu	grei	ADJ;DAT/GEN;FEM;SG;INDF
+greu	greului	ADJ;DAT/GEN;MASC;SG;DEF
+greu	grei	ADJ;NOM/ACC;FEM;SG;INDF
+greu	grele	ADJ;DAT/GEN;PL;INDF
+greu	greul	ADJ;NOM/ACC;MASC;SG;DEF
+greu	greu	ADJ;NOM/ACC;MASC;SG;INDF
+greu	grelei	ADJ;DAT/GEN;NEUT;SG;DEF
+greu	greilor	ADJ;DAT/GEN;FEM;SG;DEF
+greu	greu	ADJ;DAT/GEN;MASC;SG;INDF
+greu	grelele	ADJ;NOM/ACC;PL;DEF
+greu	greaua	ADJ;NOM/ACC;NEUT;SG;DEF
+greu	greii	ADJ;NOM/ACC;FEM;SG;DEF
+greu	grelelor	ADJ;DAT/GEN;PL;DEF
+greu	grele	ADJ;NOM/ACC;PL;INDF
+greu	grea	ADJ;NOM/ACC;NEUT;SG;INDF
+greu	grele	ADJ;DAT/GEN;NEUT;SG;INDF
+rețea	rețea	N;VOC;SG
+rețea	rețelelor	N;GEN/DAT;PL;DEF
+rețea	rețelele	N;NOM/ACC;PL;DEF
+rețea	unei rețele	N;GEN/DAT;SG;INDF
+rețea	rețelelor	N;VOC;PL
+rețea	niște rețele	N;NOM/ACC;SG;INDF
+secvență	secvență	N;VOC;SG
+secvență	secvențelor	N;GEN/DAT;PL;DEF
+secvență	secvențele	N;NOM/ACC;PL;DEF
+secvență	unei secvențe	N;GEN/DAT;SG;INDF
+secvență	secvențelor	N;VOC;PL
+secvență	niște secvențe	N;NOM/ACC;SG;INDF
+lună	lună	N;VOC;SG
+lună	lunilor	N;GEN/DAT;PL;DEF
+lună	lunile	N;NOM/ACC;PL;DEF
+lună	unei luni	N;GEN/DAT;SG;INDF
+lună	lunilor	N;VOC;PL
+lună	niște luni	N;NOM/ACC;SG;INDF
+artistic	artistici	ADJ;DAT/GEN;FEM;SG;INDF
+artistic	artisticului	ADJ;DAT/GEN;MASC;SG;DEF
+artistic	artistici	ADJ;NOM/ACC;FEM;SG;INDF
+artistic	artistice	ADJ;DAT/GEN;PL;INDF
+artistic	artisticul	ADJ;NOM/ACC;MASC;SG;DEF
+artistic	artistic	ADJ;NOM/ACC;MASC;SG;INDF
+artistic	artisticei	ADJ;DAT/GEN;NEUT;SG;DEF
+artistic	artisticilor	ADJ;DAT/GEN;FEM;SG;DEF
+artistic	artistic	ADJ;DAT/GEN;MASC;SG;INDF
+artistic	artisticele	ADJ;NOM/ACC;PL;DEF
+artistic	artistica	ADJ;NOM/ACC;NEUT;SG;DEF
+artistic	artisticii	ADJ;NOM/ACC;FEM;SG;DEF
+artistic	artisticelor	ADJ;DAT/GEN;PL;DEF
+artistic	artistice	ADJ;NOM/ACC;PL;INDF
+artistic	artistică	ADJ;NOM/ACC;NEUT;SG;INDF
+artistic	artistice	ADJ;DAT/GEN;NEUT;SG;INDF
+clar	clari	ADJ;DAT/GEN;FEM;SG;INDF
+clar	clarului	ADJ;DAT/GEN;MASC;SG;DEF
+clar	clari	ADJ;NOM/ACC;FEM;SG;INDF
+clar	clare	ADJ;DAT/GEN;PL;INDF
+clar	clarul	ADJ;NOM/ACC;MASC;SG;DEF
+clar	clar	ADJ;NOM/ACC;MASC;SG;INDF
+clar	clarei	ADJ;DAT/GEN;NEUT;SG;DEF
+clar	clarilor	ADJ;DAT/GEN;FEM;SG;DEF
+clar	clar	ADJ;DAT/GEN;MASC;SG;INDF
+clar	clarele	ADJ;NOM/ACC;PL;DEF
+clar	clara	ADJ;NOM/ACC;NEUT;SG;DEF
+clar	clarii	ADJ;NOM/ACC;FEM;SG;DEF
+clar	clarelor	ADJ;DAT/GEN;PL;DEF
+clar	clare	ADJ;NOM/ACC;PL;INDF
+clar	clară	ADJ;NOM/ACC;NEUT;SG;INDF
+clar	clare	ADJ;DAT/GEN;NEUT;SG;INDF
+ascuns	ascunși	ADJ;DAT/GEN;FEM;SG;INDF
+ascuns	ascunsului	ADJ;DAT/GEN;MASC;SG;DEF
+ascuns	ascunși	ADJ;NOM/ACC;FEM;SG;INDF
+ascuns	ascunse	ADJ;DAT/GEN;PL;INDF
+ascuns	ascunsul	ADJ;NOM/ACC;MASC;SG;DEF
+ascuns	ascuns	ADJ;NOM/ACC;MASC;SG;INDF
+ascuns	ascunsei	ADJ;DAT/GEN;NEUT;SG;DEF
+ascuns	ascunșilor	ADJ;DAT/GEN;FEM;SG;DEF
+ascuns	ascuns	ADJ;DAT/GEN;MASC;SG;INDF
+ascuns	ascunsele	ADJ;NOM/ACC;PL;DEF
+ascuns	ascunsa	ADJ;NOM/ACC;NEUT;SG;DEF
+ascuns	ascunșii	ADJ;NOM/ACC;FEM;SG;DEF
+ascuns	ascunselor	ADJ;DAT/GEN;PL;DEF
+ascuns	ascunse	ADJ;NOM/ACC;PL;INDF
+ascuns	ascunsă	ADJ;NOM/ACC;NEUT;SG;INDF
+ascuns	ascunse	ADJ;DAT/GEN;NEUT;SG;INDF
+lebădă	lebădă	N;VOC;SG
+lebădă	lebedelor	N;GEN/DAT;PL;DEF
+lebădă	lebedele	N;NOM/ACC;PL;DEF
+lebădă	unei lebede	N;GEN/DAT;SG;INDF
+lebădă	lebedelor	N;VOC;PL
+lebădă	niște lebede	N;NOM/ACC;SG;INDF
+moarte	moarte	N;VOC;SG
+moarte	morților	N;GEN/DAT;PL;DEF
+moarte	morțile	N;NOM/ACC;PL;DEF
+moarte	unei morți	N;GEN/DAT;SG;INDF
+moarte	morților	N;VOC;PL
+moarte	niște morți	N;NOM/ACC;SG;INDF
+majoritate	majoritate	N;VOC;SG
+majoritate	majorităților	N;GEN/DAT;PL;DEF
+majoritate	majoritățile	N;NOM/ACC;PL;DEF
+majoritate	unei majorități	N;GEN/DAT;SG;INDF
+majoritate	majorităților	N;VOC;PL
+majoritate	niște majorități	N;NOM/ACC;SG;INDF
+legal	legali	ADJ;DAT/GEN;FEM;SG;INDF
+legal	legalului	ADJ;DAT/GEN;MASC;SG;DEF
+legal	legali	ADJ;NOM/ACC;FEM;SG;INDF
+legal	legale	ADJ;DAT/GEN;PL;INDF
+legal	legalul	ADJ;NOM/ACC;MASC;SG;DEF
+legal	legal	ADJ;NOM/ACC;MASC;SG;INDF
+legal	legalei	ADJ;DAT/GEN;NEUT;SG;DEF
+legal	legalilor	ADJ;DAT/GEN;FEM;SG;DEF
+legal	legal	ADJ;DAT/GEN;MASC;SG;INDF
+legal	legalele	ADJ;NOM/ACC;PL;DEF
+legal	legala	ADJ;NOM/ACC;NEUT;SG;DEF
+legal	legalii	ADJ;NOM/ACC;FEM;SG;DEF
+legal	legalelor	ADJ;DAT/GEN;PL;DEF
+legal	legale	ADJ;NOM/ACC;PL;INDF
+legal	legală	ADJ;NOM/ACC;NEUT;SG;INDF
+legal	legale	ADJ;DAT/GEN;NEUT;SG;INDF
+exista	existam	V;IND;PST;1;PL;IPFV
+exista	existase	V;IND;PST;3;SG;PRF
+exista	să existe	V;SBJV;PRS;3;PL
+exista	există	V;POS;IMP;2;SG
+exista	existăm	V;IND;PRS;1;PL
+exista	există	V;IND;PRS;3;PL
+exista	existați	V;IND;PRS;2;PL
+exista	să existăm	V;SBJV;PRS;1;PL
+exista	să exiști	V;SBJV;PRS;2;SG
+exista	să existe	V;SBJV;PRS;3;SG
+exista	existarăm	V;IND;PST;1;PL;PFV
+exista	nu existați	V;NEG;IMP;3;PL
+exista	existară	V;IND;PST;3;PL;PFV
+exista	existai	V;IND;PST;2;SG;IPFV
+exista	existând	V.CVB;PRS
+exista	nu exista	V;NEG;IMP;2;SG
+exista	existați	V;POS;IMP;3;PL
+exista	existat	V.PTCP;PST
+exista	exist	V;IND;PRS;1;SG
+exista	să exist	V;SBJV;PRS;1;SG
+exista	existaseși	V;IND;PST;2;SG;PRF
+exista	există	V;IND;PRS;3;SG
+exista	să existați	V;SBJV;PRS;2;PL
+exista	a exista	V;NFIN
+exista	existaserăm	V;IND;PST;1;PL;PRF
+exista	existarăți	V;IND;PST;2;PL;PFV
+exista	existai	V;IND;PST;1;SG;PFV
+exista	existau	V;IND;PST;3;PL;IPFV
+exista	exiști	V;IND;PRS;2;SG
+exista	existaserăți	V;IND;PST;2;PL;PRF
+exista	existam	V;IND;PST;1;SG;IPFV
+exista	există	V;IND;PST;3;SG;PFV
+exista	existasem	V;IND;PST;1;SG;PRF
+exista	exista	V;IND;PST;3;SG;IPFV
+exista	existați	V;IND;PST;2;PL;IPFV
+exista	existași	V;IND;PST;2;SG;PFV
+exista	existaseră	V;IND;PST;3;PL;PRF
+tub	tubule	N;VOC;SG
+tub	tuburilor	N;GEN/DAT;PL;DEF
+tub	tuburile	N;NOM/ACC;PL;DEF
+tub	unui tub	N;GEN/DAT;SG;INDF
+tub	tuburilor	N;VOC;PL
+tub	niște tuburi	N;NOM/ACC;SG;INDF
+fișier	fișierule	N;VOC;SG
+fișier	fișierelor	N;GEN/DAT;PL;DEF
+fișier	fișierele	N;NOM/ACC;PL;DEF
+fișier	unui fișier	N;GEN/DAT;SG;INDF
+fișier	fișierelor	N;VOC;PL
+fișier	niște fișiere	N;NOM/ACC;SG;INDF
+profesor	profesorule	N;VOC;SG
+profesor	profesorilor	N;GEN/DAT;PL;DEF
+profesor	profesorii	N;NOM/ACC;PL;DEF
+profesor	unui profesor	N;GEN/DAT;SG;INDF
+profesor	profesorilor	N;VOC;PL
+profesor	niște profesori	N;NOM/ACC;SG;INDF
+melodie	melodie	N;VOC;SG
+melodie	melodiilor	N;GEN/DAT;PL;DEF
+melodie	melodiile	N;NOM/ACC;PL;DEF
+melodie	unei melodii	N;GEN/DAT;SG;INDF
+melodie	melodiilor	N;VOC;PL
+melodie	niște melodii	N;NOM/ACC;SG;INDF
+rezistență	rezistență	N;VOC;SG
+rezistență	rezistențelor	N;GEN/DAT;PL;DEF
+rezistență	rezistențele	N;NOM/ACC;PL;DEF
+rezistență	unei rezistențe	N;GEN/DAT;SG;INDF
+rezistență	rezistențelor	N;VOC;PL
+rezistență	niște rezistențe	N;NOM/ACC;SG;INDF
+impune	impuneam	V;IND;PST;1;PL;IPFV
+impune	impusese	V;IND;PST;3;SG;PRF
+impune	să impună	V;SBJV;PRS;3;PL
+impune	impune	V;POS;IMP;2;SG
+impune	impunem	V;IND;PRS;1;PL
+impune	impun	V;IND;PRS;3;PL
+impune	impuneți	V;IND;PRS;2;PL
+impune	să impunem	V;SBJV;PRS;1;PL
+impune	să impui	V;SBJV;PRS;2;SG
+impune	să impună	V;SBJV;PRS;3;SG
+impune	impuserăm	V;IND;PST;1;PL;PFV
+impune	nu impuneți	V;NEG;IMP;3;PL
+impune	impuseră	V;IND;PST;3;PL;PFV
+impune	impuneai	V;IND;PST;2;SG;IPFV
+impune	impunând	V.CVB;PRS
+impune	nu impune	V;NEG;IMP;2;SG
+impune	impuneți	V;POS;IMP;3;PL
+impune	impus	V.PTCP;PST
+impune	impun	V;IND;PRS;1;SG
+impune	să impun	V;SBJV;PRS;1;SG
+impune	impuseseși	V;IND;PST;2;SG;PRF
+impune	impune	V;IND;PRS;3;SG
+impune	să impuneți	V;SBJV;PRS;2;PL
+impune	a impune	V;NFIN
+impune	impuseserăm	V;IND;PST;1;PL;PRF
+impune	impuserăți	V;IND;PST;2;PL;PFV
+impune	impusei	V;IND;PST;1;SG;PFV
+impune	impuneau	V;IND;PST;3;PL;IPFV
+impune	impui	V;IND;PRS;2;SG
+impune	impuseserăți	V;IND;PST;2;PL;PRF
+impune	impuneam	V;IND;PST;1;SG;IPFV
+impune	impuse	V;IND;PST;3;SG;PFV
+impune	impusesem	V;IND;PST;1;SG;PRF
+impune	impunea	V;IND;PST;3;SG;IPFV
+impune	impuneați	V;IND;PST;2;PL;IPFV
+impune	impuseși	V;IND;PST;2;SG;PFV
+impune	impuseseră	V;IND;PST;3;PL;PRF
+platformă	platformă	N;VOC;SG
+platformă	platformelor	N;GEN/DAT;PL;DEF
+platformă	platformele	N;NOM/ACC;PL;DEF
+platformă	unei platforme	N;GEN/DAT;SG;INDF
+platformă	platformelor	N;VOC;PL
+platformă	niște platforme	N;NOM/ACC;SG;INDF
+putea	puteam	V;IND;PST;1;PL;IPFV
+putea	putuse	V;IND;PST;3;SG;PRF
+putea	să poată	V;SBJV;PRS;3;PL
+putea	poate	V;POS;IMP;2;SG
+putea	putem	V;IND;PRS;1;PL
+putea	pot	V;IND;PRS;3;PL
+putea	puteți	V;IND;PRS;2;PL
+putea	să putem	V;SBJV;PRS;1;PL
+putea	să poți	V;SBJV;PRS;2;SG
+putea	să poată	V;SBJV;PRS;3;SG
+putea	puturăm	V;IND;PST;1;PL;PFV
+putea	nu puteți	V;NEG;IMP;3;PL
+putea	putură	V;IND;PST;3;PL;PFV
+putea	puteai	V;IND;PST;2;SG;IPFV
+putea	putând	V.CVB;PRS
+putea	nu putea	V;NEG;IMP;2;SG
+putea	puteți	V;POS;IMP;3;PL
+putea	putut	V.PTCP;PST
+putea	pot	V;IND;PRS;1;SG
+putea	să pot	V;SBJV;PRS;1;SG
+putea	putuseși	V;IND;PST;2;SG;PRF
+putea	poate	V;IND;PRS;3;SG
+putea	să puteți	V;SBJV;PRS;2;PL
+putea	a putea	V;NFIN
+putea	putuserăm	V;IND;PST;1;PL;PRF
+putea	puturăți	V;IND;PST;2;PL;PFV
+putea	putui	V;IND;PST;1;SG;PFV
+putea	puteau	V;IND;PST;3;PL;IPFV
+putea	poți	V;IND;PRS;2;SG
+putea	putuserăți	V;IND;PST;2;PL;PRF
+putea	puteam	V;IND;PST;1;SG;IPFV
+putea	putu	V;IND;PST;3;SG;PFV
+putea	putusem	V;IND;PST;1;SG;PRF
+putea	putea	V;IND;PST;3;SG;IPFV
+putea	puteați	V;IND;PST;2;PL;IPFV
+putea	putuși	V;IND;PST;2;SG;PFV
+putea	putuseră	V;IND;PST;3;PL;PRF
+timid	timizi	ADJ;DAT/GEN;FEM;SG;INDF
+timid	timidului	ADJ;DAT/GEN;MASC;SG;DEF
+timid	timizi	ADJ;NOM/ACC;FEM;SG;INDF
+timid	timide	ADJ;DAT/GEN;PL;INDF
+timid	timidul	ADJ;NOM/ACC;MASC;SG;DEF
+timid	timid	ADJ;NOM/ACC;MASC;SG;INDF
+timid	timidei	ADJ;DAT/GEN;NEUT;SG;DEF
+timid	timizilor	ADJ;DAT/GEN;FEM;SG;DEF
+timid	timid	ADJ;DAT/GEN;MASC;SG;INDF
+timid	timidele	ADJ;NOM/ACC;PL;DEF
+timid	timida	ADJ;NOM/ACC;NEUT;SG;DEF
+timid	timizii	ADJ;NOM/ACC;FEM;SG;DEF
+timid	timidelor	ADJ;DAT/GEN;PL;DEF
+timid	timide	ADJ;NOM/ACC;PL;INDF
+timid	timidă	ADJ;NOM/ACC;NEUT;SG;INDF
+timid	timide	ADJ;DAT/GEN;NEUT;SG;INDF
+evreiesc	evreiești	ADJ;DAT/GEN;FEM;SG;INDF
+evreiesc	evreiescului	ADJ;DAT/GEN;MASC;SG;DEF
+evreiesc	evreiești	ADJ;NOM/ACC;FEM;SG;INDF
+evreiesc	evreiești	ADJ;DAT/GEN;PL;INDF
+evreiesc	evreiescul	ADJ;NOM/ACC;MASC;SG;DEF
+evreiesc	evreiesc	ADJ;NOM/ACC;MASC;SG;INDF
+evreiesc	evreieștii	ADJ;DAT/GEN;NEUT;SG;DEF
+evreiesc	evreieștilor	ADJ;DAT/GEN;FEM;SG;DEF
+evreiesc	evreiesc	ADJ;DAT/GEN;MASC;SG;INDF
+evreiesc	evreieștile	ADJ;NOM/ACC;PL;DEF
+evreiesc	evreiasca	ADJ;NOM/ACC;NEUT;SG;DEF
+evreiesc	evreieștii	ADJ;NOM/ACC;FEM;SG;DEF
+evreiesc	evreieștilor	ADJ;DAT/GEN;PL;DEF
+evreiesc	evreiești	ADJ;NOM/ACC;PL;INDF
+evreiesc	evreiască	ADJ;NOM/ACC;NEUT;SG;INDF
+evreiesc	evreiești	ADJ;DAT/GEN;NEUT;SG;INDF
+mișca	mișcam	V;IND;PST;1;PL;IPFV
+mișca	mișcase	V;IND;PST;3;SG;PRF
+mișca	să miște	V;SBJV;PRS;3;PL
+mișca	mișcă	V;POS;IMP;2;SG
+mișca	mișcăm	V;IND;PRS;1;PL
+mișca	mișcă	V;IND;PRS;3;PL
+mișca	mișcați	V;IND;PRS;2;PL
+mișca	să mișcăm	V;SBJV;PRS;1;PL
+mișca	să miști	V;SBJV;PRS;2;SG
+mișca	să miște	V;SBJV;PRS;3;SG
+mișca	mișcarăm	V;IND;PST;1;PL;PFV
+mișca	nu mișcați	V;NEG;IMP;3;PL
+mișca	mișcară	V;IND;PST;3;PL;PFV
+mișca	mișcai	V;IND;PST;2;SG;IPFV
+mișca	mișcând	V.CVB;PRS
+mișca	nu mișca	V;NEG;IMP;2;SG
+mișca	mișcați	V;POS;IMP;3;PL
+mișca	mișcat	V.PTCP;PST
+mișca	mișc	V;IND;PRS;1;SG
+mișca	să mișc	V;SBJV;PRS;1;SG
+mișca	mișcaseși	V;IND;PST;2;SG;PRF
+mișca	mișcă	V;IND;PRS;3;SG
+mișca	să mișcați	V;SBJV;PRS;2;PL
+mișca	a mișca	V;NFIN
+mișca	mișcaserăm	V;IND;PST;1;PL;PRF
+mișca	mișcarăți	V;IND;PST;2;PL;PFV
+mișca	mișcai	V;IND;PST;1;SG;PFV
+mișca	mișcau	V;IND;PST;3;PL;IPFV
+mișca	miști	V;IND;PRS;2;SG
+mișca	mișcaserăți	V;IND;PST;2;PL;PRF
+mișca	mișcam	V;IND;PST;1;SG;IPFV
+mișca	mișcă	V;IND;PST;3;SG;PFV
+mișca	mișcasem	V;IND;PST;1;SG;PRF
+mișca	mișca	V;IND;PST;3;SG;IPFV
+mișca	mișcați	V;IND;PST;2;PL;IPFV
+mișca	mișcași	V;IND;PST;2;SG;PFV
+mișca	mișcaseră	V;IND;PST;3;PL;PRF
+central	centrali	ADJ;DAT/GEN;FEM;SG;INDF
+central	centralului	ADJ;DAT/GEN;MASC;SG;DEF
+central	centrali	ADJ;NOM/ACC;FEM;SG;INDF
+central	centrale	ADJ;DAT/GEN;PL;INDF
+central	centralul	ADJ;NOM/ACC;MASC;SG;DEF
+central	central	ADJ;NOM/ACC;MASC;SG;INDF
+central	centralei	ADJ;DAT/GEN;NEUT;SG;DEF
+central	centralilor	ADJ;DAT/GEN;FEM;SG;DEF
+central	central	ADJ;DAT/GEN;MASC;SG;INDF
+central	centralele	ADJ;NOM/ACC;PL;DEF
+central	centrala	ADJ;NOM/ACC;NEUT;SG;DEF
+central	centralii	ADJ;NOM/ACC;FEM;SG;DEF
+central	centralelor	ADJ;DAT/GEN;PL;DEF
+central	centrale	ADJ;NOM/ACC;PL;INDF
+central	centrală	ADJ;NOM/ACC;NEUT;SG;INDF
+central	centrale	ADJ;DAT/GEN;NEUT;SG;INDF
+scriitor	scriitorule	N;VOC;SG
+scriitor	scriitorilor	N;GEN/DAT;PL;DEF
+scriitor	scriitorii	N;NOM/ACC;PL;DEF
+scriitor	unui scriitor	N;GEN/DAT;SG;INDF
+scriitor	scriitorilor	N;VOC;PL
+scriitor	niște scriitori	N;NOM/ACC;SG;INDF
+grătar	grătarule	N;VOC;SG
+grătar	grătarelor	N;GEN/DAT;PL;DEF
+grătar	grătarele	N;NOM/ACC;PL;DEF
+grătar	unui grătar	N;GEN/DAT;SG;INDF
+grătar	grătarelor	N;VOC;PL
+grătar	niște grătare	N;NOM/ACC;SG;INDF
+mână	mână	N;VOC;SG
+mână	mâinilor	N;GEN/DAT;PL;DEF
+mână	mâinile	N;NOM/ACC;PL;DEF
+mână	unei mâini	N;GEN/DAT;SG;INDF
+mână	mâinilor	N;VOC;PL
+mână	niște mâini	N;NOM/ACC;SG;INDF
+prezent	prezenți	ADJ;DAT/GEN;FEM;SG;INDF
+prezent	prezentului	ADJ;DAT/GEN;MASC;SG;DEF
+prezent	prezenți	ADJ;NOM/ACC;FEM;SG;INDF
+prezent	prezente	ADJ;DAT/GEN;PL;INDF
+prezent	prezentul	ADJ;NOM/ACC;MASC;SG;DEF
+prezent	prezent	ADJ;NOM/ACC;MASC;SG;INDF
+prezent	prezentei	ADJ;DAT/GEN;NEUT;SG;DEF
+prezent	prezenților	ADJ;DAT/GEN;FEM;SG;DEF
+prezent	prezent	ADJ;DAT/GEN;MASC;SG;INDF
+prezent	prezentele	ADJ;NOM/ACC;PL;DEF
+prezent	prezenta	ADJ;NOM/ACC;NEUT;SG;DEF
+prezent	prezenții	ADJ;NOM/ACC;FEM;SG;DEF
+prezent	prezentelor	ADJ;DAT/GEN;PL;DEF
+prezent	prezente	ADJ;NOM/ACC;PL;INDF
+prezent	prezentă	ADJ;NOM/ACC;NEUT;SG;INDF
+prezent	prezente	ADJ;DAT/GEN;NEUT;SG;INDF
+petrece	petreceam	V;IND;PST;1;PL;IPFV
+petrece	petrecuse	V;IND;PST;3;SG;PRF
+petrece	să petreacă	V;SBJV;PRS;3;PL
+petrece	petrece	V;POS;IMP;2;SG
+petrece	petrecem	V;IND;PRS;1;PL
+petrece	petrec	V;IND;PRS;3;PL
+petrece	petreceți	V;IND;PRS;2;PL
+petrece	să petrecem	V;SBJV;PRS;1;PL
+petrece	să petreci	V;SBJV;PRS;2;SG
+petrece	să petreacă	V;SBJV;PRS;3;SG
+petrece	petrecurăm	V;IND;PST;1;PL;PFV
+petrece	nu petreceți	V;NEG;IMP;3;PL
+petrece	petrecură	V;IND;PST;3;PL;PFV
+petrece	petreceai	V;IND;PST;2;SG;IPFV
+petrece	petrecând	V.CVB;PRS
+petrece	nu petrece	V;NEG;IMP;2;SG
+petrece	petreceți	V;POS;IMP;3;PL
+petrece	petrecut	V.PTCP;PST
+petrece	petrec	V;IND;PRS;1;SG
+petrece	să petrec	V;SBJV;PRS;1;SG
+petrece	petrecuseși	V;IND;PST;2;SG;PRF
+petrece	petrece	V;IND;PRS;3;SG
+petrece	să petreceți	V;SBJV;PRS;2;PL
+petrece	a petrece	V;NFIN
+petrece	petrecuserăm	V;IND;PST;1;PL;PRF
+petrece	petrecurăți	V;IND;PST;2;PL;PFV
+petrece	petrecui	V;IND;PST;1;SG;PFV
+petrece	petreceau	V;IND;PST;3;PL;IPFV
+petrece	petreci	V;IND;PRS;2;SG
+petrece	petrecuserăți	V;IND;PST;2;PL;PRF
+petrece	petreceam	V;IND;PST;1;SG;IPFV
+petrece	petrecu	V;IND;PST;3;SG;PFV
+petrece	petrecusem	V;IND;PST;1;SG;PRF
+petrece	petrecea	V;IND;PST;3;SG;IPFV
+petrece	petreceați	V;IND;PST;2;PL;IPFV
+petrece	petrecuși	V;IND;PST;2;SG;PFV
+petrece	petrecuseră	V;IND;PST;3;PL;PRF
+urmărire	urmărire	N;VOC;SG
+urmărire	urmăririlor	N;GEN/DAT;PL;DEF
+urmărire	urmăririle	N;NOM/ACC;PL;DEF
+urmărire	unei urmăriri	N;GEN/DAT;SG;INDF
+urmărire	urmăririlor	N;VOC;PL
+urmărire	niște urmăriri	N;NOM/ACC;SG;INDF
+exterior	exteriori	ADJ;DAT/GEN;FEM;SG;INDF
+exterior	exteriorului	ADJ;DAT/GEN;MASC;SG;DEF
+exterior	exteriori	ADJ;NOM/ACC;FEM;SG;INDF
+exterior	exterioare	ADJ;DAT/GEN;PL;INDF
+exterior	exteriorul	ADJ;NOM/ACC;MASC;SG;DEF
+exterior	exterior	ADJ;NOM/ACC;MASC;SG;INDF
+exterior	exterioarei	ADJ;DAT/GEN;NEUT;SG;DEF
+exterior	exteriorilor	ADJ;DAT/GEN;FEM;SG;DEF
+exterior	exterior	ADJ;DAT/GEN;MASC;SG;INDF
+exterior	exterioarele	ADJ;NOM/ACC;PL;DEF
+exterior	exterioara	ADJ;NOM/ACC;NEUT;SG;DEF
+exterior	exterioară	ADJ;NOM/ACC;NEUT;SG;INDF
+exterior	exterioarelor	ADJ;DAT/GEN;PL;DEF
+exterior	exterioare	ADJ;NOM/ACC;PL;INDF
+exterior	exteriorii	ADJ;NOM/ACC;FEM;SG;DEF
+exterior	exterioare	ADJ;DAT/GEN;NEUT;SG;INDF
+piesă	piesă	N;VOC;SG
+piesă	pieselor	N;GEN/DAT;PL;DEF
+piesă	piesele	N;NOM/ACC;PL;DEF
+piesă	unei piese	N;GEN/DAT;SG;INDF
+piesă	pieselor	N;VOC;PL
+piesă	niște piese	N;NOM/ACC;SG;INDF
+război	războiule	N;VOC;SG
+război	războaielor	N;GEN/DAT;PL;DEF
+război	războaiele	N;NOM/ACC;PL;DEF
+război	unui război	N;GEN/DAT;SG;INDF
+război	războaielor	N;VOC;PL
+război	niște războaie	N;NOM/ACC;SG;INDF
+geografic	geografici	ADJ;DAT/GEN;FEM;SG;INDF
+geografic	geograficului	ADJ;DAT/GEN;MASC;SG;DEF
+geografic	geografici	ADJ;NOM/ACC;FEM;SG;INDF
+geografic	geografice	ADJ;DAT/GEN;PL;INDF
+geografic	geograficul	ADJ;NOM/ACC;MASC;SG;DEF
+geografic	geografic	ADJ;NOM/ACC;MASC;SG;INDF
+geografic	geograficei	ADJ;DAT/GEN;NEUT;SG;DEF
+geografic	geograficilor	ADJ;DAT/GEN;FEM;SG;DEF
+geografic	geografic	ADJ;DAT/GEN;MASC;SG;INDF
+geografic	geograficele	ADJ;NOM/ACC;PL;DEF
+geografic	geografica	ADJ;NOM/ACC;NEUT;SG;DEF
+geografic	geograficii	ADJ;NOM/ACC;FEM;SG;DEF
+geografic	geograficelor	ADJ;DAT/GEN;PL;DEF
+geografic	geografice	ADJ;NOM/ACC;PL;INDF
+geografic	geografică	ADJ;NOM/ACC;NEUT;SG;INDF
+geografic	geografice	ADJ;DAT/GEN;NEUT;SG;INDF
+înțeles	înțelesurilor	ADJ;DAT/GEN;FEM;SG;INDF
+înțeles	înțelesule	ADJ;DAT/GEN;MASC;SG;DEF
+înțeles	definite articulation	ADJ;NOM/ACC;FEM;SG;INDF
+înțeles	un înțeles	ADJ;NOM/ACC;MASC;SG;DEF
+înțeles	definite articulation	ADJ;NOM/ACC;MASC;SG;INDF
+înțeles	înțelesurilor	ADJ;DAT/GEN;NEUT;SG;DEF
+înțeles	înțelesului	ADJ;DAT/GEN;MASC;SG;INDF
+înțeles	înțelesurile	ADJ;NOM/ACC;PL;DEF
+înțeles	înțelesul	ADJ;NOM/ACC;NEUT;SG;DEF
+înțeles	indefinite articulation	ADJ;NOM/ACC;NEUT;SG;INDF
+înțeles	niște înțelesuri	ADJ;NOM/ACC;FEM;SG;DEF
+înțeles	unor înțelesuri	ADJ;DAT/GEN;NEUT;SG;INDF
+german	germani	ADJ;DAT/GEN;FEM;SG;INDF
+german	germanului	ADJ;DAT/GEN;MASC;SG;DEF
+german	germani	ADJ;NOM/ACC;FEM;SG;INDF
+german	germane	ADJ;DAT/GEN;PL;INDF
+german	germanul	ADJ;NOM/ACC;MASC;SG;DEF
+german	german	ADJ;NOM/ACC;MASC;SG;INDF
+german	germanei	ADJ;DAT/GEN;NEUT;SG;DEF
+german	germanilor	ADJ;DAT/GEN;FEM;SG;DEF
+german	german	ADJ;DAT/GEN;MASC;SG;INDF
+german	germanele	ADJ;NOM/ACC;PL;DEF
+german	germana	ADJ;NOM/ACC;NEUT;SG;DEF
+german	germanii	ADJ;NOM/ACC;FEM;SG;DEF
+german	germanelor	ADJ;DAT/GEN;PL;DEF
+german	germane	ADJ;NOM/ACC;PL;INDF
+german	germană	ADJ;NOM/ACC;NEUT;SG;INDF
+german	germane	ADJ;DAT/GEN;NEUT;SG;INDF
+specialitate	specialitate	N;VOC;SG
+specialitate	specialităților	N;GEN/DAT;PL;DEF
+specialitate	specialitățile	N;NOM/ACC;PL;DEF
+specialitate	unei specialități	N;GEN/DAT;SG;INDF
+specialitate	specialităților	N;VOC;PL
+specialitate	niște specialități	N;NOM/ACC;SG;INDF
+alege	alegeam	V;IND;PST;1;PL;IPFV
+alege	alesese	V;IND;PST;3;SG;PRF
+alege	să aleagă	V;SBJV;PRS;3;PL
+alege	alege	V;POS;IMP;2;SG
+alege	alegem	V;IND;PRS;1;PL
+alege	aleg	V;IND;PRS;3;PL
+alege	alegeți	V;IND;PRS;2;PL
+alege	să alegem	V;SBJV;PRS;1;PL
+alege	să alegi	V;SBJV;PRS;2;SG
+alege	să aleagă	V;SBJV;PRS;3;SG
+alege	aleserăm	V;IND;PST;1;PL;PFV
+alege	nu alegeți	V;NEG;IMP;3;PL
+alege	aleseră	V;IND;PST;3;PL;PFV
+alege	alegeai	V;IND;PST;2;SG;IPFV
+alege	alegând	V.CVB;PRS
+alege	nu alege	V;NEG;IMP;2;SG
+alege	alegeți	V;POS;IMP;3;PL
+alege	ales	V.PTCP;PST
+alege	aleg	V;IND;PRS;1;SG
+alege	să aleg	V;SBJV;PRS;1;SG
+alege	aleseseși	V;IND;PST;2;SG;PRF
+alege	alege	V;IND;PRS;3;SG
+alege	să alegeți	V;SBJV;PRS;2;PL
+alege	a alege	V;NFIN
+alege	aleseserăm	V;IND;PST;1;PL;PRF
+alege	aleserăți	V;IND;PST;2;PL;PFV
+alege	alesei	V;IND;PST;1;SG;PFV
+alege	alegeau	V;IND;PST;3;PL;IPFV
+alege	alegi	V;IND;PRS;2;SG
+alege	aleseserăți	V;IND;PST;2;PL;PRF
+alege	alegeam	V;IND;PST;1;SG;IPFV
+alege	alese	V;IND;PST;3;SG;PFV
+alege	alesesem	V;IND;PST;1;SG;PRF
+alege	alegea	V;IND;PST;3;SG;IPFV
+alege	alegeați	V;IND;PST;2;PL;IPFV
+alege	aleseși	V;IND;PST;2;SG;PFV
+alege	aleseseră	V;IND;PST;3;PL;PRF
+puternic	puternici	ADJ;DAT/GEN;FEM;SG;INDF
+puternic	puternicului	ADJ;DAT/GEN;MASC;SG;DEF
+puternic	puternici	ADJ;NOM/ACC;FEM;SG;INDF
+puternic	puternice	ADJ;DAT/GEN;PL;INDF
+puternic	puternicul	ADJ;NOM/ACC;MASC;SG;DEF
+puternic	puternic	ADJ;NOM/ACC;MASC;SG;INDF
+puternic	puternicei	ADJ;DAT/GEN;NEUT;SG;DEF
+puternic	puternicilor	ADJ;DAT/GEN;FEM;SG;DEF
+puternic	puternic	ADJ;DAT/GEN;MASC;SG;INDF
+puternic	puternicele	ADJ;NOM/ACC;PL;DEF
+puternic	puternica	ADJ;NOM/ACC;NEUT;SG;DEF
+puternic	puternicii	ADJ;NOM/ACC;FEM;SG;DEF
+puternic	puternicelor	ADJ;DAT/GEN;PL;DEF
+puternic	puternice	ADJ;NOM/ACC;PL;INDF
+puternic	puternică	ADJ;NOM/ACC;NEUT;SG;INDF
+puternic	puternice	ADJ;DAT/GEN;NEUT;SG;INDF
+fura	furam	V;IND;PST;1;PL;IPFV
+fura	furase	V;IND;PST;3;SG;PRF
+fura	să fure	V;SBJV;PRS;3;PL
+fura	fură	V;POS;IMP;2;SG
+fura	furăm	V;IND;PRS;1;PL
+fura	fură	V;IND;PRS;3;PL
+fura	furați	V;IND;PRS;2;PL
+fura	să furăm	V;SBJV;PRS;1;PL
+fura	să furi	V;SBJV;PRS;2;SG
+fura	să fure	V;SBJV;PRS;3;SG
+fura	furarăm	V;IND;PST;1;PL;PFV
+fura	nu furați	V;NEG;IMP;3;PL
+fura	furară	V;IND;PST;3;PL;PFV
+fura	furai	V;IND;PST;2;SG;IPFV
+fura	furând	V.CVB;PRS
+fura	nu fura	V;NEG;IMP;2;SG
+fura	furați	V;POS;IMP;3;PL
+fura	furat	V.PTCP;PST
+fura	fur	V;IND;PRS;1;SG
+fura	să fur	V;SBJV;PRS;1;SG
+fura	furaseși	V;IND;PST;2;SG;PRF
+fura	fură	V;IND;PRS;3;SG
+fura	să furați	V;SBJV;PRS;2;PL
+fura	a fura	V;NFIN
+fura	furaserăm	V;IND;PST;1;PL;PRF
+fura	furarăți	V;IND;PST;2;PL;PFV
+fura	furai	V;IND;PST;1;SG;PFV
+fura	furau	V;IND;PST;3;PL;IPFV
+fura	furi	V;IND;PRS;2;SG
+fura	furaserăți	V;IND;PST;2;PL;PRF
+fura	furam	V;IND;PST;1;SG;IPFV
+fura	fură	V;IND;PST;3;SG;PFV
+fura	furasem	V;IND;PST;1;SG;PRF
+fura	fura	V;IND;PST;3;SG;IPFV
+fura	furați	V;IND;PST;2;PL;IPFV
+fura	furași	V;IND;PST;2;SG;PFV
+fura	furaseră	V;IND;PST;3;PL;PRF
+scriere	scriere	N;VOC;SG
+scriere	scrierilor	N;GEN/DAT;PL;DEF
+scriere	scrierile	N;NOM/ACC;PL;DEF
+scriere	unei scrieri	N;GEN/DAT;SG;INDF
+scriere	scrierilor	N;VOC;PL
+scriere	niște scrieri	N;NOM/ACC;SG;INDF
+știință	științo	N;VOC;SG
+știință	științelor	N;GEN/DAT;PL;DEF
+știință	științele	N;NOM/ACC;PL;DEF
+știință	unei științe	N;GEN/DAT;SG;INDF
+știință	științelor	N;VOC;PL
+știință	niște științe	N;NOM/ACC;SG;INDF
+neadecvat	neadecvați	ADJ;DAT/GEN;FEM;SG;INDF
+neadecvat	neadecvatului	ADJ;DAT/GEN;MASC;SG;DEF
+neadecvat	neadecvați	ADJ;NOM/ACC;FEM;SG;INDF
+neadecvat	neadecvate	ADJ;DAT/GEN;PL;INDF
+neadecvat	neadecvatul	ADJ;NOM/ACC;MASC;SG;DEF
+neadecvat	neadecvat	ADJ;NOM/ACC;MASC;SG;INDF
+neadecvat	neadecvatei	ADJ;DAT/GEN;NEUT;SG;DEF
+neadecvat	neadecvaților	ADJ;DAT/GEN;FEM;SG;DEF
+neadecvat	neadecvat	ADJ;DAT/GEN;MASC;SG;INDF
+neadecvat	neadecvatele	ADJ;NOM/ACC;PL;DEF
+neadecvat	neadecvata	ADJ;NOM/ACC;NEUT;SG;DEF
+neadecvat	neadecvații	ADJ;NOM/ACC;FEM;SG;DEF
+neadecvat	neadecvatelor	ADJ;DAT/GEN;PL;DEF
+neadecvat	neadecvate	ADJ;NOM/ACC;PL;INDF
+neadecvat	neadecvată	ADJ;NOM/ACC;NEUT;SG;INDF
+neadecvat	neadecvate	ADJ;DAT/GEN;NEUT;SG;INDF
+alianță	alianță	N;VOC;SG
+alianță	alianțelor	N;GEN/DAT;PL;DEF
+alianță	alianțele	N;NOM/ACC;PL;DEF
+alianță	unei alianțe	N;GEN/DAT;SG;INDF
+alianță	alianțelor	N;VOC;PL
+alianță	niște alianțe	N;NOM/ACC;SG;INDF
+doctor	doctorule	N;VOC;SG
+doctor	doctorilor	N;GEN/DAT;PL;DEF
+doctor	doctorii	N;NOM/ACC;PL;DEF
+doctor	unui doctor	N;GEN/DAT;SG;INDF
+doctor	doctorilor	N;VOC;PL
+doctor	niște doctori	N;NOM/ACC;SG;INDF
+repede	repezi	ADJ;DAT/GEN;FEM;SG;INDF
+repede	repedelui	ADJ;DAT/GEN;MASC;SG;DEF
+repede	repezi	ADJ;NOM/ACC;FEM;SG;INDF
+repede	repezi	ADJ;DAT/GEN;PL;INDF
+repede	repedele	ADJ;NOM/ACC;MASC;SG;DEF
+repede	repede	ADJ;NOM/ACC;MASC;SG;INDF
+repede	repezii	ADJ;DAT/GEN;NEUT;SG;DEF
+repede	repezilor	ADJ;DAT/GEN;FEM;SG;DEF
+repede	repede	ADJ;DAT/GEN;MASC;SG;INDF
+repede	repezile	ADJ;NOM/ACC;PL;DEF
+repede	repedea	ADJ;NOM/ACC;NEUT;SG;DEF
+repede	repezii	ADJ;NOM/ACC;FEM;SG;DEF
+repede	repezilor	ADJ;DAT/GEN;PL;DEF
+repede	repezi	ADJ;NOM/ACC;PL;INDF
+repede	repede	ADJ;NOM/ACC;NEUT;SG;INDF
+repede	repezi	ADJ;DAT/GEN;NEUT;SG;INDF
+general	generalule	N;VOC;SG
+general	generalilor	N;GEN/DAT;PL;DEF
+general	generalii	N;NOM/ACC;PL;DEF
+general	unui general	N;GEN/DAT;SG;INDF
+general	generalilor	N;VOC;PL
+general	niște generali	N;NOM/ACC;SG;INDF
+românesc	românești	ADJ;DAT/GEN;FEM;SG;INDF
+românesc	românescului	ADJ;DAT/GEN;MASC;SG;DEF
+românesc	românești	ADJ;NOM/ACC;FEM;SG;INDF
+românesc	românești	ADJ;DAT/GEN;PL;INDF
+românesc	românescul	ADJ;NOM/ACC;MASC;SG;DEF
+românesc	românesc	ADJ;NOM/ACC;MASC;SG;INDF
+românesc	româneștii	ADJ;DAT/GEN;NEUT;SG;DEF
+românesc	româneștilor	ADJ;DAT/GEN;FEM;SG;DEF
+românesc	românesc	ADJ;DAT/GEN;MASC;SG;INDF
+românesc	româneștile	ADJ;NOM/ACC;PL;DEF
+românesc	româneasca	ADJ;NOM/ACC;NEUT;SG;DEF
+românesc	româneștii	ADJ;NOM/ACC;FEM;SG;DEF
+românesc	româneștilor	ADJ;DAT/GEN;PL;DEF
+românesc	românești	ADJ;NOM/ACC;PL;INDF
+românesc	românească	ADJ;NOM/ACC;NEUT;SG;INDF
+românesc	românești	ADJ;DAT/GEN;NEUT;SG;INDF
+distinge	distingeam	V;IND;PST;1;PL;IPFV
+distinge	distinsese	V;IND;PST;3;SG;PRF
+distinge	să distingă	V;SBJV;PRS;3;PL
+distinge	distinge	V;POS;IMP;2;SG
+distinge	distingem	V;IND;PRS;1;PL
+distinge	disting	V;IND;PRS;3;PL
+distinge	distingeți	V;IND;PRS;2;PL
+distinge	să distingem	V;SBJV;PRS;1;PL
+distinge	să distingi	V;SBJV;PRS;2;SG
+distinge	să distingă	V;SBJV;PRS;3;SG
+distinge	distinserăm	V;IND;PST;1;PL;PFV
+distinge	nu distingeți	V;NEG;IMP;3;PL
+distinge	distinseră	V;IND;PST;3;PL;PFV
+distinge	distingeai	V;IND;PST;2;SG;IPFV
+distinge	distingând	V.CVB;PRS
+distinge	nu distinge	V;NEG;IMP;2;SG
+distinge	distingeți	V;POS;IMP;3;PL
+distinge	distins	V.PTCP;PST
+distinge	disting	V;IND;PRS;1;SG
+distinge	să disting	V;SBJV;PRS;1;SG
+distinge	distinseseși	V;IND;PST;2;SG;PRF
+distinge	distinge	V;IND;PRS;3;SG
+distinge	să distingeți	V;SBJV;PRS;2;PL
+distinge	a distinge	V;NFIN
+distinge	distinseserăm	V;IND;PST;1;PL;PRF
+distinge	distinserăți	V;IND;PST;2;PL;PFV
+distinge	distinsei	V;IND;PST;1;SG;PFV
+distinge	distingeau	V;IND;PST;3;PL;IPFV
+distinge	distingi	V;IND;PRS;2;SG
+distinge	distinseserăți	V;IND;PST;2;PL;PRF
+distinge	distingeam	V;IND;PST;1;SG;IPFV
+distinge	distinse	V;IND;PST;3;SG;PFV
+distinge	distinsesem	V;IND;PST;1;SG;PRF
+distinge	distingea	V;IND;PST;3;SG;IPFV
+distinge	distingeați	V;IND;PST;2;PL;IPFV
+distinge	distinseși	V;IND;PST;2;SG;PFV
+distinge	distinseseră	V;IND;PST;3;PL;PRF
+spirit	spiritule	N;VOC;SG
+spirit	spiritelor	N;GEN/DAT;PL;DEF
+spirit	spiritele	N;NOM/ACC;PL;DEF
+spirit	unui spirit	N;GEN/DAT;SG;INDF
+spirit	spiritelor	N;VOC;PL
+spirit	niște spirite	N;NOM/ACC;SG;INDF
+lumină	lumină	N;VOC;SG
+lumină	luminilor	N;GEN/DAT;PL;DEF
+lumină	luminile	N;NOM/ACC;PL;DEF
+lumină	unei lumini	N;GEN/DAT;SG;INDF
+lumină	luminilor	N;VOC;PL
+lumină	niște lumini	N;NOM/ACC;SG;INDF
+expoziție	expoziție	N;VOC;SG
+expoziție	expozițiilor	N;GEN/DAT;PL;DEF
+expoziție	expozițiile	N;NOM/ACC;PL;DEF
+expoziție	unei expoziții	N;GEN/DAT;SG;INDF
+expoziție	expozițiilor	N;VOC;PL
+expoziție	niște expoziții	N;NOM/ACC;SG;INDF
+frumusețe	frumusețe	N;VOC;SG
+frumusețe	frumuseților	N;GEN/DAT;PL;DEF
+frumusețe	frumusețile	N;NOM/ACC;PL;DEF
+frumusețe	unei frumuseți	N;GEN/DAT;SG;INDF
+frumusețe	frumuseților	N;VOC;PL
+frumusețe	niște frumuseți	N;NOM/ACC;SG;INDF
+conformitate	conformitate	N;VOC;SG
+conformitate	conformitatea	N;NOM/ACC;PL;DEF
+conformitate	conformități	N;GEN/DAT;SG;INDF
+conformitate	conformității	N;GEN/DAT;PL;DEF
+conformitate	conformitate	N;NOM/ACC;SG;INDF
+unghi	unghiule	N;VOC;SG
+unghi	unghiurilor	N;GEN/DAT;PL;DEF
+unghi	unghiurile	N;NOM/ACC;PL;DEF
+unghi	unui unghi	N;GEN/DAT;SG;INDF
+unghi	unghiurilor	N;VOC;PL
+unghi	niște unghiuri	N;NOM/ACC;SG;INDF
+comanda	comandam	V;IND;PST;1;PL;IPFV
+comanda	comandase	V;IND;PST;3;SG;PRF
+comanda	să comande	V;SBJV;PRS;3;PL
+comanda	comandă	V;POS;IMP;2;SG
+comanda	comandăm	V;IND;PRS;1;PL
+comanda	comandă	V;IND;PRS;3;PL
+comanda	comandați	V;IND;PRS;2;PL
+comanda	să comandăm	V;SBJV;PRS;1;PL
+comanda	să comandi	V;SBJV;PRS;2;SG
+comanda	să comande	V;SBJV;PRS;3;SG
+comanda	comandarăm	V;IND;PST;1;PL;PFV
+comanda	nu comandați	V;NEG;IMP;3;PL
+comanda	comandară	V;IND;PST;3;PL;PFV
+comanda	comandai	V;IND;PST;2;SG;IPFV
+comanda	comandând	V.CVB;PRS
+comanda	nu comanda	V;NEG;IMP;2;SG
+comanda	comandați	V;POS;IMP;3;PL
+comanda	comandat	V.PTCP;PST
+comanda	comand	V;IND;PRS;1;SG
+comanda	să comand	V;SBJV;PRS;1;SG
+comanda	comandaseși	V;IND;PST;2;SG;PRF
+comanda	comandă	V;IND;PRS;3;SG
+comanda	să comandați	V;SBJV;PRS;2;PL
+comanda	a comanda	V;NFIN
+comanda	comandaserăm	V;IND;PST;1;PL;PRF
+comanda	comandarăți	V;IND;PST;2;PL;PFV
+comanda	comandai	V;IND;PST;1;SG;PFV
+comanda	comandau	V;IND;PST;3;PL;IPFV
+comanda	comandi	V;IND;PRS;2;SG
+comanda	comandaserăți	V;IND;PST;2;PL;PRF
+comanda	comandam	V;IND;PST;1;SG;IPFV
+comanda	comandă	V;IND;PST;3;SG;PFV
+comanda	comandasem	V;IND;PST;1;SG;PRF
+comanda	comanda	V;IND;PST;3;SG;IPFV
+comanda	comandați	V;IND;PST;2;PL;IPFV
+comanda	comandași	V;IND;PST;2;SG;PFV
+comanda	comandaseră	V;IND;PST;3;PL;PRF
+găsi	găseam	V;IND;PST;1;PL;IPFV
+găsi	găsise	V;IND;PST;3;SG;PRF
+găsi	să găsească	V;SBJV;PRS;3;PL
+găsi	găsește	V;POS;IMP;2;SG
+găsi	găsim	V;IND;PRS;1;PL
+găsi	găsesc	V;IND;PRS;3;PL
+găsi	găsiți	V;IND;PRS;2;PL
+găsi	să găsim	V;SBJV;PRS;1;PL
+găsi	să găsești	V;SBJV;PRS;2;SG
+găsi	să găsească	V;SBJV;PRS;3;SG
+găsi	găsirăm	V;IND;PST;1;PL;PFV
+găsi	nu găsiți	V;NEG;IMP;3;PL
+găsi	găsiră	V;IND;PST;3;PL;PFV
+găsi	găseai	V;IND;PST;2;SG;IPFV
+găsi	găsind	V.CVB;PRS
+găsi	nu găsi	V;NEG;IMP;2;SG
+găsi	găsiți	V;POS;IMP;3;PL
+găsi	găsit	V.PTCP;PST
+găsi	găsesc	V;IND;PRS;1;SG
+găsi	să găsesc	V;SBJV;PRS;1;SG
+găsi	găsiseși	V;IND;PST;2;SG;PRF
+găsi	găsește	V;IND;PRS;3;SG
+găsi	să găsiți	V;SBJV;PRS;2;PL
+găsi	a găsi	V;NFIN
+găsi	găsiserăm	V;IND;PST;1;PL;PRF
+găsi	găsirăți	V;IND;PST;2;PL;PFV
+găsi	găsii	V;IND;PST;1;SG;PFV
+găsi	găseau	V;IND;PST;3;PL;IPFV
+găsi	găsești	V;IND;PRS;2;SG
+găsi	găsiserăți	V;IND;PST;2;PL;PRF
+găsi	găseam	V;IND;PST;1;SG;IPFV
+găsi	găsi	V;IND;PST;3;SG;PFV
+găsi	găsisem	V;IND;PST;1;SG;PRF
+găsi	găsea	V;IND;PST;3;SG;IPFV
+găsi	găseați	V;IND;PST;2;PL;IPFV
+găsi	găsiși	V;IND;PST;2;SG;PFV
+găsi	găsiseră	V;IND;PST;3;PL;PRF
+cânta	cântam	V;IND;PST;1;PL;IPFV
+cânta	cântase	V;IND;PST;3;SG;PRF
+cânta	să cânte	V;SBJV;PRS;3;PL
+cânta	cântă	V;POS;IMP;2;SG
+cânta	cântăm	V;IND;PRS;1;PL
+cânta	cântă	V;IND;PRS;3;PL
+cânta	cântați	V;IND;PRS;2;PL
+cânta	să cântăm	V;SBJV;PRS;1;PL
+cânta	să cânți	V;SBJV;PRS;2;SG
+cânta	să cânte	V;SBJV;PRS;3;SG
+cânta	cântarăm	V;IND;PST;1;PL;PFV
+cânta	nu cântați	V;NEG;IMP;3;PL
+cânta	cântară	V;IND;PST;3;PL;PFV
+cânta	cântai	V;IND;PST;2;SG;IPFV
+cânta	cântând	V.CVB;PRS
+cânta	nu cânta	V;NEG;IMP;2;SG
+cânta	cântați	V;POS;IMP;3;PL
+cânta	cântat	V.PTCP;PST
+cânta	cânt	V;IND;PRS;1;SG
+cânta	să cânt	V;SBJV;PRS;1;SG
+cânta	cântaseși	V;IND;PST;2;SG;PRF
+cânta	cântă	V;IND;PRS;3;SG
+cânta	să cântați	V;SBJV;PRS;2;PL
+cânta	a cânta	V;NFIN
+cânta	cântaserăm	V;IND;PST;1;PL;PRF
+cânta	cântarăți	V;IND;PST;2;PL;PFV
+cânta	cântai	V;IND;PST;1;SG;PFV
+cânta	cântau	V;IND;PST;3;PL;IPFV
+cânta	cânți	V;IND;PRS;2;SG
+cânta	cântaserăți	V;IND;PST;2;PL;PRF
+cânta	cântam	V;IND;PST;1;SG;IPFV
+cânta	cântă	V;IND;PST;3;SG;PFV
+cânta	cântasem	V;IND;PST;1;SG;PRF
+cânta	cânta	V;IND;PST;3;SG;IPFV
+cânta	cântați	V;IND;PST;2;PL;IPFV
+cânta	cântași	V;IND;PST;2;SG;PFV
+cânta	cântaseră	V;IND;PST;3;PL;PRF
+onoare	onorurile	N;NOM/ACC;PL;DEF
+onoare	unei onori	N;GEN/DAT;SG;INDF
+onoare	onorurilor	N;GEN/DAT;PL;DEF
+onoare	niște onoruri	N;NOM/ACC;SG;INDF
+frontieră	frontieră	N;VOC;SG
+frontieră	frontierelor	N;GEN/DAT;PL;DEF
+frontieră	frontierele	N;NOM/ACC;PL;DEF
+frontieră	unei frontiere	N;GEN/DAT;SG;INDF
+frontieră	frontierelor	N;VOC;PL
+frontieră	niște frontiere	N;NOM/ACC;SG;INDF
+reduce	reduceam	V;IND;PST;1;PL;IPFV
+reduce	redusese	V;IND;PST;3;SG;PRF
+reduce	să reducă	V;SBJV;PRS;3;PL
+reduce	redu	V;POS;IMP;2;SG
+reduce	reducem	V;IND;PRS;1;PL
+reduce	reduc	V;IND;PRS;3;PL
+reduce	reduceți	V;IND;PRS;2;PL
+reduce	să reducem	V;SBJV;PRS;1;PL
+reduce	să reduci	V;SBJV;PRS;2;SG
+reduce	să reducă	V;SBJV;PRS;3;SG
+reduce	reduserăm	V;IND;PST;1;PL;PFV
+reduce	nu reduceți	V;NEG;IMP;3;PL
+reduce	reduseră	V;IND;PST;3;PL;PFV
+reduce	reduceai	V;IND;PST;2;SG;IPFV
+reduce	reducând	V.CVB;PRS
+reduce	nu reduce	V;NEG;IMP;2;SG
+reduce	reduceți	V;POS;IMP;3;PL
+reduce	redus	V.PTCP;PST
+reduce	reduc	V;IND;PRS;1;SG
+reduce	să reduc	V;SBJV;PRS;1;SG
+reduce	reduseseși	V;IND;PST;2;SG;PRF
+reduce	reduce	V;IND;PRS;3;SG
+reduce	să reduceți	V;SBJV;PRS;2;PL
+reduce	a reduce	V;NFIN
+reduce	reduseserăm	V;IND;PST;1;PL;PRF
+reduce	reduserăți	V;IND;PST;2;PL;PFV
+reduce	redusei	V;IND;PST;1;SG;PFV
+reduce	reduceau	V;IND;PST;3;PL;IPFV
+reduce	reduci	V;IND;PRS;2;SG
+reduce	reduseserăți	V;IND;PST;2;PL;PRF
+reduce	reduceam	V;IND;PST;1;SG;IPFV
+reduce	reduse	V;IND;PST;3;SG;PFV
+reduce	redusesem	V;IND;PST;1;SG;PRF
+reduce	reducea	V;IND;PST;3;SG;IPFV
+reduce	reduceați	V;IND;PST;2;PL;IPFV
+reduce	reduseși	V;IND;PST;2;SG;PFV
+reduce	reduseseră	V;IND;PST;3;PL;PRF
+arc	arcule	N;VOC;SG
+arc	arcurilor	N;GEN/DAT;PL;DEF
+arc	arcurile	N;NOM/ACC;PL;DEF
+arc	unui arc	N;GEN/DAT;SG;INDF
+arc	arcurilor	N;VOC;PL
+arc	niște arcuri	N;NOM/ACC;SG;INDF
+înceta	încetam	V;IND;PST;1;PL;IPFV
+înceta	încetase	V;IND;PST;3;SG;PRF
+înceta	să încete	V;SBJV;PRS;3;PL
+înceta	înceată	V;POS;IMP;2;SG
+înceta	încetăm	V;IND;PRS;1;PL
+înceta	înceată	V;IND;PRS;3;PL
+înceta	încetați	V;IND;PRS;2;PL
+înceta	să încetăm	V;SBJV;PRS;1;PL
+înceta	să înceți	V;SBJV;PRS;2;SG
+înceta	să încete	V;SBJV;PRS;3;SG
+înceta	încetarăm	V;IND;PST;1;PL;PFV
+înceta	nu încetați	V;NEG;IMP;3;PL
+înceta	încetară	V;IND;PST;3;PL;PFV
+înceta	încetai	V;IND;PST;2;SG;IPFV
+înceta	încetând	V.CVB;PRS
+înceta	nu înceta	V;NEG;IMP;2;SG
+înceta	încetați	V;POS;IMP;3;PL
+înceta	încetat	V.PTCP;PST
+înceta	încet	V;IND;PRS;1;SG
+înceta	să încet	V;SBJV;PRS;1;SG
+înceta	încetaseși	V;IND;PST;2;SG;PRF
+înceta	înceată	V;IND;PRS;3;SG
+înceta	să încetați	V;SBJV;PRS;2;PL
+înceta	a înceta	V;NFIN
+înceta	încetaserăm	V;IND;PST;1;PL;PRF
+înceta	încetarăți	V;IND;PST;2;PL;PFV
+înceta	încetai	V;IND;PST;1;SG;PFV
+înceta	încetau	V;IND;PST;3;PL;IPFV
+înceta	înceți	V;IND;PRS;2;SG
+înceta	încetaserăți	V;IND;PST;2;PL;PRF
+înceta	încetam	V;IND;PST;1;SG;IPFV
+înceta	încetă	V;IND;PST;3;SG;PFV
+înceta	încetasem	V;IND;PST;1;SG;PRF
+înceta	înceta	V;IND;PST;3;SG;IPFV
+înceta	încetați	V;IND;PST;2;PL;IPFV
+înceta	încetași	V;IND;PST;2;SG;PFV
+înceta	încetaseră	V;IND;PST;3;PL;PRF
+australian	australienilor	ADJ;DAT/GEN;FEM;SG;INDF
+australian	australianule	ADJ;DAT/GEN;MASC;SG;DEF
+australian	definite articulation	ADJ;NOM/ACC;FEM;SG;INDF
+australian	un australian	ADJ;NOM/ACC;MASC;SG;DEF
+australian	definite articulation	ADJ;NOM/ACC;MASC;SG;INDF
+australian	australienilor	ADJ;DAT/GEN;NEUT;SG;DEF
+australian	australianului	ADJ;DAT/GEN;MASC;SG;INDF
+australian	australienii	ADJ;NOM/ACC;PL;DEF
+australian	australianul	ADJ;NOM/ACC;NEUT;SG;DEF
+australian	indefinite articulation	ADJ;NOM/ACC;NEUT;SG;INDF
+australian	niște australieni	ADJ;NOM/ACC;FEM;SG;DEF
+australian	unor australieni	ADJ;DAT/GEN;NEUT;SG;INDF
+semna	semnam	V;IND;PST;1;PL;IPFV
+semna	semnase	V;IND;PST;3;SG;PRF
+semna	să semneze	V;SBJV;PRS;3;PL
+semna	semnează	V;POS;IMP;2;SG
+semna	semnăm	V;IND;PRS;1;PL
+semna	semnează	V;IND;PRS;3;PL
+semna	semnați	V;IND;PRS;2;PL
+semna	să semnăm	V;SBJV;PRS;1;PL
+semna	să semnezi	V;SBJV;PRS;2;SG
+semna	să semneze	V;SBJV;PRS;3;SG
+semna	semnarăm	V;IND;PST;1;PL;PFV
+semna	nu semnați	V;NEG;IMP;3;PL
+semna	semnară	V;IND;PST;3;PL;PFV
+semna	semnai	V;IND;PST;2;SG;IPFV
+semna	semnând	V.CVB;PRS
+semna	nu semna	V;NEG;IMP;2;SG
+semna	semnați	V;POS;IMP;3;PL
+semna	semnat	V.PTCP;PST
+semna	semnez	V;IND;PRS;1;SG
+semna	să semnez	V;SBJV;PRS;1;SG
+semna	semnaseși	V;IND;PST;2;SG;PRF
+semna	semnează	V;IND;PRS;3;SG
+semna	să semnați	V;SBJV;PRS;2;PL
+semna	a semna	V;NFIN
+semna	semnaserăm	V;IND;PST;1;PL;PRF
+semna	semnarăți	V;IND;PST;2;PL;PFV
+semna	semnai	V;IND;PST;1;SG;PFV
+semna	semnau	V;IND;PST;3;PL;IPFV
+semna	semnezi	V;IND;PRS;2;SG
+semna	semnaserăți	V;IND;PST;2;PL;PRF
+semna	semnam	V;IND;PST;1;SG;IPFV
+semna	semnă	V;IND;PST;3;SG;PFV
+semna	semnasem	V;IND;PST;1;SG;PRF
+semna	semna	V;IND;PST;3;SG;IPFV
+semna	semnați	V;IND;PST;2;PL;IPFV
+semna	semnași	V;IND;PST;2;SG;PFV
+semna	semnaseră	V;IND;PST;3;PL;PRF
+folosi	foloseam	V;IND;PST;1;PL;IPFV
+folosi	folosise	V;IND;PST;3;SG;PRF
+folosi	să folosească	V;SBJV;PRS;3;PL
+folosi	folosește	V;POS;IMP;2;SG
+folosi	folosim	V;IND;PRS;1;PL
+folosi	folosesc	V;IND;PRS;3;PL
+folosi	folosiți	V;IND;PRS;2;PL
+folosi	să folosim	V;SBJV;PRS;1;PL
+folosi	să folosești	V;SBJV;PRS;2;SG
+folosi	să folosească	V;SBJV;PRS;3;SG
+folosi	folosirăm	V;IND;PST;1;PL;PFV
+folosi	nu folosiți	V;NEG;IMP;3;PL
+folosi	folosiră	V;IND;PST;3;PL;PFV
+folosi	foloseai	V;IND;PST;2;SG;IPFV
+folosi	folosind	V.CVB;PRS
+folosi	nu folosi	V;NEG;IMP;2;SG
+folosi	folosiți	V;POS;IMP;3;PL
+folosi	folosit	V.PTCP;PST
+folosi	folosesc	V;IND;PRS;1;SG
+folosi	să folosesc	V;SBJV;PRS;1;SG
+folosi	folosiseși	V;IND;PST;2;SG;PRF
+folosi	folosește	V;IND;PRS;3;SG
+folosi	să folosiți	V;SBJV;PRS;2;PL
+folosi	a folosi	V;NFIN
+folosi	folosiserăm	V;IND;PST;1;PL;PRF
+folosi	folosirăți	V;IND;PST;2;PL;PFV
+folosi	folosii	V;IND;PST;1;SG;PFV
+folosi	foloseau	V;IND;PST;3;PL;IPFV
+folosi	folosești	V;IND;PRS;2;SG
+folosi	folosiserăți	V;IND;PST;2;PL;PRF
+folosi	foloseam	V;IND;PST;1;SG;IPFV
+folosi	folosi	V;IND;PST;3;SG;PFV
+folosi	folosisem	V;IND;PST;1;SG;PRF
+folosi	folosea	V;IND;PST;3;SG;IPFV
+folosi	foloseați	V;IND;PST;2;PL;IPFV
+folosi	folosiși	V;IND;PST;2;SG;PFV
+folosi	folosiseră	V;IND;PST;3;PL;PRF
+intern	interni	ADJ;DAT/GEN;FEM;SG;INDF
+intern	internului	ADJ;DAT/GEN;MASC;SG;DEF
+intern	interni	ADJ;NOM/ACC;FEM;SG;INDF
+intern	interne	ADJ;DAT/GEN;PL;INDF
+intern	internul	ADJ;NOM/ACC;MASC;SG;DEF
+intern	intern	ADJ;NOM/ACC;MASC;SG;INDF
+intern	internei	ADJ;DAT/GEN;NEUT;SG;DEF
+intern	internilor	ADJ;DAT/GEN;FEM;SG;DEF
+intern	intern	ADJ;DAT/GEN;MASC;SG;INDF
+intern	internele	ADJ;NOM/ACC;PL;DEF
+intern	interna	ADJ;NOM/ACC;NEUT;SG;DEF
+intern	internii	ADJ;NOM/ACC;FEM;SG;DEF
+intern	internelor	ADJ;DAT/GEN;PL;DEF
+intern	interne	ADJ;NOM/ACC;PL;INDF
+intern	internă	ADJ;NOM/ACC;NEUT;SG;INDF
+intern	interne	ADJ;DAT/GEN;NEUT;SG;INDF
+muzică	muzică	N;VOC;SG
+muzică	muzicilor	N;GEN/DAT;PL;DEF
+muzică	muzicile	N;NOM/ACC;PL;DEF
+muzică	unei muzici	N;GEN/DAT;SG;INDF
+muzică	muzicilor	N;VOC;PL
+muzică	niște muzici	N;NOM/ACC;SG;INDF
+emerit	emeriți	ADJ;DAT/GEN;FEM;SG;INDF
+emerit	emeritului	ADJ;DAT/GEN;MASC;SG;DEF
+emerit	emeriți	ADJ;NOM/ACC;FEM;SG;INDF
+emerit	emerite	ADJ;DAT/GEN;PL;INDF
+emerit	emeritul	ADJ;NOM/ACC;MASC;SG;DEF
+emerit	emerit	ADJ;NOM/ACC;MASC;SG;INDF
+emerit	emeritei	ADJ;DAT/GEN;NEUT;SG;DEF
+emerit	emeriților	ADJ;DAT/GEN;FEM;SG;DEF
+emerit	emerit	ADJ;DAT/GEN;MASC;SG;INDF
+emerit	emeritele	ADJ;NOM/ACC;PL;DEF
+emerit	emerita	ADJ;NOM/ACC;NEUT;SG;DEF
+emerit	emeriții	ADJ;NOM/ACC;FEM;SG;DEF
+emerit	emeritelor	ADJ;DAT/GEN;PL;DEF
+emerit	emerite	ADJ;NOM/ACC;PL;INDF
+emerit	emerită	ADJ;NOM/ACC;NEUT;SG;INDF
+emerit	emerite	ADJ;DAT/GEN;NEUT;SG;INDF
+acces	accesule	N;VOC;SG
+acces	acceselor	N;GEN/DAT;PL;DEF
+acces	accesele	N;NOM/ACC;PL;DEF
+acces	unui acces	N;GEN/DAT;SG;INDF
+acces	acceselor	N;VOC;PL
+acces	niște accese	N;NOM/ACC;SG;INDF
+cunoscut	cunoscuți	ADJ;DAT/GEN;FEM;SG;INDF
+cunoscut	cunoscutului	ADJ;DAT/GEN;MASC;SG;DEF
+cunoscut	cunoscuți	ADJ;NOM/ACC;FEM;SG;INDF
+cunoscut	cunoscute	ADJ;DAT/GEN;PL;INDF
+cunoscut	cunoscutul	ADJ;NOM/ACC;MASC;SG;DEF
+cunoscut	cunoscut	ADJ;NOM/ACC;MASC;SG;INDF
+cunoscut	cunoscutei	ADJ;DAT/GEN;NEUT;SG;DEF
+cunoscut	cunoscuților	ADJ;DAT/GEN;FEM;SG;DEF
+cunoscut	cunoscut	ADJ;DAT/GEN;MASC;SG;INDF
+cunoscut	cunoscutele	ADJ;NOM/ACC;PL;DEF
+cunoscut	cunoscuta	ADJ;NOM/ACC;NEUT;SG;DEF
+cunoscut	cunoscuții	ADJ;NOM/ACC;FEM;SG;DEF
+cunoscut	cunoscutelor	ADJ;DAT/GEN;PL;DEF
+cunoscut	cunoscute	ADJ;NOM/ACC;PL;INDF
+cunoscut	cunoscută	ADJ;NOM/ACC;NEUT;SG;INDF
+cunoscut	cunoscute	ADJ;DAT/GEN;NEUT;SG;INDF
+apar	aparule	N;VOC;SG
+apar	aparilor	N;GEN/DAT;PL;DEF
+apar	aparii	N;NOM/ACC;PL;DEF
+apar	unui apar	N;GEN/DAT;SG;INDF
+apar	aparilor	N;VOC;PL
+apar	niște apari	N;NOM/ACC;SG;INDF
+profesie	profesie	N;VOC;SG
+profesie	profesiilor	N;GEN/DAT;PL;DEF
+profesie	profesiile	N;NOM/ACC;PL;DEF
+profesie	unei profesii	N;GEN/DAT;SG;INDF
+profesie	profesiilor	N;VOC;PL
+profesie	niște profesii	N;NOM/ACC;SG;INDF
+real	reali	ADJ;DAT/GEN;FEM;SG;INDF
+real	realului	ADJ;DAT/GEN;MASC;SG;DEF
+real	reali	ADJ;NOM/ACC;FEM;SG;INDF
+real	reale	ADJ;DAT/GEN;PL;INDF
+real	realul	ADJ;NOM/ACC;MASC;SG;DEF
+real	real	ADJ;NOM/ACC;MASC;SG;INDF
+real	realei	ADJ;DAT/GEN;NEUT;SG;DEF
+real	realilor	ADJ;DAT/GEN;FEM;SG;DEF
+real	real	ADJ;DAT/GEN;MASC;SG;INDF
+real	realele	ADJ;NOM/ACC;PL;DEF
+real	reala	ADJ;NOM/ACC;NEUT;SG;DEF
+real	realii	ADJ;NOM/ACC;FEM;SG;DEF
+real	realelor	ADJ;DAT/GEN;PL;DEF
+real	reale	ADJ;NOM/ACC;PL;INDF
+real	reală	ADJ;NOM/ACC;NEUT;SG;INDF
+real	reale	ADJ;DAT/GEN;NEUT;SG;INDF
+venit	venitule	N;VOC;SG
+venit	veniturilor	N;GEN/DAT;PL;DEF
+venit	veniturile	N;NOM/ACC;PL;DEF
+venit	unui venit	N;GEN/DAT;SG;INDF
+venit	veniturilor	N;VOC;PL
+venit	niște venituri	N;NOM/ACC;SG;INDF
+arăta	arătam	V;IND;PST;1;PL;IPFV
+arăta	arătase	V;IND;PST;3;SG;PRF
+arăta	să arate	V;SBJV;PRS;3;PL
+arăta	arată	V;POS;IMP;2;SG
+arăta	arătăm	V;IND;PRS;1;PL
+arăta	arată	V;IND;PRS;3;PL
+arăta	arătați	V;IND;PRS;2;PL
+arăta	să arătăm	V;SBJV;PRS;1;PL
+arăta	să arăți	V;SBJV;PRS;2;SG
+arăta	să arate	V;SBJV;PRS;3;SG
+arăta	arătarăm	V;IND;PST;1;PL;PFV
+arăta	nu arătați	V;NEG;IMP;3;PL
+arăta	arătară	V;IND;PST;3;PL;PFV
+arăta	arătai	V;IND;PST;2;SG;IPFV
+arăta	arătând	V.CVB;PRS
+arăta	nu arăta	V;NEG;IMP;2;SG
+arăta	arătați	V;POS;IMP;3;PL
+arăta	arătat	V.PTCP;PST
+arăta	arăt	V;IND;PRS;1;SG
+arăta	să arăt	V;SBJV;PRS;1;SG
+arăta	arătaseși	V;IND;PST;2;SG;PRF
+arăta	arată	V;IND;PRS;3;SG
+arăta	să arătați	V;SBJV;PRS;2;PL
+arăta	a arăta	V;NFIN
+arăta	arătaserăm	V;IND;PST;1;PL;PRF
+arăta	arătarăți	V;IND;PST;2;PL;PFV
+arăta	arătai	V;IND;PST;1;SG;PFV
+arăta	arătau	V;IND;PST;3;PL;IPFV
+arăta	arăți	V;IND;PRS;2;SG
+arăta	arătaserăți	V;IND;PST;2;PL;PRF
+arăta	arătam	V;IND;PST;1;SG;IPFV
+arăta	arătă	V;IND;PST;3;SG;PFV
+arăta	arătasem	V;IND;PST;1;SG;PRF
+arăta	arăta	V;IND;PST;3;SG;IPFV
+arăta	arătați	V;IND;PST;2;PL;IPFV
+arăta	arătași	V;IND;PST;2;SG;PFV
+arăta	arătaseră	V;IND;PST;3;PL;PRF
+grădină	grădină	N;VOC;SG
+grădină	grădinilor	N;GEN/DAT;PL;DEF
+grădină	grădinile	N;NOM/ACC;PL;DEF
+grădină	unei grădini	N;GEN/DAT;SG;INDF
+grădină	grădinilor	N;VOC;PL
+grădină	niște grădini	N;NOM/ACC;SG;INDF
+română	română	N;VOC;SG
+română	româna	N;NOM/ACC;PL;DEF
+română	române	N;GEN/DAT;SG;INDF
+română	românei	N;GEN/DAT;PL;DEF
+română	română	N;NOM/ACC;SG;INDF
+atrage	atrageam	V;IND;PST;1;PL;IPFV
+atrage	atrasese	V;IND;PST;3;SG;PRF
+atrage	să atragă	V;SBJV;PRS;3;PL
+atrage	atrage	V;POS;IMP;2;SG
+atrage	atragem	V;IND;PRS;1;PL
+atrage	atrag	V;IND;PRS;3;PL
+atrage	atrageți	V;IND;PRS;2;PL
+atrage	să atragem	V;SBJV;PRS;1;PL
+atrage	să atragi	V;SBJV;PRS;2;SG
+atrage	să atragă	V;SBJV;PRS;3;SG
+atrage	atraserăm	V;IND;PST;1;PL;PFV
+atrage	nu atrageți	V;NEG;IMP;3;PL
+atrage	atraseră	V;IND;PST;3;PL;PFV
+atrage	atrageai	V;IND;PST;2;SG;IPFV
+atrage	atragând	V.CVB;PRS
+atrage	nu atrage	V;NEG;IMP;2;SG
+atrage	atrageți	V;POS;IMP;3;PL
+atrage	atras	V.PTCP;PST
+atrage	atrag	V;IND;PRS;1;SG
+atrage	să atrag	V;SBJV;PRS;1;SG
+atrage	atraseseși	V;IND;PST;2;SG;PRF
+atrage	atrage	V;IND;PRS;3;SG
+atrage	să atrageți	V;SBJV;PRS;2;PL
+atrage	a atrage	V;NFIN
+atrage	atraseserăm	V;IND;PST;1;PL;PRF
+atrage	atraserăți	V;IND;PST;2;PL;PFV
+atrage	atrasei	V;IND;PST;1;SG;PFV
+atrage	atrageau	V;IND;PST;3;PL;IPFV
+atrage	atragi	V;IND;PRS;2;SG
+atrage	atraseserăți	V;IND;PST;2;PL;PRF
+atrage	atrageam	V;IND;PST;1;SG;IPFV
+atrage	atrase	V;IND;PST;3;SG;PFV
+atrage	atrasesem	V;IND;PST;1;SG;PRF
+atrage	atragea	V;IND;PST;3;SG;IPFV
+atrage	atrageați	V;IND;PST;2;PL;IPFV
+atrage	atraseși	V;IND;PST;2;SG;PFV
+atrage	atraseseră	V;IND;PST;3;PL;PRF
+întoarce	întorceam	V;IND;PST;1;PL;IPFV
+întoarce	întorsese	V;IND;PST;3;SG;PRF
+întoarce	să întoarcă	V;SBJV;PRS;3;PL
+întoarce	întoarce	V;POS;IMP;2;SG
+întoarce	întoarcem	V;IND;PRS;1;PL
+întoarce	întorc	V;IND;PRS;3;PL
+întoarce	întoarceți	V;IND;PRS;2;PL
+întoarce	să întoarcem	V;SBJV;PRS;1;PL
+întoarce	să întorci	V;SBJV;PRS;2;SG
+întoarce	să întoarcă	V;SBJV;PRS;3;SG
+întoarce	întoarserăm	V;IND;PST;1;PL;PFV
+întoarce	nu întoarceți	V;NEG;IMP;3;PL
+întoarce	întoarseră	V;IND;PST;3;PL;PFV
+întoarce	întorceai	V;IND;PST;2;SG;IPFV
+întoarce	întorcând	V.CVB;PRS
+întoarce	nu întoarce	V;NEG;IMP;2;SG
+întoarce	întoarceți	V;POS;IMP;3;PL
+întoarce	întors	V.PTCP;PST
+întoarce	întorc	V;IND;PRS;1;SG
+întoarce	să întorc	V;SBJV;PRS;1;SG
+întoarce	întorseseși	V;IND;PST;2;SG;PRF
+întoarce	întoarce	V;IND;PRS;3;SG
+întoarce	să întoarceți	V;SBJV;PRS;2;PL
+întoarce	a întoarce	V;NFIN
+întoarce	întorseserăm	V;IND;PST;1;PL;PRF
+întoarce	întoarserăți	V;IND;PST;2;PL;PFV
+întoarce	întorsei	V;IND;PST;1;SG;PFV
+întoarce	întorceau	V;IND;PST;3;PL;IPFV
+întoarce	întorci	V;IND;PRS;2;SG
+întoarce	întorseserăți	V;IND;PST;2;PL;PRF
+întoarce	întorceam	V;IND;PST;1;SG;IPFV
+întoarce	întoarse	V;IND;PST;3;SG;PFV
+întoarce	întorsesem	V;IND;PST;1;SG;PRF
+întoarce	întorcea	V;IND;PST;3;SG;IPFV
+întoarce	întorceați	V;IND;PST;2;PL;IPFV
+întoarce	întorseși	V;IND;PST;2;SG;PFV
+întoarce	întorseseră	V;IND;PST;3;PL;PRF
+scrie	scriam	V;IND;PST;1;PL;IPFV
+scrie	scrisese	V;IND;PST;3;SG;PRF
+scrie	să scrie	V;SBJV;PRS;3;PL
+scrie	scrie	V;POS;IMP;2;SG
+scrie	scriem	V;IND;PRS;1;PL
+scrie	scriu	V;IND;PRS;3;PL
+scrie	scrieți	V;IND;PRS;2;PL
+scrie	să scriem	V;SBJV;PRS;1;PL
+scrie	să scrii	V;SBJV;PRS;2;SG
+scrie	să scrie	V;SBJV;PRS;3;SG
+scrie	scriserăm	V;IND;PST;1;PL;PFV
+scrie	nu scrieți	V;NEG;IMP;3;PL
+scrie	scriseră	V;IND;PST;3;PL;PFV
+scrie	scriai	V;IND;PST;2;SG;IPFV
+scrie	scriind	V.CVB;PRS
+scrie	nu scrie	V;NEG;IMP;2;SG
+scrie	scrieți	V;POS;IMP;3;PL
+scrie	scris	V.PTCP;PST
+scrie	scriu	V;IND;PRS;1;SG
+scrie	să scriu	V;SBJV;PRS;1;SG
+scrie	scriseseși	V;IND;PST;2;SG;PRF
+scrie	scrie	V;IND;PRS;3;SG
+scrie	să scrieți	V;SBJV;PRS;2;PL
+scrie	a scrie	V;NFIN
+scrie	scriseserăm	V;IND;PST;1;PL;PRF
+scrie	scriserăți	V;IND;PST;2;PL;PFV
+scrie	scrisei	V;IND;PST;1;SG;PFV
+scrie	scriau	V;IND;PST;3;PL;IPFV
+scrie	scrii	V;IND;PRS;2;SG
+scrie	scriseserăți	V;IND;PST;2;PL;PRF
+scrie	scriam	V;IND;PST;1;SG;IPFV
+scrie	scrise	V;IND;PST;3;SG;PFV
+scrie	scrisesem	V;IND;PST;1;SG;PRF
+scrie	scria	V;IND;PST;3;SG;IPFV
+scrie	scriați	V;IND;PST;2;PL;IPFV
+scrie	scriseși	V;IND;PST;2;SG;PFV
+scrie	scriseseră	V;IND;PST;3;PL;PRF
+lanț	lanțule	N;VOC;SG
+lanț	lanțurilor	N;GEN/DAT;PL;DEF
+lanț	lanțurile	N;NOM/ACC;PL;DEF
+lanț	unui lanț	N;GEN/DAT;SG;INDF
+lanț	lanțurilor	N;VOC;PL
+lanț	niște lanțuri	N;NOM/ACC;SG;INDF
+popularitate	popularitate	N;VOC;SG
+popularitate	popularitatea	N;NOM/ACC;PL;DEF
+popularitate	popularități	N;GEN/DAT;SG;INDF
+popularitate	popularității	N;GEN/DAT;PL;DEF
+popularitate	popularitate	N;NOM/ACC;SG;INDF
+jos	joși	ADJ;DAT/GEN;FEM;SG;INDF
+jos	josului	ADJ;DAT/GEN;MASC;SG;DEF
+jos	joși	ADJ;NOM/ACC;FEM;SG;INDF
+jos	joase	ADJ;DAT/GEN;PL;INDF
+jos	josul	ADJ;NOM/ACC;MASC;SG;DEF
+jos	jos	ADJ;NOM/ACC;MASC;SG;INDF
+jos	joasei	ADJ;DAT/GEN;NEUT;SG;DEF
+jos	joșilor	ADJ;DAT/GEN;FEM;SG;DEF
+jos	jos	ADJ;DAT/GEN;MASC;SG;INDF
+jos	joasele	ADJ;NOM/ACC;PL;DEF
+jos	joasa	ADJ;NOM/ACC;NEUT;SG;DEF
+jos	joșii	ADJ;NOM/ACC;FEM;SG;DEF
+jos	joaselor	ADJ;DAT/GEN;PL;DEF
+jos	joase	ADJ;NOM/ACC;PL;INDF
+jos	joasă	ADJ;NOM/ACC;NEUT;SG;INDF
+jos	joase	ADJ;DAT/GEN;NEUT;SG;INDF
+chimist	chimistule	N;VOC;SG
+chimist	chimiștilor	N;GEN/DAT;PL;DEF
+chimist	chimiștii	N;NOM/ACC;PL;DEF
+chimist	unui chimist	N;GEN/DAT;SG;INDF
+chimist	chimiștilor	N;VOC;PL
+chimist	niște chimiști	N;NOM/ACC;SG;INDF
+muri	muream	V;IND;PST;1;PL;IPFV
+muri	murise	V;IND;PST;3;SG;PRF
+muri	să moară	V;SBJV;PRS;3;PL
+muri	mori	V;POS;IMP;2;SG
+muri	murim	V;IND;PRS;1;PL
+muri	mor	V;IND;PRS;3;PL
+muri	muriți	V;IND;PRS;2;PL
+muri	să murim	V;SBJV;PRS;1;PL
+muri	să mori	V;SBJV;PRS;2;SG
+muri	să moară	V;SBJV;PRS;3;SG
+muri	murirăm	V;IND;PST;1;PL;PFV
+muri	nu muriți	V;NEG;IMP;3;PL
+muri	muriră	V;IND;PST;3;PL;PFV
+muri	mureai	V;IND;PST;2;SG;IPFV
+muri	murind	V.CVB;PRS
+muri	nu muri	V;NEG;IMP;2;SG
+muri	muriți	V;POS;IMP;3;PL
+muri	murit	V.PTCP;PST
+muri	mor	V;IND;PRS;1;SG
+muri	să mor	V;SBJV;PRS;1;SG
+muri	muriseși	V;IND;PST;2;SG;PRF
+muri	moare	V;IND;PRS;3;SG
+muri	să muriți	V;SBJV;PRS;2;PL
+muri	a muri	V;NFIN
+muri	muriserăm	V;IND;PST;1;PL;PRF
+muri	murirăți	V;IND;PST;2;PL;PFV
+muri	murii	V;IND;PST;1;SG;PFV
+muri	mureau	V;IND;PST;3;PL;IPFV
+muri	mori	V;IND;PRS;2;SG
+muri	muriserăți	V;IND;PST;2;PL;PRF
+muri	muream	V;IND;PST;1;SG;IPFV
+muri	muri	V;IND;PST;3;SG;PFV
+muri	murisem	V;IND;PST;1;SG;PRF
+muri	murea	V;IND;PST;3;SG;IPFV
+muri	mureați	V;IND;PST;2;PL;IPFV
+muri	muriși	V;IND;PST;2;SG;PFV
+muri	muriseră	V;IND;PST;3;PL;PRF
+temperatură	temperatură	N;VOC;SG
+temperatură	temperaturilor	N;GEN/DAT;PL;DEF
+temperatură	temperaturile	N;NOM/ACC;PL;DEF
+temperatură	unei temperaturi	N;GEN/DAT;SG;INDF
+temperatură	temperaturilor	N;VOC;PL
+temperatură	niște temperaturi	N;NOM/ACC;SG;INDF
+viitor	viitorurilor	ADJ;DAT/GEN;FEM;SG;INDF
+viitor	viitorule	ADJ;DAT/GEN;MASC;SG;DEF
+viitor	definite articulation	ADJ;NOM/ACC;FEM;SG;INDF
+viitor	un viitor	ADJ;NOM/ACC;MASC;SG;DEF
+viitor	definite articulation	ADJ;NOM/ACC;MASC;SG;INDF
+viitor	viitorurilor	ADJ;DAT/GEN;NEUT;SG;DEF
+viitor	viitorului	ADJ;DAT/GEN;MASC;SG;INDF
+viitor	viitorurile	ADJ;NOM/ACC;PL;DEF
+viitor	viitorul	ADJ;NOM/ACC;NEUT;SG;DEF
+viitor	indefinite articulation	ADJ;NOM/ACC;NEUT;SG;INDF
+viitor	niște viitoruri	ADJ;NOM/ACC;FEM;SG;DEF
+viitor	unor viitoruri	ADJ;DAT/GEN;NEUT;SG;INDF
+scurt	scurți	ADJ;DAT/GEN;FEM;SG;INDF
+scurt	scurtului	ADJ;DAT/GEN;MASC;SG;DEF
+scurt	scurți	ADJ;NOM/ACC;FEM;SG;INDF
+scurt	scurte	ADJ;DAT/GEN;PL;INDF
+scurt	scurtul	ADJ;NOM/ACC;MASC;SG;DEF
+scurt	scurt	ADJ;NOM/ACC;MASC;SG;INDF
+scurt	scurtei	ADJ;DAT/GEN;NEUT;SG;DEF
+scurt	scurților	ADJ;DAT/GEN;FEM;SG;DEF
+scurt	scurt	ADJ;DAT/GEN;MASC;SG;INDF
+scurt	scurtele	ADJ;NOM/ACC;PL;DEF
+scurt	scurta	ADJ;NOM/ACC;NEUT;SG;DEF
+scurt	scurții	ADJ;NOM/ACC;FEM;SG;DEF
+scurt	scurtelor	ADJ;DAT/GEN;PL;DEF
+scurt	scurte	ADJ;NOM/ACC;PL;INDF
+scurt	scurtă	ADJ;NOM/ACC;NEUT;SG;INDF
+scurt	scurte	ADJ;DAT/GEN;NEUT;SG;INDF
+copil	copilule	N;VOC;SG
+copil	copiilor	N;GEN/DAT;PL;DEF
+copil	copiii	N;NOM/ACC;PL;DEF
+copil	unui copil	N;GEN/DAT;SG;INDF
+copil	copiilor	N;VOC;PL
+copil	niște copii	N;NOM/ACC;SG;INDF
+săptămână	săptămână	N;VOC;SG
+săptămână	săptămânilor	N;GEN/DAT;PL;DEF
+săptămână	săptămânile	N;NOM/ACC;PL;DEF
+săptămână	unei săptămâni	N;GEN/DAT;SG;INDF
+săptămână	săptămânilor	N;VOC;PL
+săptămână	niște săptămâni	N;NOM/ACC;SG;INDF
+seninătate	seninătate	N;VOC;SG
+seninătate	seninătăților	N;GEN/DAT;PL;DEF
+seninătate	seninătățile	N;NOM/ACC;PL;DEF
+seninătate	unei seninătăți	N;GEN/DAT;SG;INDF
+seninătate	seninătăților	N;VOC;PL
+seninătate	niște seninătăți	N;NOM/ACC;SG;INDF
+prefera	preferam	V;IND;PST;1;PL;IPFV
+prefera	preferase	V;IND;PST;3;SG;PRF
+prefera	să prefere	V;SBJV;PRS;3;PL
+prefera	preferă	V;POS;IMP;2;SG
+prefera	preferăm	V;IND;PRS;1;PL
+prefera	preferă	V;IND;PRS;3;PL
+prefera	preferați	V;IND;PRS;2;PL
+prefera	să preferăm	V;SBJV;PRS;1;PL
+prefera	să preferi	V;SBJV;PRS;2;SG
+prefera	să prefere	V;SBJV;PRS;3;SG
+prefera	preferarăm	V;IND;PST;1;PL;PFV
+prefera	nu preferați	V;NEG;IMP;3;PL
+prefera	preferară	V;IND;PST;3;PL;PFV
+prefera	preferai	V;IND;PST;2;SG;IPFV
+prefera	preferând	V.CVB;PRS
+prefera	nu prefera	V;NEG;IMP;2;SG
+prefera	preferați	V;POS;IMP;3;PL
+prefera	preferat	V.PTCP;PST
+prefera	prefer	V;IND;PRS;1;SG
+prefera	să prefer	V;SBJV;PRS;1;SG
+prefera	preferaseși	V;IND;PST;2;SG;PRF
+prefera	preferă	V;IND;PRS;3;SG
+prefera	să preferați	V;SBJV;PRS;2;PL
+prefera	a prefera	V;NFIN
+prefera	preferaserăm	V;IND;PST;1;PL;PRF
+prefera	preferarăți	V;IND;PST;2;PL;PFV
+prefera	preferai	V;IND;PST;1;SG;PFV
+prefera	preferau	V;IND;PST;3;PL;IPFV
+prefera	preferi	V;IND;PRS;2;SG
+prefera	preferaserăți	V;IND;PST;2;PL;PRF
+prefera	preferam	V;IND;PST;1;SG;IPFV
+prefera	preferă	V;IND;PST;3;SG;PFV
+prefera	preferasem	V;IND;PST;1;SG;PRF
+prefera	prefera	V;IND;PST;3;SG;IPFV
+prefera	preferați	V;IND;PST;2;PL;IPFV
+prefera	preferași	V;IND;PST;2;SG;PFV
+prefera	preferaseră	V;IND;PST;3;PL;PRF
+înțelege	înțelegeam	V;IND;PST;1;PL;IPFV
+înțelege	înțelesese	V;IND;PST;3;SG;PRF
+înțelege	să înțeleagă	V;SBJV;PRS;3;PL
+înțelege	înțelege	V;POS;IMP;2;SG
+înțelege	înțelegem	V;IND;PRS;1;PL
+înțelege	înțeleg	V;IND;PRS;3;PL
+înțelege	înțelegeți	V;IND;PRS;2;PL
+înțelege	să înțelegem	V;SBJV;PRS;1;PL
+înțelege	să înțelegi	V;SBJV;PRS;2;SG
+înțelege	să înțeleagă	V;SBJV;PRS;3;SG
+înțelege	înțeleserăm	V;IND;PST;1;PL;PFV
+înțelege	nu înțelegeți	V;NEG;IMP;3;PL
+înțelege	înțeleseră	V;IND;PST;3;PL;PFV
+înțelege	înțelegeai	V;IND;PST;2;SG;IPFV
+înțelege	înțelegând	V.CVB;PRS
+înțelege	nu înțelege	V;NEG;IMP;2;SG
+înțelege	înțelegeți	V;POS;IMP;3;PL
+înțelege	înțeles	V.PTCP;PST
+înțelege	înțeleg	V;IND;PRS;1;SG
+înțelege	să înțeleg	V;SBJV;PRS;1;SG
+înțelege	înțeleseseși	V;IND;PST;2;SG;PRF
+înțelege	înțelege	V;IND;PRS;3;SG
+înțelege	să înțelegeți	V;SBJV;PRS;2;PL
+înțelege	a înțelege	V;NFIN
+înțelege	înțeleseserăm	V;IND;PST;1;PL;PRF
+înțelege	înțeleserăți	V;IND;PST;2;PL;PFV
+înțelege	înțelesei	V;IND;PST;1;SG;PFV
+înțelege	înțelegeau	V;IND;PST;3;PL;IPFV
+înțelege	înțelegi	V;IND;PRS;2;SG
+înțelege	înțeleseserăți	V;IND;PST;2;PL;PRF
+înțelege	înțelegeam	V;IND;PST;1;SG;IPFV
+înțelege	înțelese	V;IND;PST;3;SG;PFV
+înțelege	înțelesesem	V;IND;PST;1;SG;PRF
+înțelege	înțelegea	V;IND;PST;3;SG;IPFV
+înțelege	înțelegeați	V;IND;PST;2;PL;IPFV
+înțelege	înțeleseși	V;IND;PST;2;SG;PFV
+înțelege	înțeleseseră	V;IND;PST;3;PL;PRF
+baza	bazam	V;IND;PST;1;PL;IPFV
+baza	bazase	V;IND;PST;3;SG;PRF
+baza	să bazeze	V;SBJV;PRS;3;PL
+baza	bazează	V;POS;IMP;2;SG
+baza	bazăm	V;IND;PRS;1;PL
+baza	bazează	V;IND;PRS;3;PL
+baza	bazați	V;IND;PRS;2;PL
+baza	să bazăm	V;SBJV;PRS;1;PL
+baza	să bazezi	V;SBJV;PRS;2;SG
+baza	să bazeze	V;SBJV;PRS;3;SG
+baza	bazarăm	V;IND;PST;1;PL;PFV
+baza	nu bazați	V;NEG;IMP;3;PL
+baza	bazară	V;IND;PST;3;PL;PFV
+baza	bazai	V;IND;PST;2;SG;IPFV
+baza	bazând	V.CVB;PRS
+baza	nu baza	V;NEG;IMP;2;SG
+baza	bazați	V;POS;IMP;3;PL
+baza	bazat	V.PTCP;PST
+baza	bazez	V;IND;PRS;1;SG
+baza	să bazez	V;SBJV;PRS;1;SG
+baza	bazaseși	V;IND;PST;2;SG;PRF
+baza	bazează	V;IND;PRS;3;SG
+baza	să bazați	V;SBJV;PRS;2;PL
+baza	a baza	V;NFIN
+baza	bazaserăm	V;IND;PST;1;PL;PRF
+baza	bazarăți	V;IND;PST;2;PL;PFV
+baza	bazai	V;IND;PST;1;SG;PFV
+baza	bazau	V;IND;PST;3;PL;IPFV
+baza	bazezi	V;IND;PRS;2;SG
+baza	bazaserăți	V;IND;PST;2;PL;PRF
+baza	bazam	V;IND;PST;1;SG;IPFV
+baza	bază	V;IND;PST;3;SG;PFV
+baza	bazasem	V;IND;PST;1;SG;PRF
+baza	baza	V;IND;PST;3;SG;IPFV
+baza	bazați	V;IND;PST;2;PL;IPFV
+baza	bazași	V;IND;PST;2;SG;PFV
+baza	bazaseră	V;IND;PST;3;PL;PRF
+literatură	literatură	N;VOC;SG
+literatură	literaturilor	N;GEN/DAT;PL;DEF
+literatură	literaturile	N;NOM/ACC;PL;DEF
+literatură	unei literaturi	N;GEN/DAT;SG;INDF
+literatură	literaturilor	N;VOC;PL
+literatură	niște literaturi	N;NOM/ACC;SG;INDF
+mic	mici	ADJ;DAT/GEN;FEM;SG;INDF
+mic	micului	ADJ;DAT/GEN;MASC;SG;DEF
+mic	mici	ADJ;NOM/ACC;FEM;SG;INDF
+mic	mici	ADJ;DAT/GEN;PL;INDF
+mic	micul	ADJ;NOM/ACC;MASC;SG;DEF
+mic	mic	ADJ;NOM/ACC;MASC;SG;INDF
+mic	micii	ADJ;DAT/GEN;NEUT;SG;DEF
+mic	micilor	ADJ;DAT/GEN;FEM;SG;DEF
+mic	mic	ADJ;DAT/GEN;MASC;SG;INDF
+mic	micile	ADJ;NOM/ACC;PL;DEF
+mic	mica	ADJ;NOM/ACC;NEUT;SG;DEF
+mic	micii	ADJ;NOM/ACC;FEM;SG;DEF
+mic	micilor	ADJ;DAT/GEN;PL;DEF
+mic	mici	ADJ;NOM/ACC;PL;INDF
+mic	mică	ADJ;NOM/ACC;NEUT;SG;INDF
+mic	mici	ADJ;DAT/GEN;NEUT;SG;INDF
+persan	persanilor	ADJ;DAT/GEN;FEM;SG;INDF
+persan	persanule	ADJ;DAT/GEN;MASC;SG;DEF
+persan	definite articulation	ADJ;NOM/ACC;FEM;SG;INDF
+persan	un persan	ADJ;NOM/ACC;MASC;SG;DEF
+persan	definite articulation	ADJ;NOM/ACC;MASC;SG;INDF
+persan	persanilor	ADJ;DAT/GEN;NEUT;SG;DEF
+persan	persanului	ADJ;DAT/GEN;MASC;SG;INDF
+persan	persanii	ADJ;NOM/ACC;PL;DEF
+persan	persanul	ADJ;NOM/ACC;NEUT;SG;DEF
+persan	indefinite articulation	ADJ;NOM/ACC;NEUT;SG;INDF
+persan	niște persani	ADJ;NOM/ACC;FEM;SG;DEF
+persan	unor persani	ADJ;DAT/GEN;NEUT;SG;INDF
+surpriză	surpriză	N;VOC;SG
+surpriză	surprizelor	N;GEN/DAT;PL;DEF
+surpriză	surprizele	N;NOM/ACC;PL;DEF
+surpriză	unei surprize	N;GEN/DAT;SG;INDF
+surpriză	surprizelor	N;VOC;PL
+surpriză	niște surprize	N;NOM/ACC;SG;INDF
+lua	luam	V;IND;PST;1;PL;IPFV
+lua	luase	V;IND;PST;3;SG;PRF
+lua	să ia	V;SBJV;PRS;3;PL
+lua	ia	V;POS;IMP;2;SG
+lua	luăm	V;IND;PRS;1;PL
+lua	iau	V;IND;PRS;3;PL
+lua	luați	V;IND;PRS;2;PL
+lua	să luăm	V;SBJV;PRS;1;PL
+lua	să iei	V;SBJV;PRS;2;SG
+lua	să ia	V;SBJV;PRS;3;SG
+lua	luarăm	V;IND;PST;1;PL;PFV
+lua	nu luați	V;NEG;IMP;3;PL
+lua	luară	V;IND;PST;3;PL;PFV
+lua	luai	V;IND;PST;2;SG;IPFV
+lua	luând	V.CVB;PRS
+lua	nu lua	V;NEG;IMP;2;SG
+lua	luați	V;POS;IMP;3;PL
+lua	luat	V.PTCP;PST
+lua	iau	V;IND;PRS;1;SG
+lua	să iau	V;SBJV;PRS;1;SG
+lua	luaseși	V;IND;PST;2;SG;PRF
+lua	ia	V;IND;PRS;3;SG
+lua	să luați	V;SBJV;PRS;2;PL
+lua	a lua	V;NFIN
+lua	luaserăm	V;IND;PST;1;PL;PRF
+lua	luarăți	V;IND;PST;2;PL;PFV
+lua	luai	V;IND;PST;1;SG;PFV
+lua	luau	V;IND;PST;3;PL;IPFV
+lua	iei	V;IND;PRS;2;SG
+lua	luaserăți	V;IND;PST;2;PL;PRF
+lua	luam	V;IND;PST;1;SG;IPFV
+lua	luă	V;IND;PST;3;SG;PFV
+lua	luasem	V;IND;PST;1;SG;PRF
+lua	lua	V;IND;PST;3;SG;IPFV
+lua	luați	V;IND;PST;2;PL;IPFV
+lua	luași	V;IND;PST;2;SG;PFV
+lua	luaseră	V;IND;PST;3;PL;PRF

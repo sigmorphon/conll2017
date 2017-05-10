@@ -1,0 +1,731 @@
+commutatio		N;NOM;PL
+commutatio		N;VOC;SG
+commutatio		N;GEN;SG
+commutatio		N;GEN;PL
+commutatio		N;NOM;SG
+commutatio		N;DAT;SG
+commutatio		N;ACC;PL
+commutatio		N;ACC;SG
+commutatio	commūtātiōnēs	N;VOC;PL
+commutatio		N;ABL;PL
+commutatio		N;ABL;SG
+commutatio		N;DAT;PL
+facultas		N;NOM;PL
+facultas		N;VOC;SG
+facultas		N;GEN;SG
+facultas		N;GEN;PL
+facultas		N;NOM;SG
+facultas		N;DAT;SG
+facultas		N;ACC;PL
+facultas		N;ACC;SG
+facultas		N;VOC;PL
+facultas	facultātibus	N;ABL;PL
+facultas		N;ABL;SG
+facultas		N;DAT;PL
+annuus		ADJ;NOM;MASC;PL
+annuus		ADJ;ABL;FEM;SG
+annuus	annuum	ADJ;ACC;MASC;SG
+annuus		ADJ;DAT;FEM;SG
+annuus		ADJ;ABL;NEUT;SG
+annuus		ADJ;VOC;MASC;PL
+annuus		ADJ;ACC;FEM;SG
+annuus		ADJ;GEN;MASC;SG
+annuus		ADJ;GEN;NEUT;SG
+annuus		ADJ;ACC;NEUT;PL
+annuus		ADJ;NOM;FEM;PL
+annuus	annua	ADJ;NOM;NEUT;PL
+annuus		ADJ;NOM;MASC;SG
+annuus		ADJ;VOC;NEUT;SG
+annuus	annuō	ADJ;DAT;MASC;SG
+annuus		ADJ;ACC;MASC;PL
+annuus		ADJ;ACC;FEM;PL
+annuus		ADJ;ABL;MASC;SG
+annuus		ADJ;GEN;FEM;SG
+annuus		ADJ;NOM;NEUT;SG
+annuus		ADJ;ACC;NEUT;SG
+annuus		ADJ;VOC;FEM;PL
+annuus		ADJ;VOC;NEUT;PL
+annuus		ADJ;GEN;MASC;PL
+annuus		ADJ;GEN;FEM;PL
+annuus		ADJ;GEN;NEUT;PL
+annuus	annua	ADJ;VOC;FEM;SG
+annuus		ADJ;ABL; PL
+annuus	annuīs	ADJ;DAT;NEUT;SG
+annuus		ADJ;VOC;MASC;SG
+annuus		ADJ;NOM;FEM;SG
+cappella		N;NOM;PL
+cappella		N;VOC;SG
+cappella		N;GEN;SG
+cappella	cappellārum	N;GEN;PL
+cappella		N;NOM;SG
+cappella		N;DAT;SG
+cappella		N;ACC;PL
+cappella		N;ACC;SG
+cappella		N;VOC;PL
+cappella		N;ABL;PL
+cappella		N;ABL;SG
+cappella		N;DAT;PL
+musculus		N;NOM;PL
+musculus		N;VOC;SG
+musculus		N;GEN;SG
+musculus		N;GEN;PL
+musculus		N;NOM;SG
+musculus		N;DAT;SG
+musculus	mūsculōs	N;ACC;PL
+musculus		N;ACC;SG
+musculus		N;VOC;PL
+musculus		N;ABL;PL
+musculus		N;ABL;SG
+musculus		N;DAT;PL
+ducatus		N;NOM;PL
+ducatus		N;VOC;SG
+ducatus		N;GEN;SG
+ducatus	ducātuum	N;GEN;PL
+ducatus		N;NOM;SG
+ducatus		N;DAT;SG
+ducatus		N;ACC;PL
+ducatus		N;ACC;SG
+ducatus		N;VOC;PL
+ducatus		N;ABL;PL
+ducatus		N;ABL;SG
+ducatus		N;DAT;PL
+arabicus	arabicī	ADJ;NOM;MASC;PL
+arabicus		ADJ;ABL;FEM;SG
+arabicus		ADJ;ACC;MASC;SG
+arabicus		ADJ;DAT;FEM;SG
+arabicus		ADJ;ABL;NEUT;SG
+arabicus		ADJ;VOC;MASC;PL
+arabicus		ADJ;ACC;FEM;SG
+arabicus		ADJ;GEN;MASC;SG
+arabicus		ADJ;GEN;NEUT;SG
+arabicus		ADJ;ACC;NEUT;PL
+arabicus		ADJ;NOM;FEM;PL
+arabicus	arabica	ADJ;NOM;NEUT;PL
+arabicus		ADJ;NOM;MASC;SG
+arabicus	arabicum	ADJ;VOC;NEUT;SG
+arabicus		ADJ;DAT;MASC;SG
+arabicus		ADJ;ACC;MASC;PL
+arabicus		ADJ;ACC;FEM;PL
+arabicus		ADJ;ABL;MASC;SG
+arabicus	arabicae	ADJ;GEN;FEM;SG
+arabicus		ADJ;NOM;NEUT;SG
+arabicus		ADJ;ACC;NEUT;SG
+arabicus		ADJ;VOC;FEM;PL
+arabicus		ADJ;VOC;NEUT;PL
+arabicus		ADJ;GEN;MASC;PL
+arabicus		ADJ;GEN;FEM;PL
+arabicus		ADJ;GEN;NEUT;PL
+arabicus		ADJ;VOC;FEM;SG
+arabicus		ADJ;ABL; PL
+arabicus	arabicīs	ADJ;DAT;NEUT;SG
+arabicus		ADJ;VOC;MASC;SG
+arabicus		ADJ;NOM;FEM;SG
+expeditio	expedītiōnēs	N;NOM;PL
+expeditio		N;VOC;SG
+expeditio		N;GEN;SG
+expeditio		N;GEN;PL
+expeditio		N;NOM;SG
+expeditio		N;DAT;SG
+expeditio		N;ACC;PL
+expeditio		N;ACC;SG
+expeditio		N;VOC;PL
+expeditio		N;ABL;PL
+expeditio		N;ABL;SG
+expeditio		N;DAT;PL
+patrius		ADJ;NOM;MASC;PL
+patrius		ADJ;ABL;FEM;SG
+patrius		ADJ;ACC;MASC;SG
+patrius		ADJ;DAT;FEM;SG
+patrius		ADJ;ABL;NEUT;SG
+patrius	patriī	ADJ;VOC;MASC;PL
+patrius		ADJ;ACC;FEM;SG
+patrius	patriī	ADJ;GEN;MASC;SG
+patrius		ADJ;GEN;NEUT;SG
+patrius		ADJ;ACC;NEUT;PL
+patrius		ADJ;NOM;FEM;PL
+patrius		ADJ;NOM;NEUT;PL
+patrius		ADJ;NOM;MASC;SG
+patrius		ADJ;VOC;NEUT;SG
+patrius		ADJ;DAT;MASC;SG
+patrius		ADJ;ACC;MASC;PL
+patrius		ADJ;ACC;FEM;PL
+patrius	patriō	ADJ;ABL;MASC;SG
+patrius		ADJ;GEN;FEM;SG
+patrius		ADJ;NOM;NEUT;SG
+patrius		ADJ;ACC;NEUT;SG
+patrius		ADJ;VOC;FEM;PL
+patrius		ADJ;VOC;NEUT;PL
+patrius		ADJ;GEN;MASC;PL
+patrius		ADJ;GEN;FEM;PL
+patrius		ADJ;GEN;NEUT;PL
+patrius	patria	ADJ;VOC;FEM;SG
+patrius		ADJ;ABL; PL
+patrius		ADJ;DAT;NEUT;SG
+patrius		ADJ;VOC;MASC;SG
+patrius	patria	ADJ;NOM;FEM;SG
+basis	basēs	N;NOM;PL
+basis		N;VOC;SG
+basis		N;GEN;SG
+basis		N;GEN;PL
+basis		N;NOM;SG
+basis		N;DAT;SG
+basis		N;ACC;PL
+basis		N;ACC;SG
+basis		N;VOC;PL
+basis		N;ABL;PL
+basis		N;ABL;SG
+basis		N;DAT;PL
+heros	hērōibus	N;NOM;PL
+heros		N;GEN;PL
+heros		N;NOM;SG
+heros		N;GEN;SG
+heros		N;DAT;SG
+heros		N;ACC;PL
+heros		N;ACC;SG
+heros		N;DAT;PL
+automaton		N;NOM;PL
+automaton		N;VOC;SG
+automaton		N;GEN;SG
+automaton		N;GEN;PL
+automaton		N;NOM;SG
+automaton	automatī	N;DAT;SG
+automaton		N;ACC;PL
+automaton		N;ACC;SG
+automaton		N;VOC;PL
+automaton		N;ABL;PL
+automaton		N;ABL;SG
+automaton		N;DAT;PL
+lanatus		ADJ;NOM;MASC;PL
+lanatus		ADJ;ABL;FEM;SG
+lanatus		ADJ;ACC;MASC;SG
+lanatus		ADJ;DAT;FEM;SG
+lanatus	lānātō	ADJ;ABL;NEUT;SG
+lanatus		ADJ;VOC;MASC;PL
+lanatus		ADJ;ACC;FEM;SG
+lanatus		ADJ;GEN;MASC;SG
+lanatus		ADJ;GEN;NEUT;SG
+lanatus		ADJ;ACC;NEUT;PL
+lanatus	lānātae	ADJ;NOM;FEM;PL
+lanatus		ADJ;NOM;NEUT;PL
+lanatus		ADJ;NOM;MASC;SG
+lanatus	lānātum	ADJ;VOC;NEUT;SG
+lanatus		ADJ;DAT;MASC;SG
+lanatus		ADJ;ACC;MASC;PL
+lanatus		ADJ;ACC;FEM;PL
+lanatus		ADJ;ABL;MASC;SG
+lanatus		ADJ;GEN;FEM;SG
+lanatus		ADJ;NOM;NEUT;SG
+lanatus		ADJ;ACC;NEUT;SG
+lanatus		ADJ;VOC;FEM;PL
+lanatus		ADJ;VOC;NEUT;PL
+lanatus	lānātōrum	ADJ;GEN;MASC;PL
+lanatus		ADJ;GEN;FEM;PL
+lanatus		ADJ;GEN;NEUT;PL
+lanatus		ADJ;VOC;FEM;SG
+lanatus		ADJ;ABL; PL
+lanatus		ADJ;DAT;NEUT;SG
+lanatus		ADJ;VOC;MASC;SG
+lanatus	lānāta	ADJ;NOM;FEM;SG
+iteratio		N;NOM;PL
+iteratio		N;VOC;SG
+iteratio		N;GEN;SG
+iteratio		N;GEN;PL
+iteratio		N;NOM;SG
+iteratio		N;DAT;SG
+iteratio		N;ACC;PL
+iteratio		N;ACC;SG
+iteratio	iterātiōnēs	N;VOC;PL
+iteratio		N;ABL;PL
+iteratio		N;ABL;SG
+iteratio		N;DAT;PL
+negotiator	negōtiātōribus	N;NOM;PL
+negotiator		N;GEN;PL
+negotiator		N;NOM;SG
+negotiator		N;GEN;SG
+negotiator		N;DAT;SG
+negotiator		N;ACC;PL
+negotiator		N;ACC;SG
+negotiator		N;DAT;PL
+parasitus		N;NOM;PL
+parasitus		N;VOC;SG
+parasitus		N;GEN;SG
+parasitus		N;GEN;PL
+parasitus		N;NOM;SG
+parasitus	parasītō	N;DAT;SG
+parasitus		N;ACC;PL
+parasitus		N;ACC;SG
+parasitus		N;VOC;PL
+parasitus		N;ABL;PL
+parasitus		N;ABL;SG
+parasitus		N;DAT;PL
+praeceptor		N;NOM;PL
+praeceptor		N;VOC;SG
+praeceptor		N;GEN;SG
+praeceptor		N;GEN;PL
+praeceptor		N;NOM;SG
+praeceptor		N;DAT;SG
+praeceptor		N;ACC;PL
+praeceptor		N;ACC;SG
+praeceptor		N;VOC;PL
+praeceptor	praeceptōribus	N;ABL;PL
+praeceptor		N;ABL;SG
+praeceptor		N;DAT;PL
+novicius		ADJ;NOM;MASC;PL
+novicius		ADJ;ABL;FEM;SG
+novicius		ADJ;ACC;MASC;SG
+novicius		ADJ;DAT;FEM;SG
+novicius		ADJ;ABL;NEUT;SG
+novicius	novīciī	ADJ;VOC;MASC;PL
+novicius		ADJ;ACC;FEM;SG
+novicius		ADJ;GEN;MASC;SG
+novicius		ADJ;GEN;NEUT;SG
+novicius		ADJ;ACC;NEUT;PL
+novicius		ADJ;NOM;FEM;PL
+novicius		ADJ;NOM;NEUT;PL
+novicius		ADJ;NOM;MASC;SG
+novicius		ADJ;VOC;NEUT;SG
+novicius		ADJ;DAT;MASC;SG
+novicius		ADJ;ACC;MASC;PL
+novicius		ADJ;ACC;FEM;PL
+novicius		ADJ;ABL;MASC;SG
+novicius		ADJ;GEN;FEM;SG
+novicius	novīcium	ADJ;NOM;NEUT;SG
+novicius		ADJ;ACC;NEUT;SG
+novicius		ADJ;VOC;FEM;PL
+novicius		ADJ;VOC;NEUT;PL
+novicius	novīciōrum	ADJ;GEN;MASC;PL
+novicius		ADJ;GEN;FEM;PL
+novicius		ADJ;GEN;NEUT;PL
+novicius		ADJ;VOC;FEM;SG
+novicius		ADJ;ABL; PL
+novicius	novīciīs	ADJ;DAT;NEUT;SG
+novicius	novīcie	ADJ;VOC;MASC;SG
+novicius		ADJ;NOM;FEM;SG
+selectio		N;NOM;PL
+selectio		N;VOC;SG
+selectio		N;GEN;SG
+selectio	sēlēctiōnum	N;GEN;PL
+selectio		N;NOM;SG
+selectio		N;DAT;SG
+selectio		N;ACC;PL
+selectio		N;ACC;SG
+selectio		N;VOC;PL
+selectio		N;ABL;PL
+selectio		N;ABL;SG
+selectio		N;DAT;PL
+discordia		N;NOM;PL
+discordia		N;VOC;SG
+discordia		N;GEN;SG
+discordia		N;GEN;PL
+discordia		N;NOM;SG
+discordia		N;DAT;SG
+discordia		N;ACC;PL
+discordia		N;ACC;SG
+discordia		N;VOC;PL
+discordia		N;ABL;PL
+discordia	discordiā	N;ABL;SG
+discordia		N;DAT;PL
+mutatio		N;NOM;PL
+mutatio		N;VOC;SG
+mutatio		N;GEN;SG
+mutatio		N;GEN;PL
+mutatio		N;NOM;SG
+mutatio		N;DAT;SG
+mutatio		N;ACC;PL
+mutatio	mūtātiōnem	N;ACC;SG
+mutatio		N;VOC;PL
+mutatio		N;ABL;PL
+mutatio		N;ABL;SG
+mutatio		N;DAT;PL
+funus		N;NOM;PL
+funus		N;VOC;SG
+funus		N;NOM;SG
+funus		N;GEN;PL
+funus		N;GEN;SG
+funus		N;DAT;SG
+funus		N;ACC;PL
+funus		N;ACC;SG
+funus		N;VOC;PL
+funus		N;ABL;PL
+funus	fūnere	N;ABL;SG
+funus		N;DAT;PL
+ludus		N;NOM;PL
+ludus		N;VOC;SG
+ludus	lūdī	N;GEN;SG
+ludus		N;GEN;PL
+ludus		N;NOM;SG
+ludus		N;DAT;SG
+ludus		N;ACC;PL
+ludus		N;ACC;SG
+ludus		N;VOC;PL
+ludus		N;ABL;PL
+ludus		N;ABL;SG
+ludus		N;DAT;PL
+supplicium		N;NOM;PL
+supplicium		N;VOC;SG
+supplicium		N;GEN;SG
+supplicium		N;GEN;PL
+supplicium		N;NOM;SG
+supplicium		N;DAT;SG
+supplicium	supplicia	N;ACC;PL
+supplicium		N;ACC;SG
+supplicium		N;VOC;PL
+supplicium		N;ABL;PL
+supplicium		N;ABL;SG
+supplicium		N;DAT;PL
+malaria		N;NOM;PL
+malaria		N;VOC;SG
+malaria		N;GEN;SG
+malaria		N;GEN;PL
+malaria		N;NOM;SG
+malaria		N;DAT;SG
+malaria		N;ACC;PL
+malaria	malariam	N;ACC;SG
+malaria		N;VOC;PL
+malaria		N;ABL;PL
+malaria		N;ABL;SG
+malaria		N;DAT;PL
+zerum		N;NOM;PL
+zerum		N;VOC;SG
+zerum		N;GEN;SG
+zerum		N;GEN;PL
+zerum		N;NOM;SG
+zerum	zerō	N;DAT;SG
+zerum		N;ACC;PL
+zerum		N;ACC;SG
+zerum		N;VOC;PL
+zerum		N;ABL;PL
+zerum		N;ABL;SG
+zerum		N;DAT;PL
+Sibylla		N;NOM;PL
+Sibylla		N;VOC;SG
+Sibylla	Sibyllae	N;GEN;SG
+Sibylla		N;GEN;PL
+Sibylla		N;NOM;SG
+Sibylla		N;DAT;SG
+Sibylla		N;ACC;PL
+Sibylla		N;ACC;SG
+Sibylla		N;VOC;PL
+Sibylla		N;ABL;PL
+Sibylla		N;ABL;SG
+Sibylla		N;DAT;PL
+gladiator		N;NOM;PL
+gladiator		N;VOC;SG
+gladiator		N;GEN;SG
+gladiator		N;GEN;PL
+gladiator		N;NOM;SG
+gladiator		N;DAT;SG
+gladiator		N;ACC;PL
+gladiator		N;ACC;SG
+gladiator		N;VOC;PL
+gladiator	gladiātōribus	N;ABL;PL
+gladiator		N;ABL;SG
+gladiator		N;DAT;PL
+athleticus		ADJ;NOM;MASC;PL
+athleticus		ADJ;ABL;FEM;SG
+athleticus		ADJ;ACC;MASC;SG
+athleticus		ADJ;DAT;FEM;SG
+athleticus		ADJ;ABL;NEUT;SG
+athleticus		ADJ;VOC;MASC;PL
+athleticus		ADJ;ACC;FEM;SG
+athleticus	āthlēticī	ADJ;GEN;MASC;SG
+athleticus	āthlēticī	ADJ;GEN;NEUT;SG
+athleticus		ADJ;ACC;NEUT;PL
+athleticus		ADJ;NOM;FEM;PL
+athleticus		ADJ;NOM;NEUT;PL
+athleticus		ADJ;NOM;MASC;SG
+athleticus		ADJ;VOC;NEUT;SG
+athleticus		ADJ;DAT;MASC;SG
+athleticus		ADJ;ACC;MASC;PL
+athleticus		ADJ;ACC;FEM;PL
+athleticus		ADJ;ABL;MASC;SG
+athleticus		ADJ;GEN;FEM;SG
+athleticus	āthlēticum	ADJ;NOM;NEUT;SG
+athleticus		ADJ;ACC;NEUT;SG
+athleticus		ADJ;VOC;FEM;PL
+athleticus		ADJ;VOC;NEUT;PL
+athleticus	āthlēticōrum	ADJ;GEN;MASC;PL
+athleticus		ADJ;GEN;FEM;PL
+athleticus		ADJ;GEN;NEUT;PL
+athleticus		ADJ;VOC;FEM;SG
+athleticus		ADJ;ABL; PL
+athleticus	āthlēticīs	ADJ;DAT;NEUT;SG
+athleticus		ADJ;VOC;MASC;SG
+athleticus		ADJ;NOM;FEM;SG
+Saturnus		N;NOM;PL
+Saturnus		N;VOC;SG
+Saturnus	Sāturnī	N;GEN;SG
+Saturnus		N;GEN;PL
+Saturnus		N;NOM;SG
+Saturnus		N;DAT;SG
+Saturnus		N;ACC;PL
+Saturnus		N;ACC;SG
+Saturnus		N;VOC;PL
+Saturnus		N;ABL;PL
+Saturnus		N;ABL;SG
+Saturnus		N;DAT;PL
+rebellio		N;NOM;PL
+rebellio		N;VOC;SG
+rebellio		N;GEN;SG
+rebellio		N;GEN;PL
+rebellio		N;NOM;SG
+rebellio	rebelliōnī	N;DAT;SG
+rebellio		N;ACC;PL
+rebellio		N;ACC;SG
+rebellio		N;VOC;PL
+rebellio		N;ABL;PL
+rebellio		N;ABL;SG
+rebellio		N;DAT;PL
+febris		N;NOM;PL
+febris		N;VOC;SG
+febris		N;GEN;SG
+febris		N;GEN;PL
+febris		N;NOM;SG
+febris		N;DAT;SG
+febris		N;ACC;PL
+febris		N;ACC;SG
+febris	febrēs	N;VOC;PL
+febris		N;ABL;PL
+febris		N;ABL;SG
+febris		N;DAT;PL
+constellatio		N;NOM;PL
+constellatio		N;VOC;SG
+constellatio		N;GEN;SG
+constellatio	cōnstēllātiōnum	N;GEN;PL
+constellatio		N;NOM;SG
+constellatio		N;DAT;SG
+constellatio		N;ACC;PL
+constellatio		N;ACC;SG
+constellatio		N;VOC;PL
+constellatio		N;ABL;PL
+constellatio		N;ABL;SG
+constellatio		N;DAT;PL
+chlorella		N;NOM;PL
+chlorella		N;VOC;SG
+chlorella		N;GEN;SG
+chlorella		N;GEN;PL
+chlorella		N;NOM;SG
+chlorella		N;DAT;SG
+chlorella		N;ACC;PL
+chlorella		N;ACC;SG
+chlorella		N;VOC;PL
+chlorella	chlōrellīs	N;ABL;PL
+chlorella		N;ABL;SG
+chlorella		N;DAT;PL
+notio		N;NOM;PL
+notio		N;VOC;SG
+notio		N;GEN;SG
+notio		N;GEN;PL
+notio		N;NOM;SG
+notio		N;DAT;SG
+notio		N;ACC;PL
+notio		N;ACC;SG
+notio		N;VOC;PL
+notio	nōtiōnibus	N;ABL;PL
+notio		N;ABL;SG
+notio		N;DAT;PL
+potentissimus		ADJ;NOM;MASC;PL
+potentissimus	potentissimā	ADJ;ABL;FEM;SG
+potentissimus		ADJ;ACC;MASC;SG
+potentissimus		ADJ;DAT;FEM;SG
+potentissimus		ADJ;ABL;NEUT;SG
+potentissimus		ADJ;VOC;MASC;PL
+potentissimus		ADJ;ACC;FEM;SG
+potentissimus		ADJ;GEN;MASC;SG
+potentissimus		ADJ;GEN;NEUT;SG
+potentissimus	potentissima	ADJ;ACC;NEUT;PL
+potentissimus		ADJ;NOM;FEM;PL
+potentissimus		ADJ;NOM;NEUT;PL
+potentissimus		ADJ;NOM;MASC;SG
+potentissimus		ADJ;VOC;NEUT;SG
+potentissimus	potentissimō	ADJ;DAT;MASC;SG
+potentissimus		ADJ;ACC;MASC;PL
+potentissimus	potentissimās	ADJ;ACC;FEM;PL
+potentissimus		ADJ;ABL;MASC;SG
+potentissimus		ADJ;GEN;FEM;SG
+potentissimus		ADJ;NOM;NEUT;SG
+potentissimus		ADJ;ACC;NEUT;SG
+potentissimus		ADJ;VOC;FEM;PL
+potentissimus		ADJ;VOC;NEUT;PL
+potentissimus		ADJ;GEN;MASC;PL
+potentissimus		ADJ;GEN;FEM;PL
+potentissimus		ADJ;GEN;NEUT;PL
+potentissimus		ADJ;VOC;FEM;SG
+potentissimus		ADJ;ABL; PL
+potentissimus	potentissimīs	ADJ;DAT;NEUT;SG
+potentissimus		ADJ;VOC;MASC;SG
+potentissimus		ADJ;NOM;FEM;SG
+terminus		N;NOM;PL
+terminus	termine	N;VOC;SG
+terminus		N;GEN;SG
+terminus		N;GEN;PL
+terminus		N;NOM;SG
+terminus		N;DAT;SG
+terminus		N;ACC;PL
+terminus		N;ACC;SG
+terminus		N;VOC;PL
+terminus		N;ABL;PL
+terminus		N;ABL;SG
+terminus		N;DAT;PL
+rector		N;NOM;PL
+rector		N;VOC;SG
+rector		N;GEN;SG
+rector		N;GEN;PL
+rector		N;NOM;SG
+rector		N;DAT;SG
+rector	rēctōrēs	N;ACC;PL
+rector		N;ACC;SG
+rector		N;VOC;PL
+rector		N;ABL;PL
+rector		N;ABL;SG
+rector		N;DAT;PL
+sectator		N;NOM;PL
+sectator		N;VOC;SG
+sectator		N;GEN;SG
+sectator	sectātōrum	N;GEN;PL
+sectator		N;NOM;SG
+sectator		N;DAT;SG
+sectator		N;ACC;PL
+sectator		N;ACC;SG
+sectator		N;VOC;PL
+sectator		N;ABL;PL
+sectator		N;ABL;SG
+sectator		N;DAT;PL
+basilica		N;NOM;PL
+basilica		N;VOC;SG
+basilica		N;GEN;SG
+basilica	basilicārum	N;GEN;PL
+basilica		N;NOM;SG
+basilica		N;DAT;SG
+basilica		N;ACC;PL
+basilica		N;ACC;SG
+basilica		N;VOC;PL
+basilica		N;ABL;PL
+basilica		N;ABL;SG
+basilica		N;DAT;PL
+scaena		N;NOM;PL
+scaena		N;VOC;SG
+scaena	scaenae	N;GEN;SG
+scaena		N;GEN;PL
+scaena		N;NOM;SG
+scaena		N;DAT;SG
+scaena		N;ACC;PL
+scaena		N;ACC;SG
+scaena		N;VOC;PL
+scaena		N;ABL;PL
+scaena		N;ABL;SG
+scaena		N;DAT;PL
+coniunctum		N;NOM;PL
+coniunctum		N;VOC;SG
+coniunctum		N;GEN;SG
+coniunctum		N;GEN;PL
+coniunctum		N;NOM;SG
+coniunctum		N;DAT;SG
+coniunctum	coniuncta	N;ACC;PL
+coniunctum		N;ACC;SG
+coniunctum		N;VOC;PL
+coniunctum		N;ABL;PL
+coniunctum		N;ABL;SG
+coniunctum		N;DAT;PL
+versio		N;NOM;PL
+versio		N;VOC;SG
+versio		N;GEN;SG
+versio		N;GEN;PL
+versio		N;NOM;SG
+versio	versiōnī	N;DAT;SG
+versio		N;ACC;PL
+versio		N;ACC;SG
+versio		N;VOC;PL
+versio		N;ABL;PL
+versio		N;ABL;SG
+versio		N;DAT;PL
+tribalis		ADJ;GEN;MASC/FEM;SG
+tribalis		ADJ;NOM;NEUT;SG
+tribalis		ADJ;VOC;MASC/FEM;SG
+tribalis		ADJ;ACC;NEUT;SG
+tribalis	tribālium	ADJ;GEN;NEUT;SG
+tribalis		ADJ;ACC;NEUT;PL
+tribalis		ADJ;ACC;MASC/FEM;SG
+tribalis		ADJ;VOC;NEUT;PL
+tribalis		ADJ;ACC;MASC/FEM;PL
+tribalis	tribālia	ADJ;NOM;NEUT;PL
+tribalis		ADJ;NOM;MASC/FEM;PL
+tribalis		ADJ;VOC;MASC/FEM;PL
+tribalis		ADJ;VOC;NEUT;SG
+tribalis	tribālibus	ADJ;DAT;NEUT;SG
+tribalis		ADJ;ABL;NEUT;SG
+tribalis		ADJ;DAT;MASC/FEM;SG
+tribalis		ADJ;ABL;MASC/FEM;SG
+tribalis		ADJ;NOM;MASC/FEM;SG
+comoedia		N;NOM;PL
+comoedia		N;VOC;SG
+comoedia	cōmoediae	N;GEN;SG
+comoedia		N;GEN;PL
+comoedia		N;NOM;SG
+comoedia		N;DAT;SG
+comoedia		N;ACC;PL
+comoedia		N;ACC;SG
+comoedia		N;VOC;PL
+comoedia		N;ABL;PL
+comoedia		N;ABL;SG
+comoedia		N;DAT;PL
+lapis		N;NOM;PL
+lapis		N;VOC;SG
+lapis		N;GEN;SG
+lapis		N;GEN;PL
+lapis		N;NOM;SG
+lapis		N;DAT;SG
+lapis	lapidēs	N;ACC;PL
+lapis		N;ACC;SG
+lapis		N;VOC;PL
+lapis		N;ABL;PL
+lapis		N;ABL;SG
+lapis		N;DAT;PL
+superficies		N;NOM;PL
+superficies		N;VOC;SG
+superficies		N;GEN;SG
+superficies		N;GEN;PL
+superficies		N;NOM;SG
+superficies		N;DAT;SG
+superficies		N;ACC;PL
+superficies		N;ACC;SG
+superficies		N;VOC;PL
+superficies	superficiēbus	N;ABL;PL
+superficies		N;ABL;SG
+superficies		N;DAT;PL
+condicio		N;NOM;PL
+condicio		N;VOC;SG
+condicio		N;GEN;SG
+condicio		N;GEN;PL
+condicio		N;NOM;SG
+condicio		N;DAT;SG
+condicio		N;ACC;PL
+condicio		N;ACC;SG
+condicio	condiciōnēs	N;VOC;PL
+condicio		N;ABL;PL
+condicio		N;ABL;SG
+condicio		N;DAT;PL
+eunuchus		N;NOM;PL
+eunuchus	eunūche	N;VOC;SG
+eunuchus		N;GEN;SG
+eunuchus		N;GEN;PL
+eunuchus		N;NOM;SG
+eunuchus		N;DAT;SG
+eunuchus		N;ACC;PL
+eunuchus		N;ACC;SG
+eunuchus		N;VOC;PL
+eunuchus		N;ABL;PL
+eunuchus		N;ABL;SG
+eunuchus		N;DAT;PL
+geometria		N;NOM;PL
+geometria		N;VOC;SG
+geometria		N;GEN;SG
+geometria		N;GEN;PL
+geometria		N;NOM;SG
+geometria		N;DAT;SG
+geometria	geōmetriās	N;ACC;PL
+geometria		N;ACC;SG
+geometria		N;VOC;PL
+geometria		N;ABL;PL
+geometria		N;ABL;SG
+geometria		N;DAT;PL

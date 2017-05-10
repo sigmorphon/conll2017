@@ -1,0 +1,100 @@
+চেষ্টা করা	চেষ্টা করবে	V;3;FUT;INFM
+চেষ্টা করা	চেষ্টা করেছেন	V;3;PRS;PRF;POL
+চাওয়া	চেয়েছিলেন	V;3;PST;PRF;POL
+ঘুমানো	ঘুমাতো	V;2;PST;HAB;POL
+ফেলা	ফেলছিলো	V;2;PST;PROG;POL
+চুম্বন করা	চুম্বন করছি	V;1;PRS;PROG
+আচরণ করা	আচরণ করছিস	V;2;PRS;PROG;LGSPEC1
+ভুলে যাওয়া	ভুলে গিয়েছিলেন	V;3;PST;PRF;POL
+চাওয়া	চেলেন	V;3;PST;POL
+পাওয়া	পাচ্ছিস	V;2;PRS;PROG;LGSPEC1
+তরঙ্গ	তরঙ্গগুলার	N;GEN;PL;DEF
+ঘামা	ঘামছিলে	V;3;PST;PROG;INFM
+ডিফ্র্যাগমেন্ট করা	ডিফ্র্যাগমেন্ট করেছে	V;2;PRS;PRF;POL
+উল্কি আঁকা	উল্কি আঁকছেন	V;3;PRS;PROG;POL
+লুকানো	লুকালে	V;3;PST;INFM
+কেনা	কিনছিলো	V;2;PST;PROG;POL
+খাওয়া	খাচ্ছিলেন	V;3;PST;PROG;POL
+অনুরোধ করা	অনুরোধ করেছিলেন	V;3;PST;PRF;POL
+মারা	মারবি	V;2;FUT;LGSPEC1
+জ্বালাতন করা	জ্বালাতন করতাম	V;1;PST;HAB
+ভাঙা	ভাঙবে	V;2;FUT;POL
+নাচা	নেচেছে	V;2;PRS;PRF;POL
+চালানো	চালাতে	V;V.PTCP;PROG
+মারা	মারি	V;1;PRS
+মরা	মরলে	V;3;PST;INFM
+কারণ	কারণগুলার	N;GEN;PL;DEF
+হওয়া	হয়েছিলেন	V;3;PST;PRF;POL
+ডিফ্র্যাগমেন্ট করা	ডিফ্র্যাগমেন্ট করা	V;V.MSDR
+আগানো	আগায়	V;2;PRS;POL
+কারণ	কারণটাতে	N;LOC;SG;DEF
+ভুলে যাওয়া	ভুলে যেতেযেতে	V;V.PTCP;PROG
+চেষ্টা করা	চেষ্টা করতে	V;3;PST;HAB;INFM
+খোঁজা	খুঁজছিস	V;2;PRS;PROG;LGSPEC1
+অপেক্ষা করা	অপেক্ষা করো	V;3;PRS;INFM
+দেখানো	দেখাবি	V;2;FUT;LGSPEC1
+খোলা	খুলেছিলো	V;2;PST;PRF;POL
+শব্দ	শব্দগুলা	N;NOM;PL;DEF
+অঙ্গ	অঙ্গটা	N;NOM;SG;DEF
+সাহায্য করা	সাহায্য করে	V;2;PRS;POL
+আগানো	আগালি	V;2;PST;LGSPEC1
+ইচ্ছা হওয়া	ইচ্ছা হয়েছেন	V;3;PRS;PRF;POL
+ভাবা	ভেবেছিলো	V;2;PST;PRF;POL
+মাল ফেলা	মাল ফেলবি	V;2;FUT;LGSPEC1
+ভালোবাসা	ভালোবাসছিলাম	V;1;PST;PROG
+জাগানো	জাগিয়েছিলি	V;2;PST;PRF;LGSPEC1
+ধরা	ধরবে	V;3;FUT;INFM
+বিশেষ করা	বিশেষ করে	V;2;PRS;POL
+খোঁজা	খুঁজছে	V;2;PRS;PROG;POL
+আগানো	আগিয়েছিলে	V;3;PST;PRF;INFM
+খোলা	খুলছি	V;1;PRS;PROG
+মরা	মরছো	V;3;PRS;PROG;INFM
+জাগানো	জাগাচ্ছিলি	V;2;PST;PROG;LGSPEC1
+ঢোকা	ঢুকেছেন	V;3;PRS;PRF;POL
+চেষ্টা করা	চেষ্টা করেছিলে	V;3;PST;PRF;INFM
+চুম্বন করা	চুম্বন করেছি	V;1;PRS;PRF
+জাগানো	জাগিয়েছিস	V;2;PRS;PRF;LGSPEC1
+পাছা	পাছাগুলা	N;ACC;PL;DEF
+ঘামানো	ঘামাবেন	V;3;FUT;POL
+খোঁজা	খুঁজবে	V;2;FUT;POL
+সাহায্য করা	সাহায্য করেছে	V;2;PRS;PRF;POL
+নেশাখোর	নেশাখোরদের	N;GEN;PL;DEF
+প্রশ্ন করা	প্রশ্ন করলো	V;2;PST;POL
+ভাঙা	ভাঙতিস	V;2;PST;HAB;LGSPEC1
+হাগা	হেগেছিস	V;2;PRS;PRF;LGSPEC1
+দেখানো	দেখিয়েছেন	V;3;PRS;PRF;POL
+ধরা	ধরবো	V;1;FUT
+দেখা	দেখলো	V;2;PST;POL
+ভুলে যাওয়া	ভুলে গেলে	V;3;PST;INFM
+অনুরোধ করা	অনুরোধ করলে	V;V.PTCP;COND
+বোঝা	বুঝতে	V;3;PST;HAB;INFM
+করা	করতিস	V;2;PST;HAB;LGSPEC1
+ভালবাসা	ভালবেসেছেন	V;3;PRS;PRF;POL
+শিশু	শিশুটা	N;NOM;SG;DEF
+জানা	জেনেছিলো	V;2;PST;PRF;POL
+ব্যবহার করা	ব্যবহার করেন	V;3;PRS;POL
+ভরা	ভরেছিলাম	V;1;PST;PRF
+বান্ধবী	বান্ধবীটাকে	N;ACC;SG;DEF
+হাঁটা	হাঁটছিস	V;2;PRS;PROG;LGSPEC1
+ফেলা	ফেলতো	V;2;PST;HAB;POL
+বলা	বলেছিলেন	V;3;PST;PRF;POL
+জাগানো	জাগালো	V;2;PST;POL
+ধন	ধনে	N;LOC;NDEF
+চাটা	চাটছিলো	V;2;PST;PROG;POL
+চাপা	চাপলে	V;3;PST;INFM
+টাইপ করা	টাইপ করছিলেন	V;3;PST;PROG;POL
+উল্কি আঁকা	উল্কি এঁকেছিলি	V;2;PST;PRF;LGSPEC1
+বোঝা	বুঝিস	V;2;PRS;LGSPEC1
+আসা	আসছি	V;1;PRS;PROG
+উদ্দেশ্য	উদ্দেশ্যটা	N;NOM;SG;DEF
+ঘুমানো	ঘুমাচ্ছেন	V;3;PRS;PROG;POL
+করা	করলাম	V;1;PST
+নেওয়া	নিলো	V;2;PST;POL
+রাখা	রাখতে	V;V.PTCP;PROG
+যাওয়া	গিয়ে	V;V.PTCP;HAB
+পাওয়া	পাওয়া	V;V.MSDR
+আচরণ করা	আচরণ করেছো	V;3;PRS;PRF;INFM
+দেখা	দেখবে	V;2;FUT;POL
+উল্কি আঁকা	উল্কি আঁকবেন	V;3;FUT;POL
+ঘামা	ঘামছো	V;3;PRS;PROG;INFM
+বলা	বলতে	V;V.PTCP;PROG

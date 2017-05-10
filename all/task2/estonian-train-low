@@ -1,0 +1,398 @@
+tänav	tänavad	N;NOM;PL
+tänav	tänavaks	N;TRANS;SG
+tänav	tänaval	N;AT+ESS;SG
+tänav	tänavatesse	N;IN+ALL;PL
+tänav	tänavas	N;IN+ESS;SG
+tänav	tänavat	N;PRT;SG
+tänav	tänavani	N;TERM;SG
+tänav	tänavast	N;IN+ABL;SG
+tänav	tänavaga	N;COM;SG
+tänav	tänavate	N;GEN;PL
+tänav	tänavasse	N;IN+ALL;SG
+tänav	tänavaid	N;PRT;PL
+tänav	tänavatelt	N;AT+ABL;PL
+tänav	tänavana	N;FRML;SG
+tänav	tänavad	N;ACC;PL
+tänav	tänavatele	N;AT+ALL;PL
+tänav	tänavata	N;PRIV;SG
+tänav	tänavatel	N;AT+ESS;PL
+tänav	tänavateks	N;TRANS;PL
+tänav	tänava	N;GEN;SG
+tänav	tänavates	N;IN+ESS;PL
+tänav	tänavatega	N;COM;PL
+tänav	tänavatest	N;IN+ABL;PL
+tänav	tänavateni	N;TERM;PL
+tänav	tänavatena	N;FRML;PL
+tänav	tänavale	N;AT+ALL;SG
+tänav	tänav	N;NOM;SG
+tänav	tänava	N;ACC;SG
+tänav	tänavalt	N;AT+ABL;SG
+tänav	tänavateta	N;PRIV;PL
+aasta	aastad	N;NOM;PL
+aasta	aastaks	N;TRANS;SG
+aasta	aastal	N;AT+ESS;SG
+aasta	aastatesse	N;IN+ALL;PL
+aasta	aastas	N;IN+ESS;SG
+aasta	aastat	N;PRT;SG
+aasta	aastani	N;TERM;SG
+aasta	aastast	N;IN+ABL;SG
+aasta	aastaga	N;COM;SG
+aasta	aastate	N;GEN;PL
+aasta	aastasse	N;IN+ALL;SG
+aasta	aastaid	N;PRT;PL
+aasta	aastatelt	N;AT+ABL;PL
+aasta	aastana	N;FRML;SG
+aasta	aastad	N;ACC;PL
+aasta	aastatele	N;AT+ALL;PL
+aasta	aastata	N;PRIV;SG
+aasta	aastatel	N;AT+ESS;PL
+aasta	aastateks	N;TRANS;PL
+aasta	aasta	N;GEN;SG
+aasta	aastates	N;IN+ESS;PL
+aasta	aastatega	N;COM;PL
+aasta	aastatest	N;IN+ABL;PL
+aasta	aastateni	N;TERM;PL
+aasta	aastatena	N;FRML;PL
+aasta	aastale	N;AT+ALL;SG
+aasta	aasta	N;NOM;SG
+aasta	aasta	N;ACC;SG
+aasta	aastalt	N;AT+ABL;SG
+aasta	aastateta	N;PRIV;PL
+minema	mindud	V.PTCP;PASS;PST
+minema	oleme läinud	V;ACT;PRS;PRF;POS;IND;1;PL
+minema	ei olnud mindudp	V;PASS;PST;PRF;NEG;IND
+minema	olgu läinud	V;ACT;PRS;PRF;POS;IMP;SG
+minema	mingu	V;ACT;PRS;POS;IMP;3;SG
+minema	ei olevat läinudp	V;ACT;PRS;PRF;NEG;QUOT
+minema	oleksin läinud	V;ACT;PRS;PRF;POS;COND
+minema	läheks	V;ACT;PRS;POS;COND;3;SG
+minema	mingu	V;ACT;PRS;POS;IMP;3;PL
+minema	ärge minge	V;ACT;PRS;NEG;IMP;2;PL
+minema	minevat	V;ACT;PRS;POS;QUOT
+minema	läheb	V;ACT;PRS;POS;IND;3;SG
+minema	olen läinud	V;ACT;PRS;PRF;POS;IND;1;SG
+minema	olete läinud	V;ACT;PRS;PRF;POS;IND;2;PL
+minema	minev	V.PTCP;ACT;PRS
+minema	lähen	V;ACT;PRS;POS;IND;1;SG
+minema	ärgu olgu mindud	V;PASS;PRS;PRF;NEG;IMP
+minema	läheksid	V;ACT;PRS;POS;COND;2;SG
+minema	ei olevat mindudp	V;PASS;PRS;PRF;NEG;QUOT
+minema	mindavat	V;PASS;PRS;POS;QUOT
+minema	mindav	V.PTCP;PASS;PRS
+minema	oleks mindud	V;PASS;PRS;PRF;POS;COND
+minema	oli mindud	V;PASS;PST;PRF;POS;IND
+minema	ei ole läinudp	V;ACT;PST;NEG;IND
+minema	mingem	V;ACT;PRS;POS;IMP;1;PL
+minema	ei minevat	V;ACT;PRS;NEG;QUOT
+minema	läheksime	V;ACT;PRS;POS;COND;1;PL
+minema	ei ole mindudp	V;PASS;PRS;PRF;NEG;IND
+minema	ärgu mingu	V;ACT;PRS;NEG;IMP;3;SG
+minema	ei mindavat	V;PASS;PRS;NEG;QUOT
+minema	ei minda	V;PASS;PRS;NEG;IND
+minema	olevat mindud	V;PASS;PRS;PRF;POS;QUOT
+minema	läksime	V;ACT;PST;POS;IND;1;PL
+minema	on läinud	V;ACT;PRS;PRF;POS;IND;3;PL
+minema	mindaks	V;PASS;PRS;POS;COND
+minema	olin läinud	V;ACT;PRS;PRF;POS;COND;1;SG
+minema	oled läinud	V;ACT;PRS;PRF;POS;IND;2;SG
+minema	olevat läinud	V;ACT;PRS;PRF;POS;QUOT
+minema	ei oleks mindudp	V;PASS;PRS;PRF;NEG;COND
+minema	ei mindud	V;PASS;PST;NEG;IND
+minema	ärgu mingu	V;ACT;PRS;NEG;IMP;3;PL
+minema	läheme	V;ACT;PRS;POS;IND;1;PL
+minema	oleksime läinud	V;ACT;PRS;PRF;POS;COND;1;PL
+minema	ära mine	V;ACT;PRS;NEG;IMP;2;SG
+minema	mindagu	V;PASS;PRS;POS;IMP
+minema	ei mindaks	V;PASS;PRS;NEG;COND
+minema	lähevad	V;ACT;PRS;POS;IND;3;PL
+minema	läks	V;ACT;PST;POS;IND;3;SG
+minema	mindi	V;PASS;PST;POS;IND
+minema	läksid	V;ACT;PST;POS;IND;3;PL
+minema	ärgu olgu läinud	V;ACT;PRS;PRF;NEG;IMP;SG
+minema	lähed	V;ACT;PRS;POS;IND;2;SG
+minema	olite läinud	V;ACT;PRS;PRF;POS;COND;2;PL
+minema	läinud	V.PTCP;ACT;PST
+minema	ei lähe	V;ACT;PRS;NEG;IND
+minema	ärgu mindagu	V;PASS;PRS;NEG;IMP
+minema	läksite	V;ACT;PST;POS;IND;2;PL
+minema	oli läinud	V;ACT;PRS;PRF;POS;COND;3;SG
+minema	minema	V;NFIN
+minema	on mindud	V;PASS;PRS;PRF;POS;IND
+minema	ärgem mingem	V;ACT;PRS;NEG;IMP;1;PL
+minema	olid läinud	V;ACT;PRS;PRF;POS;COND;2;SG
+minema	läksid	V;ACT;PST;POS;IND;2;SG
+minema	lähete	V;ACT;PRS;POS;IND;2;PL
+minema	minnakse	V;PASS;PRS;POS;IND
+minema	on läinud	V;ACT;PRS;PRF;POS;IND;3;SG
+minema	ärgu olgu läinud	V;ACT;PRS;PRF;NEG;IMP;PL
+minema	läheksite	V;ACT;PRS;POS;COND;2;PL
+minema	oleksite läinud	V;ACT;PRS;PRF:POS;COND;2;PL
+minema	minge	V;ACT;PRS;POS;IMP;2;PL
+minema	olgu läinud	V;ACT;PRS;PRF;POS;IMP;PL
+minema	oleksid läinud	V;ACT;PRS;PRF;POS;COND;3;PL
+minema	läheksid	V;ACT;PRS;POS;COND;3;PL
+minema	läksin	V;ACT;PST;POS;IND;1;SG
+minema	ei oleks läinudp	V;ACT;PRS;PRF;NEG;COND
+minema	olgu mindud	V;PASS;PRS;PRF;POS;IMP
+minema	ei olnud läinudp	V;ACT;PST;PRF;NEG;IND
+minema	mine	V;ACT;PRS;POS;IMP;2;SG
+minema	läheksin	V;ACT;PRS;POS;COND;1;SG
+september	septembrid	N;NOM;PL
+september	septembriks	N;TRANS;SG
+september	septembril	N;AT+ESS;SG
+september	septembritesse	N;IN+ALL;PL
+september	septembris	N;IN+ESS;SG
+september	septembrit	N;PRT;SG
+september	septembrini	N;TERM;SG
+september	septembrist	N;IN+ABL;SG
+september	septembriga	N;COM;SG
+september	septembrite	N;GEN;PL
+september	septembrisse	N;IN+ALL;SG
+september	septembreid	N;PRT;PL
+september	septembritelt	N;AT+ABL;PL
+september	septembrina	N;FRML;SG
+september	septembrid	N;ACC;PL
+september	septembritele	N;AT+ALL;PL
+september	septembrita	N;PRIV;SG
+september	septembritel	N;AT+ESS;PL
+september	septembriteks	N;TRANS;PL
+september	septembri	N;GEN;SG
+september	septembrites	N;IN+ESS;PL
+september	septembritega	N;COM;PL
+september	septembritest	N;IN+ABL;PL
+september	septembriteni	N;TERM;PL
+september	septembritena	N;FRML;PL
+september	septembrile	N;AT+ALL;SG
+september	september	N;NOM;SG
+september	septembri	N;ACC;SG
+september	septembrilt	N;AT+ABL;SG
+september	septembriteta	N;PRIV;PL
+sõda	sõjad	N;NOM;PL
+sõda	sõjaks	N;TRANS;SG
+sõda	sõjal	N;AT+ESS;SG
+sõda	sõdadessesõjusse	N;IN+ALL;PL
+sõda	sõjas	N;IN+ESS;SG
+sõda	sõda	N;PRT;SG
+sõda	sõjani	N;TERM;SG
+sõda	sõjast	N;IN+ABL;SG
+sõda	sõjaga	N;COM;SG
+sõda	sõdade	N;GEN;PL
+sõda	sõttasõjasse	N;IN+ALL;SG
+sõda	sõdu	N;PRT;PL
+sõda	sõdadeltsõjult	N;AT+ABL;PL
+sõda	sõjana	N;FRML;SG
+sõda	sõjad	N;ACC;PL
+sõda	sõdadelesõjule	N;AT+ALL;PL
+sõda	sõjata	N;PRIV;SG
+sõda	sõdadelsõjul	N;AT+ESS;PL
+sõda	sõdadekssõjuks	N;TRANS;PL
+sõda	sõja	N;GEN;SG
+sõda	sõdadessõjus	N;IN+ESS;PL
+sõda	sõdadega	N;COM;PL
+sõda	sõdadestsõjust	N;IN+ABL;PL
+sõda	sõdadeni	N;TERM;PL
+sõda	sõdadena	N;FRML;PL
+sõda	sõjale	N;AT+ALL;SG
+sõda	sõda	N;NOM;SG
+sõda	sõja	N;ACC;SG
+sõda	sõjalt	N;AT+ABL;SG
+sõda	sõdadeta	N;PRIV;PL
+lahkuma	lahkutud	V.PTCP;PASS;PST
+lahkuma	oleme lahkunud	V;ACT;PRS;PRF;POS;IND;1;PL
+lahkuma	ei olnud lahkutudp	V;PASS;PST;PRF;NEG;IND
+lahkuma	olgu lahkunud	V;ACT;PRS;PRF;POS;IMP;SG
+lahkuma	lahkugu	V;ACT;PRS;POS;IMP;3;SG
+lahkuma	ei olevat lahkunudp	V;ACT;PRS;PRF;NEG;QUOT
+lahkuma	oleksin lahkunud	V;ACT;PRS;PRF;POS;COND
+lahkuma	lahkuks	V;ACT;PRS;POS;COND;3;SG
+lahkuma	lahkugu	V;ACT;PRS;POS;IMP;3;PL
+lahkuma	ärge lahkuge	V;ACT;PRS;NEG;IMP;2;PL
+lahkuma	lahkuvat	V;ACT;PRS;POS;QUOT
+lahkuma	lahkub	V;ACT;PRS;POS;IND;3;SG
+lahkuma	olen lahkunud	V;ACT;PRS;PRF;POS;IND;1;SG
+lahkuma	olete lahkunud	V;ACT;PRS;PRF;POS;IND;2;PL
+lahkuma	lahkuv	V.PTCP;ACT;PRS
+lahkuma	lahkun	V;ACT;PRS;POS;IND;1;SG
+lahkuma	ärgu olgu lahkutud	V;PASS;PRS;PRF;NEG;IMP
+lahkuma	lahkuksid	V;ACT;PRS;POS;COND;2;SG
+lahkuma	ei olevat lahkutudp	V;PASS;PRS;PRF;NEG;QUOT
+lahkuma	lahkutavat	V;PASS;PRS;POS;QUOT
+lahkuma	lahkutav	V.PTCP;PASS;PRS
+lahkuma	oleks lahkutud	V;PASS;PRS;PRF;POS;COND
+lahkuma	oli lahkutud	V;PASS;PST;PRF;POS;IND
+lahkuma	ei ole lahkunudp	V;ACT;PST;NEG;IND
+lahkuma	lahkugem	V;ACT;PRS;POS;IMP;1;PL
+lahkuma	ei lahkuvat	V;ACT;PRS;NEG;QUOT
+lahkuma	lahkuksime	V;ACT;PRS;POS;COND;1;PL
+lahkuma	ei ole lahkutudp	V;PASS;PRS;PRF;NEG;IND
+lahkuma	ärgu lahkugu	V;ACT;PRS;NEG;IMP;3;SG
+lahkuma	ei lahkutavat	V;PASS;PRS;NEG;QUOT
+lahkuma	ei lahkuta	V;PASS;PRS;NEG;IND
+lahkuma	olevat lahkutud	V;PASS;PRS;PRF;POS;QUOT
+lahkuma	lahkusime	V;ACT;PST;POS;IND;1;PL
+lahkuma	on lahkunud	V;ACT;PRS;PRF;POS;IND;3;PL
+lahkuma	lahkutaks	V;PASS;PRS;POS;COND
+lahkuma	olin lahkunud	V;ACT;PRS;PRF;POS;COND;1;SG
+lahkuma	oled lahkunud	V;ACT;PRS;PRF;POS;IND;2;SG
+lahkuma	olevat lahkunud	V;ACT;PRS;PRF;POS;QUOT
+lahkuma	ei oleks lahkutudp	V;PASS;PRS;PRF;NEG;COND
+lahkuma	ei lahkutud	V;PASS;PST;NEG;IND
+lahkuma	ärgu lahkugu	V;ACT;PRS;NEG;IMP;3;PL
+lahkuma	lahkume	V;ACT;PRS;POS;IND;1;PL
+lahkuma	oleksime lahkunud	V;ACT;PRS;PRF;POS;COND;1;PL
+lahkuma	ära lahku	V;ACT;PRS;NEG;IMP;2;SG
+lahkuma	lahkutagu	V;PASS;PRS;POS;IMP
+lahkuma	ei lahkutaks	V;PASS;PRS;NEG;COND
+lahkuma	lahkuvad	V;ACT;PRS;POS;IND;3;PL
+lahkuma	lahkus	V;ACT;PST;POS;IND;3;SG
+lahkuma	lahkuti	V;PASS;PST;POS;IND
+lahkuma	lahkusid	V;ACT;PST;POS;IND;3;PL
+lahkuma	ärgu olgu lahkunud	V;ACT;PRS;PRF;NEG;IMP;SG
+lahkuma	lahkud	V;ACT;PRS;POS;IND;2;SG
+lahkuma	olite lahkunud	V;ACT;PRS;PRF;POS;COND;2;PL
+lahkuma	lahkunud	V.PTCP;ACT;PST
+lahkuma	ei lahku	V;ACT;PRS;NEG;IND
+lahkuma	ärgu lahkutagu	V;PASS;PRS;NEG;IMP
+lahkuma	lahkusite	V;ACT;PST;POS;IND;2;PL
+lahkuma	oli lahkunud	V;ACT;PRS;PRF;POS;COND;3;SG
+lahkuma	lahkuma	V;NFIN
+lahkuma	on lahkutud	V;PASS;PRS;PRF;POS;IND
+lahkuma	ärgem lahkugem	V;ACT;PRS;NEG;IMP;1;PL
+lahkuma	olid lahkunud	V;ACT;PRS;PRF;POS;COND;2;SG
+lahkuma	lahkusid	V;ACT;PST;POS;IND;2;SG
+lahkuma	lahkute	V;ACT;PRS;POS;IND;2;PL
+lahkuma	lahkutakse	V;PASS;PRS;POS;IND
+lahkuma	on lahkunud	V;ACT;PRS;PRF;POS;IND;3;SG
+lahkuma	ärgu olgu lahkunud	V;ACT;PRS;PRF;NEG;IMP;PL
+lahkuma	lahkuksite	V;ACT;PRS;POS;COND;2;PL
+lahkuma	oleksite lahkunud	V;ACT;PRS;PRF:POS;COND;2;PL
+lahkuma	lahkuge	V;ACT;PRS;POS;IMP;2;PL
+lahkuma	olgu lahkunud	V;ACT;PRS;PRF;POS;IMP;PL
+lahkuma	oleksid lahkunud	V;ACT;PRS;PRF;POS;COND;3;PL
+lahkuma	lahkuksid	V;ACT;PRS;POS;COND;3;PL
+lahkuma	lahkusin	V;ACT;PST;POS;IND;1;SG
+lahkuma	ei oleks lahkunudp	V;ACT;PRS;PRF;NEG;COND
+lahkuma	olgu lahkutud	V;PASS;PRS;PRF;POS;IMP
+lahkuma	ei olnud lahkunudp	V;ACT;PST;PRF;NEG;IND
+lahkuma	lahku	V;ACT;PRS;POS;IMP;2;SG
+lahkuma	lahkuksin	V;ACT;PRS;POS;COND;1;SG
+käsitlus	käsitlused	N;NOM;PL
+käsitlus	käsitluseks	N;TRANS;SG
+käsitlus	käsitlusel	N;AT+ESS;SG
+käsitlus	käsitlustesse	N;IN+ALL;PL
+käsitlus	käsitluses	N;IN+ESS;SG
+käsitlus	käsitlust	N;PRT;SG
+käsitlus	käsitluseni	N;TERM;SG
+käsitlus	käsitlusest	N;IN+ABL;SG
+käsitlus	käsitlusega	N;COM;SG
+käsitlus	käsitluste	N;GEN;PL
+käsitlus	käsitlusse	N;IN+ALL;SG
+käsitlus	käsitlusi	N;PRT;PL
+käsitlus	käsitlustelt	N;AT+ABL;PL
+käsitlus	käsitlusena	N;FRML;SG
+käsitlus	käsitlused	N;ACC;PL
+käsitlus	käsitlustele	N;AT+ALL;PL
+käsitlus	käsitluseta	N;PRIV;SG
+käsitlus	käsitlustel	N;AT+ESS;PL
+käsitlus	käsitlusteks	N;TRANS;PL
+käsitlus	käsitluse	N;GEN;SG
+käsitlus	käsitlustes	N;IN+ESS;PL
+käsitlus	käsitlustega	N;COM;PL
+käsitlus	käsitlustest	N;IN+ABL;PL
+käsitlus	käsitlusteni	N;TERM;PL
+käsitlus	käsitlustena	N;FRML;PL
+käsitlus	käsitlusele	N;AT+ALL;SG
+käsitlus	käsitlus	N;NOM;SG
+käsitlus	käsitluse	N;ACC;SG
+käsitlus	käsitluselt	N;AT+ABL;SG
+käsitlus	käsitlusteta	N;PRIV;PL
+sõna	sõnad	N;NOM;PL
+sõna	sõnaks	N;TRANS;SG
+sõna	sõnal	N;AT+ESS;SG
+sõna	sõnadesse	N;IN+ALL;PL
+sõna	sõnas	N;IN+ESS;SG
+sõna	sõna	N;PRT;SG
+sõna	sõnani	N;TERM;SG
+sõna	sõnast	N;IN+ABL;SG
+sõna	sõnaga	N;COM;SG
+sõna	sõnade	N;GEN;PL
+sõna	sõnna	N;IN+ALL;SG
+sõna	sõnu	N;PRT;PL
+sõna	sõnadelt	N;AT+ABL;PL
+sõna	sõnana	N;FRML;SG
+sõna	sõnad	N;ACC;PL
+sõna	sõnadele	N;AT+ALL;PL
+sõna	sõnata	N;PRIV;SG
+sõna	sõnadel	N;AT+ESS;PL
+sõna	sõnadeks	N;TRANS;PL
+sõna	sõna	N;GEN;SG
+sõna	sõnades	N;IN+ESS;PL
+sõna	sõnadega	N;COM;PL
+sõna	sõnadest	N;IN+ABL;PL
+sõna	sõnadeni	N;TERM;PL
+sõna	sõnadena	N;FRML;PL
+sõna	sõnale	N;AT+ALL;SG
+sõna	sõna	N;NOM;SG
+sõna	sõna	N;ACC;SG
+sõna	sõnalt	N;AT+ABL;SG
+sõna	sõnadeta	N;PRIV;PL
+raamat	raamatud	N;NOM;PL
+raamat	raamatuks	N;TRANS;SG
+raamat	raamatul	N;AT+ESS;SG
+raamat	raamatutesse	N;IN+ALL;PL
+raamat	raamatus	N;IN+ESS;SG
+raamat	raamatut	N;PRT;SG
+raamat	raamatuni	N;TERM;SG
+raamat	raamatust	N;IN+ABL;SG
+raamat	raamatuga	N;COM;SG
+raamat	raamatute	N;GEN;PL
+raamat	raamatusse	N;IN+ALL;SG
+raamat	raamatuid	N;PRT;PL
+raamat	raamatutelt	N;AT+ABL;PL
+raamat	raamatuna	N;FRML;SG
+raamat	raamatud	N;ACC;PL
+raamat	raamatutele	N;AT+ALL;PL
+raamat	raamatuta	N;PRIV;SG
+raamat	raamatutel	N;AT+ESS;PL
+raamat	raamatuteks	N;TRANS;PL
+raamat	raamatu	N;GEN;SG
+raamat	raamatutes	N;IN+ESS;PL
+raamat	raamatutega	N;COM;PL
+raamat	raamatutest	N;IN+ABL;PL
+raamat	raamatuteni	N;TERM;PL
+raamat	raamatutena	N;FRML;PL
+raamat	raamatule	N;AT+ALL;SG
+raamat	raamat	N;NOM;SG
+raamat	raamatu	N;ACC;SG
+raamat	raamatult	N;AT+ABL;SG
+raamat	raamatuteta	N;PRIV;PL
+langev	langevad	N;NOM;PL
+langev	langevaks	N;TRANS;SG
+langev	langeval	N;AT+ESS;SG
+langev	langevatesse	N;IN+ALL;PL
+langev	langevas	N;IN+ESS;SG
+langev	langevat	N;PRT;SG
+langev	langevani	N;TERM;SG
+langev	langevast	N;IN+ABL;SG
+langev	langevaga	N;COM;SG
+langev	langevate	N;GEN;PL
+langev	langevasse	N;IN+ALL;SG
+langev	langevaid	N;PRT;PL
+langev	langevatelt	N;AT+ABL;PL
+langev	langevana	N;FRML;SG
+langev	langevad	N;ACC;PL
+langev	langevatele	N;AT+ALL;PL
+langev	langevata	N;PRIV;SG
+langev	langevatel	N;AT+ESS;PL
+langev	langevateks	N;TRANS;PL
+langev	langeva	N;GEN;SG
+langev	langevates	N;IN+ESS;PL
+langev	langevatega	N;COM;PL
+langev	langevatest	N;IN+ABL;PL
+langev	langevateni	N;TERM;PL
+langev	langevatena	N;FRML;PL
+langev	langevale	N;AT+ALL;SG
+langev	langev	N;NOM;SG
+langev	langeva	N;ACC;SG
+langev	langevalt	N;AT+ABL;SG
+langev	langevateta	N;PRIV;PL

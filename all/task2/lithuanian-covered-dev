@@ -1,0 +1,1213 @@
+instrukcija		N;NOM;PL
+instrukcija		N;VOC;SG
+instrukcija	instrukcijos	N;GEN;SG
+instrukcija		N;GEN;PL
+instrukcija		N;INST;PL
+instrukcija		N;NOM;SG
+instrukcija		N;LOC;PL
+instrukcija	instrukcijai	N;DAT;SG
+instrukcija		N;LOC;SG
+instrukcija		N;ACC;PL
+instrukcija		N;ACC;SG
+instrukcija		N;VOC;PL
+instrukcija		N;INST;SG
+instrukcija		N;DAT;PL
+pakalbėti		V;3;SG;IMP
+pakalbėti		V;2;PL;SBJV
+pakalbėti		V;2;SG;PST;IND
+pakalbėti	pakalba	V;3;PL;PRS;IND
+pakalbėti		V;1;PL;PST;IND
+pakalbėti	pakalbėdavau	V;1;SG;PST;FREQ;IND
+pakalbėti		V;3;PL;FUT;IND
+pakalbėti		V;3;SG;SBJV
+pakalbėti	pakalbėjęs	V;V.PTCP;PST;ACT
+pakalbėti		V;V.PTCP;PST;FREQ;ACT
+pakalbėti		V;1;PL;IMP
+pakalbėti		V;3;PL;PST;IND
+pakalbėti		V;3;PL;IMP
+pakalbėti		V;V.PTCP;ADV;PST;FREQ;ACT
+pakalbėti		V;1;PL;PST;FREQ;IND
+pakalbėti		V;1;SG;PST;IND
+pakalbėti		V;1;PL;PRS;IND
+pakalbėti		V;2;SG;IMP
+pakalbėti		V;1;PL;FUT;IND
+pakalbėti		V;2;SG;PRS;IND
+pakalbėti		V;V.PTCP;PRS;PASS
+pakalbėti		V;V.PTCP;PST;PASS
+pakalbėti		V;2;PL;PST;IND
+pakalbėti		V;1;SG;PRS;IND
+pakalbėti		V;1;PL;SBJV
+pakalbėti	pakalbėdamas	V;V.PTCP;ADV;LGSPEC2;ACT
+pakalbėti	pakalbėkite	V;2;PL;IMP
+pakalbėti		V;1;SG;FUT;IND
+pakalbėti		V;V.PTCP;FUT;PASS
+pakalbėti		V;V.PTCP;FUT;ACT
+pakalbėti	pakalbėdavai	V;2;SG;PST;FREQ;IND
+pakalbėti	pakalbėdavote	V;2;PL;PST;FREQ;IND
+pakalbėti		V;2;SG;SBJV
+pakalbėti		V;V.PTCP;ADV;PST;ACT
+pakalbėti		V;2;PL;PRS;IND
+pakalbėti		V;3;PL;PST;FREQ;IND
+pakalbėti		V;3;SG;PST;IND
+pakalbėti	pakalbėdavo	V;3;SG;PST;FREQ;IND
+pakalbėti		V;V.PTCP;LGSPEC3
+pakalbėti		V;V.PTCP;PRS;ACT
+pakalbėti		V;V.PTCP;ADV;FUT;ACT
+pakalbėti		V;V.PTCP;LGSPEC1;PASS
+pakalbėti		V;2;PL;FUT;IND
+pakalbėti		V;V.PTCP;ADV;PRS;ACT
+pakalbėti	pakalbėsi	V;2;SG;FUT;IND
+pakalbėti		V;3;SG;PRS;IND
+pakalbėti		V;1;SG;SBJV
+pakalbėti		V;3;SG;FUT;IND
+pakalbėti		V;3;PL;SBJV
+lydėti		V;3;SG;IMP
+lydėti		V;2;PL;SBJV
+lydėti		V;2;SG;PST;IND
+lydėti		V;3;PL;PRS;IND
+lydėti		V;1;PL;PST;IND
+lydėti	lydėdavau	V;1;SG;PST;FREQ;IND
+lydėti	lydės	V;3;PL;FUT;IND
+lydėti		V;3;SG;SBJV
+lydėti		V;V.PTCP;PST;ACT
+lydėti		V;V.PTCP;PST;FREQ;ACT
+lydėti		V;1;PL;IMP
+lydėti		V;3;PL;PST;IND
+lydėti	telydi	V;3;PL;IMP
+lydėti		V;V.PTCP;ADV;PST;FREQ;ACT
+lydėti		V;1;PL;PST;FREQ;IND
+lydėti		V;1;SG;PST;IND
+lydėti		V;1;PL;PRS;IND
+lydėti		V;2;SG;IMP
+lydėti	lydėsime	V;1;PL;FUT;IND
+lydėti		V;2;SG;PRS;IND
+lydėti		V;V.PTCP;PRS;PASS
+lydėti		V;V.PTCP;PST;PASS
+lydėti		V;2;PL;PST;IND
+lydėti		V;1;SG;PRS;IND
+lydėti		V;1;PL;SBJV
+lydėti	lydėdamas	V;V.PTCP;ADV;LGSPEC2;ACT
+lydėti	lydėkite	V;2;PL;IMP
+lydėti		V;1;SG;FUT;IND
+lydėti		V;V.PTCP;FUT;PASS
+lydėti		V;V.PTCP;FUT;ACT
+lydėti		V;2;SG;PST;FREQ;IND
+lydėti	lydėdavote	V;2;PL;PST;FREQ;IND
+lydėti		V;2;SG;SBJV
+lydėti		V;V.PTCP;ADV;PST;ACT
+lydėti		V;2;PL;PRS;IND
+lydėti		V;3;PL;PST;FREQ;IND
+lydėti		V;3;SG;PST;IND
+lydėti		V;3;SG;PST;FREQ;IND
+lydėti	lydėte	V;V.PTCP;LGSPEC3
+lydėti		V;V.PTCP;PRS;ACT
+lydėti		V;V.PTCP;ADV;FUT;ACT
+lydėti		V;V.PTCP;LGSPEC1;PASS
+lydėti		V;2;PL;FUT;IND
+lydėti		V;V.PTCP;ADV;PRS;ACT
+lydėti		V;2;SG;FUT;IND
+lydėti		V;3;SG;PRS;IND
+lydėti	lydėčiau	V;1;SG;SBJV
+lydėti		V;3;SG;FUT;IND
+lydėti		V;3;PL;SBJV
+kalnynas		N;NOM;PL
+kalnynas		N;VOC;SG
+kalnynas	kalnýno	N;GEN;SG
+kalnynas		N;GEN;PL
+kalnynas		N;INST;PL
+kalnynas		N;NOM;SG
+kalnynas		N;LOC;PL
+kalnynas		N;DAT;SG
+kalnynas		N;LOC;SG
+kalnynas	kalnýnus	N;ACC;PL
+kalnynas		N;ACC;SG
+kalnynas		N;VOC;PL
+kalnynas		N;INST;SG
+kalnynas		N;DAT;PL
+vakarai		N;NOM;PL
+vakarai		N;GEN;PL
+vakarai		N;INST;PL
+vakarai		N;LOC;PL
+vakarai		N;ACC;PL
+vakarai		N;VOC;PL
+vakarai		N;DAT;PL
+kraujas		N;NOM;PL
+kraujas		N;VOC;SG
+kraujas		N;GEN;SG
+kraujas		N;GEN;PL
+kraujas		N;INST;PL
+kraujas	kraujas	N;NOM;SG
+kraujas		N;LOC;PL
+kraujas		N;DAT;SG
+kraujas		N;LOC;SG
+kraujas		N;ACC;PL
+kraujas		N;ACC;SG
+kraujas		N;VOC;PL
+kraujas		N;INST;SG
+kraujas	kraujams	N;DAT;PL
+japonas		N;NOM;PL
+japonas		N;VOC;SG
+japonas		N;GEN;SG
+japonas	japonų	N;GEN;PL
+japonas		N;INST;PL
+japonas		N;NOM;SG
+japonas		N;LOC;PL
+japonas		N;DAT;SG
+japonas		N;LOC;SG
+japonas	japonus	N;ACC;PL
+japonas		N;ACC;SG
+japonas		N;VOC;PL
+japonas		N;INST;SG
+japonas		N;DAT;PL
+kalbėti		V;3;SG;IMP
+kalbėti		V;2;PL;SBJV
+kalbėti		V;2;SG;PST;IND
+kalbėti		V;3;PL;PRS;IND
+kalbėti		V;1;PL;PST;IND
+kalbėti	kalbėdavau	V;1;SG;PST;FREQ;IND
+kalbėti		V;3;PL;FUT;IND
+kalbėti		V;3;SG;SBJV
+kalbėti	kalbėjęs	V;V.PTCP;PST;ACT
+kalbėti		V;V.PTCP;PST;FREQ;ACT
+kalbėti		V;1;PL;IMP
+kalbėti		V;3;PL;PST;IND
+kalbėti		V;3;PL;IMP
+kalbėti		V;V.PTCP;ADV;PST;FREQ;ACT
+kalbėti		V;1;PL;PST;FREQ;IND
+kalbėti	kalbėjau	V;1;SG;PST;IND
+kalbėti		V;1;PL;PRS;IND
+kalbėti		V;2;SG;IMP
+kalbėti		V;1;PL;FUT;IND
+kalbėti		V;2;SG;PRS;IND
+kalbėti	kalbamas	V;V.PTCP;PRS;PASS
+kalbėti		V;V.PTCP;PST;PASS
+kalbėti		V;2;PL;PST;IND
+kalbėti		V;1;SG;PRS;IND
+kalbėti		V;1;PL;SBJV
+kalbėti		V;V.PTCP;ADV;LGSPEC2;ACT
+kalbėti	kalbėkite	V;2;PL;IMP
+kalbėti		V;1;SG;FUT;IND
+kalbėti		V;V.PTCP;FUT;PASS
+kalbėti		V;V.PTCP;FUT;ACT
+kalbėti		V;2;SG;PST;FREQ;IND
+kalbėti		V;2;PL;PST;FREQ;IND
+kalbėti		V;2;SG;SBJV
+kalbėti		V;V.PTCP;ADV;PST;ACT
+kalbėti		V;2;PL;PRS;IND
+kalbėti		V;3;PL;PST;FREQ;IND
+kalbėti		V;3;SG;PST;IND
+kalbėti		V;3;SG;PST;FREQ;IND
+kalbėti		V;V.PTCP;LGSPEC3
+kalbėti	kalbąs	V;V.PTCP;PRS;ACT
+kalbėti	kalbėsiant	V;V.PTCP;ADV;FUT;ACT
+kalbėti	kalbėtinas	V;V.PTCP;LGSPEC1;PASS
+kalbėti	kalbėsite	V;2;PL;FUT;IND
+kalbėti		V;V.PTCP;ADV;PRS;ACT
+kalbėti		V;2;SG;FUT;IND
+kalbėti		V;3;SG;PRS;IND
+kalbėti		V;1;SG;SBJV
+kalbėti		V;3;SG;FUT;IND
+kalbėti		V;3;PL;SBJV
+diegti		V;3;SG;IMP
+diegti		V;2;PL;SBJV
+diegti		V;2;SG;PST;IND
+diegti		V;3;PL;PRS;IND
+diegti	diegėme	V;1;PL;PST;IND
+diegti		V;1;SG;PST;FREQ;IND
+diegti		V;3;PL;FUT;IND
+diegti		V;3;SG;SBJV
+diegti		V;V.PTCP;PST;ACT
+diegti		V;V.PTCP;PST;FREQ;ACT
+diegti		V;1;PL;IMP
+diegti	diegė	V;3;PL;PST;IND
+diegti		V;3;PL;IMP
+diegti		V;V.PTCP;ADV;PST;FREQ;ACT
+diegti		V;1;PL;PST;FREQ;IND
+diegti		V;1;SG;PST;IND
+diegti		V;1;PL;PRS;IND
+diegti		V;2;SG;IMP
+diegti		V;1;PL;FUT;IND
+diegti		V;2;SG;PRS;IND
+diegti		V;V.PTCP;PRS;PASS
+diegti		V;V.PTCP;PST;PASS
+diegti		V;2;PL;PST;IND
+diegti		V;1;SG;PRS;IND
+diegti	diegtumėme	V;1;PL;SBJV
+diegti		V;V.PTCP;ADV;LGSPEC2;ACT
+diegti	diekite	V;2;PL;IMP
+diegti		V;1;SG;FUT;IND
+diegti		V;V.PTCP;FUT;PASS
+diegti		V;V.PTCP;FUT;ACT
+diegti	diegdavai	V;2;SG;PST;FREQ;IND
+diegti		V;2;PL;PST;FREQ;IND
+diegti		V;2;SG;SBJV
+diegti	diegus	V;V.PTCP;ADV;PST;ACT
+diegti		V;2;PL;PRS;IND
+diegti	diegdavo	V;3;PL;PST;FREQ;IND
+diegti		V;3;SG;PST;IND
+diegti		V;3;SG;PST;FREQ;IND
+diegti		V;V.PTCP;LGSPEC3
+diegti		V;V.PTCP;PRS;ACT
+diegti		V;V.PTCP;ADV;FUT;ACT
+diegti		V;V.PTCP;LGSPEC1;PASS
+diegti		V;2;PL;FUT;IND
+diegti	diegiant	V;V.PTCP;ADV;PRS;ACT
+diegti		V;2;SG;FUT;IND
+diegti		V;3;SG;PRS;IND
+diegti		V;1;SG;SBJV
+diegti		V;3;SG;FUT;IND
+diegti	diegtų	V;3;PL;SBJV
+žandas		N;NOM;PL
+žandas	žande	N;VOC;SG
+žandas		N;GEN;SG
+žandas		N;GEN;PL
+žandas		N;INST;PL
+žandas		N;NOM;SG
+žandas		N;LOC;PL
+žandas		N;DAT;SG
+žandas		N;LOC;SG
+žandas		N;ACC;PL
+žandas		N;ACC;SG
+žandas		N;VOC;PL
+žandas		N;INST;SG
+žandas	žandams	N;DAT;PL
+aguona		N;NOM;PL
+aguona	aguõna	N;VOC;SG
+aguona	aguõnos	N;GEN;SG
+aguona		N;GEN;PL
+aguona		N;INST;PL
+aguona		N;NOM;SG
+aguona		N;LOC;PL
+aguona		N;DAT;SG
+aguona		N;LOC;SG
+aguona		N;ACC;PL
+aguona		N;ACC;SG
+aguona		N;VOC;PL
+aguona		N;INST;SG
+aguona		N;DAT;PL
+gaidys		N;NOM;PL
+gaidys		N;VOC;SG
+gaidys		N;GEN;SG
+gaidys		N;GEN;PL
+gaidys		N;INST;PL
+gaidys		N;NOM;SG
+gaidys	gaidžiuosè	N;LOC;PL
+gaidys		N;DAT;SG
+gaidys		N;LOC;SG
+gaidys		N;ACC;PL
+gaidys	gaĩdį	N;ACC;SG
+gaidys		N;VOC;PL
+gaidys		N;INST;SG
+gaidys		N;DAT;PL
+urvas		N;NOM;PL
+urvas		N;VOC;SG
+urvas		N;GEN;SG
+urvas	urvų̃	N;GEN;PL
+urvas		N;INST;PL
+urvas		N;NOM;SG
+urvas	urvuosè	N;LOC;PL
+urvas		N;DAT;SG
+urvas		N;LOC;SG
+urvas		N;ACC;PL
+urvas		N;ACC;SG
+urvas		N;VOC;PL
+urvas		N;INST;SG
+urvas		N;DAT;PL
+geografija		N;NOM;PL
+geografija		N;VOC;SG
+geografija		N;GEN;SG
+geografija		N;GEN;PL
+geografija		N;INST;PL
+geografija		N;NOM;SG
+geografija	geogrãfijose	N;LOC;PL
+geografija		N;DAT;SG
+geografija		N;LOC;SG
+geografija		N;ACC;PL
+geografija	geogrãfiją	N;ACC;SG
+geografija		N;VOC;PL
+geografija		N;INST;SG
+geografija		N;DAT;PL
+profesija		N;NOM;PL
+profesija	profèsija	N;VOC;SG
+profesija		N;GEN;SG
+profesija		N;GEN;PL
+profesija		N;INST;PL
+profesija		N;NOM;SG
+profesija		N;LOC;PL
+profesija		N;DAT;SG
+profesija		N;LOC;SG
+profesija		N;ACC;PL
+profesija		N;ACC;SG
+profesija		N;VOC;PL
+profesija	profèsija	N;INST;SG
+profesija		N;DAT;PL
+rezultatas	rezultãtai	N;NOM;PL
+rezultatas		N;VOC;SG
+rezultatas		N;GEN;SG
+rezultatas		N;GEN;PL
+rezultatas		N;INST;PL
+rezultatas		N;NOM;SG
+rezultatas		N;LOC;PL
+rezultatas		N;DAT;SG
+rezultatas		N;LOC;SG
+rezultatas		N;ACC;PL
+rezultatas		N;ACC;SG
+rezultatas		N;VOC;PL
+rezultatas		N;INST;SG
+rezultatas	rezultãtams	N;DAT;PL
+miškas		N;NOM;PL
+miškas		N;VOC;SG
+miškas		N;GEN;SG
+miškas		N;GEN;PL
+miškas		N;INST;PL
+miškas		N;NOM;SG
+miškas	miškuosè	N;LOC;PL
+miškas		N;DAT;SG
+miškas	miškè	N;LOC;SG
+miškas		N;ACC;PL
+miškas		N;ACC;SG
+miškas		N;VOC;PL
+miškas		N;INST;SG
+miškas		N;DAT;PL
+liūtas		N;NOM;PL
+liūtas		N;VOC;SG
+liūtas		N;GEN;SG
+liūtas		N;GEN;PL
+liūtas		N;INST;PL
+liūtas		N;NOM;SG
+liūtas	liū̃tuose	N;LOC;PL
+liūtas		N;DAT;SG
+liūtas		N;LOC;SG
+liūtas		N;ACC;PL
+liūtas		N;ACC;SG
+liūtas		N;VOC;PL
+liūtas	liūtù	N;INST;SG
+liūtas		N;DAT;PL
+žiūrėti		V;3;SG;IMP
+žiūrėti		V;2;PL;SBJV
+žiūrėti	žiūrėjai	V;2;SG;PST;IND
+žiūrėti	žiūri	V;3;PL;PRS;IND
+žiūrėti		V;1;PL;PST;IND
+žiūrėti		V;1;SG;PST;FREQ;IND
+žiūrėti		V;3;PL;FUT;IND
+žiūrėti		V;3;SG;SBJV
+žiūrėti		V;V.PTCP;PST;ACT
+žiūrėti		V;V.PTCP;PST;FREQ;ACT
+žiūrėti		V;1;PL;IMP
+žiūrėti		V;3;PL;PST;IND
+žiūrėti		V;3;PL;IMP
+žiūrėti		V;V.PTCP;ADV;PST;FREQ;ACT
+žiūrėti		V;1;PL;PST;FREQ;IND
+žiūrėti		V;1;SG;PST;IND
+žiūrėti		V;1;PL;PRS;IND
+žiūrėti		V;2;SG;IMP
+žiūrėti		V;1;PL;FUT;IND
+žiūrėti		V;2;SG;PRS;IND
+žiūrėti		V;V.PTCP;PRS;PASS
+žiūrėti		V;V.PTCP;PST;PASS
+žiūrėti		V;2;PL;PST;IND
+žiūrėti		V;1;SG;PRS;IND
+žiūrėti	žiūrėtumėme	V;1;PL;SBJV
+žiūrėti		V;V.PTCP;ADV;LGSPEC2;ACT
+žiūrėti		V;2;PL;IMP
+žiūrėti	žiūrėsiu	V;1;SG;FUT;IND
+žiūrėti		V;V.PTCP;FUT;PASS
+žiūrėti		V;V.PTCP;FUT;ACT
+žiūrėti		V;2;SG;PST;FREQ;IND
+žiūrėti		V;2;PL;PST;FREQ;IND
+žiūrėti		V;2;SG;SBJV
+žiūrėti		V;V.PTCP;ADV;PST;ACT
+žiūrėti	žiūrite	V;2;PL;PRS;IND
+žiūrėti		V;3;PL;PST;FREQ;IND
+žiūrėti	žiūrėjo	V;3;SG;PST;IND
+žiūrėti		V;3;SG;PST;FREQ;IND
+žiūrėti		V;V.PTCP;LGSPEC3
+žiūrėti		V;V.PTCP;PRS;ACT
+žiūrėti		V;V.PTCP;ADV;FUT;ACT
+žiūrėti		V;V.PTCP;LGSPEC1;PASS
+žiūrėti		V;2;PL;FUT;IND
+žiūrėti	žiūrint	V;V.PTCP;ADV;PRS;ACT
+žiūrėti		V;2;SG;FUT;IND
+žiūrėti		V;3;SG;PRS;IND
+žiūrėti	žiūrėčiau	V;1;SG;SBJV
+žiūrėti	žiūrės	V;3;SG;FUT;IND
+žiūrėti		V;3;PL;SBJV
+bitė		N;NOM;PL
+bitė		N;VOC;SG
+bitė	bitės	N;GEN;SG
+bitė	bičių	N;GEN;PL
+bitė		N;INST;PL
+bitė		N;NOM;SG
+bitė		N;LOC;PL
+bitė		N;DAT;SG
+bitė		N;LOC;SG
+bitė		N;ACC;PL
+bitė		N;ACC;SG
+bitė		N;VOC;PL
+bitė		N;INST;SG
+bitė		N;DAT;PL
+įvykis		N;NOM;PL
+įvykis		N;VOC;SG
+įvykis		N;GEN;SG
+įvykis		N;GEN;PL
+įvykis		N;INST;PL
+įvykis	į́vykis	N;NOM;SG
+įvykis	į́vykiuose	N;LOC;PL
+įvykis		N;DAT;SG
+įvykis		N;LOC;SG
+įvykis		N;ACC;PL
+įvykis		N;ACC;SG
+įvykis		N;VOC;PL
+įvykis		N;INST;SG
+įvykis		N;DAT;PL
+trejetas		N;NOM;PL
+trejetas		N;VOC;SG
+trejetas		N;GEN;SG
+trejetas		N;GEN;PL
+trejetas	trejetais	N;INST;PL
+trejetas		N;NOM;SG
+trejetas	trejetuose	N;LOC;PL
+trejetas		N;DAT;SG
+trejetas		N;LOC;SG
+trejetas		N;ACC;PL
+trejetas		N;ACC;SG
+trejetas		N;VOC;PL
+trejetas		N;INST;SG
+trejetas		N;DAT;PL
+jaunuolis		N;NOM;PL
+jaunuolis		N;VOC;SG
+jaunuolis		N;GEN;SG
+jaunuolis	jaunuõlių	N;GEN;PL
+jaunuolis		N;INST;PL
+jaunuolis	jaunuõlis	N;NOM;SG
+jaunuolis		N;LOC;PL
+jaunuolis		N;DAT;SG
+jaunuolis		N;LOC;SG
+jaunuolis		N;ACC;PL
+jaunuolis		N;ACC;SG
+jaunuolis		N;VOC;PL
+jaunuolis		N;INST;SG
+jaunuolis		N;DAT;PL
+klausyti	teklauso	V;3;SG;IMP
+klausyti		V;2;PL;SBJV
+klausyti		V;2;SG;PST;IND
+klausyti		V;3;PL;PRS;IND
+klausyti		V;1;PL;PST;IND
+klausyti		V;1;SG;PST;FREQ;IND
+klausyti		V;3;PL;FUT;IND
+klausyti		V;3;SG;SBJV
+klausyti		V;V.PTCP;PST;ACT
+klausyti	klausydavęs	V;V.PTCP;PST;FREQ;ACT
+klausyti		V;1;PL;IMP
+klausyti		V;3;PL;PST;IND
+klausyti		V;3;PL;IMP
+klausyti		V;V.PTCP;ADV;PST;FREQ;ACT
+klausyti		V;1;PL;PST;FREQ;IND
+klausyti	klausiau	V;1;SG;PST;IND
+klausyti		V;1;PL;PRS;IND
+klausyti		V;2;SG;IMP
+klausyti		V;1;PL;FUT;IND
+klausyti		V;2;SG;PRS;IND
+klausyti		V;V.PTCP;PRS;PASS
+klausyti		V;V.PTCP;PST;PASS
+klausyti	klausėte	V;2;PL;PST;IND
+klausyti	klausau	V;1;SG;PRS;IND
+klausyti		V;1;PL;SBJV
+klausyti		V;V.PTCP;ADV;LGSPEC2;ACT
+klausyti		V;2;PL;IMP
+klausyti		V;1;SG;FUT;IND
+klausyti		V;V.PTCP;FUT;PASS
+klausyti	klausysiąs	V;V.PTCP;FUT;ACT
+klausyti	klausydavai	V;2;SG;PST;FREQ;IND
+klausyti		V;2;PL;PST;FREQ;IND
+klausyti		V;2;SG;SBJV
+klausyti		V;V.PTCP;ADV;PST;ACT
+klausyti		V;2;PL;PRS;IND
+klausyti		V;3;PL;PST;FREQ;IND
+klausyti		V;3;SG;PST;IND
+klausyti		V;3;SG;PST;FREQ;IND
+klausyti		V;V.PTCP;LGSPEC3
+klausyti	klausąs	V;V.PTCP;PRS;ACT
+klausyti		V;V.PTCP;ADV;FUT;ACT
+klausyti		V;V.PTCP;LGSPEC1;PASS
+klausyti		V;2;PL;FUT;IND
+klausyti		V;V.PTCP;ADV;PRS;ACT
+klausyti		V;2;SG;FUT;IND
+klausyti		V;3;SG;PRS;IND
+klausyti		V;1;SG;SBJV
+klausyti		V;3;SG;FUT;IND
+klausyti	klausytų	V;3;PL;SBJV
+mama		N;NOM;PL
+mama		N;VOC;SG
+mama		N;GEN;SG
+mama		N;GEN;PL
+mama		N;INST;PL
+mama	mama	N;NOM;SG
+mama	mamose	N;LOC;PL
+mama		N;DAT;SG
+mama		N;LOC;SG
+mama		N;ACC;PL
+mama		N;ACC;SG
+mama		N;VOC;PL
+mama		N;INST;SG
+mama		N;DAT;PL
+meilė		N;NOM;PL
+meilė		N;VOC;SG
+meilė		N;GEN;SG
+meilė		N;GEN;PL
+meilė		N;INST;PL
+meilė		N;NOM;SG
+meilė		N;LOC;PL
+meilė		N;DAT;SG
+meilė		N;LOC;SG
+meilė	méiles	N;ACC;PL
+meilė		N;ACC;SG
+meilė		N;VOC;PL
+meilė		N;INST;SG
+meilė	méilėms	N;DAT;PL
+lobis		N;NOM;PL
+lobis		N;VOC;SG
+lobis		N;GEN;SG
+lobis	lõbių	N;GEN;PL
+lobis		N;INST;PL
+lobis		N;NOM;SG
+lobis		N;LOC;PL
+lobis		N;DAT;SG
+lobis		N;LOC;SG
+lobis	lobiùs	N;ACC;PL
+lobis		N;ACC;SG
+lobis		N;VOC;PL
+lobis		N;INST;SG
+lobis		N;DAT;PL
+viršus		N;NOM;PL
+viršus		N;VOC;SG
+viršus		N;GEN;SG
+viršus		N;GEN;PL
+viršus		N;INST;PL
+viršus		N;NOM;SG
+viršus		N;LOC;PL
+viršus		N;DAT;SG
+viršus		N;LOC;SG
+viršus	viršus	N;ACC;PL
+viršus		N;ACC;SG
+viršus		N;VOC;PL
+viršus		N;INST;SG
+viršus	viršums	N;DAT;PL
+įtarti		V;3;SG;IMP
+įtarti		V;2;PL;SBJV
+įtarti		V;2;SG;PST;IND
+įtarti		V;3;PL;PRS;IND
+įtarti		V;1;PL;PST;IND
+įtarti		V;1;SG;PST;FREQ;IND
+įtarti		V;3;PL;FUT;IND
+įtarti		V;3;SG;SBJV
+įtarti		V;V.PTCP;PST;ACT
+įtarti		V;V.PTCP;PST;FREQ;ACT
+įtarti		V;1;PL;IMP
+įtarti		V;3;PL;PST;IND
+įtarti		V;3;PL;IMP
+įtarti		V;V.PTCP;ADV;PST;FREQ;ACT
+įtarti	įtardavome	V;1;PL;PST;FREQ;IND
+įtarti		V;1;SG;PST;IND
+įtarti		V;1;PL;PRS;IND
+įtarti		V;2;SG;IMP
+įtarti	įtarsime	V;1;PL;FUT;IND
+įtarti		V;2;SG;PRS;IND
+įtarti		V;V.PTCP;PRS;PASS
+įtarti		V;V.PTCP;PST;PASS
+įtarti		V;2;PL;PST;IND
+įtarti	įtariu	V;1;SG;PRS;IND
+įtarti	įtartumėme	V;1;PL;SBJV
+įtarti		V;V.PTCP;ADV;LGSPEC2;ACT
+įtarti	įtarkite	V;2;PL;IMP
+įtarti		V;1;SG;FUT;IND
+įtarti		V;V.PTCP;FUT;PASS
+įtarti		V;V.PTCP;FUT;ACT
+įtarti		V;2;SG;PST;FREQ;IND
+įtarti	įtardavote	V;2;PL;PST;FREQ;IND
+įtarti	įtartum	V;2;SG;SBJV
+įtarti		V;V.PTCP;ADV;PST;ACT
+įtarti	įtariate	V;2;PL;PRS;IND
+įtarti		V;3;PL;PST;FREQ;IND
+įtarti		V;3;SG;PST;IND
+įtarti		V;3;SG;PST;FREQ;IND
+įtarti		V;V.PTCP;LGSPEC3
+įtarti		V;V.PTCP;PRS;ACT
+įtarti		V;V.PTCP;ADV;FUT;ACT
+įtarti		V;V.PTCP;LGSPEC1;PASS
+įtarti		V;2;PL;FUT;IND
+įtarti	įtariant	V;V.PTCP;ADV;PRS;ACT
+įtarti		V;2;SG;FUT;IND
+įtarti		V;3;SG;PRS;IND
+įtarti		V;1;SG;SBJV
+įtarti		V;3;SG;FUT;IND
+įtarti		V;3;PL;SBJV
+sodas		N;NOM;PL
+sodas		N;VOC;SG
+sodas		N;GEN;SG
+sodas	sõdų	N;GEN;PL
+sodas		N;INST;PL
+sodas		N;NOM;SG
+sodas		N;LOC;PL
+sodas		N;DAT;SG
+sodas		N;LOC;SG
+sodas		N;ACC;PL
+sodas		N;ACC;SG
+sodas		N;VOC;PL
+sodas		N;INST;SG
+sodas	sõdams	N;DAT;PL
+žemynas		N;NOM;PL
+žemynas		N;VOC;SG
+žemynas		N;GEN;SG
+žemynas		N;GEN;PL
+žemynas		N;INST;PL
+žemynas	žemýnas	N;NOM;SG
+žemynas		N;LOC;PL
+žemynas		N;DAT;SG
+žemynas		N;LOC;SG
+žemynas		N;ACC;PL
+žemynas		N;ACC;SG
+žemynas	žemýnai	N;VOC;PL
+žemynas		N;INST;SG
+žemynas		N;DAT;PL
+vainikas		N;NOM;PL
+vainikas		N;VOC;SG
+vainikas		N;GEN;SG
+vainikas		N;GEN;PL
+vainikas	vainìkais	N;INST;PL
+vainikas		N;NOM;SG
+vainikas		N;LOC;PL
+vainikas		N;DAT;SG
+vainikas		N;LOC;SG
+vainikas		N;ACC;PL
+vainikas		N;ACC;SG
+vainikas	vainìkai	N;VOC;PL
+vainikas		N;INST;SG
+vainikas		N;DAT;PL
+meniškas	meniškiausio	ADJ;GEN;SG;MASC;SPRL
+meniškas		ADJ;LOC;SG;MASC;POS
+meniškas		ADJ;DAT;SG;MASC;CMPR
+meniškas		ADJ;ACC;SG;MASC;SPRL
+meniškas		ADJ;NOM;PL;FEM;SPRL
+meniškas	meniškomis	ADJ;INST;PL;FEM;POS
+meniškas	meniškai	ADJ;DAT;SG;FEM;POS
+meniškas		ADJ;LOC;PL;FEM;POS
+meniškas		ADJ;DAT;SG;MASC;POS
+meniškas	meniškiausiu	ADJ;INST;SG;MASC;SPRL
+meniškas		ADJ;DAT;PL;FEM;SPRL
+meniškas		ADJ;LOC;SG;FEM;SPRL
+meniškas		ADJ;DAT;SG;FEM;CMPR
+meniškas	meniškoms	ADJ;DAT;PL;FEM;POS
+meniškas		ADJ;ACC;SG;FEM;POS
+meniškas	meniška	ADJ;VOC;SG;FEM;POS
+meniškas		ADJ;VOC;PL;MASC;POS
+meniškas		ADJ;ACC;SG;MASC;POS
+meniškas		ADJ;GEN;SG;FEM;POS
+meniškas		ADJ;DAT;PL;MASC;CMPR
+meniškas		ADJ;GEN;PL;FEM;POS
+meniškas		ADJ;LOC;SG;MASC;SPRL
+meniškas		ADJ;LOC;SG;FEM;CMPR
+meniškas		ADJ;NOM;SG;FEM;CMPR
+meniškas		ADJ;ACC;PL;MASC;SPRL
+meniškas		ADJ;ACC;PL;FEM;POS
+meniškas		ADJ;INST;PL;FEM;CMPR
+meniškas		ADJ;INST;SG;FEM;SPRL
+meniškas		ADJ;INST;PL;MASC;POS
+meniškas		ADJ;LOC;SG;FEM;POS
+meniškas		ADJ;ACC;SG;MASC;CMPR
+meniškas		ADJ;NOM;SG;FEM;SPRL
+meniškas		ADJ;NOM;PL;MASC;POS
+meniškas	meniškesnėms	ADJ;DAT;PL;FEM;CMPR
+meniškas	meniškiausiuose	ADJ;LOC;PL;MASC;SPRL
+meniškas		ADJ;LOC;PL;MASC;CMPR
+meniškas		ADJ;ACC;SG;FEM;CMPR
+meniškas		ADJ;NOM;PL;FEM;CMPR
+meniškas		ADJ;LOC;PL;FEM;CMPR
+meniškas	meniška	ADJ;INST;SG;FEM;POS
+meniškas		ADJ;NOM;SG;MASC;SPRL
+meniškas		ADJ;INST;PL;MASC;CMPR
+meniškas		ADJ;GEN;PL;MASC;SPRL
+meniškas		ADJ;GEN;SG;MASC;POS
+meniškas		ADJ;GEN;PL;MASC;POS
+meniškas		ADJ;GEN;PL;FEM;CMPR
+meniškas		ADJ;DAT;SG;FEM;SPRL
+meniškas		ADJ;ACC;PL;MASC;CMPR
+meniškas		ADJ;NOM;SG;FEM;POS
+meniškas		ADJ;ACC;PL;MASC;POS
+meniškas		ADJ;INST;SG;FEM;CMPR
+meniškas		ADJ;VOC;PL;FEM;POS
+meniškas	meniškesnės	ADJ;GEN;SG;FEM;CMPR
+meniškas		ADJ;DAT;SG;MASC;SPRL
+meniškas	menišku	ADJ;INST;SG;MASC;POS
+meniškas		ADJ;NOM;PL;MASC;SPRL
+meniškas		ADJ;GEN;PL;MASC;CMPR
+meniškas		ADJ;INST;PL;MASC;SPRL
+meniškas	meniškiausią	ADJ;ACC;SG;FEM;SPRL
+meniškas		ADJ;LOC;PL;FEM;SPRL
+meniškas		ADJ;NOM;SG;MASC;POS
+meniškas		ADJ;DAT;PL;MASC;SPRL
+meniškas		ADJ;INST;SG;MASC;CMPR
+meniškas		ADJ;VOC;SG;MASC;POS
+meniškas		ADJ;GEN;PL;FEM;SPRL
+meniškas		ADJ;ACC;PL;FEM;SPRL
+meniškas		ADJ;NOM;SG;MASC;CMPR
+meniškas		ADJ;GEN;SG;FEM;SPRL
+meniškas		ADJ;LOC;SG;MASC;CMPR
+meniškas		ADJ;DAT;PL;MASC;POS
+meniškas	meniškos	ADJ;NOM;PL;FEM;POS
+meniškas		ADJ;ACC;PL;FEM;CMPR
+meniškas		ADJ;NOM;PL;MASC;CMPR
+meniškas		ADJ;INST;PL;FEM;SPRL
+meniškas	meniškesnio	ADJ;GEN;SG;MASC;CMPR
+meniškas		ADJ;LOC;PL;MASC;POS
+netaisyklingas		ADJ;GEN;SG;MASC;SPRL
+netaisyklingas		ADJ;LOC;SG;MASC;POS
+netaisyklingas		ADJ;DAT;SG;MASC;CMPR
+netaisyklingas		ADJ;ACC;SG;MASC;SPRL
+netaisyklingas		ADJ;NOM;PL;FEM;SPRL
+netaisyklingas		ADJ;INST;PL;FEM;POS
+netaisyklingas	netaisyklingai	ADJ;DAT;SG;FEM;POS
+netaisyklingas		ADJ;LOC;PL;FEM;POS
+netaisyklingas		ADJ;DAT;SG;MASC;POS
+netaisyklingas		ADJ;INST;SG;MASC;SPRL
+netaisyklingas		ADJ;DAT;PL;FEM;SPRL
+netaisyklingas		ADJ;LOC;SG;FEM;SPRL
+netaisyklingas		ADJ;DAT;SG;FEM;CMPR
+netaisyklingas		ADJ;DAT;PL;FEM;POS
+netaisyklingas		ADJ;ACC;SG;FEM;POS
+netaisyklingas		ADJ;VOC;SG;FEM;POS
+netaisyklingas		ADJ;VOC;PL;MASC;POS
+netaisyklingas		ADJ;ACC;SG;MASC;POS
+netaisyklingas		ADJ;GEN;SG;FEM;POS
+netaisyklingas		ADJ;DAT;PL;MASC;CMPR
+netaisyklingas	netaisyklingų	ADJ;GEN;PL;FEM;POS
+netaisyklingas		ADJ;LOC;SG;MASC;SPRL
+netaisyklingas		ADJ;LOC;SG;FEM;CMPR
+netaisyklingas		ADJ;NOM;SG;FEM;CMPR
+netaisyklingas		ADJ;ACC;PL;MASC;SPRL
+netaisyklingas		ADJ;ACC;PL;FEM;POS
+netaisyklingas		ADJ;INST;PL;FEM;CMPR
+netaisyklingas	netaisyklingiausia	ADJ;INST;SG;FEM;SPRL
+netaisyklingas		ADJ;INST;PL;MASC;POS
+netaisyklingas	netaisyklingoje	ADJ;LOC;SG;FEM;POS
+netaisyklingas		ADJ;ACC;SG;MASC;CMPR
+netaisyklingas		ADJ;NOM;SG;FEM;SPRL
+netaisyklingas		ADJ;NOM;PL;MASC;POS
+netaisyklingas		ADJ;DAT;PL;FEM;CMPR
+netaisyklingas		ADJ;LOC;PL;MASC;SPRL
+netaisyklingas	netaisyklingesniuose	ADJ;LOC;PL;MASC;CMPR
+netaisyklingas		ADJ;ACC;SG;FEM;CMPR
+netaisyklingas		ADJ;NOM;PL;FEM;CMPR
+netaisyklingas		ADJ;LOC;PL;FEM;CMPR
+netaisyklingas	netaisyklinga	ADJ;INST;SG;FEM;POS
+netaisyklingas		ADJ;NOM;SG;MASC;SPRL
+netaisyklingas	netaisyklingesniais	ADJ;INST;PL;MASC;CMPR
+netaisyklingas		ADJ;GEN;PL;MASC;SPRL
+netaisyklingas		ADJ;GEN;SG;MASC;POS
+netaisyklingas		ADJ;GEN;PL;MASC;POS
+netaisyklingas	netaisyklingesnių	ADJ;GEN;PL;FEM;CMPR
+netaisyklingas	netaisyklingiausiai	ADJ;DAT;SG;FEM;SPRL
+netaisyklingas		ADJ;ACC;PL;MASC;CMPR
+netaisyklingas		ADJ;NOM;SG;FEM;POS
+netaisyklingas		ADJ;ACC;PL;MASC;POS
+netaisyklingas		ADJ;INST;SG;FEM;CMPR
+netaisyklingas		ADJ;VOC;PL;FEM;POS
+netaisyklingas		ADJ;GEN;SG;FEM;CMPR
+netaisyklingas		ADJ;DAT;SG;MASC;SPRL
+netaisyklingas		ADJ;INST;SG;MASC;POS
+netaisyklingas		ADJ;NOM;PL;MASC;SPRL
+netaisyklingas		ADJ;GEN;PL;MASC;CMPR
+netaisyklingas		ADJ;INST;PL;MASC;SPRL
+netaisyklingas	netaisyklingiausią	ADJ;ACC;SG;FEM;SPRL
+netaisyklingas		ADJ;LOC;PL;FEM;SPRL
+netaisyklingas		ADJ;NOM;SG;MASC;POS
+netaisyklingas		ADJ;DAT;PL;MASC;SPRL
+netaisyklingas	netaisyklingesniu	ADJ;INST;SG;MASC;CMPR
+netaisyklingas		ADJ;VOC;SG;MASC;POS
+netaisyklingas		ADJ;GEN;PL;FEM;SPRL
+netaisyklingas		ADJ;ACC;PL;FEM;SPRL
+netaisyklingas		ADJ;NOM;SG;MASC;CMPR
+netaisyklingas		ADJ;GEN;SG;FEM;SPRL
+netaisyklingas		ADJ;LOC;SG;MASC;CMPR
+netaisyklingas	netaisyklingiems	ADJ;DAT;PL;MASC;POS
+netaisyklingas		ADJ;NOM;PL;FEM;POS
+netaisyklingas	netaisyklingesnes	ADJ;ACC;PL;FEM;CMPR
+netaisyklingas		ADJ;NOM;PL;MASC;CMPR
+netaisyklingas		ADJ;INST;PL;FEM;SPRL
+netaisyklingas		ADJ;GEN;SG;MASC;CMPR
+netaisyklingas	netaisyklinguose	ADJ;LOC;PL;MASC;POS
+menas		N;NOM;PL
+menas		N;VOC;SG
+menas		N;GEN;SG
+menas		N;GEN;PL
+menas		N;INST;PL
+menas		N;NOM;SG
+menas		N;LOC;PL
+menas	menui	N;DAT;SG
+menas		N;LOC;SG
+menas		N;ACC;PL
+menas		N;ACC;SG
+menas		N;VOC;PL
+menas	menu	N;INST;SG
+menas		N;DAT;PL
+palaukti		V;3;SG;IMP
+palaukti		V;2;PL;SBJV
+palaukti		V;2;SG;PST;IND
+palaukti		V;3;PL;PRS;IND
+palaukti		V;1;PL;PST;IND
+palaukti		V;1;SG;PST;FREQ;IND
+palaukti		V;3;PL;FUT;IND
+palaukti		V;3;SG;SBJV
+palaukti		V;V.PTCP;PST;ACT
+palaukti		V;V.PTCP;PST;FREQ;ACT
+palaukti		V;1;PL;IMP
+palaukti		V;3;PL;PST;IND
+palaukti		V;3;PL;IMP
+palaukti		V;V.PTCP;ADV;PST;FREQ;ACT
+palaukti	palaukdavome	V;1;PL;PST;FREQ;IND
+palaukti	palaukiau	V;1;SG;PST;IND
+palaukti		V;1;PL;PRS;IND
+palaukti		V;2;SG;IMP
+palaukti		V;1;PL;FUT;IND
+palaukti		V;2;SG;PRS;IND
+palaukti	palaukiamas	V;V.PTCP;PRS;PASS
+palaukti		V;V.PTCP;PST;PASS
+palaukti	palaukėte	V;2;PL;PST;IND
+palaukti		V;1;SG;PRS;IND
+palaukti		V;1;PL;SBJV
+palaukti		V;V.PTCP;ADV;LGSPEC2;ACT
+palaukti		V;2;PL;IMP
+palaukti		V;1;SG;FUT;IND
+palaukti		V;V.PTCP;FUT;PASS
+palaukti		V;V.PTCP;FUT;ACT
+palaukti		V;2;SG;PST;FREQ;IND
+palaukti		V;2;PL;PST;FREQ;IND
+palaukti	palauktum	V;2;SG;SBJV
+palaukti		V;V.PTCP;ADV;PST;ACT
+palaukti		V;2;PL;PRS;IND
+palaukti		V;3;PL;PST;FREQ;IND
+palaukti		V;3;SG;PST;IND
+palaukti		V;3;SG;PST;FREQ;IND
+palaukti		V;V.PTCP;LGSPEC3
+palaukti		V;V.PTCP;PRS;ACT
+palaukti	palauksiant	V;V.PTCP;ADV;FUT;ACT
+palaukti		V;V.PTCP;LGSPEC1;PASS
+palaukti	palauksite	V;2;PL;FUT;IND
+palaukti		V;V.PTCP;ADV;PRS;ACT
+palaukti	palauksi	V;2;SG;FUT;IND
+palaukti	palaukia	V;3;SG;PRS;IND
+palaukti		V;1;SG;SBJV
+palaukti		V;3;SG;FUT;IND
+palaukti		V;3;PL;SBJV
+šablonas		N;NOM;PL
+šablonas		N;VOC;SG
+šablonas	šablono	N;GEN;SG
+šablonas		N;GEN;PL
+šablonas		N;INST;PL
+šablonas		N;NOM;SG
+šablonas		N;LOC;PL
+šablonas		N;DAT;SG
+šablonas		N;LOC;SG
+šablonas	šablonus	N;ACC;PL
+šablonas		N;ACC;SG
+šablonas		N;VOC;PL
+šablonas		N;INST;SG
+šablonas		N;DAT;PL
+nosis		N;NOM;PL
+nosis	nósie	N;VOC;SG
+nosis		N;GEN;SG
+nosis		N;GEN;PL
+nosis		N;INST;PL
+nosis		N;NOM;SG
+nosis		N;LOC;PL
+nosis		N;DAT;SG
+nosis		N;LOC;SG
+nosis		N;ACC;PL
+nosis		N;ACC;SG
+nosis	nósys	N;VOC;PL
+nosis		N;INST;SG
+nosis		N;DAT;PL
+vertimas		N;NOM;PL
+vertimas		N;VOC;SG
+vertimas		N;GEN;SG
+vertimas	vertimų	N;GEN;PL
+vertimas		N;INST;PL
+vertimas		N;NOM;SG
+vertimas		N;LOC;PL
+vertimas		N;DAT;SG
+vertimas		N;LOC;SG
+vertimas		N;ACC;PL
+vertimas		N;ACC;SG
+vertimas	vertimai	N;VOC;PL
+vertimas		N;INST;SG
+vertimas		N;DAT;PL
+gamta		N;VOC;SG
+gamta		N;NOM;SG
+gamta		N;GEN;SG
+gamta		N;DAT;SG
+gamta		N;LOC;SG
+gamta		N;ACC;SG
+gamta		N;INST;SG
+latakas	latãkai	N;NOM;PL
+latakas		N;VOC;SG
+latakas		N;GEN;SG
+latakas		N;GEN;PL
+latakas		N;INST;PL
+latakas		N;NOM;SG
+latakas		N;LOC;PL
+latakas		N;DAT;SG
+latakas		N;LOC;SG
+latakas		N;ACC;PL
+latakas		N;ACC;SG
+latakas	latãkai	N;VOC;PL
+latakas		N;INST;SG
+latakas		N;DAT;PL
+cinkas		N;VOC;SG
+cinkas		N;NOM;SG
+cinkas		N;GEN;SG
+cinkas		N;DAT;SG
+cinkas		N;LOC;SG
+cinkas		N;ACC;SG
+cinkas		N;INST;SG
+kolona		N;NOM;PL
+kolona		N;VOC;SG
+kolona	kolonos	N;GEN;SG
+kolona		N;GEN;PL
+kolona		N;INST;PL
+kolona		N;NOM;SG
+kolona		N;LOC;PL
+kolona		N;DAT;SG
+kolona	kolonoje	N;LOC;SG
+kolona		N;ACC;PL
+kolona		N;ACC;SG
+kolona		N;VOC;PL
+kolona		N;INST;SG
+kolona		N;DAT;PL
+kaulas		N;VOC;SG
+kaulas		N;GEN;PL
+kaulas		N;GEN;SG
+kaulas		N;INST;PL
+kaulas		N;LOC;PL
+kaulas		N;DAT;SG
+kaulas	káulu	N;LOC;SG
+kaulas		N;ACC;PL
+kaulas		N;ACC;SG
+kaulas		N;VOC;PL
+kaulas		N;INST;SG
+kaulas		N;DAT;PL
+išparduoti		V;3;SG;IMP
+išparduoti		V;2;PL;SBJV
+išparduoti		V;2;SG;PST;IND
+išparduoti		V;3;PL;PRS;IND
+išparduoti		V;1;PL;PST;IND
+išparduoti		V;1;SG;PST;FREQ;IND
+išparduoti		V;3;PL;FUT;IND
+išparduoti		V;3;SG;SBJV
+išparduoti	išpardavęs	V;V.PTCP;PST;ACT
+išparduoti		V;V.PTCP;PST;FREQ;ACT
+išparduoti		V;1;PL;IMP
+išparduoti		V;3;PL;PST;IND
+išparduoti		V;3;PL;IMP
+išparduoti	išparduodavus	V;V.PTCP;ADV;PST;FREQ;ACT
+išparduoti		V;1;PL;PST;FREQ;IND
+išparduoti	išpardaviau	V;1;SG;PST;IND
+išparduoti		V;1;PL;PRS;IND
+išparduoti		V;2;SG;IMP
+išparduoti		V;1;PL;FUT;IND
+išparduoti		V;2;SG;PRS;IND
+išparduoti		V;V.PTCP;PRS;PASS
+išparduoti		V;V.PTCP;PST;PASS
+išparduoti		V;2;PL;PST;IND
+išparduoti		V;1;SG;PRS;IND
+išparduoti		V;1;PL;SBJV
+išparduoti		V;V.PTCP;ADV;LGSPEC2;ACT
+išparduoti		V;2;PL;IMP
+išparduoti		V;1;SG;FUT;IND
+išparduoti		V;V.PTCP;FUT;PASS
+išparduoti		V;V.PTCP;FUT;ACT
+išparduoti		V;2;SG;PST;FREQ;IND
+išparduoti	išparduodavote	V;2;PL;PST;FREQ;IND
+išparduoti		V;2;SG;SBJV
+išparduoti		V;V.PTCP;ADV;PST;ACT
+išparduoti		V;2;PL;PRS;IND
+išparduoti	išparduodavo	V;3;PL;PST;FREQ;IND
+išparduoti	išpardavė	V;3;SG;PST;IND
+išparduoti		V;3;SG;PST;FREQ;IND
+išparduoti		V;V.PTCP;LGSPEC3
+išparduoti		V;V.PTCP;PRS;ACT
+išparduoti		V;V.PTCP;ADV;FUT;ACT
+išparduoti		V;V.PTCP;LGSPEC1;PASS
+išparduoti		V;2;PL;FUT;IND
+išparduoti	išparduodant	V;V.PTCP;ADV;PRS;ACT
+išparduoti		V;2;SG;FUT;IND
+išparduoti	išparduoda	V;3;SG;PRS;IND
+išparduoti		V;1;SG;SBJV
+išparduoti		V;3;SG;FUT;IND
+išparduoti	išparduotų	V;3;PL;SBJV
+pusseserė	pùsseserės	N;NOM;PL
+pusseserė		N;VOC;SG
+pusseserė		N;GEN;SG
+pusseserė		N;GEN;PL
+pusseserė		N;INST;PL
+pusseserė		N;NOM;SG
+pusseserė		N;LOC;PL
+pusseserė		N;DAT;SG
+pusseserė		N;LOC;SG
+pusseserė		N;ACC;PL
+pusseserė		N;ACC;SG
+pusseserė		N;VOC;PL
+pusseserė		N;INST;SG
+pusseserė	pùsseserėms	N;DAT;PL
+skiemuo		N;NOM;PL
+skiemuo		N;VOC;SG
+skiemuo		N;GEN;SG
+skiemuo		N;GEN;PL
+skiemuo		N;INST;PL
+skiemuo		N;NOM;SG
+skiemuo		N;LOC;PL
+skiemuo	skíemeniui	N;DAT;SG
+skiemuo		N;LOC;SG
+skiemuo		N;ACC;PL
+skiemuo		N;ACC;SG
+skiemuo		N;VOC;PL
+skiemuo		N;INST;SG
+skiemuo	skiemenìms	N;DAT;PL
+gilus		ADJ;GEN;SG;MASC;SPRL
+gilus		ADJ;LOC;SG;MASC;POS
+gilus		ADJ;DAT;SG;MASC;CMPR
+gilus		ADJ;ACC;SG;MASC;SPRL
+gilus		ADJ;NOM;PL;FEM;SPRL
+gilus		ADJ;INST;PL;FEM;POS
+gilus		ADJ;DAT;SG;FEM;POS
+gilus	giliose	ADJ;LOC;PL;FEM;POS
+gilus		ADJ;DAT;SG;MASC;POS
+gilus	giliausiu	ADJ;INST;SG;MASC;SPRL
+gilus		ADJ;DAT;PL;FEM;SPRL
+gilus		ADJ;LOC;SG;FEM;SPRL
+gilus	gilesnei	ADJ;DAT;SG;FEM;CMPR
+gilus	gilioms	ADJ;DAT;PL;FEM;POS
+gilus		ADJ;ACC;SG;FEM;POS
+gilus		ADJ;VOC;SG;FEM;POS
+gilus	gilūs	ADJ;VOC;PL;MASC;POS
+gilus		ADJ;ACC;SG;MASC;POS
+gilus		ADJ;GEN;SG;FEM;POS
+gilus		ADJ;DAT;PL;MASC;CMPR
+gilus	gilių	ADJ;GEN;PL;FEM;POS
+gilus		ADJ;LOC;SG;MASC;SPRL
+gilus		ADJ;LOC;SG;FEM;CMPR
+gilus		ADJ;NOM;SG;FEM;CMPR
+gilus		ADJ;ACC;PL;MASC;SPRL
+gilus		ADJ;ACC;PL;FEM;POS
+gilus		ADJ;INST;PL;FEM;CMPR
+gilus		ADJ;INST;SG;FEM;SPRL
+gilus		ADJ;INST;PL;MASC;POS
+gilus		ADJ;LOC;SG;FEM;POS
+gilus		ADJ;ACC;SG;MASC;CMPR
+gilus		ADJ;NOM;SG;FEM;SPRL
+gilus		ADJ;NOM;PL;MASC;POS
+gilus		ADJ;DAT;PL;FEM;CMPR
+gilus		ADJ;LOC;PL;MASC;SPRL
+gilus		ADJ;LOC;PL;MASC;CMPR
+gilus		ADJ;ACC;SG;FEM;CMPR
+gilus		ADJ;NOM;PL;FEM;CMPR
+gilus		ADJ;LOC;PL;FEM;CMPR
+gilus		ADJ;INST;SG;FEM;POS
+gilus	giliausias	ADJ;NOM;SG;MASC;SPRL
+gilus	gilesniais	ADJ;INST;PL;MASC;CMPR
+gilus		ADJ;GEN;PL;MASC;SPRL
+gilus	gilaus	ADJ;GEN;SG;MASC;POS
+gilus		ADJ;GEN;PL;MASC;POS
+gilus		ADJ;GEN;PL;FEM;CMPR
+gilus	giliausiai	ADJ;DAT;SG;FEM;SPRL
+gilus		ADJ;ACC;PL;MASC;CMPR
+gilus		ADJ;NOM;SG;FEM;POS
+gilus		ADJ;ACC;PL;MASC;POS
+gilus		ADJ;INST;SG;FEM;CMPR
+gilus	gilios	ADJ;VOC;PL;FEM;POS
+gilus		ADJ;GEN;SG;FEM;CMPR
+gilus		ADJ;DAT;SG;MASC;SPRL
+gilus		ADJ;INST;SG;MASC;POS
+gilus		ADJ;NOM;PL;MASC;SPRL
+gilus		ADJ;GEN;PL;MASC;CMPR
+gilus		ADJ;INST;PL;MASC;SPRL
+gilus		ADJ;ACC;SG;FEM;SPRL
+gilus		ADJ;LOC;PL;FEM;SPRL
+gilus		ADJ;NOM;SG;MASC;POS
+gilus	giliausiems	ADJ;DAT;PL;MASC;SPRL
+gilus		ADJ;INST;SG;MASC;CMPR
+gilus		ADJ;VOC;SG;MASC;POS
+gilus		ADJ;GEN;PL;FEM;SPRL
+gilus		ADJ;ACC;PL;FEM;SPRL
+gilus	gilesnis	ADJ;NOM;SG;MASC;CMPR
+gilus		ADJ;GEN;SG;FEM;SPRL
+gilus		ADJ;LOC;SG;MASC;CMPR
+gilus		ADJ;DAT;PL;MASC;POS
+gilus	gilios	ADJ;NOM;PL;FEM;POS
+gilus		ADJ;ACC;PL;FEM;CMPR
+gilus		ADJ;NOM;PL;MASC;CMPR
+gilus		ADJ;INST;PL;FEM;SPRL
+gilus		ADJ;GEN;SG;MASC;CMPR
+gilus		ADJ;LOC;PL;MASC;POS
+siūlas		N;NOM;PL
+siūlas		N;VOC;SG
+siūlas		N;GEN;SG
+siūlas		N;GEN;PL
+siūlas		N;INST;PL
+siūlas		N;NOM;SG
+siūlas		N;LOC;PL
+siūlas		N;DAT;SG
+siūlas		N;LOC;SG
+siūlas		N;ACC;PL
+siūlas	siū́lą	N;ACC;SG
+siūlas	siū́lai	N;VOC;PL
+siūlas		N;INST;SG
+siūlas		N;DAT;PL
+sąveikauti		V;3;SG;IMP
+sąveikauti		V;2;PL;SBJV
+sąveikauti		V;2;SG;PST;IND
+sąveikauti		V;3;PL;PRS;IND
+sąveikauti		V;1;PL;PST;IND
+sąveikauti		V;1;SG;PST;FREQ;IND
+sąveikauti		V;3;PL;FUT;IND
+sąveikauti		V;3;SG;SBJV
+sąveikauti		V;V.PTCP;PST;ACT
+sąveikauti		V;V.PTCP;PST;FREQ;ACT
+sąveikauti		V;1;PL;IMP
+sąveikauti		V;3;PL;PST;IND
+sąveikauti		V;3;PL;IMP
+sąveikauti		V;V.PTCP;ADV;PST;FREQ;ACT
+sąveikauti		V;1;PL;PST;FREQ;IND
+sąveikauti		V;1;SG;PST;IND
+sąveikauti		V;1;PL;PRS;IND
+sąveikauti		V;2;SG;IMP
+sąveikauti		V;1;PL;FUT;IND
+sąveikauti	sąveikauji	V;2;SG;PRS;IND
+sąveikauti		V;V.PTCP;PRS;PASS
+sąveikauti	sąveikautas	V;V.PTCP;PST;PASS
+sąveikauti		V;2;PL;PST;IND
+sąveikauti		V;1;SG;PRS;IND
+sąveikauti		V;1;PL;SBJV
+sąveikauti	sąveikaudamas	V;V.PTCP;ADV;LGSPEC2;ACT
+sąveikauti		V;2;PL;IMP
+sąveikauti		V;1;SG;FUT;IND
+sąveikauti		V;V.PTCP;FUT;PASS
+sąveikauti		V;V.PTCP;FUT;ACT
+sąveikauti	sąveikaudavai	V;2;SG;PST;FREQ;IND
+sąveikauti		V;2;PL;PST;FREQ;IND
+sąveikauti		V;2;SG;SBJV
+sąveikauti		V;V.PTCP;ADV;PST;ACT
+sąveikauti		V;2;PL;PRS;IND
+sąveikauti	sąveikaudavo	V;3;PL;PST;FREQ;IND
+sąveikauti		V;3;SG;PST;IND
+sąveikauti		V;3;SG;PST;FREQ;IND
+sąveikauti		V;V.PTCP;LGSPEC3
+sąveikauti	sąveikaująs	V;V.PTCP;PRS;ACT
+sąveikauti		V;V.PTCP;ADV;FUT;ACT
+sąveikauti	sąveikautinas	V;V.PTCP;LGSPEC1;PASS
+sąveikauti		V;2;PL;FUT;IND
+sąveikauti		V;V.PTCP;ADV;PRS;ACT
+sąveikauti		V;2;SG;FUT;IND
+sąveikauti		V;3;SG;PRS;IND
+sąveikauti	sąveikaučiau	V;1;SG;SBJV
+sąveikauti	sąveikaus	V;3;SG;FUT;IND
+sąveikauti		V;3;PL;SBJV

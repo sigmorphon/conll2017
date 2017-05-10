@@ -1,0 +1,778 @@
+aqil		DEF;N;PL;VOC
+aqil		INDF;LGSPEC1;N;SG;ACC
+aqil		INDF;LGSPEC1;N;PL
+aqil		DEF;LGSPEC1;N;SG
+aqil		DEF;N;PL;ACC;LGSPEC2
+aqil		DEF;N;SG;LGSPEC2
+aqil		INDF;N;NOM;SG
+aqil	aqilo	DEF;N;SG;VOC
+aqil		DEF;N;NOM;PL;SG;ACC
+aqil		DEF;LGSPEC1;N;PL;VOC
+aqil		INDF;N;PL;ACC
+aqil		INDF;N;NOM;PL
+keçik		DEF;N;PL;VOC
+keçik		INDF;LGSPEC1;N;SG;ACC
+keçik		INDF;LGSPEC1;N;PL
+keçik		DEF;LGSPEC1;N;SG
+keçik		DEF;N;NOM;PL;SG
+keçik	keçikek	INDF;N;NOM;SG
+keçik		DEF;N;PL;ACC;LGSPEC2
+keçik		DEF;N;SG;VOC;ACC;LGSPEC2
+keçik		DEF;LGSPEC1;N;PL;VOC
+keçik		INDF;N;PL;ACC
+keçik		INDF;N;NOM;PL
+malper		INDF;LGSPEC1;N;SG;ACC
+malper		DEF;N;PL;VOC
+malper		INDF;LGSPEC1;N;PL
+malper		DEF;LGSPEC1;N;SG
+malper		DEF;N;PL;ACC;LGSPEC2
+malper		INDF;N;NOM;SG
+malper	malper	DEF;N;NOM;PL;SG
+malper		DEF;N;SG;VOC;ACC;LGSPEC2
+malper		DEF;LGSPEC1;N;PL;VOC
+malper		INDF;N;PL;ACC
+malper		INDF;N;NOM;PL
+gav		INDF;LGSPEC1;N;SG;ACC
+gav		DEF;N;PL;VOC
+gav		INDF;LGSPEC1;N;PL
+gav	gava	DEF;LGSPEC1;N;SG
+gav		DEF;N;PL;ACC;LGSPEC2
+gav		DEF;N;SG;LGSPEC2
+gav	gavek	INDF;N;NOM;SG
+gav		DEF;N;SG;VOC
+gav		DEF;N;NOM;PL;SG;ACC
+gav		DEF;LGSPEC1;N;PL;VOC
+gav		INDF;N;NOM;PL
+gav		INDF;N;PL;ACC
+gav		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+serokdewlet		INDF;LGSPEC1;N;SG;ACC
+serokdewlet		DEF;N;PL;VOC
+serokdewlet		INDF;LGSPEC1;N;PL
+serokdewlet		DEF;LGSPEC1;N;SG
+serokdewlet		DEF;N;SG;VOC
+serokdewlet		DEF;N;SG;LGSPEC2
+serokdewlet		INDF;N;NOM;SG
+serokdewlet		DEF;N;PL;ACC;LGSPEC2
+serokdewlet		DEF;N;NOM;PL;SG;ACC
+serokdewlet		DEF;LGSPEC1;N;PL;VOC
+serokdewlet	serokdewletin	INDF;N;NOM;PL
+serokdewlet		INDF;N;PL;ACC
+serokdewlet	serokdewletê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+proje		DEF;N;PL;VOC
+proje		INDF;LGSPEC1;N;SG;ACC
+proje		INDF;LGSPEC1;N;PL
+proje		DEF;LGSPEC1;N;SG
+proje		DEF;N;NOM;PL;SG
+proje		INDF;N;NOM;SG
+proje		DEF;N;PL;ACC;LGSPEC2
+proje		DEF;N;SG;VOC;ACC;LGSPEC2
+proje		DEF;LGSPEC1;N;PL;VOC
+proje	projeinan	INDF;N;PL;ACC
+proje		INDF;N;NOM;PL
+gavan	gavanno	DEF;N;PL;VOC
+gavan		INDF;LGSPEC1;N;SG;ACC
+gavan	gavanine	INDF;LGSPEC1;N;PL
+gavan		DEF;LGSPEC1;N;SG
+gavan		DEF;N;SG;VOC
+gavan		DEF;N;SG;LGSPEC2
+gavan		INDF;N;NOM;SG
+gavan		DEF;N;PL;ACC;LGSPEC2
+gavan		DEF;N;NOM;PL;SG;ACC
+gavan		DEF;LGSPEC1;N;PL;VOC
+gavan		INDF;N;NOM;PL
+gavan		INDF;N;PL;ACC
+gavan		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+radestî		DEF;N;PL;VOC
+radestî		INDF;LGSPEC1;N;SG;ACC
+radestî		INDF;LGSPEC1;N;PL
+radestî		DEF;LGSPEC1;N;SG
+radestî		DEF;N;NOM;PL;SG
+radestî	radestîek	INDF;N;NOM;SG
+radestî		DEF;N;PL;ACC;LGSPEC2
+radestî		DEF;N;SG;VOC;ACC;LGSPEC2
+radestî		DEF;LGSPEC1;N;PL;VOC
+radestî		INDF;N;PL;ACC
+radestî		INDF;N;NOM;PL
+heq		INDF;LGSPEC1;N;SG;ACC
+heq		DEF;N;PL;VOC
+heq		ADJ;DEF;N;NOM;PL;SG;ACC
+heq		INDF;LGSPEC1;N;PL
+heq	heqê	DEF;LGSPEC1;N;SG
+heq		DEF;N;SG;VOC
+heq		DEF;N;SG;LGSPEC2
+heq		INDF;N;NOM;SG
+heq		DEF;N;PL;ACC;LGSPEC2
+heq		DEF;LGSPEC1;N;PL;VOC
+heq		INDF;N;PL;ACC
+heq		INDF;N;NOM;PL
+et		INDF;LGSPEC1;N;SG;ACC
+et		DEF;N;PL;VOC
+et		INDF;LGSPEC1;N;PL
+et	eta	DEF;LGSPEC1;N;SG
+et		DEF;N;PL;ACC;LGSPEC2
+et		INDF;N;NOM;SG
+et		DEF;N;NOM;PL;SG
+et		DEF;N;SG;VOC;ACC;LGSPEC2
+et		DEF;LGSPEC1;N;PL;VOC
+et		INDF;N;PL;ACC
+et		INDF;N;NOM;PL
+marî		DEF;N;PL;VOC
+marî		INDF;LGSPEC1;N;SG;ACC
+marî		ADJ;DEF;N;NOM;PL;SG
+marî		DEF;LGSPEC1;N;SG
+marî		INDF;N;NOM;SG
+marî		DEF;N;PL;ACC;LGSPEC2
+marî	marîê	DEF;N;SG;VOC;ACC;LGSPEC2
+marî		INDF;LGSPEC1;N;PL
+marî		DEF;LGSPEC1;N;PL;VOC
+marî		INDF;N;PL;ACC
+marî		INDF;N;NOM;PL
+heval		INDF;LGSPEC1;N;SG;ACC
+heval		DEF;N;PL;VOC
+heval		INDF;LGSPEC1;N;PL
+heval	hevala	DEF;LGSPEC1;N;SG
+heval		DEF;N;SG;VOC
+heval		DEF;N;SG;LGSPEC2
+heval		INDF;N;NOM;SG
+heval		DEF;N;PL;ACC;LGSPEC2
+heval	heval	DEF;N;NOM;PL;SG;ACC
+heval		DEF;LGSPEC1;N;PL;VOC
+heval		INDF;N;NOM;PL
+heval		INDF;N;PL;ACC
+heval		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+matematîk		DEF;N;PL;VOC
+matematîk		INDF;LGSPEC1;N;SG;ACC
+matematîk		INDF;LGSPEC1;N;PL
+matematîk		DEF;LGSPEC1;N;SG
+matematîk	matematîk	DEF;N;NOM;PL;SG
+matematîk		INDF;N;NOM;SG
+matematîk		DEF;N;PL;ACC;LGSPEC2
+matematîk		DEF;N;SG;VOC;ACC;LGSPEC2
+matematîk		DEF;LGSPEC1;N;PL;VOC
+matematîk		INDF;N;PL;ACC
+matematîk		INDF;N;NOM;PL
+dewlet		INDF;LGSPEC1;N;SG;ACC
+dewlet		DEF;N;PL;VOC
+dewlet	dewletine	INDF;LGSPEC1;N;PL
+dewlet		DEF;LGSPEC1;N;SG
+dewlet		DEF;N;PL;ACC;LGSPEC2
+dewlet		INDF;N;NOM;SG
+dewlet		DEF;N;NOM;PL;SG
+dewlet		DEF;N;SG;VOC;ACC;LGSPEC2
+dewlet		DEF;LGSPEC1;N;PL;VOC
+dewlet		INDF;N;PL;ACC
+dewlet		INDF;N;NOM;PL
+ax		DEF;N;PL;VOC
+ax		INDF;LGSPEC1;N;SG;ACC
+ax	axine	INDF;LGSPEC1;N;PL
+ax		DEF;LGSPEC1;N;SG
+ax		DEF;N;PL;ACC;LGSPEC2
+ax		INDF;N;NOM;SG
+ax		DEF;N;NOM;PL;SG
+ax		DEF;N;SG;VOC;ACC;LGSPEC2
+ax		DEF;LGSPEC1;N;PL;VOC
+ax		INDF;N;PL;ACC
+ax		INDF;N;NOM;PL
+destpêk		DEF;N;PL;VOC
+destpêk		INDF;LGSPEC1;N;SG;ACC
+destpêk		INDF;LGSPEC1;N;PL
+destpêk		DEF;LGSPEC1;N;SG
+destpêk		DEF;N;NOM;PL;SG
+destpêk		INDF;N;NOM;SG
+destpêk		DEF;N;PL;ACC;LGSPEC2
+destpêk		DEF;N;SG;VOC;ACC;LGSPEC2
+destpêk	destpêkên	DEF;LGSPEC1;N;PL;VOC
+destpêk		INDF;N;PL;ACC
+destpêk		INDF;N;NOM;PL
+pênc		ADJ;N;NUM
+pênc		ADJ;N
+pênc		N;NUM
+îtalî		INDF;LGSPEC1;N;SG;ACC
+îtalî		DEF;N;PL;VOC
+îtalî		ADJ;DEF;N;NOM;PL;SG;ACC
+îtalî		INDF;LGSPEC1;N;PL
+îtalî		DEF;LGSPEC1;N;SG
+îtalî		DEF;N;PL;ACC;LGSPEC2
+îtalî		DEF;N;SG;LGSPEC2
+îtalî		INDF;N;NOM;SG
+îtalî		DEF;N;SG;VOC
+îtalî		DEF;LGSPEC1;N;PL;VOC
+îtalî		INDF;N;NOM;PL
+îtalî	îtalîinan	INDF;N;PL;ACC
+îtalî	îtalîê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+malbat		DEF;N;PL;VOC
+malbat		INDF;LGSPEC1;N;SG;ACC
+malbat		INDF;LGSPEC1;N;PL
+malbat	malbata	DEF;LGSPEC1;N;SG
+malbat		DEF;N;PL;ACC;LGSPEC2
+malbat		INDF;N;NOM;SG
+malbat		DEF;N;NOM;PL;SG
+malbat		DEF;N;SG;VOC;ACC;LGSPEC2
+malbat		DEF;LGSPEC1;N;PL;VOC
+malbat		INDF;N;PL;ACC
+malbat		INDF;N;NOM;PL
+awî		DEF;N;PL;VOC
+awî		INDF;LGSPEC1;N;SG;ACC
+awî		ADJ;DEF;N;NOM;PL;SG;ACC
+awî	awîine	INDF;LGSPEC1;N;PL
+awî		DEF;LGSPEC1;N;SG
+awî		DEF;N;SG;VOC
+awî		DEF;N;SG;LGSPEC2
+awî		INDF;N;NOM;SG
+awî		DEF;N;PL;ACC;LGSPEC2
+awî		DEF;LGSPEC1;N;PL;VOC
+awî		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+awî	awîinan	INDF;N;PL;ACC
+awî		INDF;N;NOM;PL
+elmanî		INDF;LGSPEC1;N;SG;ACC
+elmanî		DEF;N;PL;VOC
+elmanî		ADJ;DEF;N;NOM;PL;SG;ACC
+elmanî		INDF;LGSPEC1;N;PL
+elmanî	elmanîa	DEF;LGSPEC1;N;SG
+elmanî		DEF;N;PL;ACC;LGSPEC2
+elmanî	elmanîî	DEF;N;SG;LGSPEC2
+elmanî		INDF;N;NOM;SG
+elmanî		DEF;N;SG;VOC
+elmanî		DEF;LGSPEC1;N;PL;VOC
+elmanî		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+elmanî		INDF;N;PL;ACC
+elmanî		INDF;N;NOM;PL
+kartol		DEF;N;PL;VOC
+kartol		INDF;LGSPEC1;N;SG;ACC
+kartol		INDF;LGSPEC1;N;PL
+kartol		DEF;LGSPEC1;N;SG
+kartol	kartol	DEF;N;NOM;PL;SG
+kartol		INDF;N;NOM;SG
+kartol		DEF;N;PL;ACC;LGSPEC2
+kartol		DEF;N;SG;VOC;ACC;LGSPEC2
+kartol		DEF;LGSPEC1;N;PL;VOC
+kartol		INDF;N;PL;ACC
+kartol		INDF;N;NOM;PL
+girtî		INDF;LGSPEC1;N;SG;ACC
+girtî		DEF;N;PL;VOC
+girtî	girtî	ADJ;DEF;N;NOM;PL;SG;ACC
+girtî		INDF;LGSPEC1;N;PL
+girtî		DEF;LGSPEC1;N;SG
+girtî		DEF;N;SG;VOC
+girtî		DEF;N;SG;LGSPEC2
+girtî		INDF;N;NOM;SG
+girtî		DEF;N;PL;ACC;LGSPEC2
+girtî		DEF;LGSPEC1;N;PL;VOC
+girtî	girtîin	INDF;N;NOM;PL
+girtî		INDF;N;PL;ACC
+girtî		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+moldovî		INDF;LGSPEC1;N;SG;ACC
+moldovî		DEF;N;PL;VOC
+moldovî	moldovî	ADJ;DEF;N;NOM;PL;SG;ACC
+moldovî		INDF;LGSPEC1;N;PL
+moldovî		DEF;LGSPEC1;N;SG
+moldovî		DEF;N;PL;ACC;LGSPEC2
+moldovî	moldovîî	DEF;N;SG;LGSPEC2
+moldovî		INDF;N;NOM;SG
+moldovî		DEF;N;SG;VOC
+moldovî		DEF;LGSPEC1;N;PL;VOC
+moldovî		INDF;N;NOM;PL
+moldovî		INDF;N;PL;ACC
+moldovî		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+wanî		DEF;N;PL;VOC
+wanî		INDF;LGSPEC1;N;SG;ACC
+wanî		INDF;LGSPEC1;N;PL
+wanî		DEF;LGSPEC1;N;SG
+wanî		DEF;N;SG;VOC
+wanî		DEF;N;SG;LGSPEC2
+wanî		INDF;N;NOM;SG
+wanî	wanîan	DEF;N;PL;ACC;LGSPEC2
+wanî	wanî	DEF;N;NOM;PL;SG;ACC
+wanî		DEF;LGSPEC1;N;PL;VOC
+wanî		INDF;N;NOM;PL
+wanî		INDF;N;PL;ACC
+wanî		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+rojname	rojnameeke	INDF;LGSPEC1;N;SG;ACC
+rojname		DEF;N;PL;VOC
+rojname		INDF;LGSPEC1;N;PL
+rojname		DEF;LGSPEC1;N;SG
+rojname		DEF;N;NOM;PL;SG
+rojname		INDF;N;NOM;SG
+rojname		DEF;N;PL;ACC;LGSPEC2
+rojname		DEF;N;SG;VOC;ACC;LGSPEC2
+rojname		DEF;LGSPEC1;N;PL;VOC
+rojname		INDF;N;PL;ACC
+rojname		INDF;N;NOM;PL
+zilam		DEF;N;PL;VOC
+zilam		INDF;LGSPEC1;N;SG;ACC
+zilam	zilamine	INDF;LGSPEC1;N;PL
+zilam		DEF;LGSPEC1;N;SG
+zilam		DEF;N;SG;VOC
+zilam		DEF;N;SG;LGSPEC2
+zilam		INDF;N;NOM;SG
+zilam		DEF;N;PL;ACC;LGSPEC2
+zilam		DEF;N;NOM;PL;SG;ACC
+zilam		DEF;LGSPEC1;N;PL;VOC
+zilam		INDF;N;PL;ACC
+zilam		INDF;N;NOM;PL
+aramî		INDF;LGSPEC1;N;SG;ACC
+aramî		DEF;N;PL;VOC
+aramî		INDF;LGSPEC1;N;PL
+aramî	aramîa	DEF;LGSPEC1;N;SG
+aramî		DEF;N;NOM;PL;SG
+aramî		INDF;N;NOM;SG
+aramî		DEF;N;PL;ACC;LGSPEC2
+aramî		DEF;N;SG;VOC;ACC;LGSPEC2
+aramî		DEF;LGSPEC1;N;PL;VOC
+aramî		INDF;N;PL;ACC
+aramî		INDF;N;NOM;PL
+hêl		DEF;N;PL;VOC
+hêl		INDF;LGSPEC1;N;SG;ACC
+hêl		INDF;LGSPEC1;N;PL
+hêl	hêla	DEF;LGSPEC1;N;SG
+hêl		INDF;N;NOM;SG
+hêl		DEF;N;PL;ACC;LGSPEC2
+hêl		DEF;N;SG;VOC;ACC;LGSPEC2
+hêl		ADJ;DEF;N;NOM;PL;SG
+hêl		DEF;LGSPEC1;N;PL;VOC
+hêl		INDF;N;PL;ACC
+hêl		INDF;N;NOM;PL
+guharîn		1;2;3;IND;NEG;PL;PST;V;PROG
+guharîn		2;IND;POS;PRS;SG;V;IPFV
+guharîn		3;COND;POS;PST;SG;V
+guharîn		1;IND;NEG;PST;SG;V;PROG
+guharîn		2;3;COND;POS;PST;SG;V
+guharîn	neguharn	1;2;3;IMP;NEG;PL;PRS;SBJV;V
+guharîn	guharîibûyî	2;IND;POS;PRF;PST;SG;V
+guharîn		1;COND;NEG;PL;PRF;PST;V
+guharîn	neguharîya	2;3;COND;NEG;PST;SG;V
+guharîn		1;2;3;IND;PFV;PL;POS;PST;V;V.MSDR
+guharîn		2;IND;NEG;PRF;PST;SG;V
+guharîn	biguharn	1;2;3;IMP;PL;POS;PRS;SBJV;V
+guharîn		1;2;3;IND;PL;POS;PST;V;PROG
+guharîn		2;3;COND;NEG;PL;PRF;PST;V
+guharîn		3;IND;NEG;PRS;SG;V;IPFV
+guharîn	neguharî	2;3;IND;NEG;PFV;PRS;PST;SBJV;SG;V;V.PTCP
+guharîn		1;IND;POS;PRF;PST;SG;V
+guharîn		1;POS;PRS;SBJV;SG;V
+guharîn	neguharîn	1;2;3;IND;NEG;PFV;PL;PST;V;V.MSDR
+guharîn		1;2;3;COND;PL;POS;PRF;PST;V
+guharîn	guharîne	1;2;3;IND;PL;POS;PRF;PRS;V
+guharîn		2;3;IND;POS;PRS;PST;SG;V;IPFV;PROG
+guharîn		1;IND;POS;PRF;PRS;SG;V
+guharîn	neguharîma	1;COND;NEG;PST;SG;V
+guharîn		2;COND;POS;PRF;PST;SG;V
+guharîn		2;3;IND;NEG;PRF;PRS;SG;V
+guharîn		1;COND;POS;PST;SG;V
+guharîn		3;COND;NEG;PRF;PST;SG;V
+guharîn	neguhar	3;IMP;NEG;PRS;SBJV;SG;V
+guharîn		3;IND;POS;PRS;SG;V;IPFV
+guharîn		2;IND;NEG;PST;SG;V;PROG
+guharîn	neguharîa	3;COND;NEG;PST;SG;V
+guharîn		1;IND;NEG;PRF;PRS;SG;V
+guharîn		1;2;3;IND;PL;POS;PRF;PST;V
+guharîn		2;IND;PFV;POS;PST;SG;V
+guharîn		1;IND;NEG;PRS;SG;V;IPFV
+guharîn		1;2;3;IND;PL;POS;PRS;V;IPFV
+guharîn		1;COND;NEG;PRF;PST;SG;V
+guharîn		NEG;V;V.MSDR;ACC
+guharîn		3;IND;PFV;POS;PST;SG;V;V.PTCP
+guharîn		1;IND;POS;PRS;SG;V;IPFV
+guharîn	nediguharî	3;IND;NEG;PST;SG;V;PROG
+guharîn		2;IND;NEG;PRS;SG;V;IPFV
+guharîn		2;COND;NEG;PRF;PST;SG;V
+guharîn		1;2;3;IND;NEG;PL;PRS;V;IPFV
+guharîn		2;IND;POS;PST;SG;V;PROG
+guharîn		2;IND;NEG;PRF;PRS;SG;V
+guharîn		1;2;3;COND;NEG;PL;PST;V
+guharîn		2;COND;NEG;PST;SG;V
+guharîn		2;IND;PFV;POS;PST;SG;V;V.PTCP
+guharîn		1;IND;NEG;PFV;PST;SG;V
+guharîn		2;POS;PRS;SBJV;SG;V
+guharîn	neguharîne	1;2;3;IND;NEG;PL;PRF;PRS;V
+guharîn		2;COND;POS;PST;SG;V
+guharîn		LGSPEC1;V;V.MSDR
+guharîn		1;IND;POS;PST;SG;V;PROG
+guharîn		3;IND;POS;PRF;PST;SG;V
+guharîn		3;IND;NEG;PRF;PST;SG;V
+guharîn		2;3;IND;POS;PRF;PRS;SG;V
+guharîn		1;NEG;PRS;SBJV;SG;V
+guharîn	guharîin	1;2;3;IND;PFV;PL;POS;PST;V
+guharîn		3;COND;POS;PRF;PST;SG;V
+guharîn		2;IND;NEG;PFV;PST;SG;V
+guharîn		1;2;3;COND;PL;POS;PST;V
+guharîn		1;2;3;COND;LGSPEC1;NEG;PL;PST;V;V.MSDR
+guharîn		1;IND;PFV;POS;PST;SG;V
+guharîn		2;3;COND;POS;PRF;PST;SG;V
+guharîn		1;2;3;COND;NEG;PL;PRF;PST;V
+guharîn		3;IMP;POS;PRS;SBJV;SG;V
+guharîn		2;IND;NEG;PFV;PST;SG;V;V.PTCP
+guharîn		2;3;COND;NEG;PRF;PST;SG;V
+guharîn	neguharyî	2;NEG;PRS;SBJV;SG;V
+guharîn		V;V.MSDR;ACC
+guharîn		1;2;3;IND;NEG;PL;PRF;PST;V
+guharîn		1;2;3;IND;NEG;PFV;PL;PST;V
+guharîn		1;IND;NEG;PRF;PST;SG;V
+guharîn		1;COND;POS;PRF;PST;SG;V
+komkujî		INDF;LGSPEC1;N;SG;ACC
+komkujî		DEF;N;PL;VOC
+komkujî		INDF;LGSPEC1;N;PL
+komkujî		DEF;LGSPEC1;N;SG
+komkujî		DEF;N;NOM;PL;SG
+komkujî	komkujîek	INDF;N;NOM;SG
+komkujî		DEF;N;PL;ACC;LGSPEC2
+komkujî		DEF;N;SG;VOC;ACC;LGSPEC2
+komkujî		DEF;LGSPEC1;N;PL;VOC
+komkujî		INDF;N;PL;ACC
+komkujî		INDF;N;NOM;PL
+dawî		INDF;LGSPEC1;N;SG;ACC
+dawî		DEF;N;PL;VOC
+dawî		INDF;LGSPEC1;N;PL
+dawî		DEF;LGSPEC1;N;SG
+dawî		DEF;N;NOM;PL;SG
+dawî		INDF;N;NOM;SG
+dawî		DEF;N;PL;ACC;LGSPEC2
+dawî		DEF;N;SG;VOC;ACC;LGSPEC2
+dawî		DEF;LGSPEC1;N;PL;VOC
+dawî	dawîinan	INDF;N;PL;ACC
+dawî		INDF;N;NOM;PL
+henefî		INDF;LGSPEC1;N;SG;ACC
+henefî	henefîno	DEF;N;PL;VOC
+henefî		INDF;LGSPEC1;N;PL
+henefî		DEF;LGSPEC1;N;SG
+henefî		DEF;N;PL;ACC;LGSPEC2
+henefî		DEF;N;SG;LGSPEC2
+henefî		INDF;N;NOM;SG
+henefî		DEF;N;SG;VOC
+henefî		DEF;N;NOM;PL;SG;ACC
+henefî		DEF;LGSPEC1;N;PL;VOC
+henefî		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+henefî		INDF;N;PL;ACC
+henefî	henefîin	INDF;N;NOM;PL
+rol		INDF;LGSPEC1;N;SG;ACC
+rol		DEF;N;PL;VOC
+rol		INDF;LGSPEC1;N;PL
+rol		DEF;LGSPEC1;N;SG
+rol		DEF;N;PL;ACC;LGSPEC2
+rol		INDF;N;NOM;SG
+rol	rol	DEF;N;NOM;PL;SG
+rol		DEF;N;SG;VOC;ACC;LGSPEC2
+rol		DEF;LGSPEC1;N;PL;VOC
+rol		INDF;N;PL;ACC
+rol		INDF;N;NOM;PL
+xane		DEF;N;PL;VOC
+xane	xaneeke	INDF;LGSPEC1;N;SG;ACC
+xane		INDF;LGSPEC1;N;PL
+xane		DEF;LGSPEC1;N;SG
+xane		DEF;N;NOM;PL;SG
+xane		INDF;N;NOM;SG
+xane		DEF;N;PL;ACC;LGSPEC2
+xane		DEF;N;SG;VOC;ACC;LGSPEC2
+xane		DEF;LGSPEC1;N;PL;VOC
+xane		INDF;N;PL;ACC
+xane		INDF;N;NOM;PL
+kovar		DEF;N;PL;VOC
+kovar		INDF;LGSPEC1;N;SG;ACC
+kovar		INDF;LGSPEC1;N;PL
+kovar		DEF;LGSPEC1;N;SG
+kovar		DEF;N;PL;ACC;LGSPEC2
+kovar		INDF;N;NOM;SG
+kovar	kovar	DEF;N;NOM;PL;SG
+kovar		DEF;N;SG;VOC;ACC;LGSPEC2
+kovar		DEF;LGSPEC1;N;PL;VOC
+kovar		INDF;N;PL;ACC
+kovar		INDF;N;NOM;PL
+roj		INDF;LGSPEC1;N;SG;ACC
+roj		DEF;N;PL;VOC
+roj		INDF;LGSPEC1;N;PL
+roj		DEF;LGSPEC1;N;SG
+roj		DEF;N;NOM;PL;SG
+roj		INDF;N;NOM;SG
+roj		DEF;N;PL;ACC;LGSPEC2
+roj		DEF;N;SG;VOC;ACC;LGSPEC2
+roj	rojên	DEF;LGSPEC1;N;PL;VOC
+roj		INDF;N;PL;ACC
+roj		INDF;N;NOM;PL
+tescîl		DEF;N;PL;VOC
+tescîl		INDF;LGSPEC1;N;SG;ACC
+tescîl		INDF;LGSPEC1;N;PL
+tescîl	tescîla	DEF;LGSPEC1;N;SG
+tescîl		DEF;N;NOM;PL;SG
+tescîl		INDF;N;NOM;SG
+tescîl		DEF;N;PL;ACC;LGSPEC2
+tescîl		DEF;N;SG;VOC;ACC;LGSPEC2
+tescîl		DEF;LGSPEC1;N;PL;VOC
+tescîl		INDF;N;PL;ACC
+tescîl		INDF;N;NOM;PL
+dayik		DEF;N;PL;VOC
+dayik		INDF;LGSPEC1;N;SG;ACC
+dayik	dayikine	INDF;LGSPEC1;N;PL
+dayik		DEF;LGSPEC1;N;SG
+dayik		DEF;N;SG;VOC
+dayik		DEF;N;SG;LGSPEC2
+dayik		INDF;N;NOM;SG
+dayik		DEF;N;PL;ACC;LGSPEC2
+dayik		DEF;N;NOM;PL;SG;ACC
+dayik		DEF;LGSPEC1;N;PL;VOC
+dayik		INDF;N;PL;ACC
+dayik		INDF;N;NOM;PL
+navandin		DEF;N;PL;VOC
+navandin		1;2;3;IND;NEG;PL;PST;V;PROG
+navandin		2;IND;POS;PRS;SG;V;IPFV
+navandin	navandim	1;IND;PFV;POS;PST;SG;V
+navandin	nedinavandim	1;IND;NEG;PST;SG;V;PROG
+navandin		1;IND;POS;PRF;PRS;SG;V
+navandin		1;COND;NEG;PL;PRF;PST;V
+navandin		1;2;3;IMP;NEG;PL;PRS;SBJV;V
+navandin		2;IND;POS;PRF;PST;SG;V
+navandin		2;3;COND;NEG;PST;SG;V
+navandin		3;IND;NEG;PFV;PST;SG;V
+navandin		2;IND;NEG;PRF;PST;SG;V
+navandin		1;COND;NEG;PRF;PST;SG;V
+navandin		1;2;3;IND;PL;POS;PST;V;PROG
+navandin		3;IND;NEG;PRS;SG;V;IPFV
+navandin		INDF;N;PL;ACC
+navandin		1;IND;POS;PRF;PST;SG;V
+navandin		1;POS;PRS;SBJV;SG;V
+navandin		1;2;3;IND;NEG;PFV;PL;PST;V;V.MSDR
+navandin		2;3;COND;NEG;PRF;PST;SG;V
+navandin		DEF;N;SG;V;V.MSDR;VOC;ACC;LGSPEC2
+navandin		1;2;3;COND;PL;POS;PRF;PST;V
+navandin		1;2;3;IND;PL;POS;PRF;PRS;V
+navandin	nenavînî	2;NEG;PRS;SBJV;SG;V
+navandin		1;2;3;IND;PL;POS;PRF;PST;V
+navandin	navandiyî	2;IND;PFV;POS;PST;SG;V;V.PTCP
+navandin		1;COND;NEG;PST;SG;V
+navandin		1;2;3;IND;NEG;PL;PRF;PRS;V
+navandin		2;COND;POS;PRF;PST;SG;V
+navandin		2;3;IND;NEG;PRF;PRS;SG;V
+navandin	binavandima	1;COND;POS;PST;SG;V
+navandin		1;2;3;COND;LGSPEC1;NEG;PL;PST;V;V.MSDR
+navandin		3;IMP;NEG;PRS;SBJV;SG;V
+navandin		3;IND;POS;PRS;SG;V;IPFV
+navandin		2;IND;NEG;PST;SG;V;PROG
+navandin		3;COND;NEG;PST;SG;V
+navandin	nenavandime	1;IND;NEG;PRF;PRS;SG;V
+navandin		1;2;3;DEF;IND;N;NOM;PFV;PL;POS;PST;SG;V;V.MSDR
+navandin	binavandia	3;COND;POS;PST;SG;V
+navandin	nenavandiba	3;COND;NEG;PRF;PST;SG;V
+navandin		1;2;3;IND;PL;POS;PRS;V;IPFV
+navandin		INDF;LGSPEC1;N;SG;ACC
+navandin		1;NEG;PRS;SBJV;SG;V
+navandin		1;2;3;IMP;PL;POS;PRS;SBJV;V
+navandin		NEG;V;V.MSDR;ACC
+navandin		3;IND;NEG;PRF;PST;SG;V
+navandin		2;COND;NEG;PRF;PST;SG;V
+navandin		2;IND;NEG;PRS;SG;V;IPFV
+navandin		3;IND;NEG;PST;SG;V;PROG
+navandin	nanavînn	1;2;3;IND;NEG;PL;PRS;V;IPFV
+navandin		3;IND;POS;PST;SG;V;PROG
+navandin		1;2;3;COND;PL;POS;PST;V
+navandin	nenavandibûna	1;2;3;COND;NEG;PL;PRF;PST;V
+navandin		1;2;3;COND;NEG;PL;PST;V
+navandin		2;COND;NEG;PST;SG;V
+navandin		1;IND;NEG;PFV;PST;SG;V
+navandin		2;POS;PRS;SBJV;SG;V
+navandin		3;IND;PFV;POS;PST;SG;V
+navandin	binavandiayî	2;COND;POS;PST;SG;V
+navandin		DEF;LGSPEC1;N;PL;VOC
+navandin	binavandiba	3;COND;POS;PRF;PST;SG;V
+navandin		1;IND;POS;PRS;SG;V;IPFV
+navandin		2;3;IND;POS;PRF;PRS;SG;V
+navandin		1;COND;POS;PRF;PST;SG;V
+navandin		1;2;3;IND;NEG;PL;PRF;PST;V
+navandin		3;IND;POS;PRF;PST;SG;V
+navandin		1;IND;NEG;PRS;SG;V;IPFV
+navandin		2;IND;POS;PST;SG;V;PROG
+navandin		2;3;COND;POS;PST;SG;V
+navandin		2;3;COND;POS;PRF;PST;SG;V
+navandin	navandinin	INDF;N;NOM;PL
+navandin	binavîn	3;IMP;POS;PRS;SBJV;SG;V
+navandin	nenavandiyî	2;IND;NEG;PFV;PST;SG;V;V.PTCP
+navandin		DEF;LGSPEC1;N;SG;V;V.MSDR
+navandin		INDF;N;NOM;SG
+navandin		DEF;N;PL;ACC;LGSPEC2
+navandin		1;IND;POS;PST;SG;V;PROG
+navandin		1;IND;NEG;PRF;PST;SG;V
+navandin		INDF;LGSPEC1;N;PL
+destek		DEF;N;PL;VOC
+destek		INDF;LGSPEC1;N;SG;ACC
+destek		INDF;LGSPEC1;N;PL
+destek		DEF;LGSPEC1;N;SG
+destek		DEF;N;SG;VOC
+destek		DEF;N;SG;LGSPEC2
+destek		INDF;N;NOM;SG
+destek		DEF;N;PL;ACC;LGSPEC2
+destek	destek	DEF;N;NOM;PL;SG;ACC
+destek		DEF;LGSPEC1;N;PL;VOC
+destek		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+destek	destekinan	INDF;N;PL;ACC
+destek		INDF;N;NOM;PL
+teswîr		DEF;N;PL;VOC
+teswîr		INDF;LGSPEC1;N;SG;ACC
+teswîr		INDF;LGSPEC1;N;PL
+teswîr		DEF;LGSPEC1;N;SG
+teswîr		DEF;N;NOM;PL;SG
+teswîr		INDF;N;NOM;SG
+teswîr		DEF;N;PL;ACC;LGSPEC2
+teswîr		DEF;N;SG;VOC;ACC;LGSPEC2
+teswîr		DEF;LGSPEC1;N;PL;VOC
+teswîr		INDF;N;PL;ACC
+teswîr	teswîrin	INDF;N;NOM;PL
+êzidî		DEF;N;PL;VOC
+êzidî		INDF;LGSPEC1;N;SG;ACC
+êzidî		INDF;LGSPEC1;N;PL
+êzidî		DEF;LGSPEC1;N;SG
+êzidî		DEF;N;PL;ACC;LGSPEC2
+êzidî		DEF;N;SG;LGSPEC2
+êzidî		INDF;N;NOM;SG
+êzidî	êzidîo	DEF;N;SG;VOC
+êzidî	êzidî	DEF;N;NOM;PL;SG;ACC
+êzidî		DEF;LGSPEC1;N;PL;VOC
+êzidî		INDF;N;NOM;PL
+êzidî		INDF;N;PL;ACC
+êzidî		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+tomar		DEF;N;PL;VOC
+tomar		INDF;LGSPEC1;N;SG;ACC
+tomar		INDF;LGSPEC1;N;PL
+tomar		DEF;LGSPEC1;N;SG
+tomar		DEF;N;PL;ACC;LGSPEC2
+tomar	tomarek	INDF;N;NOM;SG
+tomar		DEF;N;NOM;PL;SG
+tomar		DEF;N;SG;VOC;ACC;LGSPEC2
+tomar		DEF;LGSPEC1;N;PL;VOC
+tomar		INDF;N;PL;ACC
+tomar		INDF;N;NOM;PL
+cînav		INDF;LGSPEC1;N;SG;ACC
+cînav		DEF;N;PL;VOC
+cînav		INDF;LGSPEC1;N;PL
+cînav	cînava	DEF;LGSPEC1;N;SG
+cînav		DEF;N;SG;VOC
+cînav		DEF;N;SG;LGSPEC2
+cînav		INDF;N;NOM;SG
+cînav		DEF;N;PL;ACC;LGSPEC2
+cînav		DEF;N;NOM;PL;SG;ACC
+cînav		DEF;LGSPEC1;N;PL;VOC
+cînav		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+cînav		INDF;N;PL;ACC
+cînav	cînavin	INDF;N;NOM;PL
+çûyîn		1;2;3;IND;NEG;PL;PST;V;PROG
+çûyîn		2;IND;POS;PRS;SG;V;IPFV
+çûyîn		1;IND;NEG;PST;SG;V;PROG
+çûyîn		1;IND;POS;PRF;PRS;SG;V
+çûyîn		1;2;3;IMP;NEG;PL;PRS;SBJV;V
+çûyîn	biçûyîa	3;COND;POS;PST;SG;V
+çûyîn		1;COND;NEG;PL;PRF;PST;V
+çûyîn		2;3;COND;NEG;PST;SG;V
+çûyîn	çûyîn	1;2;3;IND;PFV;PL;POS;PST;V;V.MSDR
+çûyîn	neçûyîibûyî	2;IND;NEG;PRF;PST;SG;V
+çûyîn		1;2;3;IMP;PL;POS;PRS;SBJV;V
+çûyîn		1;2;3;IND;PL;POS;PST;V;PROG
+çûyîn		2;3;COND;NEG;PL;PRF;PST;V
+çûyîn		3;IND;NEG;PRS;SG;V;IPFV
+çûyîn		2;3;IND;NEG;PFV;PRS;PST;SBJV;SG;V;V.PTCP
+çûyîn		1;POS;PRS;SBJV;SG;V
+çûyîn		1;2;3;IND;NEG;PFV;PL;PST;V;V.MSDR
+çûyîn		1;2;3;COND;PL;POS;PRF;PST;V
+çûyîn		1;2;3;IND;PL;POS;PRF;PRS;V
+çûyîn	neçûyyî	2;NEG;PRS;SBJV;SG;V
+çûyîn		1;2;3;IND;PL;POS;PRF;PST;V
+çûyîn	çûyîî	2;IND;PFV;POS;PST;SG;V;V.PTCP
+çûyîn		1;COND;NEG;PST;SG;V
+çûyîn		2;COND;POS;PRF;PST;SG;V
+çûyîn		2;3;IND;NEG;PRF;PRS;SG;V
+çûyîn		1;COND;POS;PST;SG;V
+çûyîn		3;COND;NEG;PRF;PST;SG;V
+çûyîn		3;IMP;NEG;PRS;SBJV;SG;V
+çûyîn		3;IND;POS;PRS;SG;V;IPFV
+çûyîn		2;IND;NEG;PST;SG;V;PROG
+çûyîn		3;COND;NEG;PST;SG;V
+çûyîn		1;IND;NEG;PRF;PRS;SG;V
+çûyîn	naçûyin	1;2;3;IND;NEG;PL;PRS;V;IPFV
+çûyîn		2;IND;PFV;POS;PST;SG;V
+çûyîn		1;IND;NEG;PRS;SG;V;IPFV
+çûyîn		1;2;3;IND;PL;POS;PRS;V;IPFV
+çûyîn		2;3;COND;POS;PST;SG;V
+çûyîn		1;COND;NEG;PRF;PST;SG;V
+çûyîn		NEG;V;V.MSDR;ACC
+çûyîn		3;IND;PFV;POS;PST;SG;V;V.PTCP
+çûyîn		1;IND;POS;PRS;SG;V;IPFV
+çûyîn		LGSPEC1;V;V.MSDR
+çûyîn	naçûyyî	2;IND;NEG;PRS;SG;V;IPFV
+çûyîn		2;COND;NEG;PRF;PST;SG;V
+çûyîn		3;COND;POS;PRF;PST;SG;V
+çûyîn		1;2;3;COND;PL;POS;PST;V
+çûyîn		1;2;3;COND;NEG;PL;PRF;PST;V
+çûyîn		1;NEG;PRS;SBJV;SG;V
+çûyîn		3;IND;NEG;PST;SG;V;PROG
+çûyîn		1;IND;NEG;PFV;PST;SG;V
+çûyîn		2;POS;PRS;SBJV;SG;V
+çûyîn		1;2;3;IND;NEG;PL;PRF;PRS;V
+çûyîn	çûyîbûyî	2;IND;POS;PRF;PST;SG;V
+çûyîn		2;COND;POS;PST;SG;V
+çûyîn		1;IND;POS;PST;SG;V;PROG
+çûyîn		1;IND;POS;PRF;PST;SG;V
+çûyîn		1;2;3;IND;PFV;PL;POS;PST;V
+çûyîn		3;IND;NEG;PRF;PST;SG;V
+çûyîn		2;3;IND;POS;PRF;PRS;SG;V
+çûyîn	biçûyîbûma	1;COND;POS;PRF;PST;SG;V
+çûyîn		1;2;3;IND;NEG;PL;PRF;PST;V
+çûyîn	çûyîibû	3;IND;POS;PRF;PST;SG;V
+çûyîn		2;IND;NEG;PFV;PST;SG;V
+çûyîn		2;IND;POS;PST;SG;V;PROG
+çûyîn	neçûyîayî	2;COND;NEG;PST;SG;V
+çûyîn		1;2;3;COND;LGSPEC1;NEG;PL;PST;V;V.MSDR
+çûyîn		1;IND;PFV;POS;PST;SG;V
+çûyîn		2;3;COND;POS;PRF;PST;SG;V
+çûyîn	neçûyîye	2;IND;NEG;PRF;PRS;SG;V
+çûyîn	biçûy	3;IMP;POS;PRS;SBJV;SG;V
+çûyîn		2;IND;NEG;PFV;PST;SG;V;V.PTCP
+çûyîn		2;3;COND;NEG;PRF;PST;SG;V
+çûyîn		2;3;IND;POS;PRS;PST;SG;V;IPFV;PROG
+çûyîn	neçûyîana	1;2;3;COND;NEG;PL;PST;V
+çûyîn		V;V.MSDR;ACC
+çûyîn		1;2;3;IND;NEG;PFV;PL;PST;V
+çûyîn		1;IND;NEG;PRF;PST;SG;V
+kor		INDF;LGSPEC1;N;SG;ACC
+kor		DEF;N;PL;VOC
+kor		INDF;LGSPEC1;N;PL
+kor	kora	DEF;LGSPEC1;N;SG
+kor		DEF;N;NOM;PL;SG
+kor		INDF;N;NOM;SG
+kor		DEF;N;PL;ACC;LGSPEC2
+kor		DEF;N;SG;VOC;ACC;LGSPEC2
+kor		DEF;LGSPEC1;N;PL;VOC
+kor		INDF;N;PL;ACC
+kor		INDF;N;NOM;PL
+azerî		INDF;LGSPEC1;N;SG;ACC
+azerî		DEF;N;PL;VOC
+azerî		ADJ;DEF;N;NOM;PL;SG;ACC
+azerî		INDF;LGSPEC1;N;PL
+azerî		DEF;LGSPEC1;N;SG
+azerî		DEF;N;SG;VOC
+azerî		DEF;N;SG;LGSPEC2
+azerî		INDF;N;NOM;SG
+azerî	azerîan	DEF;N;PL;ACC;LGSPEC2
+azerî	azerîên	DEF;LGSPEC1;N;PL;VOC
+azerî		DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+azerî		INDF;N;PL;ACC
+azerî		INDF;N;NOM;PL
+pehlewî	pehlewîno	DEF;N;PL;VOC
+pehlewî		INDF;LGSPEC1;N;SG;ACC
+pehlewî		INDF;LGSPEC1;N;PL
+pehlewî		DEF;LGSPEC1;N;SG
+pehlewî		DEF;N;NOM;PL;SG
+pehlewî		INDF;N;NOM;SG
+pehlewî		DEF;N;PL;ACC;LGSPEC2
+pehlewî		DEF;N;SG;VOC;ACC;LGSPEC2
+pehlewî		DEF;LGSPEC1;N;PL;VOC
+pehlewî		INDF;N;PL;ACC
+pehlewî		INDF;N;NOM;PL
+siyasî		INDF;LGSPEC1;N;SG;ACC
+siyasî		DEF;N;PL;VOC
+siyasî		ADJ;DEF;N;NOM;PL;SG;ACC
+siyasî		INDF;LGSPEC1;N;PL
+siyasî		DEF;LGSPEC1;N;SG
+siyasî		DEF;N;PL;ACC;LGSPEC2
+siyasî	siyasîî	DEF;N;SG;LGSPEC2
+siyasî		INDF;N;NOM;SG
+siyasî		DEF;N;SG;VOC
+siyasî		DEF;LGSPEC1;N;PL;VOC
+siyasî		INDF;N;NOM;PL
+siyasî		INDF;N;PL;ACC
+siyasî	siyasîê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2

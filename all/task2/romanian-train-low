@@ -1,0 +1,79 @@
+amenințare	amenințare	N;VOC;SG
+amenințare	amenințărilor	N;GEN/DAT;PL;DEF
+amenințare	amenințările	N;NOM/ACC;PL;DEF
+amenințare	unei amenințări	N;GEN/DAT;SG;INDF
+amenințare	amenințărilor	N;VOC;PL
+amenințare	niște amenințări	N;NOM/ACC;SG;INDF
+minoritate	minoritate	N;VOC;SG
+minoritate	minorităților	N;GEN/DAT;PL;DEF
+minoritate	minoritățile	N;NOM/ACC;PL;DEF
+minoritate	unei minorități	N;GEN/DAT;SG;INDF
+minoritate	minorităților	N;VOC;PL
+minoritate	niște minorități	N;NOM/ACC;SG;INDF
+cetățean	cetățeanule	N;VOC;SG
+cetățean	cetățenilor	N;GEN/DAT;PL;DEF
+cetățean	cetățenii	N;NOM/ACC;PL;DEF
+cetățean	unui cetățean	N;GEN/DAT;SG;INDF
+cetățean	cetățenilor	N;VOC;PL
+cetățean	niște cetățeni	N;NOM/ACC;SG;INDF
+căutare	căutare	N;VOC;SG
+căutare	căutărilor	N;GEN/DAT;PL;DEF
+căutare	căutările	N;NOM/ACC;PL;DEF
+căutare	unei căutări	N;GEN/DAT;SG;INDF
+căutare	căutărilor	N;VOC;PL
+căutare	niște căutări	N;NOM/ACC;SG;INDF
+îndemânare	îndemânare	N;VOC;SG
+îndemânare	îndemânarea	N;NOM/ACC;PL;DEF
+îndemânare	îndemânări	N;GEN/DAT;SG;INDF
+îndemânare	îndemânării	N;GEN/DAT;PL;DEF
+îndemânare	îndemânare	N;NOM/ACC;SG;INDF
+oficial	oficiali	ADJ;DAT/GEN;FEM;SG;INDF
+oficial	oficialului	ADJ;DAT/GEN;MASC;SG;DEF
+oficial	oficiali	ADJ;NOM/ACC;FEM;SG;INDF
+oficial	oficiale	ADJ;DAT/GEN;PL;INDF
+oficial	oficialul	ADJ;NOM/ACC;MASC;SG;DEF
+oficial	oficial	ADJ;NOM/ACC;MASC;SG;INDF
+oficial	oficialei	ADJ;DAT/GEN;NEUT;SG;DEF
+oficial	oficialilor	ADJ;DAT/GEN;FEM;SG;DEF
+oficial	oficial	ADJ;DAT/GEN;MASC;SG;INDF
+oficial	oficialele	ADJ;NOM/ACC;PL;DEF
+oficial	oficiala	ADJ;NOM/ACC;NEUT;SG;DEF
+oficial	oficialii	ADJ;NOM/ACC;FEM;SG;DEF
+oficial	oficialelor	ADJ;DAT/GEN;PL;DEF
+oficial	oficiale	ADJ;NOM/ACC;PL;INDF
+oficial	oficială	ADJ;NOM/ACC;NEUT;SG;INDF
+oficial	oficiale	ADJ;DAT/GEN;NEUT;SG;INDF
+origine	origine	N;VOC;SG
+origine	originilor	N;GEN/DAT;PL;DEF
+origine	originile	N;NOM/ACC;PL;DEF
+origine	unei origini	N;GEN/DAT;SG;INDF
+origine	originilor	N;VOC;PL
+origine	niște origini	N;NOM/ACC;SG;INDF
+autor	autorule	N;VOC;SG
+autor	autorilor	N;GEN/DAT;PL;DEF
+autor	autorii	N;NOM/ACC;PL;DEF
+autor	unui autor	N;GEN/DAT;SG;INDF
+autor	autorilor	N;VOC;PL
+autor	niște autori	N;NOM/ACC;SG;INDF
+simplu	simpli	ADJ;DAT/GEN;FEM;SG;INDF
+simplu	simplului	ADJ;DAT/GEN;MASC;SG;DEF
+simplu	simpli	ADJ;NOM/ACC;FEM;SG;INDF
+simplu	simple	ADJ;DAT/GEN;PL;INDF
+simplu	simplul	ADJ;NOM/ACC;MASC;SG;DEF
+simplu	simplu	ADJ;NOM/ACC;MASC;SG;INDF
+simplu	simplei	ADJ;DAT/GEN;NEUT;SG;DEF
+simplu	simplilor	ADJ;DAT/GEN;FEM;SG;DEF
+simplu	simplu	ADJ;DAT/GEN;MASC;SG;INDF
+simplu	simplele	ADJ;NOM/ACC;PL;DEF
+simplu	simpla	ADJ;NOM/ACC;NEUT;SG;DEF
+simplu	simplii	ADJ;NOM/ACC;FEM;SG;DEF
+simplu	simplelor	ADJ;DAT/GEN;PL;DEF
+simplu	simple	ADJ;NOM/ACC;PL;INDF
+simplu	simplă	ADJ;NOM/ACC;NEUT;SG;INDF
+simplu	simple	ADJ;DAT/GEN;NEUT;SG;INDF
+oraș	orașule	N;VOC;SG
+oraș	orașelor	N;GEN/DAT;PL;DEF
+oraș	orașele	N;NOM/ACC;PL;DEF
+oraș	unui oraș	N;GEN/DAT;SG;INDF
+oraș	orașelor	N;VOC;PL
+oraș	niște orașe	N;NOM/ACC;SG;INDF
