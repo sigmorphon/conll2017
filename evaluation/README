@@ -1,4 +1,4 @@
-The official evaluation script lives in this directory. We have provided sample output from the baseline model on the development data in sample-output/. You may run the baseline as show in the examples below.
+The official evaluation script lives in this directory. We have provided sample output from the baseline model on the development data in sample-output/. You may run the baseline as shown in the examples below.
 
 Task 1 Evaluation:
 
