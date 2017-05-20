@@ -1,0 +1,768 @@
+svørja		V;IND;PST;2;SG
+svørja		V;IND;PST;3
+svørja		V;IND;PST;1;SG
+svørja		V.PTCP.PST
+svørja		V;IND;PRS;2;SG
+svørja		V.CVB
+svørja		V;IND;PRS;1;SG
+svørja		V;IND;PRS;3
+svørja	svør	V;IND;PRS;3;SG
+svørja		V;IMP;2;SG
+svørja		V;IMP;2;PL
+svørja	svørjandi	V.PTCP.PRS
+svørja		V;IND;PST;3;SG
+svørja		V;NFIN
+samtala		N;INDF;GEN;PL
+samtala		N;INDF;GEN;SG
+samtala		N;DEF;GEN;SG
+samtala		N;DEF;ACC;SG
+samtala		N;DEF;DAT;SG
+samtala		N;INDF;DAT;PL
+samtala		N;DEF;NOM;PL
+samtala	samtalunum	N;DEF;DAT;PL
+samtala		N;INDF;NOM;SG
+samtala		N;INDF;ACC;SG
+samtala		N;DEF;NOM;SG
+samtala		N;INDF;DAT;SG
+samtala		N;INDF;NOM;PL
+samtala		N;INDF;ACC;PL
+samtala		N;DEF;GEN;PL
+samtala	samtalurnar	N;DEF;ACC;PL
+hørur		N;INDF;GEN;PL
+hørur		N;INDF;GEN;SG
+hørur		N;INDF;DAT;PL
+hørur		N;INDF;NOM;PL
+hørur		N;INDF;NOM;SG
+hørur	hør	N;INDF;ACC;SG
+hørur		N;INDF;DAT;SG
+hørur		N;INDF;ACC;PL
+fongsul		N;INDF;GEN;PL
+fongsul		N;DEF;DAT;PL
+fongsul		N;DEF;GEN;SG
+fongsul		N;DEF;GEN;PL
+fongsul		N;INDF;GEN;SG
+fongsul		N;DEF;DAT;SG
+fongsul		N;DEF;NOM;SG
+fongsul		N;INDF;NOM;PL
+fongsul		N;INDF;NOM;SG
+fongsul		N;INDF;ACC;SG
+fongsul		N;INDF;DAT;PL
+fongsul	fongslið	N;DEF;ACC;SG
+fongsul		N;INDF;DAT;SG
+fongsul		N;INDF;ACC;PL
+fongsul		N;DEF;NOM;PL
+fongsul	fongslini	N;DEF;ACC;PL
+merja		V;NFIN
+merja		V;IND;PST;3
+merja		V;IND;PST;1;SG
+merja		V.PTCP.PRS
+merja		V;IND;PRS;2;SG
+merja		V.CVB
+merja		V;IND;PRS;1;SG
+merja		V;IND;PRS;3
+merja		V;IMP;2;SG
+merja	merjir	V;IND;PRS;3;SG
+merja		V;IMP;2;PL
+merja		V.PTCP.PST
+merja	mardi	V;IND;PST;3;SG
+merja		V;IND;PST;2;SG
+moska		N;INDF;GEN;PL
+moska	mosku	N;INDF;GEN;SG
+moska		N;DEF;GEN;SG
+moska	moskuna	N;DEF;ACC;SG
+moska		N;DEF;DAT;SG
+moska		N;INDF;DAT;PL
+moska		N;DEF;NOM;PL
+moska		N;DEF;DAT;PL
+moska		N;INDF;NOM;SG
+moska		N;INDF;ACC;SG
+moska		N;DEF;NOM;SG
+moska		N;INDF;DAT;SG
+moska		N;INDF;NOM;PL
+moska		N;INDF;ACC;PL
+moska		N;DEF;GEN;PL
+moska		N;DEF;ACC;PL
+keks		N;INDF;GEN;PL
+keks		N;INDF;GEN;SG
+keks		N;INDF;DAT;PL
+keks		N;DEF;ACC;SG
+keks		N;DEF;DAT;PL
+keks		N;DEF;DAT;SG
+keks		N;DEF;GEN;SG
+keks		N;DEF;NOM;PL
+keks		N;INDF;NOM;PL
+keks		N;INDF;NOM;SG
+keks		N;INDF;ACC;SG
+keks	keksin	N;DEF;NOM;SG
+keks	keks	N;INDF;DAT;SG
+keks		N;INDF;ACC;PL
+keks		N;DEF;GEN;PL
+keks		N;DEF;ACC;PL
+løn		N;INDF;GEN;PL
+løn		N;INDF;GEN;SG
+løn		N;INDF;DAT;PL
+løn	lønina	N;DEF;ACC;SG
+løn		N;DEF;DAT;PL
+løn		N;DEF;DAT;SG
+løn		N;DEF;GEN;SG
+løn		N;DEF;NOM;PL
+løn	lønir	N;INDF;NOM;PL
+løn		N;INDF;NOM;SG
+løn		N;INDF;ACC;SG
+løn		N;DEF;NOM;SG
+løn		N;INDF;DAT;SG
+løn		N;INDF;ACC;PL
+løn		N;DEF;GEN;PL
+løn		N;DEF;ACC;PL
+tík		N;INDF;GEN;PL
+tík		N;INDF;GEN;SG
+tík		N;INDF;DAT;PL
+tík		N;DEF;GEN;PL
+tík		N;DEF;DAT;PL
+tík		N;DEF;DAT;SG
+tík		N;DEF;GEN;SG
+tík		N;INDF;NOM;PL
+tík		N;INDF;NOM;SG
+tík		N;INDF;ACC;SG
+tík		N;DEF;NOM;SG
+tík	tíkina	N;DEF;ACC;SG
+tík		N;INDF;DAT;SG
+tík		N;INDF;ACC;PL
+tík		N;DEF;NOM;PL
+tík	tíkarnar	N;DEF;ACC;PL
+skunda		V;NFIN
+skunda		V;IND;PST;3
+skunda		V;IND;PST;1;SG
+skunda		V.PTCP.PRS
+skunda		V;IND;PRS;2;SG
+skunda		V.CVB
+skunda	skundi	V;IND;PRS;1;SG
+skunda		V;IND;PRS;3
+skunda		V;IMP;2;SG
+skunda	skundar	V;IND;PRS;3;SG
+skunda		V;IMP;2;PL
+skunda		V.PTCP.PST
+skunda		V;IND;PST;3;SG
+skunda		V;IND;PST;2;SG
+krevja		V;NFIN
+krevja		V;IND;PST;3
+krevja		V;IND;PST;1;SG
+krevja		V.PTCP.PRS
+krevja		V;IND;PRS;2;SG
+krevja	kravt	V.CVB
+krevja		V;IND;PRS;1;SG
+krevja		V;IND;PRS;3
+krevja		V;IMP;2;SG
+krevja		V;IND;PRS;3;SG
+krevja		V;IMP;2;PL
+krevja		V.PTCP.PST
+krevja	kravdi	V;IND;PST;3;SG
+krevja		V;IND;PST;2;SG
+kærligur		ADJ;NOM;MASC;PL
+kærligur		ADJ;GEN;MASC;SG
+kærligur		ADJ;NEUT;PL
+kærligur		ADJ;FEM;PL
+kærligur	kærligar	ADJ;GEN;FEM;SG
+kærligur		ADJ;ACC;MASC;SG
+kærligur		ADJ;DAT;FEM;SG
+kærligur		ADJ;DAT;MASC;PL
+kærligur		ADJ;GEN;MASC;PL
+kærligur	kærligs	ADJ;GEN;NEUT;SG
+kærligur		ADJ;NOM/ACC;NEUT;SG
+kærligur		ADJ;DAT;NEUT;SG
+kærligur		ADJ;NOM;MASC;SG
+kærligur		ADJ;NOM;FEM;SG
+kærligur		ADJ;DAT;MASC;SG
+kærligur		ADJ;ACC;FEM;SG
+kærligur		ADJ;ACC;MASC;PL
+hósdagur		N;INDF;GEN;PL
+hósdagur		N;INDF;GEN;SG
+hósdagur		N;INDF;DAT;PL
+hósdagur		N;DEF;NOM;PL
+hósdagur		N;DEF;DAT;PL
+hósdagur	hósdegnum	N;DEF;DAT;SG
+hósdagur		N;DEF;GEN;SG
+hósdagur		N;INDF;NOM;PL
+hósdagur		N;INDF;NOM;SG
+hósdagur		N;INDF;ACC;SG
+hósdagur		N;DEF;NOM;SG
+hósdagur	hósdagin	N;DEF;ACC;SG
+hósdagur		N;INDF;DAT;SG
+hósdagur		N;INDF;ACC;PL
+hósdagur		N;DEF;GEN;PL
+hósdagur		N;DEF;ACC;PL
+merki		N;INDF;GEN;PL
+merki		N;INDF;GEN;SG
+merki		N;DEF;GEN;PL
+merki		N;INDF;DAT;PL
+merki		N;DEF;ACC;SG
+merki		N;DEF;DAT;PL
+merki		N;DEF;DAT;SG
+merki	merkið	N;DEF;NOM;SG
+merki		N;INDF;NOM;PL
+merki	merki	N;INDF;NOM;SG
+merki		N;INDF;ACC;SG
+merki		N;DEF;GEN;SG
+merki		N;INDF;DAT;SG
+merki		N;INDF;ACC;PL
+merki		N;DEF;NOM;PL
+merki		N;DEF;ACC;PL
+friðarligur	friðarligir	ADJ;NOM;MASC;PL
+friðarligur		ADJ;GEN;MASC;SG
+friðarligur		ADJ;NEUT;PL
+friðarligur	friðarligar	ADJ;FEM;PL
+friðarligur		ADJ;GEN;FEM;SG
+friðarligur		ADJ;ACC;MASC;SG
+friðarligur		ADJ;DAT;FEM;SG
+friðarligur		ADJ;DAT;MASC;PL
+friðarligur		ADJ;GEN;MASC;PL
+friðarligur		ADJ;GEN;NEUT;SG
+friðarligur		ADJ;NOM/ACC;NEUT;SG
+friðarligur		ADJ;DAT;NEUT;SG
+friðarligur		ADJ;NOM;MASC;SG
+friðarligur		ADJ;NOM;FEM;SG
+friðarligur		ADJ;DAT;MASC;SG
+friðarligur		ADJ;ACC;FEM;SG
+friðarligur		ADJ;ACC;MASC;PL
+flogfar		N;INDF;GEN;PL
+flogfar		N;INDF;GEN;SG
+flogfar		N;INDF;DAT;PL
+flogfar		N;DEF;ACC;SG
+flogfar		N;DEF;DAT;PL
+flogfar		N;DEF;DAT;SG
+flogfar	flogfarið	N;DEF;NOM;SG
+flogfar		N;DEF;NOM;PL
+flogfar		N;INDF;NOM;PL
+flogfar		N;INDF;NOM;SG
+flogfar		N;INDF;ACC;SG
+flogfar		N;DEF;GEN;SG
+flogfar	flogfari	N;INDF;DAT;SG
+flogfar		N;INDF;ACC;PL
+flogfar		N;DEF;GEN;PL
+flogfar		N;DEF;ACC;PL
+hamar		N;INDF;GEN;PL
+hamar		N;INDF;GEN;SG
+hamar		N;INDF;DAT;PL
+hamar		N;DEF;ACC;SG
+hamar		N;DEF;DAT;PL
+hamar		N;DEF;DAT;SG
+hamar		N;DEF;GEN;SG
+hamar	hamrarnir	N;DEF;NOM;PL
+hamar	hamrar	N;INDF;NOM;PL
+hamar		N;INDF;NOM;SG
+hamar		N;INDF;ACC;SG
+hamar		N;DEF;NOM;SG
+hamar		N;INDF;DAT;SG
+hamar		N;INDF;ACC;PL
+hamar		N;DEF;GEN;PL
+hamar		N;DEF;ACC;PL
+støð		N;INDF;GEN;PL
+støð		N;INDF;GEN;SG
+støð	støðum	N;INDF;DAT;PL
+støð		N;DEF;ACC;SG
+støð		N;DEF;DAT;PL
+støð		N;DEF;DAT;SG
+støð		N;DEF;GEN;SG
+støð		N;DEF;NOM;PL
+støð		N;INDF;NOM;PL
+støð		N;INDF;NOM;SG
+støð		N;INDF;ACC;SG
+støð	støðin	N;DEF;NOM;SG
+støð		N;INDF;DAT;SG
+støð		N;INDF;ACC;PL
+støð		N;DEF;GEN;PL
+støð		N;DEF;ACC;PL
+tiknir		ADJ;DAT;FEM;SG
+tiknir		ADJ;NOM;MASC;PL
+tiknir		ADJ;GEN;MASC;SG
+tiknir		ADJ;NEUT;PL
+tiknir	tikins	ADJ;GEN;NEUT;SG
+tiknir		ADJ;GEN;FEM;SG
+tiknir		ADJ;ACC;MASC;SG
+tiknir		ADJ;FEM;PL
+tiknir		ADJ;DAT;MASC;PL
+tiknir		ADJ;GEN;MASC;PL
+tiknir	tikið	ADJ;NOM/ACC;NEUT;SG
+tiknir		ADJ;DAT;NEUT;SG
+tiknir		ADJ;NOM;MASC;SG
+tiknir		ADJ;NOM;FEM;SG
+tiknir		ADJ;DAT;MASC;SG
+tiknir		ADJ;ACC;FEM;SG
+tiknir		ADJ;ACC;MASC;PL
+eyðkenna		V;NFIN
+eyðkenna		V;IND;PST;3
+eyðkenna		V;IND;PST;1;SG
+eyðkenna		V.PTCP.PST
+eyðkenna		V;IND;PRS;2;SG
+eyðkenna	eyðkent	V.CVB
+eyðkenna		V;IND;PRS;1;SG
+eyðkenna		V;IND;PRS;3
+eyðkenna		V;IND;PRS;3;SG
+eyðkenna	eyðkenna	V;IMP;2;SG
+eyðkenna		V;IMP;2;PL
+eyðkenna		V.PTCP.PRS
+eyðkenna		V;IND;PST;3;SG
+eyðkenna		V;IND;PST;2;SG
+yrki		N;INDF;GEN;PL
+yrki		N;INDF;GEN;SG
+yrki		N;DEF;GEN;PL
+yrki		N;INDF;DAT;PL
+yrki		N;DEF;ACC;SG
+yrki	yrkjunum	N;DEF;DAT;PL
+yrki	yrkinum	N;DEF;DAT;SG
+yrki		N;DEF;NOM;SG
+yrki		N;INDF;NOM;PL
+yrki		N;INDF;NOM;SG
+yrki		N;INDF;ACC;SG
+yrki		N;DEF;GEN;SG
+yrki		N;INDF;DAT;SG
+yrki		N;INDF;ACC;PL
+yrki		N;DEF;NOM;PL
+yrki		N;DEF;ACC;PL
+áðurnevndur		ADJ;NOM;MASC;PL
+áðurnevndur		ADJ;GEN;MASC;SG
+áðurnevndur		ADJ;NEUT;PL
+áðurnevndur		ADJ;FEM;PL
+áðurnevndur		ADJ;GEN;FEM;SG
+áðurnevndur		ADJ;ACC;MASC;SG
+áðurnevndur		ADJ;DAT;FEM;SG
+áðurnevndur		ADJ;DAT;MASC;PL
+áðurnevndur		ADJ;GEN;MASC;PL
+áðurnevndur	áðurnevnds	ADJ;GEN;NEUT;SG
+áðurnevndur		ADJ;NOM/ACC;NEUT;SG
+áðurnevndur		ADJ;DAT;NEUT;SG
+áðurnevndur		ADJ;NOM;MASC;SG
+áðurnevndur		ADJ;NOM;FEM;SG
+áðurnevndur		ADJ;DAT;MASC;SG
+áðurnevndur		ADJ;ACC;FEM;SG
+áðurnevndur	áðurnevndar	ADJ;ACC;MASC;PL
+trupul		ADJ;NOM;MASC;PL
+trupul		ADJ;GEN;MASC;SG
+trupul		ADJ;NEUT;PL
+trupul		ADJ;FEM;PL
+trupul		ADJ;ACC;MASC;PL
+trupul		ADJ;ACC;MASC;SG
+trupul		ADJ;DAT;FEM;SG
+trupul		ADJ;DAT;MASC;PL
+trupul	trupla	ADJ;GEN;MASC;PL
+trupul		ADJ;GEN;NEUT;SG
+trupul		ADJ;NOM/ACC;NEUT;SG
+trupul		ADJ;DAT;NEUT;SG
+trupul	trupul	ADJ;NOM;MASC;SG
+trupul		ADJ;NOM;FEM;SG
+trupul		ADJ;DAT;MASC;SG
+trupul		ADJ;ACC;FEM;SG
+trupul		ADJ;GEN;FEM;SG
+skráseta		V;IND;PST;2;SG
+skráseta	skrásettu	V;IND;PST;3
+skráseta		V;IND;PST;1;SG
+skráseta		V.PTCP.PST
+skráseta		V;IND;PRS;2;SG
+skráseta		V.CVB
+skráseta		V;IND;PRS;1;SG
+skráseta		V;IND;PRS;3
+skráseta		V;IMP;2;SG
+skráseta		V;IND;PRS;3;SG
+skráseta		V;IMP;2;PL
+skráseta		V.PTCP.PRS
+skráseta	skrásetti	V;IND;PST;3;SG
+skráseta		V;NFIN
+ymiskur		ADJ;NOM;MASC;PL
+ymiskur		ADJ;GEN;MASC;SG
+ymiskur		ADJ;NEUT;PL
+ymiskur	ymiskar	ADJ;FEM;PL
+ymiskur		ADJ;GEN;FEM;SG
+ymiskur		ADJ;ACC;MASC;SG
+ymiskur		ADJ;DAT;FEM;SG
+ymiskur		ADJ;DAT;MASC;PL
+ymiskur		ADJ;GEN;MASC;PL
+ymiskur		ADJ;GEN;NEUT;SG
+ymiskur		ADJ;NOM/ACC;NEUT;SG
+ymiskur	ymiskum	ADJ;DAT;NEUT;SG
+ymiskur		ADJ;NOM;MASC;SG
+ymiskur		ADJ;NOM;FEM;SG
+ymiskur		ADJ;DAT;MASC;SG
+ymiskur		ADJ;ACC;FEM;SG
+ymiskur		ADJ;ACC;MASC;PL
+arbeiðsfólk		N;INDF;GEN;PL
+arbeiðsfólk		N;INDF;GEN;SG
+arbeiðsfólk		N;INDF;DAT;PL
+arbeiðsfólk		N;DEF;GEN;PL
+arbeiðsfólk		N;DEF;DAT;PL
+arbeiðsfólk		N;DEF;DAT;SG
+arbeiðsfólk		N;DEF;NOM;SG
+arbeiðsfólk		N;INDF;NOM;PL
+arbeiðsfólk	arbeiðsfólk	N;INDF;NOM;SG
+arbeiðsfólk		N;INDF;ACC;SG
+arbeiðsfólk		N;DEF;GEN;SG
+arbeiðsfólk	arbeiðsfólkið	N;DEF;ACC;SG
+arbeiðsfólk		N;INDF;DAT;SG
+arbeiðsfólk		N;INDF;ACC;PL
+arbeiðsfólk		N;DEF;NOM;PL
+arbeiðsfólk		N;DEF;ACC;PL
+rækja		N;INDF;GEN;PL
+rækja		N;INDF;GEN;SG
+rækja	rækjunnar	N;DEF;GEN;SG
+rækja		N;DEF;ACC;SG
+rækja		N;DEF;DAT;SG
+rækja		N;INDF;DAT;PL
+rækja		N;DEF;NOM;PL
+rækja		N;DEF;DAT;PL
+rækja		N;INDF;NOM;SG
+rækja		N;INDF;ACC;SG
+rækja		N;DEF;NOM;SG
+rækja		N;INDF;DAT;SG
+rækja	rækjur	N;INDF;NOM;PL
+rækja		N;INDF;ACC;PL
+rækja		N;DEF;GEN;PL
+rækja		N;DEF;ACC;PL
+ætla		V;NFIN
+ætla		V;IND;PST;3
+ætla	ætlaði	V;IND;PST;1;SG
+ætla		V.PTCP.PRS
+ætla		V;IND;PRS;2;SG
+ætla		V.CVB
+ætla		V;IND;PRS;1;SG
+ætla		V;IND;PRS;3
+ætla		V;IMP;2;SG
+ætla		V;IND;PRS;3;SG
+ætla		V;IMP;2;PL
+ætla	ætlaður	V.PTCP.PST
+ætla		V;IND;PST;3;SG
+ætla		V;IND;PST;2;SG
+jarða		V;NFIN
+jarða		V;IND;PST;3
+jarða		V;IND;PST;1;SG
+jarða		V.PTCP.PRS
+jarða	jarðar	V;IND;PRS;2;SG
+jarða	jarðað	V.CVB
+jarða		V;IND;PRS;1;SG
+jarða		V;IND;PRS;3
+jarða		V;IMP;2;SG
+jarða		V;IND;PRS;3;SG
+jarða		V;IMP;2;PL
+jarða		V.PTCP.PST
+jarða		V;IND;PST;3;SG
+jarða		V;IND;PST;2;SG
+undirhópur		N;DEF;NOM;SG
+undirhópur		N;INDF;GEN;PL
+undirhópur		N;INDF;GEN;SG
+undirhópur	undirhóparnir	N;DEF;NOM;PL
+undirhópur		N;DEF;DAT;SG
+undirhópur		N;DEF;GEN;SG
+undirhópur		N;INDF;NOM;SG
+undirhópur		N;INDF;NOM;PL
+undirhópur		N;DEF;DAT;PL
+undirhópur		N;INDF;ACC;SG
+undirhópur		N;INDF;DAT;PL
+undirhópur		N;DEF;ACC;SG
+undirhópur		N;INDF;DAT;SG
+undirhópur		N;INDF;ACC;PL
+undirhópur	undirhópanna	N;DEF;GEN;PL
+undirhópur		N;DEF;ACC;PL
+rútur		N;DEF;NOM;SG
+rútur		N;INDF;GEN;PL
+rútur		N;INDF;GEN;SG
+rútur		N;DEF;NOM;PL
+rútur		N;DEF;DAT;SG
+rútur	rútsins	N;DEF;GEN;SG
+rútur		N;INDF;NOM;SG
+rútur		N;INDF;NOM;PL
+rútur		N;DEF;DAT;PL
+rútur		N;INDF;ACC;SG
+rútur		N;INDF;DAT;PL
+rútur		N;DEF;ACC;SG
+rútur	rúti	N;INDF;DAT;SG
+rútur		N;INDF;ACC;PL
+rútur		N;DEF;GEN;PL
+rútur		N;DEF;ACC;PL
+hugna		V;NFIN
+hugna		V;IND;PST;3
+hugna		V;IND;PST;1;SG
+hugna		V.PTCP.PRS
+hugna	hugnar	V;IND;PRS;2;SG
+hugna		V.CVB
+hugna		V;IND;PRS;1;SG
+hugna		V;IND;PRS;3
+hugna		V;IMP;2;SG
+hugna		V;IND;PRS;3;SG
+hugna		V;IMP;2;PL
+hugna	hugnaður	V.PTCP.PST
+hugna		V;IND;PST;3;SG
+hugna		V;IND;PST;2;SG
+segl		N;INDF;GEN;PL
+segl		N;INDF;GEN;SG
+segl		N;INDF;DAT;PL
+segl		N;DEF;GEN;PL
+segl	seglunum	N;DEF;DAT;PL
+segl		N;DEF;DAT;SG
+segl		N;DEF;NOM;SG
+segl		N;INDF;NOM;PL
+segl		N;INDF;NOM;SG
+segl		N;INDF;ACC;SG
+segl	seglsins	N;DEF;GEN;SG
+segl		N;DEF;ACC;SG
+segl		N;INDF;DAT;SG
+segl		N;INDF;ACC;PL
+segl		N;DEF;NOM;PL
+segl		N;DEF;ACC;PL
+spara		V;NFIN
+spara		V;IND;PST;3
+spara		V;IND;PST;1;SG
+spara		V.PTCP.PST
+spara		V;IND;PRS;2;SG
+spara		V.CVB
+spara		V;IND;PRS;1;SG
+spara		V;IND;PRS;3
+spara		V;IMP;2;SG
+spara		V;IND;PRS;3;SG
+spara	sparið	V;IMP;2;PL
+spara	sparandi	V.PTCP.PRS
+spara		V;IND;PST;3;SG
+spara		V;IND;PST;2;SG
+fegna	fegna	V;NFIN
+fegna		V;IND;PST;3
+fegna		V;IND;PST;1;SG
+fegna		V.PTCP.PRS
+fegna		V;IND;PRS;2;SG
+fegna		V.CVB
+fegna		V;IND;PRS;1;SG
+fegna		V;IND;PRS;3
+fegna		V;IMP;2;SG
+fegna	fegnar	V;IND;PRS;3;SG
+fegna		V;IMP;2;PL
+fegna		V.PTCP.PST
+fegna		V;IND;PST;3;SG
+fegna		V;IND;PST;2;SG
+mjødn		N;INDF;GEN;PL
+mjødn		N;INDF;GEN;SG
+mjødn		N;INDF;DAT;PL
+mjødn		N;DEF;GEN;PL
+mjødn		N;DEF;DAT;PL
+mjødn		N;DEF;DAT;SG
+mjødn		N;DEF;GEN;SG
+mjødn		N;INDF;NOM;PL
+mjødn	mjødn	N;INDF;NOM;SG
+mjødn		N;INDF;ACC;SG
+mjødn		N;DEF;NOM;SG
+mjødn		N;DEF;ACC;SG
+mjødn	mjødn	N;INDF;DAT;SG
+mjødn		N;INDF;ACC;PL
+mjødn		N;DEF;NOM;PL
+mjødn		N;DEF;ACC;PL
+høvur		N;INDF;GEN;PL
+høvur		N;DEF;DAT;PL
+høvur		N;DEF;ACC;SG
+høvur		N;INDF;NOM;SG
+høvur		N;DEF;DAT;SG
+høvur	høvdum	N;INDF;DAT;PL
+høvur	høvurini	N;DEF;NOM;PL
+høvur		N;INDF;NOM;PL
+høvur		N;INDF;GEN;SG
+høvur		N;DEF;NOM;SG
+høvur		N;DEF;GEN;SG
+høvur		N;INDF;DAT;SG
+høvur		N;INDF;ACC;SG
+høvur		N;INDF;ACC;PL
+høvur		N;DEF;GEN;PL
+høvur		N;DEF;ACC;PL
+ódn		N;INDF;GEN;PL
+ódn		N;INDF;GEN;SG
+ódn	ódnum	N;INDF;DAT;PL
+ódn		N;DEF;ACC;SG
+ódn		N;DEF;DAT;PL
+ódn		N;DEF;DAT;SG
+ódn	ódnarinnar	N;DEF;GEN;SG
+ódn		N;DEF;NOM;PL
+ódn		N;INDF;NOM;PL
+ódn		N;INDF;NOM;SG
+ódn		N;INDF;ACC;SG
+ódn		N;DEF;NOM;SG
+ódn		N;INDF;DAT;SG
+ódn		N;INDF;ACC;PL
+ódn		N;DEF;GEN;PL
+ódn		N;DEF;ACC;PL
+epl		N;INDF;GEN;PL
+epl		N;INDF;GEN;SG
+epl		N;INDF;DAT;PL
+epl	eplanna	N;DEF;GEN;PL
+epl		N;DEF;DAT;PL
+epl		N;DEF;DAT;SG
+epl		N;DEF;NOM;SG
+epl		N;INDF;NOM;PL
+epl		N;INDF;NOM;SG
+epl		N;INDF;ACC;SG
+epl	eplsins	N;DEF;GEN;SG
+epl		N;DEF;ACC;SG
+epl		N;INDF;DAT;SG
+epl		N;INDF;ACC;PL
+epl		N;DEF;NOM;PL
+epl		N;DEF;ACC;PL
+tórsdagur	tórsdaga	N;INDF;GEN;PL
+tórsdagur		N;INDF;GEN;SG
+tórsdagur		N;INDF;DAT;PL
+tórsdagur		N;DEF;NOM;PL
+tórsdagur		N;DEF;DAT;PL
+tórsdagur		N;DEF;DAT;SG
+tórsdagur		N;DEF;GEN;SG
+tórsdagur		N;INDF;NOM;PL
+tórsdagur		N;INDF;NOM;SG
+tórsdagur	tórsdag	N;INDF;ACC;SG
+tórsdagur		N;DEF;NOM;SG
+tórsdagur		N;DEF;ACC;SG
+tórsdagur		N;INDF;DAT;SG
+tórsdagur		N;INDF;ACC;PL
+tórsdagur		N;DEF;GEN;PL
+tórsdagur		N;DEF;ACC;PL
+laksur		N;DEF;NOM;SG
+laksur		N;INDF;GEN;PL
+laksur		N;INDF;GEN;SG
+laksur		N;DEF;NOM;PL
+laksur	laksinum	N;DEF;DAT;SG
+laksur		N;DEF;GEN;SG
+laksur		N;INDF;NOM;SG
+laksur		N;INDF;NOM;PL
+laksur		N;DEF;DAT;PL
+laksur		N;INDF;ACC;SG
+laksur		N;INDF;DAT;PL
+laksur		N;DEF;ACC;SG
+laksur		N;INDF;DAT;SG
+laksur		N;INDF;ACC;PL
+laksur		N;DEF;GEN;PL
+laksur	laksarnar	N;DEF;ACC;PL
+sissa		V;NFIN
+sissa		V;IND;PST;3
+sissa		V;IND;PST;1;SG
+sissa		V.PTCP.PRS
+sissa		V;IND;PRS;2;SG
+sissa		V.CVB
+sissa		V;IND;PRS;1;SG
+sissa		V;IND;PRS;3
+sissa		V;IMP;2;SG
+sissa		V;IND;PRS;3;SG
+sissa		V;IMP;2;PL
+sissa		V.PTCP.PST
+sissa	sissaði	V;IND;PST;3;SG
+sissa	sissaði	V;IND;PST;2;SG
+politiskur		ADJ;NOM;MASC;PL
+politiskur		ADJ;GEN;MASC;SG
+politiskur		ADJ;NEUT;PL
+politiskur		ADJ;FEM;PL
+politiskur		ADJ;GEN;FEM;SG
+politiskur	politiskan	ADJ;ACC;MASC;SG
+politiskur		ADJ;DAT;FEM;SG
+politiskur		ADJ;DAT;MASC;PL
+politiskur		ADJ;GEN;MASC;PL
+politiskur		ADJ;GEN;NEUT;SG
+politiskur		ADJ;NOM/ACC;NEUT;SG
+politiskur		ADJ;DAT;NEUT;SG
+politiskur		ADJ;NOM;MASC;SG
+politiskur		ADJ;NOM;FEM;SG
+politiskur	politiskum	ADJ;DAT;MASC;SG
+politiskur		ADJ;ACC;FEM;SG
+politiskur		ADJ;ACC;MASC;PL
+svakur		ADJ;NOM;MASC;PL
+svakur	svaks	ADJ;GEN;MASC;SG
+svakur		ADJ;NEUT;PL
+svakur	svakar	ADJ;FEM;PL
+svakur		ADJ;ACC;MASC;PL
+svakur		ADJ;ACC;MASC;SG
+svakur		ADJ;DAT;FEM;SG
+svakur		ADJ;DAT;MASC;PL
+svakur		ADJ;GEN;MASC;PL
+svakur		ADJ;GEN;NEUT;SG
+svakur		ADJ;NOM/ACC;NEUT;SG
+svakur		ADJ;DAT;NEUT;SG
+svakur		ADJ;NOM;MASC;SG
+svakur		ADJ;NOM;FEM;SG
+svakur		ADJ;DAT;MASC;SG
+svakur		ADJ;ACC;FEM;SG
+svakur		ADJ;GEN;FEM;SG
+klæða		V;NFIN
+klæða		V;IND;PST;3
+klæða		V;IND;PST;1;SG
+klæða		V.PTCP.PST
+klæða		V;IND;PRS;2;SG
+klæða		V.CVB
+klæða		V;IND;PRS;1;SG
+klæða		V;IND;PRS;3
+klæða	klæð	V;IMP;2;SG
+klæða		V;IND;PRS;3;SG
+klæða		V;IMP;2;PL
+klæða		V.PTCP.PRS
+klæða		V;IND;PST;3;SG
+klæða	klæddi	V;IND;PST;2;SG
+klíva	kleivst	V;IND;PST;2;SG
+klíva		V;IND;PST;3
+klíva		V;IND;PST;1;SG
+klíva		V.PTCP.PST
+klíva		V;IND;PRS;2;SG
+klíva		V.CVB
+klíva		V;IND;PRS;1;SG
+klíva		V;IND;PRS;3
+klíva		V;IMP;2;SG
+klíva	klívur	V;IND;PRS;3;SG
+klíva		V;IMP;2;PL
+klíva		V.PTCP.PRS
+klíva		V;IND;PST;3;SG
+klíva		V;NFIN
+grína		V;IND;PST;2;SG
+grína		V;IND;PST;3
+grína	grein	V;IND;PST;1;SG
+grína		V.PTCP.PST
+grína		V;IND;PRS;2;SG
+grína		V.CVB
+grína		V;IND;PRS;1;SG
+grína		V;IND;PRS;3
+grína		V;IMP;2;SG
+grína		V;IND;PRS;3;SG
+grína		V;IMP;2;PL
+grína		V.PTCP.PRS
+grína	grein	V;IND;PST;3;SG
+grína		V;NFIN
+frøði		N;INDF;GEN;PL
+frøði		N;INDF;GEN;SG
+frøði		N;INDF;DAT;PL
+frøði		N;DEF;GEN;PL
+frøði		N;DEF;DAT;PL
+frøði		N;DEF;DAT;SG
+frøði	frøðið	N;DEF;NOM;SG
+frøði		N;INDF;NOM;PL
+frøði		N;INDF;NOM;SG
+frøði		N;INDF;ACC;SG
+frøði		N;DEF;GEN;SG
+frøði		N;DEF;ACC;SG
+frøði		N;INDF;DAT;SG
+frøði		N;INDF;ACC;PL
+frøði		N;DEF;NOM;PL
+frøði	frøðini	N;DEF;ACC;PL
+rísa		V;IND;PST;2;SG
+rísa		V;IND;PST;3
+rísa		V;IND;PST;1;SG
+rísa		V.PTCP.PST
+rísa		V;IND;PRS;2;SG
+rísa		V.CVB
+rísa		V;IND;PRS;1;SG
+rísa		V;IND;PRS;3
+rísa		V;IMP;2;SG
+rísa		V;IND;PRS;3;SG
+rísa		V;IMP;2;PL
+rísa		V.PTCP.PRS
+rísa	reis	V;IND;PST;3;SG
+rísa	rísa	V;NFIN
+heiði		N;INDF;GEN;PL
+heiði		N;INDF;GEN;SG
+heiði	heiðum	N;INDF;DAT;PL
+heiði		N;DEF;GEN;PL
+heiði		N;DEF;DAT;PL
+heiði		N;DEF;DAT;SG
+heiði		N;DEF;GEN;SG
+heiði		N;INDF;NOM;PL
+heiði		N;INDF;NOM;SG
+heiði		N;INDF;ACC;SG
+heiði		N;DEF;NOM;SG
+heiði		N;DEF;ACC;SG
+heiði		N;INDF;DAT;SG
+heiði	heiðar	N;INDF;ACC;PL
+heiði		N;DEF;NOM;PL
+heiði		N;DEF;ACC;PL

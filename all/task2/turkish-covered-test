@@ -1,0 +1,3732 @@
+makina		N;NOM;PL
+makina	makinalarda	N;LOC;PL
+makina		N;LGSPEC1;1S;SG;PRS
+makina	makinalarımızı	N;ACC;PL;PSS1P
+makina	makinalarsın	N;LGSPEC1;2S;PL;PRS
+makina		N;DAT;PL;PSS1P
+makina		N;NOM;PL;PSS1P
+makina		N;LGSPEC1;3S;PL;PRS
+makina	makinalarında	N;LOC;PL;PSS3P
+makina		N;LOC;PL;PSS3S
+makina		N;ACC;PL
+makina		N;NOM;SG;PSS3S
+makina		N;NOM;SG;PSS3P
+makina	makinaydılar	N;LGSPEC1;3P;SG;PST
+makina		N;LGSPEC1;2P;PL;PRS
+makina	makinalarından	N;ABL;PL;PSS3S
+makina		N;LGSPEC1;1S;SG;PST
+makina		N;GEN;PL;PSS3S
+makina	makinalardı	N;LGSPEC1;3S;PL;PST
+makina		N;LGSPEC1;1P;SG;LGSPEC2
+makina		N;DAT;SG
+makina	makinalarının	N;GEN;PL;PSS2S
+makina		N;GEN;PL;PSS2P
+makina		N;ACC;SG;PSS3P
+makina		N;ACC;SG;PSS3S
+makina		N;ACC;PL;PSS3S
+makina		N;ACC;PL;PSS3P
+makina	makinalarına	N;DAT;PL;PSS3S
+makina		N;ABL;SG;PSS2S
+makina		N;ABL;SG;PSS2P
+makina		N;DAT;PL;PSS3P
+makina		N;GEN;SG;PSS2P
+makina		N;GEN;SG;PSS2S
+makina		N;NOM;PL;PSS3P
+makina	makinana	N;DAT;SG;PSS2S
+makina	makinanıza	N;DAT;SG;PSS2P
+makina		N;NOM;PL;PSS3S
+makina		N;NOM;SG;PSS1P
+makina		N;LGSPEC1;2P;PL;LGSPEC2
+makina		N;LGSPEC1;3S;SG;PST
+makina		N;ABL;SG
+makina		N;ACC;SG
+makina		N;ACC;SG;PSS2S
+makina		N;ACC;SG;PSS2P
+makina		N;ACC;PL;PSS2P
+makina		N;ACC;PL;PSS2S
+makina	makinalarınıza	N;DAT;PL;PSS2P
+makina		N;GEN;SG;PSS3S
+makina	makinamın	N;GEN;SG;PSS3P
+makina		N;DAT;PL;PSS2S
+makina		N;LGSPEC1;2S;PL;PST
+makina		N;GEN;SG
+makina		N;LOC;PL;PSS2S
+makina		N;LOC;PL;PSS2P
+makina		N;LGSPEC1;3S;PL;LGSPEC2
+makina	makinanız	N;NOM;SG;PSS2P
+makina		N;NOM;SG;PSS2S
+makina		N;ABL;PL
+makina		N;LGSPEC1;1P;SG;PST
+makina		N;ABL;PL;PSS1P
+makina		N;LGSPEC1;1P;PL;PRS
+makina	makinasında	N;LOC;SG;PSS3S
+makina		N;LOC;SG;PSS3P
+makina		N;LGSPEC1;3P;PL;PRS
+makina		N;LGSPEC1;1S;PL;PST
+makina		N;GEN;PL;PSS1P
+makina		N;ACC;SG;PSS1P
+makina		N;LGSPEC1;2S;SG;LGSPEC2
+makina		N;NOM;SG
+makina		N;LGSPEC1;1P;SG;PRS
+makina		N;LGSPEC1;1P;PL;LGSPEC2
+makina	makinamızın	N;GEN;SG;PSS1P
+makina		N;ABL;SG;PSS3P
+makina		N;LOC;SG
+makina		N;NOM;PL;PSS2S
+makina		N;LGSPEC1;2P;SG;LGSPEC2
+makina		N;NOM;PL;PSS2P
+makina	makinama	N;DAT;SG;PSS3P
+makina		N;DAT;SG;PSS3S
+makina		N;LGSPEC1;3S;SG;PRS
+makina		N;LOC;SG;PSS1P
+makina		N;LGSPEC1;2P;PL;PST
+makina		N;LGSPEC1;3P;SG;PRS
+makina		N;LGSPEC1;2P;SG;PRS
+makina		N;LGSPEC1;2S;PL;LGSPEC2
+makina		N;LGSPEC1;1S;PL;LGSPEC2
+makina		N;LGSPEC1;1S;SG;LGSPEC2
+makina		N;GEN;PL
+makina		N;LOC;PL;PSS1P
+makina		N;GEN;PL;PSS3P
+makina		N;ABL;PL;PSS3P
+makina		N;LGSPEC1;2S;SG;PST
+makina		N;DAT;PL
+makina		N;LGSPEC1;1P;PL;PST
+makina		N;LGSPEC1;2P;SG;PST
+makina		N;LOC;SG;PSS2P
+makina		N;LOC;SG;PSS2S
+makina		N;ABL;SG;PSS1P
+makina		N;LGSPEC1;3P;SG;LGSPEC2
+makina		N;LGSPEC1;3S;SG;LGSPEC2
+makina	makinalardı	N;LGSPEC1;3P;PL;PST
+makina	makinamıza	N;DAT;SG;PSS1P
+makina		N;ABL;SG;PSS3S
+makina		N;LGSPEC1;2S;SG;PRS
+makina	makinalarım	N;LGSPEC1;1S;PL;PRS
+makina	makinalarınızdan	N;ABL;PL;PSS2P
+makina		N;LGSPEC1;3P;PL;LGSPEC2
+makina		N;ABL;PL;PSS2S
+vefat		N;LOC;SG;PSS1P
+vefat		N;ABL;PL;PSS1P
+vefat		N;LOC;SG;PSS3S
+vefat		N;LOC;SG;PSS3P
+vefat		N;NOM;PL;PSS2P
+vefat		N;ACC;PL;PSS3S
+vefat		N;ACC;PL;PSS3P
+vefat		N;LOC;PL
+vefat		N;ABL;SG;PSS2S
+vefat		N;ABL;SG;PSS2P
+vefat		N;DAT;PL;PSS3P
+vefat		N;GEN;SG;PSS2P
+vefat		N;GEN;SG;PSS2S
+vefat		N;DAT;PL;PSS1P
+vefat		N;NOM;PL;PSS3P
+vefat	vefatına	N;DAT;SG;PSS2S
+vefat		N;DAT;SG;PSS2P
+vefat		N;NOM;PL;PSS3S
+vefat	vefatlarımız	N;NOM;PL;PSS1P
+vefat		N;ACC;SG;PSS3P
+vefat		N;GEN;PL
+vefat		N;GEN;PL;PSS2P
+vefat		N;ACC;SG;PSS3S
+vefat		N;ABL;PL;PSS2S
+vefat		N;LOC;PL;PSS3P
+vefat		N;ABL;PL;PSS3S
+vefat	vefatlarında	N;LOC;PL;PSS3S
+vefat		N;LOC;PL;PSS1P
+vefat	vefatımız	N;NOM;SG;PSS1P
+vefat		N;ACC;SG;PSS2P
+vefat		N;ACC;PL
+vefat	vefatı	N;NOM;SG;PSS3S
+vefat	vefatları	N;NOM;SG;PSS3P
+vefat		N;GEN;PL;PSS3P
+vefat		N;ABL;SG
+vefat		N;ABL;PL;PSS3P
+vefat		N;ACC;PL;PSS2P
+vefat		N;LOC;SG;PSS2P
+vefat		N;ACC;SG;PSS1P
+vefat		N;NOM;SG
+vefat	vefatını	N;ACC;SG;PSS2S
+vefat		N;LOC;SG;PSS2S
+vefat	vefatlarında	N;LOC;PL;PSS2S
+vefat		N;ABL;SG;PSS1P
+vefat		N;GEN;SG;PSS1P
+vefat		N;ABL;SG;PSS3P
+vefat		N;ABL;SG;PSS3S
+vefat		N;DAT;SG;PSS1P
+vefat		N;DAT;PL;PSS2P
+vefat	vefatının	N;GEN;SG;PSS3S
+vefat		N;GEN;SG;PSS3P
+vefat		N;DAT;PL;PSS2S
+vefat	vefatlarına	N;DAT;SG;PSS3P
+vefat		N;DAT;SG;PSS3S
+vefat		N;GEN;PL;PSS3S
+vefat		N;DAT;PL;PSS3S
+vefat	vefatın	N;GEN;SG
+vefat		N;NOM;SG;PSS2P
+vefat		N;GEN;PL;PSS1P
+vefat		N;LOC;PL;PSS2P
+vefat		N;LOC;SG
+vefat		N;DAT;SG
+vefat	vefatlar	N;NOM;PL
+vefat		N;ACC;PL;PSS2S
+vefat		N;GEN;PL;PSS2S
+vefat		N;ACC;SG
+vefat		N;NOM;SG;PSS2S
+vefat		N;ABL;PL
+vefat		N;NOM;PL;PSS2S
+vefat	vefatlara	N;DAT;PL
+vefat		N;ABL;PL;PSS2P
+vefat		N;ACC;PL;PSS1P
+silindir		N;LOC;SG;PSS1P
+silindir	silindirlerimizden	N;ABL;PL;PSS1P
+silindir	silindirinde	N;LOC;SG;PSS3S
+silindir		N;LOC;SG;PSS3P
+silindir		N;NOM;PL;PSS2P
+silindir		N;ACC;PL;PSS3S
+silindir		N;ACC;PL;PSS3P
+silindir		N;LOC;PL
+silindir		N;ABL;SG;PSS2S
+silindir		N;ABL;SG;PSS2P
+silindir		N;DAT;PL;PSS3P
+silindir		N;GEN;SG;PSS2P
+silindir	silindirinin	N;GEN;SG;PSS2S
+silindir	silindirlerimize	N;DAT;PL;PSS1P
+silindir	silindirleri	N;NOM;PL;PSS3P
+silindir		N;DAT;SG;PSS2S
+silindir		N;LOC;SG;PSS2P
+silindir		N;NOM;PL;PSS3S
+silindir		N;DAT;SG;PSS2P
+silindir	silindirlerimiz	N;NOM;PL;PSS1P
+silindir		N;ACC;SG;PSS3P
+silindir		N;GEN;PL
+silindir	silindirlerinizin	N;GEN;PL;PSS2P
+silindir	silindirini	N;ACC;SG;PSS3S
+silindir		N;ABL;PL;PSS2S
+silindir		N;LOC;PL;PSS3P
+silindir		N;ABL;PL;PSS3S
+silindir	silindirlerinde	N;LOC;PL;PSS3S
+silindir		N;LOC;PL;PSS1P
+silindir	silindirimiz	N;NOM;SG;PSS1P
+silindir		N;ACC;SG;PSS2P
+silindir		N;ACC;PL
+silindir		N;NOM;SG;PSS3S
+silindir		N;NOM;SG;PSS3P
+silindir		N;GEN;PL;PSS3P
+silindir		N;ABL;SG
+silindir		N;ABL;PL;PSS3P
+silindir		N;ACC;PL;PSS2P
+silindir		N;GEN;PL;PSS1P
+silindir		N;ACC;SG;PSS1P
+silindir		N;NOM;SG
+silindir		N;ACC;SG;PSS2S
+silindir		N;LOC;SG;PSS2S
+silindir		N;ABL;SG;PSS1P
+silindir		N;GEN;SG;PSS1P
+silindir		N;ABL;SG;PSS3P
+silindir		N;ABL;SG;PSS3S
+silindir		N;DAT;SG;PSS1P
+silindir		N;DAT;PL;PSS2P
+silindir		N;GEN;SG;PSS3S
+silindir		N;GEN;SG;PSS3P
+silindir		N;DAT;PL;PSS2S
+silindir		N;DAT;SG;PSS3P
+silindir		N;DAT;SG;PSS3S
+silindir		N;GEN;PL;PSS3S
+silindir		N;DAT;PL;PSS3S
+silindir		N;GEN;SG
+silindir		N;NOM;SG;PSS2P
+silindir		N;LOC;PL;PSS2S
+silindir		N;LOC;PL;PSS2P
+silindir	silindirde	N;LOC;SG
+silindir		N;DAT;SG
+silindir		N;NOM;PL
+silindir	silindirlerini	N;ACC;PL;PSS2S
+silindir		N;GEN;PL;PSS2S
+silindir		N;ACC;SG
+silindir		N;NOM;SG;PSS2S
+silindir	silindirlerden	N;ABL;PL
+silindir		N;NOM;PL;PSS2S
+silindir		N;DAT;PL
+silindir		N;ABL;PL;PSS2P
+silindir		N;ACC;PL;PSS1P
+anne		N;GEN;PL
+anne		N;NOM;PL
+anne		N;GEN;SG
+anne		N;NOM;SG
+anne	annelerde	N;LOC;PL
+anne		N;DAT;SG
+anne		N;LOC;SG
+anne		N;ACC;PL
+anne		N;ACC;SG
+anne		N;ABL;PL
+anne		N;ABL;SG
+anne		N;DAT;PL
+şiir		N;GEN;PL
+şiir		N;NOM;PL
+şiir		N;GEN;SG
+şiir		N;NOM;SG
+şiir		N;LOC;PL
+şiir		N;DAT;SG
+şiir		N;LOC;SG
+şiir		N;ACC;PL
+şiir	şiiri	N;ACC;SG
+şiir		N;ABL;PL
+şiir		N;ABL;SG
+şiir		N;DAT;PL
+Arap	Arapların	N;GEN;PL
+Arap		N;NOM;PL
+Arap		N;GEN;SG
+Arap		N;NOM;SG
+Arap		N;LOC;PL
+Arap		N;DAT;SG
+Arap		N;LOC;SG
+Arap		N;ACC;PL
+Arap		N;ACC;SG
+Arap		N;ABL;PL
+Arap		N;ABL;SG
+Arap		N;DAT;PL
+yardımcı		N;NOM;PL
+yardımcı		N;LOC;PL
+yardımcı		N;LGSPEC1;1S;SG;PRS
+yardımcı		N;ACC;PL;PSS1P
+yardımcı		N;LGSPEC1;2S;PL;PRS
+yardımcı		N;DAT;PL;PSS1P
+yardımcı		N;NOM;PL;PSS1P
+yardımcı	yardımcılar	N;LGSPEC1;3S;PL;PRS
+yardımcı		N;LOC;PL;PSS3P
+yardımcı		N;LOC;PL;PSS3S
+yardımcı		N;ACC;PL
+yardımcı		N;NOM;SG;PSS3S
+yardımcı		N;NOM;SG;PSS3P
+yardımcı		N;LGSPEC1;3P;SG;PST
+yardımcı		N;LGSPEC1;2P;PL;PRS
+yardımcı		N;ABL;PL;PSS3S
+yardımcı		N;LGSPEC1;1S;SG;PST
+yardımcı	yardımcılarının	N;GEN;PL;PSS3S
+yardımcı	yardımcılardı	N;LGSPEC1;3S;PL;PST
+yardımcı	yardımcıymışız	N;LGSPEC1;1P;SG;LGSPEC2
+yardımcı		N;DAT;SG
+yardımcı		N;GEN;PL;PSS2S
+yardımcı		N;GEN;PL;PSS2P
+yardımcı		N;ACC;SG;PSS3P
+yardımcı		N;ACC;SG;PSS3S
+yardımcı		N;ACC;PL;PSS3S
+yardımcı		N;ACC;PL;PSS3P
+yardımcı	yardımcılarına	N;DAT;PL;PSS3S
+yardımcı		N;ABL;SG;PSS2S
+yardımcı		N;ABL;SG;PSS2P
+yardımcı		N;DAT;PL;PSS3P
+yardımcı		N;GEN;SG;PSS2P
+yardımcı	yardımcının	N;GEN;SG;PSS2S
+yardımcı		N;NOM;PL;PSS3P
+yardımcı		N;DAT;SG;PSS2S
+yardımcı		N;DAT;SG;PSS2P
+yardımcı		N;NOM;PL;PSS3S
+yardımcı		N;NOM;SG;PSS1P
+yardımcı		N;LGSPEC1;2P;PL;LGSPEC2
+yardımcı		N;LGSPEC1;3S;SG;PST
+yardımcı		N;ABL;SG
+yardımcı		N;ACC;SG
+yardımcı		N;ACC;SG;PSS2S
+yardımcı		N;ACC;SG;PSS2P
+yardımcı		N;ACC;PL;PSS2P
+yardımcı		N;ACC;PL;PSS2S
+yardımcı		N;DAT;PL;PSS2P
+yardımcı	yardımcısının	N;GEN;SG;PSS3S
+yardımcı		N;GEN;SG;PSS3P
+yardımcı	yardımcılarına	N;DAT;PL;PSS2S
+yardımcı	yardımcılardın	N;LGSPEC1;2S;PL;PST
+yardımcı		N;GEN;SG
+yardımcı		N;LOC;PL;PSS2S
+yardımcı		N;LOC;PL;PSS2P
+yardımcı		N;LGSPEC1;3S;PL;LGSPEC2
+yardımcı	yardımcınız	N;NOM;SG;PSS2P
+yardımcı		N;NOM;SG;PSS2S
+yardımcı		N;ABL;PL
+yardımcı		N;LGSPEC1;1P;SG;PST
+yardımcı	yardımcılarımızdan	N;ABL;PL;PSS1P
+yardımcı		N;LGSPEC1;1P;PL;PRS
+yardımcı		N;LOC;SG;PSS3S
+yardımcı		N;LOC;SG;PSS3P
+yardımcı		N;LGSPEC1;3P;PL;PRS
+yardımcı	yardımcılardım	N;LGSPEC1;1S;PL;PST
+yardımcı		N;GEN;PL;PSS1P
+yardımcı		N;ACC;SG;PSS1P
+yardımcı		N;LGSPEC1;2S;SG;LGSPEC2
+yardımcı	yardımcı	N;NOM;SG
+yardımcı		N;LGSPEC1;1P;SG;PRS
+yardımcı		N;LGSPEC1;1P;PL;LGSPEC2
+yardımcı		N;GEN;SG;PSS1P
+yardımcı	yardımcımdan	N;ABL;SG;PSS3P
+yardımcı		N;LOC;SG
+yardımcı		N;NOM;PL;PSS2S
+yardımcı		N;LGSPEC1;2P;SG;LGSPEC2
+yardımcı		N;NOM;PL;PSS2P
+yardımcı		N;DAT;SG;PSS3P
+yardımcı		N;DAT;SG;PSS3S
+yardımcı	yardımcı	N;LGSPEC1;3S;SG;PRS
+yardımcı		N;LOC;SG;PSS1P
+yardımcı		N;LGSPEC1;2P;PL;PST
+yardımcı		N;LGSPEC1;3P;SG;PRS
+yardımcı		N;LGSPEC1;2P;SG;PRS
+yardımcı	yardımcılarmışsın	N;LGSPEC1;2S;PL;LGSPEC2
+yardımcı		N;LGSPEC1;1S;PL;LGSPEC2
+yardımcı		N;LGSPEC1;1S;SG;LGSPEC2
+yardımcı		N;GEN;PL
+yardımcı		N;LOC;PL;PSS1P
+yardımcı	yardımcılarının	N;GEN;PL;PSS3P
+yardımcı		N;ABL;PL;PSS3P
+yardımcı		N;LGSPEC1;2S;SG;PST
+yardımcı	yardımcılara	N;DAT;PL
+yardımcı	yardımcılardık	N;LGSPEC1;1P;PL;PST
+yardımcı		N;LGSPEC1;2P;SG;PST
+yardımcı		N;LOC;SG;PSS2P
+yardımcı		N;LOC;SG;PSS2S
+yardımcı		N;ABL;SG;PSS1P
+yardımcı	yardımcıymışlar	N;LGSPEC1;3P;SG;LGSPEC2
+yardımcı		N;LGSPEC1;3S;SG;LGSPEC2
+yardımcı	yardımcılardı	N;LGSPEC1;3P;PL;PST
+yardımcı		N;DAT;SG;PSS1P
+yardımcı		N;ABL;SG;PSS3S
+yardımcı		N;LGSPEC1;2S;SG;PRS
+yardımcı		N;LGSPEC1;1S;PL;PRS
+yardımcı		N;ABL;PL;PSS2P
+yardımcı		N;LGSPEC1;3P;PL;LGSPEC2
+yardımcı		N;ABL;PL;PSS2S
+cevap	cevabımızda	N;LOC;SG;PSS1P
+cevap		N;ABL;PL;PSS1P
+cevap		N;LOC;SG;PSS3S
+cevap		N;LOC;SG;PSS3P
+cevap		N;NOM;PL;PSS2P
+cevap		N;ACC;PL;PSS3S
+cevap		N;ACC;PL;PSS3P
+cevap		N;LOC;PL
+cevap	cevabından	N;ABL;SG;PSS2S
+cevap		N;ABL;SG;PSS2P
+cevap	cevaplarına	N;DAT;PL;PSS3P
+cevap		N;GEN;SG;PSS2P
+cevap		N;GEN;SG;PSS2S
+cevap		N;DAT;PL;PSS1P
+cevap		N;NOM;PL;PSS3P
+cevap	cevabına	N;DAT;SG;PSS2S
+cevap		N;DAT;SG;PSS2P
+cevap		N;NOM;PL;PSS3S
+cevap		N;NOM;PL;PSS1P
+cevap		N;ACC;SG;PSS3P
+cevap	cevapların	N;GEN;PL
+cevap	cevaplarınızın	N;GEN;PL;PSS2P
+cevap		N;ACC;SG;PSS3S
+cevap		N;ABL;PL;PSS2S
+cevap		N;LOC;PL;PSS3P
+cevap	cevaplarından	N;ABL;PL;PSS3S
+cevap		N;LOC;PL;PSS3S
+cevap		N;LOC;PL;PSS1P
+cevap	cevabımız	N;NOM;SG;PSS1P
+cevap		N;ACC;SG;PSS2P
+cevap		N;ACC;PL
+cevap		N;NOM;SG;PSS3S
+cevap		N;NOM;SG;PSS3P
+cevap		N;GEN;PL;PSS3P
+cevap		N;ABL;SG
+cevap		N;ABL;PL;PSS3P
+cevap	cevaplarınızı	N;ACC;PL;PSS2P
+cevap		N;LOC;SG;PSS2P
+cevap		N;ACC;SG;PSS1P
+cevap		N;NOM;SG
+cevap		N;ACC;SG;PSS2S
+cevap		N;LOC;SG;PSS2S
+cevap		N;LOC;PL;PSS2S
+cevap		N;ABL;SG;PSS1P
+cevap		N;GEN;SG;PSS1P
+cevap		N;ABL;SG;PSS3P
+cevap		N;ABL;SG;PSS3S
+cevap		N;DAT;SG;PSS1P
+cevap		N;DAT;PL;PSS2P
+cevap		N;GEN;SG;PSS3S
+cevap		N;GEN;SG;PSS3P
+cevap		N;DAT;PL;PSS2S
+cevap		N;DAT;SG;PSS3P
+cevap	cevabına	N;DAT;SG;PSS3S
+cevap		N;GEN;PL;PSS3S
+cevap	cevaplarına	N;DAT;PL;PSS3S
+cevap		N;GEN;SG
+cevap		N;NOM;SG;PSS2P
+cevap		N;GEN;PL;PSS1P
+cevap		N;LOC;PL;PSS2P
+cevap		N;LOC;SG
+cevap	cevaba	N;DAT;SG
+cevap		N;NOM;PL
+cevap		N;ACC;PL;PSS2S
+cevap	cevaplarının	N;GEN;PL;PSS2S
+cevap		N;ACC;SG
+cevap		N;NOM;SG;PSS2S
+cevap		N;ABL;PL
+cevap		N;NOM;PL;PSS2S
+cevap		N;DAT;PL
+cevap		N;ABL;PL;PSS2P
+cevap		N;ACC;PL;PSS1P
+kural		N;LOC;SG;PSS1P
+kural		N;ABL;PL;PSS1P
+kural		N;LOC;SG;PSS3S
+kural		N;LOC;SG;PSS3P
+kural		N;NOM;PL;PSS2P
+kural	kurallarını	N;ACC;PL;PSS3S
+kural		N;ACC;PL;PSS3P
+kural		N;LOC;PL
+kural		N;ABL;SG;PSS2S
+kural		N;ABL;SG;PSS2P
+kural		N;DAT;PL;PSS3P
+kural		N;GEN;SG;PSS2P
+kural	kuralının	N;GEN;SG;PSS2S
+kural		N;DAT;PL;PSS1P
+kural		N;NOM;PL;PSS3P
+kural		N;DAT;SG;PSS2S
+kural		N;DAT;SG;PSS2P
+kural		N;NOM;PL;PSS3S
+kural		N;NOM;PL;PSS1P
+kural		N;ACC;SG;PSS3P
+kural	kuralların	N;GEN;PL
+kural	kurallarınızın	N;GEN;PL;PSS2P
+kural		N;ACC;SG;PSS3S
+kural		N;ABL;PL;PSS2S
+kural		N;LOC;PL;PSS3P
+kural		N;ABL;PL;PSS3S
+kural		N;LOC;PL;PSS3S
+kural		N;LOC;PL;PSS1P
+kural		N;NOM;SG;PSS1P
+kural		N;ACC;SG;PSS2P
+kural		N;ACC;PL
+kural	kuralı	N;NOM;SG;PSS3S
+kural		N;NOM;SG;PSS3P
+kural	kurallarının	N;GEN;PL;PSS3P
+kural		N;ABL;SG
+kural		N;ABL;PL;PSS3P
+kural		N;ACC;PL;PSS2P
+kural		N;LOC;SG;PSS2P
+kural		N;ACC;SG;PSS1P
+kural	kural	N;NOM;SG
+kural		N;ACC;SG;PSS2S
+kural	kuralında	N;LOC;SG;PSS2S
+kural		N;LOC;PL;PSS2S
+kural		N;ABL;SG;PSS1P
+kural		N;GEN;SG;PSS1P
+kural		N;ABL;SG;PSS3P
+kural		N;ABL;SG;PSS3S
+kural	kuralımıza	N;DAT;SG;PSS1P
+kural		N;DAT;PL;PSS2P
+kural		N;GEN;SG;PSS3S
+kural		N;GEN;SG;PSS3P
+kural		N;DAT;PL;PSS2S
+kural		N;DAT;SG;PSS3P
+kural		N;DAT;SG;PSS3S
+kural		N;GEN;PL;PSS3S
+kural	kurallarına	N;DAT;PL;PSS3S
+kural		N;GEN;SG
+kural		N;NOM;SG;PSS2P
+kural		N;GEN;PL;PSS1P
+kural	kurallarınızda	N;LOC;PL;PSS2P
+kural	kuralda	N;LOC;SG
+kural		N;DAT;SG
+kural		N;NOM;PL
+kural		N;ACC;PL;PSS2S
+kural		N;GEN;PL;PSS2S
+kural		N;ACC;SG
+kural	kuralın	N;NOM;SG;PSS2S
+kural		N;ABL;PL
+kural		N;NOM;PL;PSS2S
+kural		N;DAT;PL
+kural		N;ABL;PL;PSS2P
+kural		N;ACC;PL;PSS1P
+ders		N;LOC;SG;PSS1P
+ders	derslerimizden	N;ABL;PL;PSS1P
+ders	dersinde	N;LOC;SG;PSS3S
+ders		N;LOC;SG;PSS3P
+ders		N;NOM;PL;PSS2P
+ders		N;ACC;PL;PSS3S
+ders		N;ACC;PL;PSS3P
+ders		N;LOC;PL
+ders		N;ABL;SG;PSS2S
+ders	dersinizden	N;ABL;SG;PSS2P
+ders		N;DAT;PL;PSS3P
+ders		N;GEN;SG;PSS2P
+ders		N;GEN;SG;PSS2S
+ders		N;DAT;PL;PSS1P
+ders	dersleri	N;NOM;PL;PSS3P
+ders		N;DAT;SG;PSS2S
+ders		N;LOC;SG;PSS2P
+ders		N;NOM;PL;PSS3S
+ders		N;DAT;SG;PSS2P
+ders	derslerimiz	N;NOM;PL;PSS1P
+ders		N;ACC;SG;PSS3P
+ders		N;GEN;PL
+ders		N;GEN;PL;PSS2P
+ders		N;ACC;SG;PSS3S
+ders		N;ABL;PL;PSS2S
+ders		N;LOC;PL;PSS3P
+ders		N;ABL;PL;PSS3S
+ders		N;LOC;PL;PSS3S
+ders		N;LOC;PL;PSS1P
+ders		N;NOM;SG;PSS1P
+ders	dersinizi	N;ACC;SG;PSS2P
+ders		N;ACC;PL
+ders		N;NOM;SG;PSS3S
+ders		N;NOM;SG;PSS3P
+ders		N;GEN;PL;PSS3P
+ders		N;ABL;SG
+ders		N;ABL;PL;PSS3P
+ders	derslerinizi	N;ACC;PL;PSS2P
+ders		N;GEN;PL;PSS1P
+ders		N;ACC;SG;PSS1P
+ders		N;NOM;SG
+ders		N;ACC;SG;PSS2S
+ders	dersinde	N;LOC;SG;PSS2S
+ders		N;ABL;SG;PSS1P
+ders		N;GEN;SG;PSS1P
+ders		N;ABL;SG;PSS3P
+ders		N;ABL;SG;PSS3S
+ders		N;DAT;SG;PSS1P
+ders		N;DAT;PL;PSS2P
+ders	dersinin	N;GEN;SG;PSS3S
+ders		N;GEN;SG;PSS3P
+ders		N;DAT;PL;PSS2S
+ders		N;DAT;SG;PSS3P
+ders		N;DAT;SG;PSS3S
+ders		N;GEN;PL;PSS3S
+ders		N;DAT;PL;PSS3S
+ders		N;GEN;SG
+ders		N;NOM;SG;PSS2P
+ders		N;LOC;PL;PSS2S
+ders		N;LOC;PL;PSS2P
+ders	derste	N;LOC;SG
+ders		N;DAT;SG
+ders	dersler	N;NOM;PL
+ders		N;ACC;PL;PSS2S
+ders		N;GEN;PL;PSS2S
+ders	dersi	N;ACC;SG
+ders		N;NOM;SG;PSS2S
+ders		N;ABL;PL
+ders		N;NOM;PL;PSS2S
+ders		N;DAT;PL
+ders	derslerinizden	N;ABL;PL;PSS2P
+ders		N;ACC;PL;PSS1P
+ejderha		N;NOM;PL
+ejderha		N;LOC;PL
+ejderha	ejderhayım	N;LGSPEC1;1S;SG;PRS
+ejderha		N;ACC;PL;PSS1P
+ejderha		N;LGSPEC1;2S;PL;PRS
+ejderha		N;DAT;PL;PSS1P
+ejderha		N;NOM;PL;PSS1P
+ejderha		N;LGSPEC1;3S;PL;PRS
+ejderha	ejderhalarında	N;LOC;PL;PSS3P
+ejderha		N;LOC;PL;PSS3S
+ejderha		N;ACC;PL
+ejderha		N;NOM;SG;PSS3S
+ejderha	ejderham	N;NOM;SG;PSS3P
+ejderha		N;LGSPEC1;3P;SG;PST
+ejderha		N;LGSPEC1;2P;PL;PRS
+ejderha		N;ABL;PL;PSS3S
+ejderha	ejderhaydım	N;LGSPEC1;1S;SG;PST
+ejderha		N;GEN;PL;PSS3S
+ejderha		N;LGSPEC1;3S;PL;PST
+ejderha		N;LGSPEC1;1P;SG;LGSPEC2
+ejderha		N;DAT;SG
+ejderha		N;GEN;PL;PSS2S
+ejderha		N;GEN;PL;PSS2P
+ejderha		N;ACC;SG;PSS3P
+ejderha	ejderhasını	N;ACC;SG;PSS3S
+ejderha		N;ACC;PL;PSS3S
+ejderha		N;ACC;PL;PSS3P
+ejderha	ejderhalarına	N;DAT;PL;PSS3S
+ejderha		N;ABL;SG;PSS2S
+ejderha		N;ABL;SG;PSS2P
+ejderha	ejderhalarına	N;DAT;PL;PSS3P
+ejderha		N;GEN;SG;PSS2P
+ejderha		N;GEN;SG;PSS2S
+ejderha		N;NOM;PL;PSS3P
+ejderha		N;DAT;SG;PSS2S
+ejderha	ejderhanıza	N;DAT;SG;PSS2P
+ejderha		N;NOM;PL;PSS3S
+ejderha	ejderhamız	N;NOM;SG;PSS1P
+ejderha		N;LGSPEC1;2P;PL;LGSPEC2
+ejderha		N;LGSPEC1;3S;SG;PST
+ejderha		N;ABL;SG
+ejderha		N;ACC;SG
+ejderha		N;ACC;SG;PSS2S
+ejderha	ejderhanızı	N;ACC;SG;PSS2P
+ejderha		N;ACC;PL;PSS2P
+ejderha		N;ACC;PL;PSS2S
+ejderha		N;DAT;PL;PSS2P
+ejderha	ejderhasının	N;GEN;SG;PSS3S
+ejderha	ejderhamın	N;GEN;SG;PSS3P
+ejderha		N;DAT;PL;PSS2S
+ejderha		N;LGSPEC1;2S;PL;PST
+ejderha		N;GEN;SG
+ejderha		N;LOC;PL;PSS2S
+ejderha	ejderhalarınızda	N;LOC;PL;PSS2P
+ejderha		N;LGSPEC1;3S;PL;LGSPEC2
+ejderha		N;NOM;SG;PSS2P
+ejderha	ejderhan	N;NOM;SG;PSS2S
+ejderha		N;ABL;PL
+ejderha		N;LGSPEC1;1P;SG;PST
+ejderha	ejderhalarımızdan	N;ABL;PL;PSS1P
+ejderha		N;LGSPEC1;1P;PL;PRS
+ejderha		N;LOC;SG;PSS3S
+ejderha		N;LOC;SG;PSS3P
+ejderha		N;LGSPEC1;3P;PL;PRS
+ejderha		N;LGSPEC1;1S;PL;PST
+ejderha		N;GEN;PL;PSS1P
+ejderha		N;ACC;SG;PSS1P
+ejderha		N;LGSPEC1;2S;SG;LGSPEC2
+ejderha		N;NOM;SG
+ejderha		N;LGSPEC1;1P;SG;PRS
+ejderha		N;LGSPEC1;1P;PL;LGSPEC2
+ejderha		N;GEN;SG;PSS1P
+ejderha		N;ABL;SG;PSS3P
+ejderha		N;LOC;SG
+ejderha		N;NOM;PL;PSS2S
+ejderha		N;LGSPEC1;2P;SG;LGSPEC2
+ejderha		N;NOM;PL;PSS2P
+ejderha		N;DAT;SG;PSS3P
+ejderha		N;DAT;SG;PSS3S
+ejderha		N;LGSPEC1;3S;SG;PRS
+ejderha		N;LOC;SG;PSS1P
+ejderha		N;LGSPEC1;2P;PL;PST
+ejderha	ejderhalar	N;LGSPEC1;3P;SG;PRS
+ejderha		N;LGSPEC1;2P;SG;PRS
+ejderha		N;LGSPEC1;2S;PL;LGSPEC2
+ejderha	ejderhalarmışım	N;LGSPEC1;1S;PL;LGSPEC2
+ejderha		N;LGSPEC1;1S;SG;LGSPEC2
+ejderha		N;GEN;PL
+ejderha	ejderhalarımızda	N;LOC;PL;PSS1P
+ejderha		N;GEN;PL;PSS3P
+ejderha		N;ABL;PL;PSS3P
+ejderha	ejderhaydın	N;LGSPEC1;2S;SG;PST
+ejderha		N;DAT;PL
+ejderha		N;LGSPEC1;1P;PL;PST
+ejderha		N;LGSPEC1;2P;SG;PST
+ejderha		N;LOC;SG;PSS2P
+ejderha		N;LOC;SG;PSS2S
+ejderha		N;ABL;SG;PSS1P
+ejderha		N;LGSPEC1;3P;SG;LGSPEC2
+ejderha		N;LGSPEC1;3S;SG;LGSPEC2
+ejderha	ejderhalardı	N;LGSPEC1;3P;PL;PST
+ejderha		N;DAT;SG;PSS1P
+ejderha		N;ABL;SG;PSS3S
+ejderha		N;LGSPEC1;2S;SG;PRS
+ejderha		N;LGSPEC1;1S;PL;PRS
+ejderha		N;ABL;PL;PSS2P
+ejderha		N;LGSPEC1;3P;PL;LGSPEC2
+ejderha	ejderhalarından	N;ABL;PL;PSS2S
+net		N;LOC;SG;PSS1P
+net		N;ABL;PL;PSS1P
+net	netinde	N;LOC;SG;PSS3S
+net		N;LOC;SG;PSS3P
+net		N;NOM;PL;PSS2P
+net		N;ACC;PL;PSS3S
+net		N;ACC;PL;PSS3P
+net		N;LOC;PL
+net		N;ABL;SG;PSS2S
+net		N;ABL;SG;PSS2P
+net		N;DAT;PL;PSS3P
+net		N;GEN;SG;PSS2P
+net		N;GEN;SG;PSS2S
+net		N;DAT;PL;PSS1P
+net		N;NOM;PL;PSS3P
+net	netine	N;DAT;SG;PSS2S
+net		N;LOC;SG;PSS2P
+net		N;NOM;PL;PSS3S
+net		N;DAT;SG;PSS2P
+net		N;NOM;PL;PSS1P
+net		N;ACC;SG;PSS3P
+net		N;GEN;PL
+net		N;GEN;PL;PSS2P
+net		N;ACC;SG;PSS3S
+net		N;ABL;PL;PSS2S
+net		N;LOC;PL;PSS3P
+net	netlerinden	N;ABL;PL;PSS3S
+net		N;LOC;PL;PSS3S
+net	netlerimizde	N;LOC;PL;PSS1P
+net		N;NOM;SG;PSS1P
+net		N;ACC;SG;PSS2P
+net		N;ACC;PL
+net		N;NOM;SG;PSS3S
+net		N;NOM;SG;PSS3P
+net		N;GEN;PL;PSS3P
+net		N;ABL;SG
+net	netlerinden	N;ABL;PL;PSS3P
+net	netlerinizi	N;ACC;PL;PSS2P
+net		N;GEN;PL;PSS1P
+net	netimizi	N;ACC;SG;PSS1P
+net		N;NOM;SG
+net		N;ACC;SG;PSS2S
+net		N;LOC;SG;PSS2S
+net		N;ABL;SG;PSS1P
+net		N;GEN;SG;PSS1P
+net		N;ABL;SG;PSS3P
+net		N;ABL;SG;PSS3S
+net		N;DAT;SG;PSS1P
+net	netlerinize	N;DAT;PL;PSS2P
+net	netinin	N;GEN;SG;PSS3S
+net		N;GEN;SG;PSS3P
+net		N;DAT;PL;PSS2S
+net	netlerine	N;DAT;SG;PSS3P
+net	netine	N;DAT;SG;PSS3S
+net		N;GEN;PL;PSS3S
+net		N;DAT;PL;PSS3S
+net		N;GEN;SG
+net	netiniz	N;NOM;SG;PSS2P
+net		N;LOC;PL;PSS2S
+net		N;LOC;PL;PSS2P
+net		N;LOC;SG
+net		N;DAT;SG
+net		N;NOM;PL
+net		N;ACC;PL;PSS2S
+net		N;GEN;PL;PSS2S
+net		N;ACC;SG
+net	netin	N;NOM;SG;PSS2S
+net		N;ABL;PL
+net		N;NOM;PL;PSS2S
+net		N;DAT;PL
+net		N;ABL;PL;PSS2P
+net		N;ACC;PL;PSS1P
+gözlem		N;GEN;PL
+gözlem		N;NOM;PL
+gözlem	gözlemin	N;GEN;SG
+gözlem		N;NOM;SG
+gözlem		N;LOC;PL
+gözlem		N;DAT;SG
+gözlem		N;LOC;SG
+gözlem		N;ACC;PL
+gözlem		N;ACC;SG
+gözlem		N;ABL;PL
+gözlem		N;ABL;SG
+gözlem		N;DAT;PL
+çocukluk		N;GEN;PL
+çocukluk		N;NOM;PL
+çocukluk		N;GEN;SG
+çocukluk	çocukluk	N;NOM;SG
+çocukluk		N;LOC;PL
+çocukluk		N;DAT;SG
+çocukluk		N;LOC;SG
+çocukluk		N;ACC;PL
+çocukluk		N;ACC;SG
+çocukluk		N;ABL;PL
+çocukluk		N;ABL;SG
+çocukluk		N;DAT;PL
+veda		N;NOM;PL
+veda		N;LOC;PL
+veda		N;LGSPEC1;1S;SG;PRS
+veda	vedalarımızı	N;ACC;PL;PSS1P
+veda	vedalarsın	N;LGSPEC1;2S;PL;PRS
+veda		N;DAT;PL;PSS1P
+veda		N;NOM;PL;PSS1P
+veda	vedalar	N;LGSPEC1;3S;PL;PRS
+veda	vedalarında	N;LOC;PL;PSS3P
+veda		N;LOC;PL;PSS3S
+veda	vedaları	N;ACC;PL
+veda		N;NOM;SG;PSS3S
+veda		N;NOM;SG;PSS3P
+veda		N;LGSPEC1;3P;SG;PST
+veda		N;LGSPEC1;2P;PL;PRS
+veda		N;ABL;PL;PSS3S
+veda	vedaydım	N;LGSPEC1;1S;SG;PST
+veda		N;GEN;PL;PSS3S
+veda		N;LGSPEC1;3S;PL;PST
+veda		N;LGSPEC1;1P;SG;LGSPEC2
+veda		N;DAT;SG
+veda		N;GEN;PL;PSS2S
+veda		N;GEN;PL;PSS2P
+veda		N;ACC;SG;PSS3P
+veda		N;ACC;SG;PSS3S
+veda		N;ACC;PL;PSS3S
+veda		N;ACC;PL;PSS3P
+veda	vedalarına	N;DAT;PL;PSS3S
+veda		N;ABL;SG;PSS2S
+veda		N;ABL;SG;PSS2P
+veda		N;DAT;PL;PSS3P
+veda		N;GEN;SG;PSS2P
+veda		N;GEN;SG;PSS2S
+veda		N;NOM;PL;PSS3P
+veda		N;DAT;SG;PSS2S
+veda		N;DAT;SG;PSS2P
+veda		N;NOM;PL;PSS3S
+veda		N;NOM;SG;PSS1P
+veda		N;LGSPEC1;2P;PL;LGSPEC2
+veda	vedaydı	N;LGSPEC1;3S;SG;PST
+veda	vedadan	N;ABL;SG
+veda		N;ACC;SG
+veda	vedanı	N;ACC;SG;PSS2S
+veda	vedanızı	N;ACC;SG;PSS2P
+veda	vedalarınızı	N;ACC;PL;PSS2P
+veda		N;ACC;PL;PSS2S
+veda		N;DAT;PL;PSS2P
+veda		N;GEN;SG;PSS3S
+veda		N;GEN;SG;PSS3P
+veda		N;DAT;PL;PSS2S
+veda		N;LGSPEC1;2S;PL;PST
+veda	vedanın	N;GEN;SG
+veda		N;LOC;PL;PSS2S
+veda		N;LOC;PL;PSS2P
+veda		N;LGSPEC1;3S;PL;LGSPEC2
+veda		N;NOM;SG;PSS2P
+veda	vedan	N;NOM;SG;PSS2S
+veda		N;ABL;PL
+veda		N;LGSPEC1;1P;SG;PST
+veda		N;ABL;PL;PSS1P
+veda		N;LGSPEC1;1P;PL;PRS
+veda	vedasında	N;LOC;SG;PSS3S
+veda		N;LOC;SG;PSS3P
+veda		N;LGSPEC1;3P;PL;PRS
+veda		N;LGSPEC1;1S;PL;PST
+veda	vedalarımızın	N;GEN;PL;PSS1P
+veda		N;ACC;SG;PSS1P
+veda	vedaymışsın	N;LGSPEC1;2S;SG;LGSPEC2
+veda		N;NOM;SG
+veda		N;LGSPEC1;1P;SG;PRS
+veda		N;LGSPEC1;1P;PL;LGSPEC2
+veda		N;GEN;SG;PSS1P
+veda		N;ABL;SG;PSS3P
+veda		N;LOC;SG
+veda		N;NOM;PL;PSS2S
+veda		N;LGSPEC1;2P;SG;LGSPEC2
+veda		N;NOM;PL;PSS2P
+veda		N;DAT;SG;PSS3P
+veda		N;DAT;SG;PSS3S
+veda		N;LGSPEC1;3S;SG;PRS
+veda		N;LOC;SG;PSS1P
+veda	vedalardınız	N;LGSPEC1;2P;PL;PST
+veda		N;LGSPEC1;3P;SG;PRS
+veda		N;LGSPEC1;2P;SG;PRS
+veda		N;LGSPEC1;2S;PL;LGSPEC2
+veda		N;LGSPEC1;1S;PL;LGSPEC2
+veda		N;LGSPEC1;1S;SG;LGSPEC2
+veda		N;GEN;PL
+veda		N;LOC;PL;PSS1P
+veda		N;GEN;PL;PSS3P
+veda		N;ABL;PL;PSS3P
+veda		N;LGSPEC1;2S;SG;PST
+veda		N;DAT;PL
+veda		N;LGSPEC1;1P;PL;PST
+veda	vedaydınız	N;LGSPEC1;2P;SG;PST
+veda		N;LOC;SG;PSS2P
+veda		N;LOC;SG;PSS2S
+veda		N;ABL;SG;PSS1P
+veda		N;LGSPEC1;3P;SG;LGSPEC2
+veda	vedaymış	N;LGSPEC1;3S;SG;LGSPEC2
+veda		N;LGSPEC1;3P;PL;PST
+veda		N;DAT;SG;PSS1P
+veda		N;ABL;SG;PSS3S
+veda		N;LGSPEC1;2S;SG;PRS
+veda	vedalarım	N;LGSPEC1;1S;PL;PRS
+veda		N;ABL;PL;PSS2P
+veda		N;LGSPEC1;3P;PL;LGSPEC2
+veda		N;ABL;PL;PSS2S
+kimlik		N;LOC;SG;PSS1P
+kimlik		N;ABL;PL;PSS1P
+kimlik		N;LOC;SG;PSS3S
+kimlik		N;LOC;SG;PSS3P
+kimlik		N;NOM;PL;PSS2P
+kimlik		N;ACC;PL;PSS3S
+kimlik	kimliklerini	N;ACC;PL;PSS3P
+kimlik	kimliklerde	N;LOC;PL
+kimlik		N;ABL;SG;PSS2S
+kimlik		N;ABL;SG;PSS2P
+kimlik		N;DAT;PL;PSS3P
+kimlik		N;GEN;SG;PSS2P
+kimlik	kimliğinin	N;GEN;SG;PSS2S
+kimlik		N;DAT;PL;PSS1P
+kimlik	kimlikleri	N;NOM;PL;PSS3P
+kimlik		N;DAT;SG;PSS2S
+kimlik		N;LOC;SG;PSS2P
+kimlik	kimlikleri	N;NOM;PL;PSS3S
+kimlik	kimliğinize	N;DAT;SG;PSS2P
+kimlik		N;NOM;PL;PSS1P
+kimlik		N;ACC;SG;PSS3P
+kimlik		N;GEN;PL
+kimlik		N;GEN;PL;PSS2P
+kimlik		N;ACC;SG;PSS3S
+kimlik		N;ABL;PL;PSS2S
+kimlik		N;LOC;PL;PSS3P
+kimlik		N;ABL;PL;PSS3S
+kimlik		N;LOC;PL;PSS3S
+kimlik		N;LOC;PL;PSS1P
+kimlik		N;NOM;SG;PSS1P
+kimlik		N;ACC;SG;PSS2P
+kimlik	kimlikleri	N;ACC;PL
+kimlik		N;NOM;SG;PSS3S
+kimlik		N;NOM;SG;PSS3P
+kimlik		N;GEN;PL;PSS3P
+kimlik		N;ABL;SG
+kimlik		N;ABL;PL;PSS3P
+kimlik		N;ACC;PL;PSS2P
+kimlik		N;GEN;PL;PSS1P
+kimlik		N;ACC;SG;PSS1P
+kimlik		N;NOM;SG
+kimlik		N;ACC;SG;PSS2S
+kimlik		N;LOC;SG;PSS2S
+kimlik		N;ABL;SG;PSS1P
+kimlik		N;GEN;SG;PSS1P
+kimlik	kimliklerinden	N;ABL;SG;PSS3P
+kimlik		N;ABL;SG;PSS3S
+kimlik	kimliğimize	N;DAT;SG;PSS1P
+kimlik		N;DAT;PL;PSS2P
+kimlik	kimliğinin	N;GEN;SG;PSS3S
+kimlik		N;GEN;SG;PSS3P
+kimlik		N;DAT;PL;PSS2S
+kimlik		N;DAT;SG;PSS3P
+kimlik		N;DAT;SG;PSS3S
+kimlik		N;GEN;PL;PSS3S
+kimlik	kimliklerine	N;DAT;PL;PSS3S
+kimlik		N;GEN;SG
+kimlik		N;NOM;SG;PSS2P
+kimlik	kimliklerinde	N;LOC;PL;PSS2S
+kimlik	kimliklerinizde	N;LOC;PL;PSS2P
+kimlik		N;LOC;SG
+kimlik		N;DAT;SG
+kimlik		N;NOM;PL
+kimlik		N;ACC;PL;PSS2S
+kimlik		N;GEN;PL;PSS2S
+kimlik		N;ACC;SG
+kimlik		N;NOM;SG;PSS2S
+kimlik		N;ABL;PL
+kimlik		N;NOM;PL;PSS2S
+kimlik		N;DAT;PL
+kimlik		N;ABL;PL;PSS2P
+kimlik		N;ACC;PL;PSS1P
+şüphe		N;NOM;PL
+şüphe		N;LOC;PL
+şüphe		N;LGSPEC1;1S;SG;PRS
+şüphe		N;ACC;PL;PSS1P
+şüphe		N;LGSPEC1;2S;PL;PRS
+şüphe		N;DAT;PL;PSS1P
+şüphe		N;NOM;PL;PSS1P
+şüphe		N;LGSPEC1;3S;PL;PRS
+şüphe		N;LOC;PL;PSS3P
+şüphe		N;LOC;PL;PSS3S
+şüphe		N;ACC;PL
+şüphe		N;NOM;SG;PSS3S
+şüphe		N;NOM;SG;PSS3P
+şüphe	şüpheydiler	N;LGSPEC1;3P;SG;PST
+şüphe		N;LGSPEC1;2P;PL;PRS
+şüphe		N;ABL;PL;PSS3S
+şüphe		N;LGSPEC1;1S;SG;PST
+şüphe	şüphelerinin	N;GEN;PL;PSS3S
+şüphe		N;LGSPEC1;3S;PL;PST
+şüphe		N;LGSPEC1;1P;SG;LGSPEC2
+şüphe		N;DAT;SG
+şüphe		N;GEN;PL;PSS2S
+şüphe		N;GEN;PL;PSS2P
+şüphe		N;ACC;SG;PSS3P
+şüphe		N;ACC;SG;PSS3S
+şüphe		N;ACC;PL;PSS3S
+şüphe		N;ACC;PL;PSS3P
+şüphe		N;DAT;PL;PSS3S
+şüphe		N;ABL;SG;PSS2S
+şüphe		N;ABL;SG;PSS2P
+şüphe	şüphelerine	N;DAT;PL;PSS3P
+şüphe		N;GEN;SG;PSS2P
+şüphe		N;GEN;SG;PSS2S
+şüphe		N;NOM;PL;PSS3P
+şüphe	şüphene	N;DAT;SG;PSS2S
+şüphe		N;DAT;SG;PSS2P
+şüphe		N;NOM;PL;PSS3S
+şüphe	şüphemiz	N;NOM;SG;PSS1P
+şüphe		N;LGSPEC1;2P;PL;LGSPEC2
+şüphe	şüpheydi	N;LGSPEC1;3S;SG;PST
+şüphe	şüpheden	N;ABL;SG
+şüphe		N;ACC;SG
+şüphe		N;ACC;SG;PSS2S
+şüphe		N;ACC;SG;PSS2P
+şüphe		N;ACC;PL;PSS2P
+şüphe		N;ACC;PL;PSS2S
+şüphe	şüphelerinize	N;DAT;PL;PSS2P
+şüphe	şüphesinin	N;GEN;SG;PSS3S
+şüphe	şüphemin	N;GEN;SG;PSS3P
+şüphe		N;DAT;PL;PSS2S
+şüphe		N;LGSPEC1;2S;PL;PST
+şüphe		N;GEN;SG
+şüphe		N;LOC;PL;PSS2S
+şüphe	şüphelerinizde	N;LOC;PL;PSS2P
+şüphe		N;LGSPEC1;3S;PL;LGSPEC2
+şüphe		N;NOM;SG;PSS2P
+şüphe		N;NOM;SG;PSS2S
+şüphe		N;ABL;PL
+şüphe		N;LGSPEC1;1P;SG;PST
+şüphe		N;ABL;PL;PSS1P
+şüphe	şüpheleriz	N;LGSPEC1;1P;PL;PRS
+şüphe		N;LOC;SG;PSS3S
+şüphe		N;LOC;SG;PSS3P
+şüphe		N;LGSPEC1;3P;PL;PRS
+şüphe		N;LGSPEC1;1S;PL;PST
+şüphe		N;GEN;PL;PSS1P
+şüphe		N;ACC;SG;PSS1P
+şüphe	şüpheymişsin	N;LGSPEC1;2S;SG;LGSPEC2
+şüphe		N;NOM;SG
+şüphe		N;LGSPEC1;1P;SG;PRS
+şüphe		N;LGSPEC1;1P;PL;LGSPEC2
+şüphe		N;GEN;SG;PSS1P
+şüphe		N;ABL;SG;PSS3P
+şüphe	şüphesinden	N;ABL;SG;PSS3S
+şüphe		N;NOM;PL;PSS2S
+şüphe		N;LGSPEC1;2P;SG;LGSPEC2
+şüphe		N;NOM;PL;PSS2P
+şüphe		N;DAT;SG;PSS3P
+şüphe		N;DAT;SG;PSS3S
+şüphe		N;LGSPEC1;3S;SG;PRS
+şüphe	şüphemizde	N;LOC;SG;PSS1P
+şüphe		N;LGSPEC1;2P;PL;PST
+şüphe		N;LGSPEC1;3P;SG;PRS
+şüphe		N;LGSPEC1;2P;SG;PRS
+şüphe		N;LGSPEC1;2S;PL;LGSPEC2
+şüphe		N;LGSPEC1;1S;PL;LGSPEC2
+şüphe		N;LGSPEC1;1S;SG;LGSPEC2
+şüphe		N;GEN;PL
+şüphe		N;LOC;PL;PSS1P
+şüphe		N;GEN;PL;PSS3P
+şüphe	şüphelerinden	N;ABL;PL;PSS3P
+şüphe		N;LGSPEC1;2S;SG;PST
+şüphe	şüphelere	N;DAT;PL
+şüphe		N;LGSPEC1;1P;PL;PST
+şüphe		N;LGSPEC1;2P;SG;PST
+şüphe	şüphenizde	N;LOC;SG;PSS2P
+şüphe		N;LOC;SG;PSS2S
+şüphe		N;ABL;SG;PSS1P
+şüphe	şüpheymişler	N;LGSPEC1;3P;SG;LGSPEC2
+şüphe		N;LGSPEC1;3S;SG;LGSPEC2
+şüphe		N;LGSPEC1;3P;PL;PST
+şüphe		N;DAT;SG;PSS1P
+şüphe	şüphede	N;LOC;SG
+şüphe		N;LGSPEC1;2S;SG;PRS
+şüphe		N;LGSPEC1;1S;PL;PRS
+şüphe	şüphelerinizden	N;ABL;PL;PSS2P
+şüphe		N;LGSPEC1;3P;PL;LGSPEC2
+şüphe		N;ABL;PL;PSS2S
+evlilik		N;LOC;SG;PSS1P
+evlilik		N;ABL;PL;PSS1P
+evlilik		N;LOC;SG;PSS3S
+evlilik	evliliklerinde	N;LOC;SG;PSS3P
+evlilik		N;NOM;PL;PSS2P
+evlilik	evliliklerini	N;ACC;PL;PSS3S
+evlilik		N;ACC;PL;PSS3P
+evlilik		N;LOC;PL
+evlilik		N;ABL;SG;PSS2S
+evlilik		N;ABL;SG;PSS2P
+evlilik		N;DAT;PL;PSS3P
+evlilik		N;GEN;SG;PSS2P
+evlilik		N;GEN;SG;PSS2S
+evlilik	evliliklerimize	N;DAT;PL;PSS1P
+evlilik		N;NOM;PL;PSS3P
+evlilik		N;DAT;SG;PSS2S
+evlilik		N;LOC;SG;PSS2P
+evlilik		N;NOM;PL;PSS3S
+evlilik		N;DAT;SG;PSS2P
+evlilik		N;NOM;PL;PSS1P
+evlilik	evliliklerini	N;ACC;SG;PSS3P
+evlilik		N;GEN;PL
+evlilik		N;GEN;PL;PSS2P
+evlilik	evliliğini	N;ACC;SG;PSS3S
+evlilik		N;ABL;PL;PSS2S
+evlilik		N;LOC;PL;PSS3P
+evlilik		N;ABL;PL;PSS3S
+evlilik		N;LOC;PL;PSS3S
+evlilik		N;LOC;PL;PSS1P
+evlilik		N;NOM;SG;PSS1P
+evlilik		N;ACC;SG;PSS2P
+evlilik		N;ACC;PL
+evlilik		N;NOM;SG;PSS3S
+evlilik		N;NOM;SG;PSS3P
+evlilik	evliliklerinin	N;GEN;PL;PSS3P
+evlilik		N;ABL;SG
+evlilik		N;ABL;PL;PSS3P
+evlilik		N;ACC;PL;PSS2P
+evlilik	evliliklerimizin	N;GEN;PL;PSS1P
+evlilik	evliliğimizi	N;ACC;SG;PSS1P
+evlilik		N;NOM;SG
+evlilik		N;ACC;SG;PSS2S
+evlilik		N;LOC;SG;PSS2S
+evlilik		N;ABL;SG;PSS1P
+evlilik		N;GEN;SG;PSS1P
+evlilik		N;ABL;SG;PSS3P
+evlilik		N;ABL;SG;PSS3S
+evlilik		N;DAT;SG;PSS1P
+evlilik		N;DAT;PL;PSS2P
+evlilik		N;GEN;SG;PSS3S
+evlilik		N;GEN;SG;PSS3P
+evlilik		N;DAT;PL;PSS2S
+evlilik	evliliklerine	N;DAT;SG;PSS3P
+evlilik	evliliğine	N;DAT;SG;PSS3S
+evlilik		N;GEN;PL;PSS3S
+evlilik		N;DAT;PL;PSS3S
+evlilik	evliliğin	N;GEN;SG
+evlilik		N;NOM;SG;PSS2P
+evlilik		N;LOC;PL;PSS2S
+evlilik		N;LOC;PL;PSS2P
+evlilik		N;LOC;SG
+evlilik		N;DAT;SG
+evlilik		N;NOM;PL
+evlilik		N;ACC;PL;PSS2S
+evlilik		N;GEN;PL;PSS2S
+evlilik	evliliği	N;ACC;SG
+evlilik		N;NOM;SG;PSS2S
+evlilik		N;ABL;PL
+evlilik	evliliklerin	N;NOM;PL;PSS2S
+evlilik		N;DAT;PL
+evlilik		N;ABL;PL;PSS2P
+evlilik		N;ACC;PL;PSS1P
+sayfa		N;NOM;PL
+sayfa		N;LOC;PL
+sayfa	sayfayım	N;LGSPEC1;1S;SG;PRS
+sayfa		N;ACC;PL;PSS1P
+sayfa		N;LGSPEC1;2S;PL;PRS
+sayfa		N;DAT;PL;PSS1P
+sayfa	sayfalarımız	N;NOM;PL;PSS1P
+sayfa		N;LGSPEC1;3S;PL;PRS
+sayfa		N;LOC;PL;PSS3P
+sayfa		N;LOC;PL;PSS3S
+sayfa		N;ACC;PL
+sayfa	sayfası	N;NOM;SG;PSS3S
+sayfa		N;NOM;SG;PSS3P
+sayfa		N;LGSPEC1;3P;SG;PST
+sayfa	sayfalarsınız	N;LGSPEC1;2P;PL;PRS
+sayfa		N;ABL;PL;PSS3S
+sayfa		N;LGSPEC1;1S;SG;PST
+sayfa		N;GEN;PL;PSS3S
+sayfa	sayfalardı	N;LGSPEC1;3S;PL;PST
+sayfa		N;LGSPEC1;1P;SG;LGSPEC2
+sayfa		N;DAT;SG
+sayfa		N;GEN;PL;PSS2S
+sayfa		N;GEN;PL;PSS2P
+sayfa		N;ACC;SG;PSS3P
+sayfa		N;ACC;SG;PSS3S
+sayfa	sayfalarını	N;ACC;PL;PSS3S
+sayfa		N;ACC;PL;PSS3P
+sayfa		N;DAT;PL;PSS3S
+sayfa		N;ABL;SG;PSS2S
+sayfa		N;ABL;SG;PSS2P
+sayfa		N;DAT;PL;PSS3P
+sayfa		N;GEN;SG;PSS2P
+sayfa		N;GEN;SG;PSS2S
+sayfa		N;NOM;PL;PSS3P
+sayfa		N;DAT;SG;PSS2S
+sayfa		N;DAT;SG;PSS2P
+sayfa		N;NOM;PL;PSS3S
+sayfa	sayfamız	N;NOM;SG;PSS1P
+sayfa		N;LGSPEC1;2P;PL;LGSPEC2
+sayfa		N;LGSPEC1;3S;SG;PST
+sayfa		N;ABL;SG
+sayfa	sayfayı	N;ACC;SG
+sayfa	sayfanı	N;ACC;SG;PSS2S
+sayfa		N;ACC;SG;PSS2P
+sayfa		N;ACC;PL;PSS2P
+sayfa	sayfalarını	N;ACC;PL;PSS2S
+sayfa		N;DAT;PL;PSS2P
+sayfa		N;GEN;SG;PSS3S
+sayfa		N;GEN;SG;PSS3P
+sayfa	sayfalarına	N;DAT;PL;PSS2S
+sayfa	sayfalardın	N;LGSPEC1;2S;PL;PST
+sayfa		N;GEN;SG
+sayfa	sayfalarında	N;LOC;PL;PSS2S
+sayfa		N;LOC;PL;PSS2P
+sayfa		N;LGSPEC1;3S;PL;LGSPEC2
+sayfa		N;NOM;SG;PSS2P
+sayfa	sayfan	N;NOM;SG;PSS2S
+sayfa		N;ABL;PL
+sayfa		N;LGSPEC1;1P;SG;PST
+sayfa		N;ABL;PL;PSS1P
+sayfa		N;LGSPEC1;1P;PL;PRS
+sayfa		N;LOC;SG;PSS3S
+sayfa		N;LOC;SG;PSS3P
+sayfa		N;LGSPEC1;3P;PL;PRS
+sayfa		N;LGSPEC1;1S;PL;PST
+sayfa		N;GEN;PL;PSS1P
+sayfa		N;ACC;SG;PSS1P
+sayfa		N;LGSPEC1;2S;SG;LGSPEC2
+sayfa		N;NOM;SG
+sayfa	sayfayız	N;LGSPEC1;1P;SG;PRS
+sayfa		N;LGSPEC1;1P;PL;LGSPEC2
+sayfa		N;GEN;SG;PSS1P
+sayfa		N;ABL;SG;PSS3P
+sayfa	sayfada	N;LOC;SG
+sayfa	sayfaların	N;NOM;PL;PSS2S
+sayfa		N;LGSPEC1;2P;SG;LGSPEC2
+sayfa	sayfalarınız	N;NOM;PL;PSS2P
+sayfa		N;DAT;SG;PSS3P
+sayfa		N;DAT;SG;PSS3S
+sayfa		N;LGSPEC1;3S;SG;PRS
+sayfa		N;LOC;SG;PSS1P
+sayfa		N;LGSPEC1;2P;PL;PST
+sayfa		N;LGSPEC1;3P;SG;PRS
+sayfa	sayfasınız	N;LGSPEC1;2P;SG;PRS
+sayfa		N;LGSPEC1;2S;PL;LGSPEC2
+sayfa		N;LGSPEC1;1S;PL;LGSPEC2
+sayfa		N;LGSPEC1;1S;SG;LGSPEC2
+sayfa		N;GEN;PL
+sayfa		N;LOC;PL;PSS1P
+sayfa		N;GEN;PL;PSS3P
+sayfa		N;ABL;PL;PSS3P
+sayfa		N;LGSPEC1;2S;SG;PST
+sayfa		N;DAT;PL
+sayfa	sayfalardık	N;LGSPEC1;1P;PL;PST
+sayfa		N;LGSPEC1;2P;SG;PST
+sayfa		N;LOC;SG;PSS2P
+sayfa		N;LOC;SG;PSS2S
+sayfa		N;ABL;SG;PSS1P
+sayfa		N;LGSPEC1;3P;SG;LGSPEC2
+sayfa		N;LGSPEC1;3S;SG;LGSPEC2
+sayfa		N;LGSPEC1;3P;PL;PST
+sayfa		N;DAT;SG;PSS1P
+sayfa		N;ABL;SG;PSS3S
+sayfa		N;LGSPEC1;2S;SG;PRS
+sayfa		N;LGSPEC1;1S;PL;PRS
+sayfa	sayfalarınızdan	N;ABL;PL;PSS2P
+sayfa		N;LGSPEC1;3P;PL;LGSPEC2
+sayfa		N;ABL;PL;PSS2S
+kapasite	kapasiteler	N;NOM;PL
+kapasite		N;ABL;PL;PSS1P
+kapasite		N;LOC;SG;PSS3S
+kapasite		N;ACC;SG;PSS3P
+kapasite		N;LOC;SG;PSS3P
+kapasite		N;NOM;PL;PSS2P
+kapasite		N;ACC;PL;PSS3S
+kapasite		N;ACC;PL;PSS3P
+kapasite		N;LOC;PL
+kapasite		N;ABL;SG;PSS2S
+kapasite		N;LOC;SG;PSS1P
+kapasite		N;DAT;PL;PSS3P
+kapasite		N;ACC;PL;PSS1P
+kapasite	kapasitenin	N;GEN;SG;PSS2S
+kapasite	kapasitene	N;DAT;SG;PSS2S
+kapasite		N;NOM;PL;PSS3P
+kapasite		N;DAT;PL;PSS1P
+kapasite		N;DAT;SG;PSS2P
+kapasite		N;NOM;PL;PSS3S
+kapasite		N;NOM;PL;PSS1P
+kapasite		N;LOC;SG;PSS2P
+kapasite	kapasitelerin	N;GEN;PL
+kapasite	kapasitenizi	N;ACC;SG;PSS2P
+kapasite	kapasiteye	N;DAT;SG
+kapasite		N;LOC;PL;PSS3P
+kapasite		N;LOC;PL;PSS3S
+kapasite		N;LOC;PL;PSS1P
+kapasite		N;NOM;SG;PSS1P
+kapasite	kapasiteleri	N;ACC;PL
+kapasite	kapasitesi	N;NOM;SG;PSS3S
+kapasite		N;NOM;SG;PSS3P
+kapasite		N;GEN;PL;PSS3P
+kapasite		N;ABL;SG
+kapasite		N;ABL;PL;PSS3P
+kapasite	kapasitelerimizin	N;GEN;PL;PSS1P
+kapasite	kapasitelere	N;DAT;PL
+kapasite		N;GEN;SG;PSS1P
+kapasite		N;NOM;SG
+kapasite		N;ABL;SG;PSS1P
+kapasite		N;ACC;SG;PSS2S
+kapasite		N;LOC;SG;PSS2S
+kapasite		N;GEN;PL;PSS2P
+kapasite		N;ABL;SG;PSS3S
+kapasite	kapasitelerinizi	N;ACC;PL;PSS2P
+kapasite		N;ABL;PL;PSS3S
+kapasite		N;LOC;SG
+kapasite		N;ACC;PL;PSS2S
+kapasite		N;DAT;PL;PSS2P
+kapasite		N;GEN;SG;PSS3S
+kapasite		N;GEN;SG;PSS3P
+kapasite		N;DAT;PL;PSS2S
+kapasite		N;DAT;SG;PSS3P
+kapasite		N;DAT;SG;PSS3S
+kapasite		N;ACC;SG;PSS3S
+kapasite		N;ACC;SG
+kapasite		N;DAT;PL;PSS3S
+kapasite		N;GEN;SG
+kapasite		N;GEN;PL;PSS3S
+kapasite		N;LOC;PL;PSS2S
+kapasite		N;ABL;SG;PSS3P
+kapasite		N;LOC;PL;PSS2P
+kapasite		N;ABL;SG;PSS2P
+kapasite		N;GEN;SG;PSS2P
+kapasite		N;DAT;SG;PSS1P
+kapasite		N;GEN;PL;PSS2S
+kapasite	kapasiteniz	N;NOM;SG;PSS2P
+kapasite		N;NOM;SG;PSS2S
+kapasite	kapasitelerden	N;ABL;PL
+kapasite		N;NOM;PL;PSS2S
+kapasite		N;ACC;SG;PSS1P
+kapasite		N;ABL;PL;PSS2P
+kapasite		N;ABL;PL;PSS2S
+gazete	gazeteler	N;NOM;PL
+gazete		N;ABL;PL;PSS1P
+gazete		N;LOC;SG;PSS3S
+gazete		N;ACC;SG;PSS3P
+gazete	gazetemde	N;LOC;SG;PSS3P
+gazete		N;NOM;PL;PSS2P
+gazete		N;ACC;PL;PSS3S
+gazete		N;ACC;PL;PSS3P
+gazete		N;LOC;PL
+gazete		N;ABL;SG;PSS2S
+gazete		N;LOC;SG;PSS1P
+gazete		N;DAT;PL;PSS3P
+gazete		N;ACC;PL;PSS1P
+gazete		N;GEN;SG;PSS2S
+gazete		N;DAT;SG;PSS2S
+gazete		N;NOM;PL;PSS3P
+gazete	gazetelerimize	N;DAT;PL;PSS1P
+gazete		N;DAT;SG;PSS2P
+gazete		N;NOM;PL;PSS3S
+gazete		N;NOM;PL;PSS1P
+gazete		N;LOC;SG;PSS2P
+gazete		N;GEN;PL
+gazete		N;ACC;SG;PSS2P
+gazete		N;DAT;SG
+gazete		N;LOC;PL;PSS3P
+gazete		N;LOC;PL;PSS3S
+gazete		N;LOC;PL;PSS1P
+gazete		N;NOM;SG;PSS1P
+gazete		N;ACC;PL
+gazete	gazetesi	N;NOM;SG;PSS3S
+gazete		N;NOM;SG;PSS3P
+gazete	gazetelerinin	N;GEN;PL;PSS3P
+gazete		N;ABL;SG
+gazete		N;ABL;PL;PSS3P
+gazete	gazetelerimizin	N;GEN;PL;PSS1P
+gazete		N;DAT;PL
+gazete		N;GEN;SG;PSS1P
+gazete		N;NOM;SG
+gazete	gazetemizden	N;ABL;SG;PSS1P
+gazete		N;ACC;SG;PSS2S
+gazete		N;LOC;SG;PSS2S
+gazete		N;GEN;PL;PSS2P
+gazete		N;ABL;SG;PSS3S
+gazete		N;ACC;PL;PSS2P
+gazete		N;ABL;PL;PSS3S
+gazete	gazetede	N;LOC;SG
+gazete		N;ACC;PL;PSS2S
+gazete		N;DAT;PL;PSS2P
+gazete		N;GEN;SG;PSS3S
+gazete		N;GEN;SG;PSS3P
+gazete		N;DAT;PL;PSS2S
+gazete	gazeteme	N;DAT;SG;PSS3P
+gazete		N;DAT;SG;PSS3S
+gazete		N;ACC;SG;PSS3S
+gazete		N;ACC;SG
+gazete		N;DAT;PL;PSS3S
+gazete		N;GEN;SG
+gazete		N;GEN;PL;PSS3S
+gazete		N;LOC;PL;PSS2S
+gazete		N;ABL;SG;PSS3P
+gazete		N;LOC;PL;PSS2P
+gazete		N;ABL;SG;PSS2P
+gazete	gazetenizin	N;GEN;SG;PSS2P
+gazete		N;DAT;SG;PSS1P
+gazete		N;GEN;PL;PSS2S
+gazete	gazeteniz	N;NOM;SG;PSS2P
+gazete	gazeten	N;NOM;SG;PSS2S
+gazete		N;ABL;PL
+gazete	gazetelerin	N;NOM;PL;PSS2S
+gazete		N;ACC;SG;PSS1P
+gazete		N;ABL;PL;PSS2P
+gazete		N;ABL;PL;PSS2S
+ileti		N;GEN;PL
+ileti		N;NOM;PL
+ileti		N;GEN;SG
+ileti		N;NOM;SG
+ileti		N;LOC;PL
+ileti		N;DAT;SG
+ileti		N;LOC;SG
+ileti		N;ACC;PL
+ileti		N;ACC;SG
+ileti	iletilerden	N;ABL;PL
+ileti		N;ABL;SG
+ileti		N;DAT;PL
+oyunculuk		N;GEN;PL
+oyunculuk		N;NOM;PL
+oyunculuk		N;GEN;SG
+oyunculuk		N;NOM;SG
+oyunculuk	oyunculuklarda	N;LOC;PL
+oyunculuk		N;DAT;SG
+oyunculuk		N;LOC;SG
+oyunculuk		N;ACC;PL
+oyunculuk		N;ACC;SG
+oyunculuk		N;ABL;PL
+oyunculuk		N;ABL;SG
+oyunculuk		N;DAT;PL
+duyu		N;NOM;PL
+duyu		N;ABL;PL;PSS1P
+duyu		N;LOC;SG;PSS3S
+duyu		N;ACC;SG;PSS3P
+duyu		N;LOC;SG;PSS3P
+duyu		N;NOM;PL;PSS2P
+duyu		N;ACC;PL;PSS3S
+duyu		N;ACC;PL;PSS3P
+duyu		N;LOC;PL
+duyu		N;ABL;SG;PSS2S
+duyu		N;LOC;SG;PSS1P
+duyu		N;DAT;PL;PSS3P
+duyu	duyularımızı	N;ACC;PL;PSS1P
+duyu		N;GEN;SG;PSS2S
+duyu		N;DAT;SG;PSS2S
+duyu	duyuları	N;NOM;PL;PSS3P
+duyu		N;DAT;PL;PSS1P
+duyu		N;DAT;SG;PSS2P
+duyu		N;NOM;PL;PSS3S
+duyu		N;NOM;PL;PSS1P
+duyu		N;LOC;SG;PSS2P
+duyu		N;GEN;PL
+duyu		N;ACC;SG;PSS2P
+duyu		N;DAT;SG
+duyu		N;LOC;PL;PSS3P
+duyu		N;LOC;PL;PSS3S
+duyu		N;LOC;PL;PSS1P
+duyu		N;NOM;SG;PSS1P
+duyu		N;ACC;PL
+duyu		N;NOM;SG;PSS3S
+duyu	duyum	N;NOM;SG;PSS3P
+duyu		N;GEN;PL;PSS3P
+duyu		N;ABL;SG
+duyu		N;ABL;PL;PSS3P
+duyu		N;GEN;PL;PSS1P
+duyu		N;DAT;PL
+duyu		N;GEN;SG;PSS1P
+duyu	duyu	N;NOM;SG
+duyu	duyumuzdan	N;ABL;SG;PSS1P
+duyu		N;ACC;SG;PSS2S
+duyu		N;LOC;SG;PSS2S
+duyu		N;GEN;PL;PSS2P
+duyu	duyusundan	N;ABL;SG;PSS3S
+duyu		N;ACC;PL;PSS2P
+duyu	duyularından	N;ABL;PL;PSS3S
+duyu		N;LOC;SG
+duyu	duyularını	N;ACC;PL;PSS2S
+duyu		N;DAT;PL;PSS2P
+duyu		N;GEN;SG;PSS3S
+duyu		N;GEN;SG;PSS3P
+duyu		N;DAT;PL;PSS2S
+duyu		N;DAT;SG;PSS3P
+duyu		N;DAT;SG;PSS3S
+duyu		N;ACC;SG;PSS3S
+duyu		N;ACC;SG
+duyu		N;DAT;PL;PSS3S
+duyu		N;GEN;SG
+duyu		N;GEN;PL;PSS3S
+duyu	duyularında	N;LOC;PL;PSS2S
+duyu		N;ABL;SG;PSS3P
+duyu	duyularınızda	N;LOC;PL;PSS2P
+duyu		N;ABL;SG;PSS2P
+duyu	duyunuzun	N;GEN;SG;PSS2P
+duyu		N;DAT;SG;PSS1P
+duyu		N;GEN;PL;PSS2S
+duyu	duyunuz	N;NOM;SG;PSS2P
+duyu		N;NOM;SG;PSS2S
+duyu		N;ABL;PL
+duyu		N;NOM;PL;PSS2S
+duyu		N;ACC;SG;PSS1P
+duyu		N;ABL;PL;PSS2P
+duyu	duyularından	N;ABL;PL;PSS2S
+getirmek		V;IND;3;SG;FUT;NEG;DECL
+getirmek		V;IND;1;SG;PST;PROG;POS;INTR
+getirmek		V;IND;2;PL;FUT;POS;INTR
+getirmek		V;IND;1;PL;PST;PROG;NEG;INTR
+getirmek		V;IND;3;SG;PRS;PROG;NEG;DECL
+getirmek		V;IND;3;SG;FUT;POS;DECL
+getirmek		V;IND;1;PL;PRS;NEG;DECL
+getirmek		V;IND;1;PL;FUT;POS;DECL
+getirmek		V;IND;2;PL;PST;POS;DECL
+getirmek		V;IND;2;SG;PRS;PROG;POS;DECL
+getirmek		V;IND;1;PL;PST;PROG;NEG;DECL
+getirmek		V;IND;1;SG;FUT;POS;INTR
+getirmek		V;IND;3;PL;PRS;POS;DECL
+getirmek	getirmediler mi?	V;IND;3;PL;PST;NEG;INTR
+getirmek	getirirsin	V;IND;2;SG;PRS;POS;DECL
+getirmek	getirmiyordun	V;IND;2;SG;PST;PROG;NEG;DECL
+getirmek	getirdiniz mi?	V;IND;2;PL;PST;POS;INTR
+getirmek		V;IND;1;PL;PRS;PROG;NEG;INTR
+getirmek		V;IND;1;SG;PST;NEG;INTR
+getirmek	getirmez misiniz?	V;IND;2;PL;PRS;NEG;INTR
+getirmek	getiriyorlar	V;IND;3;PL;PRS;PROG;POS;DECL
+getirmek		V;IND;3;SG;FUT;NEG;INTR
+getirmek		V;IND;1;SG;PST;NEG;DECL
+getirmek		V;IND;3;SG;PST;NEG;INTR
+getirmek		V;IND;2;SG;FUT;NEG;INTR
+getirmek		V;IND;3;PL;PST;POS;INTR
+getirmek		V;IND;1;PL;PRS;PROG;POS;INTR
+getirmek		V;IND;3;PL;PST;NEG;DECL
+getirmek		V;IND;1;PL;FUT;NEG;INTR
+getirmek		V;IND;1;SG;PRS;PROG;NEG;INTR
+getirmek		V;IND;2;PL;FUT;NEG;DECL
+getirmek		V;IND;3;PL;PRS;NEG;INTR
+getirmek		V;IND;1;SG;PRS;POS;DECL
+getirmek		V;IND;3;PL;PST;PROG;POS;INTR
+getirmek		V;IND;3;SG;PST;PROG;POS;INTR
+getirmek		V;IND;3;SG;PST;POS;DECL
+getirmek	getirmiyor muydunuz?	V;IND;2;PL;PST;PROG;NEG;INTR
+getirmek		V;IND;3;SG;PST;PROG;NEG;INTR
+getirmek		V;IND;2;PL;PST;NEG;INTR
+getirmek		V;IND;1;SG;FUT;POS;DECL
+getirmek		V;IND;2;SG;PST;POS;DECL
+getirmek	getirdim mi?	V;IND;1;SG;PST;POS;INTR
+getirmek		V;IND;3;SG;PST;NEG;DECL
+getirmek		V;IND;1;PL;PST;POS;DECL
+getirmek		V;IND;2;SG;FUT;POS;INTR
+getirmek		V;IND;3;SG;PRS;POS;INTR
+getirmek		V;IND;1;SG;PST;PROG;NEG;INTR
+getirmek		V;IND;1;PL;FUT;POS;INTR
+getirmek		V;IND;3;SG;PST;PROG;NEG;DECL
+getirmek		V;IND;2;PL;PRS;PROG;POS;INTR
+getirmek		V;IND;1;SG;PRS;PROG;POS;INTR
+getirmek		V;IND;2;SG;PST;POS;INTR
+getirmek		V;IND;1;PL;PRS;PROG;NEG;DECL
+getirmek		V;IND;3;SG;FUT;POS;INTR
+getirmek		V;IND;1;SG;FUT;NEG;DECL
+getirmek	getirmez	V;IND;3;SG;PRS;NEG;DECL
+getirmek		V;IND;1;SG;PRS;POS;INTR
+getirmek		V;IND;2;PL;PRS;POS;DECL
+getirmek		V;IND;1;PL;PRS;POS;INTR
+getirmek		V;IND;2;PL;PST;PROG;POS;INTR
+getirmek	getirir	V;IND;3;SG;PRS;POS;DECL
+getirmek		V;IND;3;PL;FUT;POS;INTR
+getirmek		V;IND;3;PL;PRS;NEG;DECL
+getirmek	getirmedik mi?	V;IND;1;PL;PST;NEG;INTR
+getirmek		V;IND;2;PL;PRS;POS;INTR
+getirmek		V;IND;2;PL;PST;PROG;POS;DECL
+getirmek		V;IND;1;SG;PRS;PROG;NEG;DECL
+getirmek		V;IND;2;PL;PST;PROG;NEG;DECL
+getirmek		V;IND;3;PL;FUT;NEG;DECL
+getirmek	getirmiyor musunuz?	V;IND;2;PL;PRS;PROG;NEG;INTR
+getirmek		V;IND;3;PL;PST;PROG;NEG;INTR
+getirmek		V;IND;2;SG;PST;PROG;POS;DECL
+getirmek		V;IND;1;SG;PST;PROG;POS;DECL
+getirmek		V;IND;1;PL;PST;NEG;DECL
+getirmek		V;IND;3;PL;FUT;NEG;INTR
+getirmek		V;IND;2;SG;PRS;NEG;DECL
+getirmek	getirdim	V;IND;1;SG;PST;POS;DECL
+getirmek		V;IND;3;PL;PRS;PROG;NEG;INTR
+getirmek		V;IND;3;PL;PRS;PROG;POS;INTR
+getirmek		V;IND;2;PL;PRS;PROG;POS;DECL
+getirmek		V;IND;1;SG;PST;PROG;NEG;DECL
+getirmek		V;IND;1;PL;PRS;POS;DECL
+getirmek	getirmeyecek miyim?	V;IND;1;SG;FUT;NEG;INTR
+getirmek	getirmeyecek misiniz?	V;IND;2;PL;FUT;NEG;INTR
+getirmek		V;IND;2;SG;PRS;PROG;POS;INTR
+getirmek		V;IND;2;SG;FUT;NEG;DECL
+getirmek		V;IND;1;PL;PRS;NEG;INTR
+getirmek		V;IND;2;SG;PRS;PROG;NEG;INTR
+getirmek		V;IND;2;SG;PST;NEG;DECL
+getirmek		V;IND;2;PL;PRS;NEG;DECL
+getirmek	getirmiyor muydun?	V;IND;2;SG;PST;PROG;NEG;INTR
+getirmek		V;IND;2;SG;PST;NEG;INTR
+getirmek		V;IND;3;SG;PST;POS;INTR
+getirmek		V;IND;2;PL;PST;NEG;DECL
+getirmek		V;IND;3;PL;PRS;PROG;NEG;DECL
+getirmek		V;IND;1;SG;PRS;NEG;INTR
+getirmek		V;IND;3;PL;PST;PROG;POS;DECL
+getirmek		V;IND;1;PL;PST;PROG;POS;DECL
+getirmek		V;IND;1;SG;PRS;NEG;DECL
+getirmek		V;IND;3;SG;PRS;PROG;POS;DECL
+getirmek		V;IND;3;SG;PST;PROG;POS;DECL
+getirmek		V;IND;2;SG;PST;PROG;POS;INTR
+getirmek		V;IND;3;PL;PRS;POS;INTR
+getirmek	getirir misin?	V;IND;2;SG;PRS;POS;INTR
+getirmek		V;IND;1;PL;FUT;NEG;DECL
+getirmek	getirdik mi?	V;IND;1;PL;PST;POS;INTR
+getirmek		V;IND;3;SG;PRS;NEG;INTR
+getirmek	getirmiyordular	V;IND;3;PL;PST;PROG;NEG;DECL
+getirmek		V;IND;1;PL;PST;PROG;POS;INTR
+getirmek		V;IND;3;SG;PRS;PROG;NEG;INTR
+getirmek	getirmez misin?	V;IND;2;SG;PRS;NEG;INTR
+getirmek	getirecekler	V;IND;3;PL;FUT;POS;DECL
+getirmek		V;IND;3;SG;PRS;PROG;POS;INTR
+getirmek		V;IND;2;SG;FUT;POS;DECL
+getirmek		V;IND;2;SG;PRS;PROG;NEG;DECL
+getirmek	getiriyoruz	V;IND;1;PL;PRS;PROG;POS;DECL
+getirmek		V;IND;1;SG;PRS;PROG;POS;DECL
+getirmek	getirmiyorsunuz	V;IND;2;PL;PRS;PROG;NEG;DECL
+getirmek		V;IND;2;PL;FUT;POS;DECL
+getirmek		V;IND;3;PL;PST;POS;DECL
+sabah		N;LOC;SG;PSS1P
+sabah		N;ABL;PL;PSS1P
+sabah		N;LOC;SG;PSS3S
+sabah		N;LOC;SG;PSS3P
+sabah		N;NOM;PL;PSS2P
+sabah		N;ACC;PL;PSS3S
+sabah		N;ACC;PL;PSS3P
+sabah		N;LOC;PL
+sabah		N;ABL;SG;PSS2S
+sabah		N;ABL;SG;PSS2P
+sabah		N;DAT;PL;PSS3P
+sabah	sabahınızın	N;GEN;SG;PSS2P
+sabah		N;GEN;SG;PSS2S
+sabah		N;DAT;PL;PSS1P
+sabah		N;NOM;PL;PSS3P
+sabah		N;DAT;SG;PSS2S
+sabah	sabahınıza	N;DAT;SG;PSS2P
+sabah		N;NOM;PL;PSS3S
+sabah		N;NOM;PL;PSS1P
+sabah	sabahlarını	N;ACC;SG;PSS3P
+sabah		N;GEN;PL
+sabah		N;GEN;PL;PSS2P
+sabah		N;ACC;SG;PSS3S
+sabah	sabahlarından	N;ABL;PL;PSS2S
+sabah		N;LOC;PL;PSS3P
+sabah	sabahlarından	N;ABL;PL;PSS3S
+sabah		N;LOC;PL;PSS3S
+sabah		N;LOC;PL;PSS1P
+sabah		N;NOM;SG;PSS1P
+sabah		N;ACC;SG;PSS2P
+sabah		N;ACC;PL
+sabah		N;NOM;SG;PSS3S
+sabah		N;NOM;SG;PSS3P
+sabah		N;GEN;PL;PSS3P
+sabah		N;ABL;SG
+sabah	sabahlarından	N;ABL;PL;PSS3P
+sabah	sabahlarınızı	N;ACC;PL;PSS2P
+sabah	sabahınızda	N;LOC;SG;PSS2P
+sabah		N;ACC;SG;PSS1P
+sabah		N;NOM;SG
+sabah		N;ACC;SG;PSS2S
+sabah		N;LOC;SG;PSS2S
+sabah		N;LOC;PL;PSS2S
+sabah	sabahımızdan	N;ABL;SG;PSS1P
+sabah		N;GEN;SG;PSS1P
+sabah		N;ABL;SG;PSS3P
+sabah		N;ABL;SG;PSS3S
+sabah		N;DAT;SG;PSS1P
+sabah		N;DAT;PL;PSS2P
+sabah		N;GEN;SG;PSS3S
+sabah		N;GEN;SG;PSS3P
+sabah	sabahlarına	N;DAT;PL;PSS2S
+sabah		N;DAT;SG;PSS3P
+sabah	sabahına	N;DAT;SG;PSS3S
+sabah		N;GEN;PL;PSS3S
+sabah		N;DAT;PL;PSS3S
+sabah		N;GEN;SG
+sabah		N;NOM;SG;PSS2P
+sabah		N;GEN;PL;PSS1P
+sabah		N;LOC;PL;PSS2P
+sabah		N;LOC;SG
+sabah		N;DAT;SG
+sabah		N;NOM;PL
+sabah		N;ACC;PL;PSS2S
+sabah		N;GEN;PL;PSS2S
+sabah		N;ACC;SG
+sabah	sabahın	N;NOM;SG;PSS2S
+sabah		N;ABL;PL
+sabah		N;NOM;PL;PSS2S
+sabah	sabahlara	N;DAT;PL
+sabah		N;ABL;PL;PSS2P
+sabah		N;ACC;PL;PSS1P
+kahraman		N;NOM;PL
+kahraman		N;LOC;PL
+kahraman		N;LGSPEC1;1S;SG;PRS
+kahraman		N;ACC;PL;PSS1P
+kahraman		N;LGSPEC1;2S;PL;PRS
+kahraman		N;DAT;PL;PSS1P
+kahraman		N;NOM;PL;PSS1P
+kahraman		N;LGSPEC1;3S;PL;PRS
+kahraman		N;LOC;PL;PSS3P
+kahraman		N;LOC;PL;PSS3S
+kahraman	kahramanları	N;ACC;PL
+kahraman		N;NOM;SG;PSS3S
+kahraman		N;LGSPEC1;1P;SG;PRS
+kahraman		N;LGSPEC1;3P;SG;PST
+kahraman		N;LGSPEC1;2P;PL;PRS
+kahraman		N;GEN;PL;PSS3P
+kahraman		N;LGSPEC1;1S;SG;PST
+kahraman		N;GEN;PL;PSS3S
+kahraman	kahramanlardı	N;LGSPEC1;3S;PL;PST
+kahraman	kahramanmışız	N;LGSPEC1;1P;SG;LGSPEC2
+kahraman		N;DAT;SG
+kahraman		N;GEN;PL;PSS2S
+kahraman		N;GEN;PL;PSS2P
+kahraman		N;DAT;PL
+kahraman		N;ACC;SG;PSS3P
+kahraman		N;ACC;SG;PSS3S
+kahraman	kahramanlarını	N;ACC;PL;PSS3S
+kahraman	kahramanlarını	N;ACC;PL;PSS3P
+kahraman		N;DAT;PL;PSS3S
+kahraman	kahramanından	N;ABL;SG;PSS2S
+kahraman		N;ABL;SG;PSS2P
+kahraman	kahramanlarına	N;DAT;PL;PSS3P
+kahraman		N;GEN;SG;PSS2P
+kahraman		N;GEN;SG;PSS2S
+kahraman		N;NOM;PL;PSS3P
+kahraman		N;DAT;SG;PSS2S
+kahraman		N;DAT;SG;PSS2P
+kahraman		N;NOM;PL;PSS3S
+kahraman		N;NOM;SG;PSS1P
+kahraman		N;LGSPEC1;2P;PL;LGSPEC2
+kahraman		N;LGSPEC1;3S;SG;PST
+kahraman		N;ABL;SG
+kahraman		N;ACC;SG;PSS2S
+kahraman		N;ACC;SG;PSS2P
+kahraman	kahramanlarınızı	N;ACC;PL;PSS2P
+kahraman		N;ACC;PL;PSS2S
+kahraman		N;DAT;PL;PSS2P
+kahraman	kahramanının	N;GEN;SG;PSS3S
+kahraman		N;GEN;SG;PSS3P
+kahraman		N;DAT;PL;PSS2S
+kahraman		N;LGSPEC1;2S;PL;PST
+kahraman	kahramanın	N;GEN;SG
+kahraman		N;LOC;PL;PSS2S
+kahraman		N;LOC;PL;PSS2P
+kahraman	kahramanlarmış	N;LGSPEC1;3S;PL;LGSPEC2
+kahraman	kahramanınız	N;NOM;SG;PSS2P
+kahraman	kahramanın	N;NOM;SG;PSS2S
+kahraman	kahramanlardan	N;ABL;PL
+kahraman		N;LGSPEC1;1P;SG;PST
+kahraman		N;ABL;PL;PSS1P
+kahraman		N;LGSPEC1;1P;PL;PRS
+kahraman		N;LOC;SG;PSS3S
+kahraman		N;LOC;SG;PSS3P
+kahraman		N;LGSPEC1;3P;PL;PRS
+kahraman		N;LGSPEC1;1S;PL;PST
+kahraman		N;GEN;PL;PSS1P
+kahraman	kahramanımızı	N;ACC;SG;PSS1P
+kahraman		N;LGSPEC1;2S;SG;LGSPEC2
+kahraman	kahraman	N;NOM;SG
+kahraman		N;NOM;SG;PSS3P
+kahraman		N;LGSPEC1;1P;PL;LGSPEC2
+kahraman		N;GEN;SG;PSS1P
+kahraman		N;ABL;SG;PSS3P
+kahraman		N;LOC;SG
+kahraman	kahramanların	N;NOM;PL;PSS2S
+kahraman	kahramanmışsınız	N;LGSPEC1;2P;SG;LGSPEC2
+kahraman		N;NOM;PL;PSS2P
+kahraman		N;DAT;SG;PSS3P
+kahraman		N;DAT;SG;PSS3S
+kahraman		N;LGSPEC1;3S;SG;PRS
+kahraman		N;LOC;SG;PSS1P
+kahraman		N;LGSPEC1;2P;PL;PST
+kahraman		N;LGSPEC1;3P;SG;PRS
+kahraman	kahramansınız	N;LGSPEC1;2P;SG;PRS
+kahraman		N;LGSPEC1;2S;PL;LGSPEC2
+kahraman		N;LGSPEC1;1S;PL;LGSPEC2
+kahraman		N;LGSPEC1;1S;SG;LGSPEC2
+kahraman		N;GEN;PL
+kahraman		N;LOC;PL;PSS1P
+kahraman		N;ABL;PL;PSS3S
+kahraman		N;ABL;PL;PSS3P
+kahraman	kahramandın	N;LGSPEC1;2S;SG;PST
+kahraman		N;ACC;SG
+kahraman		N;LGSPEC1;1P;PL;PST
+kahraman	kahramandınız	N;LGSPEC1;2P;SG;PST
+kahraman		N;LOC;SG;PSS2P
+kahraman		N;LOC;SG;PSS2S
+kahraman		N;ABL;SG;PSS1P
+kahraman		N;LGSPEC1;3P;SG;LGSPEC2
+kahraman		N;LGSPEC1;3S;SG;LGSPEC2
+kahraman		N;LGSPEC1;3P;PL;PST
+kahraman		N;DAT;SG;PSS1P
+kahraman		N;ABL;SG;PSS3S
+kahraman		N;LGSPEC1;2S;SG;PRS
+kahraman		N;LGSPEC1;1S;PL;PRS
+kahraman		N;ABL;PL;PSS2P
+kahraman		N;LGSPEC1;3P;PL;LGSPEC2
+kahraman		N;ABL;PL;PSS2S
+fare		N;NOM;PL
+fare		N;LOC;PL
+fare		N;LGSPEC1;1S;SG;PRS
+fare		N;ACC;PL;PSS1P
+fare		N;LGSPEC1;2S;PL;PRS
+fare		N;DAT;PL;PSS1P
+fare		N;NOM;PL;PSS1P
+fare		N;LGSPEC1;3S;PL;PRS
+fare		N;LOC;PL;PSS3P
+fare	farelerinde	N;LOC;PL;PSS3S
+fare	fareleri	N;ACC;PL
+fare		N;NOM;SG;PSS3S
+fare		N;NOM;SG;PSS3P
+fare		N;LGSPEC1;3P;SG;PST
+fare		N;LGSPEC1;2P;PL;PRS
+fare		N;ABL;PL;PSS3S
+fare		N;LGSPEC1;1S;SG;PST
+fare		N;GEN;PL;PSS3S
+fare		N;LGSPEC1;3S;PL;PST
+fare		N;LGSPEC1;1P;SG;LGSPEC2
+fare	fareye	N;DAT;SG
+fare		N;GEN;PL;PSS2S
+fare		N;GEN;PL;PSS2P
+fare		N;ACC;SG;PSS3P
+fare		N;ACC;SG;PSS3S
+fare		N;ACC;PL;PSS3S
+fare		N;ACC;PL;PSS3P
+fare		N;DAT;PL;PSS3S
+fare		N;ABL;SG;PSS2S
+fare		N;ABL;SG;PSS2P
+fare	farelerine	N;DAT;PL;PSS3P
+fare		N;GEN;SG;PSS2P
+fare		N;GEN;SG;PSS2S
+fare		N;NOM;PL;PSS3P
+fare		N;DAT;SG;PSS2S
+fare		N;DAT;SG;PSS2P
+fare	fareleri	N;NOM;PL;PSS3S
+fare		N;NOM;SG;PSS1P
+fare		N;LGSPEC1;2P;PL;LGSPEC2
+fare		N;LGSPEC1;3S;SG;PST
+fare		N;ABL;SG
+fare		N;ACC;SG
+fare	fareni	N;ACC;SG;PSS2S
+fare		N;ACC;SG;PSS2P
+fare		N;ACC;PL;PSS2P
+fare	farelerini	N;ACC;PL;PSS2S
+fare		N;DAT;PL;PSS2P
+fare		N;GEN;SG;PSS3S
+fare	faremin	N;GEN;SG;PSS3P
+fare		N;DAT;PL;PSS2S
+fare		N;LGSPEC1;2S;PL;PST
+fare	farenin	N;GEN;SG
+fare		N;LOC;PL;PSS2S
+fare		N;LOC;PL;PSS2P
+fare		N;LGSPEC1;3S;PL;LGSPEC2
+fare		N;NOM;SG;PSS2P
+fare		N;NOM;SG;PSS2S
+fare		N;ABL;PL
+fare		N;LGSPEC1;1P;SG;PST
+fare		N;ABL;PL;PSS1P
+fare		N;LGSPEC1;1P;PL;PRS
+fare		N;LOC;SG;PSS3S
+fare		N;LOC;SG;PSS3P
+fare	farelerdir	N;LGSPEC1;3P;PL;PRS
+fare		N;LGSPEC1;1S;PL;PST
+fare		N;GEN;PL;PSS1P
+fare		N;ACC;SG;PSS1P
+fare		N;LGSPEC1;2S;SG;LGSPEC2
+fare		N;NOM;SG
+fare		N;LGSPEC1;1P;SG;PRS
+fare		N;LGSPEC1;1P;PL;LGSPEC2
+fare		N;GEN;SG;PSS1P
+fare		N;ABL;SG;PSS3P
+fare		N;ABL;SG;PSS3S
+fare		N;NOM;PL;PSS2S
+fare		N;LGSPEC1;2P;SG;LGSPEC2
+fare	fareleriniz	N;NOM;PL;PSS2P
+fare	fareme	N;DAT;SG;PSS3P
+fare		N;DAT;SG;PSS3S
+fare	fare	N;LGSPEC1;3S;SG;PRS
+fare	faremizde	N;LOC;SG;PSS1P
+fare		N;LGSPEC1;2P;PL;PST
+fare		N;LGSPEC1;3P;SG;PRS
+fare		N;LGSPEC1;2P;SG;PRS
+fare		N;LGSPEC1;2S;PL;LGSPEC2
+fare	farelermişim	N;LGSPEC1;1S;PL;LGSPEC2
+fare		N;LGSPEC1;1S;SG;LGSPEC2
+fare	farelerin	N;GEN;PL
+fare		N;LOC;PL;PSS1P
+fare	farelerinin	N;GEN;PL;PSS3P
+fare	farelerinden	N;ABL;PL;PSS3P
+fare		N;LGSPEC1;2S;SG;PST
+fare		N;DAT;PL
+fare		N;LGSPEC1;1P;PL;PST
+fare		N;LGSPEC1;2P;SG;PST
+fare		N;LOC;SG;PSS2P
+fare	farende	N;LOC;SG;PSS2S
+fare		N;ABL;SG;PSS1P
+fare		N;LGSPEC1;3P;SG;LGSPEC2
+fare		N;LGSPEC1;3S;SG;LGSPEC2
+fare		N;LGSPEC1;3P;PL;PST
+fare	faremize	N;DAT;SG;PSS1P
+fare		N;LOC;SG
+fare		N;LGSPEC1;2S;SG;PRS
+fare		N;LGSPEC1;1S;PL;PRS
+fare		N;ABL;PL;PSS2P
+fare		N;LGSPEC1;3P;PL;LGSPEC2
+fare	farelerinden	N;ABL;PL;PSS2S
+levrek		N;LOC;SG;PSS1P
+levrek		N;ABL;PL;PSS1P
+levrek	levreğinde	N;LOC;SG;PSS3S
+levrek		N;LOC;SG;PSS3P
+levrek		N;NOM;PL;PSS2P
+levrek		N;ACC;PL;PSS3S
+levrek		N;ACC;PL;PSS3P
+levrek		N;LOC;PL
+levrek		N;ABL;SG;PSS2S
+levrek		N;ABL;SG;PSS2P
+levrek		N;DAT;PL;PSS3P
+levrek		N;GEN;SG;PSS2P
+levrek	levreğinin	N;GEN;SG;PSS2S
+levrek		N;DAT;PL;PSS1P
+levrek		N;NOM;PL;PSS3P
+levrek		N;DAT;SG;PSS2S
+levrek		N;LOC;SG;PSS2P
+levrek		N;NOM;PL;PSS3S
+levrek		N;DAT;SG;PSS2P
+levrek		N;NOM;PL;PSS1P
+levrek		N;ACC;SG;PSS3P
+levrek		N;GEN;PL
+levrek		N;GEN;PL;PSS2P
+levrek		N;ACC;SG;PSS3S
+levrek		N;ABL;PL;PSS2S
+levrek		N;LOC;PL;PSS3P
+levrek		N;ABL;PL;PSS3S
+levrek		N;LOC;PL;PSS3S
+levrek		N;LOC;PL;PSS1P
+levrek		N;NOM;SG;PSS1P
+levrek		N;ACC;SG;PSS2P
+levrek		N;ACC;PL
+levrek		N;NOM;SG;PSS3S
+levrek	levrekleri	N;NOM;SG;PSS3P
+levrek	levreklerinin	N;GEN;PL;PSS3P
+levrek	levrekten	N;ABL;SG
+levrek		N;ABL;PL;PSS3P
+levrek	levreklerinizi	N;ACC;PL;PSS2P
+levrek		N;GEN;PL;PSS1P
+levrek		N;ACC;SG;PSS1P
+levrek		N;NOM;SG
+levrek		N;ACC;SG;PSS2S
+levrek		N;LOC;SG;PSS2S
+levrek	levreğimizden	N;ABL;SG;PSS1P
+levrek		N;GEN;SG;PSS1P
+levrek		N;ABL;SG;PSS3P
+levrek		N;ABL;SG;PSS3S
+levrek		N;DAT;SG;PSS1P
+levrek		N;DAT;PL;PSS2P
+levrek		N;GEN;SG;PSS3S
+levrek		N;GEN;SG;PSS3P
+levrek		N;DAT;PL;PSS2S
+levrek		N;DAT;SG;PSS3P
+levrek		N;DAT;SG;PSS3S
+levrek		N;GEN;PL;PSS3S
+levrek		N;DAT;PL;PSS3S
+levrek	levreğin	N;GEN;SG
+levrek		N;NOM;SG;PSS2P
+levrek	levreklerinde	N;LOC;PL;PSS2S
+levrek		N;LOC;PL;PSS2P
+levrek	levrekte	N;LOC;SG
+levrek	levreğe	N;DAT;SG
+levrek		N;NOM;PL
+levrek		N;ACC;PL;PSS2S
+levrek		N;GEN;PL;PSS2S
+levrek		N;ACC;SG
+levrek		N;NOM;SG;PSS2S
+levrek		N;ABL;PL
+levrek	levreklerin	N;NOM;PL;PSS2S
+levrek	levreklere	N;DAT;PL
+levrek		N;ABL;PL;PSS2P
+levrek		N;ACC;PL;PSS1P
+sayım		N;LOC;SG;PSS1P
+sayım		N;ABL;PL;PSS1P
+sayım		N;LOC;SG;PSS3S
+sayım		N;LOC;SG;PSS3P
+sayım		N;NOM;PL;PSS2P
+sayım		N;ACC;PL;PSS3S
+sayım	sayımlarını	N;ACC;PL;PSS3P
+sayım	sayımlarda	N;LOC;PL
+sayım		N;ABL;SG;PSS2S
+sayım		N;ABL;SG;PSS2P
+sayım		N;DAT;PL;PSS3P
+sayım		N;GEN;SG;PSS2P
+sayım		N;GEN;SG;PSS2S
+sayım		N;DAT;PL;PSS1P
+sayım		N;NOM;PL;PSS3P
+sayım		N;DAT;SG;PSS2S
+sayım		N;DAT;SG;PSS2P
+sayım		N;NOM;PL;PSS3S
+sayım		N;NOM;PL;PSS1P
+sayım	sayımlarını	N;ACC;SG;PSS3P
+sayım		N;GEN;PL
+sayım	sayımlarınızın	N;GEN;PL;PSS2P
+sayım		N;ACC;SG;PSS3S
+sayım		N;ABL;PL;PSS2S
+sayım		N;LOC;PL;PSS3P
+sayım		N;ABL;PL;PSS3S
+sayım		N;LOC;PL;PSS3S
+sayım		N;LOC;PL;PSS1P
+sayım	sayımımız	N;NOM;SG;PSS1P
+sayım		N;ACC;SG;PSS2P
+sayım		N;ACC;PL
+sayım		N;NOM;SG;PSS3S
+sayım		N;NOM;SG;PSS3P
+sayım		N;GEN;PL;PSS3P
+sayım		N;ABL;SG
+sayım	sayımlarından	N;ABL;PL;PSS3P
+sayım		N;ACC;PL;PSS2P
+sayım	sayımınızda	N;LOC;SG;PSS2P
+sayım		N;ACC;SG;PSS1P
+sayım		N;NOM;SG
+sayım		N;ACC;SG;PSS2S
+sayım		N;LOC;SG;PSS2S
+sayım	sayımlarında	N;LOC;PL;PSS2S
+sayım		N;ABL;SG;PSS1P
+sayım		N;GEN;SG;PSS1P
+sayım		N;ABL;SG;PSS3P
+sayım		N;ABL;SG;PSS3S
+sayım		N;DAT;SG;PSS1P
+sayım		N;DAT;PL;PSS2P
+sayım		N;GEN;SG;PSS3S
+sayım		N;GEN;SG;PSS3P
+sayım	sayımlarına	N;DAT;PL;PSS2S
+sayım		N;DAT;SG;PSS3P
+sayım	sayımına	N;DAT;SG;PSS3S
+sayım	sayımlarının	N;GEN;PL;PSS3S
+sayım		N;DAT;PL;PSS3S
+sayım		N;GEN;SG
+sayım		N;NOM;SG;PSS2P
+sayım		N;GEN;PL;PSS1P
+sayım		N;LOC;PL;PSS2P
+sayım		N;LOC;SG
+sayım		N;DAT;SG
+sayım		N;NOM;PL
+sayım		N;ACC;PL;PSS2S
+sayım		N;GEN;PL;PSS2S
+sayım	sayımı	N;ACC;SG
+sayım		N;NOM;SG;PSS2S
+sayım	sayımlardan	N;ABL;PL
+sayım		N;NOM;PL;PSS2S
+sayım		N;DAT;PL
+sayım		N;ABL;PL;PSS2P
+sayım		N;ACC;PL;PSS1P
+sürgün		N;NOM;PL
+sürgün		N;ABL;PL;PSS1P
+sürgün		N;ACC;SG;PSS3P
+sürgün		N;LOC;SG;PSS3P
+sürgün		N;NOM;PL;PSS2P
+sürgün	sürgünlerini	N;ACC;PL;PSS3S
+sürgün	sürgünlerini	N;ACC;PL;PSS3P
+sürgün	sürgünlerde	N;LOC;PL
+sürgün		N;ABL;SG;PSS2S
+sürgün		N;LOC;SG;PSS1P
+sürgün		N;DAT;PL;PSS3P
+sürgün		N;ACC;PL;PSS1P
+sürgün		N;GEN;SG;PSS2S
+sürgün	sürgününe	N;DAT;SG;PSS2S
+sürgün		N;NOM;PL;PSS3P
+sürgün		N;DAT;PL;PSS1P
+sürgün		N;LOC;SG;PSS2P
+sürgün		N;NOM;PL;PSS3S
+sürgün		N;DAT;SG;PSS2P
+sürgün		N;NOM;PL;PSS1P
+sürgün		N;LOC;SG;PSS3S
+sürgün		N;GEN;PL
+sürgün		N;ACC;SG;PSS3S
+sürgün		N;LOC;PL;PSS3P
+sürgün		N;LOC;PL;PSS3S
+sürgün	sürgünlerimizde	N;LOC;PL;PSS1P
+sürgün		N;NOM;SG;PSS1P
+sürgün		N;ACC;SG;PSS2P
+sürgün	sürgününüzden	N;ABL;SG;PSS2P
+sürgün		N;ACC;PL
+sürgün		N;NOM;SG;PSS3S
+sürgün		N;NOM;SG;PSS3P
+sürgün		N;GEN;PL;PSS3P
+sürgün		N;ABL;SG
+sürgün		N;ABL;PL;PSS3P
+sürgün		N;GEN;PL;PSS1P
+sürgün		N;DAT;PL
+sürgün		N;GEN;SG;PSS1P
+sürgün		N;NOM;SG
+sürgün		N;ABL;SG;PSS1P
+sürgün	sürgününü	N;ACC;SG;PSS2S
+sürgün		N;LOC;SG;PSS2S
+sürgün		N;NOM;SG;PSS2P
+sürgün		N;GEN;PL;PSS2P
+sürgün		N;GEN;SG;PSS2P
+sürgün		N;ACC;PL;PSS2P
+sürgün		N;ABL;PL;PSS3S
+sürgün	sürgünde	N;LOC;SG
+sürgün		N;ACC;PL;PSS2S
+sürgün		N;DAT;PL;PSS2P
+sürgün		N;GEN;SG;PSS3S
+sürgün		N;GEN;SG;PSS3P
+sürgün		N;DAT;PL;PSS2S
+sürgün		N;DAT;SG;PSS3P
+sürgün		N;DAT;SG;PSS3S
+sürgün		N;DAT;PL;PSS3S
+sürgün		N;GEN;SG
+sürgün		N;GEN;PL;PSS3S
+sürgün		N;LOC;PL;PSS2S
+sürgün	sürgünümden	N;ABL;SG;PSS3P
+sürgün		N;LOC;PL;PSS2P
+sürgün	sürgününden	N;ABL;SG;PSS3S
+sürgün		N;DAT;SG
+sürgün		N;DAT;SG;PSS1P
+sürgün	sürgünlerinin	N;GEN;PL;PSS2S
+sürgün		N;ACC;SG
+sürgün		N;NOM;SG;PSS2S
+sürgün		N;ABL;PL
+sürgün	sürgünlerin	N;NOM;PL;PSS2S
+sürgün	sürgünümüzü	N;ACC;SG;PSS1P
+sürgün		N;ABL;PL;PSS2P
+sürgün		N;ABL;PL;PSS2S
+şirket		N;LOC;SG;PSS1P
+şirket	şirketlerimizden	N;ABL;PL;PSS1P
+şirket		N;LOC;SG;PSS3S
+şirket		N;LOC;SG;PSS3P
+şirket		N;NOM;PL;PSS2P
+şirket		N;ACC;PL;PSS3S
+şirket		N;ACC;PL;PSS3P
+şirket		N;LOC;PL
+şirket		N;ABL;SG;PSS2S
+şirket		N;ABL;SG;PSS2P
+şirket		N;DAT;PL;PSS3P
+şirket		N;GEN;SG;PSS2P
+şirket		N;GEN;SG;PSS2S
+şirket		N;DAT;PL;PSS1P
+şirket		N;NOM;PL;PSS3P
+şirket		N;DAT;SG;PSS2S
+şirket	şirketinizde	N;LOC;SG;PSS2P
+şirket		N;NOM;PL;PSS3S
+şirket	şirketinize	N;DAT;SG;PSS2P
+şirket		N;NOM;PL;PSS1P
+şirket	şirketlerini	N;ACC;SG;PSS3P
+şirket		N;GEN;PL
+şirket		N;GEN;PL;PSS2P
+şirket		N;ACC;SG;PSS3S
+şirket		N;ABL;PL;PSS2S
+şirket		N;LOC;PL;PSS3P
+şirket		N;ABL;PL;PSS3S
+şirket		N;LOC;PL;PSS3S
+şirket		N;LOC;PL;PSS1P
+şirket	şirketimiz	N;NOM;SG;PSS1P
+şirket		N;ACC;SG;PSS2P
+şirket		N;ACC;PL
+şirket		N;NOM;SG;PSS3S
+şirket		N;NOM;SG;PSS3P
+şirket	şirketlerinin	N;GEN;PL;PSS3P
+şirket		N;ABL;SG
+şirket		N;ABL;PL;PSS3P
+şirket	şirketlerinizi	N;ACC;PL;PSS2P
+şirket		N;GEN;PL;PSS1P
+şirket	şirketimizi	N;ACC;SG;PSS1P
+şirket	şirket	N;NOM;SG
+şirket		N;ACC;SG;PSS2S
+şirket		N;LOC;SG;PSS2S
+şirket		N;ABL;SG;PSS1P
+şirket	şirketimizin	N;GEN;SG;PSS1P
+şirket		N;ABL;SG;PSS3P
+şirket		N;ABL;SG;PSS3S
+şirket		N;DAT;SG;PSS1P
+şirket		N;DAT;PL;PSS2P
+şirket	şirketinin	N;GEN;SG;PSS3S
+şirket		N;GEN;SG;PSS3P
+şirket		N;DAT;PL;PSS2S
+şirket	şirketlerine	N;DAT;SG;PSS3P
+şirket		N;DAT;SG;PSS3S
+şirket		N;GEN;PL;PSS3S
+şirket		N;DAT;PL;PSS3S
+şirket		N;GEN;SG
+şirket		N;NOM;SG;PSS2P
+şirket		N;LOC;PL;PSS2S
+şirket		N;LOC;PL;PSS2P
+şirket		N;LOC;SG
+şirket		N;DAT;SG
+şirket		N;NOM;PL
+şirket		N;ACC;PL;PSS2S
+şirket		N;GEN;PL;PSS2S
+şirket		N;ACC;SG
+şirket		N;NOM;SG;PSS2S
+şirket		N;ABL;PL
+şirket		N;NOM;PL;PSS2S
+şirket		N;DAT;PL
+şirket		N;ABL;PL;PSS2P
+şirket	şirketlerimizi	N;ACC;PL;PSS1P
+tasarruf		N;NOM;PL
+tasarruf		N;ABL;PL;PSS1P
+tasarruf	tasarrufumu	N;ACC;SG;PSS3P
+tasarruf		N;LOC;SG;PSS3P
+tasarruf		N;LOC;SG;PSS2P
+tasarruf		N;NOM;PL;PSS2P
+tasarruf		N;ACC;PL;PSS3S
+tasarruf	tasarruflarını	N;ACC;PL;PSS3P
+tasarruf		N;LOC;PL
+tasarruf		N;ABL;SG;PSS2S
+tasarruf		N;LOC;SG;PSS1P
+tasarruf		N;DAT;PL;PSS3P
+tasarruf		N;ACC;PL;PSS1P
+tasarruf		N;GEN;SG;PSS2S
+tasarruf		N;DAT;SG;PSS2S
+tasarruf		N;NOM;PL;PSS3P
+tasarruf		N;DAT;PL;PSS1P
+tasarruf	tasarrufunuza	N;DAT;SG;PSS2P
+tasarruf		N;NOM;PL;PSS3S
+tasarruf		N;NOM;PL;PSS1P
+tasarruf	tasarrufunda	N;LOC;SG;PSS3S
+tasarruf		N;GEN;PL
+tasarruf		N;ACC;SG;PSS3S
+tasarruf		N;LOC;PL;PSS3P
+tasarruf		N;LOC;PL;PSS3S
+tasarruf		N;LOC;PL;PSS1P
+tasarruf		N;NOM;SG;PSS1P
+tasarruf		N;ACC;SG;PSS2P
+tasarruf		N;ABL;SG;PSS2P
+tasarruf		N;ACC;PL
+tasarruf		N;NOM;SG;PSS3S
+tasarruf		N;NOM;SG;PSS3P
+tasarruf		N;GEN;PL;PSS3P
+tasarruf		N;ABL;SG
+tasarruf		N;ABL;PL;PSS3P
+tasarruf		N;GEN;PL;PSS1P
+tasarruf		N;DAT;PL
+tasarruf	tasarrufumuzun	N;GEN;SG;PSS1P
+tasarruf	tasarruf	N;NOM;SG
+tasarruf		N;ABL;SG;PSS1P
+tasarruf		N;ACC;SG;PSS2S
+tasarruf		N;LOC;SG;PSS2S
+tasarruf		N;NOM;SG;PSS2P
+tasarruf	tasarruflarınızın	N;GEN;PL;PSS2P
+tasarruf	tasarrufunuzun	N;GEN;SG;PSS2P
+tasarruf		N;ACC;PL;PSS2P
+tasarruf		N;ABL;PL;PSS3S
+tasarruf		N;LOC;SG
+tasarruf		N;ACC;PL;PSS2S
+tasarruf		N;DAT;PL;PSS2P
+tasarruf		N;GEN;SG;PSS3S
+tasarruf		N;GEN;SG;PSS3P
+tasarruf		N;DAT;PL;PSS2S
+tasarruf		N;DAT;SG;PSS3P
+tasarruf		N;DAT;SG;PSS3S
+tasarruf		N;DAT;PL;PSS3S
+tasarruf		N;GEN;SG
+tasarruf		N;GEN;PL;PSS3S
+tasarruf		N;LOC;PL;PSS2S
+tasarruf		N;ABL;SG;PSS3P
+tasarruf		N;LOC;PL;PSS2P
+tasarruf	tasarrufundan	N;ABL;SG;PSS3S
+tasarruf	tasarrufa	N;DAT;SG
+tasarruf		N;DAT;SG;PSS1P
+tasarruf		N;GEN;PL;PSS2S
+tasarruf		N;ACC;SG
+tasarruf		N;NOM;SG;PSS2S
+tasarruf		N;ABL;PL
+tasarruf	tasarrufların	N;NOM;PL;PSS2S
+tasarruf	tasarrufumuzu	N;ACC;SG;PSS1P
+tasarruf		N;ABL;PL;PSS2P
+tasarruf	tasarruflarından	N;ABL;PL;PSS2S
+belediye		N;NOM;PL
+belediye		N;ABL;PL;PSS1P
+belediye	belediyesinde	N;LOC;SG;PSS3S
+belediye		N;ACC;SG;PSS3P
+belediye	belediyemde	N;LOC;SG;PSS3P
+belediye		N;NOM;PL;PSS2P
+belediye	belediyelerini	N;ACC;PL;PSS3S
+belediye		N;ACC;PL;PSS3P
+belediye		N;LOC;PL
+belediye		N;ABL;SG;PSS2S
+belediye		N;LOC;SG;PSS1P
+belediye		N;DAT;PL;PSS3P
+belediye		N;ACC;PL;PSS1P
+belediye	belediyenin	N;GEN;SG;PSS2S
+belediye		N;DAT;SG;PSS2S
+belediye		N;NOM;PL;PSS3P
+belediye	belediyelerimize	N;DAT;PL;PSS1P
+belediye		N;DAT;SG;PSS2P
+belediye		N;NOM;PL;PSS3S
+belediye		N;NOM;PL;PSS1P
+belediye		N;LOC;SG;PSS2P
+belediye		N;GEN;PL
+belediye		N;ACC;SG;PSS2P
+belediye		N;DAT;SG
+belediye		N;LOC;PL;PSS3P
+belediye		N;LOC;PL;PSS3S
+belediye		N;LOC;PL;PSS1P
+belediye		N;NOM;SG;PSS1P
+belediye		N;ACC;PL
+belediye		N;NOM;SG;PSS3S
+belediye		N;NOM;SG;PSS3P
+belediye		N;GEN;PL;PSS3P
+belediye		N;ABL;SG
+belediye	belediyelerinden	N;ABL;PL;PSS3P
+belediye		N;GEN;PL;PSS1P
+belediye		N;DAT;PL
+belediye	belediyemizin	N;GEN;SG;PSS1P
+belediye		N;NOM;SG
+belediye		N;ABL;SG;PSS1P
+belediye	belediyeni	N;ACC;SG;PSS2S
+belediye		N;LOC;SG;PSS2S
+belediye		N;GEN;PL;PSS2P
+belediye		N;ABL;SG;PSS3S
+belediye	belediyelerinizi	N;ACC;PL;PSS2P
+belediye		N;ABL;PL;PSS3S
+belediye	belediyede	N;LOC;SG
+belediye	belediyelerini	N;ACC;PL;PSS2S
+belediye		N;DAT;PL;PSS2P
+belediye		N;GEN;SG;PSS3S
+belediye	belediyemin	N;GEN;SG;PSS3P
+belediye		N;DAT;PL;PSS2S
+belediye		N;DAT;SG;PSS3P
+belediye		N;DAT;SG;PSS3S
+belediye	belediyesini	N;ACC;SG;PSS3S
+belediye		N;ACC;SG
+belediye		N;DAT;PL;PSS3S
+belediye		N;GEN;SG
+belediye		N;GEN;PL;PSS3S
+belediye		N;LOC;PL;PSS2S
+belediye		N;ABL;SG;PSS3P
+belediye		N;LOC;PL;PSS2P
+belediye		N;ABL;SG;PSS2P
+belediye		N;GEN;SG;PSS2P
+belediye		N;DAT;SG;PSS1P
+belediye		N;GEN;PL;PSS2S
+belediye		N;NOM;SG;PSS2P
+belediye		N;NOM;SG;PSS2S
+belediye		N;ABL;PL
+belediye		N;NOM;PL;PSS2S
+belediye		N;ACC;SG;PSS1P
+belediye		N;ABL;PL;PSS2P
+belediye		N;ABL;PL;PSS2S
+teklif		N;NOM;PL
+teklif		N;LOC;PL
+teklif	teklifim	N;LGSPEC1;1S;SG;PRS
+teklif	tekliflerimizi	N;ACC;PL;PSS1P
+teklif		N;LGSPEC1;2S;PL;PRS
+teklif	tekliflerimize	N;DAT;PL;PSS1P
+teklif	tekliflerimiz	N;NOM;PL;PSS1P
+teklif		N;LGSPEC1;3S;PL;PRS
+teklif	tekliflerinde	N;LOC;PL;PSS3P
+teklif	tekliflerinde	N;LOC;PL;PSS3S
+teklif		N;ACC;PL
+teklif		N;NOM;SG;PSS3S
+teklif		N;LGSPEC1;1P;SG;PRS
+teklif		N;LGSPEC1;3P;SG;PST
+teklif		N;LGSPEC1;2P;PL;PRS
+teklif		N;GEN;PL;PSS3P
+teklif		N;LGSPEC1;1S;SG;PST
+teklif		N;GEN;PL;PSS3S
+teklif		N;LGSPEC1;3S;PL;PST
+teklif		N;LGSPEC1;1P;SG;LGSPEC2
+teklif		N;DAT;SG
+teklif		N;GEN;PL;PSS2S
+teklif	tekliflerinizin	N;GEN;PL;PSS2P
+teklif		N;DAT;PL
+teklif		N;ACC;SG;PSS3P
+teklif		N;ACC;SG;PSS3S
+teklif		N;ACC;PL;PSS3S
+teklif		N;ACC;PL;PSS3P
+teklif		N;DAT;PL;PSS3S
+teklif		N;ABL;SG;PSS2S
+teklif		N;ABL;SG;PSS2P
+teklif	tekliflerine	N;DAT;PL;PSS3P
+teklif		N;GEN;SG;PSS2P
+teklif		N;GEN;SG;PSS2S
+teklif		N;NOM;PL;PSS3P
+teklif		N;DAT;SG;PSS2S
+teklif	teklifinize	N;DAT;SG;PSS2P
+teklif	teklifleri	N;NOM;PL;PSS3S
+teklif		N;NOM;SG;PSS1P
+teklif	tekliflermişsiniz	N;LGSPEC1;2P;PL;LGSPEC2
+teklif		N;LGSPEC1;3S;SG;PST
+teklif		N;ABL;SG
+teklif		N;ACC;SG;PSS2S
+teklif		N;ACC;SG;PSS2P
+teklif		N;ACC;PL;PSS2P
+teklif		N;ACC;PL;PSS2S
+teklif		N;DAT;PL;PSS2P
+teklif		N;GEN;SG;PSS3S
+teklif	tekliflerinin	N;GEN;SG;PSS3P
+teklif	tekliflerine	N;DAT;PL;PSS2S
+teklif		N;LGSPEC1;2S;PL;PST
+teklif		N;GEN;SG
+teklif		N;LOC;PL;PSS2S
+teklif		N;LOC;PL;PSS2P
+teklif		N;LGSPEC1;3S;PL;LGSPEC2
+teklif		N;NOM;SG;PSS2P
+teklif		N;NOM;SG;PSS2S
+teklif		N;ABL;PL
+teklif	tekliftik	N;LGSPEC1;1P;SG;PST
+teklif	tekliflerimizden	N;ABL;PL;PSS1P
+teklif		N;LGSPEC1;1P;PL;PRS
+teklif		N;LOC;SG;PSS3S
+teklif		N;LOC;SG;PSS3P
+teklif		N;LGSPEC1;3P;PL;PRS
+teklif		N;LGSPEC1;1S;PL;PST
+teklif		N;GEN;PL;PSS1P
+teklif		N;ACC;SG;PSS1P
+teklif		N;LGSPEC1;2S;SG;LGSPEC2
+teklif		N;NOM;SG
+teklif		N;NOM;SG;PSS3P
+teklif		N;LGSPEC1;1P;PL;LGSPEC2
+teklif		N;GEN;SG;PSS1P
+teklif	tekliflerinden	N;ABL;SG;PSS3P
+teklif		N;ABL;SG;PSS3S
+teklif		N;NOM;PL;PSS2S
+teklif		N;LGSPEC1;2P;SG;LGSPEC2
+teklif		N;NOM;PL;PSS2P
+teklif		N;DAT;SG;PSS3P
+teklif	teklifine	N;DAT;SG;PSS3S
+teklif		N;LGSPEC1;3S;SG;PRS
+teklif		N;LOC;SG;PSS1P
+teklif		N;LGSPEC1;2P;PL;PST
+teklif		N;LGSPEC1;3P;SG;PRS
+teklif		N;LGSPEC1;2P;SG;PRS
+teklif		N;LGSPEC1;2S;PL;LGSPEC2
+teklif		N;LGSPEC1;1S;PL;LGSPEC2
+teklif	teklifmişim	N;LGSPEC1;1S;SG;LGSPEC2
+teklif		N;GEN;PL
+teklif		N;LOC;PL;PSS1P
+teklif		N;ABL;PL;PSS3S
+teklif		N;ABL;PL;PSS3P
+teklif		N;LGSPEC1;2S;SG;PST
+teklif	teklifi	N;ACC;SG
+teklif		N;LGSPEC1;1P;PL;PST
+teklif		N;LGSPEC1;2P;SG;PST
+teklif		N;LOC;SG;PSS2P
+teklif		N;LOC;SG;PSS2S
+teklif		N;ABL;SG;PSS1P
+teklif		N;LGSPEC1;3P;SG;LGSPEC2
+teklif		N;LGSPEC1;3S;SG;LGSPEC2
+teklif		N;LGSPEC1;3P;PL;PST
+teklif		N;DAT;SG;PSS1P
+teklif		N;LOC;SG
+teklif	teklifsin	N;LGSPEC1;2S;SG;PRS
+teklif		N;LGSPEC1;1S;PL;PRS
+teklif		N;ABL;PL;PSS2P
+teklif	tekliflermiş	N;LGSPEC1;3P;PL;LGSPEC2
+teklif		N;ABL;PL;PSS2S
+asıl		N;NOM;PL
+asıl		N;ABL;PL;PSS1P
+asıl		N;ACC;SG;PSS3P
+asıl		N;LOC;SG;PSS3P
+asıl		N;LOC;SG;PSS2P
+asıl		N;NOM;PL;PSS2P
+asıl		N;ACC;PL;PSS3S
+asıl		N;ACC;PL;PSS3P
+asıl		N;LOC;PL
+asıl		N;ABL;SG;PSS2S
+asıl		N;LOC;SG;PSS1P
+asıl		N;DAT;PL;PSS3P
+asıl		N;ACC;PL;PSS1P
+asıl	aslının	N;GEN;SG;PSS2S
+asıl		N;DAT;SG;PSS2S
+asıl	asılları	N;NOM;PL;PSS3P
+asıl		N;DAT;PL;PSS1P
+asıl	aslınıza	N;DAT;SG;PSS2P
+asıl	asılları	N;NOM;PL;PSS3S
+asıl	asıllarımız	N;NOM;PL;PSS1P
+asıl		N;LOC;SG;PSS3S
+asıl		N;GEN;PL
+asıl		N;ACC;SG;PSS3S
+asıl		N;LOC;PL;PSS3P
+asıl		N;LOC;PL;PSS3S
+asıl		N;LOC;PL;PSS1P
+asıl		N;NOM;SG;PSS1P
+asıl		N;ACC;SG;PSS2P
+asıl	aslınızdan	N;ABL;SG;PSS2P
+asıl		N;ACC;PL
+asıl		N;NOM;SG;PSS3S
+asıl		N;NOM;SG;PSS3P
+asıl		N;GEN;PL;PSS3P
+asıl		N;ABL;SG
+asıl	asıllarından	N;ABL;PL;PSS3P
+asıl		N;GEN;PL;PSS1P
+asıl		N;DAT;PL
+asıl	aslımızın	N;GEN;SG;PSS1P
+asıl		N;NOM;SG
+asıl		N;ABL;SG;PSS1P
+asıl		N;ACC;SG;PSS2S
+asıl		N;LOC;SG;PSS2S
+asıl		N;NOM;SG;PSS2P
+asıl		N;GEN;PL;PSS2P
+asıl	aslınızın	N;GEN;SG;PSS2P
+asıl		N;ACC;PL;PSS2P
+asıl	asıllarından	N;ABL;PL;PSS3S
+asıl		N;LOC;SG
+asıl		N;ACC;PL;PSS2S
+asıl	asıllarınıza	N;DAT;PL;PSS2P
+asıl		N;GEN;SG;PSS3S
+asıl		N;GEN;SG;PSS3P
+asıl		N;DAT;PL;PSS2S
+asıl		N;DAT;SG;PSS3P
+asıl		N;DAT;SG;PSS3S
+asıl		N;DAT;PL;PSS3S
+asıl		N;GEN;SG
+asıl	asıllarının	N;GEN;PL;PSS3S
+asıl		N;LOC;PL;PSS2S
+asıl		N;ABL;SG;PSS3P
+asıl		N;LOC;PL;PSS2P
+asıl		N;ABL;SG;PSS3S
+asıl		N;DAT;SG
+asıl		N;DAT;SG;PSS1P
+asıl		N;GEN;PL;PSS2S
+asıl		N;ACC;SG
+asıl		N;NOM;SG;PSS2S
+asıl		N;ABL;PL
+asıl		N;NOM;PL;PSS2S
+asıl	aslımızı	N;ACC;SG;PSS1P
+asıl		N;ABL;PL;PSS2P
+asıl		N;ABL;PL;PSS2S
+akşam		N;LOC;SG;PSS1P
+akşam	akşamlarımızdan	N;ABL;PL;PSS1P
+akşam	akşamında	N;LOC;SG;PSS3S
+akşam		N;LOC;SG;PSS3P
+akşam		N;NOM;PL;PSS2P
+akşam	akşamlarını	N;ACC;PL;PSS3S
+akşam		N;ACC;PL;PSS3P
+akşam	akşamlarda	N;LOC;PL
+akşam		N;ABL;SG;PSS2S
+akşam		N;ABL;SG;PSS2P
+akşam		N;DAT;PL;PSS3P
+akşam		N;GEN;SG;PSS2P
+akşam		N;GEN;SG;PSS2S
+akşam		N;DAT;PL;PSS1P
+akşam	akşamları	N;NOM;PL;PSS3P
+akşam		N;DAT;SG;PSS2S
+akşam		N;DAT;SG;PSS2P
+akşam		N;NOM;PL;PSS3S
+akşam		N;NOM;PL;PSS1P
+akşam		N;ACC;SG;PSS3P
+akşam	akşamların	N;GEN;PL
+akşam		N;GEN;PL;PSS2P
+akşam		N;ACC;SG;PSS3S
+akşam		N;ABL;PL;PSS2S
+akşam		N;LOC;PL;PSS3P
+akşam	akşamlarından	N;ABL;PL;PSS3S
+akşam		N;LOC;PL;PSS3S
+akşam		N;LOC;PL;PSS1P
+akşam		N;NOM;SG;PSS1P
+akşam		N;ACC;SG;PSS2P
+akşam	akşamları	N;ACC;PL
+akşam		N;NOM;SG;PSS3S
+akşam		N;NOM;SG;PSS3P
+akşam		N;GEN;PL;PSS3P
+akşam		N;ABL;SG
+akşam		N;ABL;PL;PSS3P
+akşam		N;ACC;PL;PSS2P
+akşam		N;LOC;SG;PSS2P
+akşam	akşamımızı	N;ACC;SG;PSS1P
+akşam		N;NOM;SG
+akşam		N;ACC;SG;PSS2S
+akşam		N;LOC;SG;PSS2S
+akşam		N;LOC;PL;PSS2S
+akşam		N;ABL;SG;PSS1P
+akşam	akşamımızın	N;GEN;SG;PSS1P
+akşam		N;ABL;SG;PSS3P
+akşam	akşamından	N;ABL;SG;PSS3S
+akşam		N;DAT;SG;PSS1P
+akşam		N;DAT;PL;PSS2P
+akşam		N;GEN;SG;PSS3S
+akşam		N;GEN;SG;PSS3P
+akşam		N;DAT;PL;PSS2S
+akşam		N;DAT;SG;PSS3P
+akşam		N;DAT;SG;PSS3S
+akşam		N;GEN;PL;PSS3S
+akşam		N;DAT;PL;PSS3S
+akşam		N;GEN;SG
+akşam		N;NOM;SG;PSS2P
+akşam		N;GEN;PL;PSS1P
+akşam	akşamlarınızda	N;LOC;PL;PSS2P
+akşam		N;LOC;SG
+akşam		N;DAT;SG
+akşam		N;NOM;PL
+akşam		N;ACC;PL;PSS2S
+akşam	akşamlarının	N;GEN;PL;PSS2S
+akşam		N;ACC;SG
+akşam		N;NOM;SG;PSS2S
+akşam		N;ABL;PL
+akşam		N;NOM;PL;PSS2S
+akşam		N;DAT;PL
+akşam		N;ABL;PL;PSS2P
+akşam		N;ACC;PL;PSS1P
+üye		N;NOM;PL
+üye		N;LOC;PL
+üye	üyeyim	N;LGSPEC1;1S;SG;PRS
+üye		N;ACC;PL;PSS1P
+üye		N;LGSPEC1;2S;PL;PRS
+üye		N;DAT;PL;PSS1P
+üye		N;NOM;PL;PSS1P
+üye		N;LGSPEC1;3S;PL;PRS
+üye		N;LOC;PL;PSS3P
+üye		N;LOC;PL;PSS3S
+üye		N;ACC;PL
+üye	üyesi	N;NOM;SG;PSS3S
+üye		N;NOM;SG;PSS3P
+üye	üyeydiler	N;LGSPEC1;3P;SG;PST
+üye		N;LGSPEC1;2P;PL;PRS
+üye		N;ABL;PL;PSS3S
+üye		N;LGSPEC1;1S;SG;PST
+üye		N;GEN;PL;PSS3S
+üye		N;LGSPEC1;3S;PL;PST
+üye		N;LGSPEC1;1P;SG;LGSPEC2
+üye	üyeye	N;DAT;SG
+üye		N;GEN;PL;PSS2S
+üye		N;GEN;PL;PSS2P
+üye		N;ACC;SG;PSS3P
+üye		N;ACC;SG;PSS3S
+üye		N;ACC;PL;PSS3S
+üye		N;ACC;PL;PSS3P
+üye		N;DAT;PL;PSS3S
+üye		N;ABL;SG;PSS2S
+üye	üyenizden	N;ABL;SG;PSS2P
+üye		N;DAT;PL;PSS3P
+üye		N;GEN;SG;PSS2P
+üye	üyenin	N;GEN;SG;PSS2S
+üye		N;NOM;PL;PSS3P
+üye		N;DAT;SG;PSS2S
+üye		N;DAT;SG;PSS2P
+üye		N;NOM;PL;PSS3S
+üye		N;NOM;SG;PSS1P
+üye		N;LGSPEC1;2P;PL;LGSPEC2
+üye		N;LGSPEC1;3S;SG;PST
+üye	üyeden	N;ABL;SG
+üye		N;ACC;SG
+üye		N;ACC;SG;PSS2S
+üye		N;ACC;SG;PSS2P
+üye		N;ACC;PL;PSS2P
+üye	üyelerini	N;ACC;PL;PSS2S
+üye		N;DAT;PL;PSS2P
+üye		N;GEN;SG;PSS3S
+üye		N;GEN;SG;PSS3P
+üye		N;DAT;PL;PSS2S
+üye		N;LGSPEC1;2S;PL;PST
+üye	üyenin	N;GEN;SG
+üye		N;LOC;PL;PSS2S
+üye		N;LOC;PL;PSS2P
+üye		N;LGSPEC1;3S;PL;LGSPEC2
+üye		N;NOM;SG;PSS2P
+üye		N;NOM;SG;PSS2S
+üye		N;ABL;PL
+üye		N;LGSPEC1;1P;SG;PST
+üye	üyelerimizden	N;ABL;PL;PSS1P
+üye	üyeleriz	N;LGSPEC1;1P;PL;PRS
+üye	üyesinde	N;LOC;SG;PSS3S
+üye		N;LOC;SG;PSS3P
+üye		N;LGSPEC1;3P;PL;PRS
+üye	üyelerdim	N;LGSPEC1;1S;PL;PST
+üye		N;GEN;PL;PSS1P
+üye		N;ACC;SG;PSS1P
+üye		N;LGSPEC1;2S;SG;LGSPEC2
+üye		N;NOM;SG
+üye	üyeyiz	N;LGSPEC1;1P;SG;PRS
+üye	üyelermişiz	N;LGSPEC1;1P;PL;LGSPEC2
+üye		N;GEN;SG;PSS1P
+üye		N;ABL;SG;PSS3P
+üye		N;ABL;SG;PSS3S
+üye	üyelerin	N;NOM;PL;PSS2S
+üye		N;LGSPEC1;2P;SG;LGSPEC2
+üye		N;NOM;PL;PSS2P
+üye		N;DAT;SG;PSS3P
+üye		N;DAT;SG;PSS3S
+üye		N;LGSPEC1;3S;SG;PRS
+üye		N;LOC;SG;PSS1P
+üye		N;LGSPEC1;2P;PL;PST
+üye	üyeler	N;LGSPEC1;3P;SG;PRS
+üye		N;LGSPEC1;2P;SG;PRS
+üye		N;LGSPEC1;2S;PL;LGSPEC2
+üye	üyelermişim	N;LGSPEC1;1S;PL;LGSPEC2
+üye		N;LGSPEC1;1S;SG;LGSPEC2
+üye		N;GEN;PL
+üye		N;LOC;PL;PSS1P
+üye		N;GEN;PL;PSS3P
+üye	üyelerinden	N;ABL;PL;PSS3P
+üye		N;LGSPEC1;2S;SG;PST
+üye		N;DAT;PL
+üye		N;LGSPEC1;1P;PL;PST
+üye		N;LGSPEC1;2P;SG;PST
+üye	üyenizde	N;LOC;SG;PSS2P
+üye		N;LOC;SG;PSS2S
+üye		N;ABL;SG;PSS1P
+üye		N;LGSPEC1;3P;SG;LGSPEC2
+üye		N;LGSPEC1;3S;SG;LGSPEC2
+üye		N;LGSPEC1;3P;PL;PST
+üye		N;DAT;SG;PSS1P
+üye		N;LOC;SG
+üye		N;LGSPEC1;2S;SG;PRS
+üye		N;LGSPEC1;1S;PL;PRS
+üye		N;ABL;PL;PSS2P
+üye	üyelermiş	N;LGSPEC1;3P;PL;LGSPEC2
+üye		N;ABL;PL;PSS2S
+bakan		N;NOM;PL
+bakan		N;LOC;PL
+bakan		N;LGSPEC1;1S;SG;PRS
+bakan		N;ACC;PL;PSS1P
+bakan		N;LGSPEC1;2S;PL;PRS
+bakan		N;DAT;PL;PSS1P
+bakan		N;NOM;PL;PSS1P
+bakan		N;LGSPEC1;3S;PL;PRS
+bakan		N;LOC;PL;PSS3P
+bakan		N;LOC;PL;PSS3S
+bakan		N;ACC;PL
+bakan	bakanı	N;NOM;SG;PSS3S
+bakan		N;LGSPEC1;1P;SG;PRS
+bakan		N;LGSPEC1;3P;SG;PST
+bakan		N;LGSPEC1;2P;PL;PRS
+bakan		N;GEN;PL;PSS3P
+bakan		N;LGSPEC1;1S;SG;PST
+bakan		N;GEN;PL;PSS3S
+bakan	bakanlardı	N;LGSPEC1;3S;PL;PST
+bakan		N;LGSPEC1;1P;SG;LGSPEC2
+bakan		N;DAT;SG
+bakan		N;GEN;PL;PSS2S
+bakan		N;GEN;PL;PSS2P
+bakan	bakanlara	N;DAT;PL
+bakan		N;ACC;SG;PSS3P
+bakan		N;ACC;SG;PSS3S
+bakan		N;ACC;PL;PSS3S
+bakan		N;ACC;PL;PSS3P
+bakan	bakanlarına	N;DAT;PL;PSS3S
+bakan		N;ABL;SG;PSS2S
+bakan		N;ABL;SG;PSS2P
+bakan	bakanlarına	N;DAT;PL;PSS3P
+bakan	bakanınızın	N;GEN;SG;PSS2P
+bakan		N;GEN;SG;PSS2S
+bakan	bakanları	N;NOM;PL;PSS3P
+bakan		N;DAT;SG;PSS2S
+bakan		N;DAT;SG;PSS2P
+bakan		N;NOM;PL;PSS3S
+bakan	bakanımız	N;NOM;SG;PSS1P
+bakan		N;LGSPEC1;2P;PL;LGSPEC2
+bakan		N;LGSPEC1;3S;SG;PST
+bakan		N;ABL;SG
+bakan		N;ACC;SG;PSS2S
+bakan		N;ACC;SG;PSS2P
+bakan	bakanlarınızı	N;ACC;PL;PSS2P
+bakan		N;ACC;PL;PSS2S
+bakan	bakanlarınıza	N;DAT;PL;PSS2P
+bakan		N;GEN;SG;PSS3S
+bakan		N;GEN;SG;PSS3P
+bakan		N;DAT;PL;PSS2S
+bakan		N;LGSPEC1;2S;PL;PST
+bakan		N;GEN;SG
+bakan	bakanlarında	N;LOC;PL;PSS2S
+bakan		N;LOC;PL;PSS2P
+bakan		N;LGSPEC1;3S;PL;LGSPEC2
+bakan		N;NOM;SG;PSS2P
+bakan		N;NOM;SG;PSS2S
+bakan		N;ABL;PL
+bakan		N;LGSPEC1;1P;SG;PST
+bakan		N;ABL;PL;PSS1P
+bakan		N;LGSPEC1;1P;PL;PRS
+bakan		N;LOC;SG;PSS3S
+bakan		N;LOC;SG;PSS3P
+bakan		N;LGSPEC1;3P;PL;PRS
+bakan		N;LGSPEC1;1S;PL;PST
+bakan	bakanlarımızın	N;GEN;PL;PSS1P
+bakan		N;ACC;SG;PSS1P
+bakan		N;LGSPEC1;2S;SG;LGSPEC2
+bakan		N;NOM;SG
+bakan	bakanları	N;NOM;SG;PSS3P
+bakan	bakanlarmışız	N;LGSPEC1;1P;PL;LGSPEC2
+bakan		N;GEN;SG;PSS1P
+bakan		N;ABL;SG;PSS3P
+bakan		N;LOC;SG
+bakan		N;NOM;PL;PSS2S
+bakan		N;LGSPEC1;2P;SG;LGSPEC2
+bakan	bakanlarınız	N;NOM;PL;PSS2P
+bakan		N;DAT;SG;PSS3P
+bakan		N;DAT;SG;PSS3S
+bakan		N;LGSPEC1;3S;SG;PRS
+bakan		N;LOC;SG;PSS1P
+bakan		N;LGSPEC1;2P;PL;PST
+bakan		N;LGSPEC1;3P;SG;PRS
+bakan	bakansınız	N;LGSPEC1;2P;SG;PRS
+bakan		N;LGSPEC1;2S;PL;LGSPEC2
+bakan		N;LGSPEC1;1S;PL;LGSPEC2
+bakan		N;LGSPEC1;1S;SG;LGSPEC2
+bakan		N;GEN;PL
+bakan		N;LOC;PL;PSS1P
+bakan		N;ABL;PL;PSS3S
+bakan		N;ABL;PL;PSS3P
+bakan	bakandın	N;LGSPEC1;2S;SG;PST
+bakan		N;ACC;SG
+bakan		N;LGSPEC1;1P;PL;PST
+bakan		N;LGSPEC1;2P;SG;PST
+bakan		N;LOC;SG;PSS2P
+bakan		N;LOC;SG;PSS2S
+bakan		N;ABL;SG;PSS1P
+bakan		N;LGSPEC1;3P;SG;LGSPEC2
+bakan	bakanmış	N;LGSPEC1;3S;SG;LGSPEC2
+bakan		N;LGSPEC1;3P;PL;PST
+bakan		N;DAT;SG;PSS1P
+bakan		N;ABL;SG;PSS3S
+bakan		N;LGSPEC1;2S;SG;PRS
+bakan	bakanlarım	N;LGSPEC1;1S;PL;PRS
+bakan	bakanlarınızdan	N;ABL;PL;PSS2P
+bakan		N;LGSPEC1;3P;PL;LGSPEC2
+bakan	bakanlarından	N;ABL;PL;PSS2S
+hücre		N;NOM;PL
+hücre		N;LOC;PL
+hücre		N;LGSPEC1;1S;SG;PRS
+hücre		N;ACC;PL;PSS1P
+hücre		N;LGSPEC1;2S;PL;PRS
+hücre		N;DAT;PL;PSS1P
+hücre		N;NOM;PL;PSS1P
+hücre	hücreler	N;LGSPEC1;3S;PL;PRS
+hücre	hücrelerinde	N;LOC;PL;PSS3P
+hücre		N;LOC;PL;PSS3S
+hücre	hücreleri	N;ACC;PL
+hücre		N;NOM;SG;PSS3S
+hücre		N;NOM;SG;PSS3P
+hücre		N;LGSPEC1;3P;SG;PST
+hücre		N;LGSPEC1;2P;PL;PRS
+hücre	hücrelerinden	N;ABL;PL;PSS3S
+hücre		N;LGSPEC1;1S;SG;PST
+hücre		N;GEN;PL;PSS3S
+hücre		N;LGSPEC1;3S;PL;PST
+hücre		N;LGSPEC1;1P;SG;LGSPEC2
+hücre		N;DAT;SG
+hücre	hücrelerinin	N;GEN;PL;PSS2S
+hücre		N;GEN;PL;PSS2P
+hücre		N;ACC;SG;PSS3P
+hücre		N;ACC;SG;PSS3S
+hücre		N;ACC;PL;PSS3S
+hücre	hücrelerini	N;ACC;PL;PSS3P
+hücre		N;DAT;PL;PSS3S
+hücre		N;ABL;SG;PSS2S
+hücre		N;ABL;SG;PSS2P
+hücre	hücrelerine	N;DAT;PL;PSS3P
+hücre		N;GEN;SG;PSS2P
+hücre		N;GEN;SG;PSS2S
+hücre	hücreleri	N;NOM;PL;PSS3P
+hücre		N;DAT;SG;PSS2S
+hücre		N;DAT;SG;PSS2P
+hücre		N;NOM;PL;PSS3S
+hücre		N;NOM;SG;PSS1P
+hücre		N;LGSPEC1;2P;PL;LGSPEC2
+hücre		N;LGSPEC1;3S;SG;PST
+hücre		N;ABL;SG
+hücre		N;ACC;SG
+hücre		N;ACC;SG;PSS2S
+hücre		N;ACC;SG;PSS2P
+hücre		N;ACC;PL;PSS2P
+hücre		N;ACC;PL;PSS2S
+hücre		N;DAT;PL;PSS2P
+hücre		N;GEN;SG;PSS3S
+hücre		N;GEN;SG;PSS3P
+hücre		N;DAT;PL;PSS2S
+hücre	hücrelerdin	N;LGSPEC1;2S;PL;PST
+hücre	hücrenin	N;GEN;SG
+hücre	hücrelerinde	N;LOC;PL;PSS2S
+hücre		N;LOC;PL;PSS2P
+hücre		N;LGSPEC1;3S;PL;LGSPEC2
+hücre	hücreniz	N;NOM;SG;PSS2P
+hücre		N;NOM;SG;PSS2S
+hücre		N;ABL;PL
+hücre		N;LGSPEC1;1P;SG;PST
+hücre		N;ABL;PL;PSS1P
+hücre		N;LGSPEC1;1P;PL;PRS
+hücre		N;LOC;SG;PSS3S
+hücre		N;LOC;SG;PSS3P
+hücre		N;LGSPEC1;3P;PL;PRS
+hücre		N;LGSPEC1;1S;PL;PST
+hücre		N;GEN;PL;PSS1P
+hücre		N;ACC;SG;PSS1P
+hücre	hücreymişsin	N;LGSPEC1;2S;SG;LGSPEC2
+hücre		N;NOM;SG
+hücre		N;LGSPEC1;1P;SG;PRS
+hücre		N;LGSPEC1;1P;PL;LGSPEC2
+hücre		N;GEN;SG;PSS1P
+hücre	hücremden	N;ABL;SG;PSS3P
+hücre		N;ABL;SG;PSS3S
+hücre		N;NOM;PL;PSS2S
+hücre		N;LGSPEC1;2P;SG;LGSPEC2
+hücre		N;NOM;PL;PSS2P
+hücre		N;DAT;SG;PSS3P
+hücre	hücresine	N;DAT;SG;PSS3S
+hücre		N;LGSPEC1;3S;SG;PRS
+hücre	hücremizde	N;LOC;SG;PSS1P
+hücre		N;LGSPEC1;2P;PL;PST
+hücre		N;LGSPEC1;3P;SG;PRS
+hücre		N;LGSPEC1;2P;SG;PRS
+hücre		N;LGSPEC1;2S;PL;LGSPEC2
+hücre		N;LGSPEC1;1S;PL;LGSPEC2
+hücre		N;LGSPEC1;1S;SG;LGSPEC2
+hücre		N;GEN;PL
+hücre	hücrelerimizde	N;LOC;PL;PSS1P
+hücre		N;GEN;PL;PSS3P
+hücre		N;ABL;PL;PSS3P
+hücre		N;LGSPEC1;2S;SG;PST
+hücre		N;DAT;PL
+hücre		N;LGSPEC1;1P;PL;PST
+hücre		N;LGSPEC1;2P;SG;PST
+hücre	hücrenizde	N;LOC;SG;PSS2P
+hücre		N;LOC;SG;PSS2S
+hücre		N;ABL;SG;PSS1P
+hücre		N;LGSPEC1;3P;SG;LGSPEC2
+hücre		N;LGSPEC1;3S;SG;LGSPEC2
+hücre	hücrelerdi	N;LGSPEC1;3P;PL;PST
+hücre		N;DAT;SG;PSS1P
+hücre		N;LOC;SG
+hücre	hücresin	N;LGSPEC1;2S;SG;PRS
+hücre		N;LGSPEC1;1S;PL;PRS
+hücre		N;ABL;PL;PSS2P
+hücre	hücrelermiş	N;LGSPEC1;3P;PL;LGSPEC2
+hücre		N;ABL;PL;PSS2S
+keşkek		N;LOC;SG;PSS1P
+keşkek		N;ABL;PL;PSS1P
+keşkek	keşkeğinde	N;LOC;SG;PSS3S
+keşkek		N;LOC;SG;PSS3P
+keşkek		N;NOM;PL;PSS2P
+keşkek		N;ACC;PL;PSS3S
+keşkek		N;ACC;PL;PSS3P
+keşkek	keşkeklerde	N;LOC;PL
+keşkek	keşkeğinden	N;ABL;SG;PSS2S
+keşkek		N;ABL;SG;PSS2P
+keşkek		N;DAT;PL;PSS3P
+keşkek		N;GEN;SG;PSS2P
+keşkek		N;GEN;SG;PSS2S
+keşkek		N;DAT;PL;PSS1P
+keşkek		N;NOM;PL;PSS3P
+keşkek		N;DAT;SG;PSS2S
+keşkek		N;LOC;SG;PSS2P
+keşkek		N;NOM;PL;PSS3S
+keşkek	keşkeğinize	N;DAT;SG;PSS2P
+keşkek		N;NOM;PL;PSS1P
+keşkek	keşkeklerini	N;ACC;SG;PSS3P
+keşkek	keşkeklerin	N;GEN;PL
+keşkek		N;GEN;PL;PSS2P
+keşkek		N;ACC;SG;PSS3S
+keşkek	keşkeklerinden	N;ABL;PL;PSS2S
+keşkek	keşkeklerinde	N;LOC;PL;PSS3P
+keşkek		N;ABL;PL;PSS3S
+keşkek		N;LOC;PL;PSS3S
+keşkek		N;LOC;PL;PSS1P
+keşkek		N;NOM;SG;PSS1P
+keşkek		N;ACC;SG;PSS2P
+keşkek		N;ACC;PL
+keşkek		N;NOM;SG;PSS3S
+keşkek		N;NOM;SG;PSS3P
+keşkek		N;GEN;PL;PSS3P
+keşkek		N;ABL;SG
+keşkek		N;ABL;PL;PSS3P
+keşkek		N;ACC;PL;PSS2P
+keşkek		N;GEN;PL;PSS1P
+keşkek		N;ACC;SG;PSS1P
+keşkek		N;NOM;SG
+keşkek		N;ACC;SG;PSS2S
+keşkek		N;LOC;SG;PSS2S
+keşkek		N;ABL;SG;PSS1P
+keşkek		N;GEN;SG;PSS1P
+keşkek		N;ABL;SG;PSS3P
+keşkek		N;ABL;SG;PSS3S
+keşkek		N;DAT;SG;PSS1P
+keşkek	keşkeklerinize	N;DAT;PL;PSS2P
+keşkek	keşkeğinin	N;GEN;SG;PSS3S
+keşkek		N;GEN;SG;PSS3P
+keşkek		N;DAT;PL;PSS2S
+keşkek	keşkeklerine	N;DAT;SG;PSS3P
+keşkek		N;DAT;SG;PSS3S
+keşkek		N;GEN;PL;PSS3S
+keşkek		N;DAT;PL;PSS3S
+keşkek		N;GEN;SG
+keşkek		N;NOM;SG;PSS2P
+keşkek		N;LOC;PL;PSS2S
+keşkek		N;LOC;PL;PSS2P
+keşkek		N;LOC;SG
+keşkek		N;DAT;SG
+keşkek		N;NOM;PL
+keşkek		N;ACC;PL;PSS2S
+keşkek		N;GEN;PL;PSS2S
+keşkek		N;ACC;SG
+keşkek	keşkeğin	N;NOM;SG;PSS2S
+keşkek		N;ABL;PL
+keşkek	keşkeklerin	N;NOM;PL;PSS2S
+keşkek		N;DAT;PL
+keşkek		N;ABL;PL;PSS2P
+keşkek		N;ACC;PL;PSS1P
+koordinat		N;LOC;SG;PSS1P
+koordinat		N;ABL;PL;PSS1P
+koordinat		N;LOC;SG;PSS3S
+koordinat		N;LOC;SG;PSS3P
+koordinat		N;NOM;PL;PSS2P
+koordinat		N;ACC;PL;PSS3S
+koordinat		N;ACC;PL;PSS3P
+koordinat		N;LOC;PL
+koordinat		N;ABL;SG;PSS2S
+koordinat		N;ABL;SG;PSS2P
+koordinat		N;DAT;PL;PSS3P
+koordinat	koordinatınızın	N;GEN;SG;PSS2P
+koordinat		N;GEN;SG;PSS2S
+koordinat	koordinatlarımıza	N;DAT;PL;PSS1P
+koordinat		N;NOM;PL;PSS3P
+koordinat		N;DAT;SG;PSS2S
+koordinat		N;DAT;SG;PSS2P
+koordinat		N;NOM;PL;PSS3S
+koordinat		N;NOM;PL;PSS1P
+koordinat	koordinatlarını	N;ACC;SG;PSS3P
+koordinat		N;GEN;PL
+koordinat		N;GEN;PL;PSS2P
+koordinat		N;ACC;SG;PSS3S
+koordinat		N;ABL;PL;PSS2S
+koordinat		N;LOC;PL;PSS3P
+koordinat	koordinatlarından	N;ABL;PL;PSS3S
+koordinat		N;LOC;PL;PSS3S
+koordinat		N;LOC;PL;PSS1P
+koordinat		N;NOM;SG;PSS1P
+koordinat		N;ACC;SG;PSS2P
+koordinat		N;ACC;PL
+koordinat		N;NOM;SG;PSS3S
+koordinat		N;NOM;SG;PSS3P
+koordinat		N;GEN;PL;PSS3P
+koordinat		N;ABL;SG
+koordinat	koordinatlarından	N;ABL;PL;PSS3P
+koordinat		N;ACC;PL;PSS2P
+koordinat	koordinatınızda	N;LOC;SG;PSS2P
+koordinat		N;ACC;SG;PSS1P
+koordinat		N;NOM;SG
+koordinat		N;ACC;SG;PSS2S
+koordinat	koordinatında	N;LOC;SG;PSS2S
+koordinat		N;LOC;PL;PSS2S
+koordinat		N;ABL;SG;PSS1P
+koordinat		N;GEN;SG;PSS1P
+koordinat		N;ABL;SG;PSS3P
+koordinat		N;ABL;SG;PSS3S
+koordinat		N;DAT;SG;PSS1P
+koordinat		N;DAT;PL;PSS2P
+koordinat		N;GEN;SG;PSS3S
+koordinat		N;GEN;SG;PSS3P
+koordinat		N;DAT;PL;PSS2S
+koordinat		N;DAT;SG;PSS3P
+koordinat		N;DAT;SG;PSS3S
+koordinat		N;GEN;PL;PSS3S
+koordinat		N;DAT;PL;PSS3S
+koordinat	koordinatın	N;GEN;SG
+koordinat		N;NOM;SG;PSS2P
+koordinat	koordinatlarımızın	N;GEN;PL;PSS1P
+koordinat	koordinatlarınızda	N;LOC;PL;PSS2P
+koordinat		N;LOC;SG
+koordinat	koordinata	N;DAT;SG
+koordinat	koordinatlar	N;NOM;PL
+koordinat		N;ACC;PL;PSS2S
+koordinat		N;GEN;PL;PSS2S
+koordinat		N;ACC;SG
+koordinat		N;NOM;SG;PSS2S
+koordinat		N;ABL;PL
+koordinat	koordinatların	N;NOM;PL;PSS2S
+koordinat		N;DAT;PL
+koordinat		N;ABL;PL;PSS2P
+koordinat		N;ACC;PL;PSS1P
+makara		N;NOM;PL
+makara		N;ABL;PL;PSS1P
+makara		N;LOC;SG;PSS3S
+makara		N;ACC;SG;PSS3P
+makara		N;LOC;SG;PSS3P
+makara		N;NOM;PL;PSS2P
+makara		N;ACC;PL;PSS3S
+makara		N;ACC;PL;PSS3P
+makara		N;LOC;PL
+makara	makarandan	N;ABL;SG;PSS2S
+makara	makaramızda	N;LOC;SG;PSS1P
+makara		N;DAT;PL;PSS3P
+makara		N;ACC;PL;PSS1P
+makara		N;GEN;SG;PSS2S
+makara	makarana	N;DAT;SG;PSS2S
+makara		N;NOM;PL;PSS3P
+makara	makaralarımıza	N;DAT;PL;PSS1P
+makara		N;DAT;SG;PSS2P
+makara	makaraları	N;NOM;PL;PSS3S
+makara		N;NOM;PL;PSS1P
+makara		N;LOC;SG;PSS2P
+makara		N;GEN;PL
+makara		N;ACC;SG;PSS2P
+makara		N;DAT;SG
+makara		N;LOC;PL;PSS3P
+makara		N;LOC;PL;PSS3S
+makara		N;LOC;PL;PSS1P
+makara		N;NOM;SG;PSS1P
+makara		N;ACC;PL
+makara		N;NOM;SG;PSS3S
+makara	makaram	N;NOM;SG;PSS3P
+makara		N;GEN;PL;PSS3P
+makara	makaradan	N;ABL;SG
+makara		N;ABL;PL;PSS3P
+makara		N;GEN;PL;PSS1P
+makara	makaralara	N;DAT;PL
+makara		N;GEN;SG;PSS1P
+makara		N;NOM;SG
+makara		N;ABL;SG;PSS1P
+makara		N;ACC;SG;PSS2S
+makara		N;LOC;SG;PSS2S
+makara	makaralarınızın	N;GEN;PL;PSS2P
+makara		N;ABL;SG;PSS3S
+makara		N;ACC;PL;PSS2P
+makara		N;ABL;PL;PSS3S
+makara		N;LOC;SG
+makara	makaralarını	N;ACC;PL;PSS2S
+makara		N;DAT;PL;PSS2P
+makara	makarasının	N;GEN;SG;PSS3S
+makara		N;GEN;SG;PSS3P
+makara		N;DAT;PL;PSS2S
+makara		N;DAT;SG;PSS3P
+makara		N;DAT;SG;PSS3S
+makara		N;ACC;SG;PSS3S
+makara		N;ACC;SG
+makara		N;DAT;PL;PSS3S
+makara		N;GEN;SG
+makara		N;GEN;PL;PSS3S
+makara		N;LOC;PL;PSS2S
+makara		N;ABL;SG;PSS3P
+makara		N;LOC;PL;PSS2P
+makara	makaranızdan	N;ABL;SG;PSS2P
+makara		N;GEN;SG;PSS2P
+makara		N;DAT;SG;PSS1P
+makara		N;GEN;PL;PSS2S
+makara	makaranız	N;NOM;SG;PSS2P
+makara		N;NOM;SG;PSS2S
+makara		N;ABL;PL
+makara		N;NOM;PL;PSS2S
+makara		N;ACC;SG;PSS1P
+makara		N;ABL;PL;PSS2P
+makara		N;ABL;PL;PSS2S
+yağış		N;NOM;PL
+yağış		N;LOC;PL
+yağış		N;LGSPEC1;1S;SG;PRS
+yağış		N;ACC;PL;PSS1P
+yağış		N;LGSPEC1;2S;PL;PRS
+yağış		N;DAT;PL;PSS1P
+yağış	yağışlarımız	N;NOM;PL;PSS1P
+yağış		N;LGSPEC1;3S;PL;PRS
+yağış	yağışlarında	N;LOC;PL;PSS3P
+yağış	yağışlarında	N;LOC;PL;PSS3S
+yağış	yağışları	N;ACC;PL
+yağış		N;NOM;SG;PSS3S
+yağış		N;LGSPEC1;1P;SG;PRS
+yağış		N;LGSPEC1;3P;SG;PST
+yağış		N;LGSPEC1;2P;PL;PRS
+yağış		N;GEN;PL;PSS3P
+yağış		N;LGSPEC1;1S;SG;PST
+yağış		N;GEN;PL;PSS3S
+yağış		N;LGSPEC1;3S;PL;PST
+yağış		N;LGSPEC1;1P;SG;LGSPEC2
+yağış		N;DAT;SG
+yağış		N;GEN;PL;PSS2S
+yağış		N;GEN;PL;PSS2P
+yağış	yağışlara	N;DAT;PL
+yağış	yağışlarını	N;ACC;SG;PSS3P
+yağış		N;ACC;SG;PSS3S
+yağış		N;ACC;PL;PSS3S
+yağış		N;ACC;PL;PSS3P
+yağış	yağışlarına	N;DAT;PL;PSS3S
+yağış		N;ABL;SG;PSS2S
+yağış		N;ABL;SG;PSS2P
+yağış		N;DAT;PL;PSS3P
+yağış		N;GEN;SG;PSS2P
+yağış	yağışının	N;GEN;SG;PSS2S
+yağış		N;NOM;PL;PSS3P
+yağış	yağışına	N;DAT;SG;PSS2S
+yağış		N;DAT;SG;PSS2P
+yağış	yağışları	N;NOM;PL;PSS3S
+yağış		N;NOM;SG;PSS1P
+yağış	yağışlarmışsınız	N;LGSPEC1;2P;PL;LGSPEC2
+yağış		N;LGSPEC1;3S;SG;PST
+yağış		N;ABL;SG
+yağış		N;ACC;SG;PSS2S
+yağış	yağışınızı	N;ACC;SG;PSS2P
+yağış		N;ACC;PL;PSS2P
+yağış		N;ACC;PL;PSS2S
+yağış		N;DAT;PL;PSS2P
+yağış		N;GEN;SG;PSS3S
+yağış		N;GEN;SG;PSS3P
+yağış		N;DAT;PL;PSS2S
+yağış	yağışlardın	N;LGSPEC1;2S;PL;PST
+yağış		N;GEN;SG
+yağış		N;LOC;PL;PSS2S
+yağış		N;LOC;PL;PSS2P
+yağış	yağışlarmış	N;LGSPEC1;3S;PL;LGSPEC2
+yağış		N;NOM;SG;PSS2P
+yağış		N;NOM;SG;PSS2S
+yağış		N;ABL;PL
+yağış		N;LGSPEC1;1P;SG;PST
+yağış	yağışlarımızdan	N;ABL;PL;PSS1P
+yağış		N;LGSPEC1;1P;PL;PRS
+yağış		N;LOC;SG;PSS3S
+yağış		N;LOC;SG;PSS3P
+yağış		N;LGSPEC1;3P;PL;PRS
+yağış		N;LGSPEC1;1S;PL;PST
+yağış		N;GEN;PL;PSS1P
+yağış	yağışımızı	N;ACC;SG;PSS1P
+yağış	yağışmışsın	N;LGSPEC1;2S;SG;LGSPEC2
+yağış		N;NOM;SG
+yağış		N;NOM;SG;PSS3P
+yağış		N;LGSPEC1;1P;PL;LGSPEC2
+yağış		N;GEN;SG;PSS1P
+yağış		N;ABL;SG;PSS3P
+yağış		N;ABL;SG;PSS3S
+yağış		N;NOM;PL;PSS2S
+yağış		N;LGSPEC1;2P;SG;LGSPEC2
+yağış		N;NOM;PL;PSS2P
+yağış		N;DAT;SG;PSS3P
+yağış		N;DAT;SG;PSS3S
+yağış		N;LGSPEC1;3S;SG;PRS
+yağış		N;LOC;SG;PSS1P
+yağış		N;LGSPEC1;2P;PL;PST
+yağış		N;LGSPEC1;3P;SG;PRS
+yağış		N;LGSPEC1;2P;SG;PRS
+yağış		N;LGSPEC1;2S;PL;LGSPEC2
+yağış		N;LGSPEC1;1S;PL;LGSPEC2
+yağış	yağışmışım	N;LGSPEC1;1S;SG;LGSPEC2
+yağış		N;GEN;PL
+yağış		N;LOC;PL;PSS1P
+yağış		N;ABL;PL;PSS3S
+yağış		N;ABL;PL;PSS3P
+yağış		N;LGSPEC1;2S;SG;PST
+yağış		N;ACC;SG
+yağış		N;LGSPEC1;1P;PL;PST
+yağış	yağıştınız	N;LGSPEC1;2P;SG;PST
+yağış	yağışınızda	N;LOC;SG;PSS2P
+yağış		N;LOC;SG;PSS2S
+yağış		N;ABL;SG;PSS1P
+yağış		N;LGSPEC1;3P;SG;LGSPEC2
+yağış		N;LGSPEC1;3S;SG;LGSPEC2
+yağış		N;LGSPEC1;3P;PL;PST
+yağış		N;DAT;SG;PSS1P
+yağış		N;LOC;SG
+yağış		N;LGSPEC1;2S;SG;PRS
+yağış		N;LGSPEC1;1S;PL;PRS
+yağış		N;ABL;PL;PSS2P
+yağış		N;LGSPEC1;3P;PL;LGSPEC2
+yağış	yağışlarından	N;ABL;PL;PSS2S
+boğaz	boğazımızda	N;LOC;SG;PSS1P
+boğaz		N;ABL;PL;PSS1P
+boğaz		N;LOC;SG;PSS3S
+boğaz		N;LOC;SG;PSS3P
+boğaz		N;NOM;PL;PSS2P
+boğaz		N;ACC;PL;PSS3S
+boğaz		N;ACC;PL;PSS3P
+boğaz		N;LOC;PL
+boğaz		N;ABL;SG;PSS2S
+boğaz	boğazınızdan	N;ABL;SG;PSS2P
+boğaz		N;DAT;PL;PSS3P
+boğaz		N;GEN;SG;PSS2P
+boğaz		N;GEN;SG;PSS2S
+boğaz	boğazlarımıza	N;DAT;PL;PSS1P
+boğaz		N;NOM;PL;PSS3P
+boğaz	boğazına	N;DAT;SG;PSS2S
+boğaz		N;DAT;SG;PSS2P
+boğaz		N;NOM;PL;PSS3S
+boğaz	boğazlarımız	N;NOM;PL;PSS1P
+boğaz		N;ACC;SG;PSS3P
+boğaz		N;GEN;PL
+boğaz		N;GEN;PL;PSS2P
+boğaz		N;ACC;SG;PSS3S
+boğaz		N;ABL;PL;PSS2S
+boğaz		N;LOC;PL;PSS3P
+boğaz	boğazlarından	N;ABL;PL;PSS3S
+boğaz		N;LOC;PL;PSS3S
+boğaz		N;LOC;PL;PSS1P
+boğaz	boğazımız	N;NOM;SG;PSS1P
+boğaz		N;ACC;SG;PSS2P
+boğaz	boğazları	N;ACC;PL
+boğaz		N;NOM;SG;PSS3S
+boğaz		N;NOM;SG;PSS3P
+boğaz		N;GEN;PL;PSS3P
+boğaz		N;ABL;SG
+boğaz		N;ABL;PL;PSS3P
+boğaz		N;ACC;PL;PSS2P
+boğaz		N;LOC;SG;PSS2P
+boğaz		N;ACC;SG;PSS1P
+boğaz		N;NOM;SG
+boğaz		N;ACC;SG;PSS2S
+boğaz		N;LOC;SG;PSS2S
+boğaz		N;LOC;PL;PSS2S
+boğaz		N;ABL;SG;PSS1P
+boğaz		N;GEN;SG;PSS1P
+boğaz		N;ABL;SG;PSS3P
+boğaz		N;ABL;SG;PSS3S
+boğaz	boğazımıza	N;DAT;SG;PSS1P
+boğaz		N;DAT;PL;PSS2P
+boğaz	boğazının	N;GEN;SG;PSS3S
+boğaz		N;GEN;SG;PSS3P
+boğaz		N;DAT;PL;PSS2S
+boğaz		N;DAT;SG;PSS3P
+boğaz		N;DAT;SG;PSS3S
+boğaz		N;GEN;PL;PSS3S
+boğaz	boğazlarına	N;DAT;PL;PSS3S
+boğaz		N;GEN;SG
+boğaz		N;NOM;SG;PSS2P
+boğaz		N;GEN;PL;PSS1P
+boğaz	boğazlarınızda	N;LOC;PL;PSS2P
+boğaz		N;LOC;SG
+boğaz		N;DAT;SG
+boğaz		N;NOM;PL
+boğaz		N;ACC;PL;PSS2S
+boğaz	boğazlarının	N;GEN;PL;PSS2S
+boğaz		N;ACC;SG
+boğaz		N;NOM;SG;PSS2S
+boğaz		N;ABL;PL
+boğaz		N;NOM;PL;PSS2S
+boğaz		N;DAT;PL
+boğaz		N;ABL;PL;PSS2P
+boğaz		N;ACC;PL;PSS1P
+sahne		N;NOM;PL
+sahne		N;ABL;PL;PSS1P
+sahne		N;LOC;SG;PSS3S
+sahne	sahnemi	N;ACC;SG;PSS3P
+sahne		N;LOC;SG;PSS3P
+sahne		N;NOM;PL;PSS2P
+sahne	sahnelerini	N;ACC;PL;PSS3S
+sahne		N;ACC;PL;PSS3P
+sahne		N;LOC;PL
+sahne		N;ABL;SG;PSS2S
+sahne		N;LOC;SG;PSS1P
+sahne		N;DAT;PL;PSS3P
+sahne		N;ACC;PL;PSS1P
+sahne		N;GEN;SG;PSS2S
+sahne		N;DAT;SG;PSS2S
+sahne		N;NOM;PL;PSS3P
+sahne		N;DAT;PL;PSS1P
+sahne		N;DAT;SG;PSS2P
+sahne		N;NOM;PL;PSS3S
+sahne		N;NOM;PL;PSS1P
+sahne		N;LOC;SG;PSS2P
+sahne		N;GEN;PL
+sahne		N;ACC;SG;PSS2P
+sahne		N;DAT;SG
+sahne		N;LOC;PL;PSS3P
+sahne		N;LOC;PL;PSS3S
+sahne		N;LOC;PL;PSS1P
+sahne		N;NOM;SG;PSS1P
+sahne		N;ACC;PL
+sahne		N;NOM;SG;PSS3S
+sahne		N;NOM;SG;PSS3P
+sahne		N;GEN;PL;PSS3P
+sahne		N;ABL;SG
+sahne		N;ABL;PL;PSS3P
+sahne		N;GEN;PL;PSS1P
+sahne	sahnelere	N;DAT;PL
+sahne	sahnemizin	N;GEN;SG;PSS1P
+sahne		N;NOM;SG
+sahne		N;ABL;SG;PSS1P
+sahne		N;ACC;SG;PSS2S
+sahne		N;LOC;SG;PSS2S
+sahne	sahnelerinizin	N;GEN;PL;PSS2P
+sahne		N;ABL;SG;PSS3S
+sahne		N;ACC;PL;PSS2P
+sahne	sahnelerinden	N;ABL;PL;PSS3S
+sahne		N;LOC;SG
+sahne	sahnelerini	N;ACC;PL;PSS2S
+sahne		N;DAT;PL;PSS2P
+sahne		N;GEN;SG;PSS3S
+sahne		N;GEN;SG;PSS3P
+sahne	sahnelerine	N;DAT;PL;PSS2S
+sahne		N;DAT;SG;PSS3P
+sahne	sahnesine	N;DAT;SG;PSS3S
+sahne		N;ACC;SG;PSS3S
+sahne		N;ACC;SG
+sahne		N;DAT;PL;PSS3S
+sahne		N;GEN;SG
+sahne		N;GEN;PL;PSS3S
+sahne		N;LOC;PL;PSS2S
+sahne	sahnemden	N;ABL;SG;PSS3P
+sahne		N;LOC;PL;PSS2P
+sahne		N;ABL;SG;PSS2P
+sahne	sahnenizin	N;GEN;SG;PSS2P
+sahne		N;DAT;SG;PSS1P
+sahne	sahnelerinin	N;GEN;PL;PSS2S
+sahne		N;NOM;SG;PSS2P
+sahne		N;NOM;SG;PSS2S
+sahne	sahnelerden	N;ABL;PL
+sahne		N;NOM;PL;PSS2S
+sahne		N;ACC;SG;PSS1P
+sahne		N;ABL;PL;PSS2P
+sahne		N;ABL;PL;PSS2S
+kullanmak		V;IND;3;SG;FUT;NEG;DECL
+kullanmak		V;IND;1;SG;PST;PROG;POS;INTR
+kullanmak	kullanacak mısınız?	V;IND;2;PL;FUT;POS;INTR
+kullanmak		V;IND;1;PL;PST;PROG;NEG;INTR
+kullanmak		V;IND;3;SG;PRS;PROG;NEG;DECL
+kullanmak		V;IND;3;SG;FUT;POS;DECL
+kullanmak		V;IND;1;PL;PRS;NEG;DECL
+kullanmak		V;IND;1;PL;FUT;POS;DECL
+kullanmak		V;IND;2;PL;PST;POS;DECL
+kullanmak		V;IND;2;SG;PRS;PROG;POS;DECL
+kullanmak		V;IND;1;PL;PST;PROG;NEG;DECL
+kullanmak		V;IND;1;SG;FUT;POS;INTR
+kullanmak		V;IND;3;PL;PRS;POS;DECL
+kullanmak		V;IND;3;PL;PST;NEG;INTR
+kullanmak		V;IND;2;SG;PRS;POS;DECL
+kullanmak		V;IND;2;SG;PST;PROG;NEG;DECL
+kullanmak		V;IND;2;PL;PST;POS;INTR
+kullanmak		V;IND;1;PL;PRS;PROG;NEG;INTR
+kullanmak		V;IND;1;SG;PST;NEG;INTR
+kullanmak		V;IND;2;PL;PRS;NEG;INTR
+kullanmak	kullanıyorlar	V;IND;3;PL;PRS;PROG;POS;DECL
+kullanmak		V;IND;3;SG;FUT;NEG;INTR
+kullanmak		V;IND;1;SG;PST;NEG;DECL
+kullanmak		V;IND;3;SG;PST;NEG;INTR
+kullanmak		V;IND;2;SG;FUT;NEG;INTR
+kullanmak		V;IND;2;SG;PST;POS;DECL
+kullanmak		V;IND;1;PL;PRS;PROG;POS;INTR
+kullanmak	kullanmadılar	V;IND;3;PL;PST;NEG;DECL
+kullanmak		V;IND;1;PL;FUT;NEG;INTR
+kullanmak		V;IND;1;SG;PRS;PROG;NEG;INTR
+kullanmak		V;IND;2;PL;FUT;NEG;DECL
+kullanmak		V;IND;3;PL;PRS;NEG;INTR
+kullanmak		V;IND;1;SG;PRS;POS;DECL
+kullanmak		V;IND;3;PL;PST;PROG;POS;INTR
+kullanmak		V;IND;3;SG;PST;PROG;POS;INTR
+kullanmak		V;IND;3;SG;PST;POS;DECL
+kullanmak	kullanmıyor muydunuz?	V;IND;2;PL;PST;PROG;NEG;INTR
+kullanmak		V;IND;3;SG;PST;PROG;NEG;INTR
+kullanmak		V;IND;2;PL;PST;NEG;INTR
+kullanmak		V;IND;2;SG;PST;POS;INTR
+kullanmak	kullandılar mı?	V;IND;3;PL;PST;POS;INTR
+kullanmak	kullandım mı?	V;IND;1;SG;PST;POS;INTR
+kullanmak		V;IND;3;SG;PST;NEG;DECL
+kullanmak		V;IND;1;PL;PST;POS;DECL
+kullanmak		V;IND;2;SG;FUT;POS;INTR
+kullanmak		V;IND;3;SG;PRS;POS;INTR
+kullanmak		V;IND;1;SG;PST;PROG;NEG;INTR
+kullanmak		V;IND;1;PL;FUT;POS;INTR
+kullanmak	kullanmıyordu	V;IND;3;SG;PST;PROG;NEG;DECL
+kullanmak		V;IND;2;PL;PRS;PROG;POS;INTR
+kullanmak		V;IND;1;SG;PRS;PROG;POS;INTR
+kullanmak	kullanacağım	V;IND;1;SG;FUT;POS;DECL
+kullanmak		V;IND;1;PL;PRS;PROG;NEG;DECL
+kullanmak		V;IND;3;SG;FUT;POS;INTR
+kullanmak		V;IND;1;SG;FUT;NEG;DECL
+kullanmak		V;IND;3;SG;PRS;NEG;DECL
+kullanmak		V;IND;1;SG;PRS;POS;INTR
+kullanmak	kullanırsınız	V;IND;2;PL;PRS;POS;DECL
+kullanmak		V;IND;1;PL;PRS;POS;INTR
+kullanmak		V;IND;2;PL;PST;PROG;POS;INTR
+kullanmak		V;IND;3;SG;PRS;POS;DECL
+kullanmak	kullanacaklar mı?	V;IND;3;PL;FUT;POS;INTR
+kullanmak		V;IND;3;PL;PRS;NEG;DECL
+kullanmak		V;IND;1;PL;PST;NEG;INTR
+kullanmak		V;IND;2;PL;PRS;POS;INTR
+kullanmak		V;IND;2;PL;PST;PROG;POS;DECL
+kullanmak	kullanmıyorum	V;IND;1;SG;PRS;PROG;NEG;DECL
+kullanmak		V;IND;2;PL;PST;PROG;NEG;DECL
+kullanmak	kullanmayacaklar	V;IND;3;PL;FUT;NEG;DECL
+kullanmak		V;IND;2;PL;PRS;PROG;NEG;INTR
+kullanmak		V;IND;3;PL;PST;PROG;NEG;INTR
+kullanmak		V;IND;2;SG;PST;PROG;POS;DECL
+kullanmak		V;IND;1;SG;PST;PROG;POS;DECL
+kullanmak		V;IND;1;PL;PST;NEG;DECL
+kullanmak	kullanmayacaklar mı?	V;IND;3;PL;FUT;NEG;INTR
+kullanmak		V;IND;2;SG;PRS;NEG;DECL
+kullanmak		V;IND;1;SG;PST;POS;DECL
+kullanmak	kullanmıyorlar mı?	V;IND;3;PL;PRS;PROG;NEG;INTR
+kullanmak		V;IND;3;PL;PRS;PROG;POS;INTR
+kullanmak		V;IND;2;PL;PRS;PROG;POS;DECL
+kullanmak		V;IND;1;SG;PST;PROG;NEG;DECL
+kullanmak		V;IND;1;PL;PRS;POS;DECL
+kullanmak		V;IND;1;SG;FUT;NEG;INTR
+kullanmak	kullanmayacak mısınız?	V;IND;2;PL;FUT;NEG;INTR
+kullanmak		V;IND;2;SG;PRS;PROG;POS;INTR
+kullanmak		V;IND;2;SG;FUT;NEG;DECL
+kullanmak		V;IND;1;PL;PRS;NEG;INTR
+kullanmak	kullanmıyor musun?	V;IND;2;SG;PRS;PROG;NEG;INTR
+kullanmak		V;IND;2;SG;PST;NEG;DECL
+kullanmak		V;IND;2;PL;PRS;NEG;DECL
+kullanmak		V;IND;2;SG;PST;PROG;NEG;INTR
+kullanmak		V;IND;2;SG;PST;NEG;INTR
+kullanmak		V;IND;3;SG;PST;POS;INTR
+kullanmak		V;IND;2;PL;PST;NEG;DECL
+kullanmak		V;IND;3;PL;PRS;PROG;NEG;DECL
+kullanmak		V;IND;1;SG;PRS;NEG;INTR
+kullanmak	kullanıyorlardı	V;IND;3;PL;PST;PROG;POS;DECL
+kullanmak		V;IND;1;PL;PST;PROG;POS;DECL
+kullanmak		V;IND;1;SG;PRS;NEG;DECL
+kullanmak		V;IND;3;SG;PRS;PROG;POS;DECL
+kullanmak		V;IND;3;SG;PST;PROG;POS;DECL
+kullanmak		V;IND;2;SG;PST;PROG;POS;INTR
+kullanmak	kullanırlar mı?	V;IND;3;PL;PRS;POS;INTR
+kullanmak	kullanır mısın?	V;IND;2;SG;PRS;POS;INTR
+kullanmak		V;IND;1;PL;FUT;NEG;DECL
+kullanmak	kullandık mı?	V;IND;1;PL;PST;POS;INTR
+kullanmak		V;IND;3;SG;PRS;NEG;INTR
+kullanmak		V;IND;3;PL;PST;PROG;NEG;DECL
+kullanmak		V;IND;1;PL;PST;PROG;POS;INTR
+kullanmak		V;IND;3;SG;PRS;PROG;NEG;INTR
+kullanmak	kullanmaz mısın?	V;IND;2;SG;PRS;NEG;INTR
+kullanmak		V;IND;3;PL;FUT;POS;DECL
+kullanmak	kullanıyor mu?	V;IND;3;SG;PRS;PROG;POS;INTR
+kullanmak		V;IND;2;SG;FUT;POS;DECL
+kullanmak		V;IND;2;SG;PRS;PROG;NEG;DECL
+kullanmak	kullanıyoruz	V;IND;1;PL;PRS;PROG;POS;DECL
+kullanmak		V;IND;1;SG;PRS;PROG;POS;DECL
+kullanmak		V;IND;2;PL;PRS;PROG;NEG;DECL
+kullanmak		V;IND;2;PL;FUT;POS;DECL
+kullanmak		V;IND;3;PL;PST;POS;DECL
+molekül		N;NOM;PL
+molekül		N;ABL;PL;PSS1P
+molekül		N;ACC;SG;PSS3P
+molekül		N;LOC;SG;PSS3P
+molekül		N;NOM;PL;PSS2P
+molekül		N;ACC;PL;PSS3S
+molekül	moleküllerini	N;ACC;PL;PSS3P
+molekül		N;LOC;PL
+molekül		N;ABL;SG;PSS2S
+molekül		N;LOC;SG;PSS1P
+molekül		N;DAT;PL;PSS3P
+molekül		N;ACC;PL;PSS1P
+molekül		N;GEN;SG;PSS2S
+molekül		N;DAT;SG;PSS2S
+molekül		N;NOM;PL;PSS3P
+molekül		N;DAT;PL;PSS1P
+molekül		N;LOC;SG;PSS2P
+molekül		N;NOM;PL;PSS3S
+molekül		N;DAT;SG;PSS2P
+molekül	moleküllerimiz	N;NOM;PL;PSS1P
+molekül		N;LOC;SG;PSS3S
+molekül	moleküllerin	N;GEN;PL
+molekül		N;ACC;SG;PSS3S
+molekül		N;LOC;PL;PSS3P
+molekül	moleküllerinde	N;LOC;PL;PSS3S
+molekül		N;LOC;PL;PSS1P
+molekül		N;NOM;SG;PSS1P
+molekül	molekülünüzü	N;ACC;SG;PSS2P
+molekül		N;ABL;SG;PSS2P
+molekül		N;ACC;PL
+molekül		N;NOM;SG;PSS3S
+molekül		N;NOM;SG;PSS3P
+molekül		N;GEN;PL;PSS3P
+molekül		N;ABL;SG
+molekül		N;ABL;PL;PSS3P
+molekül		N;GEN;PL;PSS1P
+molekül		N;DAT;PL
+molekül		N;GEN;SG;PSS1P
+molekül		N;NOM;SG
+molekül		N;ABL;SG;PSS1P
+molekül	molekülünü	N;ACC;SG;PSS2S
+molekül		N;LOC;SG;PSS2S
+molekül		N;NOM;SG;PSS2P
+molekül		N;GEN;PL;PSS2P
+molekül		N;GEN;SG;PSS2P
+molekül	moleküllerinizi	N;ACC;PL;PSS2P
+molekül	moleküllerinden	N;ABL;PL;PSS3S
+molekül		N;LOC;SG
+molekül		N;ACC;PL;PSS2S
+molekül		N;DAT;PL;PSS2P
+molekül	molekülünün	N;GEN;SG;PSS3S
+molekül		N;GEN;SG;PSS3P
+molekül		N;DAT;PL;PSS2S
+molekül	molekülüme	N;DAT;SG;PSS3P
+molekül		N;DAT;SG;PSS3S
+molekül		N;DAT;PL;PSS3S
+molekül		N;GEN;SG
+molekül		N;GEN;PL;PSS3S
+molekül	moleküllerinde	N;LOC;PL;PSS2S
+molekül		N;ABL;SG;PSS3P
+molekül		N;LOC;PL;PSS2P
+molekül		N;ABL;SG;PSS3S
+molekül		N;DAT;SG
+molekül		N;DAT;SG;PSS1P
+molekül		N;GEN;PL;PSS2S
+molekül	molekülü	N;ACC;SG
+molekül		N;NOM;SG;PSS2S
+molekül		N;ABL;PL
+molekül		N;NOM;PL;PSS2S
+molekül	molekülümüzü	N;ACC;SG;PSS1P
+molekül		N;ABL;PL;PSS2P
+molekül		N;ABL;PL;PSS2S
+soylu		N;GEN;PL
+soylu		N;NOM;PL
+soylu		N;NOM;SG
+soylu		N;GEN;SG
+soylu	soylularda	N;LOC;PL
+soylu		N;DAT;SG
+soylu		N;LOC;SG
+soylu		N;ACC;PL
+soylu		N;ACC;SG
+soylu		N;ABL;PL
+soylu		N;ABL;SG
+soylu		N;DAT;PL
+ayırmak		V;IND;3;SG;FUT;NEG;DECL
+ayırmak		V;IND;1;SG;PST;PROG;POS;INTR
+ayırmak		V;IND;2;PL;FUT;POS;INTR
+ayırmak		V;IND;1;PL;PST;PROG;NEG;INTR
+ayırmak		V;IND;3;SG;PRS;PROG;NEG;DECL
+ayırmak		V;IND;3;SG;FUT;POS;DECL
+ayırmak		V;IND;1;PL;PRS;NEG;DECL
+ayırmak		V;IND;1;PL;FUT;POS;DECL
+ayırmak		V;IND;2;PL;PST;POS;DECL
+ayırmak		V;IND;2;SG;PRS;PROG;POS;DECL
+ayırmak	ayırmıyorduk	V;IND;1;PL;PST;PROG;NEG;DECL
+ayırmak	ayıracak mıyım?	V;IND;1;SG;FUT;POS;INTR
+ayırmak		V;IND;3;PL;PRS;POS;DECL
+ayırmak	ayırmadılar mı?	V;IND;3;PL;PST;NEG;INTR
+ayırmak	ayırırsın	V;IND;2;SG;PRS;POS;DECL
+ayırmak		V;IND;2;SG;PST;PROG;NEG;DECL
+ayırmak	ayırdınız mı?	V;IND;2;PL;PST;POS;INTR
+ayırmak		V;IND;1;PL;PRS;PROG;NEG;INTR
+ayırmak		V;IND;1;SG;PST;NEG;INTR
+ayırmak	ayırmaz mısınız?	V;IND;2;PL;PRS;NEG;INTR
+ayırmak		V;IND;3;PL;PRS;PROG;POS;DECL
+ayırmak		V;IND;3;SG;FUT;NEG;INTR
+ayırmak		V;IND;1;SG;PST;NEG;DECL
+ayırmak		V;IND;3;SG;PST;NEG;INTR
+ayırmak		V;IND;2;SG;FUT;NEG;INTR
+ayırmak		V;IND;2;SG;PST;POS;DECL
+ayırmak		V;IND;1;PL;PRS;PROG;POS;INTR
+ayırmak		V;IND;3;PL;PST;NEG;DECL
+ayırmak		V;IND;1;PL;FUT;NEG;INTR
+ayırmak		V;IND;1;SG;PRS;PROG;NEG;INTR
+ayırmak		V;IND;2;PL;FUT;NEG;DECL
+ayırmak		V;IND;3;PL;PRS;NEG;INTR
+ayırmak		V;IND;1;SG;PRS;POS;DECL
+ayırmak		V;IND;3;PL;PST;PROG;POS;INTR
+ayırmak		V;IND;3;SG;PST;PROG;POS;INTR
+ayırmak		V;IND;3;SG;PST;POS;DECL
+ayırmak		V;IND;2;PL;PST;PROG;NEG;INTR
+ayırmak		V;IND;3;SG;PST;PROG;NEG;INTR
+ayırmak		V;IND;2;PL;PST;NEG;INTR
+ayırmak		V;IND;2;SG;PST;POS;INTR
+ayırmak		V;IND;3;PL;PST;POS;INTR
+ayırmak		V;IND;1;SG;PST;POS;INTR
+ayırmak		V;IND;3;SG;PST;NEG;DECL
+ayırmak		V;IND;1;PL;PST;POS;DECL
+ayırmak	ayıracak mısın?	V;IND;2;SG;FUT;POS;INTR
+ayırmak		V;IND;3;SG;PRS;POS;INTR
+ayırmak	ayırmıyor muydum?	V;IND;1;SG;PST;PROG;NEG;INTR
+ayırmak		V;IND;1;PL;FUT;POS;INTR
+ayırmak		V;IND;3;SG;PST;PROG;NEG;DECL
+ayırmak		V;IND;2;PL;PRS;PROG;POS;INTR
+ayırmak		V;IND;1;SG;PRS;PROG;POS;INTR
+ayırmak		V;IND;1;SG;FUT;POS;DECL
+ayırmak		V;IND;1;PL;PRS;PROG;NEG;DECL
+ayırmak		V;IND;3;SG;FUT;POS;INTR
+ayırmak	ayırmayacağım	V;IND;1;SG;FUT;NEG;DECL
+ayırmak	ayırmaz	V;IND;3;SG;PRS;NEG;DECL
+ayırmak		V;IND;1;SG;PRS;POS;INTR
+ayırmak		V;IND;2;PL;PRS;POS;DECL
+ayırmak		V;IND;1;PL;PRS;POS;INTR
+ayırmak		V;IND;2;PL;PST;PROG;POS;INTR
+ayırmak		V;IND;3;SG;PRS;POS;DECL
+ayırmak		V;IND;3;PL;FUT;POS;INTR
+ayırmak		V;IND;3;PL;PRS;NEG;DECL
+ayırmak		V;IND;1;PL;PST;NEG;INTR
+ayırmak		V;IND;2;PL;PRS;POS;INTR
+ayırmak		V;IND;2;PL;PST;PROG;POS;DECL
+ayırmak		V;IND;1;SG;PRS;PROG;NEG;DECL
+ayırmak		V;IND;2;PL;PST;PROG;NEG;DECL
+ayırmak	ayırmayacaklar	V;IND;3;PL;FUT;NEG;DECL
+ayırmak		V;IND;2;PL;PRS;PROG;NEG;INTR
+ayırmak		V;IND;3;PL;PST;PROG;NEG;INTR
+ayırmak		V;IND;2;SG;PST;PROG;POS;DECL
+ayırmak	ayırıyordum	V;IND;1;SG;PST;PROG;POS;DECL
+ayırmak		V;IND;1;PL;PST;NEG;DECL
+ayırmak		V;IND;3;PL;FUT;NEG;INTR
+ayırmak		V;IND;2;SG;PRS;NEG;DECL
+ayırmak		V;IND;1;SG;PST;POS;DECL
+ayırmak		V;IND;3;PL;PRS;PROG;NEG;INTR
+ayırmak		V;IND;3;PL;PRS;PROG;POS;INTR
+ayırmak		V;IND;2;PL;PRS;PROG;POS;DECL
+ayırmak	ayırmıyordum	V;IND;1;SG;PST;PROG;NEG;DECL
+ayırmak	ayırırız	V;IND;1;PL;PRS;POS;DECL
+ayırmak		V;IND;1;SG;FUT;NEG;INTR
+ayırmak		V;IND;2;PL;FUT;NEG;INTR
+ayırmak		V;IND;2;SG;PRS;PROG;POS;INTR
+ayırmak		V;IND;2;SG;FUT;NEG;DECL
+ayırmak	ayırmaz mıyız?	V;IND;1;PL;PRS;NEG;INTR
+ayırmak		V;IND;2;SG;PRS;PROG;NEG;INTR
+ayırmak		V;IND;2;SG;PST;NEG;DECL
+ayırmak		V;IND;2;PL;PRS;NEG;DECL
+ayırmak		V;IND;2;SG;PST;PROG;NEG;INTR
+ayırmak		V;IND;2;SG;PST;NEG;INTR
+ayırmak	ayırdı mı?	V;IND;3;SG;PST;POS;INTR
+ayırmak		V;IND;2;PL;PST;NEG;DECL
+ayırmak		V;IND;3;PL;PRS;PROG;NEG;DECL
+ayırmak		V;IND;1;SG;PRS;NEG;INTR
+ayırmak	ayırıyorlardı	V;IND;3;PL;PST;PROG;POS;DECL
+ayırmak		V;IND;1;PL;PST;PROG;POS;DECL
+ayırmak	ayırmam	V;IND;1;SG;PRS;NEG;DECL
+ayırmak		V;IND;3;SG;PRS;PROG;POS;DECL
+ayırmak	ayırıyordu	V;IND;3;SG;PST;PROG;POS;DECL
+ayırmak		V;IND;2;SG;PST;PROG;POS;INTR
+ayırmak		V;IND;3;PL;PRS;POS;INTR
+ayırmak		V;IND;2;SG;PRS;POS;INTR
+ayırmak		V;IND;1;PL;FUT;NEG;DECL
+ayırmak		V;IND;1;PL;PST;POS;INTR
+ayırmak		V;IND;3;SG;PRS;NEG;INTR
+ayırmak	ayırmıyordular	V;IND;3;PL;PST;PROG;NEG;DECL
+ayırmak		V;IND;1;PL;PST;PROG;POS;INTR
+ayırmak		V;IND;3;SG;PRS;PROG;NEG;INTR
+ayırmak	ayırmaz mısın?	V;IND;2;SG;PRS;NEG;INTR
+ayırmak		V;IND;3;PL;FUT;POS;DECL
+ayırmak		V;IND;3;SG;PRS;PROG;POS;INTR
+ayırmak		V;IND;2;SG;FUT;POS;DECL
+ayırmak		V;IND;2;SG;PRS;PROG;NEG;DECL
+ayırmak		V;IND;1;PL;PRS;PROG;POS;DECL
+ayırmak		V;IND;1;SG;PRS;PROG;POS;DECL
+ayırmak	ayırmıyorsunuz	V;IND;2;PL;PRS;PROG;NEG;DECL
+ayırmak	ayıracaksınız	V;IND;2;PL;FUT;POS;DECL
+ayırmak		V;IND;3;PL;PST;POS;DECL

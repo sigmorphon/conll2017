@@ -1,0 +1,738 @@
+городок		N;NOM;PL
+городок		N;GEN;PL
+городок		N;GEN;SG
+городок		N;INS;PL
+городок		N;ESS;PL
+городок		N;ESS;SG
+городок		N;NOM;SG
+городок		N;INS;SG
+городок		N;DAT;SG
+городок		N;ACC;PL
+городок	городок	N;ACC;SG
+городок		N;DAT;PL
+париться		V;FUT;2;PL
+париться	парившись	V.CVB;PST
+париться		V;PRS;2;PL
+париться	будет париться	V;FUT;3;SG
+париться		V.PTCP;ACT;PRS
+париться		V;FUT;1;SG
+париться		V;IMP;2;SG
+париться		V;PRS;3;SG
+париться		V;PRS;1;SG
+париться		V;FUT;3;PL
+париться		V;PST;SG;MASC
+париться		V;FUT;2;SG
+париться		V;PST;PL
+париться		V.CVB;PRS
+париться	парилось	V;PST;SG;NEUT
+париться	парившийся	V.PTCP;ACT;PST
+париться		V;PRS;2;SG
+париться		V;IMP;2;PL
+париться		V;NFIN
+париться		V;PRS;3;PL
+париться		V;PST;SG;FEM
+париться		V;FUT;1;PL
+париться		V;PRS;1;PL
+символ		N;GEN;PL
+символ		N;NOM;PL
+символ		N;GEN;SG
+символ		N;INS;PL
+символ	символах	N;ESS;PL
+символ		N;ESS;SG
+символ		N;NOM;SG
+символ		N;INS;SG
+символ		N;DAT;SG
+символ		N;ACC;SG
+символ		N;DAT;PL
+существующий		ADJ;DAT;FEM;SG
+существующий		ADJ;DAT;PL
+существующий		ADJ;ACC;FEM;SG
+существующий		ADJ;GEN;MASC;SG
+существующий		ADJ;GEN;PL
+существующий		ADJ;INS;FEM;SG
+существующий		ADJ;GEN;NEUT;SG
+существующий		ADJ;INS;NEUT;SG
+существующий		ADJ;NOM;PL
+существующий		ADJ;NOM;MASC;SG
+существующий		ADJ;ESS;NEUT;SG
+существующий		ADJ;GEN;FEM;SG
+существующий		ADJ;ANIM;ACC;MASC;SG
+существующий	существующими	ADJ;INS;PL
+существующий		ADJ;ACC;INAN;PL
+существующий		ADJ;ACC;ANIM;PL
+существующий		ADJ;ESS;MASC;SG
+существующий		ADJ;DAT;MASC;SG
+существующий	существующее	ADJ;NOM;NEUT;SG
+существующий		ADJ;INS;MASC;SG
+существующий	существующее	ADJ;ACC;NEUT;SG
+существующий	существующий	ADJ;INAN;ACC;MASC;SG
+существующий		ADJ;DAT;NEUT;SG
+существующий		ADJ;NOM;FEM;SG
+существующий		ADJ;ESS;PL
+существующий		ADJ;ESS;FEM;SG
+заметка		N;NOM;PL
+заметка		N;GEN;PL
+заметка		N;NOM;SG
+заметка		N;INS;PL
+заметка		N;ESS;PL
+заметка		N;ESS;SG
+заметка	заметки	N;GEN;SG
+заметка		N;INS;SG
+заметка		N;DAT;SG
+заметка		N;ACC;PL
+заметка		N;ACC;SG
+заметка		N;DAT;PL
+совместимость		N;GEN;PL
+совместимость		N;NOM;PL
+совместимость		N;GEN;SG
+совместимость		N;INS;PL
+совместимость		N;ESS;PL
+совместимость	совместимости	N;ESS;SG
+совместимость		N;NOM;SG
+совместимость		N;INS;SG
+совместимость		N;DAT;SG
+совместимость		N;ACC;PL
+совместимость		N;ACC;SG
+совместимость		N;DAT;PL
+выход		N;GEN;PL
+выход		N;NOM;PL
+выход		N;GEN;SG
+выход		N;INS;PL
+выход		N;ESS;PL
+выход	выходе	N;ESS;SG
+выход		N;NOM;SG
+выход		N;INS;SG
+выход		N;DAT;SG
+выход		N;ACC;SG
+выход		N;DAT;PL
+зависимость		N;GEN;PL
+зависимость		N;NOM;PL
+зависимость		N;GEN;SG
+зависимость	зависимостями	N;INS;PL
+зависимость		N;ESS;PL
+зависимость		N;ESS;SG
+зависимость		N;NOM;SG
+зависимость		N;INS;SG
+зависимость		N;DAT;SG
+зависимость		N;ACC;SG
+зависимость		N;DAT;PL
+топоним		N;GEN;PL
+топоним		N;NOM;PL
+топоним		N;GEN;SG
+топоним		N;INS;PL
+топоним		N;ESS;PL
+топоним		N;ESS;SG
+топоним	топоним	N;NOM;SG
+топоним		N;INS;SG
+топоним		N;DAT;SG
+топоним		N;ACC;PL
+топоним		N;ACC;SG
+топоним		N;DAT;PL
+герб		N;GEN;PL
+герб		N;NOM;PL
+герб		N;GEN;SG
+герб		N;INS;PL
+герб		N;ESS;PL
+герб		N;ESS;SG
+герб	герб	N;NOM;SG
+герб		N;INS;SG
+герб		N;DAT;SG
+герб		N;ACC;SG
+герб		N;DAT;PL
+энциклопедия		N;GEN;PL
+энциклопедия		N;NOM;PL
+энциклопедия		N;GEN;SG
+энциклопедия		N;INS;PL
+энциклопедия		N;ESS;PL
+энциклопедия		N;ESS;SG
+энциклопедия		N;NOM;SG
+энциклопедия		N;INS;SG
+энциклопедия	энциклопедии	N;DAT;SG
+энциклопедия		N;ACC;SG
+энциклопедия		N;DAT;PL
+совхоз	совхозов	N;GEN;PL
+совхоз		N;NOM;PL
+совхоз		N;GEN;SG
+совхоз		N;INS;PL
+совхоз		N;ESS;PL
+совхоз		N;ESS;SG
+совхоз		N;NOM;SG
+совхоз		N;INS;SG
+совхоз		N;DAT;SG
+совхоз		N;ACC;PL
+совхоз		N;ACC;SG
+совхоз		N;DAT;PL
+питание		N;GEN;PL
+питание		N;NOM;PL
+питание		N;NOM;SG
+питание		N;INS;PL
+питание		N;ESS;PL
+питание		N;ESS;SG
+питание		N;GEN;SG
+питание		N;INS;SG
+питание		N;DAT;SG
+питание	питание	N;ACC;SG
+питание		N;DAT;PL
+часовня		N;GEN;PL
+часовня		N;NOM;PL
+часовня		N;GEN;SG
+часовня		N;INS;PL
+часовня		N;ESS;PL
+часовня	часовне	N;ESS;SG
+часовня		N;NOM;SG
+часовня		N;INS;SG
+часовня		N;DAT;SG
+часовня		N;ACC;PL
+часовня		N;ACC;SG
+часовня		N;DAT;PL
+поэт		N;GEN;PL
+поэт		N;NOM;PL
+поэт		N;GEN;SG
+поэт		N;INS;PL
+поэт		N;ESS;PL
+поэт		N;ESS;SG
+поэт		N;NOM;SG
+поэт	поэтом	N;INS;SG
+поэт		N;DAT;SG
+поэт		N;ACC;SG
+поэт		N;DAT;PL
+рыцарь		N;GEN;PL
+рыцарь		N;NOM;PL
+рыцарь		N;NOM;SG
+рыцарь		N;INS;PL
+рыцарь		N;ESS;PL
+рыцарь	рыцаре	N;ESS;SG
+рыцарь		N;GEN;SG
+рыцарь		N;INS;SG
+рыцарь		N;DAT;SG
+рыцарь		N;ACC;PL
+рыцарь		N;ACC;SG
+рыцарь		N;DAT;PL
+обеспечение		N;GEN;PL
+обеспечение		N;NOM;PL
+обеспечение		N;NOM;SG
+обеспечение		N;INS;PL
+обеспечение		N;ESS;PL
+обеспечение	обеспечении	N;ESS;SG
+обеспечение		N;GEN;SG
+обеспечение		N;INS;SG
+обеспечение		N;DAT;SG
+обеспечение		N;ACC;SG
+обеспечение		N;DAT;PL
+иск		N;NOM;PL
+иск		N;GEN;PL
+иск		N;GEN;SG
+иск		N;INS;PL
+иск	исках	N;ESS;PL
+иск		N;ESS;SG
+иск		N;NOM;SG
+иск		N;INS;SG
+иск		N;DAT;SG
+иск		N;ACC;PL
+иск		N;ACC;SG
+иск		N;DAT;PL
+слоган		N;GEN;PL
+слоган		N;NOM;PL
+слоган		N;GEN;SG
+слоган	слоганами	N;INS;PL
+слоган		N;ESS;PL
+слоган		N;ESS;SG
+слоган		N;NOM;SG
+слоган		N;INS;SG
+слоган		N;DAT;SG
+слоган		N;ACC;PL
+слоган		N;ACC;SG
+слоган		N;DAT;PL
+опубликовать		V.PTCP;PASS;PST
+опубликовать		V;PST;PL
+опубликовать		V;FUT;2;PL
+опубликовать		V.CVB;PST
+опубликовать		V;PST;SG;FEM
+опубликовать	опубликовало	V;PST;SG;NEUT
+опубликовать		V;FUT;1;PL
+опубликовать		V;FUT;3;SG
+опубликовать		V;FUT;2;SG
+опубликовать		V;FUT;1;SG
+опубликовать		V.PTCP;ACT;PST
+опубликовать		V;FUT;3;PL
+опубликовать		V;IMP;2;SG
+опубликовать		V;IMP;2;PL
+опубликовать		V;NFIN
+опубликовать	опубликовал	V;PST;SG;MASC
+рекламный		ADJ;DAT;FEM;SG
+рекламный		ADJ;DAT;PL
+рекламный		ADJ;ACC;FEM;SG
+рекламный		ADJ;GEN;MASC;SG
+рекламный		ADJ;GEN;PL
+рекламный		ADJ;INS;FEM;SG
+рекламный	рекламного	ADJ;GEN;NEUT;SG
+рекламный		ADJ;INS;NEUT;SG
+рекламный		ADJ;NOM;PL
+рекламный		ADJ;NOM;MASC;SG
+рекламный	рекламном	ADJ;ESS;NEUT;SG
+рекламный		ADJ;GEN;FEM;SG
+рекламный		ADJ;ANIM;ACC;MASC;SG
+рекламный		ADJ;INS;PL
+рекламный		ADJ;ACC;INAN;PL
+рекламный		ADJ;ACC;ANIM;PL
+рекламный		ADJ;ESS;MASC;SG
+рекламный		ADJ;DAT;MASC;SG
+рекламный		ADJ;NOM;NEUT;SG
+рекламный		ADJ;INS;MASC;SG
+рекламный		ADJ;ACC;NEUT;SG
+рекламный	рекламный	ADJ;INAN;ACC;MASC;SG
+рекламный	рекламному	ADJ;DAT;NEUT;SG
+рекламный		ADJ;NOM;FEM;SG
+рекламный		ADJ;ESS;PL
+рекламный		ADJ;ESS;FEM;SG
+вероятность		N;GEN;PL
+вероятность		N;NOM;PL
+вероятность		N;GEN;SG
+вероятность		N;INS;PL
+вероятность		N;ESS;PL
+вероятность		N;ESS;SG
+вероятность		N;NOM;SG
+вероятность		N;INS;SG
+вероятность	вероятности	N;DAT;SG
+вероятность		N;ACC;SG
+вероятность		N;DAT;PL
+сачок		N;NOM;PL
+сачок		N;GEN;PL
+сачок		N;GEN;SG
+сачок		N;ACC;ANIM;SG
+сачок		N;INS;PL
+сачок	сачках	N;ESS;PL
+сачок	сачке	N;ESS;SG
+сачок		N;ACC;ANIM;PL
+сачок		N;ACC;INAN;PL
+сачок		N;NOM;SG
+сачок		N;ACC;INAN;SG
+сачок		N;INS;SG
+сачок		N;DAT;SG
+сачок		N;DAT;PL
+военачальник		N;NOM;PL
+военачальник		N;GEN;PL
+военачальник	военачальника	N;GEN;SG
+военачальник		N;INS;PL
+военачальник		N;ESS;PL
+военачальник		N;ESS;SG
+военачальник		N;NOM;SG
+военачальник		N;INS;SG
+военачальник		N;DAT;SG
+военачальник		N;ACC;PL
+военачальник		N;ACC;SG
+военачальник		N;DAT;PL
+император		N;GEN;PL
+император		N;NOM;PL
+император		N;GEN;SG
+император	императорами	N;INS;PL
+император		N;ESS;PL
+император		N;ESS;SG
+император		N;NOM;SG
+император		N;INS;SG
+император		N;DAT;SG
+император		N;ACC;PL
+император		N;ACC;SG
+император		N;DAT;PL
+отряд		N;GEN;PL
+отряд		N;NOM;PL
+отряд		N;GEN;SG
+отряд		N;INS;PL
+отряд		N;ESS;PL
+отряд	отряде	N;ESS;SG
+отряд		N;NOM;SG
+отряд		N;INS;SG
+отряд		N;DAT;SG
+отряд		N;ACC;PL
+отряд		N;ACC;SG
+отряд		N;DAT;PL
+мяч		N;GEN;PL
+мяч		N;NOM;PL
+мяч		N;GEN;SG
+мяч		N;INS;PL
+мяч		N;ESS;PL
+мяч		N;ESS;SG
+мяч		N;NOM;SG
+мяч		N;INS;SG
+мяч		N;DAT;SG
+мяч		N;ACC;SG
+мяч	мячам	N;DAT;PL
+сериал		N;GEN;PL
+сериал		N;NOM;PL
+сериал	сериала	N;GEN;SG
+сериал		N;INS;PL
+сериал		N;ESS;PL
+сериал		N;ESS;SG
+сериал		N;NOM;SG
+сериал		N;INS;SG
+сериал		N;DAT;SG
+сериал		N;ACC;PL
+сериал		N;ACC;SG
+сериал		N;DAT;PL
+классический		ADJ;DAT;FEM;SG
+классический	классическим	ADJ;DAT;PL
+классический		ADJ;ACC;FEM;SG
+классический		ADJ;GEN;MASC;SG
+классический		ADJ;GEN;PL
+классический		ADJ;INS;FEM;SG
+классический		ADJ;GEN;NEUT;SG
+классический		ADJ;INS;NEUT;SG
+классический		ADJ;NOM;PL
+классический		ADJ;NOM;MASC;SG
+классический	классическом	ADJ;ESS;NEUT;SG
+классический		ADJ;GEN;FEM;SG
+классический		ADJ;ANIM;ACC;MASC;SG
+классический	классическими	ADJ;INS;PL
+классический	классические	ADJ;ACC;INAN;PL
+классический		ADJ;ACC;ANIM;PL
+классический		ADJ;ESS;MASC;SG
+классический		ADJ;DAT;MASC;SG
+классический		ADJ;NOM;NEUT;SG
+классический		ADJ;INS;MASC;SG
+классический		ADJ;ACC;NEUT;SG
+классический		ADJ;INAN;ACC;MASC;SG
+классический		ADJ;DAT;NEUT;SG
+классический		ADJ;NOM;FEM;SG
+классический		ADJ;ESS;PL
+классический		ADJ;ESS;FEM;SG
+протест		N;GEN;PL
+протест		N;NOM;PL
+протест		N;GEN;SG
+протест		N;INS;PL
+протест		N;ESS;PL
+протест		N;ESS;SG
+протест		N;NOM;SG
+протест		N;INS;SG
+протест	протесту	N;DAT;SG
+протест		N;ACC;PL
+протест		N;ACC;SG
+протест		N;DAT;PL
+данные		N;NOM;SG
+данные		N;ESS;SG
+данные		N;GEN;SG
+данные		N;INS;SG
+данные		N;DAT;SG
+данные		N;ACC;SG
+бразильский		ADJ;DAT;FEM;SG
+бразильский		ADJ;DAT;PL
+бразильский		ADJ;ACC;FEM;SG
+бразильский		ADJ;GEN;MASC;SG
+бразильский		ADJ;GEN;PL
+бразильский		ADJ;INS;FEM;SG
+бразильский		ADJ;GEN;NEUT;SG
+бразильский		ADJ;INS;NEUT;SG
+бразильский		ADJ;NOM;PL
+бразильский		ADJ;NOM;MASC;SG
+бразильский		ADJ;ESS;NEUT;SG
+бразильский		ADJ;GEN;FEM;SG
+бразильский	бразильского	ADJ;ANIM;ACC;MASC;SG
+бразильский		ADJ;INS;PL
+бразильский		ADJ;ACC;INAN;PL
+бразильский		ADJ;ACC;ANIM;PL
+бразильский		ADJ;ESS;MASC;SG
+бразильский	бразильскому	ADJ;DAT;MASC;SG
+бразильский	бразильское	ADJ;NOM;NEUT;SG
+бразильский		ADJ;INS;MASC;SG
+бразильский		ADJ;ACC;NEUT;SG
+бразильский		ADJ;INAN;ACC;MASC;SG
+бразильский		ADJ;DAT;NEUT;SG
+бразильский		ADJ;NOM;FEM;SG
+бразильский	бразильских	ADJ;ESS;PL
+бразильский		ADJ;ESS;FEM;SG
+страна		N;GEN;PL
+страна		N;NOM;PL
+страна		N;NOM;SG
+страна		N;INS;PL
+страна		N;ESS;PL
+страна		N;ESS;SG
+страна	страны	N;GEN;SG
+страна		N;INS;SG
+страна		N;DAT;SG
+страна		N;ACC;SG
+страна		N;DAT;PL
+убийство		N;GEN;PL
+убийство		N;NOM;PL
+убийство		N;GEN;SG
+убийство		N;INS;PL
+убийство		N;ESS;PL
+убийство		N;ESS;SG
+убийство		N;NOM;SG
+убийство	убийством	N;INS;SG
+убийство		N;DAT;SG
+убийство		N;ACC;SG
+убийство		N;DAT;PL
+крупный		ADJ;DAT;FEM;SG
+крупный		ADJ;DAT;PL
+крупный	крупную	ADJ;ACC;FEM;SG
+крупный		ADJ;MASC;SG;LGSPEC1
+крупный		ADJ;GEN;MASC;SG
+крупный		ADJ;GEN;PL
+крупный		ADJ;INS;FEM;SG
+крупный		ADJ;GEN;NEUT;SG
+крупный		ADJ;INS;NEUT;SG
+крупный	крупные	ADJ;NOM;PL
+крупный		ADJ;NEUT;SG;LGSPEC1
+крупный		ADJ;FEM;SG;LGSPEC1
+крупный		ADJ;NOM;MASC;SG
+крупный	крупном	ADJ;ESS;NEUT;SG
+крупный		ADJ;GEN;FEM;SG
+крупный		ADJ;ANIM;ACC;MASC;SG
+крупный		ADJ;PL;LGSPEC1
+крупный		ADJ;INS;PL
+крупный		ADJ;ACC;INAN;PL
+крупный		ADJ;ACC;ANIM;PL
+крупный		ADJ;ESS;MASC;SG
+крупный		ADJ;DAT;MASC;SG
+крупный		ADJ;NOM;NEUT;SG
+крупный		ADJ;INS;MASC;SG
+крупный		ADJ;ACC;NEUT;SG
+крупный		ADJ;INAN;ACC;MASC;SG
+крупный		ADJ;DAT;NEUT;SG
+крупный	крупная	ADJ;NOM;FEM;SG
+крупный	крупных	ADJ;ESS;PL
+крупный		ADJ;ESS;FEM;SG
+вооружить		V.PTCP;PASS;PST
+вооружить		V;PST;PL
+вооружить		V;FUT;2;PL
+вооружить		V;PST;SG;FEM
+вооружить		V.CVB;PST
+вооружить		V;PST;SG;NEUT
+вооружить		V;FUT;1;PL
+вооружить		V;FUT;3;SG
+вооружить	вооружишь	V;FUT;2;SG
+вооружить		V;FUT;1;SG
+вооружить		V.PTCP;ACT;PST
+вооружить		V;IMP;2;SG
+вооружить	вооружат	V;FUT;3;PL
+вооружить		V;IMP;2;PL
+вооружить		V;NFIN
+вооружить		V;PST;SG;MASC
+орёл		N;GEN;PL
+орёл		N;NOM;PL
+орёл		N;GEN;SG
+орёл	орлами	N;INS;PL
+орёл		N;ESS;PL
+орёл		N;ESS;SG
+орёл		N;NOM;SG
+орёл		N;INS;SG
+орёл		N;DAT;SG
+орёл		N;ACC;SG
+орёл		N;DAT;PL
+частица		N;GEN;PL
+частица		N;NOM;PL
+частица		N;NOM;SG
+частица		N;INS;PL
+частица	частицах	N;ESS;PL
+частица		N;ESS;SG
+частица		N;GEN;SG
+частица		N;INS;SG
+частица		N;DAT;SG
+частица		N;ACC;PL
+частица		N;ACC;SG
+частица		N;DAT;PL
+бренд		N;GEN;PL
+бренд		N;NOM;PL
+бренд	бренда	N;GEN;SG
+бренд		N;INS;PL
+бренд		N;ESS;PL
+бренд		N;ESS;SG
+бренд		N;NOM;SG
+бренд		N;INS;SG
+бренд		N;DAT;SG
+бренд		N;ACC;PL
+бренд		N;ACC;SG
+бренд		N;DAT;PL
+набор		N;GEN;PL
+набор		N;NOM;PL
+набор		N;GEN;SG
+набор		N;INS;PL
+набор		N;ESS;PL
+набор	наборе	N;ESS;SG
+набор		N;NOM;SG
+набор		N;INS;SG
+набор		N;DAT;SG
+набор		N;ACC;SG
+набор		N;DAT;PL
+маленький		ADJ;DAT;FEM;SG
+маленький		ADJ;DAT;PL
+маленький	маленькую	ADJ;ACC;FEM;SG
+маленький		ADJ;MASC;SG;LGSPEC1
+маленький		ADJ;GEN;MASC;SG
+маленький		ADJ;GEN;PL
+маленький		ADJ;INS;FEM;SG
+маленький		ADJ;GEN;NEUT;SG
+маленький		ADJ;INS;NEUT;SG
+маленький		ADJ;NOM;PL
+маленький		ADJ;NEUT;SG;LGSPEC1
+маленький		ADJ;FEM;SG;LGSPEC1
+маленький		ADJ;NOM;MASC;SG
+маленький		ADJ;ESS;NEUT;SG
+маленький		ADJ;GEN;FEM;SG
+маленький		ADJ;ANIM;ACC;MASC;SG
+маленький	малы	ADJ;PL;LGSPEC1
+маленький		ADJ;INS;PL
+маленький		ADJ;ACC;INAN;PL
+маленький		ADJ;ACC;ANIM;PL
+маленький		ADJ;ESS;MASC;SG
+маленький		ADJ;DAT;MASC;SG
+маленький		ADJ;NOM;NEUT;SG
+маленький		ADJ;INS;MASC;SG
+маленький		ADJ;ACC;NEUT;SG
+маленький	маленький	ADJ;INAN;ACC;MASC;SG
+маленький		ADJ;DAT;NEUT;SG
+маленький	маленькая	ADJ;NOM;FEM;SG
+маленький	маленьких	ADJ;ESS;PL
+маленький		ADJ;ESS;FEM;SG
+истинный		ADJ;DAT;FEM;SG
+истинный		ADJ;DAT;PL
+истинный		ADJ;ACC;FEM;SG
+истинный		ADJ;MASC;SG;LGSPEC1
+истинный		ADJ;GEN;MASC;SG
+истинный	истинных	ADJ;GEN;PL
+истинный		ADJ;INS;FEM;SG
+истинный		ADJ;GEN;NEUT;SG
+истинный		ADJ;INS;NEUT;SG
+истинный		ADJ;NOM;PL
+истинный		ADJ;NEUT;SG;LGSPEC1
+истинный		ADJ;FEM;SG;LGSPEC1
+истинный		ADJ;NOM;MASC;SG
+истинный		ADJ;ESS;NEUT;SG
+истинный	истинной	ADJ;GEN;FEM;SG
+истинный		ADJ;ANIM;ACC;MASC;SG
+истинный		ADJ;PL;LGSPEC1
+истинный		ADJ;INS;PL
+истинный		ADJ;ACC;INAN;PL
+истинный	истинных	ADJ;ACC;ANIM;PL
+истинный		ADJ;ESS;MASC;SG
+истинный		ADJ;DAT;MASC;SG
+истинный		ADJ;NOM;NEUT;SG
+истинный	истинным	ADJ;INS;MASC;SG
+истинный		ADJ;ACC;NEUT;SG
+истинный		ADJ;INAN;ACC;MASC;SG
+истинный		ADJ;DAT;NEUT;SG
+истинный		ADJ;NOM;FEM;SG
+истинный		ADJ;ESS;PL
+истинный	истинной	ADJ;ESS;FEM;SG
+рассол		N;GEN;PL
+рассол		N;NOM;PL
+рассол		N;GEN;SG
+рассол		N;INS;PL
+рассол		N;ESS;PL
+рассол		N;ESS;SG
+рассол	рассол	N;NOM;SG
+рассол		N;INS;SG
+рассол		N;DAT;SG
+рассол		N;ACC;PL
+рассол		N;ACC;SG
+рассол		N;DAT;PL
+структура		N;GEN;PL
+структура		N;NOM;PL
+структура		N;NOM;SG
+структура		N;INS;PL
+структура		N;ESS;PL
+структура		N;ESS;SG
+структура		N;GEN;SG
+структура		N;INS;SG
+структура	структуре	N;DAT;SG
+структура		N;ACC;SG
+структура		N;DAT;PL
+расцвет		N;GEN;PL
+расцвет		N;NOM;PL
+расцвет		N;GEN;SG
+расцвет		N;INS;PL
+расцвет		N;ESS;PL
+расцвет		N;ESS;SG
+расцвет		N;NOM;SG
+расцвет	расцветом	N;INS;SG
+расцвет		N;DAT;SG
+расцвет		N;ACC;SG
+расцвет		N;DAT;PL
+доход	доходов	N;GEN;PL
+доход		N;NOM;PL
+доход		N;GEN;SG
+доход		N;INS;PL
+доход		N;ESS;PL
+доход		N;ESS;SG
+доход		N;NOM;SG
+доход		N;INS;SG
+доход		N;DAT;SG
+доход		N;ACC;SG
+доход		N;DAT;PL
+вещество		N;GEN;PL
+вещество		N;NOM;PL
+вещество		N;GEN;SG
+вещество		N;INS;PL
+вещество		N;ESS;PL
+вещество		N;ESS;SG
+вещество		N;NOM;SG
+вещество		N;INS;SG
+вещество		N;DAT;SG
+вещество	вещество	N;ACC;SG
+вещество		N;DAT;PL
+схема		N;GEN;PL
+схема		N;NOM;PL
+схема		N;NOM;SG
+схема		N;INS;PL
+схема		N;ESS;PL
+схема		N;ESS;SG
+схема		N;GEN;SG
+схема	схемой	N;INS;SG
+схема		N;DAT;SG
+схема		N;ACC;SG
+схема		N;DAT;PL
+бессрочный		ADJ;DAT;FEM;SG
+бессрочный		ADJ;DAT;PL
+бессрочный	бессрочную	ADJ;ACC;FEM;SG
+бессрочный		ADJ;MASC;SG;LGSPEC1
+бессрочный		ADJ;GEN;MASC;SG
+бессрочный		ADJ;GEN;PL
+бессрочный		ADJ;INS;FEM;SG
+бессрочный		ADJ;GEN;NEUT;SG
+бессрочный		ADJ;INS;NEUT;SG
+бессрочный		ADJ;NOM;PL
+бессрочный		ADJ;NEUT;SG;LGSPEC1
+бессрочный	бессрочна	ADJ;FEM;SG;LGSPEC1
+бессрочный		ADJ;NOM;MASC;SG
+бессрочный		ADJ;ESS;NEUT;SG
+бессрочный	бессрочной	ADJ;GEN;FEM;SG
+бессрочный		ADJ;ANIM;ACC;MASC;SG
+бессрочный		ADJ;PL;LGSPEC1
+бессрочный		ADJ;INS;PL
+бессрочный		ADJ;ACC;INAN;PL
+бессрочный		ADJ;ACC;ANIM;PL
+бессрочный		ADJ;ESS;MASC;SG
+бессрочный	бессрочному	ADJ;DAT;MASC;SG
+бессрочный		ADJ;NOM;NEUT;SG
+бессрочный		ADJ;INS;MASC;SG
+бессрочный		ADJ;ACC;NEUT;SG
+бессрочный		ADJ;INAN;ACC;MASC;SG
+бессрочный	бессрочному	ADJ;DAT;NEUT;SG
+бессрочный		ADJ;NOM;FEM;SG
+бессрочный		ADJ;ESS;PL
+бессрочный		ADJ;ESS;FEM;SG
+региональный		ADJ;DAT;FEM;SG
+региональный		ADJ;DAT;PL
+региональный		ADJ;ACC;FEM;SG
+региональный	регионального	ADJ;GEN;MASC;SG
+региональный		ADJ;GEN;PL
+региональный		ADJ;INS;FEM;SG
+региональный		ADJ;GEN;NEUT;SG
+региональный		ADJ;INS;NEUT;SG
+региональный		ADJ;NOM;PL
+региональный		ADJ;NOM;MASC;SG
+региональный		ADJ;ESS;NEUT;SG
+региональный		ADJ;GEN;FEM;SG
+региональный		ADJ;ANIM;ACC;MASC;SG
+региональный		ADJ;INS;PL
+региональный		ADJ;ACC;INAN;PL
+региональный	региональных	ADJ;ACC;ANIM;PL
+региональный		ADJ;ESS;MASC;SG
+региональный		ADJ;DAT;MASC;SG
+региональный		ADJ;NOM;NEUT;SG
+региональный		ADJ;INS;MASC;SG
+региональный		ADJ;ACC;NEUT;SG
+региональный		ADJ;INAN;ACC;MASC;SG
+региональный	региональному	ADJ;DAT;NEUT;SG
+региональный		ADJ;NOM;FEM;SG
+региональный		ADJ;ESS;PL
+региональный	региональной	ADJ;ESS;FEM;SG

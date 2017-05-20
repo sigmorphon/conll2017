@@ -1,0 +1,957 @@
+brjog		N;NOM;PL
+brjog		N;GEN;PL
+brjog		N;GEN;SG
+brjog		N;INS;DU
+brjog		N;INS;PL
+brjog		N;ACC;DU
+brjog		N;ESS;PL
+brjog		N;ESS;SG
+brjog		N;DAT;DU
+brjog		N;NOM;SG
+brjog		N;INS;SG
+brjog		N;DAT;SG
+brjog	brjogoma	N;ESS;DU
+brjog		N;ACC;PL
+brjog	brjoga	N;NOM;DU
+brjog		N;GEN;DU
+brjog	brjog	N;ACC;SG
+brjog		N;DAT;PL
+bratš		N;GEN;PL
+bratš		N;ACC;PL
+bratš		N;GEN;SG
+bratš		N;ACC;DU
+bratš	bratšami	N;INS;PL
+bratš		N;ESS;PL
+bratš		N;ESS;SG
+bratš		N;DAT;DU
+bratš	bratšy	N;NOM;PL
+bratš		N;NOM;SG
+bratš		N;INS;SG
+bratš	bratšoju	N;DAT;SG
+bratš		N;ESS;DU
+bratš		N;ACC;SG
+bratš		N;NOM;DU
+bratš		N;GEN;DU
+bratš		N;INS;DU
+bratš		N;DAT;PL
+mech	mechow	N;GEN;PL
+mech		N;ACC;PL
+mech		N;GEN;SG
+mech		N;INS;PL
+mech		N;ACC;DU
+mech		N;ESS;PL
+mech		N;ESS;SG
+mech		N;DAT;DU
+mech		N;NOM;PL
+mech		N;NOM;SG
+mech		N;INS;SG
+mech		N;DAT;SG
+mech		N;ESS;DU
+mech	mech	N;ACC;SG
+mech		N;NOM;DU
+mech	mechowu	N;GEN;DU
+mech		N;INS;DU
+mech		N;DAT;PL
+wogeń		N;NOM;PL
+wogeń		N;GEN;PL
+wogeń		N;NOM;SG
+wogeń		N;NOM;DU
+wogeń		N;INS;PL
+wogeń		N;ACC;DU
+wogeń		N;ESS;PL
+wogeń	wognju	N;ESS;SG
+wogeń		N;DAT;DU
+wogeń		N;GEN;SG
+wogeń		N;INS;SG
+wogeń		N;DAT;SG
+wogeń		N;ESS;DU
+wogeń	wognje	N;ACC;PL
+wogeń		N;ACC;SG
+wogeń	wognjowu	N;GEN;DU
+wogeń		N;INS;DU
+wogeń		N;DAT;PL
+łokś		N;NOM;PL
+łokś		N;GEN;PL
+łokś	łokśa	N;GEN;SG
+łokś		N;INS;DU
+łokś		N;INS;PL
+łokś	łokśa	N;ACC;DU
+łokś		N;ESS;PL
+łokś		N;ESS;SG
+łokś	łokśoma	N;DAT;DU
+łokś		N;NOM;SG
+łokś		N;INS;SG
+łokś		N;DAT;SG
+łokś		N;ESS;DU
+łokś		N;ACC;PL
+łokś		N;NOM;DU
+łokś		N;GEN;DU
+łokś		N;ACC;SG
+łokś		N;DAT;PL
+ryba	rybow	N;GEN;PL
+ryba		N;ACC;PL
+ryba		N;NOM;SG
+ryba		N;INS;PL
+ryba		N;ACC;DU
+ryba	rybach	N;ESS;PL
+ryba		N;ESS;SG
+ryba		N;DAT;DU
+ryba		N;ESS;DU
+ryba		N;INS;SG
+ryba		N;DAT;SG
+ryba		N;NOM;PL
+ryba	rybu	N;ACC;SG
+ryba		N;NOM;DU
+ryba		N;GEN;DU
+ryba		N;GEN;SG
+ryba		N;INS;DU
+ryba		N;DAT;PL
+noc		N;GEN;PL
+noc		N;NOM;PL
+noc		N;NOM;SG
+noc	nocy	N;NOM;DU
+noc		N;ACC;DU
+noc		N;INS;PL
+noc		N;ESS;PL
+noc		N;ESS;SG
+noc		N;DAT;DU
+noc		N;ESS;DU
+noc		N;INS;SG
+noc	nocy	N;DAT;SG
+noc		N;ACC;PL
+noc		N;ACC;SG
+noc		N;GEN;DU
+noc		N;GEN;SG
+noc	nocoma	N;INS;DU
+noc		N;DAT;PL
+módry		ADJ;DAT;FEM;SG
+módry		ADJ;ACC;PL;INAN
+módry		ADJ;INS;DU
+módry		ADJ;ACC;FEM;SG
+módry		ADJ;DAT;PL
+módry		ADJ;GEN;MASC;SG
+módry		ADJ;ACC;DU;ANIM
+módry	módrych	ADJ;GEN;PL
+módry	módreju	ADJ;INS;FEM;SG
+módry		ADJ;GEN;NEUT;SG
+módry		ADJ;ESS;DU
+módry		ADJ;INS;NEUT;SG
+módry		ADJ;NOM;PL
+módry		ADJ;NOM;MASC;SG
+módry		ADJ;ESS;NEUT;SG
+módry		ADJ;ACC;PL;ANIM
+módry		ADJ;GEN;FEM;SG
+módry		ADJ;GEN;DU
+módry	módrymi	ADJ;INS;PL
+módry		ADJ;ESS;MASC;SG
+módry		ADJ;ACC;DU;INAN
+módry	módremu	ADJ;DAT;MASC;SG
+módry	módrego	ADJ;ACC;MASC;SG;ANIM
+módry		ADJ;NOM;NEUT;SG
+módry		ADJ;NOM;DU
+módry		ADJ;INS;MASC;SG
+módry		ADJ;ACC;NEUT;SG
+módry	módry	ADJ;ACC;MASC;SG;INAN
+módry		ADJ;DAT;NEUT;SG
+módry		ADJ;NOM;FEM;SG
+módry		ADJ;DAT;DU
+módry		ADJ;ESS;PL
+módry		ADJ;ESS;FEM;SG
+śěło		N;NOM;PL
+śěło		N;GEN;PL
+śěło		N;GEN;SG
+śěło		N;ACC;SG
+śěło		N;ACC;DU
+śěło		N;INS;PL
+śěło		N;ESS;PL
+śěło		N;ESS;SG
+śěło	śěłoma	N;DAT;DU
+śěło	śěło	N;NOM;SG
+śěło		N;ESS;DU
+śěło		N;INS;SG
+śěło		N;DAT;SG
+śěło		N;ACC;PL
+śěło		N;NOM;DU
+śěło		N;GEN;DU
+śěło		N;INS;DU
+śěło	śěłam	N;DAT;PL
+gósć		N;NOM;PL
+gósć		N;ACC;PL
+gósć		N;GEN;SG
+gósć	gósćow	N;GEN;PL
+gósć		N;ACC;DU
+gósć		N;INS;PL
+gósć		N;ESS;PL
+gósć		N;ESS;SG
+gósć		N;DAT;DU
+gósć	gósć	N;NOM;SG
+gósć		N;INS;SG
+gósć		N;DAT;SG
+gósć		N;ESS;DU
+gósć		N;ACC;SG
+gósć	gósća	N;NOM;DU
+gósć		N;GEN;DU
+gósć		N;INS;DU
+gósć		N;DAT;PL
+pas		N;NOM;PL
+pas		N;GEN;PL
+pas		N;GEN;SG
+pas		N;INS;DU
+pas		N;INS;PL
+pas		N;ACC;DU
+pas		N;ESS;PL
+pas	pasu	N;ESS;SG
+pas		N;DAT;DU
+pas		N;NOM;SG
+pas		N;INS;SG
+pas		N;DAT;SG
+pas		N;ESS;DU
+pas		N;ACC;PL
+pas	pasa	N;NOM;DU
+pas		N;GEN;DU
+pas	pas	N;ACC;SG
+pas		N;DAT;PL
+doł		N;GEN;PL
+doł		N;ACC;PL
+doł	doła	N;GEN;SG
+doł		N;INS;PL
+doł		N;ACC;DU
+doł		N;ESS;PL
+doł		N;ESS;SG
+doł		N;DAT;DU
+doł		N;NOM;PL
+doł		N;NOM;SG
+doł		N;INS;SG
+doł		N;DAT;SG
+doł	dołoma	N;ESS;DU
+doł		N;ACC;SG
+doł	doła	N;NOM;DU
+doł		N;GEN;DU
+doł		N;INS;DU
+doł		N;DAT;PL
+źaržaś		V;PRS;3;PL
+źaržaś		V;PST;1;SG
+źaržaś		V;PST;2;DU
+źaržaś		V;PRS;2;DU
+źaržaś		V;PST;3;PL
+źaržaś	źaržyśo	V;PRS;2;PL
+źaržaś		V;PRS;3;SG
+źaržaś		V;PST;3;DU
+źaržaś		V;PST;2;PL
+źaržaś		V;PRS;1;SG
+źaržaś		V;PST;2;SG
+źaržaś		V;PST;1;DU
+źaržaś		V;PRS;1;PL
+źaržaś		V;PRS;3;DU
+źaržaś		V;PST;1;PL
+źaržaś	źaržyš	V;PRS;2;SG
+źaržaś	źarž	V;IMP;2;SG
+źaržaś		V;PRS;1;DU
+źaržaś		V;IMP;2;PL
+źaržaś		V;IMP;2;DU
+źaržaś		V;PST;3;SG
+jasny		ADJ;DAT;FEM;SG
+jasny		ADJ;ACC;PL;INAN
+jasny		ADJ;INS;DU
+jasny		ADJ;ACC;FEM;SG
+jasny		ADJ;DAT;PL
+jasny		ADJ;GEN;MASC;SG
+jasny		ADJ;ACC;DU;ANIM
+jasny	jasnych	ADJ;GEN;PL
+jasny	jasneju	ADJ;INS;FEM;SG
+jasny		ADJ;GEN;NEUT;SG
+jasny		ADJ;ESS;DU
+jasny		ADJ;INS;NEUT;SG
+jasny	jasne	ADJ;NOM;PL
+jasny		ADJ;NOM;MASC;SG
+jasny		ADJ;ESS;NEUT;SG
+jasny		ADJ;ACC;PL;ANIM
+jasny		ADJ;GEN;FEM;SG
+jasny		ADJ;GEN;DU
+jasny		ADJ;INS;PL
+jasny	jasnem	ADJ;ESS;MASC;SG
+jasny		ADJ;ACC;DU;INAN
+jasny		ADJ;DAT;MASC;SG
+jasny		ADJ;ACC;MASC;SG;ANIM
+jasny	jasne	ADJ;NOM;NEUT;SG
+jasny	jasnej	ADJ;NOM;DU
+jasny		ADJ;INS;MASC;SG
+jasny		ADJ;ACC;NEUT;SG
+jasny		ADJ;ACC;MASC;SG;INAN
+jasny		ADJ;DAT;NEUT;SG
+jasny		ADJ;NOM;FEM;SG
+jasny		ADJ;DAT;DU
+jasny		ADJ;ESS;PL
+jasny		ADJ;ESS;FEM;SG
+rota		N;NOM;PL
+rota		N;GEN;PL
+rota		N;INS;PL
+rota		N;ESS;PL
+rota		N;ACC;PL
+rota		N;DAT;PL
+stadło		N;NOM;PL
+stadło		N;GEN;PL
+stadło		N;GEN;SG
+stadło	stadło	N;ACC;SG
+stadło		N;ACC;DU
+stadło		N;INS;PL
+stadło		N;ESS;PL
+stadło		N;ESS;SG
+stadło		N;DAT;DU
+stadło	stadło	N;NOM;SG
+stadło		N;ESS;DU
+stadło		N;INS;SG
+stadło		N;DAT;SG
+stadło		N;ACC;PL
+stadło		N;NOM;DU
+stadło		N;GEN;DU
+stadło		N;INS;DU
+stadło	stadłam	N;DAT;PL
+swětki		N;NOM;PL
+swětki		N;GEN;PL
+swětki		N;INS;PL
+swětki		N;ESS;PL
+swětki		N;ACC;PL
+swětki		N;DAT;PL
+śichy		ADJ;DAT;FEM;SG
+śichy		ADJ;ACC;PL;INAN
+śichy	śichyma	ADJ;INS;DU
+śichy		ADJ;ACC;FEM;SG
+śichy		ADJ;DAT;PL
+śichy		ADJ;GEN;MASC;SG
+śichy	śicheju	ADJ;ACC;DU;ANIM
+śichy		ADJ;GEN;PL
+śichy		ADJ;INS;FEM;SG
+śichy		ADJ;GEN;NEUT;SG
+śichy		ADJ;ESS;DU
+śichy		ADJ;INS;NEUT;SG
+śichy		ADJ;NOM;PL
+śichy		ADJ;NOM;MASC;SG
+śichy		ADJ;ESS;NEUT;SG
+śichy		ADJ;ACC;PL;ANIM
+śichy		ADJ;GEN;FEM;SG
+śichy	śicheju	ADJ;GEN;DU
+śichy		ADJ;INS;PL
+śichy		ADJ;ESS;MASC;SG
+śichy		ADJ;ACC;DU;INAN
+śichy		ADJ;DAT;MASC;SG
+śichy	śichego	ADJ;ACC;MASC;SG;ANIM
+śichy		ADJ;NOM;NEUT;SG
+śichy		ADJ;NOM;DU
+śichy		ADJ;INS;MASC;SG
+śichy		ADJ;ACC;NEUT;SG
+śichy	śichy	ADJ;ACC;MASC;SG;INAN
+śichy		ADJ;DAT;NEUT;SG
+śichy		ADJ;NOM;FEM;SG
+śichy		ADJ;DAT;DU
+śichy	śichych	ADJ;ESS;PL
+śichy		ADJ;ESS;FEM;SG
+gózdź	gózdźe	N;NOM;PL
+gózdź		N;GEN;PL
+gózdź		N;GEN;SG
+gózdź		N;INS;DU
+gózdź		N;INS;PL
+gózdź		N;ACC;DU
+gózdź		N;ESS;PL
+gózdź		N;ESS;SG
+gózdź		N;DAT;DU
+gózdź		N;NOM;SG
+gózdź		N;INS;SG
+gózdź		N;DAT;SG
+gózdź		N;ESS;DU
+gózdź	gózdźe	N;ACC;PL
+gózdź		N;NOM;DU
+gózdź		N;GEN;DU
+gózdź		N;ACC;SG
+gózdź	gózdźam	N;DAT;PL
+serce		N;NOM;PL
+serce		N;GEN;PL
+serce		N;GEN;SG
+serce	sercy	N;NOM;DU
+serce	sercy	N;ACC;DU
+serce	sercami	N;INS;PL
+serce		N;ESS;PL
+serce		N;ESS;SG
+serce		N;DAT;DU
+serce		N;NOM;SG
+serce		N;INS;SG
+serce		N;DAT;SG
+serce		N;ESS;DU
+serce		N;ACC;PL
+serce		N;ACC;SG
+serce		N;GEN;DU
+serce		N;INS;DU
+serce		N;DAT;PL
+wěc	wěcow	N;GEN;PL
+wěc		N;NOM;PL
+wěc		N;NOM;SG
+wěc		N;NOM;DU
+wěc		N;ACC;DU
+wěc		N;INS;PL
+wěc		N;ESS;PL
+wěc	wěcy	N;ESS;SG
+wěc		N;DAT;DU
+wěc		N;ESS;DU
+wěc	wěcu	N;INS;SG
+wěc		N;DAT;SG
+wěc		N;ACC;PL
+wěc		N;ACC;SG
+wěc		N;GEN;DU
+wěc		N;GEN;SG
+wěc		N;INS;DU
+wěc		N;DAT;PL
+měsćanaŕ		N;NOM;PL
+měsćanaŕ		N;ACC;PL
+měsćanaŕ		N;GEN;SG
+měsćanaŕ		N;GEN;PL
+měsćanaŕ	měsćanarjowu	N;ACC;DU
+měsćanaŕ		N;INS;PL
+měsćanaŕ		N;ESS;PL
+měsćanaŕ		N;ESS;SG
+měsćanaŕ		N;DAT;DU
+měsćanaŕ	měsćanaŕ	N;NOM;SG
+měsćanaŕ		N;ESS;DU
+měsćanaŕ		N;INS;SG
+měsćanaŕ		N;DAT;SG
+měsćanaŕ		N;ACC;SG
+měsćanaŕ		N;NOM;DU
+měsćanaŕ	měsćanarjowu	N;GEN;DU
+měsćanaŕ		N;INS;DU
+měsćanaŕ		N;DAT;PL
+kšyśe		N;NOM;PL
+kšyśe		N;GEN;PL
+kšyśe		N;GEN;SG
+kšyśe		N;NOM;DU
+kšyśe		N;ACC;DU
+kšyśe		N;INS;PL
+kšyśe	kšyśach	N;ESS;PL
+kšyśe		N;ESS;SG
+kšyśe	kšyśoma	N;DAT;DU
+kšyśe	kšyśe	N;NOM;SG
+kšyśe		N;INS;SG
+kšyśe		N;DAT;SG
+kšyśe		N;ESS;DU
+kšyśe		N;ACC;PL
+kšyśe		N;ACC;SG
+kšyśe		N;GEN;DU
+kšyśe		N;INS;DU
+kšyśe		N;DAT;PL
+srjoda		N;GEN;PL
+srjoda		N;ACC;PL
+srjoda	srjodoma	N;ESS;DU
+srjoda		N;NOM;DU
+srjoda		N;ACC;DU
+srjoda		N;INS;PL
+srjoda		N;ESS;PL
+srjoda		N;ESS;SG
+srjoda		N;DAT;DU
+srjoda		N;NOM;SG
+srjoda	srjodu	N;INS;SG
+srjoda		N;DAT;SG
+srjoda		N;ACC;SG
+srjoda	srjodowu	N;GEN;DU
+srjoda		N;NOM;PL
+srjoda		N;GEN;SG
+srjoda		N;INS;DU
+srjoda		N;DAT;PL
+wjasć		V;PRS;3;PL
+wjasć	wjeźech	V;PST;1;SG
+wjasć		V;IMP;2;SG
+wjasć		V;PST;2;DU
+wjasć		V;PST;3;PL
+wjasć	wjeźośo	V;PRS;2;PL
+wjasć		V;PRS;3;SG
+wjasć		V;PST;3;DU
+wjasć		V;PRS;1;SG
+wjasć		V;PRS;1;PL
+wjasć		V;PST;2;SG
+wjasć	wjeźechmej	V;PST;1;DU
+wjasć		V;PRS;3;DU
+wjasć		V;PST;2;PL
+wjasć		V;PST;1;PL
+wjasć		V;PRS;2;SG
+wjasć		V;PRS;2;DU
+wjasć		V;PRS;1;DU
+wjasć		V;IMP;2;PL
+wjasć		V;IMP;2;DU
+wjasć		V;PST;3;SG
+žyto		N;NOM;PL
+žyto		N;GEN;PL
+žyto		N;GEN;SG
+žyto		N;ACC;SG
+žyto		N;ACC;DU
+žyto		N;INS;PL
+žyto	žytach	N;ESS;PL
+žyto		N;ESS;SG
+žyto		N;DAT;DU
+žyto		N;NOM;SG
+žyto		N;ESS;DU
+žyto		N;INS;SG
+žyto		N;DAT;SG
+žyto		N;ACC;PL
+žyto		N;NOM;DU
+žyto		N;GEN;DU
+žyto	žytoma	N;INS;DU
+žyto	žytam	N;DAT;PL
+pšawy		ADJ;DAT;FEM;SG
+pšawy		ADJ;ACC;PL;INAN
+pšawy	pšawyma	ADJ;INS;DU
+pšawy	pšawu	ADJ;ACC;FEM;SG
+pšawy		ADJ;DAT;PL
+pšawy		ADJ;GEN;MASC;SG
+pšawy		ADJ;ACC;DU;ANIM
+pšawy		ADJ;GEN;PL
+pšawy		ADJ;INS;FEM;SG
+pšawy		ADJ;GEN;NEUT;SG
+pšawy	pšawyma	ADJ;ESS;DU
+pšawy	pšawym	ADJ;INS;NEUT;SG
+pšawy		ADJ;NOM;PL
+pšawy		ADJ;NOM;MASC;SG
+pšawy		ADJ;ESS;NEUT;SG
+pšawy		ADJ;ACC;PL;ANIM
+pšawy		ADJ;GEN;FEM;SG
+pšawy		ADJ;GEN;DU
+pšawy		ADJ;INS;PL
+pšawy		ADJ;ESS;MASC;SG
+pšawy		ADJ;ACC;DU;INAN
+pšawy		ADJ;DAT;MASC;SG
+pšawy		ADJ;ACC;MASC;SG;ANIM
+pšawy	pšawe	ADJ;NOM;NEUT;SG
+pšawy		ADJ;NOM;DU
+pšawy		ADJ;INS;MASC;SG
+pšawy		ADJ;ACC;NEUT;SG
+pšawy		ADJ;ACC;MASC;SG;INAN
+pšawy		ADJ;DAT;NEUT;SG
+pšawy		ADJ;NOM;FEM;SG
+pšawy		ADJ;DAT;DU
+pšawy		ADJ;ESS;PL
+pšawy	pšawej	ADJ;ESS;FEM;SG
+chart	chartow	N;GEN;PL
+chart		N;NOM;PL
+chart		N;GEN;SG
+chart		N;NOM;DU
+chart		N;INS;PL
+chart	chartach	N;ESS;PL
+chart		N;ESS;SG
+chart		N;DAT;DU
+chart		N;ACC;DU
+chart		N;NOM;SG
+chart		N;INS;SG
+chart		N;DAT;SG
+chart	chartoma	N;ESS;DU
+chart		N;ACC;PL
+chart		N;ACC;SG
+chart		N;GEN;DU
+chart		N;INS;DU
+chart		N;DAT;PL
+dejaś		V;PRS;3;PL
+dejaś		V;IMP;2;PL
+dejaś		V;PST;1;SG
+dejaś		V;IMP;2;SG
+dejaś		V;PST;2;DU
+dejaś		V;PST;3;PL
+dejaś		V;PRS;2;PL
+dejaś		V;PRS;3;SG
+dejaś		V;PST;3;DU
+dejaś	dejašćo	V;PST;2;PL
+dejaś		V;PRS;1;SG
+dejaś		V;PST;2;SG
+dejaś		V;PST;1;DU
+dejaś		V;PRS;3;DU
+dejaś		V;PST;1;PL
+dejaś	dejš	V;PRS;2;SG
+dejaś		V;PRS;2;DU
+dejaś		V;PRS;1;DU
+dejaś	dejmy	V;PRS;1;PL
+dejaś		V;IMP;2;DU
+dejaś		V;PST;3;SG
+awto		N;NOM;PL
+awto		N;GEN;PL
+awto		N;GEN;SG
+awto		N;ACC;SG
+awto		N;ACC;DU
+awto		N;INS;PL
+awto		N;ESS;PL
+awto	awśe	N;ESS;SG
+awto		N;DAT;DU
+awto		N;NOM;SG
+awto	awtoma	N;ESS;DU
+awto	awtom	N;INS;SG
+awto		N;DAT;SG
+awto		N;ACC;PL
+awto		N;NOM;DU
+awto		N;GEN;DU
+awto		N;INS;DU
+awto		N;DAT;PL
+wós		N;GEN;PL
+wós	wósy	N;NOM;PL
+wós		N;NOM;SG
+wós		N;NOM;DU
+wós		N;ACC;DU
+wós		N;INS;PL
+wós		N;ESS;PL
+wós		N;ESS;SG
+wós		N;DAT;DU
+wós		N;ESS;DU
+wós		N;INS;SG
+wós		N;DAT;SG
+wós	wósy	N;ACC;PL
+wós		N;ACC;SG
+wós		N;GEN;DU
+wós	wósy	N;GEN;SG
+wós		N;INS;DU
+wós		N;DAT;PL
+morjo		N;NOM;PL
+morjo	morjow	N;GEN;PL
+morjo		N;GEN;SG
+morjo		N;ACC;SG
+morjo		N;ACC;DU
+morjo	morjami	N;INS;PL
+morjo		N;ESS;PL
+morjo		N;ESS;SG
+morjo		N;DAT;DU
+morjo		N;NOM;SG
+morjo		N;ESS;DU
+morjo		N;INS;SG
+morjo		N;DAT;SG
+morjo		N;ACC;PL
+morjo		N;NOM;DU
+morjo	morjowu	N;GEN;DU
+morjo		N;INS;DU
+morjo		N;DAT;PL
+jašćeŕ		N;NOM;PL
+jašćeŕ		N;ACC;PL
+jašćeŕ		N;GEN;SG
+jašćeŕ		N;GEN;PL
+jašćeŕ		N;ACC;DU
+jašćeŕ		N;INS;PL
+jašćeŕ		N;ESS;PL
+jašćeŕ		N;ESS;SG
+jašćeŕ	jašćerjoma	N;DAT;DU
+jašćeŕ		N;NOM;SG
+jašćeŕ		N;ESS;DU
+jašćeŕ	jašćerjom	N;INS;SG
+jašćeŕ		N;DAT;SG
+jašćeŕ		N;ACC;SG
+jašćeŕ		N;NOM;DU
+jašćeŕ		N;GEN;DU
+jašćeŕ		N;INS;DU
+jašćeŕ	jašćerjam	N;DAT;PL
+prozniny		N;GEN;PL
+prozniny		N;NOM;PL
+prozniny		N;INS;PL
+prozniny		N;ESS;PL
+prozniny		N;ACC;PL
+prozniny		N;DAT;PL
+gnězdo	gnězda	N;NOM;PL
+gnězdo		N;GEN;PL
+gnězdo	gnězda	N;GEN;SG
+gnězdo		N;NOM;DU
+gnězdo		N;ACC;DU
+gnězdo	gnězdami	N;INS;PL
+gnězdo		N;ESS;PL
+gnězdo		N;ESS;SG
+gnězdo		N;DAT;DU
+gnězdo		N;NOM;SG
+gnězdo		N;ESS;DU
+gnězdo		N;INS;SG
+gnězdo		N;DAT;SG
+gnězdo		N;ACC;PL
+gnězdo		N;ACC;SG
+gnězdo		N;GEN;DU
+gnězdo		N;INS;DU
+gnězdo		N;DAT;PL
+wumrěś		V;PRS;3;PL
+wumrěś		V;IMP;2;PL
+wumrěś		V;PST;1;SG
+wumrěś		V;PRS;3;SG
+wumrěś		V;PST;3;PL
+wumrěś		V;PRS;2;PL
+wumrěś		V;PST;2;DU
+wumrěś		V;PST;3;DU
+wumrěś	wumrěju	V;PRS;1;SG
+wumrěś		V;PRS;1;PL
+wumrěś		V;PST;2;SG
+wumrěś		V;PST;1;DU
+wumrěś		V;PRS;3;DU
+wumrěś		V;PST;2;PL
+wumrěś		V;PST;1;PL
+wumrěś		V;PRS;2;SG
+wumrěś		V;IMP;2;SG
+wumrěś		V;PRS;1;DU
+wumrěś		V;PRS;2;DU
+wumrěś	wumrějtej	V;IMP;2;DU
+wumrěś	wumrě	V;PST;3;SG
+syłojik		N;NOM;PL
+syłojik	syłojiki	N;ACC;PL
+syłojik		N;GEN;SG
+syłojik	syłojikow	N;GEN;PL
+syłojik		N;ACC;DU
+syłojik		N;INS;PL
+syłojik		N;ESS;PL
+syłojik		N;ESS;SG
+syłojik		N;DAT;DU
+syłojik		N;NOM;SG
+syłojik		N;INS;SG
+syłojik		N;DAT;SG
+syłojik		N;ESS;DU
+syłojik		N;ACC;SG
+syłojik	syłojika	N;NOM;DU
+syłojik		N;GEN;DU
+syłojik		N;INS;DU
+syłojik		N;DAT;PL
+mydło		N;NOM;PL
+mydło		N;GEN;PL
+mydło		N;GEN;SG
+mydło		N;ACC;SG
+mydło		N;ACC;DU
+mydło		N;INS;PL
+mydło	mydłach	N;ESS;PL
+mydło		N;ESS;SG
+mydło	mydłoma	N;DAT;DU
+mydło	mydło	N;NOM;SG
+mydło		N;ESS;DU
+mydło		N;INS;SG
+mydło		N;DAT;SG
+mydło		N;ACC;PL
+mydło		N;NOM;DU
+mydło		N;GEN;DU
+mydło		N;INS;DU
+mydło		N;DAT;PL
+karwona	karwonow	N;GEN;PL
+karwona		N;ACC;PL
+karwona		N;NOM;SG
+karwona		N;INS;PL
+karwona	karwonje	N;ACC;DU
+karwona		N;ESS;PL
+karwona		N;ESS;SG
+karwona	karwonoma	N;DAT;DU
+karwona		N;ESS;DU
+karwona		N;INS;SG
+karwona		N;DAT;SG
+karwona		N;NOM;PL
+karwona		N;ACC;SG
+karwona		N;NOM;DU
+karwona		N;GEN;DU
+karwona		N;GEN;SG
+karwona		N;INS;DU
+karwona		N;DAT;PL
+wuknik		N;NOM;PL
+wuknik		N;ACC;PL
+wuknik	wuknika	N;GEN;SG
+wuknik		N;GEN;PL
+wuknik		N;ACC;DU
+wuknik		N;INS;PL
+wuknik		N;ESS;PL
+wuknik		N;ESS;SG
+wuknik		N;DAT;DU
+wuknik		N;NOM;SG
+wuknik		N;INS;SG
+wuknik		N;DAT;SG
+wuknik		N;ESS;DU
+wuknik		N;ACC;SG
+wuknik		N;NOM;DU
+wuknik	wuknikowu	N;GEN;DU
+wuknik		N;INS;DU
+wuknik	wuknikam	N;DAT;PL
+jězyk		N;NOM;PL
+jězyk		N;GEN;PL
+jězyk		N;GEN;SG
+jězyk		N;INS;DU
+jězyk		N;INS;PL
+jězyk		N;ACC;DU
+jězyk		N;ESS;PL
+jězyk	jězyku	N;ESS;SG
+jězyk		N;DAT;DU
+jězyk	jězyk	N;NOM;SG
+jězyk		N;INS;SG
+jězyk		N;DAT;SG
+jězyk		N;ESS;DU
+jězyk	jězyki	N;ACC;PL
+jězyk		N;NOM;DU
+jězyk		N;GEN;DU
+jězyk		N;ACC;SG
+jězyk		N;DAT;PL
+wobjedowaś		V;PRS;3;PL
+wobjedowaś		V;IMP;2;PL
+wobjedowaś		V;PST;1;SG
+wobjedowaś		V;PST;2;DU
+wobjedowaś		V;PST;3;PL
+wobjedowaś	wobjedujośo	V;PRS;2;PL
+wobjedowaś		V;PRS;3;SG
+wobjedowaś		V;PST;3;DU
+wobjedowaś		V;PST;2;PL
+wobjedowaś	wobjedujomy	V;PRS;1;PL
+wobjedowaś		V;PST;2;SG
+wobjedowaś		V;PST;1;DU
+wobjedowaś		V;PRS;3;DU
+wobjedowaś		V;PST;1;PL
+wobjedowaś		V;PRS;2;SG
+wobjedowaś		V;IMP;2;SG
+wobjedowaś		V;PRS;1;DU
+wobjedowaś		V;PRS;2;DU
+wobjedowaś	wobjeduju	V;PRS;1;SG
+wobjedowaś		V;IMP;2;DU
+wobjedowaś		V;PST;3;SG
+sol		N;NOM;PL
+sol		N;GEN;PL
+sol		N;GEN;SG
+sol		N;INS;DU
+sol		N;INS;PL
+sol		N;ACC;DU
+sol		N;ESS;PL
+sol	soli	N;ESS;SG
+sol		N;DAT;DU
+sol		N;NOM;SG
+sol		N;INS;SG
+sol		N;DAT;SG
+sol	soloma	N;ESS;DU
+sol		N;ACC;PL
+sol		N;NOM;DU
+sol		N;GEN;DU
+sol	sol	N;ACC;SG
+sol		N;DAT;PL
+kamjeń		N;NOM;PL
+kamjeń	kamjenjow	N;GEN;PL
+kamjeń		N;GEN;SG
+kamjeń		N;ACC;SG
+kamjeń		N;INS;PL
+kamjeń		N;ACC;DU
+kamjeń		N;ESS;PL
+kamjeń		N;ESS;SG
+kamjeń		N;DAT;DU
+kamjeń		N;NOM;SG
+kamjeń		N;ESS;DU
+kamjeń		N;INS;SG
+kamjeń		N;DAT;SG
+kamjeń		N;ACC;PL
+kamjeń	kamjenja	N;NOM;DU
+kamjeń	kamjenjowu	N;GEN;DU
+kamjeń		N;INS;DU
+kamjeń		N;DAT;PL
+góźina		N;GEN;PL
+góźina	góźiny	N;ACC;PL
+góźina		N;NOM;SG
+góźina		N;INS;PL
+góźina		N;ACC;DU
+góźina		N;ESS;PL
+góźina		N;ESS;SG
+góźina		N;DAT;DU
+góźina		N;ESS;DU
+góźina	góźinu	N;INS;SG
+góźina		N;DAT;SG
+góźina		N;NOM;PL
+góźina		N;ACC;SG
+góźina	góźinje	N;NOM;DU
+góźina		N;GEN;DU
+góźina		N;GEN;SG
+góźina		N;INS;DU
+góźina		N;DAT;PL
+stwórtk		N;NOM;PL
+stwórtk		N;GEN;PL
+stwórtk	stwórtka	N;GEN;SG
+stwórtk	stwórtkoma	N;INS;DU
+stwórtk		N;INS;PL
+stwórtk		N;ACC;DU
+stwórtk	stwórtkach	N;ESS;PL
+stwórtk		N;ESS;SG
+stwórtk		N;DAT;DU
+stwórtk		N;NOM;SG
+stwórtk		N;INS;SG
+stwórtk		N;DAT;SG
+stwórtk		N;ESS;DU
+stwórtk		N;ACC;PL
+stwórtk		N;NOM;DU
+stwórtk		N;GEN;DU
+stwórtk		N;ACC;SG
+stwórtk		N;DAT;PL
+źiśecy		ADJ;DAT;FEM;SG
+źiśecy	źiśece	ADJ;ACC;PL;INAN
+źiśecy	źiśecyma	ADJ;INS;DU
+źiśecy		ADJ;ACC;FEM;SG
+źiśecy		ADJ;DAT;PL
+źiśecy	źiśecego	ADJ;GEN;MASC;SG
+źiśecy		ADJ;ACC;DU;ANIM
+źiśecy		ADJ;GEN;PL
+źiśecy		ADJ;INS;FEM;SG
+źiśecy		ADJ;GEN;NEUT;SG
+źiśecy		ADJ;ESS;DU
+źiśecy		ADJ;INS;NEUT;SG
+źiśecy		ADJ;NOM;PL
+źiśecy		ADJ;NOM;MASC;SG
+źiśecy	źiśecem	ADJ;ESS;NEUT;SG
+źiśecy		ADJ;ACC;PL;ANIM
+źiśecy		ADJ;GEN;FEM;SG
+źiśecy		ADJ;GEN;DU
+źiśecy		ADJ;INS;PL
+źiśecy		ADJ;ESS;MASC;SG
+źiśecy	źiśecej	ADJ;ACC;DU;INAN
+źiśecy		ADJ;DAT;MASC;SG
+źiśecy		ADJ;ACC;MASC;SG;ANIM
+źiśecy	źiśece	ADJ;NOM;NEUT;SG
+źiśecy		ADJ;NOM;DU
+źiśecy		ADJ;INS;MASC;SG
+źiśecy		ADJ;ACC;NEUT;SG
+źiśecy		ADJ;ACC;MASC;SG;INAN
+źiśecy		ADJ;DAT;NEUT;SG
+źiśecy		ADJ;NOM;FEM;SG
+źiśecy		ADJ;DAT;DU
+źiśecy		ADJ;ESS;PL
+źiśecy		ADJ;ESS;FEM;SG
+lod	lodow	N;GEN;PL
+lod		N;ACC;PL
+lod		N;GEN;SG
+lod		N;INS;PL
+lod	loda	N;ACC;DU
+lod		N;ESS;PL
+lod		N;ESS;SG
+lod		N;DAT;DU
+lod		N;NOM;PL
+lod	lod	N;NOM;SG
+lod		N;INS;SG
+lod		N;DAT;SG
+lod		N;ESS;DU
+lod		N;ACC;SG
+lod		N;NOM;DU
+lod		N;GEN;DU
+lod		N;INS;DU
+lod		N;DAT;PL
+cepy		N;GEN;PL
+cepy		N;NOM;PL
+cepy		N;INS;PL
+cepy		N;ESS;PL
+cepy		N;ACC;PL
+cepy		N;DAT;PL
+žołty		ADJ;DAT;FEM;SG
+žołty		ADJ;ACC;PL;INAN
+žołty		ADJ;INS;DU
+žołty		ADJ;ACC;FEM;SG
+žołty	žołtym	ADJ;DAT;PL
+žołty		ADJ;GEN;MASC;SG
+žołty		ADJ;ACC;DU;ANIM
+žołty		ADJ;GEN;PL
+žołty		ADJ;INS;FEM;SG
+žołty		ADJ;GEN;NEUT;SG
+žołty		ADJ;ESS;DU
+žołty	žołtym	ADJ;INS;NEUT;SG
+žołty	žołte	ADJ;NOM;PL
+žołty		ADJ;NOM;MASC;SG
+žołty		ADJ;ESS;NEUT;SG
+žołty		ADJ;ACC;PL;ANIM
+žołty		ADJ;GEN;FEM;SG
+žołty		ADJ;GEN;DU
+žołty		ADJ;INS;PL
+žołty		ADJ;ESS;MASC;SG
+žołty	žołtej	ADJ;ACC;DU;INAN
+žołty		ADJ;DAT;MASC;SG
+žołty	žołtego	ADJ;ACC;MASC;SG;ANIM
+žołty		ADJ;NOM;NEUT;SG
+žołty		ADJ;NOM;DU
+žołty		ADJ;INS;MASC;SG
+žołty	žołte	ADJ;ACC;NEUT;SG
+žołty		ADJ;ACC;MASC;SG;INAN
+žołty		ADJ;DAT;NEUT;SG
+žołty		ADJ;NOM;FEM;SG
+žołty		ADJ;DAT;DU
+žołty		ADJ;ESS;PL
+žołty		ADJ;ESS;FEM;SG

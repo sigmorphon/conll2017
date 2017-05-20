@@ -1,0 +1,2440 @@
+parabolë		N;ACC;PL;NDEF
+parabolë		N;DAT;SG;DEF
+parabolë		N;NOM;SG;NDEF
+parabolë	parabolën	N;ACC;SG;DEF
+parabolë		N;NOM;SG;DEF
+parabolë		N;NOM;PL;NDEF
+parabolë		N;ACC;SG;NDEF
+parabolë		N;ACC;PL;DEF
+parabolë		N;NOM;PL;DEF
+parabolë		N;GEN;PL;NDEF
+parabolë		N;ABL;SG;NDEF
+parabolë		N;GEN;SG;DEF
+parabolë	parabolash	N;ABL;PL;NDEF
+parabolë		N;GEN;PL;DEF
+parabolë		N;DAT;SG;NDEF
+parabolë		N;DAT;PL;DEF
+parabolë		N;ABL;SG;DEF
+parabolë	parabole	N;GEN;SG;NDEF
+parabolë		N;DAT;PL;NDEF
+parabolë		N;ABL;PL;DEF
+rrepë		N;ACC;PL;NDEF
+rrepë	rrepës	N;DAT;SG;DEF
+rrepë		N;NOM;SG;NDEF
+rrepë		N;ACC;SG;DEF
+rrepë		N;NOM;SG;DEF
+rrepë		N;NOM;PL;NDEF
+rrepë		N;ACC;SG;NDEF
+rrepë		N;ACC;PL;DEF
+rrepë		N;NOM;PL;DEF
+rrepë		N;GEN;PL;NDEF
+rrepë	rrepe	N;ABL;SG;NDEF
+rrepë		N;GEN;SG;DEF
+rrepë		N;ABL;PL;NDEF
+rrepë		N;GEN;PL;DEF
+rrepë		N;DAT;SG;NDEF
+rrepë		N;DAT;PL;DEF
+rrepë		N;ABL;SG;DEF
+rrepë	rrepe	N;GEN;SG;NDEF
+rrepë		N;DAT;PL;NDEF
+rrepë		N;ABL;PL;DEF
+mjekërr		N;ACC;PL;NDEF
+mjekërr	mjekrrës	N;DAT;SG;DEF
+mjekërr	mjekrre	N;GEN;SG;NDEF
+mjekërr		N;ACC;SG;DEF
+mjekërr		N;NOM;SG;DEF
+mjekërr		N;NOM;PL;NDEF
+mjekërr		N;ACC;SG;NDEF
+mjekërr		N;ACC;PL;DEF
+mjekërr		N;NOM;PL;DEF
+mjekërr		N;GEN;PL;NDEF
+mjekërr		N;ABL;SG;NDEF
+mjekërr		N;GEN;SG;DEF
+mjekërr		N;ABL;PL;NDEF
+mjekërr		N;GEN;PL;DEF
+mjekërr		N;DAT;SG;NDEF
+mjekërr		N;DAT;PL;DEF
+mjekërr		N;ABL;SG;DEF
+mjekërr	mjekërr	N;NOM;SG;NDEF
+mjekërr		N;DAT;PL;NDEF
+mjekërr		N;ABL;PL;DEF
+bëhem		V;1;PL;IND;PRF;FUT
+bëhem		V;2;PL;IND;IPFV
+bëhem		V;2;PL;OPT;PRS
+bëhem		V;2;SG;ADM;PRF;PST
+bëhem		V;3;PL;OPT;PRS
+bëhem		V;3;SG;SBJV;PRF
+bëhem	ishin bërë	V;3;PL;IND;PRF;PST
+bëhem		V;2;PL;OPT;PRF
+bëhem		V;3;PL;SBJV;PST
+bëhem	të bëhet	V;3;SG;SBJV;PRS
+bëhem	bëheshim	V;1;PL;IND;IPFV
+bëhem	qofshin bërë	V;3;PL;OPT;PRF
+bëhem	do të bëhem	V;1;SG;IND;FUT
+bëhem		V;V.PTCP;PRS
+bëhem	të ishit bërë	V;2;PL;SBJV;PRF;PRF
+bëhem		V;1;SG;IND;IPFV
+bëhem	të ishin bërë	V;3;PL;SBJV;PRF;PST
+bëhem		V;1;PL;SBJV;PST
+bëhem		V;2;SG;IND;PRF;PST
+bëhem		V;3;SG;ADM;IPFV
+bëhem		V;V.PTCP
+bëhem		V;1;PL;OPT;PRF
+bëhem	qenkësha bërë	V;1;SG;ADM;PRF;PST
+bëhem		V;3;PL;COND;PRS
+bëhem		V;1;PL;COND;PRF
+bëhem		V;2;PL;SBJV;PRS
+bëhem		V;1;PL;OPT;PRS
+bëhem		V;2;PL;SBJV;PRF
+bëhem	do të ishin bërë	V;3;PL;COND;PRF
+bëhem		V;1;PL;SBJV;PRF
+bëhem		V;3;PL;IND;PST
+bëhem		V;V.PTCP;PST
+bëhem		V;1;PL;SBJV;PRS
+bëhem		V;2;SG;SBJV;PRS
+bëhem		V;3;SG;IND;FUT
+bëhem	u bëri	V;3;SG;IND;PST
+bëhem		V;3;SG;IND;IPFV
+bëhem		V;3;PL;IND;IPFV
+bëhem		V;2;PL;IND;PRF;FUT
+bëhem		V;1;SG;IND;PRF;FUT
+bëhem		V;1;PL;IND;FUT
+bëhem		V;1;SG;SBJV;PRS
+bëhem		V;1;PL;ADM;PRF;PST
+bëhem		V;2;SG;IMP
+bëhem		V;2;SG;IND;PST
+bëhem	të jem bërë	V;1;SG;SBJV;PRF
+bëhem		V;3;SG;ADM;PRF
+bëhem		V;3;SG;IND;PRS
+bëhem	bëhuni	V;2;PL;IMP
+bëhem		V;1;PL;ADM;PRF
+bëhem		V;2;SG;IND;FUT
+bëhem	je bërë	V;2;SG;IND;PRF
+bëhem		V;3;SG;IND;PRF
+bëhem		V;2;PL;IND;PST
+bëhem		V;3;SG;ADM;PRS
+bëhem	isha bërë	V;1;SG;IND;PRF;PST
+bëhem		V;3;SG;SBJV;PST
+bëhem	për t'u bërë	V;NFIN
+bëhem		V;2;SG;SBJV;PRF;PST
+bëhem		V;2;SG;OPT;PRS
+bëhem		V;3;PL;ADM;PRF
+bëhem		V;2;SG;OPT;PRF
+bëhem		V;3;PL;ADM;PRS
+bëhem	u bëkeni	V;2;PL;ADM;PRS
+bëhem		V;3;PL;IND;FUT
+bëhem		V;1;SG;COND;PRF
+bëhem		V;1;SG;OPT;PRF
+bëhem		V;1;SG;ADM;PRS
+bëhem		V;3;SG;OPT;PRS
+bëhem	u bëkëshit	V;2;PL;ADM;IPFV
+bëhem		V;1;SG;IND;PST
+bëhem	qoftë bërë	V;3;SG;OPT;PRF
+bëhem		V;1;SG;ADM;PRF
+bëhem		V;1;SG;SBJV;PST
+bëhem		V;3;SG;ADM;PRF;PST
+bëhem		V;1;SG;COND;PRS
+bëhem		V;1;SG;OPT;PRS
+bëhem		V;2;SG;COND;PRF
+bëhem		V;2;PL;IND;PRF
+bëhem		V;1;PL;ADM;PRS
+bëhem		V;2;SG;COND;PRS
+bëhem		V;2;PL;IND;FUT
+bëhem	u bëmë	V;1;PL;IND;PST
+bëhem		V;1;SG;IND;PRF
+bëhem		V;3;SG;COND;PRS
+bëhem		V;1;PL;IND;PRF;PST
+bëhem		V;2;PL;IND;PRS
+bëhem		V;1;SG;IND;PRS
+bëhem		V;3;SG;COND;PRF
+bëhem		V;2;PL;ADM;PRF
+bëhem		V;3;PL;ADM;PRF;PST
+bëhem		V;1;PL;IND;PRF
+bëhem	ishit bërë	V;2;PL;IND;PRF;PRF
+bëhem		V;1;PL;COND;PRS
+bëhem		V;2;SG;IND;PRS
+bëhem		V;1;PL;IND;PRS
+bëhem	të isha bërë	V;1;SG;SBJV;PRF;PST
+bëhem		V;2;PL;SBJV;PST
+bëhem		V;2;PL;COND;PRF
+bëhem		V;2;PL;COND;PRS
+bëhem		V;3;SG;IND;PRF;PST
+bëhem		V;2;SG;ADM;PRF
+bëhem		V;1;PL;ADM;IPFV
+bëhem		V;3;PL;IND;PRF
+bëhem		V;1;PL;SBJV;PRF;PST
+bëhem		V;3;PL;IND;PRF;FUT
+bëhem	bëhen	V;3;PL;IND;PRS
+bëhem		V;2;SG;ADM;PRS
+bëhem		V;2;SG;SBJV;PST
+bëhem		V;3;PL;ADM;IPFV
+bëhem		V;1;SG;ADM;IPFV
+bëhem		V;2;SG;SBJV;PRF
+bëhem		V;2;SG;IND;IPFV
+bëhem		V;2;SG;IND;PRF;FUT
+bëhem		V;3;SG;IND;PRF;FUT
+bëhem	qenkëshit bërë	V;2;PL;ADM;PRF;PRF
+bëhem		V;3;PL;SBJV;PRS
+bëhem		V;2;SG;ADM;IPFV
+bëhem		V;3;SG;SBJV;PRF;PST
+bëhem		V;3;PL;SBJV;PRF
+gjilpërë		N;ACC;PL;NDEF
+gjilpërë		N;DAT;SG;DEF
+gjilpërë	gjilpërë	N;NOM;SG;NDEF
+gjilpërë		N;ACC;SG;DEF
+gjilpërë		N;NOM;SG;DEF
+gjilpërë		N;NOM;PL;NDEF
+gjilpërë		N;ACC;SG;NDEF
+gjilpërë		N;ACC;PL;DEF
+gjilpërë		N;NOM;PL;DEF
+gjilpërë		N;GEN;PL;NDEF
+gjilpërë		N;ABL;SG;NDEF
+gjilpërë		N;GEN;SG;DEF
+gjilpërë		N;ABL;PL;NDEF
+gjilpërë		N;GEN;PL;DEF
+gjilpërë		N;DAT;SG;NDEF
+gjilpërë		N;DAT;PL;DEF
+gjilpërë	gjilpërës	N;ABL;SG;DEF
+gjilpërë		N;GEN;SG;NDEF
+gjilpërë	gjilpërave	N;DAT;PL;NDEF
+gjilpërë		N;ABL;PL;DEF
+keqkuptim		N;ACC;PL;NDEF
+keqkuptim		N;DAT;SG;DEF
+keqkuptim		N;NOM;SG;NDEF
+keqkuptim		N;ACC;SG;DEF
+keqkuptim		N;NOM;SG;DEF
+keqkuptim		N;NOM;PL;NDEF
+keqkuptim		N;ACC;SG;NDEF
+keqkuptim		N;ACC;PL;DEF
+keqkuptim	keqkuptimet	N;NOM;PL;DEF
+keqkuptim		N;GEN;PL;NDEF
+keqkuptim		N;ABL;SG;NDEF
+keqkuptim	keqkuptimit	N;GEN;SG;DEF
+keqkuptim		N;ABL;PL;NDEF
+keqkuptim		N;GEN;PL;DEF
+keqkuptim		N;DAT;SG;NDEF
+keqkuptim		N;DAT;PL;DEF
+keqkuptim	keqkuptimit	N;ABL;SG;DEF
+keqkuptim		N;GEN;SG;NDEF
+keqkuptim		N;DAT;PL;NDEF
+keqkuptim		N;ABL;PL;DEF
+votoj		V;1;PL;IND;PRF;FUT
+votoj	votonit	V;2;PL;IND;IPFV
+votoj		V;2;PL;OPT;PRS
+votoj	paskëshe votuar	V;2;SG;ADM;PRF;PST
+votoj	votofshin	V;3;PL;OPT;PRS
+votoj		V;3;SG;SBJV;PRF
+votoj		V;3;PL;IND;PRF;PST
+votoj		V;2;PL;OPT;PRF
+votoj		V;3;PL;SBJV;PST
+votoj		V;3;SG;SBJV;PRS
+votoj		V;1;PL;IND;IPFV
+votoj		V;3;PL;OPT;PRF
+votoj		V;1;SG;IND;FUT
+votoj	duke votuar	V;V.PTCP;PRS
+votoj		V;2;PL;SBJV;PRF;PRF
+votoj		V;1;SG;IND;IPFV
+votoj		V;2;SG;IMP
+votoj		V;1;PL;SBJV;PST
+votoj	pate votuar	V;2;SG;IND;PRF;PST
+votoj		V;3;SG;ADM;IPFV
+votoj		V;V.PTCP
+votoj	paçim votuar	V;1;PL;OPT;PRF
+votoj		V;1;SG;ADM;PRF;PST
+votoj		V;3;PL;COND;PRS
+votoj		V;1;PL;COND;PRF
+votoj		V;2;PL;SBJV;PRS
+votoj		V;1;PL;OPT;PRS
+votoj		V;2;PL;SBJV;PRF
+votoj		V;3;PL;COND;PRF
+votoj		V;1;PL;SBJV;PRF
+votoj		V;3;PL;IND;PST
+votoj	të kesh votuar	V;2;SG;SBJV;PRF
+votoj		V;1;PL;SBJV;PRS
+votoj		V;2;SG;SBJV;PRS
+votoj		V;3;SG;IND;FUT
+votoj		V;3;SG;IND;PST
+votoj		V;3;SG;IND;IPFV
+votoj		V;3;PL;IND;IPFV
+votoj		V;2;PL;IND;PRF;FUT
+votoj		V;1;SG;IND;PRF;FUT
+votoj		V;1;PL;IND;FUT
+votoj		V;1;SG;SBJV;PRS
+votoj		V;1;PL;ADM;PRF;PST
+votoj	të kishin votuar	V;3;PL;SBJV;PRF;PST
+votoj		V;2;SG;IND;PST
+votoj		V;1;SG;SBJV;PRF
+votoj	paska votuar	V;3;SG;ADM;PRF
+votoj		V;3;SG;IND;PRS
+votoj		V;2;PL;IMP
+votoj		V;1;PL;ADM;PRF
+votoj	do të votosh	V;2;SG;IND;FUT
+votoj		V;2;SG;IND;PRF
+votoj		V;3;SG;IND;PRF
+votoj		V;2;PL;IND;PST
+votoj	votuaka	V;3;SG;ADM;PRS
+votoj	pata votuar	V;1;SG;IND;PRF;PST
+votoj		V;3;SG;SBJV;PST
+votoj	për të votuar	V;NFIN
+votoj		V;2;SG;SBJV;PRF;PST
+votoj	votofsh	V;2;SG;OPT;PRS
+votoj		V;3;PL;ADM;PRF
+votoj		V;2;SG;OPT;PRF
+votoj		V;3;PL;ADM;PRS
+votoj	votuakeni	V;2;PL;ADM;PRS
+votoj		V;V.PTCP;PST
+votoj	do të votojnë	V;3;PL;IND;FUT
+votoj		V;1;SG;COND;PRF
+votoj		V;1;SG;OPT;PRF
+votoj	votuakam	V;1;SG;ADM;PRS
+votoj		V;3;SG;OPT;PRS
+votoj		V;2;PL;ADM;IPFV
+votoj		V;1;SG;IND;PST
+votoj		V;3;SG;OPT;PRF
+votoj		V;1;SG;ADM;PRF
+votoj		V;1;SG;SBJV;PST
+votoj		V;3;SG;ADM;PRF;PST
+votoj		V;1;SG;COND;PRS
+votoj	votofsha	V;1;SG;OPT;PRS
+votoj		V;2;SG;COND;PRF
+votoj		V;2;PL;IND;PRF
+votoj	votuakemi	V;1;PL;ADM;PRS
+votoj		V;2;SG;COND;PRS
+votoj		V;2;PL;IND;FUT
+votoj		V;1;PL;IND;PST
+votoj		V;1;SG;IND;PRF
+votoj		V;3;SG;COND;PRS
+votoj		V;1;PL;IND;PRF;PST
+votoj		V;2;PL;IND;PRS
+votoj		V;1;SG;IND;PRS
+votoj		V;3;SG;COND;PRF
+votoj	paskeni votuar	V;2;PL;ADM;PRF
+votoj		V;3;PL;ADM;PRF;PST
+votoj		V;1;PL;IND;PRF
+votoj		V;2;PL;IND;PRF;PRF
+votoj		V;1;PL;COND;PRS
+votoj		V;2;SG;IND;PRS
+votoj		V;1;PL;IND;PRS
+votoj		V;1;SG;SBJV;PRF;PST
+votoj		V;2;PL;SBJV;PST
+votoj		V;2;PL;COND;PRF
+votoj	do të votonit	V;2;PL;COND;PRS
+votoj		V;3;SG;IND;PRF;PST
+votoj		V;2;SG;ADM;PRF
+votoj		V;1;PL;ADM;IPFV
+votoj		V;3;PL;IND;PRF
+votoj		V;1;PL;SBJV;PRF;PST
+votoj	do të kenë votuar	V;3;PL;IND;PRF;FUT
+votoj		V;3;PL;IND;PRS
+votoj		V;2;SG;ADM;PRS
+votoj		V;2;SG;SBJV;PST
+votoj		V;3;PL;ADM;IPFV
+votoj		V;1;SG;ADM;IPFV
+votoj	votoje	V;2;SG;IND;IPFV
+votoj		V;2;SG;IND;PRF;FUT
+votoj		V;3;SG;IND;PRF;FUT
+votoj		V;2;PL;ADM;PRF;PRF
+votoj		V;3;PL;SBJV;PRS
+votoj		V;2;SG;ADM;IPFV
+votoj		V;3;SG;SBJV;PRF;PST
+votoj		V;3;PL;SBJV;PRF
+sqarim		N;ACC;PL;NDEF
+sqarim		N;DAT;SG;DEF
+sqarim		N;NOM;SG;NDEF
+sqarim		N;ACC;SG;DEF
+sqarim	sqarimi	N;NOM;SG;DEF
+sqarim		N;NOM;PL;NDEF
+sqarim		N;ACC;SG;NDEF
+sqarim		N;ACC;PL;DEF
+sqarim		N;NOM;PL;DEF
+sqarim		N;GEN;PL;NDEF
+sqarim		N;ABL;SG;NDEF
+sqarim		N;GEN;SG;DEF
+sqarim	sqarimesh	N;ABL;PL;NDEF
+sqarim		N;GEN;PL;DEF
+sqarim		N;DAT;SG;NDEF
+sqarim		N;DAT;PL;DEF
+sqarim		N;ABL;SG;DEF
+sqarim		N;GEN;SG;NDEF
+sqarim	sqarimeve	N;DAT;PL;NDEF
+sqarim		N;ABL;PL;DEF
+bjond		N;ACC;PL;NDEF
+bjond		N;DAT;SG;DEF
+bjond		N;NOM;SG;NDEF
+bjond	bjondin	N;ACC;SG;DEF
+bjond		N;NOM;SG;DEF
+bjond	bjondë	N;NOM;PL;NDEF
+bjond		N;ACC;SG;NDEF
+bjond		N;ACC;PL;DEF
+bjond		N;NOM;PL;DEF
+bjond		N;GEN;PL;NDEF
+bjond		N;ABL;SG;NDEF
+bjond		N;GEN;SG;DEF
+bjond		N;ABL;PL;NDEF
+bjond		N;GEN;PL;DEF
+bjond		N;DAT;SG;NDEF
+bjond		N;DAT;PL;DEF
+bjond		N;ABL;SG;DEF
+bjond		N;GEN;SG;NDEF
+bjond	bjondëve	N;DAT;PL;NDEF
+bjond		N;ABL;PL;DEF
+gjakmarrje		N;ACC;PL;NDEF
+gjakmarrje		N;DAT;SG;DEF
+gjakmarrje		N;NOM;SG;NDEF
+gjakmarrje		N;ACC;SG;DEF
+gjakmarrje		N;NOM;SG;DEF
+gjakmarrje		N;NOM;PL;NDEF
+gjakmarrje		N;ACC;SG;NDEF
+gjakmarrje	gjakmarrjet	N;ACC;PL;DEF
+gjakmarrje		N;NOM;PL;DEF
+gjakmarrje		N;GEN;PL;NDEF
+gjakmarrje		N;ABL;SG;NDEF
+gjakmarrje		N;GEN;SG;DEF
+gjakmarrje	gjakmarrjesh	N;ABL;PL;NDEF
+gjakmarrje		N;GEN;PL;DEF
+gjakmarrje		N;DAT;SG;NDEF
+gjakmarrje	gjakmarrjeve	N;DAT;PL;DEF
+gjakmarrje		N;ABL;SG;DEF
+gjakmarrje		N;GEN;SG;NDEF
+gjakmarrje		N;DAT;PL;NDEF
+gjakmarrje		N;ABL;PL;DEF
+lakim		N;ACC;PL;NDEF
+lakim		N;DAT;SG;DEF
+lakim		N;NOM;SG;NDEF
+lakim		N;ACC;SG;DEF
+lakim		N;NOM;SG;DEF
+lakim		N;NOM;PL;NDEF
+lakim		N;ACC;SG;NDEF
+lakim	lakimet	N;ACC;PL;DEF
+lakim		N;NOM;PL;DEF
+lakim		N;GEN;PL;NDEF
+lakim		N;ABL;SG;NDEF
+lakim		N;GEN;SG;DEF
+lakim		N;ABL;PL;NDEF
+lakim		N;GEN;PL;DEF
+lakim		N;DAT;SG;NDEF
+lakim	lakimeve	N;DAT;PL;DEF
+lakim		N;ABL;SG;DEF
+lakim	lakimi	N;GEN;SG;NDEF
+lakim		N;DAT;PL;NDEF
+lakim		N;ABL;PL;DEF
+dorashkë		N;ACC;PL;NDEF
+dorashkë		N;DAT;SG;DEF
+dorashkë		N;NOM;SG;NDEF
+dorashkë		N;ACC;SG;DEF
+dorashkë		N;NOM;SG;DEF
+dorashkë		N;NOM;PL;NDEF
+dorashkë		N;ACC;SG;NDEF
+dorashkë	dorashkat	N;ACC;PL;DEF
+dorashkë		N;NOM;PL;DEF
+dorashkë		N;GEN;PL;NDEF
+dorashkë		N;ABL;SG;NDEF
+dorashkë		N;GEN;SG;DEF
+dorashkë		N;ABL;PL;NDEF
+dorashkë	dorashkave	N;GEN;PL;DEF
+dorashkë		N;DAT;SG;NDEF
+dorashkë		N;DAT;PL;DEF
+dorashkë	dorashkës	N;ABL;SG;DEF
+dorashkë		N;GEN;SG;NDEF
+dorashkë		N;DAT;PL;NDEF
+dorashkë		N;ABL;PL;DEF
+pornografi		N;DAT;SG;DEF
+pornografi		N;NOM;SG;NDEF
+pornografi		N;ACC;SG;DEF
+pornografi		N;NOM;SG;DEF
+pornografi		N;ACC;SG;NDEF
+pornografi		N;ABL;SG;NDEF
+pornografi	pornografisë	N;GEN;SG;DEF
+pornografi		N;DAT;SG;NDEF
+pornografi		N;ABL;SG;DEF
+pornografi		N;GEN;SG;NDEF
+fiziologji		N;DAT;SG;DEF
+fiziologji	fiziologji	N;NOM;SG;NDEF
+fiziologji		N;ACC;SG;DEF
+fiziologji		N;NOM;SG;DEF
+fiziologji		N;ACC;SG;NDEF
+fiziologji		N;ABL;SG;NDEF
+fiziologji		N;GEN;SG;DEF
+fiziologji		N;DAT;SG;NDEF
+fiziologji		N;ABL;SG;DEF
+fiziologji		N;GEN;SG;NDEF
+shpjegoj	do të kemi shpjeguar	V;1;PL;IND;PRF;FUT
+shpjegoj		V;2;PL;IND;IPFV
+shpjegoj		V;2;PL;OPT;PRS
+shpjegoj		V;2;SG;ADM;PRF;PST
+shpjegoj		V;3;PL;OPT;PRS
+shpjegoj		V;3;SG;SBJV;PRF
+shpjegoj		V;3;PL;IND;PRF;PST
+shpjegoj		V;2;PL;OPT;PRF
+shpjegoj		V;3;PL;SBJV;PST
+shpjegoj		V;3;SG;SBJV;PRS
+shpjegoj		V;3;SG;COND;PRF
+shpjegoj		V;3;PL;OPT;PRF
+shpjegoj		V;1;SG;IND;FUT
+shpjegoj		V;V.PTCP;PRS
+shpjegoj		V;2;PL;SBJV;PRF;PRF
+shpjegoj	shpjegoja	V;1;SG;IND;IPFV
+shpjegoj		V;3;PL;SBJV;PRF;PST
+shpjegoj		V;1;PL;SBJV;PST
+shpjegoj	pate shpjeguar	V;2;SG;IND;PRF;PST
+shpjegoj		V;3;SG;ADM;IPFV
+shpjegoj		V;V.PTCP
+shpjegoj		V;1;PL;OPT;PRF
+shpjegoj		V;1;SG;ADM;PRF;PST
+shpjegoj		V;3;PL;COND;PRS
+shpjegoj		V;1;SG;ADM;IPFV
+shpjegoj		V;2;PL;SBJV;PRS
+shpjegoj		V;1;PL;OPT;PRS
+shpjegoj		V;2;PL;SBJV;PRF
+shpjegoj		V;3;PL;COND;PRF
+shpjegoj	të kemi shpjeguar	V;1;PL;SBJV;PRF
+shpjegoj	shpjeguan	V;3;PL;IND;PST
+shpjegoj	duke pasë shpjeguar	V;V.PTCP;PST
+shpjegoj		V;1;PL;SBJV;PRS
+shpjegoj		V;2;SG;SBJV;PRS
+shpjegoj		V;3;SG;IND;FUT
+shpjegoj		V;3;SG;IND;PST
+shpjegoj		V;3;SG;IND;IPFV
+shpjegoj		V;3;PL;IND;IPFV
+shpjegoj		V;2;PL;IND;PRF;FUT
+shpjegoj		V;1;SG;IND;PRF;FUT
+shpjegoj		V;1;PL;IND;FUT
+shpjegoj		V;1;SG;SBJV;PRS
+shpjegoj	paskëshim shpjeguar	V;1;PL;ADM;PRF;PST
+shpjegoj		V;2;SG;IMP
+shpjegoj		V;2;SG;IND;PST
+shpjegoj		V;1;SG;SBJV;PRF
+shpjegoj		V;3;SG;ADM;PRF
+shpjegoj	shpjegon	V;3;SG;IND;PRS
+shpjegoj		V;2;PL;IMP
+shpjegoj		V;1;PL;ADM;PRF
+shpjegoj		V;2;SG;IND;FUT
+shpjegoj		V;2;SG;IND;PRF
+shpjegoj		V;3;SG;IND;PRF
+shpjegoj		V;2;PL;IND;PST
+shpjegoj		V;3;SG;ADM;PRS
+shpjegoj	pata shpjeguar	V;1;SG;IND;PRF;PST
+shpjegoj	të shpjegonte	V;3;SG;SBJV;PST
+shpjegoj		V;NFIN
+shpjegoj		V;2;SG;SBJV;PRF;PST
+shpjegoj		V;2;SG;OPT;PRS
+shpjegoj		V;3;PL;ADM;PRF
+shpjegoj		V;2;SG;OPT;PRF
+shpjegoj		V;3;PL;ADM;PRS
+shpjegoj		V;2;PL;ADM;PRS
+shpjegoj		V;3;PL;IND;FUT
+shpjegoj		V;1;SG;COND;PRF
+shpjegoj		V;1;SG;OPT;PRF
+shpjegoj		V;1;SG;ADM;PRS
+shpjegoj		V;3;SG;OPT;PRS
+shpjegoj	shpjeguakëshit	V;2;PL;ADM;IPFV
+shpjegoj		V;1;SG;IND;PST
+shpjegoj		V;3;SG;OPT;PRF
+shpjegoj	paskam shpjeguar	V;1;SG;ADM;PRF
+shpjegoj	të shpjegoja	V;1;SG;SBJV;PST
+shpjegoj		V;3;SG;ADM;PRF;PST
+shpjegoj	do të shpjegoja	V;1;SG;COND;PRS
+shpjegoj		V;1;SG;OPT;PRS
+shpjegoj		V;2;SG;COND;PRF
+shpjegoj		V;2;PL;IND;PRF
+shpjegoj		V;1;PL;ADM;PRS
+shpjegoj		V;2;SG;COND;PRS
+shpjegoj	shpjegoni	V;2;PL;IND;PRS
+shpjegoj	shpjeguam	V;1;PL;IND;PST
+shpjegoj		V;1;SG;IND;PRF
+shpjegoj		V;3;SG;COND;PRS
+shpjegoj		V;1;PL;IND;PRF;PST
+shpjegoj		V;2;PL;IND;FUT
+shpjegoj		V;1;SG;IND;PRS
+shpjegoj	shpjegonim	V;1;PL;IND;IPFV
+shpjegoj		V;2;PL;ADM;PRF
+shpjegoj		V;3;PL;ADM;PRF;PST
+shpjegoj		V;1;PL;IND;PRF
+shpjegoj	patët shpjeguar	V;2;PL;IND;PRF;PRF
+shpjegoj	do të shpjegonim	V;1;PL;COND;PRS
+shpjegoj	shpjegon	V;2;SG;IND;PRS
+shpjegoj		V;1;PL;IND;PRS
+shpjegoj		V;1;SG;SBJV;PRF;PST
+shpjegoj		V;2;PL;SBJV;PST
+shpjegoj		V;2;PL;COND;PRF
+shpjegoj		V;2;PL;COND;PRS
+shpjegoj		V;3;SG;IND;PRF;PST
+shpjegoj		V;2;SG;ADM;PRF
+shpjegoj		V;1;PL;ADM;IPFV
+shpjegoj	kanë shpjeguar	V;3;PL;IND;PRF
+shpjegoj		V;1;PL;SBJV;PRF;PST
+shpjegoj		V;3;PL;IND;PRF;FUT
+shpjegoj		V;3;PL;IND;PRS
+shpjegoj		V;2;SG;ADM;PRS
+shpjegoj		V;2;SG;SBJV;PST
+shpjegoj	shpjeguakëshin	V;3;PL;ADM;IPFV
+shpjegoj		V;2;SG;SBJV;PRF
+shpjegoj		V;2;SG;IND;IPFV
+shpjegoj		V;2;SG;IND;PRF;FUT
+shpjegoj		V;3;SG;IND;PRF;FUT
+shpjegoj		V;2;PL;ADM;PRF;PRF
+shpjegoj		V;1;PL;COND;PRF
+shpjegoj	të shpjegojnë	V;3;PL;SBJV;PRS
+shpjegoj		V;2;SG;ADM;IPFV
+shpjegoj		V;3;SG;SBJV;PRF;PST
+shpjegoj		V;3;PL;SBJV;PRF
+tatuazh		N;ACC;PL;NDEF
+tatuazh		N;DAT;SG;DEF
+tatuazh		N;NOM;SG;NDEF
+tatuazh		N;ACC;SG;DEF
+tatuazh		N;NOM;SG;DEF
+tatuazh		N;NOM;PL;NDEF
+tatuazh	tatuazh	N;ACC;SG;NDEF
+tatuazh		N;ACC;PL;DEF
+tatuazh	tatuazhet	N;NOM;PL;DEF
+tatuazh		N;GEN;PL;NDEF
+tatuazh		N;ABL;SG;NDEF
+tatuazh		N;GEN;SG;DEF
+tatuazh	tatuazhesh	N;ABL;PL;NDEF
+tatuazh		N;GEN;PL;DEF
+tatuazh		N;DAT;SG;NDEF
+tatuazh		N;DAT;PL;DEF
+tatuazh		N;ABL;SG;DEF
+tatuazh		N;GEN;SG;NDEF
+tatuazh		N;DAT;PL;NDEF
+tatuazh		N;ABL;PL;DEF
+çukë		N;ACC;PL;NDEF
+çukë		N;DAT;SG;DEF
+çukë		N;NOM;SG;NDEF
+çukë		N;ACC;SG;DEF
+çukë	çuka	N;NOM;SG;DEF
+çukë	çuka	N;NOM;PL;NDEF
+çukë	çukë	N;ACC;SG;NDEF
+çukë		N;ACC;PL;DEF
+çukë		N;NOM;PL;DEF
+çukë		N;GEN;PL;NDEF
+çukë		N;ABL;SG;NDEF
+çukë		N;GEN;SG;DEF
+çukë		N;ABL;PL;NDEF
+çukë		N;GEN;PL;DEF
+çukë		N;DAT;SG;NDEF
+çukë		N;DAT;PL;DEF
+çukë		N;ABL;SG;DEF
+çukë		N;GEN;SG;NDEF
+çukë		N;DAT;PL;NDEF
+çukë		N;ABL;PL;DEF
+emën		N;ACC;PL;NDEF
+emën		N;DAT;SG;DEF
+emën		N;GEN;SG;NDEF
+emën		N;ACC;SG;DEF
+emën	emni	N;NOM;SG;DEF
+emën		N;NOM;PL;NDEF
+emën		N;ACC;SG;NDEF
+emën		N;ACC;PL;DEF
+emën		N;NOM;PL;DEF
+emën		N;GEN;PL;NDEF
+emën		N;ABL;SG;NDEF
+emën		N;GEN;SG;DEF
+emën	emnash	N;ABL;PL;NDEF
+emën		N;GEN;PL;DEF
+emën		N;DAT;SG;NDEF
+emën		N;DAT;PL;DEF
+emën		N;ABL;SG;DEF
+emën	emën	N;NOM;SG;NDEF
+emën		N;DAT;PL;NDEF
+emën		N;ABL;PL;DEF
+udhëtoj		V;1;PL;IND;PRF;FUT
+udhëtoj		V;2;PL;IND;IPFV
+udhëtoj		V;2;PL;OPT;PRS
+udhëtoj		V;2;SG;ADM;PRF;PST
+udhëtoj		V;3;PL;OPT;PRS
+udhëtoj	të ketë udhëtuar	V;3;SG;SBJV;PRF
+udhëtoj	patën udhëtuar	V;3;PL;IND;PRF;PST
+udhëtoj	paçit udhëtuar	V;2;PL;OPT;PRF
+udhëtoj		V;3;PL;SBJV;PST
+udhëtoj		V;3;SG;SBJV;PRS
+udhëtoj		V;1;PL;IND;IPFV
+udhëtoj		V;3;PL;OPT;PRF
+udhëtoj		V;1;SG;IND;FUT
+udhëtoj		V;V.PTCP;PRS
+udhëtoj		V;2;PL;SBJV;PRF;PRF
+udhëtoj		V;1;SG;IND;IPFV
+udhëtoj		V;2;SG;IMP
+udhëtoj		V;1;PL;SBJV;PST
+udhëtoj		V;2;SG;IND;PRF;PST
+udhëtoj		V;3;SG;ADM;IPFV
+udhëtoj	udhëtuar	V;V.PTCP
+udhëtoj	paçim udhëtuar	V;1;PL;OPT;PRF
+udhëtoj		V;1;SG;ADM;PRF;PST
+udhëtoj		V;3;PL;COND;PRS
+udhëtoj		V;1;PL;COND;PRF
+udhëtoj	të udhëtoni	V;2;PL;SBJV;PRS
+udhëtoj		V;1;PL;OPT;PRS
+udhëtoj		V;2;PL;SBJV;PRF
+udhëtoj		V;3;PL;COND;PRF
+udhëtoj		V;1;PL;SBJV;PRF
+udhëtoj	udhëtuan	V;3;PL;IND;PST
+udhëtoj	të kesh udhëtuar	V;2;SG;SBJV;PRF
+udhëtoj		V;1;PL;SBJV;PRS
+udhëtoj		V;2;SG;SBJV;PRS
+udhëtoj		V;3;SG;IND;FUT
+udhëtoj		V;3;SG;IND;PST
+udhëtoj		V;3;SG;IND;IPFV
+udhëtoj		V;3;PL;IND;IPFV
+udhëtoj		V;2;PL;IND;PRF;FUT
+udhëtoj	do të kem udhëtuar	V;1;SG;IND;PRF;FUT
+udhëtoj		V;1;PL;IND;FUT
+udhëtoj		V;1;SG;SBJV;PRS
+udhëtoj		V;1;PL;ADM;PRF;PST
+udhëtoj		V;3;PL;SBJV;PRF;PST
+udhëtoj		V;2;SG;IND;PST
+udhëtoj		V;1;SG;SBJV;PRF
+udhëtoj		V;3;SG;ADM;PRF
+udhëtoj		V;3;SG;IND;PRS
+udhëtoj		V;2;PL;IMP
+udhëtoj		V;1;PL;ADM;PRF
+udhëtoj	do të udhëtosh	V;2;SG;IND;FUT
+udhëtoj	ke udhëtuar	V;2;SG;IND;PRF
+udhëtoj		V;3;SG;IND;PRF
+udhëtoj		V;2;PL;IND;PST
+udhëtoj	udhëtuaka	V;3;SG;ADM;PRS
+udhëtoj		V;1;SG;IND;PRF;PST
+udhëtoj		V;3;SG;SBJV;PST
+udhëtoj		V;NFIN
+udhëtoj		V;2;SG;SBJV;PRF;PST
+udhëtoj	udhëtofsh	V;2;SG;OPT;PRS
+udhëtoj		V;3;PL;ADM;PRF
+udhëtoj	paç udhëtuar	V;2;SG;OPT;PRF
+udhëtoj	udhëtuakan	V;3;PL;ADM;PRS
+udhëtoj		V;2;PL;ADM;PRS
+udhëtoj		V;V.PTCP;PST
+udhëtoj	do të udhëtojnë	V;3;PL;IND;FUT
+udhëtoj		V;1;SG;COND;PRF
+udhëtoj		V;1;SG;OPT;PRF
+udhëtoj		V;1;SG;ADM;PRS
+udhëtoj		V;3;SG;OPT;PRS
+udhëtoj		V;2;PL;ADM;IPFV
+udhëtoj		V;1;SG;IND;PST
+udhëtoj	pastë udhëtuar	V;3;SG;OPT;PRF
+udhëtoj		V;1;SG;ADM;PRF
+udhëtoj	të udhëtoja	V;1;SG;SBJV;PST
+udhëtoj		V;3;SG;ADM;PRF;PST
+udhëtoj	do të udhëtoja	V;1;SG;COND;PRS
+udhëtoj		V;1;SG;OPT;PRS
+udhëtoj		V;2;SG;COND;PRF
+udhëtoj		V;2;PL;IND;PRF
+udhëtoj		V;1;PL;ADM;PRS
+udhëtoj		V;2;SG;COND;PRS
+udhëtoj		V;2;PL;IND;FUT
+udhëtoj		V;1;PL;IND;PST
+udhëtoj	kam udhëtuar	V;1;SG;IND;PRF
+udhëtoj		V;3;SG;COND;PRS
+udhëtoj		V;1;PL;IND;PRF;PST
+udhëtoj		V;2;PL;IND;PRS
+udhëtoj		V;1;SG;IND;PRS
+udhëtoj		V;3;SG;COND;PRF
+udhëtoj		V;2;PL;ADM;PRF
+udhëtoj		V;3;PL;ADM;PRF;PST
+udhëtoj		V;1;PL;IND;PRF
+udhëtoj		V;2;PL;IND;PRF;PRF
+udhëtoj	do të udhëtonim	V;1;PL;COND;PRS
+udhëtoj		V;2;SG;IND;PRS
+udhëtoj		V;1;PL;IND;PRS
+udhëtoj		V;1;SG;SBJV;PRF;PST
+udhëtoj		V;2;PL;SBJV;PST
+udhëtoj	do të kishit udhëtuar	V;2;PL;COND;PRF
+udhëtoj		V;2;PL;COND;PRS
+udhëtoj		V;3;SG;IND;PRF;PST
+udhëtoj		V;2;SG;ADM;PRF
+udhëtoj		V;1;PL;ADM;IPFV
+udhëtoj		V;3;PL;IND;PRF
+udhëtoj		V;1;PL;SBJV;PRF;PST
+udhëtoj		V;3;PL;IND;PRF;FUT
+udhëtoj		V;3;PL;IND;PRS
+udhëtoj	udhëtuake	V;2;SG;ADM;PRS
+udhëtoj		V;2;SG;SBJV;PST
+udhëtoj		V;3;PL;ADM;IPFV
+udhëtoj		V;1;SG;ADM;IPFV
+udhëtoj		V;2;SG;IND;IPFV
+udhëtoj		V;2;SG;IND;PRF;FUT
+udhëtoj		V;3;SG;IND;PRF;FUT
+udhëtoj		V;2;PL;ADM;PRF;PRF
+udhëtoj		V;3;PL;SBJV;PRS
+udhëtoj		V;2;SG;ADM;IPFV
+udhëtoj		V;3;SG;SBJV;PRF;PST
+udhëtoj		V;3;PL;SBJV;PRF
+themeloj		V;1;PL;IND;PRF;FUT
+themeloj	themelonit	V;2;PL;IND;IPFV
+themeloj	themelofshit	V;2;PL;OPT;PRS
+themeloj	paskëshe themeluar	V;2;SG;ADM;PRF;PST
+themeloj		V;3;PL;OPT;PRS
+themeloj		V;3;SG;SBJV;PRF
+themeloj		V;3;PL;IND;PRF;PST
+themeloj	paçit themeluar	V;2;PL;OPT;PRF
+themeloj		V;3;PL;SBJV;PST
+themeloj	të themelojë	V;3;SG;SBJV;PRS
+themeloj		V;1;PL;IND;IPFV
+themeloj		V;3;PL;OPT;PRF
+themeloj		V;1;SG;IND;FUT
+themeloj		V;V.PTCP;PRS
+themeloj	të kishit themeluar	V;2;PL;SBJV;PRF;PRF
+themeloj		V;1;SG;IND;IPFV
+themeloj		V;2;SG;IMP
+themeloj		V;1;PL;SBJV;PST
+themeloj		V;2;SG;IND;PRF;PST
+themeloj		V;3;SG;ADM;IPFV
+themeloj		V;V.PTCP
+themeloj	paçim themeluar	V;1;PL;OPT;PRF
+themeloj		V;1;SG;ADM;PRF;PST
+themeloj		V;3;PL;COND;PRS
+themeloj		V;1;PL;COND;PRF
+themeloj		V;2;PL;SBJV;PRS
+themeloj		V;1;PL;OPT;PRS
+themeloj		V;2;PL;SBJV;PRF
+themeloj		V;3;PL;COND;PRF
+themeloj		V;1;PL;SBJV;PRF
+themeloj		V;3;PL;IND;PST
+themeloj		V;2;SG;SBJV;PRF
+themeloj		V;1;PL;SBJV;PRS
+themeloj	të themelosh	V;2;SG;SBJV;PRS
+themeloj	do të themelojë	V;3;SG;IND;FUT
+themeloj		V;3;SG;IND;PST
+themeloj		V;3;SG;IND;IPFV
+themeloj		V;3;PL;IND;IPFV
+themeloj		V;2;PL;IND;PRF;FUT
+themeloj		V;1;SG;IND;PRF;FUT
+themeloj		V;1;PL;IND;FUT
+themeloj		V;1;SG;SBJV;PRS
+themeloj		V;1;PL;ADM;PRF;PST
+themeloj		V;3;PL;SBJV;PRF;PST
+themeloj		V;2;SG;IND;PST
+themeloj	të kem themeluar	V;1;SG;SBJV;PRF
+themeloj	paska themeluar	V;3;SG;ADM;PRF
+themeloj		V;3;SG;IND;PRS
+themeloj		V;2;PL;IMP
+themeloj	paskemi themeluar	V;1;PL;ADM;PRF
+themeloj		V;2;SG;IND;FUT
+themeloj		V;2;SG;IND;PRF
+themeloj		V;3;SG;IND;PRF
+themeloj		V;2;PL;IND;PST
+themeloj		V;3;SG;ADM;PRS
+themeloj		V;1;SG;IND;PRF;PST
+themeloj		V;3;SG;SBJV;PST
+themeloj	për të themeluar	V;NFIN
+themeloj		V;2;SG;SBJV;PRF;PST
+themeloj		V;2;SG;OPT;PRS
+themeloj		V;3;PL;ADM;PRF
+themeloj		V;2;SG;OPT;PRF
+themeloj		V;3;PL;ADM;PRS
+themeloj		V;2;PL;ADM;PRS
+themeloj		V;V.PTCP;PST
+themeloj		V;3;PL;IND;FUT
+themeloj		V;1;SG;COND;PRF
+themeloj	paça themeluar	V;1;SG;OPT;PRF
+themeloj		V;1;SG;ADM;PRS
+themeloj	themeloftë	V;3;SG;OPT;PRS
+themeloj		V;2;PL;ADM;IPFV
+themeloj		V;1;SG;IND;PST
+themeloj		V;3;SG;OPT;PRF
+themeloj		V;1;SG;ADM;PRF
+themeloj		V;1;SG;SBJV;PST
+themeloj		V;3;SG;ADM;PRF;PST
+themeloj		V;1;SG;COND;PRS
+themeloj		V;1;SG;OPT;PRS
+themeloj		V;2;SG;COND;PRF
+themeloj		V;2;PL;IND;PRF
+themeloj		V;1;PL;ADM;PRS
+themeloj		V;2;SG;COND;PRS
+themeloj	do të themeloni	V;2;PL;IND;FUT
+themeloj		V;1;PL;IND;PST
+themeloj		V;1;SG;IND;PRF
+themeloj		V;3;SG;COND;PRS
+themeloj		V;1;PL;IND;PRF;PST
+themeloj		V;2;PL;IND;PRS
+themeloj	themeloj	V;1;SG;IND;PRS
+themeloj	do të kishte themeluar	V;3;SG;COND;PRF
+themeloj		V;2;PL;ADM;PRF
+themeloj		V;3;PL;ADM;PRF;PST
+themeloj		V;1;PL;IND;PRF
+themeloj		V;2;PL;IND;PRF;PRF
+themeloj		V;1;PL;COND;PRS
+themeloj		V;2;SG;IND;PRS
+themeloj		V;1;PL;IND;PRS
+themeloj	të kisha themeluar	V;1;SG;SBJV;PRF;PST
+themeloj		V;2;PL;SBJV;PST
+themeloj		V;2;PL;COND;PRF
+themeloj		V;2;PL;COND;PRS
+themeloj		V;3;SG;IND;PRF;PST
+themeloj		V;2;SG;ADM;PRF
+themeloj		V;1;PL;ADM;IPFV
+themeloj	kanë themeluar	V;3;PL;IND;PRF
+themeloj		V;1;PL;SBJV;PRF;PST
+themeloj		V;3;PL;IND;PRF;FUT
+themeloj		V;3;PL;IND;PRS
+themeloj		V;2;SG;ADM;PRS
+themeloj		V;2;SG;SBJV;PST
+themeloj		V;3;PL;ADM;IPFV
+themeloj		V;1;SG;ADM;IPFV
+themeloj		V;2;SG;IND;IPFV
+themeloj	do të kesh themeluar	V;2;SG;IND;PRF;FUT
+themeloj		V;3;SG;IND;PRF;FUT
+themeloj		V;2;PL;ADM;PRF;PRF
+themeloj		V;3;PL;SBJV;PRS
+themeloj	themeluakëshe	V;2;SG;ADM;IPFV
+themeloj	të kishte themeluar	V;3;SG;SBJV;PRF;PST
+themeloj		V;3;PL;SBJV;PRF
+skllavëri		N;DAT;SG;DEF
+skllavëri		N;NOM;SG;NDEF
+skllavëri		N;ACC;SG;DEF
+skllavëri		N;NOM;SG;DEF
+skllavëri		N;ACC;SG;NDEF
+skllavëri		N;ABL;SG;NDEF
+skllavëri	skllavërisë	N;GEN;SG;DEF
+skllavëri		N;DAT;SG;NDEF
+skllavëri		N;ABL;SG;DEF
+skllavëri		N;GEN;SG;NDEF
+admiroj		V;1;PL;IND;PRF;FUT
+admiroj		V;2;PL;IND;IPFV
+admiroj		V;2;PL;OPT;PRS
+admiroj		V;2;SG;ADM;PRF;PST
+admiroj		V;3;PL;OPT;PRS
+admiroj		V;3;SG;SBJV;PRF
+admiroj		V;3;PL;IND;PRF;PST
+admiroj	paçit admiruar	V;2;PL;OPT;PRF
+admiroj		V;3;PL;SBJV;PST
+admiroj		V;3;SG;SBJV;PRS
+admiroj		V;1;PL;IND;IPFV
+admiroj		V;2;SG;IND;PST
+admiroj		V;1;SG;IND;FUT
+admiroj		V;V.PTCP;PRS
+admiroj		V;2;PL;SBJV;PRF;PRF
+admiroj		V;1;SG;IND;IPFV
+admiroj	të kishin admiruar	V;3;PL;SBJV;PRF;PST
+admiroj		V;1;PL;SBJV;PST
+admiroj		V;2;SG;IND;PRF;PST
+admiroj		V;3;SG;ADM;IPFV
+admiroj		V;V.PTCP
+admiroj		V;1;PL;OPT;PRF
+admiroj		V;1;SG;ADM;PRF;PST
+admiroj		V;3;PL;COND;PRS
+admiroj		V;1;SG;ADM;IPFV
+admiroj		V;2;PL;SBJV;PRS
+admiroj	admirofshim	V;1;PL;OPT;PRS
+admiroj		V;2;PL;SBJV;PRF
+admiroj		V;3;PL;COND;PRF
+admiroj		V;1;PL;SBJV;PRF
+admiroj		V;3;PL;IND;PST
+admiroj		V;V.PTCP;PST
+admiroj		V;1;PL;SBJV;PRS
+admiroj		V;2;SG;SBJV;PRS
+admiroj		V;3;SG;IND;FUT
+admiroj		V;3;SG;IND;PST
+admiroj	admironte	V;3;SG;IND;IPFV
+admiroj	admironin	V;3;PL;IND;IPFV
+admiroj		V;2;PL;IND;PRF;FUT
+admiroj		V;1;SG;IND;PRF;FUT
+admiroj	do të admirojmë	V;1;PL;IND;FUT
+admiroj		V;1;SG;SBJV;PRS
+admiroj		V;1;PL;ADM;PRF;PST
+admiroj		V;2;SG;IMP
+admiroj	paçin admiruar	V;3;PL;OPT;PRF
+admiroj		V;1;SG;SBJV;PRF
+admiroj		V;3;SG;ADM;PRF
+admiroj		V;3;SG;IND;PRS
+admiroj	admironi	V;2;PL;IMP
+admiroj		V;1;PL;ADM;PRF
+admiroj		V;2;SG;IND;FUT
+admiroj		V;2;SG;IND;PRF
+admiroj		V;3;SG;IND;PRF
+admiroj		V;3;SG;ADM;PRS
+admiroj		V;2;SG;IND;PRS
+admiroj		V;3;SG;SBJV;PST
+admiroj	admiruakemi	V;1;PL;ADM;PRS
+admiroj		V;2;SG;SBJV;PRF;PST
+admiroj		V;2;SG;OPT;PRS
+admiroj	paskan admiruar	V;3;PL;ADM;PRF
+admiroj		V;2;SG;OPT;PRF
+admiroj		V;3;PL;ADM;PRS
+admiroj		V;2;PL;ADM;PRS
+admiroj		V;3;PL;IND;FUT
+admiroj		V;1;SG;COND;PRF
+admiroj		V;1;SG;OPT;PRF
+admiroj	admiruakam	V;1;SG;ADM;PRS
+admiroj		V;3;SG;OPT;PRS
+admiroj	admiruakëshit	V;2;PL;ADM;IPFV
+admiroj		V;1;SG;IND;PST
+admiroj		V;3;SG;OPT;PRF
+admiroj		V;1;SG;ADM;PRF
+admiroj	të admiroja	V;1;SG;SBJV;PST
+admiroj		V;3;SG;ADM;PRF;PST
+admiroj		V;1;SG;COND;PRS
+admiroj		V;1;SG;OPT;PRS
+admiroj	do të kishe admiruar	V;2;SG;COND;PRF
+admiroj		V;2;PL;IND;PRF
+admiroj		V;NFIN
+admiroj		V;2;SG;COND;PRS
+admiroj		V;2;PL;IND;PRS
+admiroj		V;1;PL;IND;PST
+admiroj		V;1;SG;IND;PRF
+admiroj		V;1;SG;IND;PRF;PST
+admiroj	do të admironte	V;3;SG;COND;PRS
+admiroj		V;1;PL;IND;PRF;PST
+admiroj		V;2;PL;IND;FUT
+admiroj		V;1;SG;IND;PRS
+admiroj		V;3;SG;COND;PRF
+admiroj	paskeni admiruar	V;2;PL;ADM;PRF
+admiroj		V;3;PL;ADM;PRF;PST
+admiroj		V;1;PL;IND;PRF
+admiroj		V;2;PL;IND;PRF;PRF
+admiroj		V;1;PL;COND;PRS
+admiroj	admiruat	V;2;PL;IND;PST
+admiroj		V;1;PL;IND;PRS
+admiroj	të kisha admiruar	V;1;SG;SBJV;PRF;PST
+admiroj		V;2;PL;SBJV;PST
+admiroj		V;2;PL;COND;PRF
+admiroj	pati admiruar	V;3;SG;IND;PRF;PST
+admiroj		V;2;PL;COND;PRS
+admiroj	paske admiruar	V;2;SG;ADM;PRF
+admiroj		V;1;PL;ADM;IPFV
+admiroj		V;3;PL;IND;PRF
+admiroj		V;1;PL;SBJV;PRF;PST
+admiroj		V;3;PL;IND;PRF;FUT
+admiroj		V;3;PL;IND;PRS
+admiroj		V;2;SG;ADM;PRS
+admiroj		V;2;SG;SBJV;PST
+admiroj		V;3;PL;ADM;IPFV
+admiroj		V;2;SG;SBJV;PRF
+admiroj		V;2;SG;IND;IPFV
+admiroj		V;2;SG;IND;PRF;FUT
+admiroj	do të ketë admiruar	V;3;SG;IND;PRF;FUT
+admiroj		V;2;PL;ADM;PRF;PRF
+admiroj	do të kishim admiruar	V;1;PL;COND;PRF
+admiroj		V;3;PL;SBJV;PRS
+admiroj	admiruakëshe	V;2;SG;ADM;IPFV
+admiroj		V;3;SG;SBJV;PRF;PST
+admiroj		V;3;PL;SBJV;PRF
+gaboj		V;1;PL;IND;PRF;FUT
+gaboj		V;2;PL;IND;IPFV
+gaboj		V;2;PL;OPT;PRS
+gaboj	paskëshe gabuar	V;2;SG;ADM;PRF;PST
+gaboj	gabofshin	V;3;PL;OPT;PRS
+gaboj		V;3;SG;SBJV;PRF
+gaboj		V;3;PL;IND;PRF;PST
+gaboj	paçit gabuar	V;2;PL;OPT;PRF
+gaboj	të gabonin	V;3;PL;SBJV;PST
+gaboj		V;3;SG;SBJV;PRS
+gaboj	do të kishte gabuar	V;3;SG;COND;PRF
+gaboj		V;2;SG;IND;PST
+gaboj		V;1;SG;IND;FUT
+gaboj		V;V.PTCP;PRS
+gaboj		V;2;PL;SBJV;PRF;PRF
+gaboj		V;1;SG;IND;IPFV
+gaboj	të kishin gabuar	V;3;PL;SBJV;PRF;PST
+gaboj		V;1;PL;SBJV;PST
+gaboj		V;2;SG;IND;PRF;PST
+gaboj		V;3;SG;ADM;IPFV
+gaboj		V;V.PTCP
+gaboj		V;1;PL;OPT;PRF
+gaboj		V;1;SG;ADM;PRF;PST
+gaboj		V;3;PL;COND;PRS
+gaboj		V;1;SG;ADM;IPFV
+gaboj		V;2;PL;SBJV;PRS
+gaboj		V;1;PL;OPT;PRS
+gaboj	të keni gabuar	V;2;PL;SBJV;PRF
+gaboj		V;3;PL;COND;PRF
+gaboj		V;1;PL;COND;PRS
+gaboj		V;1;PL;SBJV;PRF
+gaboj		V;3;PL;IND;PST
+gaboj		V;V.PTCP;PST
+gaboj		V;1;PL;SBJV;PRS
+gaboj		V;2;SG;SBJV;PRS
+gaboj		V;3;SG;IND;FUT
+gaboj		V;3;SG;IND;PST
+gaboj		V;3;SG;IND;IPFV
+gaboj		V;3;PL;IND;IPFV
+gaboj		V;2;PL;IND;PRF;FUT
+gaboj	do të kem gabuar	V;1;SG;IND;PRF;FUT
+gaboj		V;1;PL;IND;FUT
+gaboj	të gaboj	V;1;SG;SBJV;PRS
+gaboj	paskëshim gabuar	V;1;PL;ADM;PRF;PST
+gaboj	gabo	V;2;SG;IMP
+gaboj		V;3;PL;OPT;PRF
+gaboj		V;1;SG;SBJV;PRF
+gaboj		V;3;SG;ADM;PRF
+gaboj		V;3;SG;IND;PRS
+gaboj		V;2;PL;IMP
+gaboj		V;1;PL;ADM;PRF
+gaboj	do të gabosh	V;2;SG;IND;FUT
+gaboj		V;2;SG;IND;PRF
+gaboj		V;3;SG;IND;PRF
+gaboj		V;3;SG;ADM;PRS
+gaboj		V;2;SG;IND;PRS
+gaboj		V;3;SG;SBJV;PST
+gaboj		V;1;PL;ADM;PRS
+gaboj		V;2;SG;SBJV;PRF;PST
+gaboj		V;2;SG;OPT;PRS
+gaboj		V;3;PL;ADM;PRF
+gaboj	paç gabuar	V;2;SG;OPT;PRF
+gaboj		V;3;PL;ADM;PRS
+gaboj		V;3;PL;IND;FUT
+gaboj		V;1;SG;COND;PRF
+gaboj	paça gabuar	V;1;SG;OPT;PRF
+gaboj		V;1;SG;ADM;PRS
+gaboj	gaboftë	V;3;SG;OPT;PRS
+gaboj		V;2;PL;ADM;IPFV
+gaboj		V;1;SG;IND;PST
+gaboj		V;3;SG;OPT;PRF
+gaboj		V;1;SG;ADM;PRF
+gaboj		V;1;SG;SBJV;PST
+gaboj		V;3;SG;ADM;PRF;PST
+gaboj		V;1;SG;COND;PRS
+gaboj		V;1;SG;OPT;PRS
+gaboj		V;2;SG;COND;PRF
+gaboj		V;2;PL;IND;PRF
+gaboj		V;NFIN
+gaboj		V;2;SG;COND;PRS
+gaboj		V;2;PL;IND;FUT
+gaboj	gabuam	V;1;PL;IND;PST
+gaboj		V;1;SG;IND;PRF
+gaboj		V;1;SG;IND;PRF;PST
+gaboj		V;3;SG;COND;PRS
+gaboj		V;1;PL;IND;PRF;PST
+gaboj		V;2;PL;IND;PRS
+gaboj		V;1;SG;IND;PRS
+gaboj		V;1;PL;IND;IPFV
+gaboj	paskeni gabuar	V;2;PL;ADM;PRF
+gaboj		V;3;PL;ADM;PRF;PST
+gaboj		V;1;PL;IND;PRF
+gaboj		V;2;PL;IND;PRF;PRF
+gaboj		V;2;PL;ADM;PRS
+gaboj	gabuat	V;2;PL;IND;PST
+gaboj		V;1;PL;IND;PRS
+gaboj		V;1;SG;SBJV;PRF;PST
+gaboj	të gabonit	V;2;PL;SBJV;PST
+gaboj		V;2;PL;COND;PRF
+gaboj	pati gabuar	V;3;SG;IND;PRF;PST
+gaboj		V;2;PL;COND;PRS
+gaboj		V;2;SG;ADM;PRF
+gaboj		V;1;PL;ADM;IPFV
+gaboj		V;3;PL;IND;PRF
+gaboj	të kishim gabuar	V;1;PL;SBJV;PRF;PST
+gaboj		V;3;PL;IND;PRF;FUT
+gaboj		V;3;PL;IND;PRS
+gaboj		V;2;SG;ADM;PRS
+gaboj		V;2;SG;SBJV;PST
+gaboj		V;3;PL;ADM;IPFV
+gaboj		V;2;SG;SBJV;PRF
+gaboj	gaboje	V;2;SG;IND;IPFV
+gaboj	do të kesh gabuar	V;2;SG;IND;PRF;FUT
+gaboj		V;3;SG;IND;PRF;FUT
+gaboj		V;2;PL;ADM;PRF;PRF
+gaboj		V;1;PL;COND;PRF
+gaboj		V;3;PL;SBJV;PRS
+gaboj		V;2;SG;ADM;IPFV
+gaboj		V;3;SG;SBJV;PRF;PST
+gaboj		V;3;PL;SBJV;PRF
+përgjithësim		N;ACC;PL;NDEF
+përgjithësim		N;DAT;SG;DEF
+përgjithësim		N;NOM;SG;NDEF
+përgjithësim		N;ACC;SG;DEF
+përgjithësim		N;NOM;SG;DEF
+përgjithësim		N;NOM;PL;NDEF
+përgjithësim		N;ACC;SG;NDEF
+përgjithësim		N;ACC;PL;DEF
+përgjithësim	përgjithësimet	N;NOM;PL;DEF
+përgjithësim		N;GEN;PL;NDEF
+përgjithësim		N;ABL;SG;NDEF
+përgjithësim		N;GEN;SG;DEF
+përgjithësim		N;ABL;PL;NDEF
+përgjithësim		N;GEN;PL;DEF
+përgjithësim	përgjithësimi	N;DAT;SG;NDEF
+përgjithësim		N;DAT;PL;DEF
+përgjithësim		N;ABL;SG;DEF
+përgjithësim		N;GEN;SG;NDEF
+përgjithësim	përgjithësimeve	N;DAT;PL;NDEF
+përgjithësim		N;ABL;PL;DEF
+enigmë		N;ACC;PL;NDEF
+enigmë		N;DAT;SG;DEF
+enigmë		N;NOM;SG;NDEF
+enigmë		N;ACC;SG;DEF
+enigmë		N;NOM;SG;DEF
+enigmë		N;NOM;PL;NDEF
+enigmë	enigmë	N;ACC;SG;NDEF
+enigmë		N;ACC;PL;DEF
+enigmë		N;NOM;PL;DEF
+enigmë		N;GEN;PL;NDEF
+enigmë		N;ABL;SG;NDEF
+enigmë		N;GEN;SG;DEF
+enigmë		N;ABL;PL;NDEF
+enigmë		N;GEN;PL;DEF
+enigmë		N;DAT;SG;NDEF
+enigmë		N;DAT;PL;DEF
+enigmë		N;ABL;SG;DEF
+enigmë	enigme	N;GEN;SG;NDEF
+enigmë	enigmave	N;DAT;PL;NDEF
+enigmë		N;ABL;PL;DEF
+lexim		N;ACC;PL;NDEF
+lexim		N;DAT;SG;DEF
+lexim		N;NOM;SG;NDEF
+lexim		N;ACC;SG;DEF
+lexim		N;NOM;SG;DEF
+lexim		N;NOM;PL;NDEF
+lexim	lexim	N;ACC;SG;NDEF
+lexim		N;ACC;PL;DEF
+lexim	leximet	N;NOM;PL;DEF
+lexim		N;GEN;PL;NDEF
+lexim		N;ABL;SG;NDEF
+lexim		N;GEN;SG;DEF
+lexim		N;ABL;PL;NDEF
+lexim		N;GEN;PL;DEF
+lexim		N;DAT;SG;NDEF
+lexim		N;DAT;PL;DEF
+lexim	leximit	N;ABL;SG;DEF
+lexim		N;GEN;SG;NDEF
+lexim		N;DAT;PL;NDEF
+lexim		N;ABL;PL;DEF
+pranoj		V;1;PL;IND;PRF;FUT
+pranoj	pranonit	V;2;PL;IND;IPFV
+pranoj		V;2;PL;OPT;PRS
+pranoj		V;2;SG;ADM;PRF;PST
+pranoj		V;3;PL;OPT;PRS
+pranoj		V;3;SG;SBJV;PRF
+pranoj		V;3;PL;IND;PRF;PST
+pranoj		V;2;PL;OPT;PRF
+pranoj		V;3;PL;SBJV;PST
+pranoj		V;3;SG;SBJV;PRS
+pranoj		V;3;SG;COND;PRF
+pranoj		V;3;PL;OPT;PRF
+pranoj		V;1;SG;IND;FUT
+pranoj		V;V.PTCP;PRS
+pranoj	të kishit pranuar	V;2;PL;SBJV;PRF;PRF
+pranoj	pranoja	V;1;SG;IND;IPFV
+pranoj		V;3;PL;SBJV;PRF;PST
+pranoj		V;1;PL;SBJV;PST
+pranoj		V;2;SG;IND;PRF;PST
+pranoj		V;3;SG;ADM;IPFV
+pranoj	pranuar	V;V.PTCP
+pranoj		V;1;PL;OPT;PRF
+pranoj		V;1;SG;ADM;PRF;PST
+pranoj	do të pranonin	V;3;PL;COND;PRS
+pranoj		V;1;SG;ADM;IPFV
+pranoj		V;2;PL;SBJV;PRS
+pranoj		V;1;PL;OPT;PRS
+pranoj		V;2;PL;SBJV;PRF
+pranoj		V;3;PL;COND;PRF
+pranoj		V;1;PL;SBJV;PRF
+pranoj	pranuan	V;3;PL;IND;PST
+pranoj		V;V.PTCP;PST
+pranoj	të pranojmë	V;1;PL;SBJV;PRS
+pranoj		V;2;SG;SBJV;PRS
+pranoj		V;3;SG;IND;FUT
+pranoj		V;3;SG;IND;PST
+pranoj	pranonte	V;3;SG;IND;IPFV
+pranoj		V;3;PL;IND;IPFV
+pranoj		V;2;PL;IND;PRF;FUT
+pranoj		V;1;SG;IND;PRF;FUT
+pranoj		V;1;PL;IND;FUT
+pranoj		V;1;SG;SBJV;PRS
+pranoj		V;1;PL;ADM;PRF;PST
+pranoj	prano	V;2;SG;IMP
+pranoj		V;2;SG;IND;PST
+pranoj		V;1;SG;SBJV;PRF
+pranoj	paska pranuar	V;3;SG;ADM;PRF
+pranoj		V;3;SG;IND;PRS
+pranoj		V;2;PL;IMP
+pranoj		V;1;PL;ADM;PRF
+pranoj		V;2;SG;IND;FUT
+pranoj		V;2;SG;IND;PRF
+pranoj		V;3;SG;IND;PRF
+pranoj		V;2;PL;IND;PST
+pranoj		V;3;SG;ADM;PRS
+pranoj		V;1;SG;IND;PRF;PST
+pranoj		V;3;SG;SBJV;PST
+pranoj	për të pranuar	V;NFIN
+pranoj		V;2;SG;SBJV;PRF;PST
+pranoj		V;2;SG;OPT;PRS
+pranoj		V;3;PL;ADM;PRF
+pranoj	paç pranuar	V;2;SG;OPT;PRF
+pranoj		V;3;PL;ADM;PRS
+pranoj		V;2;PL;ADM;PRS
+pranoj		V;3;PL;IND;FUT
+pranoj		V;1;SG;COND;PRF
+pranoj		V;1;SG;OPT;PRF
+pranoj		V;1;SG;ADM;PRS
+pranoj	pranoftë	V;3;SG;OPT;PRS
+pranoj		V;2;PL;ADM;IPFV
+pranoj		V;1;SG;IND;PST
+pranoj		V;3;SG;OPT;PRF
+pranoj		V;1;SG;ADM;PRF
+pranoj	të pranoja	V;1;SG;SBJV;PST
+pranoj		V;3;SG;ADM;PRF;PST
+pranoj	do të pranoja	V;1;SG;COND;PRS
+pranoj		V;1;SG;OPT;PRS
+pranoj		V;2;SG;COND;PRF
+pranoj	keni pranuar	V;2;PL;IND;PRF
+pranoj		V;1;PL;ADM;PRS
+pranoj		V;2;SG;COND;PRS
+pranoj		V;2;PL;IND;PRS
+pranoj		V;1;PL;IND;PST
+pranoj		V;1;SG;IND;PRF
+pranoj		V;3;SG;COND;PRS
+pranoj		V;1;PL;IND;PRF;PST
+pranoj		V;2;PL;IND;FUT
+pranoj		V;1;SG;IND;PRS
+pranoj		V;1;PL;IND;IPFV
+pranoj		V;2;PL;ADM;PRF
+pranoj	paskëshin pranuar	V;3;PL;ADM;PRF;PST
+pranoj	kemi pranuar	V;1;PL;IND;PRF
+pranoj		V;2;PL;IND;PRF;PRF
+pranoj	do të pranonim	V;1;PL;COND;PRS
+pranoj	pranon	V;2;SG;IND;PRS
+pranoj		V;1;PL;IND;PRS
+pranoj		V;1;SG;SBJV;PRF;PST
+pranoj	të pranonit	V;2;PL;SBJV;PST
+pranoj		V;2;PL;COND;PRF
+pranoj		V;2;PL;COND;PRS
+pranoj		V;3;SG;IND;PRF;PST
+pranoj		V;2;SG;ADM;PRF
+pranoj		V;1;PL;ADM;IPFV
+pranoj		V;3;PL;IND;PRF
+pranoj		V;1;PL;SBJV;PRF;PST
+pranoj		V;3;PL;IND;PRF;FUT
+pranoj		V;3;PL;IND;PRS
+pranoj		V;2;SG;ADM;PRS
+pranoj		V;2;SG;SBJV;PST
+pranoj		V;3;PL;ADM;IPFV
+pranoj	të kesh pranuar	V;2;SG;SBJV;PRF
+pranoj		V;2;SG;IND;IPFV
+pranoj		V;2;SG;IND;PRF;FUT
+pranoj	do të ketë pranuar	V;3;SG;IND;PRF;FUT
+pranoj		V;2;PL;ADM;PRF;PRF
+pranoj		V;1;PL;COND;PRF
+pranoj		V;3;PL;SBJV;PRS
+pranoj		V;2;SG;ADM;IPFV
+pranoj		V;3;SG;SBJV;PRF;PST
+pranoj		V;3;PL;SBJV;PRF
+dashuroj		V;1;PL;IND;PRF;FUT
+dashuroj		V;2;PL;IND;IPFV
+dashuroj		V;2;PL;OPT;PRS
+dashuroj		V;2;SG;ADM;PRF;PST
+dashuroj		V;3;PL;OPT;PRS
+dashuroj	të ketë dashuruar	V;3;SG;SBJV;PRF
+dashuroj		V;3;PL;IND;PRF;PST
+dashuroj		V;2;PL;OPT;PRF
+dashuroj	të dashuronin	V;3;PL;SBJV;PST
+dashuroj		V;3;SG;SBJV;PRS
+dashuroj		V;1;PL;IND;IPFV
+dashuroj		V;2;SG;IND;PST
+dashuroj		V;1;SG;IND;FUT
+dashuroj		V;V.PTCP;PRS
+dashuroj		V;2;PL;SBJV;PRF;PRF
+dashuroj	dashuroja	V;1;SG;IND;IPFV
+dashuroj		V;3;PL;SBJV;PRF;PST
+dashuroj		V;1;PL;SBJV;PST
+dashuroj		V;2;SG;IND;PRF;PST
+dashuroj		V;3;SG;ADM;IPFV
+dashuroj		V;V.PTCP
+dashuroj		V;1;PL;OPT;PRF
+dashuroj		V;1;SG;ADM;PRF;PST
+dashuroj	do të dashuronin	V;3;PL;COND;PRS
+dashuroj		V;1;SG;ADM;IPFV
+dashuroj		V;2;PL;SBJV;PRS
+dashuroj		V;1;PL;OPT;PRS
+dashuroj		V;2;PL;SBJV;PRF
+dashuroj		V;3;PL;COND;PRF
+dashuroj		V;1;PL;SBJV;PRF
+dashuroj		V;3;PL;IND;PST
+dashuroj		V;V.PTCP;PST
+dashuroj		V;1;PL;SBJV;PRS
+dashuroj		V;2;SG;SBJV;PRS
+dashuroj		V;3;SG;IND;FUT
+dashuroj	dashuroi	V;3;SG;IND;PST
+dashuroj		V;3;SG;IND;IPFV
+dashuroj		V;3;PL;IND;IPFV
+dashuroj		V;2;PL;IND;PRF;FUT
+dashuroj		V;1;SG;IND;PRF;FUT
+dashuroj		V;1;PL;IND;FUT
+dashuroj		V;1;SG;SBJV;PRS
+dashuroj		V;1;PL;ADM;PRF;PST
+dashuroj		V;2;SG;IMP
+dashuroj	paçin dashuruar	V;3;PL;OPT;PRF
+dashuroj		V;1;SG;SBJV;PRF
+dashuroj		V;3;SG;ADM;PRF
+dashuroj		V;3;SG;IND;PRS
+dashuroj		V;2;PL;IMP
+dashuroj		V;1;PL;ADM;PRF
+dashuroj		V;2;SG;IND;FUT
+dashuroj	ke dashuruar	V;2;SG;IND;PRF
+dashuroj		V;3;SG;IND;PRF
+dashuroj	dashuruaka	V;3;SG;ADM;PRS
+dashuroj		V;2;SG;IND;PRS
+dashuroj	të dashuronte	V;3;SG;SBJV;PST
+dashuroj	dashuruakemi	V;1;PL;ADM;PRS
+dashuroj		V;2;SG;SBJV;PRF;PST
+dashuroj		V;2;SG;OPT;PRS
+dashuroj	paskan dashuruar	V;3;PL;ADM;PRF
+dashuroj	paç dashuruar	V;2;SG;OPT;PRF
+dashuroj		V;3;PL;ADM;PRS
+dashuroj		V;2;PL;ADM;PRS
+dashuroj		V;3;PL;IND;FUT
+dashuroj		V;1;SG;COND;PRF
+dashuroj	paça dashuruar	V;1;SG;OPT;PRF
+dashuroj		V;1;SG;ADM;PRS
+dashuroj		V;3;SG;OPT;PRS
+dashuroj		V;2;PL;ADM;IPFV
+dashuroj	dashurova	V;1;SG;IND;PST
+dashuroj		V;3;SG;OPT;PRF
+dashuroj	paskam dashuruar	V;1;SG;ADM;PRF
+dashuroj		V;1;SG;SBJV;PST
+dashuroj		V;3;SG;ADM;PRF;PST
+dashuroj		V;1;SG;COND;PRS
+dashuroj		V;1;SG;OPT;PRS
+dashuroj	do të kishe dashuruar	V;2;SG;COND;PRF
+dashuroj		V;2;PL;IND;PRF
+dashuroj	për të dashuruar	V;NFIN
+dashuroj		V;2;SG;COND;PRS
+dashuroj	dashuroni	V;2;PL;IND;PRS
+dashuroj		V;1;PL;IND;PST
+dashuroj		V;1;SG;IND;PRF
+dashuroj		V;1;SG;IND;PRF;PST
+dashuroj		V;3;SG;COND;PRS
+dashuroj	patëm dashuruar	V;1;PL;IND;PRF;PST
+dashuroj	do të dashuroni	V;2;PL;IND;FUT
+dashuroj		V;1;SG;IND;PRS
+dashuroj	do të kishte dashuruar	V;3;SG;COND;PRF
+dashuroj		V;2;PL;ADM;PRF
+dashuroj		V;3;PL;ADM;PRF;PST
+dashuroj		V;1;PL;IND;PRF
+dashuroj		V;2;PL;IND;PRF;PRF
+dashuroj		V;1;PL;COND;PRS
+dashuroj		V;2;PL;IND;PST
+dashuroj		V;1;PL;IND;PRS
+dashuroj		V;1;SG;SBJV;PRF;PST
+dashuroj		V;2;PL;SBJV;PST
+dashuroj		V;2;PL;COND;PRF
+dashuroj		V;3;SG;IND;PRF;PST
+dashuroj	do të dashuronit	V;2;PL;COND;PRS
+dashuroj		V;2;SG;ADM;PRF
+dashuroj		V;1;PL;ADM;IPFV
+dashuroj		V;3;PL;IND;PRF
+dashuroj		V;1;PL;SBJV;PRF;PST
+dashuroj		V;3;PL;IND;PRF;FUT
+dashuroj	dashurojnë	V;3;PL;IND;PRS
+dashuroj		V;2;SG;ADM;PRS
+dashuroj		V;2;SG;SBJV;PST
+dashuroj		V;3;PL;ADM;IPFV
+dashuroj		V;2;SG;SBJV;PRF
+dashuroj		V;2;SG;IND;IPFV
+dashuroj		V;2;SG;IND;PRF;FUT
+dashuroj		V;3;SG;IND;PRF;FUT
+dashuroj		V;2;PL;ADM;PRF;PRF
+dashuroj		V;1;PL;COND;PRF
+dashuroj		V;3;PL;SBJV;PRS
+dashuroj		V;2;SG;ADM;IPFV
+dashuroj		V;3;SG;SBJV;PRF;PST
+dashuroj		V;3;PL;SBJV;PRF
+gjahtar		N;ACC;PL;NDEF
+gjahtar		N;DAT;SG;DEF
+gjahtar		N;NOM;SG;NDEF
+gjahtar		N;ACC;SG;DEF
+gjahtar		N;NOM;SG;DEF
+gjahtar		N;NOM;PL;NDEF
+gjahtar		N;ACC;SG;NDEF
+gjahtar	gjahtarët	N;ACC;PL;DEF
+gjahtar	gjahtarët	N;NOM;PL;DEF
+gjahtar		N;GEN;PL;NDEF
+gjahtar		N;ABL;SG;NDEF
+gjahtar		N;GEN;SG;DEF
+gjahtar		N;ABL;PL;NDEF
+gjahtar		N;GEN;PL;DEF
+gjahtar		N;DAT;SG;NDEF
+gjahtar	gjahtarëve	N;DAT;PL;DEF
+gjahtar		N;ABL;SG;DEF
+gjahtar		N;GEN;SG;NDEF
+gjahtar		N;DAT;PL;NDEF
+gjahtar		N;ABL;PL;DEF
+cjap		N;ACC;PL;NDEF
+cjap		N;DAT;SG;DEF
+cjap	cjap	N;NOM;SG;NDEF
+cjap		N;ACC;SG;DEF
+cjap		N;NOM;SG;DEF
+cjap		N;NOM;PL;NDEF
+cjap		N;ACC;SG;NDEF
+cjap		N;ACC;PL;DEF
+cjap		N;NOM;PL;DEF
+cjap	cjapeve	N;GEN;PL;NDEF
+cjap		N;ABL;SG;NDEF
+cjap		N;GEN;SG;DEF
+cjap		N;ABL;PL;NDEF
+cjap		N;GEN;PL;DEF
+cjap		N;DAT;SG;NDEF
+cjap		N;DAT;PL;DEF
+cjap		N;ABL;SG;DEF
+cjap	cjapi	N;GEN;SG;NDEF
+cjap		N;DAT;PL;NDEF
+cjap		N;ABL;PL;DEF
+xixëllonjë		N;ACC;PL;NDEF
+xixëllonjë		N;DAT;SG;DEF
+xixëllonjë		N;NOM;SG;NDEF
+xixëllonjë		N;ACC;SG;DEF
+xixëllonjë		N;NOM;SG;DEF
+xixëllonjë		N;NOM;PL;NDEF
+xixëllonjë		N;ACC;SG;NDEF
+xixëllonjë	xixëllonjat	N;ACC;PL;DEF
+xixëllonjë		N;NOM;PL;DEF
+xixëllonjë		N;GEN;PL;NDEF
+xixëllonjë		N;ABL;SG;NDEF
+xixëllonjë		N;GEN;SG;DEF
+xixëllonjë		N;ABL;PL;NDEF
+xixëllonjë		N;GEN;PL;DEF
+xixëllonjë	xixëllonje	N;DAT;SG;NDEF
+xixëllonjë		N;DAT;PL;DEF
+xixëllonjë		N;ABL;SG;DEF
+xixëllonjë		N;GEN;SG;NDEF
+xixëllonjë		N;DAT;PL;NDEF
+xixëllonjë	xixëllonjave	N;ABL;PL;DEF
+urrej	do të kemi urryer	V;1;PL;IND;PRF;FUT
+urrej		V;2;PL;IND;IPFV
+urrej		V;2;PL;OPT;PRS
+urrej		V;2;SG;ADM;PRF;PST
+urrej		V;3;PL;OPT;PRS
+urrej		V;3;SG;SBJV;PRF
+urrej		V;3;PL;IND;PRF;PST
+urrej		V;2;PL;OPT;PRF
+urrej		V;3;PL;SBJV;PST
+urrej		V;3;SG;SBJV;PRS
+urrej		V;1;PL;IND;IPFV
+urrej		V;3;PL;OPT;PRF
+urrej		V;1;SG;IND;FUT
+urrej	duke urryer	V;V.PTCP;PRS
+urrej		V;2;PL;SBJV;PRF;PRF
+urrej		V;1;SG;IND;IPFV
+urrej	urre	V;2;SG;IMP
+urrej		V;1;PL;SBJV;PST
+urrej		V;2;SG;IND;PRF;PST
+urrej		V;3;SG;ADM;IPFV
+urrej		V;V.PTCP
+urrej		V;1;PL;OPT;PRF
+urrej	paskësha urryer	V;1;SG;ADM;PRF;PST
+urrej		V;3;PL;COND;PRS
+urrej	do të kishim urryer	V;1;PL;COND;PRF
+urrej		V;2;PL;SBJV;PRS
+urrej		V;1;PL;OPT;PRS
+urrej		V;2;PL;SBJV;PRF
+urrej		V;3;PL;COND;PRF
+urrej	të kemi urryer	V;1;PL;SBJV;PRF
+urrej		V;3;PL;IND;PST
+urrej	të kesh urryer	V;2;SG;SBJV;PRF
+urrej		V;1;PL;SBJV;PRS
+urrej		V;2;SG;SBJV;PRS
+urrej		V;3;SG;IND;FUT
+urrej	urreu	V;3;SG;IND;PST
+urrej		V;3;SG;IND;IPFV
+urrej		V;3;PL;IND;IPFV
+urrej		V;2;PL;IND;PRF;FUT
+urrej		V;1;SG;IND;PRF;FUT
+urrej		V;1;PL;IND;FUT
+urrej	të urrej	V;1;SG;SBJV;PRS
+urrej		V;1;PL;ADM;PRF;PST
+urrej	të kishin urryer	V;3;PL;SBJV;PRF;PST
+urrej		V;2;SG;IND;PST
+urrej		V;1;SG;SBJV;PRF
+urrej		V;3;SG;ADM;PRF
+urrej		V;3;SG;IND;PRS
+urrej		V;2;PL;IMP
+urrej		V;1;PL;ADM;PRF
+urrej		V;2;SG;IND;FUT
+urrej	ke urryer	V;2;SG;IND;PRF
+urrej		V;3;SG;IND;PRF
+urrej	urryet	V;2;PL;IND;PST
+urrej		V;3;SG;ADM;PRS
+urrej		V;1;SG;IND;PRF;PST
+urrej		V;3;SG;SBJV;PST
+urrej		V;NFIN
+urrej		V;2;SG;SBJV;PRF;PST
+urrej		V;2;SG;OPT;PRS
+urrej	paskan urryer	V;3;PL;ADM;PRF
+urrej		V;2;SG;OPT;PRF
+urrej	urryekan	V;3;PL;ADM;PRS
+urrej		V;2;PL;ADM;PRS
+urrej		V;V.PTCP;PST
+urrej		V;3;PL;IND;FUT
+urrej		V;1;SG;COND;PRF
+urrej		V;1;SG;OPT;PRF
+urrej		V;1;SG;ADM;PRS
+urrej		V;3;SG;OPT;PRS
+urrej		V;2;PL;ADM;IPFV
+urrej		V;1;SG;IND;PST
+urrej		V;3;SG;OPT;PRF
+urrej		V;1;SG;ADM;PRF
+urrej		V;1;SG;SBJV;PST
+urrej	paskësh urryer	V;3;SG;ADM;PRF;PST
+urrej		V;1;SG;COND;PRS
+urrej		V;1;SG;OPT;PRS
+urrej		V;2;SG;COND;PRF
+urrej		V;2;PL;IND;PRF
+urrej		V;1;PL;ADM;PRS
+urrej		V;2;SG;COND;PRS
+urrej		V;2;PL;IND;FUT
+urrej	urryem	V;1;PL;IND;PST
+urrej		V;1;SG;IND;PRF
+urrej		V;3;SG;COND;PRS
+urrej		V;1;PL;IND;PRF;PST
+urrej	urreni	V;2;PL;IND;PRS
+urrej		V;1;SG;IND;PRS
+urrej		V;3;SG;COND;PRF
+urrej		V;2;PL;ADM;PRF
+urrej	paskëshin urryer	V;3;PL;ADM;PRF;PST
+urrej		V;1;PL;IND;PRF
+urrej	patët urryer	V;2;PL;IND;PRF;PRF
+urrej		V;1;PL;COND;PRS
+urrej		V;2;SG;IND;PRS
+urrej	urrejmë	V;1;PL;IND;PRS
+urrej		V;1;SG;SBJV;PRF;PST
+urrej		V;2;PL;SBJV;PST
+urrej		V;2;PL;COND;PRF
+urrej		V;2;PL;COND;PRS
+urrej		V;3;SG;IND;PRF;PST
+urrej		V;2;SG;ADM;PRF
+urrej		V;1;PL;ADM;IPFV
+urrej		V;3;PL;IND;PRF
+urrej		V;1;PL;SBJV;PRF;PST
+urrej		V;3;PL;IND;PRF;FUT
+urrej		V;3;PL;IND;PRS
+urrej		V;2;SG;ADM;PRS
+urrej		V;2;SG;SBJV;PST
+urrej		V;3;PL;ADM;IPFV
+urrej	urryekësha	V;1;SG;ADM;IPFV
+urrej	urreje	V;2;SG;IND;IPFV
+urrej		V;2;SG;IND;PRF;FUT
+urrej		V;3;SG;IND;PRF;FUT
+urrej		V;2;PL;ADM;PRF;PRF
+urrej	të urrejnë	V;3;PL;SBJV;PRS
+urrej		V;2;SG;ADM;IPFV
+urrej		V;3;SG;SBJV;PRF;PST
+urrej		V;3;PL;SBJV;PRF
+biletë		N;ACC;PL;NDEF
+biletë		N;DAT;SG;DEF
+biletë		N;NOM;SG;NDEF
+biletë		N;ACC;SG;DEF
+biletë	bileta	N;NOM;SG;DEF
+biletë		N;NOM;PL;NDEF
+biletë		N;ACC;SG;NDEF
+biletë		N;ACC;PL;DEF
+biletë		N;NOM;PL;DEF
+biletë		N;GEN;PL;NDEF
+biletë		N;ABL;SG;NDEF
+biletë		N;GEN;SG;DEF
+biletë		N;ABL;PL;NDEF
+biletë		N;GEN;PL;DEF
+biletë	bilete	N;DAT;SG;NDEF
+biletë		N;DAT;PL;DEF
+biletë	biletës	N;ABL;SG;DEF
+biletë		N;GEN;SG;NDEF
+biletë		N;DAT;PL;NDEF
+biletë		N;ABL;PL;DEF
+faturë	fatura	N;ACC;PL;NDEF
+faturë		N;DAT;SG;DEF
+faturë		N;NOM;SG;NDEF
+faturë		N;ACC;SG;DEF
+faturë		N;NOM;SG;DEF
+faturë		N;NOM;PL;NDEF
+faturë		N;ACC;SG;NDEF
+faturë		N;ACC;PL;DEF
+faturë		N;NOM;PL;DEF
+faturë		N;GEN;PL;NDEF
+faturë		N;ABL;SG;NDEF
+faturë		N;GEN;SG;DEF
+faturë		N;ABL;PL;NDEF
+faturë		N;GEN;PL;DEF
+faturë		N;DAT;SG;NDEF
+faturë		N;DAT;PL;DEF
+faturë		N;ABL;SG;DEF
+faturë	fature	N;GEN;SG;NDEF
+faturë	faturave	N;DAT;PL;NDEF
+faturë		N;ABL;PL;DEF
+injoroj		V;1;PL;IND;PRF;FUT
+injoroj		V;2;PL;IND;IPFV
+injoroj		V;2;PL;OPT;PRS
+injoroj		V;2;SG;ADM;PRF;PST
+injoroj		V;3;PL;OPT;PRS
+injoroj		V;3;SG;SBJV;PRF
+injoroj	patën injoruar	V;3;PL;IND;PRF;PST
+injoroj		V;2;PL;OPT;PRF
+injoroj		V;3;PL;SBJV;PST
+injoroj		V;3;SG;SBJV;PRS
+injoroj		V;3;SG;COND;PRF
+injoroj		V;2;SG;IND;PST
+injoroj		V;1;SG;IND;FUT
+injoroj	duke injoruar	V;V.PTCP;PRS
+injoroj	të kishit injoruar	V;2;PL;SBJV;PRF;PRF
+injoroj	injoroja	V;1;SG;IND;IPFV
+injoroj	të kishin injoruar	V;3;PL;SBJV;PRF;PST
+injoroj		V;1;PL;SBJV;PST
+injoroj	pate injoruar	V;2;SG;IND;PRF;PST
+injoroj		V;3;SG;ADM;IPFV
+injoroj		V;V.PTCP
+injoroj		V;1;PL;OPT;PRF
+injoroj		V;1;SG;ADM;PRF;PST
+injoroj		V;3;PL;COND;PRS
+injoroj		V;1;SG;ADM;IPFV
+injoroj		V;2;PL;SBJV;PRS
+injoroj	injorofshim	V;1;PL;OPT;PRS
+injoroj		V;2;PL;SBJV;PRF
+injoroj		V;3;PL;COND;PRF
+injoroj		V;1;PL;COND;PRS
+injoroj		V;1;PL;SBJV;PRF
+injoroj		V;3;PL;IND;PST
+injoroj		V;V.PTCP;PST
+injoroj		V;1;PL;SBJV;PRS
+injoroj		V;2;SG;SBJV;PRS
+injoroj		V;3;SG;IND;FUT
+injoroj		V;3;SG;IND;PST
+injoroj		V;3;SG;IND;IPFV
+injoroj		V;3;PL;IND;IPFV
+injoroj		V;2;PL;IND;PRF;FUT
+injoroj	do të kem injoruar	V;1;SG;IND;PRF;FUT
+injoroj		V;1;PL;IND;FUT
+injoroj	të injoroj	V;1;SG;SBJV;PRS
+injoroj	paskëshim injoruar	V;1;PL;ADM;PRF;PST
+injoroj	injoro	V;2;SG;IMP
+injoroj		V;3;PL;OPT;PRF
+injoroj	të kem injoruar	V;1;SG;SBJV;PRF
+injoroj		V;3;SG;ADM;PRF
+injoroj		V;3;SG;IND;PRS
+injoroj		V;2;PL;IMP
+injoroj		V;1;PL;ADM;PRF
+injoroj		V;2;SG;IND;FUT
+injoroj	ke injoruar	V;2;SG;IND;PRF
+injoroj		V;3;SG;IND;PRF
+injoroj	injoruaka	V;3;SG;ADM;PRS
+injoroj		V;2;SG;IND;PRS
+injoroj		V;3;SG;SBJV;PST
+injoroj		V;1;PL;ADM;PRS
+injoroj	të kishe injoruar	V;2;SG;SBJV;PRF;PST
+injoroj		V;2;SG;OPT;PRS
+injoroj		V;3;PL;ADM;PRF
+injoroj		V;2;SG;OPT;PRF
+injoroj		V;3;PL;ADM;PRS
+injoroj		V;3;PL;IND;FUT
+injoroj		V;1;SG;COND;PRF
+injoroj		V;1;SG;OPT;PRF
+injoroj		V;1;SG;ADM;PRS
+injoroj		V;3;SG;OPT;PRS
+injoroj		V;2;PL;ADM;IPFV
+injoroj		V;1;SG;IND;PST
+injoroj		V;3;SG;OPT;PRF
+injoroj		V;1;SG;ADM;PRF
+injoroj		V;1;SG;SBJV;PST
+injoroj		V;3;SG;ADM;PRF;PST
+injoroj		V;1;SG;COND;PRS
+injoroj		V;1;SG;OPT;PRS
+injoroj		V;2;SG;COND;PRF
+injoroj		V;2;PL;IND;PRF
+injoroj		V;NFIN
+injoroj	do të injoroje	V;2;SG;COND;PRS
+injoroj		V;2;PL;IND;FUT
+injoroj		V;1;PL;IND;PST
+injoroj		V;1;SG;IND;PRF
+injoroj		V;1;SG;IND;PRF;PST
+injoroj		V;3;SG;COND;PRS
+injoroj		V;1;PL;IND;PRF;PST
+injoroj		V;2;PL;IND;PRS
+injoroj		V;1;SG;IND;PRS
+injoroj	injoronim	V;1;PL;IND;IPFV
+injoroj		V;2;PL;ADM;PRF
+injoroj	paskëshin injoruar	V;3;PL;ADM;PRF;PST
+injoroj		V;1;PL;IND;PRF
+injoroj		V;2;PL;IND;PRF;PRF
+injoroj		V;2;PL;ADM;PRS
+injoroj		V;2;PL;IND;PST
+injoroj	injorojmë	V;1;PL;IND;PRS
+injoroj		V;1;SG;SBJV;PRF;PST
+injoroj		V;2;PL;SBJV;PST
+injoroj		V;2;PL;COND;PRF
+injoroj		V;3;SG;IND;PRF;PST
+injoroj		V;2;PL;COND;PRS
+injoroj		V;2;SG;ADM;PRF
+injoroj	injoruakëshim	V;1;PL;ADM;IPFV
+injoroj		V;3;PL;IND;PRF
+injoroj	të kishim injoruar	V;1;PL;SBJV;PRF;PST
+injoroj		V;3;PL;IND;PRF;FUT
+injoroj		V;3;PL;IND;PRS
+injoroj		V;2;SG;ADM;PRS
+injoroj		V;2;SG;SBJV;PST
+injoroj		V;3;PL;ADM;IPFV
+injoroj		V;2;SG;SBJV;PRF
+injoroj		V;2;SG;IND;IPFV
+injoroj		V;2;SG;IND;PRF;FUT
+injoroj		V;3;SG;IND;PRF;FUT
+injoroj		V;2;PL;ADM;PRF;PRF
+injoroj	do të kishim injoruar	V;1;PL;COND;PRF
+injoroj		V;3;PL;SBJV;PRS
+injoroj	injoruakëshe	V;2;SG;ADM;IPFV
+injoroj		V;3;SG;SBJV;PRF;PST
+injoroj		V;3;PL;SBJV;PRF
+takoj		V;1;PL;IND;PRF;FUT
+takoj		V;2;PL;IND;IPFV
+takoj		V;2;PL;OPT;PRS
+takoj		V;2;SG;ADM;PRF;PST
+takoj	takofshin	V;3;PL;OPT;PRS
+takoj	të ketë takuar	V;3;SG;SBJV;PRF
+takoj		V;3;PL;IND;PRF;PST
+takoj		V;2;PL;OPT;PRF
+takoj		V;3;PL;SBJV;PST
+takoj		V;3;SG;SBJV;PRS
+takoj		V;3;SG;COND;PRF
+takoj	paçin takuar	V;3;PL;OPT;PRF
+takoj		V;1;SG;IND;FUT
+takoj		V;V.PTCP;PRS
+takoj		V;2;PL;SBJV;PRF;PRF
+takoj		V;1;SG;IND;IPFV
+takoj		V;3;PL;SBJV;PRF;PST
+takoj		V;1;PL;SBJV;PST
+takoj		V;2;SG;IND;PRF;PST
+takoj	takuakësh	V;3;SG;ADM;IPFV
+takoj		V;V.PTCP
+takoj		V;1;PL;OPT;PRF
+takoj		V;1;SG;ADM;PRF;PST
+takoj		V;3;PL;COND;PRS
+takoj		V;1;SG;ADM;IPFV
+takoj		V;2;PL;SBJV;PRS
+takoj	takofshim	V;1;PL;OPT;PRS
+takoj		V;2;PL;SBJV;PRF
+takoj		V;3;PL;COND;PRF
+takoj		V;1;PL;SBJV;PRF
+takoj		V;3;PL;IND;PST
+takoj		V;V.PTCP;PST
+takoj		V;1;PL;SBJV;PRS
+takoj		V;2;SG;SBJV;PRS
+takoj	do të takojë	V;3;SG;IND;FUT
+takoj		V;3;SG;IND;PST
+takoj		V;3;SG;IND;IPFV
+takoj		V;3;PL;IND;IPFV
+takoj	do të keni takuar	V;2;PL;IND;PRF;FUT
+takoj		V;1;SG;IND;PRF;FUT
+takoj		V;1;PL;IND;FUT
+takoj		V;1;SG;SBJV;PRS
+takoj		V;1;PL;ADM;PRF;PST
+takoj		V;2;SG;IMP
+takoj		V;2;SG;IND;PST
+takoj		V;1;SG;SBJV;PRF
+takoj		V;3;SG;ADM;PRF
+takoj		V;3;SG;IND;PRS
+takoj		V;2;PL;IMP
+takoj		V;1;PL;ADM;PRF
+takoj	do të takosh	V;2;SG;IND;FUT
+takoj		V;2;SG;IND;PRF
+takoj		V;3;SG;IND;PRF
+takoj		V;2;PL;IND;PST
+takoj		V;3;SG;ADM;PRS
+takoj	pata takuar	V;1;SG;IND;PRF;PST
+takoj		V;3;SG;SBJV;PST
+takoj		V;NFIN
+takoj		V;2;SG;SBJV;PRF;PST
+takoj	takofsh	V;2;SG;OPT;PRS
+takoj		V;3;PL;ADM;PRF
+takoj		V;2;SG;OPT;PRF
+takoj		V;3;PL;ADM;PRS
+takoj		V;2;PL;ADM;PRS
+takoj		V;3;PL;IND;FUT
+takoj		V;1;SG;COND;PRF
+takoj		V;1;SG;OPT;PRF
+takoj		V;1;SG;ADM;PRS
+takoj		V;3;SG;OPT;PRS
+takoj	takuakëshit	V;2;PL;ADM;IPFV
+takoj		V;1;SG;IND;PST
+takoj	pastë takuar	V;3;SG;OPT;PRF
+takoj	paskam takuar	V;1;SG;ADM;PRF
+takoj	të takoja	V;1;SG;SBJV;PST
+takoj		V;3;SG;ADM;PRF;PST
+takoj		V;1;SG;COND;PRS
+takoj		V;1;SG;OPT;PRS
+takoj		V;2;SG;COND;PRF
+takoj	keni takuar	V;2;PL;IND;PRF
+takoj		V;1;PL;ADM;PRS
+takoj		V;2;SG;COND;PRS
+takoj		V;2;PL;IND;PRS
+takoj		V;1;PL;IND;PST
+takoj		V;1;SG;IND;PRF
+takoj	do të takonte	V;3;SG;COND;PRS
+takoj		V;1;PL;IND;PRF;PST
+takoj	do të takoni	V;2;PL;IND;FUT
+takoj		V;1;SG;IND;PRS
+takoj		V;1;PL;IND;IPFV
+takoj		V;2;PL;ADM;PRF
+takoj		V;3;PL;ADM;PRF;PST
+takoj		V;1;PL;IND;PRF
+takoj		V;2;PL;IND;PRF;PRF
+takoj		V;1;PL;COND;PRS
+takoj	takon	V;2;SG;IND;PRS
+takoj	takojmë	V;1;PL;IND;PRS
+takoj		V;1;SG;SBJV;PRF;PST
+takoj		V;2;PL;SBJV;PST
+takoj		V;2;PL;COND;PRF
+takoj		V;2;PL;COND;PRS
+takoj		V;3;SG;IND;PRF;PST
+takoj		V;2;SG;ADM;PRF
+takoj		V;1;PL;ADM;IPFV
+takoj		V;3;PL;IND;PRF
+takoj	të kishim takuar	V;1;PL;SBJV;PRF;PST
+takoj		V;3;PL;IND;PRF;FUT
+takoj		V;3;PL;IND;PRS
+takoj	takuake	V;2;SG;ADM;PRS
+takoj		V;2;SG;SBJV;PST
+takoj		V;3;PL;ADM;IPFV
+takoj		V;2;SG;SBJV;PRF
+takoj		V;2;SG;IND;IPFV
+takoj		V;2;SG;IND;PRF;FUT
+takoj	do të ketë takuar	V;3;SG;IND;PRF;FUT
+takoj	paskëshit takuar	V;2;PL;ADM;PRF;PRF
+takoj		V;1;PL;COND;PRF
+takoj		V;3;PL;SBJV;PRS
+takoj		V;2;SG;ADM;IPFV
+takoj		V;3;SG;SBJV;PRF;PST
+takoj		V;3;PL;SBJV;PRF
+sqaroj		V;1;PL;IND;PRF;FUT
+sqaroj		V;2;PL;IND;IPFV
+sqaroj		V;2;PL;OPT;PRS
+sqaroj		V;2;SG;ADM;PRF;PST
+sqaroj	sqarofshin	V;3;PL;OPT;PRS
+sqaroj		V;3;SG;SBJV;PRF
+sqaroj	patën sqaruar	V;3;PL;IND;PRF;PST
+sqaroj		V;2;PL;OPT;PRF
+sqaroj		V;3;PL;SBJV;PST
+sqaroj		V;3;SG;SBJV;PRS
+sqaroj	do të kishte sqaruar	V;3;SG;COND;PRF
+sqaroj		V;3;PL;OPT;PRF
+sqaroj		V;1;SG;IND;FUT
+sqaroj		V;V.PTCP;PRS
+sqaroj	të kishit sqaruar	V;2;PL;SBJV;PRF;PRF
+sqaroj		V;1;SG;IND;IPFV
+sqaroj		V;3;PL;SBJV;PRF;PST
+sqaroj		V;1;PL;SBJV;PST
+sqaroj	pate sqaruar	V;2;SG;IND;PRF;PST
+sqaroj	sqaruakësh	V;3;SG;ADM;IPFV
+sqaroj		V;V.PTCP
+sqaroj		V;1;PL;OPT;PRF
+sqaroj		V;1;SG;ADM;PRF;PST
+sqaroj		V;3;PL;COND;PRS
+sqaroj		V;1;SG;ADM;IPFV
+sqaroj		V;2;PL;SBJV;PRS
+sqaroj	sqarofshim	V;1;PL;OPT;PRS
+sqaroj	të keni sqaruar	V;2;PL;SBJV;PRF
+sqaroj		V;3;PL;COND;PRF
+sqaroj	të kemi sqaruar	V;1;PL;SBJV;PRF
+sqaroj		V;3;PL;IND;PST
+sqaroj	duke pasë sqaruar	V;V.PTCP;PST
+sqaroj		V;1;PL;SBJV;PRS
+sqaroj		V;2;SG;SBJV;PRS
+sqaroj		V;3;SG;IND;FUT
+sqaroj		V;3;SG;IND;PST
+sqaroj	sqaronte	V;3;SG;IND;IPFV
+sqaroj		V;3;PL;IND;IPFV
+sqaroj		V;2;PL;IND;PRF;FUT
+sqaroj		V;1;SG;IND;PRF;FUT
+sqaroj		V;1;PL;IND;FUT
+sqaroj		V;1;SG;SBJV;PRS
+sqaroj		V;1;PL;ADM;PRF;PST
+sqaroj		V;2;SG;IMP
+sqaroj		V;2;SG;IND;PST
+sqaroj		V;1;SG;SBJV;PRF
+sqaroj		V;3;SG;ADM;PRF
+sqaroj		V;3;SG;IND;PRS
+sqaroj		V;2;PL;IMP
+sqaroj		V;1;PL;ADM;PRF
+sqaroj		V;2;SG;IND;FUT
+sqaroj	ke sqaruar	V;2;SG;IND;PRF
+sqaroj		V;3;SG;IND;PRF
+sqaroj		V;2;PL;IND;PST
+sqaroj		V;3;SG;ADM;PRS
+sqaroj		V;1;SG;IND;PRF;PST
+sqaroj		V;3;SG;SBJV;PST
+sqaroj		V;NFIN
+sqaroj		V;2;SG;SBJV;PRF;PST
+sqaroj		V;2;SG;OPT;PRS
+sqaroj		V;3;PL;ADM;PRF
+sqaroj		V;2;SG;OPT;PRF
+sqaroj		V;3;PL;ADM;PRS
+sqaroj		V;2;PL;ADM;PRS
+sqaroj	do të sqarojnë	V;3;PL;IND;FUT
+sqaroj		V;1;SG;COND;PRF
+sqaroj		V;1;SG;OPT;PRF
+sqaroj		V;1;SG;ADM;PRS
+sqaroj		V;3;SG;OPT;PRS
+sqaroj		V;2;PL;ADM;IPFV
+sqaroj		V;1;SG;IND;PST
+sqaroj		V;3;SG;OPT;PRF
+sqaroj	paskam sqaruar	V;1;SG;ADM;PRF
+sqaroj		V;1;SG;SBJV;PST
+sqaroj		V;3;SG;ADM;PRF;PST
+sqaroj	do të sqaroja	V;1;SG;COND;PRS
+sqaroj		V;1;SG;OPT;PRS
+sqaroj		V;2;SG;COND;PRF
+sqaroj		V;2;PL;IND;PRF
+sqaroj	sqaruakemi	V;1;PL;ADM;PRS
+sqaroj	do të sqaroje	V;2;SG;COND;PRS
+sqaroj		V;2;PL;IND;PRS
+sqaroj		V;1;PL;IND;PST
+sqaroj		V;1;SG;IND;PRF
+sqaroj		V;3;SG;COND;PRS
+sqaroj		V;1;PL;IND;PRF;PST
+sqaroj		V;2;PL;IND;FUT
+sqaroj		V;1;SG;IND;PRS
+sqaroj		V;1;PL;IND;IPFV
+sqaroj		V;2;PL;ADM;PRF
+sqaroj		V;3;PL;ADM;PRF;PST
+sqaroj		V;1;PL;IND;PRF
+sqaroj		V;2;PL;IND;PRF;PRF
+sqaroj	do të sqaronim	V;1;PL;COND;PRS
+sqaroj	sqaron	V;2;SG;IND;PRS
+sqaroj		V;1;PL;IND;PRS
+sqaroj		V;1;SG;SBJV;PRF;PST
+sqaroj		V;2;PL;SBJV;PST
+sqaroj		V;2;PL;COND;PRF
+sqaroj		V;2;PL;COND;PRS
+sqaroj		V;3;SG;IND;PRF;PST
+sqaroj		V;2;SG;ADM;PRF
+sqaroj		V;1;PL;ADM;IPFV
+sqaroj	kanë sqaruar	V;3;PL;IND;PRF
+sqaroj		V;1;PL;SBJV;PRF;PST
+sqaroj	do të kenë sqaruar	V;3;PL;IND;PRF;FUT
+sqaroj	sqarojnë	V;3;PL;IND;PRS
+sqaroj		V;2;SG;ADM;PRS
+sqaroj		V;2;SG;SBJV;PST
+sqaroj		V;3;PL;ADM;IPFV
+sqaroj		V;2;SG;SBJV;PRF
+sqaroj		V;2;SG;IND;IPFV
+sqaroj		V;2;SG;IND;PRF;FUT
+sqaroj	do të ketë sqaruar	V;3;SG;IND;PRF;FUT
+sqaroj		V;2;PL;ADM;PRF;PRF
+sqaroj		V;1;PL;COND;PRF
+sqaroj		V;3;PL;SBJV;PRS
+sqaroj		V;2;SG;ADM;IPFV
+sqaroj		V;3;SG;SBJV;PRF;PST
+sqaroj		V;3;PL;SBJV;PRF
+ndryshoj		V;1;PL;IND;PRF;FUT
+ndryshoj		V;2;PL;IND;IPFV
+ndryshoj		V;2;PL;OPT;PRS
+ndryshoj		V;2;SG;ADM;PRF;PST
+ndryshoj		V;3;PL;OPT;PRS
+ndryshoj		V;3;SG;SBJV;PRF
+ndryshoj		V;3;PL;IND;PRF;PST
+ndryshoj	paçit ndryshuar	V;2;PL;OPT;PRF
+ndryshoj		V;3;PL;SBJV;PST
+ndryshoj		V;3;SG;SBJV;PRS
+ndryshoj		V;3;SG;COND;PRF
+ndryshoj		V;2;SG;IND;PST
+ndryshoj	do të ndryshoj	V;1;SG;IND;FUT
+ndryshoj		V;V.PTCP;PRS
+ndryshoj		V;2;PL;SBJV;PRF;PRF
+ndryshoj	ndryshoja	V;1;SG;IND;IPFV
+ndryshoj		V;3;PL;SBJV;PRF;PST
+ndryshoj		V;1;PL;SBJV;PST
+ndryshoj		V;2;SG;IND;PRF;PST
+ndryshoj		V;3;SG;ADM;IPFV
+ndryshoj	ndryshuar	V;V.PTCP
+ndryshoj		V;1;PL;OPT;PRF
+ndryshoj		V;1;SG;ADM;PRF;PST
+ndryshoj	do të ndryshonin	V;3;PL;COND;PRS
+ndryshoj		V;1;SG;ADM;IPFV
+ndryshoj		V;2;PL;SBJV;PRS
+ndryshoj		V;1;PL;OPT;PRS
+ndryshoj	të keni ndryshuar	V;2;PL;SBJV;PRF
+ndryshoj		V;3;PL;COND;PRF
+ndryshoj		V;1;PL;COND;PRS
+ndryshoj		V;1;PL;SBJV;PRF
+ndryshoj		V;3;PL;IND;PST
+ndryshoj		V;V.PTCP;PST
+ndryshoj		V;1;PL;SBJV;PRS
+ndryshoj		V;2;SG;SBJV;PRS
+ndryshoj		V;3;SG;IND;FUT
+ndryshoj	ndryshoi	V;3;SG;IND;PST
+ndryshoj		V;3;SG;IND;IPFV
+ndryshoj		V;3;PL;IND;IPFV
+ndryshoj		V;2;PL;IND;PRF;FUT
+ndryshoj	do të kem ndryshuar	V;1;SG;IND;PRF;FUT
+ndryshoj		V;1;PL;IND;FUT
+ndryshoj		V;1;SG;SBJV;PRS
+ndryshoj		V;1;PL;ADM;PRF;PST
+ndryshoj		V;2;SG;IMP
+ndryshoj		V;3;PL;OPT;PRF
+ndryshoj		V;1;SG;SBJV;PRF
+ndryshoj		V;3;SG;ADM;PRF
+ndryshoj	ndryshon	V;3;SG;IND;PRS
+ndryshoj		V;2;PL;IMP
+ndryshoj	paskemi ndryshuar	V;1;PL;ADM;PRF
+ndryshoj		V;2;SG;IND;FUT
+ndryshoj		V;2;SG;IND;PRF
+ndryshoj		V;3;SG;IND;PRF
+ndryshoj		V;3;SG;ADM;PRS
+ndryshoj		V;2;SG;IND;PRS
+ndryshoj		V;3;SG;SBJV;PST
+ndryshoj		V;1;PL;ADM;PRS
+ndryshoj		V;2;SG;SBJV;PRF;PST
+ndryshoj		V;2;SG;OPT;PRS
+ndryshoj		V;3;PL;ADM;PRF
+ndryshoj		V;2;SG;OPT;PRF
+ndryshoj		V;3;PL;ADM;PRS
+ndryshoj		V;3;PL;IND;FUT
+ndryshoj		V;1;SG;COND;PRF
+ndryshoj		V;1;SG;OPT;PRF
+ndryshoj		V;1;SG;ADM;PRS
+ndryshoj		V;3;SG;OPT;PRS
+ndryshoj		V;2;PL;ADM;IPFV
+ndryshoj		V;1;SG;IND;PST
+ndryshoj		V;3;SG;OPT;PRF
+ndryshoj		V;1;SG;ADM;PRF
+ndryshoj	të ndryshoja	V;1;SG;SBJV;PST
+ndryshoj		V;3;SG;ADM;PRF;PST
+ndryshoj		V;1;SG;COND;PRS
+ndryshoj		V;1;SG;OPT;PRS
+ndryshoj	do të kishe ndryshuar	V;2;SG;COND;PRF
+ndryshoj	keni ndryshuar	V;2;PL;IND;PRF
+ndryshoj	për të ndryshuar	V;NFIN
+ndryshoj		V;2;SG;COND;PRS
+ndryshoj		V;2;PL;IND;FUT
+ndryshoj		V;1;PL;IND;PST
+ndryshoj		V;1;SG;IND;PRF
+ndryshoj		V;1;SG;IND;PRF;PST
+ndryshoj		V;3;SG;COND;PRS
+ndryshoj	patëm ndryshuar	V;1;PL;IND;PRF;PST
+ndryshoj		V;2;PL;IND;PRS
+ndryshoj		V;1;SG;IND;PRS
+ndryshoj		V;1;PL;IND;IPFV
+ndryshoj		V;2;PL;ADM;PRF
+ndryshoj		V;3;PL;ADM;PRF;PST
+ndryshoj	kemi ndryshuar	V;1;PL;IND;PRF
+ndryshoj		V;2;PL;IND;PRF;PRF
+ndryshoj		V;2;PL;ADM;PRS
+ndryshoj		V;2;PL;IND;PST
+ndryshoj		V;1;PL;IND;PRS
+ndryshoj		V;1;SG;SBJV;PRF;PST
+ndryshoj		V;2;PL;SBJV;PST
+ndryshoj		V;2;PL;COND;PRF
+ndryshoj		V;3;SG;IND;PRF;PST
+ndryshoj		V;2;PL;COND;PRS
+ndryshoj		V;2;SG;ADM;PRF
+ndryshoj		V;1;PL;ADM;IPFV
+ndryshoj		V;3;PL;IND;PRF
+ndryshoj	të kishim ndryshuar	V;1;PL;SBJV;PRF;PST
+ndryshoj		V;3;PL;IND;PRF;FUT
+ndryshoj	ndryshojnë	V;3;PL;IND;PRS
+ndryshoj		V;2;SG;ADM;PRS
+ndryshoj		V;2;SG;SBJV;PST
+ndryshoj		V;3;PL;ADM;IPFV
+ndryshoj	të kesh ndryshuar	V;2;SG;SBJV;PRF
+ndryshoj		V;2;SG;IND;IPFV
+ndryshoj	do të kesh ndryshuar	V;2;SG;IND;PRF;FUT
+ndryshoj		V;3;SG;IND;PRF;FUT
+ndryshoj	paskëshit ndryshuar	V;2;PL;ADM;PRF;PRF
+ndryshoj	do të kishim ndryshuar	V;1;PL;COND;PRF
+ndryshoj	të ndryshojnë	V;3;PL;SBJV;PRS
+ndryshoj		V;2;SG;ADM;IPFV
+ndryshoj		V;3;SG;SBJV;PRF;PST
+ndryshoj		V;3;PL;SBJV;PRF
+pjekuri	pjekurisë	N;DAT;SG;DEF
+pjekuri		N;NOM;SG;NDEF
+pjekuri		N;ACC;SG;DEF
+pjekuri		N;NOM;SG;DEF
+pjekuri		N;ACC;SG;NDEF
+pjekuri		N;ABL;SG;NDEF
+pjekuri		N;GEN;SG;DEF
+pjekuri		N;DAT;SG;NDEF
+pjekuri		N;ABL;SG;DEF
+pjekuri		N;GEN;SG;NDEF
+aktivizëm		N;DAT;SG;DEF
+aktivizëm		N;GEN;SG;NDEF
+aktivizëm		N;ACC;SG;DEF
+aktivizëm		N;NOM;SG;DEF
+aktivizëm		N;ACC;SG;NDEF
+aktivizëm		N;ABL;SG;NDEF
+aktivizëm	aktivizmit	N;GEN;SG;DEF
+aktivizëm		N;DAT;SG;NDEF
+aktivizëm		N;ABL;SG;DEF
+aktivizëm		N;NOM;SG;NDEF
+vampir		N;ACC;PL;NDEF
+vampir		N;DAT;SG;DEF
+vampir		N;NOM;SG;NDEF
+vampir		N;ACC;SG;DEF
+vampir		N;NOM;SG;DEF
+vampir		N;NOM;PL;NDEF
+vampir	vampir	N;ACC;SG;NDEF
+vampir		N;ACC;PL;DEF
+vampir	vampirët	N;NOM;PL;DEF
+vampir		N;GEN;PL;NDEF
+vampir		N;ABL;SG;NDEF
+vampir		N;GEN;SG;DEF
+vampir		N;ABL;PL;NDEF
+vampir		N;GEN;PL;DEF
+vampir		N;DAT;SG;NDEF
+vampir	vampirëve	N;DAT;PL;DEF
+vampir		N;ABL;SG;DEF
+vampir		N;GEN;SG;NDEF
+vampir		N;DAT;PL;NDEF
+vampir		N;ABL;PL;DEF
+skelet		N;ACC;PL;NDEF
+skelet		N;DAT;SG;DEF
+skelet		N;NOM;SG;NDEF
+skelet		N;ACC;SG;DEF
+skelet	skeleti	N;NOM;SG;DEF
+skelet		N;NOM;PL;NDEF
+skelet		N;ACC;SG;NDEF
+skelet		N;ACC;PL;DEF
+skelet	skeletët	N;NOM;PL;DEF
+skelet		N;GEN;PL;NDEF
+skelet		N;ABL;SG;NDEF
+skelet		N;GEN;SG;DEF
+skelet	skeletësh	N;ABL;PL;NDEF
+skelet		N;GEN;PL;DEF
+skelet		N;DAT;SG;NDEF
+skelet		N;DAT;PL;DEF
+skelet		N;ABL;SG;DEF
+skelet		N;GEN;SG;NDEF
+skelet		N;DAT;PL;NDEF
+skelet		N;ABL;PL;DEF
+rasë		N;ACC;PL;NDEF
+rasë	rasës	N;DAT;SG;DEF
+rasë		N;NOM;SG;NDEF
+rasë		N;ACC;SG;DEF
+rasë		N;NOM;SG;DEF
+rasë	rasa	N;NOM;PL;NDEF
+rasë		N;ACC;SG;NDEF
+rasë		N;ACC;PL;DEF
+rasë		N;NOM;PL;DEF
+rasë		N;GEN;PL;NDEF
+rasë		N;ABL;SG;NDEF
+rasë		N;GEN;SG;DEF
+rasë		N;ABL;PL;NDEF
+rasë		N;GEN;PL;DEF
+rasë		N;DAT;SG;NDEF
+rasë		N;DAT;PL;DEF
+rasë	rasës	N;ABL;SG;DEF
+rasë		N;GEN;SG;NDEF
+rasë		N;DAT;PL;NDEF
+rasë		N;ABL;PL;DEF
+bretkosë		N;ACC;PL;NDEF
+bretkosë		N;DAT;SG;DEF
+bretkosë		N;NOM;SG;NDEF
+bretkosë		N;ACC;SG;DEF
+bretkosë		N;NOM;SG;DEF
+bretkosë		N;NOM;PL;NDEF
+bretkosë		N;ACC;SG;NDEF
+bretkosë	bretkosat	N;ACC;PL;DEF
+bretkosë		N;NOM;PL;DEF
+bretkosë		N;GEN;PL;NDEF
+bretkosë		N;ABL;SG;NDEF
+bretkosë		N;GEN;SG;DEF
+bretkosë		N;ABL;PL;NDEF
+bretkosë	bretkosave	N;GEN;PL;DEF
+bretkosë		N;DAT;SG;NDEF
+bretkosë		N;DAT;PL;DEF
+bretkosë		N;ABL;SG;DEF
+bretkosë		N;GEN;SG;NDEF
+bretkosë		N;DAT;PL;NDEF
+bretkosë	bretkosave	N;ABL;PL;DEF
+shigjetar		N;ACC;PL;NDEF
+shigjetar		N;DAT;SG;DEF
+shigjetar	shigjetar	N;NOM;SG;NDEF
+shigjetar		N;ACC;SG;DEF
+shigjetar		N;NOM;SG;DEF
+shigjetar	shigjetarë	N;NOM;PL;NDEF
+shigjetar		N;ACC;SG;NDEF
+shigjetar		N;ACC;PL;DEF
+shigjetar		N;NOM;PL;DEF
+shigjetar		N;GEN;PL;NDEF
+shigjetar	shigjetari	N;ABL;SG;NDEF
+shigjetar		N;GEN;SG;DEF
+shigjetar		N;ABL;PL;NDEF
+shigjetar		N;GEN;PL;DEF
+shigjetar		N;DAT;SG;NDEF
+shigjetar		N;DAT;PL;DEF
+shigjetar		N;ABL;SG;DEF
+shigjetar		N;GEN;SG;NDEF
+shigjetar		N;DAT;PL;NDEF
+shigjetar		N;ABL;PL;DEF
+pëlqej	do të kemi pëlqyer	V;1;PL;IND;PRF;FUT
+pëlqej		V;2;PL;IND;IPFV
+pëlqej		V;2;PL;OPT;PRS
+pëlqej		V;2;SG;ADM;PRF;PST
+pëlqej		V;3;PL;OPT;PRS
+pëlqej	të ketë pëlqyer	V;3;SG;SBJV;PRF
+pëlqej	patën pëlqyer	V;3;PL;IND;PRF;PST
+pëlqej	paçit pëlqyer	V;2;PL;OPT;PRF
+pëlqej		V;3;PL;SBJV;PST
+pëlqej		V;3;SG;SBJV;PRS
+pëlqej	do të kishte pëlqyer	V;3;SG;COND;PRF
+pëlqej		V;3;PL;OPT;PRF
+pëlqej		V;1;SG;IND;FUT
+pëlqej		V;V.PTCP;PRS
+pëlqej		V;2;PL;SBJV;PRF;PRF
+pëlqej		V;1;SG;IND;IPFV
+pëlqej		V;3;PL;SBJV;PRF;PST
+pëlqej		V;1;PL;SBJV;PST
+pëlqej		V;2;SG;IND;PRF;PST
+pëlqej	pëlqyekësh	V;3;SG;ADM;IPFV
+pëlqej		V;V.PTCP
+pëlqej		V;1;PL;OPT;PRF
+pëlqej		V;1;SG;ADM;PRF;PST
+pëlqej		V;3;PL;COND;PRS
+pëlqej		V;1;SG;ADM;IPFV
+pëlqej		V;2;PL;SBJV;PRS
+pëlqej		V;1;PL;OPT;PRS
+pëlqej		V;2;PL;SBJV;PRF
+pëlqej		V;3;PL;COND;PRF
+pëlqej		V;1;PL;SBJV;PRF
+pëlqej		V;3;PL;IND;PST
+pëlqej		V;V.PTCP;PST
+pëlqej		V;1;PL;SBJV;PRS
+pëlqej		V;2;SG;SBJV;PRS
+pëlqej		V;3;SG;IND;FUT
+pëlqej		V;3;SG;IND;PST
+pëlqej		V;3;SG;IND;IPFV
+pëlqej	pëlqenin	V;3;PL;IND;IPFV
+pëlqej		V;2;PL;IND;PRF;FUT
+pëlqej	do të kem pëlqyer	V;1;SG;IND;PRF;FUT
+pëlqej		V;1;PL;IND;FUT
+pëlqej		V;1;SG;SBJV;PRS
+pëlqej	paskëshim pëlqyer	V;1;PL;ADM;PRF;PST
+pëlqej		V;2;SG;IMP
+pëlqej		V;2;SG;IND;PST
+pëlqej		V;1;SG;SBJV;PRF
+pëlqej		V;3;SG;ADM;PRF
+pëlqej	pëlqen	V;3;SG;IND;PRS
+pëlqej		V;2;PL;IMP
+pëlqej		V;1;PL;ADM;PRF
+pëlqej		V;2;SG;IND;FUT
+pëlqej		V;2;SG;IND;PRF
+pëlqej		V;3;SG;IND;PRF
+pëlqej		V;2;PL;IND;PST
+pëlqej	pëlqyeka	V;3;SG;ADM;PRS
+pëlqej	pata pëlqyer	V;1;SG;IND;PRF;PST
+pëlqej		V;3;SG;SBJV;PST
+pëlqej		V;1;PL;ADM;PRS
+pëlqej		V;2;SG;SBJV;PRF;PST
+pëlqej		V;2;SG;OPT;PRS
+pëlqej		V;3;PL;ADM;PRF
+pëlqej		V;2;SG;OPT;PRF
+pëlqej		V;3;PL;ADM;PRS
+pëlqej		V;2;PL;ADM;PRS
+pëlqej	do të pëlqejnë	V;3;PL;IND;FUT
+pëlqej		V;1;SG;COND;PRF
+pëlqej		V;1;SG;OPT;PRF
+pëlqej		V;1;SG;ADM;PRS
+pëlqej		V;3;SG;OPT;PRS
+pëlqej		V;2;PL;ADM;IPFV
+pëlqej	pëlqeva	V;1;SG;IND;PST
+pëlqej		V;3;SG;OPT;PRF
+pëlqej		V;1;SG;ADM;PRF
+pëlqej		V;1;SG;SBJV;PST
+pëlqej		V;3;SG;ADM;PRF;PST
+pëlqej		V;1;SG;COND;PRS
+pëlqej		V;1;SG;OPT;PRS
+pëlqej	do të kishe pëlqyer	V;2;SG;COND;PRF
+pëlqej		V;2;PL;IND;PRF
+pëlqej	për të pëlqyer	V;NFIN
+pëlqej		V;2;SG;COND;PRS
+pëlqej		V;2;PL;IND;PRS
+pëlqej		V;1;PL;IND;PST
+pëlqej		V;1;SG;IND;PRF
+pëlqej		V;3;SG;COND;PRS
+pëlqej		V;1;PL;IND;PRF;PST
+pëlqej		V;2;PL;IND;FUT
+pëlqej		V;1;SG;IND;PRS
+pëlqej		V;1;PL;IND;IPFV
+pëlqej	paskeni pëlqyer	V;2;PL;ADM;PRF
+pëlqej		V;3;PL;ADM;PRF;PST
+pëlqej		V;1;PL;IND;PRF
+pëlqej	patët pëlqyer	V;2;PL;IND;PRF;PRF
+pëlqej		V;1;PL;COND;PRS
+pëlqej		V;2;SG;IND;PRS
+pëlqej		V;1;PL;IND;PRS
+pëlqej		V;1;SG;SBJV;PRF;PST
+pëlqej		V;2;PL;SBJV;PST
+pëlqej		V;2;PL;COND;PRF
+pëlqej		V;2;PL;COND;PRS
+pëlqej		V;3;SG;IND;PRF;PST
+pëlqej		V;2;SG;ADM;PRF
+pëlqej		V;1;PL;ADM;IPFV
+pëlqej		V;3;PL;IND;PRF
+pëlqej		V;1;PL;SBJV;PRF;PST
+pëlqej		V;3;PL;IND;PRF;FUT
+pëlqej	pëlqejnë	V;3;PL;IND;PRS
+pëlqej		V;2;SG;ADM;PRS
+pëlqej		V;2;SG;SBJV;PST
+pëlqej	pëlqyekëshin	V;3;PL;ADM;IPFV
+pëlqej		V;2;SG;SBJV;PRF
+pëlqej	pëlqeje	V;2;SG;IND;IPFV
+pëlqej		V;2;SG;IND;PRF;FUT
+pëlqej	do të ketë pëlqyer	V;3;SG;IND;PRF;FUT
+pëlqej	paskëshit pëlqyer	V;2;PL;ADM;PRF;PRF
+pëlqej		V;1;PL;COND;PRF
+pëlqej		V;3;PL;SBJV;PRS
+pëlqej		V;2;SG;ADM;IPFV
+pëlqej		V;3;SG;SBJV;PRF;PST
+pëlqej		V;3;PL;SBJV;PRF
+gjeolog	gjeologë	N;ACC;PL;NDEF
+gjeolog	gjeologut	N;DAT;SG;DEF
+gjeolog		N;GEN;SG;NDEF
+gjeolog		N;ACC;SG;DEF
+gjeolog		N;NOM;SG;DEF
+gjeolog		N;NOM;PL;NDEF
+gjeolog		N;ACC;SG;NDEF
+gjeolog		N;ACC;PL;DEF
+gjeolog		N;NOM;PL;DEF
+gjeolog		N;GEN;PL;NDEF
+gjeolog		N;ABL;SG;NDEF
+gjeolog		N;GEN;SG;DEF
+gjeolog		N;ABL;PL;NDEF
+gjeolog		N;GEN;PL;DEF
+gjeolog	gjeologu	N;DAT;SG;NDEF
+gjeolog		N;DAT;PL;DEF
+gjeolog		N;ABL;SG;DEF
+gjeolog		N;NOM;SG;NDEF
+gjeolog		N;DAT;PL;NDEF
+gjeolog		N;ABL;PL;DEF
+shembull	shembuj	N;ACC;PL;NDEF
+shembull		N;DAT;SG;DEF
+shembull		N;NOM;SG;NDEF
+shembull	shembullin	N;ACC;SG;DEF
+shembull		N;NOM;SG;DEF
+shembull		N;NOM;PL;NDEF
+shembull	shembull	N;ACC;SG;NDEF
+shembull		N;ACC;PL;DEF
+shembull		N;NOM;PL;DEF
+shembull		N;GEN;PL;NDEF
+shembull		N;ABL;SG;NDEF
+shembull		N;GEN;SG;DEF
+shembull		N;ABL;PL;NDEF
+shembull		N;GEN;PL;DEF
+shembull		N;DAT;SG;NDEF
+shembull		N;DAT;PL;DEF
+shembull		N;ABL;SG;DEF
+shembull		N;GEN;SG;NDEF
+shembull		N;DAT;PL;NDEF
+shembull		N;ABL;PL;DEF
+antropologji	antropologjisë	N;DAT;SG;DEF
+antropologji		N;NOM;SG;NDEF
+antropologji		N;ACC;SG;DEF
+antropologji		N;NOM;SG;DEF
+antropologji		N;ACC;SG;NDEF
+antropologji		N;ABL;SG;NDEF
+antropologji		N;GEN;SG;DEF
+antropologji		N;DAT;SG;NDEF
+antropologji		N;ABL;SG;DEF
+antropologji		N;GEN;SG;NDEF
+kuçedër		N;ACC;PL;NDEF
+kuçedër		N;DAT;SG;DEF
+kuçedër		N;GEN;SG;NDEF
+kuçedër		N;ACC;SG;DEF
+kuçedër		N;NOM;SG;DEF
+kuçedër	kuçedra	N;NOM;PL;NDEF
+kuçedër		N;ACC;SG;NDEF
+kuçedër		N;ACC;PL;DEF
+kuçedër		N;NOM;PL;DEF
+kuçedër	kuçedrave	N;GEN;PL;NDEF
+kuçedër		N;ABL;SG;NDEF
+kuçedër		N;GEN;SG;DEF
+kuçedër		N;ABL;PL;NDEF
+kuçedër		N;GEN;PL;DEF
+kuçedër		N;DAT;SG;NDEF
+kuçedër		N;DAT;PL;DEF
+kuçedër		N;ABL;SG;DEF
+kuçedër		N;NOM;SG;NDEF
+kuçedër		N;DAT;PL;NDEF
+kuçedër	kuçedrave	N;ABL;PL;DEF
