@@ -46,7 +46,7 @@ chielen$ > chielt$
 schielen$ > schielt$
 ```
 
-Likewise, the only prefix-changing rules extracted is the following:
+Likewise, the only prefix-changing rule extracted is the following:
 
 ```
 $ > $ge
