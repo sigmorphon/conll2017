@@ -10,7 +10,7 @@ The default relative path to the train/dev files (`./../`) can be changed with t
 
 ## Details: learning
 
-As a first step, the system aligns input/output training examples using Levenshtein.  For example, the example
+As a first step, the system aligns input/output training examples using Levenshtein distance.  For example, the example
 
 ```
 schielen        geschielt       V.PTCP;PST
@@ -72,7 +72,7 @@ $kaufen$ > $gekauft$
 
 ### Unseen MSD strings
 
-If no rule has been associated with a particular MSD, the lemma form is simply repeated.
+If no rule has been associated with a particular MSD combination, the lemma form is simply repeated.
 
 ### Task 2
 
@@ -80,5 +80,4 @@ In task 2 (the paradigm cell-filling task), all the forms are generated from the
 
 ### Prefixing languages
 
-There is a heuristic to decide if a language is largely prefixing or largely suffixing.  This is done by simply counting how often there is a prefix-change vs. suffix-change in going from the lemma form to the inflected form.  Whenever a language is found to be prefixing, the system works with reversed strings throughout.
-
+There is a heuristic to decide if a language is largely prefixing or largely suffixing.  This is done by simply counting how often there is a prefix-change vs. suffix-change in going from the lemma form to the inflected form.  Whenever a language is found to be largely prefixing, the system works with reversed strings throughout.
