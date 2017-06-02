@@ -5,7 +5,7 @@ Baseline system for the CoNLL-SIGMORPHON 2017 Shared Task.
 Solves tasks 1 and 2 evaluating on dev data and optionally outputs guesses.
 
 Author: Mans Hulden
-Last Update: 03/01/2017
+Last Update: 06/02/2017
 """
 
 from __future__ import print_function
@@ -228,6 +228,7 @@ def main(argv):
                 if task == 1:
                     for l in devlines:
                         lemma, correct, msd, = l.split(u'\t')
+                        lemmaorig = lemma
                         if prefbias > suffbias:
                             lemma = lemma[::-1]
                         outform = apply_best_rule(lemma, msd, allprules, allsrules)
@@ -237,7 +238,7 @@ def main(argv):
                             numcorrect += 1
                         numguesses += 1
                         if OUTPUT:
-                            outfile.write(lemma + "\t" + outform + "\t" + msd + "\n")
+                            outfile.write(lemmaorig + "\t" + outform + "\t" + msd + "\n")
                 else:
                     for i in range(len(devalllines)):
                          lemma, form, msd, = devcoveredlines[i].split(u'\t')
