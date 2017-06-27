@@ -1,0 +1,2088 @@
+vanker	vankrid	N;NOM;PL
+vanker	vankriks	N;TRANS;SG
+vanker	vankril	N;AT+ESS;SG
+vanker	vankritesse	N;IN+ALL;PL
+vanker	vankris	N;IN+ESS;SG
+vanker	vankrit	N;PRT;SG
+vanker	vankrini	N;TERM;SG
+vanker	vankrist	N;IN+ABL;SG
+vanker	vankriga	N;COM;SG
+vanker	vankrite	N;GEN;PL
+vanker	vankrisse	N;IN+ALL;SG
+vanker	vankreid	N;PRT;PL
+vanker	vankritelt	N;AT+ABL;PL
+vanker	vankrina	N;FRML;SG
+vanker	vankrid	N;ACC;PL
+vanker	vankritele	N;AT+ALL;PL
+vanker	vankrita	N;PRIV;SG
+vanker	vankritel	N;AT+ESS;PL
+vanker	vankriteks	N;TRANS;PL
+vanker	vankri	N;GEN;SG
+vanker	vankrites	N;IN+ESS;PL
+vanker	vankritega	N;COM;PL
+vanker	vankritest	N;IN+ABL;PL
+vanker	vankriteni	N;TERM;PL
+vanker	vankritena	N;FRML;PL
+vanker	vankrile	N;AT+ALL;SG
+vanker	vanker	N;NOM;SG
+vanker	vankri	N;ACC;SG
+vanker	vankrilt	N;AT+ABL;SG
+vanker	vankriteta	N;PRIV;PL
+muretsema	muretsetud	V.PTCP;PASS;PST
+muretsema	oleme muretsenud	V;ACT;PRS;PRF;POS;IND;1;PL
+muretsema	ei olnud muretsetudp	V;PASS;PST;PRF;NEG;IND
+muretsema	olgu muretsenud	V;ACT;PRS;PRF;POS;IMP;SG
+muretsema	muretsegu	V;ACT;PRS;POS;IMP;3;SG
+muretsema	ei olevat muretsenudp	V;ACT;PRS;PRF;NEG;QUOT
+muretsema	oleksin muretsenud	V;ACT;PRS;PRF;POS;COND
+muretsema	muretseks	V;ACT;PRS;POS;COND;3;SG
+muretsema	muretsegu	V;ACT;PRS;POS;IMP;3;PL
+muretsema	ärge muretsege	V;ACT;PRS;NEG;IMP;2;PL
+muretsema	muretsevat	V;ACT;PRS;POS;QUOT
+muretsema	muretseb	V;ACT;PRS;POS;IND;3;SG
+muretsema	olen muretsenud	V;ACT;PRS;PRF;POS;IND;1;SG
+muretsema	olete muretsenud	V;ACT;PRS;PRF;POS;IND;2;PL
+muretsema	muretsev	V.PTCP;ACT;PRS
+muretsema	muretsen	V;ACT;PRS;POS;IND;1;SG
+muretsema	ärgu olgu muretsetud	V;PASS;PRS;PRF;NEG;IMP
+muretsema	muretseksid	V;ACT;PRS;POS;COND;2;SG
+muretsema	ei olevat muretsetudp	V;PASS;PRS;PRF;NEG;QUOT
+muretsema	muretsetavat	V;PASS;PRS;POS;QUOT
+muretsema	muretsetav	V.PTCP;PASS;PRS
+muretsema	oleks muretsetud	V;PASS;PRS;PRF;POS;COND
+muretsema	oli muretsetud	V;PASS;PST;PRF;POS;IND
+muretsema	ei ole muretsenudp	V;ACT;PST;NEG;IND
+muretsema	muretsegem	V;ACT;PRS;POS;IMP;1;PL
+muretsema	ei muretsevat	V;ACT;PRS;NEG;QUOT
+muretsema	muretseksime	V;ACT;PRS;POS;COND;1;PL
+muretsema	ei ole muretsetudp	V;PASS;PRS;PRF;NEG;IND
+muretsema	ärgu muretsegu	V;ACT;PRS;NEG;IMP;3;SG
+muretsema	ei muretsetavat	V;PASS;PRS;NEG;QUOT
+muretsema	ei muretseta	V;PASS;PRS;NEG;IND
+muretsema	olevat muretsetud	V;PASS;PRS;PRF;POS;QUOT
+muretsema	muretsesime	V;ACT;PST;POS;IND;1;PL
+muretsema	on muretsenud	V;ACT;PRS;PRF;POS;IND;3;PL
+muretsema	muretsetaks	V;PASS;PRS;POS;COND
+muretsema	olin muretsenud	V;ACT;PRS;PRF;POS;COND;1;SG
+muretsema	oled muretsenud	V;ACT;PRS;PRF;POS;IND;2;SG
+muretsema	olevat muretsenud	V;ACT;PRS;PRF;POS;QUOT
+muretsema	ei oleks muretsetudp	V;PASS;PRS;PRF;NEG;COND
+muretsema	ei muretsetud	V;PASS;PST;NEG;IND
+muretsema	ärgu muretsegu	V;ACT;PRS;NEG;IMP;3;PL
+muretsema	muretseme	V;ACT;PRS;POS;IND;1;PL
+muretsema	oleksime muretsenud	V;ACT;PRS;PRF;POS;COND;1;PL
+muretsema	ära muretse	V;ACT;PRS;NEG;IMP;2;SG
+muretsema	muretsetagu	V;PASS;PRS;POS;IMP
+muretsema	ei muretsetaks	V;PASS;PRS;NEG;COND
+muretsema	muretsevad	V;ACT;PRS;POS;IND;3;PL
+muretsema	muretses	V;ACT;PST;POS;IND;3;SG
+muretsema	muretseti	V;PASS;PST;POS;IND
+muretsema	muretsesid	V;ACT;PST;POS;IND;3;PL
+muretsema	ärgu olgu muretsenud	V;ACT;PRS;PRF;NEG;IMP;SG
+muretsema	muretsed	V;ACT;PRS;POS;IND;2;SG
+muretsema	olite muretsenud	V;ACT;PRS;PRF;POS;COND;2;PL
+muretsema	muretsenud	V.PTCP;ACT;PST
+muretsema	ei muretse	V;ACT;PRS;NEG;IND
+muretsema	ärgu muretsetagu	V;PASS;PRS;NEG;IMP
+muretsema	muretsesite	V;ACT;PST;POS;IND;2;PL
+muretsema	oli muretsenud	V;ACT;PRS;PRF;POS;COND;3;SG
+muretsema	muretsema	V;NFIN
+muretsema	on muretsetud	V;PASS;PRS;PRF;POS;IND
+muretsema	ärgem muretsegem	V;ACT;PRS;NEG;IMP;1;PL
+muretsema	olid muretsenud	V;ACT;PRS;PRF;POS;COND;2;SG
+muretsema	muretsesid	V;ACT;PST;POS;IND;2;SG
+muretsema	muretsete	V;ACT;PRS;POS;IND;2;PL
+muretsema	muretsetakse	V;PASS;PRS;POS;IND
+muretsema	on muretsenud	V;ACT;PRS;PRF;POS;IND;3;SG
+muretsema	ärgu olgu muretsenud	V;ACT;PRS;PRF;NEG;IMP;PL
+muretsema	muretseksite	V;ACT;PRS;POS;COND;2;PL
+muretsema	oleksite muretsenud	V;ACT;PRS;PRF:POS;COND;2;PL
+muretsema	muretsege	V;ACT;PRS;POS;IMP;2;PL
+muretsema	olgu muretsenud	V;ACT;PRS;PRF;POS;IMP;PL
+muretsema	oleksid muretsenud	V;ACT;PRS;PRF;POS;COND;3;PL
+muretsema	muretseksid	V;ACT;PRS;POS;COND;3;PL
+muretsema	muretsesin	V;ACT;PST;POS;IND;1;SG
+muretsema	ei oleks muretsenudp	V;ACT;PRS;PRF;NEG;COND
+muretsema	olgu muretsetud	V;PASS;PRS;PRF;POS;IMP
+muretsema	ei olnud muretsenudp	V;ACT;PST;PRF;NEG;IND
+muretsema	muretse	V;ACT;PRS;POS;IMP;2;SG
+muretsema	muretseksin	V;ACT;PRS;POS;COND;1;SG
+õhtu	õhtud	N;NOM;PL
+õhtu	õhtuks	N;TRANS;SG
+õhtu	õhtul	N;AT+ESS;SG
+õhtu	õhtutesse	N;IN+ALL;PL
+õhtu	õhtus	N;IN+ESS;SG
+õhtu	õhtut	N;PRT;SG
+õhtu	õhtuni	N;TERM;SG
+õhtu	õhtust	N;IN+ABL;SG
+õhtu	õhtuga	N;COM;SG
+õhtu	õhtute	N;GEN;PL
+õhtu	õhtusse	N;IN+ALL;SG
+õhtu	õhtuid	N;PRT;PL
+õhtu	õhtutelt	N;AT+ABL;PL
+õhtu	õhtuna	N;FRML;SG
+õhtu	õhtud	N;ACC;PL
+õhtu	õhtutele	N;AT+ALL;PL
+õhtu	õhtuta	N;PRIV;SG
+õhtu	õhtutel	N;AT+ESS;PL
+õhtu	õhtuteks	N;TRANS;PL
+õhtu	õhtu	N;GEN;SG
+õhtu	õhtutes	N;IN+ESS;PL
+õhtu	õhtutega	N;COM;PL
+õhtu	õhtutest	N;IN+ABL;PL
+õhtu	õhtuteni	N;TERM;PL
+õhtu	õhtutena	N;FRML;PL
+õhtu	õhtule	N;AT+ALL;SG
+õhtu	õhtu	N;NOM;SG
+õhtu	õhtu	N;ACC;SG
+õhtu	õhtult	N;AT+ABL;SG
+õhtu	õhtuteta	N;PRIV;PL
+aaker	aakrid	N;NOM;PL
+aaker	aakriks	N;TRANS;SG
+aaker	aakril	N;AT+ESS;SG
+aaker	aakritesse	N;IN+ALL;PL
+aaker	aakris	N;IN+ESS;SG
+aaker	aakrit	N;PRT;SG
+aaker	aakrini	N;TERM;SG
+aaker	aakrist	N;IN+ABL;SG
+aaker	aakriga	N;COM;SG
+aaker	aakrite	N;GEN;PL
+aaker	aakrisse	N;IN+ALL;SG
+aaker	aakreid	N;PRT;PL
+aaker	aakritelt	N;AT+ABL;PL
+aaker	aakrina	N;FRML;SG
+aaker	aakrid	N;ACC;PL
+aaker	aakritele	N;AT+ALL;PL
+aaker	aakrita	N;PRIV;SG
+aaker	aakritel	N;AT+ESS;PL
+aaker	aakriteks	N;TRANS;PL
+aaker	aakri	N;GEN;SG
+aaker	aakrites	N;IN+ESS;PL
+aaker	aakritega	N;COM;PL
+aaker	aakritest	N;IN+ABL;PL
+aaker	aakriteni	N;TERM;PL
+aaker	aakritena	N;FRML;PL
+aaker	aakrile	N;AT+ALL;SG
+aaker	aaker	N;NOM;SG
+aaker	aakri	N;ACC;SG
+aaker	aakrilt	N;AT+ABL;SG
+aaker	aakriteta	N;PRIV;PL
+arvama	arvatud	V.PTCP;PASS;PST
+arvama	oleme arvanud	V;ACT;PRS;PRF;POS;IND;1;PL
+arvama	ei olnud arvatudp	V;PASS;PST;PRF;NEG;IND
+arvama	olgu arvanud	V;ACT;PRS;PRF;POS;IMP;SG
+arvama	arvaku	V;ACT;PRS;POS;IMP;3;SG
+arvama	ei olevat arvanudp	V;ACT;PRS;PRF;NEG;QUOT
+arvama	oleksin arvanud	V;ACT;PRS;PRF;POS;COND
+arvama	arvaks	V;ACT;PRS;POS;COND;3;SG
+arvama	arvaku	V;ACT;PRS;POS;IMP;3;PL
+arvama	ärge arvake	V;ACT;PRS;NEG;IMP;2;PL
+arvama	arvavat	V;ACT;PRS;POS;QUOT
+arvama	arvab	V;ACT;PRS;POS;IND;3;SG
+arvama	olen arvanud	V;ACT;PRS;PRF;POS;IND;1;SG
+arvama	olete arvanud	V;ACT;PRS;PRF;POS;IND;2;PL
+arvama	arvav	V.PTCP;ACT;PRS
+arvama	arvan	V;ACT;PRS;POS;IND;1;SG
+arvama	ärgu olgu arvatud	V;PASS;PRS;PRF;NEG;IMP
+arvama	arvaksid	V;ACT;PRS;POS;COND;2;SG
+arvama	ei olevat arvatudp	V;PASS;PRS;PRF;NEG;QUOT
+arvama	arvatavat	V;PASS;PRS;POS;QUOT
+arvama	arvatav	V.PTCP;PASS;PRS
+arvama	oleks arvatud	V;PASS;PRS;PRF;POS;COND
+arvama	oli arvatud	V;PASS;PST;PRF;POS;IND
+arvama	ei ole arvanudp	V;ACT;PST;NEG;IND
+arvama	arvakem	V;ACT;PRS;POS;IMP;1;PL
+arvama	ei arvavat	V;ACT;PRS;NEG;QUOT
+arvama	arvaksime	V;ACT;PRS;POS;COND;1;PL
+arvama	ei ole arvatudp	V;PASS;PRS;PRF;NEG;IND
+arvama	ärgu arvaku	V;ACT;PRS;NEG;IMP;3;SG
+arvama	ei arvatavat	V;PASS;PRS;NEG;QUOT
+arvama	ei arvata	V;PASS;PRS;NEG;IND
+arvama	olevat arvatud	V;PASS;PRS;PRF;POS;QUOT
+arvama	arvasime	V;ACT;PST;POS;IND;1;PL
+arvama	on arvanud	V;ACT;PRS;PRF;POS;IND;3;PL
+arvama	arvataks	V;PASS;PRS;POS;COND
+arvama	olin arvanud	V;ACT;PRS;PRF;POS;COND;1;SG
+arvama	oled arvanud	V;ACT;PRS;PRF;POS;IND;2;SG
+arvama	olevat arvanud	V;ACT;PRS;PRF;POS;QUOT
+arvama	ei oleks arvatudp	V;PASS;PRS;PRF;NEG;COND
+arvama	ei arvatud	V;PASS;PST;NEG;IND
+arvama	ärgu arvaku	V;ACT;PRS;NEG;IMP;3;PL
+arvama	arvame	V;ACT;PRS;POS;IND;1;PL
+arvama	oleksime arvanud	V;ACT;PRS;PRF;POS;COND;1;PL
+arvama	ära arva	V;ACT;PRS;NEG;IMP;2;SG
+arvama	arvatagu	V;PASS;PRS;POS;IMP
+arvama	ei arvataks	V;PASS;PRS;NEG;COND
+arvama	arvavad	V;ACT;PRS;POS;IND;3;PL
+arvama	arvas	V;ACT;PST;POS;IND;3;SG
+arvama	arvati	V;PASS;PST;POS;IND
+arvama	arvasid	V;ACT;PST;POS;IND;3;PL
+arvama	ärgu olgu arvanud	V;ACT;PRS;PRF;NEG;IMP;SG
+arvama	arvad	V;ACT;PRS;POS;IND;2;SG
+arvama	olite arvanud	V;ACT;PRS;PRF;POS;COND;2;PL
+arvama	arvanud	V.PTCP;ACT;PST
+arvama	ei arva	V;ACT;PRS;NEG;IND
+arvama	ärgu arvatagu	V;PASS;PRS;NEG;IMP
+arvama	arvasite	V;ACT;PST;POS;IND;2;PL
+arvama	oli arvanud	V;ACT;PRS;PRF;POS;COND;3;SG
+arvama	arvama	V;NFIN
+arvama	on arvatud	V;PASS;PRS;PRF;POS;IND
+arvama	ärgem arvakem	V;ACT;PRS;NEG;IMP;1;PL
+arvama	olid arvanud	V;ACT;PRS;PRF;POS;COND;2;SG
+arvama	arvasid	V;ACT;PST;POS;IND;2;SG
+arvama	arvate	V;ACT;PRS;POS;IND;2;PL
+arvama	arvatakse	V;PASS;PRS;POS;IND
+arvama	on arvanud	V;ACT;PRS;PRF;POS;IND;3;SG
+arvama	ärgu olgu arvanud	V;ACT;PRS;PRF;NEG;IMP;PL
+arvama	arvaksite	V;ACT;PRS;POS;COND;2;PL
+arvama	oleksite arvanud	V;ACT;PRS;PRF:POS;COND;2;PL
+arvama	arvake	V;ACT;PRS;POS;IMP;2;PL
+arvama	olgu arvanud	V;ACT;PRS;PRF;POS;IMP;PL
+arvama	oleksid arvanud	V;ACT;PRS;PRF;POS;COND;3;PL
+arvama	arvaksid	V;ACT;PRS;POS;COND;3;PL
+arvama	arvasin	V;ACT;PST;POS;IND;1;SG
+arvama	ei oleks arvanudp	V;ACT;PRS;PRF;NEG;COND
+arvama	olgu arvatud	V;PASS;PRS;PRF;POS;IMP
+arvama	ei olnud arvanudp	V;ACT;PST;PRF;NEG;IND
+arvama	arva	V;ACT;PRS;POS;IMP;2;SG
+arvama	arvaksin	V;ACT;PRS;POS;COND;1;SG
+ostma	ostetud	V.PTCP;PASS;PST
+ostma	oleme ostnud	V;ACT;PRS;PRF;POS;IND;1;PL
+ostma	ei olnud ostetudp	V;PASS;PST;PRF;NEG;IND
+ostma	olgu ostnud	V;ACT;PRS;PRF;POS;IMP;SG
+ostma	ostku	V;ACT;PRS;POS;IMP;3;SG
+ostma	ei olevat ostnudp	V;ACT;PRS;PRF;NEG;QUOT
+ostma	oleksin ostnud	V;ACT;PRS;PRF;POS;COND
+ostma	ostaks	V;ACT;PRS;POS;COND;3;SG
+ostma	ostku	V;ACT;PRS;POS;IMP;3;PL
+ostma	ärge ostke	V;ACT;PRS;NEG;IMP;2;PL
+ostma	ostvat	V;ACT;PRS;POS;QUOT
+ostma	ostab	V;ACT;PRS;POS;IND;3;SG
+ostma	olen ostnud	V;ACT;PRS;PRF;POS;IND;1;SG
+ostma	olete ostnud	V;ACT;PRS;PRF;POS;IND;2;PL
+ostma	ostev	V.PTCP;ACT;PRS
+ostma	ostan	V;ACT;PRS;POS;IND;1;SG
+ostma	ärgu olgu ostetud	V;PASS;PRS;PRF;NEG;IMP
+ostma	ostaksid	V;ACT;PRS;POS;COND;2;SG
+ostma	ei olevat ostetudp	V;PASS;PRS;PRF;NEG;QUOT
+ostma	ostetavat	V;PASS;PRS;POS;QUOT
+ostma	ostetav	V.PTCP;PASS;PRS
+ostma	oleks ostetud	V;PASS;PRS;PRF;POS;COND
+ostma	oli ostetud	V;PASS;PST;PRF;POS;IND
+ostma	ei ole ostnudp	V;ACT;PST;NEG;IND
+ostma	ostkem	V;ACT;PRS;POS;IMP;1;PL
+ostma	ei ostvat	V;ACT;PRS;NEG;QUOT
+ostma	ostaksime	V;ACT;PRS;POS;COND;1;PL
+ostma	ei ole ostetudp	V;PASS;PRS;PRF;NEG;IND
+ostma	ärgu ostku	V;ACT;PRS;NEG;IMP;3;SG
+ostma	ei ostetavat	V;PASS;PRS;NEG;QUOT
+ostma	ei osteta	V;PASS;PRS;NEG;IND
+ostma	olevat ostetud	V;PASS;PRS;PRF;POS;QUOT
+ostma	ostsime	V;ACT;PST;POS;IND;1;PL
+ostma	on ostnud	V;ACT;PRS;PRF;POS;IND;3;PL
+ostma	ostetaks	V;PASS;PRS;POS;COND
+ostma	olin ostnud	V;ACT;PRS;PRF;POS;COND;1;SG
+ostma	oled ostnud	V;ACT;PRS;PRF;POS;IND;2;SG
+ostma	olevat ostnud	V;ACT;PRS;PRF;POS;QUOT
+ostma	ei oleks ostetudp	V;PASS;PRS;PRF;NEG;COND
+ostma	ei ostetud	V;PASS;PST;NEG;IND
+ostma	ärgu ostku	V;ACT;PRS;NEG;IMP;3;PL
+ostma	ostame	V;ACT;PRS;POS;IND;1;PL
+ostma	oleksime ostnud	V;ACT;PRS;PRF;POS;COND;1;PL
+ostma	ära osta	V;ACT;PRS;NEG;IMP;2;SG
+ostma	ostetagu	V;PASS;PRS;POS;IMP
+ostma	ei ostetaks	V;PASS;PRS;NEG;COND
+ostma	ostavad	V;ACT;PRS;POS;IND;3;PL
+ostma	ostis	V;ACT;PST;POS;IND;3;SG
+ostma	osteti	V;PASS;PST;POS;IND
+ostma	ostsid	V;ACT;PST;POS;IND;3;PL
+ostma	ärgu olgu ostnud	V;ACT;PRS;PRF;NEG;IMP;SG
+ostma	ostad	V;ACT;PRS;POS;IND;2;SG
+ostma	olite ostnud	V;ACT;PRS;PRF;POS;COND;2;PL
+ostma	ostnud	V.PTCP;ACT;PST
+ostma	ei osta	V;ACT;PRS;NEG;IND
+ostma	ärgu ostetagu	V;PASS;PRS;NEG;IMP
+ostma	ostsite	V;ACT;PST;POS;IND;2;PL
+ostma	oli ostnud	V;ACT;PRS;PRF;POS;COND;3;SG
+ostma	ostma	V;NFIN
+ostma	on ostetud	V;PASS;PRS;PRF;POS;IND
+ostma	ärgem ostkem	V;ACT;PRS;NEG;IMP;1;PL
+ostma	olid ostnud	V;ACT;PRS;PRF;POS;COND;2;SG
+ostma	ostsid	V;ACT;PST;POS;IND;2;SG
+ostma	ostate	V;ACT;PRS;POS;IND;2;PL
+ostma	ostetakse	V;PASS;PRS;POS;IND
+ostma	on ostnud	V;ACT;PRS;PRF;POS;IND;3;SG
+ostma	ärgu olgu ostnud	V;ACT;PRS;PRF;NEG;IMP;PL
+ostma	ostaksite	V;ACT;PRS;POS;COND;2;PL
+ostma	oleksite ostnud	V;ACT;PRS;PRF:POS;COND;2;PL
+ostma	ostke	V;ACT;PRS;POS;IMP;2;PL
+ostma	olgu ostnud	V;ACT;PRS;PRF;POS;IMP;PL
+ostma	oleksid ostnud	V;ACT;PRS;PRF;POS;COND;3;PL
+ostma	ostaksid	V;ACT;PRS;POS;COND;3;PL
+ostma	ostsin	V;ACT;PST;POS;IND;1;SG
+ostma	ei oleks ostnudp	V;ACT;PRS;PRF;NEG;COND
+ostma	olgu ostetud	V;PASS;PRS;PRF;POS;IMP
+ostma	ei olnud ostnudp	V;ACT;PST;PRF;NEG;IND
+ostma	osta	V;ACT;PRS;POS;IMP;2;SG
+ostma	ostaksin	V;ACT;PRS;POS;COND;1;SG
+reisija	reisijad	N;NOM;PL
+reisija	reisijaks	N;TRANS;SG
+reisija	reisijal	N;AT+ESS;SG
+reisija	reisijatesse	N;IN+ALL;PL
+reisija	reisijas	N;IN+ESS;SG
+reisija	reisijat	N;PRT;SG
+reisija	reisijani	N;TERM;SG
+reisija	reisijast	N;IN+ABL;SG
+reisija	reisijaga	N;COM;SG
+reisija	reisijate	N;GEN;PL
+reisija	reisijasse	N;IN+ALL;SG
+reisija	reisijaid	N;PRT;PL
+reisija	reisijatelt	N;AT+ABL;PL
+reisija	reisijana	N;FRML;SG
+reisija	reisijad	N;ACC;PL
+reisija	reisijatele	N;AT+ALL;PL
+reisija	reisijata	N;PRIV;SG
+reisija	reisijatel	N;AT+ESS;PL
+reisija	reisijateks	N;TRANS;PL
+reisija	reisija	N;GEN;SG
+reisija	reisijates	N;IN+ESS;PL
+reisija	reisijatega	N;COM;PL
+reisija	reisijatest	N;IN+ABL;PL
+reisija	reisijateni	N;TERM;PL
+reisija	reisijatena	N;FRML;PL
+reisija	reisijale	N;AT+ALL;SG
+reisija	reisija	N;NOM;SG
+reisija	reisija	N;ACC;SG
+reisija	reisijalt	N;AT+ABL;SG
+reisija	reisijateta	N;PRIV;PL
+punker	punkrid	N;NOM;PL
+punker	punkriks	N;TRANS;SG
+punker	punkril	N;AT+ESS;SG
+punker	punkritesse	N;IN+ALL;PL
+punker	punkris	N;IN+ESS;SG
+punker	punkrit	N;PRT;SG
+punker	punkrini	N;TERM;SG
+punker	punkrist	N;IN+ABL;SG
+punker	punkriga	N;COM;SG
+punker	punkrite	N;GEN;PL
+punker	punkrisse	N;IN+ALL;SG
+punker	punkreid	N;PRT;PL
+punker	punkritelt	N;AT+ABL;PL
+punker	punkrina	N;FRML;SG
+punker	punkrid	N;ACC;PL
+punker	punkritele	N;AT+ALL;PL
+punker	punkrita	N;PRIV;SG
+punker	punkritel	N;AT+ESS;PL
+punker	punkriteks	N;TRANS;PL
+punker	punkri	N;GEN;SG
+punker	punkrites	N;IN+ESS;PL
+punker	punkritega	N;COM;PL
+punker	punkritest	N;IN+ABL;PL
+punker	punkriteni	N;TERM;PL
+punker	punkritena	N;FRML;PL
+punker	punkrile	N;AT+ALL;SG
+punker	punker	N;NOM;SG
+punker	punkri	N;ACC;SG
+punker	punkrilt	N;AT+ABL;SG
+punker	punkriteta	N;PRIV;PL
+korter	korterid	N;NOM;PL
+korter	korteriks	N;TRANS;SG
+korter	korteril	N;AT+ESS;SG
+korter	korteritesse	N;IN+ALL;PL
+korter	korteris	N;IN+ESS;SG
+korter	korterit	N;PRT;SG
+korter	korterini	N;TERM;SG
+korter	korterist	N;IN+ABL;SG
+korter	korteriga	N;COM;SG
+korter	korterite	N;GEN;PL
+korter	korterisse	N;IN+ALL;SG
+korter	kortereid	N;PRT;PL
+korter	korteritelt	N;AT+ABL;PL
+korter	korterina	N;FRML;SG
+korter	korterid	N;ACC;PL
+korter	korteritele	N;AT+ALL;PL
+korter	korterita	N;PRIV;SG
+korter	korteritel	N;AT+ESS;PL
+korter	korteriteks	N;TRANS;PL
+korter	korteri	N;GEN;SG
+korter	korterites	N;IN+ESS;PL
+korter	korteritega	N;COM;PL
+korter	korteritest	N;IN+ABL;PL
+korter	korteriteni	N;TERM;PL
+korter	korteritena	N;FRML;PL
+korter	korterile	N;AT+ALL;SG
+korter	korter	N;NOM;SG
+korter	korteri	N;ACC;SG
+korter	korterilt	N;AT+ABL;SG
+korter	korteriteta	N;PRIV;PL
+vaarikas	vaarikad	N;NOM;PL
+vaarikas	vaarikaks	N;TRANS;SG
+vaarikas	vaarikal	N;AT+ESS;SG
+vaarikas	vaarikatesse	N;IN+ALL;PL
+vaarikas	vaarikas	N;IN+ESS;SG
+vaarikas	vaarikat	N;PRT;SG
+vaarikas	vaarikani	N;TERM;SG
+vaarikas	vaarikast	N;IN+ABL;SG
+vaarikas	vaarikaga	N;COM;SG
+vaarikas	vaarikate	N;GEN;PL
+vaarikas	vaarikasse	N;IN+ALL;SG
+vaarikas	vaarikaid	N;PRT;PL
+vaarikas	vaarikatelt	N;AT+ABL;PL
+vaarikas	vaarikana	N;FRML;SG
+vaarikas	vaarikad	N;ACC;PL
+vaarikas	vaarikatele	N;AT+ALL;PL
+vaarikas	vaarikata	N;PRIV;SG
+vaarikas	vaarikatel	N;AT+ESS;PL
+vaarikas	vaarikateks	N;TRANS;PL
+vaarikas	vaarika	N;GEN;SG
+vaarikas	vaarikates	N;IN+ESS;PL
+vaarikas	vaarikatega	N;COM;PL
+vaarikas	vaarikatest	N;IN+ABL;PL
+vaarikas	vaarikateni	N;TERM;PL
+vaarikas	vaarikatena	N;FRML;PL
+vaarikas	vaarikale	N;AT+ALL;SG
+vaarikas	vaarikas	N;NOM;SG
+vaarikas	vaarika	N;ACC;SG
+vaarikas	vaarikalt	N;AT+ABL;SG
+vaarikas	vaarikateta	N;PRIV;PL
+nikkel	niklid	N;NOM;PL
+nikkel	nikliks	N;TRANS;SG
+nikkel	niklil	N;AT+ESS;SG
+nikkel	niklitesse	N;IN+ALL;PL
+nikkel	niklis	N;IN+ESS;SG
+nikkel	niklit	N;PRT;SG
+nikkel	niklini	N;TERM;SG
+nikkel	niklist	N;IN+ABL;SG
+nikkel	nikliga	N;COM;SG
+nikkel	niklite	N;GEN;PL
+nikkel	niklisse	N;IN+ALL;SG
+nikkel	nikleid	N;PRT;PL
+nikkel	niklitelt	N;AT+ABL;PL
+nikkel	niklina	N;FRML;SG
+nikkel	niklid	N;ACC;PL
+nikkel	niklitele	N;AT+ALL;PL
+nikkel	niklita	N;PRIV;SG
+nikkel	niklitel	N;AT+ESS;PL
+nikkel	nikliteks	N;TRANS;PL
+nikkel	nikli	N;GEN;SG
+nikkel	niklites	N;IN+ESS;PL
+nikkel	niklitega	N;COM;PL
+nikkel	niklitest	N;IN+ABL;PL
+nikkel	nikliteni	N;TERM;PL
+nikkel	niklitena	N;FRML;PL
+nikkel	niklile	N;AT+ALL;SG
+nikkel	nikkel	N;NOM;SG
+nikkel	nikli	N;ACC;SG
+nikkel	niklilt	N;AT+ABL;SG
+nikkel	nikliteta	N;PRIV;PL
+ingel	inglid	N;NOM;PL
+ingel	ingliks	N;TRANS;SG
+ingel	inglil	N;AT+ESS;SG
+ingel	inglitesse	N;IN+ALL;PL
+ingel	inglis	N;IN+ESS;SG
+ingel	inglit	N;PRT;SG
+ingel	inglini	N;TERM;SG
+ingel	inglist	N;IN+ABL;SG
+ingel	ingliga	N;COM;SG
+ingel	inglite	N;GEN;PL
+ingel	inglisse	N;IN+ALL;SG
+ingel	ingleid	N;PRT;PL
+ingel	inglitelt	N;AT+ABL;PL
+ingel	inglina	N;FRML;SG
+ingel	inglid	N;ACC;PL
+ingel	inglitele	N;AT+ALL;PL
+ingel	inglita	N;PRIV;SG
+ingel	inglitel	N;AT+ESS;PL
+ingel	ingliteks	N;TRANS;PL
+ingel	ingli	N;GEN;SG
+ingel	inglites	N;IN+ESS;PL
+ingel	inglitega	N;COM;PL
+ingel	inglitest	N;IN+ABL;PL
+ingel	ingliteni	N;TERM;PL
+ingel	inglitena	N;FRML;PL
+ingel	inglile	N;AT+ALL;SG
+ingel	ingel	N;NOM;SG
+ingel	ingli	N;ACC;SG
+ingel	inglilt	N;AT+ABL;SG
+ingel	ingliteta	N;PRIV;PL
+mesilane	mesilased	N;NOM;PL
+mesilane	mesilaseks	N;TRANS;SG
+mesilane	mesilasel	N;AT+ESS;SG
+mesilane	mesilastesse	N;IN+ALL;PL
+mesilane	mesilases	N;IN+ESS;SG
+mesilane	mesilast	N;PRT;SG
+mesilane	mesilaseni	N;TERM;SG
+mesilane	mesilasest	N;IN+ABL;SG
+mesilane	mesilasega	N;COM;SG
+mesilane	mesilaste	N;GEN;PL
+mesilane	mesilasse	N;IN+ALL;SG
+mesilane	mesilasi	N;PRT;PL
+mesilane	mesilastelt	N;AT+ABL;PL
+mesilane	mesilasena	N;FRML;SG
+mesilane	mesilased	N;ACC;PL
+mesilane	mesilastele	N;AT+ALL;PL
+mesilane	mesilaseta	N;PRIV;SG
+mesilane	mesilastel	N;AT+ESS;PL
+mesilane	mesilasteks	N;TRANS;PL
+mesilane	mesilase	N;GEN;SG
+mesilane	mesilastes	N;IN+ESS;PL
+mesilane	mesilastega	N;COM;PL
+mesilane	mesilastest	N;IN+ABL;PL
+mesilane	mesilasteni	N;TERM;PL
+mesilane	mesilastena	N;FRML;PL
+mesilane	mesilasele	N;AT+ALL;SG
+mesilane	mesilane	N;NOM;SG
+mesilane	mesilase	N;ACC;SG
+mesilane	mesilaselt	N;AT+ABL;SG
+mesilane	mesilasteta	N;PRIV;PL
+katma	katetud	V.PTCP;PASS;PST
+katma	oleme katnud	V;ACT;PRS;PRF;POS;IND;1;PL
+katma	ei olnud katetudp	V;PASS;PST;PRF;NEG;IND
+katma	olgu katnud	V;ACT;PRS;PRF;POS;IMP;SG
+katma	katku	V;ACT;PRS;POS;IMP;3;SG
+katma	ei olevat katnudp	V;ACT;PRS;PRF;NEG;QUOT
+katma	oleksin katnud	V;ACT;PRS;PRF;POS;COND
+katma	kataks	V;ACT;PRS;POS;COND;3;SG
+katma	katku	V;ACT;PRS;POS;IMP;3;PL
+katma	ärge katke	V;ACT;PRS;NEG;IMP;2;PL
+katma	katvat	V;ACT;PRS;POS;QUOT
+katma	katab	V;ACT;PRS;POS;IND;3;SG
+katma	olen katnud	V;ACT;PRS;PRF;POS;IND;1;SG
+katma	olete katnud	V;ACT;PRS;PRF;POS;IND;2;PL
+katma	kattev	V.PTCP;ACT;PRS
+katma	katan	V;ACT;PRS;POS;IND;1;SG
+katma	ärgu olgu katetud	V;PASS;PRS;PRF;NEG;IMP
+katma	kataksid	V;ACT;PRS;POS;COND;2;SG
+katma	ei olevat katetudp	V;PASS;PRS;PRF;NEG;QUOT
+katma	katetavat	V;PASS;PRS;POS;QUOT
+katma	katetav	V.PTCP;PASS;PRS
+katma	oleks katetud	V;PASS;PRS;PRF;POS;COND
+katma	oli katetud	V;PASS;PST;PRF;POS;IND
+katma	ei ole katnudp	V;ACT;PST;NEG;IND
+katma	katkem	V;ACT;PRS;POS;IMP;1;PL
+katma	ei katvat	V;ACT;PRS;NEG;QUOT
+katma	kataksime	V;ACT;PRS;POS;COND;1;PL
+katma	ei ole katetudp	V;PASS;PRS;PRF;NEG;IND
+katma	ärgu katku	V;ACT;PRS;NEG;IMP;3;SG
+katma	ei katetavat	V;PASS;PRS;NEG;QUOT
+katma	ei kateta	V;PASS;PRS;NEG;IND
+katma	olevat katetud	V;PASS;PRS;PRF;POS;QUOT
+katma	katsime	V;ACT;PST;POS;IND;1;PL
+katma	on katnud	V;ACT;PRS;PRF;POS;IND;3;PL
+katma	katetaks	V;PASS;PRS;POS;COND
+katma	olin katnud	V;ACT;PRS;PRF;POS;COND;1;SG
+katma	oled katnud	V;ACT;PRS;PRF;POS;IND;2;SG
+katma	olevat katnud	V;ACT;PRS;PRF;POS;QUOT
+katma	ei oleks katetudp	V;PASS;PRS;PRF;NEG;COND
+katma	ei katetud	V;PASS;PST;NEG;IND
+katma	ärgu katku	V;ACT;PRS;NEG;IMP;3;PL
+katma	katame	V;ACT;PRS;POS;IND;1;PL
+katma	oleksime katnud	V;ACT;PRS;PRF;POS;COND;1;PL
+katma	ära kata	V;ACT;PRS;NEG;IMP;2;SG
+katma	katetagu	V;PASS;PRS;POS;IMP
+katma	ei katetaks	V;PASS;PRS;NEG;COND
+katma	katavad	V;ACT;PRS;POS;IND;3;PL
+katma	kattis	V;ACT;PST;POS;IND;3;SG
+katma	kateti	V;PASS;PST;POS;IND
+katma	katsid	V;ACT;PST;POS;IND;3;PL
+katma	ärgu olgu katnud	V;ACT;PRS;PRF;NEG;IMP;SG
+katma	katad	V;ACT;PRS;POS;IND;2;SG
+katma	olite katnud	V;ACT;PRS;PRF;POS;COND;2;PL
+katma	katnud	V.PTCP;ACT;PST
+katma	ei kata	V;ACT;PRS;NEG;IND
+katma	ärgu katetagu	V;PASS;PRS;NEG;IMP
+katma	katsite	V;ACT;PST;POS;IND;2;PL
+katma	oli katnud	V;ACT;PRS;PRF;POS;COND;3;SG
+katma	katma	V;NFIN
+katma	on katetud	V;PASS;PRS;PRF;POS;IND
+katma	ärgem katkem	V;ACT;PRS;NEG;IMP;1;PL
+katma	olid katnud	V;ACT;PRS;PRF;POS;COND;2;SG
+katma	katsid	V;ACT;PST;POS;IND;2;SG
+katma	katate	V;ACT;PRS;POS;IND;2;PL
+katma	katetakse	V;PASS;PRS;POS;IND
+katma	on katnud	V;ACT;PRS;PRF;POS;IND;3;SG
+katma	ärgu olgu katnud	V;ACT;PRS;PRF;NEG;IMP;PL
+katma	kataksite	V;ACT;PRS;POS;COND;2;PL
+katma	oleksite katnud	V;ACT;PRS;PRF:POS;COND;2;PL
+katma	katke	V;ACT;PRS;POS;IMP;2;PL
+katma	olgu katnud	V;ACT;PRS;PRF;POS;IMP;PL
+katma	oleksid katnud	V;ACT;PRS;PRF;POS;COND;3;PL
+katma	kataksid	V;ACT;PRS;POS;COND;3;PL
+katma	katsin	V;ACT;PST;POS;IND;1;SG
+katma	ei oleks katnudp	V;ACT;PRS;PRF;NEG;COND
+katma	olgu katetud	V;PASS;PRS;PRF;POS;IMP
+katma	ei olnud katnudp	V;ACT;PST;PRF;NEG;IND
+katma	kata	V;ACT;PRS;POS;IMP;2;SG
+katma	kataksin	V;ACT;PRS;POS;COND;1;SG
+vabadus	vabadused	N;NOM;PL
+vabadus	vabaduseks	N;TRANS;SG
+vabadus	vabadusel	N;AT+ESS;SG
+vabadus	vabadustesse	N;IN+ALL;PL
+vabadus	vabaduses	N;IN+ESS;SG
+vabadus	vabadust	N;PRT;SG
+vabadus	vabaduseni	N;TERM;SG
+vabadus	vabadusest	N;IN+ABL;SG
+vabadus	vabadusega	N;COM;SG
+vabadus	vabaduste	N;GEN;PL
+vabadus	vabadusse	N;IN+ALL;SG
+vabadus	vabadusi	N;PRT;PL
+vabadus	vabadustelt	N;AT+ABL;PL
+vabadus	vabadusena	N;FRML;SG
+vabadus	vabadused	N;ACC;PL
+vabadus	vabadustele	N;AT+ALL;PL
+vabadus	vabaduseta	N;PRIV;SG
+vabadus	vabadustel	N;AT+ESS;PL
+vabadus	vabadusteks	N;TRANS;PL
+vabadus	vabaduse	N;GEN;SG
+vabadus	vabadustes	N;IN+ESS;PL
+vabadus	vabadustega	N;COM;PL
+vabadus	vabadustest	N;IN+ABL;PL
+vabadus	vabadusteni	N;TERM;PL
+vabadus	vabadustena	N;FRML;PL
+vabadus	vabadusele	N;AT+ALL;SG
+vabadus	vabadus	N;NOM;SG
+vabadus	vabaduse	N;ACC;SG
+vabadus	vabaduselt	N;AT+ABL;SG
+vabadus	vabadusteta	N;PRIV;PL
+õpetamine	õpetamised	N;NOM;PL
+õpetamine	õpetamiseks	N;TRANS;SG
+õpetamine	õpetamisel	N;AT+ESS;SG
+õpetamine	õpetamistesse	N;IN+ALL;PL
+õpetamine	õpetamises	N;IN+ESS;SG
+õpetamine	õpetamist	N;PRT;SG
+õpetamine	õpetamiseni	N;TERM;SG
+õpetamine	õpetamisest	N;IN+ABL;SG
+õpetamine	õpetamisega	N;COM;SG
+õpetamine	õpetamiste	N;GEN;PL
+õpetamine	õpetamisse	N;IN+ALL;SG
+õpetamine	õpetamisi	N;PRT;PL
+õpetamine	õpetamistelt	N;AT+ABL;PL
+õpetamine	õpetamisena	N;FRML;SG
+õpetamine	õpetamised	N;ACC;PL
+õpetamine	õpetamistele	N;AT+ALL;PL
+õpetamine	õpetamiseta	N;PRIV;SG
+õpetamine	õpetamistel	N;AT+ESS;PL
+õpetamine	õpetamisteks	N;TRANS;PL
+õpetamine	õpetamise	N;GEN;SG
+õpetamine	õpetamistes	N;IN+ESS;PL
+õpetamine	õpetamistega	N;COM;PL
+õpetamine	õpetamistest	N;IN+ABL;PL
+õpetamine	õpetamisteni	N;TERM;PL
+õpetamine	õpetamistena	N;FRML;PL
+õpetamine	õpetamisele	N;AT+ALL;SG
+õpetamine	õpetamine	N;NOM;SG
+õpetamine	õpetamise	N;ACC;SG
+õpetamine	õpetamiselt	N;AT+ABL;SG
+õpetamine	õpetamisteta	N;PRIV;PL
+küünar	küünrad	N;NOM;PL
+küünar	küünraks	N;TRANS;SG
+küünar	küünral	N;AT+ESS;SG
+küünar	küünardesse	N;IN+ALL;PL
+küünar	küünras	N;IN+ESS;SG
+küünar	küünart	N;PRT;SG
+küünar	küünrani	N;TERM;SG
+küünar	küünrast	N;IN+ABL;SG
+küünar	küünraga	N;COM;SG
+küünar	küünarde	N;GEN;PL
+küünar	küünrasse	N;IN+ALL;SG
+küünar	küünraid	N;PRT;PL
+küünar	küünardelt	N;AT+ABL;PL
+küünar	küünrana	N;FRML;SG
+küünar	küünrad	N;ACC;PL
+küünar	küünardele	N;AT+ALL;PL
+küünar	küünrata	N;PRIV;SG
+küünar	küünardel	N;AT+ESS;PL
+küünar	küünardeks	N;TRANS;PL
+küünar	küünra	N;GEN;SG
+küünar	küünardes	N;IN+ESS;PL
+küünar	küünardega	N;COM;PL
+küünar	küünardest	N;IN+ABL;PL
+küünar	küünardeni	N;TERM;PL
+küünar	küünardena	N;FRML;PL
+küünar	küünrale	N;AT+ALL;SG
+küünar	küünar	N;NOM;SG
+küünar	küünra	N;ACC;SG
+küünar	küünralt	N;AT+ABL;SG
+küünar	küünardeta	N;PRIV;PL
+habe	habemed	N;NOM;PL
+habe	habemeks	N;TRANS;SG
+habe	habemel	N;AT+ESS;SG
+habe	habemetesse	N;IN+ALL;PL
+habe	habemes	N;IN+ESS;SG
+habe	habet	N;PRT;SG
+habe	habemeni	N;TERM;SG
+habe	habemest	N;IN+ABL;SG
+habe	habemega	N;COM;SG
+habe	habemete	N;GEN;PL
+habe	habemesse	N;IN+ALL;SG
+habe	habemeid	N;PRT;PL
+habe	habemetelt	N;AT+ABL;PL
+habe	habemena	N;FRML;SG
+habe	habemed	N;ACC;PL
+habe	habemetele	N;AT+ALL;PL
+habe	habemeta	N;PRIV;SG
+habe	habemetel	N;AT+ESS;PL
+habe	habemeteks	N;TRANS;PL
+habe	habeme	N;GEN;SG
+habe	habemetes	N;IN+ESS;PL
+habe	habemetega	N;COM;PL
+habe	habemetest	N;IN+ABL;PL
+habe	habemeteni	N;TERM;PL
+habe	habemetena	N;FRML;PL
+habe	habemele	N;AT+ALL;SG
+habe	habe	N;NOM;SG
+habe	habeme	N;ACC;SG
+habe	habemelt	N;AT+ABL;SG
+habe	habemeteta	N;PRIV;PL
+mitmus	mitmused	N;NOM;PL
+mitmus	mitmuseks	N;TRANS;SG
+mitmus	mitmusel	N;AT+ESS;SG
+mitmus	mitmustesse	N;IN+ALL;PL
+mitmus	mitmuses	N;IN+ESS;SG
+mitmus	mitmust	N;PRT;SG
+mitmus	mitmuseni	N;TERM;SG
+mitmus	mitmusest	N;IN+ABL;SG
+mitmus	mitmusega	N;COM;SG
+mitmus	mitmuste	N;GEN;PL
+mitmus	mitmusse	N;IN+ALL;SG
+mitmus	mitmusi	N;PRT;PL
+mitmus	mitmustelt	N;AT+ABL;PL
+mitmus	mitmusena	N;FRML;SG
+mitmus	mitmused	N;ACC;PL
+mitmus	mitmustele	N;AT+ALL;PL
+mitmus	mitmuseta	N;PRIV;SG
+mitmus	mitmustel	N;AT+ESS;PL
+mitmus	mitmusteks	N;TRANS;PL
+mitmus	mitmuse	N;GEN;SG
+mitmus	mitmustes	N;IN+ESS;PL
+mitmus	mitmustega	N;COM;PL
+mitmus	mitmustest	N;IN+ABL;PL
+mitmus	mitmusteni	N;TERM;PL
+mitmus	mitmustena	N;FRML;PL
+mitmus	mitmusele	N;AT+ALL;SG
+mitmus	mitmus	N;NOM;SG
+mitmus	mitmuse	N;ACC;SG
+mitmus	mitmuselt	N;AT+ABL;SG
+mitmus	mitmusteta	N;PRIV;PL
+intervjuu	intervjuud	N;NOM;PL
+intervjuu	intervjuuks	N;TRANS;SG
+intervjuu	intervjuul	N;AT+ESS;SG
+intervjuu	intervjuudesse	N;IN+ALL;PL
+intervjuu	intervjuus	N;IN+ESS;SG
+intervjuu	intervjuud	N;PRT;SG
+intervjuu	intervjuuni	N;TERM;SG
+intervjuu	intervjuust	N;IN+ABL;SG
+intervjuu	intervjuuga	N;COM;SG
+intervjuu	intervjuude	N;GEN;PL
+intervjuu	intervjuusse	N;IN+ALL;SG
+intervjuu	intervjuusid	N;PRT;PL
+intervjuu	intervjuudelt	N;AT+ABL;PL
+intervjuu	intervjuuna	N;FRML;SG
+intervjuu	intervjuud	N;ACC;PL
+intervjuu	intervjuudele	N;AT+ALL;PL
+intervjuu	intervjuuta	N;PRIV;SG
+intervjuu	intervjuudel	N;AT+ESS;PL
+intervjuu	intervjuudeks	N;TRANS;PL
+intervjuu	intervjuu	N;GEN;SG
+intervjuu	intervjuudes	N;IN+ESS;PL
+intervjuu	intervjuudega	N;COM;PL
+intervjuu	intervjuudest	N;IN+ABL;PL
+intervjuu	intervjuudeni	N;TERM;PL
+intervjuu	intervjuudena	N;FRML;PL
+intervjuu	intervjuule	N;AT+ALL;SG
+intervjuu	intervjuu	N;NOM;SG
+intervjuu	intervjuu	N;ACC;SG
+intervjuu	intervjuult	N;AT+ABL;SG
+intervjuu	intervjuudeta	N;PRIV;PL
+tänama	tänatud	V.PTCP;PASS;PST
+tänama	oleme tänanud	V;ACT;PRS;PRF;POS;IND;1;PL
+tänama	ei olnud tänatudp	V;PASS;PST;PRF;NEG;IND
+tänama	olgu tänanud	V;ACT;PRS;PRF;POS;IMP;SG
+tänama	tänagu	V;ACT;PRS;POS;IMP;3;SG
+tänama	ei olevat tänanudp	V;ACT;PRS;PRF;NEG;QUOT
+tänama	oleksin tänanud	V;ACT;PRS;PRF;POS;COND
+tänama	tänaks	V;ACT;PRS;POS;COND;3;SG
+tänama	tänagu	V;ACT;PRS;POS;IMP;3;PL
+tänama	ärge tänage	V;ACT;PRS;NEG;IMP;2;PL
+tänama	tänavat	V;ACT;PRS;POS;QUOT
+tänama	tänab	V;ACT;PRS;POS;IND;3;SG
+tänama	olen tänanud	V;ACT;PRS;PRF;POS;IND;1;SG
+tänama	olete tänanud	V;ACT;PRS;PRF;POS;IND;2;PL
+tänama	tänav	V.PTCP;ACT;PRS
+tänama	tänan	V;ACT;PRS;POS;IND;1;SG
+tänama	ärgu olgu tänatud	V;PASS;PRS;PRF;NEG;IMP
+tänama	tänaksid	V;ACT;PRS;POS;COND;2;SG
+tänama	ei olevat tänatudp	V;PASS;PRS;PRF;NEG;QUOT
+tänama	tänatavat	V;PASS;PRS;POS;QUOT
+tänama	tänatav	V.PTCP;PASS;PRS
+tänama	oleks tänatud	V;PASS;PRS;PRF;POS;COND
+tänama	oli tänatud	V;PASS;PST;PRF;POS;IND
+tänama	ei ole tänanudp	V;ACT;PST;NEG;IND
+tänama	tänagem	V;ACT;PRS;POS;IMP;1;PL
+tänama	ei tänavat	V;ACT;PRS;NEG;QUOT
+tänama	tänaksime	V;ACT;PRS;POS;COND;1;PL
+tänama	ei ole tänatudp	V;PASS;PRS;PRF;NEG;IND
+tänama	ärgu tänagu	V;ACT;PRS;NEG;IMP;3;SG
+tänama	ei tänatavat	V;PASS;PRS;NEG;QUOT
+tänama	ei tänata	V;PASS;PRS;NEG;IND
+tänama	olevat tänatud	V;PASS;PRS;PRF;POS;QUOT
+tänama	tänasime	V;ACT;PST;POS;IND;1;PL
+tänama	on tänanud	V;ACT;PRS;PRF;POS;IND;3;PL
+tänama	tänataks	V;PASS;PRS;POS;COND
+tänama	olin tänanud	V;ACT;PRS;PRF;POS;COND;1;SG
+tänama	oled tänanud	V;ACT;PRS;PRF;POS;IND;2;SG
+tänama	olevat tänanud	V;ACT;PRS;PRF;POS;QUOT
+tänama	ei oleks tänatudp	V;PASS;PRS;PRF;NEG;COND
+tänama	ei tänatud	V;PASS;PST;NEG;IND
+tänama	ärgu tänagu	V;ACT;PRS;NEG;IMP;3;PL
+tänama	täname	V;ACT;PRS;POS;IND;1;PL
+tänama	oleksime tänanud	V;ACT;PRS;PRF;POS;COND;1;PL
+tänama	ära täna	V;ACT;PRS;NEG;IMP;2;SG
+tänama	tänatagu	V;PASS;PRS;POS;IMP
+tänama	ei tänataks	V;PASS;PRS;NEG;COND
+tänama	tänavad	V;ACT;PRS;POS;IND;3;PL
+tänama	tänas	V;ACT;PST;POS;IND;3;SG
+tänama	tänati	V;PASS;PST;POS;IND
+tänama	tänasid	V;ACT;PST;POS;IND;3;PL
+tänama	ärgu olgu tänanud	V;ACT;PRS;PRF;NEG;IMP;SG
+tänama	tänad	V;ACT;PRS;POS;IND;2;SG
+tänama	olite tänanud	V;ACT;PRS;PRF;POS;COND;2;PL
+tänama	tänanud	V.PTCP;ACT;PST
+tänama	ei täna	V;ACT;PRS;NEG;IND
+tänama	ärgu tänatagu	V;PASS;PRS;NEG;IMP
+tänama	tänasite	V;ACT;PST;POS;IND;2;PL
+tänama	oli tänanud	V;ACT;PRS;PRF;POS;COND;3;SG
+tänama	tänama	V;NFIN
+tänama	on tänatud	V;PASS;PRS;PRF;POS;IND
+tänama	ärgem tänagem	V;ACT;PRS;NEG;IMP;1;PL
+tänama	olid tänanud	V;ACT;PRS;PRF;POS;COND;2;SG
+tänama	tänasid	V;ACT;PST;POS;IND;2;SG
+tänama	tänate	V;ACT;PRS;POS;IND;2;PL
+tänama	tänatakse	V;PASS;PRS;POS;IND
+tänama	on tänanud	V;ACT;PRS;PRF;POS;IND;3;SG
+tänama	ärgu olgu tänanud	V;ACT;PRS;PRF;NEG;IMP;PL
+tänama	tänaksite	V;ACT;PRS;POS;COND;2;PL
+tänama	oleksite tänanud	V;ACT;PRS;PRF:POS;COND;2;PL
+tänama	tänage	V;ACT;PRS;POS;IMP;2;PL
+tänama	olgu tänanud	V;ACT;PRS;PRF;POS;IMP;PL
+tänama	oleksid tänanud	V;ACT;PRS;PRF;POS;COND;3;PL
+tänama	tänaksid	V;ACT;PRS;POS;COND;3;PL
+tänama	tänasin	V;ACT;PST;POS;IND;1;SG
+tänama	ei oleks tänanudp	V;ACT;PRS;PRF;NEG;COND
+tänama	olgu tänatud	V;PASS;PRS;PRF;POS;IMP
+tänama	ei olnud tänanudp	V;ACT;PST;PRF;NEG;IND
+tänama	täna	V;ACT;PRS;POS;IMP;2;SG
+tänama	tänaksin	V;ACT;PRS;POS;COND;1;SG
+algaja	algajad	N;NOM;PL
+algaja	algajaks	N;TRANS;SG
+algaja	algajal	N;AT+ESS;SG
+algaja	algajatesse	N;IN+ALL;PL
+algaja	algajas	N;IN+ESS;SG
+algaja	algajat	N;PRT;SG
+algaja	algajani	N;TERM;SG
+algaja	algajast	N;IN+ABL;SG
+algaja	algajaga	N;COM;SG
+algaja	algajate	N;GEN;PL
+algaja	algajasse	N;IN+ALL;SG
+algaja	algajaid	N;PRT;PL
+algaja	algajatelt	N;AT+ABL;PL
+algaja	algajana	N;FRML;SG
+algaja	algajad	N;ACC;PL
+algaja	algajatele	N;AT+ALL;PL
+algaja	algajata	N;PRIV;SG
+algaja	algajatel	N;AT+ESS;PL
+algaja	algajateks	N;TRANS;PL
+algaja	algaja	N;GEN;SG
+algaja	algajates	N;IN+ESS;PL
+algaja	algajatega	N;COM;PL
+algaja	algajatest	N;IN+ABL;PL
+algaja	algajateni	N;TERM;PL
+algaja	algajatena	N;FRML;PL
+algaja	algajale	N;AT+ALL;SG
+algaja	algaja	N;NOM;SG
+algaja	algaja	N;ACC;SG
+algaja	algajalt	N;AT+ABL;SG
+algaja	algajateta	N;PRIV;PL
+tellimus	tellimused	N;NOM;PL
+tellimus	tellimuseks	N;TRANS;SG
+tellimus	tellimusel	N;AT+ESS;SG
+tellimus	tellimustesse	N;IN+ALL;PL
+tellimus	tellimuses	N;IN+ESS;SG
+tellimus	tellimust	N;PRT;SG
+tellimus	tellimuseni	N;TERM;SG
+tellimus	tellimusest	N;IN+ABL;SG
+tellimus	tellimusega	N;COM;SG
+tellimus	tellimuste	N;GEN;PL
+tellimus	tellimusse	N;IN+ALL;SG
+tellimus	tellimusi	N;PRT;PL
+tellimus	tellimus	N;AT+ABL;PL
+tellimus	tellimusena	N;FRML;SG
+tellimus	tellimused	N;ACC;PL
+tellimus	tellimus	N;AT+ALL;PL
+tellimus	tellimuseta	N;PRIV;SG
+tellimus	tellimus	N;AT+ESS;PL
+tellimus	tellimusteks	N;TRANS;PL
+tellimus	tellimuse	N;GEN;SG
+tellimus	tellimustes	N;IN+ESS;PL
+tellimus	tellimustega	N;COM;PL
+tellimus	tellimustest	N;IN+ABL;PL
+tellimus	tellimusteni	N;TERM;PL
+tellimus	tellimustena	N;FRML;PL
+tellimus	tellimusele	N;AT+ALL;SG
+tellimus	tellimus	N;NOM;SG
+tellimus	tellimuse	N;ACC;SG
+tellimus	tellimuselt	N;AT+ABL;SG
+tellimus	tellimusteta	N;PRIV;PL
+lavastama	lavastatud	V.PTCP;PASS;PST
+lavastama	oleme lavastanud	V;ACT;PRS;PRF;POS;IND;1;PL
+lavastama	ei olnud lavastatudp	V;PASS;PST;PRF;NEG;IND
+lavastama	olgu lavastanud	V;ACT;PRS;PRF;POS;IMP;SG
+lavastama	lavastagu	V;ACT;PRS;POS;IMP;3;SG
+lavastama	ei olevat lavastanudp	V;ACT;PRS;PRF;NEG;QUOT
+lavastama	oleksin lavastanud	V;ACT;PRS;PRF;POS;COND
+lavastama	lavastaks	V;ACT;PRS;POS;COND;3;SG
+lavastama	lavastagu	V;ACT;PRS;POS;IMP;3;PL
+lavastama	ärge lavastage	V;ACT;PRS;NEG;IMP;2;PL
+lavastama	lavastavat	V;ACT;PRS;POS;QUOT
+lavastama	lavastab	V;ACT;PRS;POS;IND;3;SG
+lavastama	olen lavastanud	V;ACT;PRS;PRF;POS;IND;1;SG
+lavastama	olete lavastanud	V;ACT;PRS;PRF;POS;IND;2;PL
+lavastama	lavastav	V.PTCP;ACT;PRS
+lavastama	lavastan	V;ACT;PRS;POS;IND;1;SG
+lavastama	ärgu olgu lavastatud	V;PASS;PRS;PRF;NEG;IMP
+lavastama	lavastaksid	V;ACT;PRS;POS;COND;2;SG
+lavastama	ei olevat lavastatudp	V;PASS;PRS;PRF;NEG;QUOT
+lavastama	lavastatavat	V;PASS;PRS;POS;QUOT
+lavastama	lavastatav	V.PTCP;PASS;PRS
+lavastama	oleks lavastatud	V;PASS;PRS;PRF;POS;COND
+lavastama	oli lavastatud	V;PASS;PST;PRF;POS;IND
+lavastama	ei ole lavastanudp	V;ACT;PST;NEG;IND
+lavastama	lavastagem	V;ACT;PRS;POS;IMP;1;PL
+lavastama	ei lavastavat	V;ACT;PRS;NEG;QUOT
+lavastama	lavastaksime	V;ACT;PRS;POS;COND;1;PL
+lavastama	ei ole lavastatudp	V;PASS;PRS;PRF;NEG;IND
+lavastama	ärgu lavastagu	V;ACT;PRS;NEG;IMP;3;SG
+lavastama	ei lavastatavat	V;PASS;PRS;NEG;QUOT
+lavastama	ei lavastata	V;PASS;PRS;NEG;IND
+lavastama	olevat lavastatud	V;PASS;PRS;PRF;POS;QUOT
+lavastama	lavastasime	V;ACT;PST;POS;IND;1;PL
+lavastama	on lavastanud	V;ACT;PRS;PRF;POS;IND;3;PL
+lavastama	lavastataks	V;PASS;PRS;POS;COND
+lavastama	olin lavastanud	V;ACT;PRS;PRF;POS;COND;1;SG
+lavastama	oled lavastanud	V;ACT;PRS;PRF;POS;IND;2;SG
+lavastama	olevat lavastanud	V;ACT;PRS;PRF;POS;QUOT
+lavastama	ei oleks lavastatudp	V;PASS;PRS;PRF;NEG;COND
+lavastama	ei lavastatud	V;PASS;PST;NEG;IND
+lavastama	ärgu lavastagu	V;ACT;PRS;NEG;IMP;3;PL
+lavastama	lavastame	V;ACT;PRS;POS;IND;1;PL
+lavastama	oleksime lavastanud	V;ACT;PRS;PRF;POS;COND;1;PL
+lavastama	ära lavasta	V;ACT;PRS;NEG;IMP;2;SG
+lavastama	lavastatagu	V;PASS;PRS;POS;IMP
+lavastama	ei lavastataks	V;PASS;PRS;NEG;COND
+lavastama	lavastavad	V;ACT;PRS;POS;IND;3;PL
+lavastama	lavastas	V;ACT;PST;POS;IND;3;SG
+lavastama	lavastati	V;PASS;PST;POS;IND
+lavastama	lavastasid	V;ACT;PST;POS;IND;3;PL
+lavastama	ärgu olgu lavastanud	V;ACT;PRS;PRF;NEG;IMP;SG
+lavastama	lavastad	V;ACT;PRS;POS;IND;2;SG
+lavastama	olite lavastanud	V;ACT;PRS;PRF;POS;COND;2;PL
+lavastama	lavastanud	V.PTCP;ACT;PST
+lavastama	ei lavasta	V;ACT;PRS;NEG;IND
+lavastama	ärgu lavastatagu	V;PASS;PRS;NEG;IMP
+lavastama	lavastasite	V;ACT;PST;POS;IND;2;PL
+lavastama	oli lavastanud	V;ACT;PRS;PRF;POS;COND;3;SG
+lavastama	lavastama	V;NFIN
+lavastama	on lavastatud	V;PASS;PRS;PRF;POS;IND
+lavastama	ärgem lavastagem	V;ACT;PRS;NEG;IMP;1;PL
+lavastama	olid lavastanud	V;ACT;PRS;PRF;POS;COND;2;SG
+lavastama	lavastasid	V;ACT;PST;POS;IND;2;SG
+lavastama	lavastate	V;ACT;PRS;POS;IND;2;PL
+lavastama	lavastatakse	V;PASS;PRS;POS;IND
+lavastama	on lavastanud	V;ACT;PRS;PRF;POS;IND;3;SG
+lavastama	ärgu olgu lavastanud	V;ACT;PRS;PRF;NEG;IMP;PL
+lavastama	lavastaksite	V;ACT;PRS;POS;COND;2;PL
+lavastama	oleksite lavastanud	V;ACT;PRS;PRF:POS;COND;2;PL
+lavastama	lavastage	V;ACT;PRS;POS;IMP;2;PL
+lavastama	olgu lavastanud	V;ACT;PRS;PRF;POS;IMP;PL
+lavastama	oleksid lavastanud	V;ACT;PRS;PRF;POS;COND;3;PL
+lavastama	lavastaksid	V;ACT;PRS;POS;COND;3;PL
+lavastama	lavastasin	V;ACT;PST;POS;IND;1;SG
+lavastama	ei oleks lavastanudp	V;ACT;PRS;PRF;NEG;COND
+lavastama	olgu lavastatud	V;PASS;PRS;PRF;POS;IMP
+lavastama	ei olnud lavastanudp	V;ACT;PST;PRF;NEG;IND
+lavastama	lavasta	V;ACT;PRS;POS;IMP;2;SG
+lavastama	lavastaksin	V;ACT;PRS;POS;COND;1;SG
+kallas	kaldad	N;NOM;PL
+kallas	kaldaks	N;TRANS;SG
+kallas	kaldal	N;AT+ESS;SG
+kallas	kallastesse	N;IN+ALL;PL
+kallas	kaldas	N;IN+ESS;SG
+kallas	kallast	N;PRT;SG
+kallas	kaldani	N;TERM;SG
+kallas	kaldast	N;IN+ABL;SG
+kallas	kaldaga	N;COM;SG
+kallas	kallaste	N;GEN;PL
+kallas	kaldasse	N;IN+ALL;SG
+kallas	kaldaid	N;PRT;PL
+kallas	kallastelt	N;AT+ABL;PL
+kallas	kaldana	N;FRML;SG
+kallas	kaldad	N;ACC;PL
+kallas	kallastele	N;AT+ALL;PL
+kallas	kaldata	N;PRIV;SG
+kallas	kallastel	N;AT+ESS;PL
+kallas	kallasteks	N;TRANS;PL
+kallas	kalda	N;GEN;SG
+kallas	kallastes	N;IN+ESS;PL
+kallas	kallastega	N;COM;PL
+kallas	kallastest	N;IN+ABL;PL
+kallas	kallasteni	N;TERM;PL
+kallas	kallastena	N;FRML;PL
+kallas	kaldale	N;AT+ALL;SG
+kallas	kallas	N;NOM;SG
+kallas	kalda	N;ACC;SG
+kallas	kaldalt	N;AT+ABL;SG
+kallas	kallasteta	N;PRIV;PL
+šaakal	šaakalid	N;NOM;PL
+šaakal	šaakaliks	N;TRANS;SG
+šaakal	šaakalil	N;AT+ESS;SG
+šaakal	šaakalitesse	N;IN+ALL;PL
+šaakal	šaakalis	N;IN+ESS;SG
+šaakal	šaakalit	N;PRT;SG
+šaakal	šaakalini	N;TERM;SG
+šaakal	šaakalist	N;IN+ABL;SG
+šaakal	šaakaliga	N;COM;SG
+šaakal	šaakalite	N;GEN;PL
+šaakal	šaakalisse	N;IN+ALL;SG
+šaakal	šaakaleid	N;PRT;PL
+šaakal	šaakalitelt	N;AT+ABL;PL
+šaakal	šaakalina	N;FRML;SG
+šaakal	šaakalid	N;ACC;PL
+šaakal	šaakalitele	N;AT+ALL;PL
+šaakal	šaakalita	N;PRIV;SG
+šaakal	šaakalitel	N;AT+ESS;PL
+šaakal	šaakaliteks	N;TRANS;PL
+šaakal	šaakali	N;GEN;SG
+šaakal	šaakalites	N;IN+ESS;PL
+šaakal	šaakalitega	N;COM;PL
+šaakal	šaakalitest	N;IN+ABL;PL
+šaakal	šaakaliteni	N;TERM;PL
+šaakal	šaakalitena	N;FRML;PL
+šaakal	šaakalile	N;AT+ALL;SG
+šaakal	šaakal	N;NOM;SG
+šaakal	šaakali	N;ACC;SG
+šaakal	šaakalilt	N;AT+ABL;SG
+šaakal	šaakaliteta	N;PRIV;PL
+nägu	näod	N;NOM;PL
+nägu	näoks	N;TRANS;SG
+nägu	näol	N;AT+ESS;SG
+nägu	nägudesse	N;IN+ALL;PL
+nägu	näos	N;IN+ESS;SG
+nägu	nägu	N;PRT;SG
+nägu	näoni	N;TERM;SG
+nägu	näost	N;IN+ABL;SG
+nägu	näoga	N;COM;SG
+nägu	nägude	N;GEN;PL
+nägu	näkkunäosse	N;IN+ALL;SG
+nägu	nägusid	N;PRT;PL
+nägu	nägudelt	N;AT+ABL;PL
+nägu	näona	N;FRML;SG
+nägu	näod	N;ACC;PL
+nägu	nägudele	N;AT+ALL;PL
+nägu	näota	N;PRIV;SG
+nägu	nägudel	N;AT+ESS;PL
+nägu	nägudeks	N;TRANS;PL
+nägu	näo	N;GEN;SG
+nägu	nägudes	N;IN+ESS;PL
+nägu	nägudega	N;COM;PL
+nägu	nägudest	N;IN+ABL;PL
+nägu	nägudeni	N;TERM;PL
+nägu	nägudena	N;FRML;PL
+nägu	näole	N;AT+ALL;SG
+nägu	nägu	N;NOM;SG
+nägu	näo	N;ACC;SG
+nägu	näolt	N;AT+ABL;SG
+nägu	nägudeta	N;PRIV;PL
+eitama	eitatud	V.PTCP;PASS;PST
+eitama	oleme eitanud	V;ACT;PRS;PRF;POS;IND;1;PL
+eitama	ei olnud eitatudp	V;PASS;PST;PRF;NEG;IND
+eitama	olgu eitanud	V;ACT;PRS;PRF;POS;IMP;SG
+eitama	eitagu	V;ACT;PRS;POS;IMP;3;SG
+eitama	ei olevat eitanudp	V;ACT;PRS;PRF;NEG;QUOT
+eitama	oleksin eitanud	V;ACT;PRS;PRF;POS;COND
+eitama	eitaks	V;ACT;PRS;POS;COND;3;SG
+eitama	eitagu	V;ACT;PRS;POS;IMP;3;PL
+eitama	ärge eitage	V;ACT;PRS;NEG;IMP;2;PL
+eitama	eitavat	V;ACT;PRS;POS;QUOT
+eitama	eitab	V;ACT;PRS;POS;IND;3;SG
+eitama	olen eitanud	V;ACT;PRS;PRF;POS;IND;1;SG
+eitama	olete eitanud	V;ACT;PRS;PRF;POS;IND;2;PL
+eitama	eitav	V.PTCP;ACT;PRS
+eitama	eitan	V;ACT;PRS;POS;IND;1;SG
+eitama	ärgu olgu eitatud	V;PASS;PRS;PRF;NEG;IMP
+eitama	eitaksid	V;ACT;PRS;POS;COND;2;SG
+eitama	ei olevat eitatudp	V;PASS;PRS;PRF;NEG;QUOT
+eitama	eitatavat	V;PASS;PRS;POS;QUOT
+eitama	eitatav	V.PTCP;PASS;PRS
+eitama	oleks eitatud	V;PASS;PRS;PRF;POS;COND
+eitama	oli eitatud	V;PASS;PST;PRF;POS;IND
+eitama	ei ole eitanudp	V;ACT;PST;NEG;IND
+eitama	eitagem	V;ACT;PRS;POS;IMP;1;PL
+eitama	ei eitavat	V;ACT;PRS;NEG;QUOT
+eitama	eitaksime	V;ACT;PRS;POS;COND;1;PL
+eitama	ei ole eitatudp	V;PASS;PRS;PRF;NEG;IND
+eitama	ärgu eitagu	V;ACT;PRS;NEG;IMP;3;SG
+eitama	ei eitatavat	V;PASS;PRS;NEG;QUOT
+eitama	ei eitata	V;PASS;PRS;NEG;IND
+eitama	olevat eitatud	V;PASS;PRS;PRF;POS;QUOT
+eitama	eitasime	V;ACT;PST;POS;IND;1;PL
+eitama	on eitanud	V;ACT;PRS;PRF;POS;IND;3;PL
+eitama	eitataks	V;PASS;PRS;POS;COND
+eitama	olin eitanud	V;ACT;PRS;PRF;POS;COND;1;SG
+eitama	oled eitanud	V;ACT;PRS;PRF;POS;IND;2;SG
+eitama	olevat eitanud	V;ACT;PRS;PRF;POS;QUOT
+eitama	ei oleks eitatudp	V;PASS;PRS;PRF;NEG;COND
+eitama	ei eitatud	V;PASS;PST;NEG;IND
+eitama	ärgu eitagu	V;ACT;PRS;NEG;IMP;3;PL
+eitama	eitame	V;ACT;PRS;POS;IND;1;PL
+eitama	oleksime eitanud	V;ACT;PRS;PRF;POS;COND;1;PL
+eitama	ära eita	V;ACT;PRS;NEG;IMP;2;SG
+eitama	eitatagu	V;PASS;PRS;POS;IMP
+eitama	ei eitataks	V;PASS;PRS;NEG;COND
+eitama	eitavad	V;ACT;PRS;POS;IND;3;PL
+eitama	eitas	V;ACT;PST;POS;IND;3;SG
+eitama	eitati	V;PASS;PST;POS;IND
+eitama	eitasid	V;ACT;PST;POS;IND;3;PL
+eitama	ärgu olgu eitanud	V;ACT;PRS;PRF;NEG;IMP;SG
+eitama	eitad	V;ACT;PRS;POS;IND;2;SG
+eitama	olite eitanud	V;ACT;PRS;PRF;POS;COND;2;PL
+eitama	eitanud	V.PTCP;ACT;PST
+eitama	ei eita	V;ACT;PRS;NEG;IND
+eitama	ärgu eitatagu	V;PASS;PRS;NEG;IMP
+eitama	eitasite	V;ACT;PST;POS;IND;2;PL
+eitama	oli eitanud	V;ACT;PRS;PRF;POS;COND;3;SG
+eitama	eitama	V;NFIN
+eitama	on eitatud	V;PASS;PRS;PRF;POS;IND
+eitama	ärgem eitagem	V;ACT;PRS;NEG;IMP;1;PL
+eitama	olid eitanud	V;ACT;PRS;PRF;POS;COND;2;SG
+eitama	eitasid	V;ACT;PST;POS;IND;2;SG
+eitama	eitate	V;ACT;PRS;POS;IND;2;PL
+eitama	eitatakse	V;PASS;PRS;POS;IND
+eitama	on eitanud	V;ACT;PRS;PRF;POS;IND;3;SG
+eitama	ärgu olgu eitanud	V;ACT;PRS;PRF;NEG;IMP;PL
+eitama	eitaksite	V;ACT;PRS;POS;COND;2;PL
+eitama	oleksite eitanud	V;ACT;PRS;PRF:POS;COND;2;PL
+eitama	eitage	V;ACT;PRS;POS;IMP;2;PL
+eitama	olgu eitanud	V;ACT;PRS;PRF;POS;IMP;PL
+eitama	oleksid eitanud	V;ACT;PRS;PRF;POS;COND;3;PL
+eitama	eitaksid	V;ACT;PRS;POS;COND;3;PL
+eitama	eitasin	V;ACT;PST;POS;IND;1;SG
+eitama	ei oleks eitanudp	V;ACT;PRS;PRF;NEG;COND
+eitama	olgu eitatud	V;PASS;PRS;PRF;POS;IMP
+eitama	ei olnud eitanudp	V;ACT;PST;PRF;NEG;IND
+eitama	eita	V;ACT;PRS;POS;IMP;2;SG
+eitama	eitaksin	V;ACT;PRS;POS;COND;1;SG
+kannel	kandled	N;NOM;PL
+kannel	kandleks	N;TRANS;SG
+kannel	kandlel	N;AT+ESS;SG
+kannel	kanneldesse	N;IN+ALL;PL
+kannel	kandles	N;IN+ESS;SG
+kannel	kannelt	N;PRT;SG
+kannel	kandleni	N;TERM;SG
+kannel	kandlest	N;IN+ABL;SG
+kannel	kandlega	N;COM;SG
+kannel	kannelde	N;GEN;PL
+kannel	kandlesse	N;IN+ALL;SG
+kannel	kandleid	N;PRT;PL
+kannel	kanneldelt	N;AT+ABL;PL
+kannel	kandlena	N;FRML;SG
+kannel	kandled	N;ACC;PL
+kannel	kanneldele	N;AT+ALL;PL
+kannel	kandleta	N;PRIV;SG
+kannel	kanneldel	N;AT+ESS;PL
+kannel	kanneldeks	N;TRANS;PL
+kannel	kandle	N;GEN;SG
+kannel	kanneldes	N;IN+ESS;PL
+kannel	kanneldega	N;COM;PL
+kannel	kanneldest	N;IN+ABL;PL
+kannel	kanneldeni	N;TERM;PL
+kannel	kanneldena	N;FRML;PL
+kannel	kandlele	N;AT+ALL;SG
+kannel	kannel	N;NOM;SG
+kannel	kandle	N;ACC;SG
+kannel	kandlelt	N;AT+ABL;SG
+kannel	kanneldeta	N;PRIV;PL
+euroopium	euroopiumid	N;NOM;PL
+euroopium	euroopiumiks	N;TRANS;SG
+euroopium	euroopiumil	N;AT+ESS;SG
+euroopium	euroopiumdesse	N;IN+ALL;PL
+euroopium	euroopiumis	N;IN+ESS;SG
+euroopium	euroopiumi	N;PRT;SG
+euroopium	euroopiumini	N;TERM;SG
+euroopium	euroopiumist	N;IN+ABL;SG
+euroopium	euroopiumiga	N;COM;SG
+euroopium	euroopiumde	N;GEN;PL
+euroopium	euroopiumi	N;IN+ALL;SG
+euroopium	euroopiume	N;PRT;PL
+euroopium	euroopiumdelt	N;AT+ABL;PL
+euroopium	euroopiumina	N;FRML;SG
+euroopium	euroopiumid	N;ACC;PL
+euroopium	euroopiumdele	N;AT+ALL;PL
+euroopium	euroopiumita	N;PRIV;SG
+euroopium	euroopiumdel	N;AT+ESS;PL
+euroopium	euroopiumdeks	N;TRANS;PL
+euroopium	euroopiumi	N;GEN;SG
+euroopium	euroopiumdes	N;IN+ESS;PL
+euroopium	euroopiumdega	N;COM;PL
+euroopium	euroopiumdest	N;IN+ABL;PL
+euroopium	euroopiumdeni	N;TERM;PL
+euroopium	euroopiumdena	N;FRML;PL
+euroopium	euroopiumile	N;AT+ALL;SG
+euroopium	euroopium	N;NOM;SG
+euroopium	euroopiumi	N;ACC;SG
+euroopium	euroopiumilt	N;AT+ABL;SG
+euroopium	euroopiumdeta	N;PRIV;PL
+vöö	vööd	N;NOM;PL
+vöö	vööks	N;TRANS;SG
+vöö	vööl	N;AT+ESS;SG
+vöö	vöödessevöisse	N;IN+ALL;PL
+vöö	vöös	N;IN+ESS;SG
+vöö	vööd	N;PRT;SG
+vöö	vööni	N;TERM;SG
+vöö	vööst	N;IN+ABL;SG
+vöö	vööga	N;COM;SG
+vöö	vööde	N;GEN;PL
+vöö	vöösse	N;IN+ALL;SG
+vöö	vöidvöösid	N;PRT;PL
+vöö	vöödeltvöilt	N;AT+ABL;PL
+vöö	vööna	N;FRML;SG
+vöö	vööd	N;ACC;PL
+vöö	vöödelevöile	N;AT+ALL;PL
+vöö	vööta	N;PRIV;SG
+vöö	vöödelvöil	N;AT+ESS;PL
+vöö	vöödeksvöiks	N;TRANS;PL
+vöö	vöö	N;GEN;SG
+vöö	vöödesvöis	N;IN+ESS;PL
+vöö	vöödega	N;COM;PL
+vöö	vöödestvöist	N;IN+ABL;PL
+vöö	vöödeni	N;TERM;PL
+vöö	vöödena	N;FRML;PL
+vöö	vööle	N;AT+ALL;SG
+vöö	vöö	N;NOM;SG
+vöö	vöö	N;ACC;SG
+vöö	vöölt	N;AT+ABL;SG
+vöö	vöödeta	N;PRIV;PL
+meeldima	meelditud	V.PTCP;PASS;PST
+meeldima	oleme meeldinud	V;ACT;PRS;PRF;POS;IND;1;PL
+meeldima	ei olnud meelditudp	V;PASS;PST;PRF;NEG;IND
+meeldima	olgu meeldinud	V;ACT;PRS;PRF;POS;IMP;SG
+meeldima	meeldigu	V;ACT;PRS;POS;IMP;3;SG
+meeldima	ei olevat meeldinudp	V;ACT;PRS;PRF;NEG;QUOT
+meeldima	oleksin meeldinud	V;ACT;PRS;PRF;POS;COND
+meeldima	meeldiks	V;ACT;PRS;POS;COND;3;SG
+meeldima	meeldigu	V;ACT;PRS;POS;IMP;3;PL
+meeldima	ärge meeldige	V;ACT;PRS;NEG;IMP;2;PL
+meeldima	meeldivat	V;ACT;PRS;POS;QUOT
+meeldima	meeldib	V;ACT;PRS;POS;IND;3;SG
+meeldima	olen meeldinud	V;ACT;PRS;PRF;POS;IND;1;SG
+meeldima	olete meeldinud	V;ACT;PRS;PRF;POS;IND;2;PL
+meeldima	meeldiv	V.PTCP;ACT;PRS
+meeldima	meeldin	V;ACT;PRS;POS;IND;1;SG
+meeldima	ärgu olgu meelditud	V;PASS;PRS;PRF;NEG;IMP
+meeldima	meeldiksid	V;ACT;PRS;POS;COND;2;SG
+meeldima	ei olevat meelditudp	V;PASS;PRS;PRF;NEG;QUOT
+meeldima	meelditavat	V;PASS;PRS;POS;QUOT
+meeldima	meelditav	V.PTCP;PASS;PRS
+meeldima	oleks meelditud	V;PASS;PRS;PRF;POS;COND
+meeldima	oli meelditud	V;PASS;PST;PRF;POS;IND
+meeldima	ei ole meeldinudp	V;ACT;PST;NEG;IND
+meeldima	meeldigem	V;ACT;PRS;POS;IMP;1;PL
+meeldima	ei meeldivat	V;ACT;PRS;NEG;QUOT
+meeldima	meeldiksime	V;ACT;PRS;POS;COND;1;PL
+meeldima	ei ole meelditudp	V;PASS;PRS;PRF;NEG;IND
+meeldima	ärgu meeldigu	V;ACT;PRS;NEG;IMP;3;SG
+meeldima	ei meelditavat	V;PASS;PRS;NEG;QUOT
+meeldima	ei meeldita	V;PASS;PRS;NEG;IND
+meeldima	olevat meelditud	V;PASS;PRS;PRF;POS;QUOT
+meeldima	meeldisime	V;ACT;PST;POS;IND;1;PL
+meeldima	on meeldinud	V;ACT;PRS;PRF;POS;IND;3;PL
+meeldima	meelditaks	V;PASS;PRS;POS;COND
+meeldima	olin meeldinud	V;ACT;PRS;PRF;POS;COND;1;SG
+meeldima	oled meeldinud	V;ACT;PRS;PRF;POS;IND;2;SG
+meeldima	olevat meeldinud	V;ACT;PRS;PRF;POS;QUOT
+meeldima	ei oleks meelditudp	V;PASS;PRS;PRF;NEG;COND
+meeldima	ei meelditud	V;PASS;PST;NEG;IND
+meeldima	ärgu meeldigu	V;ACT;PRS;NEG;IMP;3;PL
+meeldima	meeldime	V;ACT;PRS;POS;IND;1;PL
+meeldima	oleksime meeldinud	V;ACT;PRS;PRF;POS;COND;1;PL
+meeldima	ära meeldi	V;ACT;PRS;NEG;IMP;2;SG
+meeldima	meelditagu	V;PASS;PRS;POS;IMP
+meeldima	ei meelditaks	V;PASS;PRS;NEG;COND
+meeldima	meeldivad	V;ACT;PRS;POS;IND;3;PL
+meeldima	meeldis	V;ACT;PST;POS;IND;3;SG
+meeldima	meelditi	V;PASS;PST;POS;IND
+meeldima	meeldisid	V;ACT;PST;POS;IND;3;PL
+meeldima	ärgu olgu meeldinud	V;ACT;PRS;PRF;NEG;IMP;SG
+meeldima	meeldid	V;ACT;PRS;POS;IND;2;SG
+meeldima	olite meeldinud	V;ACT;PRS;PRF;POS;COND;2;PL
+meeldima	meeldinud	V.PTCP;ACT;PST
+meeldima	ei meeldi	V;ACT;PRS;NEG;IND
+meeldima	ärgu meelditagu	V;PASS;PRS;NEG;IMP
+meeldima	meeldisite	V;ACT;PST;POS;IND;2;PL
+meeldima	oli meeldinud	V;ACT;PRS;PRF;POS;COND;3;SG
+meeldima	meeldima	V;NFIN
+meeldima	on meelditud	V;PASS;PRS;PRF;POS;IND
+meeldima	ärgem meeldigem	V;ACT;PRS;NEG;IMP;1;PL
+meeldima	olid meeldinud	V;ACT;PRS;PRF;POS;COND;2;SG
+meeldima	meeldisid	V;ACT;PST;POS;IND;2;SG
+meeldima	meeldite	V;ACT;PRS;POS;IND;2;PL
+meeldima	meelditakse	V;PASS;PRS;POS;IND
+meeldima	on meeldinud	V;ACT;PRS;PRF;POS;IND;3;SG
+meeldima	ärgu olgu meeldinud	V;ACT;PRS;PRF;NEG;IMP;PL
+meeldima	meeldiksite	V;ACT;PRS;POS;COND;2;PL
+meeldima	oleksite meeldinud	V;ACT;PRS;PRF:POS;COND;2;PL
+meeldima	meeldige	V;ACT;PRS;POS;IMP;2;PL
+meeldima	olgu meeldinud	V;ACT;PRS;PRF;POS;IMP;PL
+meeldima	oleksid meeldinud	V;ACT;PRS;PRF;POS;COND;3;PL
+meeldima	meeldiksid	V;ACT;PRS;POS;COND;3;PL
+meeldima	meeldisin	V;ACT;PST;POS;IND;1;SG
+meeldima	ei oleks meeldinudp	V;ACT;PRS;PRF;NEG;COND
+meeldima	olgu meelditud	V;PASS;PRS;PRF;POS;IMP
+meeldima	ei olnud meeldinudp	V;ACT;PST;PRF;NEG;IND
+meeldima	meeldi	V;ACT;PRS;POS;IMP;2;SG
+meeldima	meeldiksin	V;ACT;PRS;POS;COND;1;SG
+paber	paberid	N;NOM;PL
+paber	paberiks	N;TRANS;SG
+paber	paberil	N;AT+ESS;SG
+paber	paberitesse	N;IN+ALL;PL
+paber	paberis	N;IN+ESS;SG
+paber	paberit	N;PRT;SG
+paber	paberini	N;TERM;SG
+paber	paberist	N;IN+ABL;SG
+paber	paberiga	N;COM;SG
+paber	paberite	N;GEN;PL
+paber	paberisse	N;IN+ALL;SG
+paber	pabereid	N;PRT;PL
+paber	paberitelt	N;AT+ABL;PL
+paber	paberina	N;FRML;SG
+paber	paberid	N;ACC;PL
+paber	paberitele	N;AT+ALL;PL
+paber	paberita	N;PRIV;SG
+paber	paberitel	N;AT+ESS;PL
+paber	paberiteks	N;TRANS;PL
+paber	paberi	N;GEN;SG
+paber	paberites	N;IN+ESS;PL
+paber	paberitega	N;COM;PL
+paber	paberitest	N;IN+ABL;PL
+paber	paberiteni	N;TERM;PL
+paber	paberitena	N;FRML;PL
+paber	paberile	N;AT+ALL;SG
+paber	paber	N;NOM;SG
+paber	paberi	N;ACC;SG
+paber	paberilt	N;AT+ABL;SG
+paber	paberiteta	N;PRIV;PL
+vihkama	vihatud	V.PTCP;PASS;PST
+vihkama	oleme vihanud	V;ACT;PRS;PRF;POS;IND;1;PL
+vihkama	ei olnud vihatudp	V;PASS;PST;PRF;NEG;IND
+vihkama	olgu vihanud	V;ACT;PRS;PRF;POS;IMP;SG
+vihkama	vihaku	V;ACT;PRS;POS;IMP;3;SG
+vihkama	ei olevat vihanudp	V;ACT;PRS;PRF;NEG;QUOT
+vihkama	oleksin vihanud	V;ACT;PRS;PRF;POS;COND
+vihkama	vihkaks	V;ACT;PRS;POS;COND;3;SG
+vihkama	vihaku	V;ACT;PRS;POS;IMP;3;PL
+vihkama	ärge vihake	V;ACT;PRS;NEG;IMP;2;PL
+vihkama	vihkavat	V;ACT;PRS;POS;QUOT
+vihkama	vihkab	V;ACT;PRS;POS;IND;3;SG
+vihkama	olen vihanud	V;ACT;PRS;PRF;POS;IND;1;SG
+vihkama	olete vihanud	V;ACT;PRS;PRF;POS;IND;2;PL
+vihkama	vihkav	V.PTCP;ACT;PRS
+vihkama	vihkan	V;ACT;PRS;POS;IND;1;SG
+vihkama	ärgu olgu vihatud	V;PASS;PRS;PRF;NEG;IMP
+vihkama	vihkaksid	V;ACT;PRS;POS;COND;2;SG
+vihkama	ei olevat vihatudp	V;PASS;PRS;PRF;NEG;QUOT
+vihkama	vihatavat	V;PASS;PRS;POS;QUOT
+vihkama	vihatav	V.PTCP;PASS;PRS
+vihkama	oleks vihatud	V;PASS;PRS;PRF;POS;COND
+vihkama	oli vihatud	V;PASS;PST;PRF;POS;IND
+vihkama	ei ole vihanudp	V;ACT;PST;NEG;IND
+vihkama	vihakem	V;ACT;PRS;POS;IMP;1;PL
+vihkama	ei vihkavat	V;ACT;PRS;NEG;QUOT
+vihkama	vihkaksime	V;ACT;PRS;POS;COND;1;PL
+vihkama	ei ole vihatudp	V;PASS;PRS;PRF;NEG;IND
+vihkama	ärgu vihaku	V;ACT;PRS;NEG;IMP;3;SG
+vihkama	ei vihatavat	V;PASS;PRS;NEG;QUOT
+vihkama	ei vihata	V;PASS;PRS;NEG;IND
+vihkama	olevat vihatud	V;PASS;PRS;PRF;POS;QUOT
+vihkama	vihkasime	V;ACT;PST;POS;IND;1;PL
+vihkama	on vihanud	V;ACT;PRS;PRF;POS;IND;3;PL
+vihkama	vihataks	V;PASS;PRS;POS;COND
+vihkama	olin vihanud	V;ACT;PRS;PRF;POS;COND;1;SG
+vihkama	oled vihanud	V;ACT;PRS;PRF;POS;IND;2;SG
+vihkama	olevat vihanud	V;ACT;PRS;PRF;POS;QUOT
+vihkama	ei oleks vihatudp	V;PASS;PRS;PRF;NEG;COND
+vihkama	ei vihatud	V;PASS;PST;NEG;IND
+vihkama	ärgu vihaku	V;ACT;PRS;NEG;IMP;3;PL
+vihkama	vihkame	V;ACT;PRS;POS;IND;1;PL
+vihkama	oleksime vihanud	V;ACT;PRS;PRF;POS;COND;1;PL
+vihkama	ära vihka	V;ACT;PRS;NEG;IMP;2;SG
+vihkama	vihatagu	V;PASS;PRS;POS;IMP
+vihkama	ei vihataks	V;PASS;PRS;NEG;COND
+vihkama	vihkavad	V;ACT;PRS;POS;IND;3;PL
+vihkama	vihkas	V;ACT;PST;POS;IND;3;SG
+vihkama	vihati	V;PASS;PST;POS;IND
+vihkama	vihkasid	V;ACT;PST;POS;IND;3;PL
+vihkama	ärgu olgu vihanud	V;ACT;PRS;PRF;NEG;IMP;SG
+vihkama	vihkad	V;ACT;PRS;POS;IND;2;SG
+vihkama	olite vihanud	V;ACT;PRS;PRF;POS;COND;2;PL
+vihkama	vihanud	V.PTCP;ACT;PST
+vihkama	ei vihka	V;ACT;PRS;NEG;IND
+vihkama	ärgu vihatagu	V;PASS;PRS;NEG;IMP
+vihkama	vihkasite	V;ACT;PST;POS;IND;2;PL
+vihkama	oli vihanud	V;ACT;PRS;PRF;POS;COND;3;SG
+vihkama	vihkama	V;NFIN
+vihkama	on vihatud	V;PASS;PRS;PRF;POS;IND
+vihkama	ärgem vihakem	V;ACT;PRS;NEG;IMP;1;PL
+vihkama	olid vihanud	V;ACT;PRS;PRF;POS;COND;2;SG
+vihkama	vihkasid	V;ACT;PST;POS;IND;2;SG
+vihkama	vihkate	V;ACT;PRS;POS;IND;2;PL
+vihkama	vihatakse	V;PASS;PRS;POS;IND
+vihkama	on vihanud	V;ACT;PRS;PRF;POS;IND;3;SG
+vihkama	ärgu olgu vihanud	V;ACT;PRS;PRF;NEG;IMP;PL
+vihkama	vihkaksite	V;ACT;PRS;POS;COND;2;PL
+vihkama	oleksite vihanud	V;ACT;PRS;PRF:POS;COND;2;PL
+vihkama	vihake	V;ACT;PRS;POS;IMP;2;PL
+vihkama	olgu vihanud	V;ACT;PRS;PRF;POS;IMP;PL
+vihkama	oleksid vihanud	V;ACT;PRS;PRF;POS;COND;3;PL
+vihkama	vihkaksid	V;ACT;PRS;POS;COND;3;PL
+vihkama	vihkasin	V;ACT;PST;POS;IND;1;SG
+vihkama	ei oleks vihanudp	V;ACT;PRS;PRF;NEG;COND
+vihkama	olgu vihatud	V;PASS;PRS;PRF;POS;IMP
+vihkama	ei olnud vihanudp	V;ACT;PST;PRF;NEG;IND
+vihkama	vihka	V;ACT;PRS;POS;IMP;2;SG
+vihkama	vihkaksin	V;ACT;PRS;POS;COND;1;SG
+ohutu	ohutud	N;NOM;PL
+ohutu	ohutuks	N;TRANS;SG
+ohutu	ohutul	N;AT+ESS;SG
+ohutu	ohututesse	N;IN+ALL;PL
+ohutu	ohutus	N;IN+ESS;SG
+ohutu	ohutut	N;PRT;SG
+ohutu	ohutuni	N;TERM;SG
+ohutu	ohutust	N;IN+ABL;SG
+ohutu	ohutuga	N;COM;SG
+ohutu	ohutute	N;GEN;PL
+ohutu	ohutusse	N;IN+ALL;SG
+ohutu	ohutuid	N;PRT;PL
+ohutu	ohututelt	N;AT+ABL;PL
+ohutu	ohutuna	N;FRML;SG
+ohutu	ohutud	N;ACC;PL
+ohutu	ohututele	N;AT+ALL;PL
+ohutu	ohututa	N;PRIV;SG
+ohutu	ohututel	N;AT+ESS;PL
+ohutu	ohututeks	N;TRANS;PL
+ohutu	ohutu	N;GEN;SG
+ohutu	ohututes	N;IN+ESS;PL
+ohutu	ohututega	N;COM;PL
+ohutu	ohututest	N;IN+ABL;PL
+ohutu	ohututeni	N;TERM;PL
+ohutu	ohututena	N;FRML;PL
+ohutu	ohutule	N;AT+ALL;SG
+ohutu	ohutu	N;NOM;SG
+ohutu	ohutu	N;ACC;SG
+ohutu	ohutult	N;AT+ABL;SG
+ohutu	ohututeta	N;PRIV;PL
+valetaja	valetajad	N;NOM;PL
+valetaja	valetajaks	N;TRANS;SG
+valetaja	valetajal	N;AT+ESS;SG
+valetaja	valetajatesse	N;IN+ALL;PL
+valetaja	valetajas	N;IN+ESS;SG
+valetaja	valetajat	N;PRT;SG
+valetaja	valetajani	N;TERM;SG
+valetaja	valetajast	N;IN+ABL;SG
+valetaja	valetajaga	N;COM;SG
+valetaja	valetajate	N;GEN;PL
+valetaja	valetajasse	N;IN+ALL;SG
+valetaja	valetajaid	N;PRT;PL
+valetaja	valetajatelt	N;AT+ABL;PL
+valetaja	valetajana	N;FRML;SG
+valetaja	valetajad	N;ACC;PL
+valetaja	valetajatele	N;AT+ALL;PL
+valetaja	valetajata	N;PRIV;SG
+valetaja	valetajatel	N;AT+ESS;PL
+valetaja	valetajateks	N;TRANS;PL
+valetaja	valetaja	N;GEN;SG
+valetaja	valetajates	N;IN+ESS;PL
+valetaja	valetajatega	N;COM;PL
+valetaja	valetajatest	N;IN+ABL;PL
+valetaja	valetajateni	N;TERM;PL
+valetaja	valetajatena	N;FRML;PL
+valetaja	valetajale	N;AT+ALL;SG
+valetaja	valetaja	N;NOM;SG
+valetaja	valetaja	N;ACC;SG
+valetaja	valetajalt	N;AT+ABL;SG
+valetaja	valetajateta	N;PRIV;PL
+kohin	kohinad	N;NOM;PL
+kohin	kohinaks	N;TRANS;SG
+kohin	kohinal	N;AT+ESS;SG
+kohin	kohinatesse	N;IN+ALL;PL
+kohin	kohinas	N;IN+ESS;SG
+kohin	kohinat	N;PRT;SG
+kohin	kohinani	N;TERM;SG
+kohin	kohinast	N;IN+ABL;SG
+kohin	kohinaga	N;COM;SG
+kohin	kohinate	N;GEN;PL
+kohin	kohinasse	N;IN+ALL;SG
+kohin	kohinaid	N;PRT;PL
+kohin	kohinatelt	N;AT+ABL;PL
+kohin	kohinana	N;FRML;SG
+kohin	kohinad	N;ACC;PL
+kohin	kohinatele	N;AT+ALL;PL
+kohin	kohinata	N;PRIV;SG
+kohin	kohinatel	N;AT+ESS;PL
+kohin	kohinateks	N;TRANS;PL
+kohin	kohina	N;GEN;SG
+kohin	kohinates	N;IN+ESS;PL
+kohin	kohinatega	N;COM;PL
+kohin	kohinatest	N;IN+ABL;PL
+kohin	kohinateni	N;TERM;PL
+kohin	kohinatena	N;FRML;PL
+kohin	kohinale	N;AT+ALL;SG
+kohin	kohin	N;NOM;SG
+kohin	kohina	N;ACC;SG
+kohin	kohinalt	N;AT+ABL;SG
+kohin	kohinateta	N;PRIV;PL
+tõlkima	tõlgitud	V.PTCP;PASS;PST
+tõlkima	oleme tõlkinud	V;ACT;PRS;PRF;POS;IND;1;PL
+tõlkima	ei olnud tõlgitudp	V;PASS;PST;PRF;NEG;IND
+tõlkima	olgu tõlkinud	V;ACT;PRS;PRF;POS;IMP;SG
+tõlkima	tõlkigu	V;ACT;PRS;POS;IMP;3;SG
+tõlkima	ei olevat tõlkinudp	V;ACT;PRS;PRF;NEG;QUOT
+tõlkima	oleksin tõlkinud	V;ACT;PRS;PRF;POS;COND
+tõlkima	tõlgiks	V;ACT;PRS;POS;COND;3;SG
+tõlkima	tõlkigu	V;ACT;PRS;POS;IMP;3;PL
+tõlkima	ärge tõlkige	V;ACT;PRS;NEG;IMP;2;PL
+tõlkima	tõlkivat	V;ACT;PRS;POS;QUOT
+tõlkima	tõlgib	V;ACT;PRS;POS;IND;3;SG
+tõlkima	olen tõlkinud	V;ACT;PRS;PRF;POS;IND;1;SG
+tõlkima	olete tõlkinud	V;ACT;PRS;PRF;POS;IND;2;PL
+tõlkima	tõlkiv	V.PTCP;ACT;PRS
+tõlkima	tõlgin	V;ACT;PRS;POS;IND;1;SG
+tõlkima	ärgu olgu tõlgitud	V;PASS;PRS;PRF;NEG;IMP
+tõlkima	tõlgiksid	V;ACT;PRS;POS;COND;2;SG
+tõlkima	ei olevat tõlgitudp	V;PASS;PRS;PRF;NEG;QUOT
+tõlkima	tõlgitavat	V;PASS;PRS;POS;QUOT
+tõlkima	tõlgitav	V.PTCP;PASS;PRS
+tõlkima	oleks tõlgitud	V;PASS;PRS;PRF;POS;COND
+tõlkima	oli tõlgitud	V;PASS;PST;PRF;POS;IND
+tõlkima	ei ole tõlkinudp	V;ACT;PST;NEG;IND
+tõlkima	tõlkigem	V;ACT;PRS;POS;IMP;1;PL
+tõlkima	ei tõlkivat	V;ACT;PRS;NEG;QUOT
+tõlkima	tõlgiksime	V;ACT;PRS;POS;COND;1;PL
+tõlkima	ei ole tõlgitudp	V;PASS;PRS;PRF;NEG;IND
+tõlkima	ärgu tõlkigu	V;ACT;PRS;NEG;IMP;3;SG
+tõlkima	ei tõlgitavat	V;PASS;PRS;NEG;QUOT
+tõlkima	ei tõlgita	V;PASS;PRS;NEG;IND
+tõlkima	olevat tõlgitud	V;PASS;PRS;PRF;POS;QUOT
+tõlkima	tõlkisime	V;ACT;PST;POS;IND;1;PL
+tõlkima	on tõlkinud	V;ACT;PRS;PRF;POS;IND;3;PL
+tõlkima	tõlgitaks	V;PASS;PRS;POS;COND
+tõlkima	olin tõlkinud	V;ACT;PRS;PRF;POS;COND;1;SG
+tõlkima	oled tõlkinud	V;ACT;PRS;PRF;POS;IND;2;SG
+tõlkima	olevat tõlkinud	V;ACT;PRS;PRF;POS;QUOT
+tõlkima	ei oleks tõlgitudp	V;PASS;PRS;PRF;NEG;COND
+tõlkima	ei tõlgitud	V;PASS;PST;NEG;IND
+tõlkima	ärgu tõlkigu	V;ACT;PRS;NEG;IMP;3;PL
+tõlkima	tõlgime	V;ACT;PRS;POS;IND;1;PL
+tõlkima	oleksime tõlkinud	V;ACT;PRS;PRF;POS;COND;1;PL
+tõlkima	ära tõlgi	V;ACT;PRS;NEG;IMP;2;SG
+tõlkima	tõlgitagu	V;PASS;PRS;POS;IMP
+tõlkima	ei tõlgitaks	V;PASS;PRS;NEG;COND
+tõlkima	tõlgivad	V;ACT;PRS;POS;IND;3;PL
+tõlkima	tõlkis	V;ACT;PST;POS;IND;3;SG
+tõlkima	tõlgiti	V;PASS;PST;POS;IND
+tõlkima	tõlkisid	V;ACT;PST;POS;IND;3;PL
+tõlkima	ärgu olgu tõlkinud	V;ACT;PRS;PRF;NEG;IMP;SG
+tõlkima	tõlgid	V;ACT;PRS;POS;IND;2;SG
+tõlkima	olite tõlkinud	V;ACT;PRS;PRF;POS;COND;2;PL
+tõlkima	tõlkinud	V.PTCP;ACT;PST
+tõlkima	ei tõlgi	V;ACT;PRS;NEG;IND
+tõlkima	ärgu tõlgitagu	V;PASS;PRS;NEG;IMP
+tõlkima	tõlkisite	V;ACT;PST;POS;IND;2;PL
+tõlkima	oli tõlkinud	V;ACT;PRS;PRF;POS;COND;3;SG
+tõlkima	tõlkima	V;NFIN
+tõlkima	on tõlgitud	V;PASS;PRS;PRF;POS;IND
+tõlkima	ärgem tõlkigem	V;ACT;PRS;NEG;IMP;1;PL
+tõlkima	olid tõlkinud	V;ACT;PRS;PRF;POS;COND;2;SG
+tõlkima	tõlkisid	V;ACT;PST;POS;IND;2;SG
+tõlkima	tõlgite	V;ACT;PRS;POS;IND;2;PL
+tõlkima	tõlgitakse	V;PASS;PRS;POS;IND
+tõlkima	on tõlkinud	V;ACT;PRS;PRF;POS;IND;3;SG
+tõlkima	ärgu olgu tõlkinud	V;ACT;PRS;PRF;NEG;IMP;PL
+tõlkima	tõlgiksite	V;ACT;PRS;POS;COND;2;PL
+tõlkima	oleksite tõlkinud	V;ACT;PRS;PRF:POS;COND;2;PL
+tõlkima	tõlkige	V;ACT;PRS;POS;IMP;2;PL
+tõlkima	olgu tõlkinud	V;ACT;PRS;PRF;POS;IMP;PL
+tõlkima	oleksid tõlkinud	V;ACT;PRS;PRF;POS;COND;3;PL
+tõlkima	tõlgiksid	V;ACT;PRS;POS;COND;3;PL
+tõlkima	tõlkisin	V;ACT;PST;POS;IND;1;SG
+tõlkima	ei oleks tõlkinudp	V;ACT;PRS;PRF;NEG;COND
+tõlkima	olgu tõlgitud	V;PASS;PRS;PRF;POS;IMP
+tõlkima	ei olnud tõlkinudp	V;ACT;PST;PRF;NEG;IND
+tõlkima	tõlgi	V;ACT;PRS;POS;IMP;2;SG
+tõlkima	tõlgiksin	V;ACT;PRS;POS;COND;1;SG
+kaadmium	kaadmiumid	N;NOM;PL
+kaadmium	kaadmiumiks	N;TRANS;SG
+kaadmium	kaadmiumil	N;AT+ESS;SG
+kaadmium	kaadmiumdesse	N;IN+ALL;PL
+kaadmium	kaadmiumis	N;IN+ESS;SG
+kaadmium	kaadmiumi	N;PRT;SG
+kaadmium	kaadmiumini	N;TERM;SG
+kaadmium	kaadmiumist	N;IN+ABL;SG
+kaadmium	kaadmiumiga	N;COM;SG
+kaadmium	kaadmiumde	N;GEN;PL
+kaadmium	kaadmiumi	N;IN+ALL;SG
+kaadmium	kaadmiume	N;PRT;PL
+kaadmium	kaadmiumdelt	N;AT+ABL;PL
+kaadmium	kaadmiumina	N;FRML;SG
+kaadmium	kaadmiumid	N;ACC;PL
+kaadmium	kaadmiumdele	N;AT+ALL;PL
+kaadmium	kaadmiumita	N;PRIV;SG
+kaadmium	kaadmiumdel	N;AT+ESS;PL
+kaadmium	kaadmiumdeks	N;TRANS;PL
+kaadmium	kaadmiumi	N;GEN;SG
+kaadmium	kaadmiumdes	N;IN+ESS;PL
+kaadmium	kaadmiumdega	N;COM;PL
+kaadmium	kaadmiumdest	N;IN+ABL;PL
+kaadmium	kaadmiumdeni	N;TERM;PL
+kaadmium	kaadmiumdena	N;FRML;PL
+kaadmium	kaadmiumile	N;AT+ALL;SG
+kaadmium	kaadmium	N;NOM;SG
+kaadmium	kaadmiumi	N;ACC;SG
+kaadmium	kaadmiumilt	N;AT+ABL;SG
+kaadmium	kaadmiumdeta	N;PRIV;PL
+tuletõrjuja	tuletõrjujad	N;NOM;PL
+tuletõrjuja	tuletõrjujaks	N;TRANS;SG
+tuletõrjuja	tuletõrjujal	N;AT+ESS;SG
+tuletõrjuja	tuletõrjujatesse	N;IN+ALL;PL
+tuletõrjuja	tuletõrjujas	N;IN+ESS;SG
+tuletõrjuja	tuletõrjujat	N;PRT;SG
+tuletõrjuja	tuletõrjujani	N;TERM;SG
+tuletõrjuja	tuletõrjujast	N;IN+ABL;SG
+tuletõrjuja	tuletõrjujaga	N;COM;SG
+tuletõrjuja	tuletõrjujate	N;GEN;PL
+tuletõrjuja	tuletõrjujasse	N;IN+ALL;SG
+tuletõrjuja	tuletõrjujaid	N;PRT;PL
+tuletõrjuja	tuletõrjujatelt	N;AT+ABL;PL
+tuletõrjuja	tuletõrjujana	N;FRML;SG
+tuletõrjuja	tuletõrjujad	N;ACC;PL
+tuletõrjuja	tuletõrjujatele	N;AT+ALL;PL
+tuletõrjuja	tuletõrjujata	N;PRIV;SG
+tuletõrjuja	tuletõrjujatel	N;AT+ESS;PL
+tuletõrjuja	tuletõrjujateks	N;TRANS;PL
+tuletõrjuja	tuletõrjuja	N;GEN;SG
+tuletõrjuja	tuletõrjujates	N;IN+ESS;PL
+tuletõrjuja	tuletõrjujatega	N;COM;PL
+tuletõrjuja	tuletõrjujatest	N;IN+ABL;PL
+tuletõrjuja	tuletõrjujateni	N;TERM;PL
+tuletõrjuja	tuletõrjujatena	N;FRML;PL
+tuletõrjuja	tuletõrjujale	N;AT+ALL;SG
+tuletõrjuja	tuletõrjuja	N;NOM;SG
+tuletõrjuja	tuletõrjuja	N;ACC;SG
+tuletõrjuja	tuletõrjujalt	N;AT+ABL;SG
+tuletõrjuja	tuletõrjujateta	N;PRIV;PL
+õetütar	õetütred	N;NOM;PL
+õetütar	õetütreks	N;TRANS;SG
+õetütar	õetütrel	N;AT+ESS;SG
+õetütar	õetütardesse	N;IN+ALL;PL
+õetütar	õetütres	N;IN+ESS;SG
+õetütar	õetütart	N;PRT;SG
+õetütar	õetütreni	N;TERM;SG
+õetütar	õetütrest	N;IN+ABL;SG
+õetütar	õetütrega	N;COM;SG
+õetütar	õetütarde	N;GEN;PL
+õetütar	õetütresse	N;IN+ALL;SG
+õetütar	õetütreid	N;PRT;PL
+õetütar	õetütardelt	N;AT+ABL;PL
+õetütar	õetütrena	N;FRML;SG
+õetütar	õetütred	N;ACC;PL
+õetütar	õetütardele	N;AT+ALL;PL
+õetütar	õetütreta	N;PRIV;SG
+õetütar	õetütardel	N;AT+ESS;PL
+õetütar	õetütardeks	N;TRANS;PL
+õetütar	õetütre	N;GEN;SG
+õetütar	õetütardes	N;IN+ESS;PL
+õetütar	õetütardega	N;COM;PL
+õetütar	õetütardest	N;IN+ABL;PL
+õetütar	õetütardeni	N;TERM;PL
+õetütar	õetütardena	N;FRML;PL
+õetütar	õetütrele	N;AT+ALL;SG
+õetütar	õetütar	N;NOM;SG
+õetütar	õetütre	N;ACC;SG
+õetütar	õetütrelt	N;AT+ABL;SG
+õetütar	õetütardeta	N;PRIV;PL
+hafnium	hafniumid	N;NOM;PL
+hafnium	hafniumiks	N;TRANS;SG
+hafnium	hafniumil	N;AT+ESS;SG
+hafnium	hafniumdesse	N;IN+ALL;PL
+hafnium	hafniumis	N;IN+ESS;SG
+hafnium	hafniumi	N;PRT;SG
+hafnium	hafniumini	N;TERM;SG
+hafnium	hafniumist	N;IN+ABL;SG
+hafnium	hafniumiga	N;COM;SG
+hafnium	hafniumde	N;GEN;PL
+hafnium	hafniumi	N;IN+ALL;SG
+hafnium	hafniume	N;PRT;PL
+hafnium	hafniumdelt	N;AT+ABL;PL
+hafnium	hafniumina	N;FRML;SG
+hafnium	hafniumid	N;ACC;PL
+hafnium	hafniumdele	N;AT+ALL;PL
+hafnium	hafniumita	N;PRIV;SG
+hafnium	hafniumdel	N;AT+ESS;PL
+hafnium	hafniumdeks	N;TRANS;PL
+hafnium	hafniumi	N;GEN;SG
+hafnium	hafniumdes	N;IN+ESS;PL
+hafnium	hafniumdega	N;COM;PL
+hafnium	hafniumdest	N;IN+ABL;PL
+hafnium	hafniumdeni	N;TERM;PL
+hafnium	hafniumdena	N;FRML;PL
+hafnium	hafniumile	N;AT+ALL;SG
+hafnium	hafnium	N;NOM;SG
+hafnium	hafniumi	N;ACC;SG
+hafnium	hafniumilt	N;AT+ABL;SG
+hafnium	hafniumdeta	N;PRIV;PL
+male	maled	N;NOM;PL
+male	maleks	N;TRANS;SG
+male	malel	N;AT+ESS;SG
+male	maledesse	N;IN+ALL;PL
+male	males	N;IN+ESS;SG
+male	malet	N;PRT;SG
+male	maleni	N;TERM;SG
+male	malest	N;IN+ABL;SG
+male	malega	N;COM;SG
+male	malede	N;GEN;PL
+male	malle	N;IN+ALL;SG
+male	malesid	N;PRT;PL
+male	maledelt	N;AT+ABL;PL
+male	malena	N;FRML;SG
+male	maled	N;ACC;PL
+male	maledele	N;AT+ALL;PL
+male	maleta	N;PRIV;SG
+male	maledel	N;AT+ESS;PL
+male	maledeks	N;TRANS;PL
+male	male	N;GEN;SG
+male	maledes	N;IN+ESS;PL
+male	maledega	N;COM;PL
+male	maledest	N;IN+ABL;PL
+male	maledeni	N;TERM;PL
+male	maledena	N;FRML;PL
+male	malele	N;AT+ALL;SG
+male	male	N;NOM;SG
+male	male	N;ACC;SG
+male	malelt	N;AT+ABL;SG
+male	maledeta	N;PRIV;PL
+ujuma	ujutud	V.PTCP;PASS;PST
+ujuma	oleme ujunud	V;ACT;PRS;PRF;POS;IND;1;PL
+ujuma	ei olnud ujutudp	V;PASS;PST;PRF;NEG;IND
+ujuma	olgu ujunud	V;ACT;PRS;PRF;POS;IMP;SG
+ujuma	ujugu	V;ACT;PRS;POS;IMP;3;SG
+ujuma	ei olevat ujunudp	V;ACT;PRS;PRF;NEG;QUOT
+ujuma	oleksin ujunud	V;ACT;PRS;PRF;POS;COND
+ujuma	ujuks	V;ACT;PRS;POS;COND;3;SG
+ujuma	ujugu	V;ACT;PRS;POS;IMP;3;PL
+ujuma	ärge ujuge	V;ACT;PRS;NEG;IMP;2;PL
+ujuma	ujuvat	V;ACT;PRS;POS;QUOT
+ujuma	ujub	V;ACT;PRS;POS;IND;3;SG
+ujuma	olen ujunud	V;ACT;PRS;PRF;POS;IND;1;SG
+ujuma	olete ujunud	V;ACT;PRS;PRF;POS;IND;2;PL
+ujuma	ujuv	V.PTCP;ACT;PRS
+ujuma	ujun	V;ACT;PRS;POS;IND;1;SG
+ujuma	ärgu olgu ujutud	V;PASS;PRS;PRF;NEG;IMP
+ujuma	ujuksid	V;ACT;PRS;POS;COND;2;SG
+ujuma	ei olevat ujutudp	V;PASS;PRS;PRF;NEG;QUOT
+ujuma	ujutavat	V;PASS;PRS;POS;QUOT
+ujuma	ujutav	V.PTCP;PASS;PRS
+ujuma	oleks ujutud	V;PASS;PRS;PRF;POS;COND
+ujuma	oli ujutud	V;PASS;PST;PRF;POS;IND
+ujuma	ei ole ujunudp	V;ACT;PST;NEG;IND
+ujuma	ujugem	V;ACT;PRS;POS;IMP;1;PL
+ujuma	ei ujuvat	V;ACT;PRS;NEG;QUOT
+ujuma	ujuksime	V;ACT;PRS;POS;COND;1;PL
+ujuma	ei ole ujutudp	V;PASS;PRS;PRF;NEG;IND
+ujuma	ärgu ujugu	V;ACT;PRS;NEG;IMP;3;SG
+ujuma	ei ujutavat	V;PASS;PRS;NEG;QUOT
+ujuma	ei ujuta	V;PASS;PRS;NEG;IND
+ujuma	olevat ujutud	V;PASS;PRS;PRF;POS;QUOT
+ujuma	ujusime	V;ACT;PST;POS;IND;1;PL
+ujuma	on ujunud	V;ACT;PRS;PRF;POS;IND;3;PL
+ujuma	ujutaks	V;PASS;PRS;POS;COND
+ujuma	olin ujunud	V;ACT;PRS;PRF;POS;COND;1;SG
+ujuma	oled ujunud	V;ACT;PRS;PRF;POS;IND;2;SG
+ujuma	olevat ujunud	V;ACT;PRS;PRF;POS;QUOT
+ujuma	ei oleks ujutudp	V;PASS;PRS;PRF;NEG;COND
+ujuma	ei ujutud	V;PASS;PST;NEG;IND
+ujuma	ärgu ujugu	V;ACT;PRS;NEG;IMP;3;PL
+ujuma	ujume	V;ACT;PRS;POS;IND;1;PL
+ujuma	oleksime ujunud	V;ACT;PRS;PRF;POS;COND;1;PL
+ujuma	ära uju	V;ACT;PRS;NEG;IMP;2;SG
+ujuma	ujutagu	V;PASS;PRS;POS;IMP
+ujuma	ei ujutaks	V;PASS;PRS;NEG;COND
+ujuma	ujuvad	V;ACT;PRS;POS;IND;3;PL
+ujuma	ujus	V;ACT;PST;POS;IND;3;SG
+ujuma	ujuti	V;PASS;PST;POS;IND
+ujuma	ujusid	V;ACT;PST;POS;IND;3;PL
+ujuma	ärgu olgu ujunud	V;ACT;PRS;PRF;NEG;IMP;SG
+ujuma	ujud	V;ACT;PRS;POS;IND;2;SG
+ujuma	olite ujunud	V;ACT;PRS;PRF;POS;COND;2;PL
+ujuma	ujunud	V.PTCP;ACT;PST
+ujuma	ei uju	V;ACT;PRS;NEG;IND
+ujuma	ärgu ujutagu	V;PASS;PRS;NEG;IMP
+ujuma	ujusite	V;ACT;PST;POS;IND;2;PL
+ujuma	oli ujunud	V;ACT;PRS;PRF;POS;COND;3;SG
+ujuma	ujuma	V;NFIN
+ujuma	on ujutud	V;PASS;PRS;PRF;POS;IND
+ujuma	ärgem ujugem	V;ACT;PRS;NEG;IMP;1;PL
+ujuma	olid ujunud	V;ACT;PRS;PRF;POS;COND;2;SG
+ujuma	ujusid	V;ACT;PST;POS;IND;2;SG
+ujuma	ujute	V;ACT;PRS;POS;IND;2;PL
+ujuma	ujutakse	V;PASS;PRS;POS;IND
+ujuma	on ujunud	V;ACT;PRS;PRF;POS;IND;3;SG
+ujuma	ärgu olgu ujunud	V;ACT;PRS;PRF;NEG;IMP;PL
+ujuma	ujuksite	V;ACT;PRS;POS;COND;2;PL
+ujuma	oleksite ujunud	V;ACT;PRS;PRF:POS;COND;2;PL
+ujuma	ujuge	V;ACT;PRS;POS;IMP;2;PL
+ujuma	olgu ujunud	V;ACT;PRS;PRF;POS;IMP;PL
+ujuma	oleksid ujunud	V;ACT;PRS;PRF;POS;COND;3;PL
+ujuma	ujuksid	V;ACT;PRS;POS;COND;3;PL
+ujuma	ujusin	V;ACT;PST;POS;IND;1;SG
+ujuma	ei oleks ujunudp	V;ACT;PRS;PRF;NEG;COND
+ujuma	olgu ujutud	V;PASS;PRS;PRF;POS;IMP
+ujuma	ei olnud ujunudp	V;ACT;PST;PRF;NEG;IND
+ujuma	uju	V;ACT;PRS;POS;IMP;2;SG
+ujuma	ujuksin	V;ACT;PRS;POS;COND;1;SG
+võlur	võlurid	N;NOM;PL
+võlur	võluriks	N;TRANS;SG
+võlur	võluril	N;AT+ESS;SG
+võlur	võluritesse	N;IN+ALL;PL
+võlur	võluris	N;IN+ESS;SG
+võlur	võlurit	N;PRT;SG
+võlur	võlurini	N;TERM;SG
+võlur	võlurist	N;IN+ABL;SG
+võlur	võluriga	N;COM;SG
+võlur	võlurite	N;GEN;PL
+võlur	võlurisse	N;IN+ALL;SG
+võlur	võlureid	N;PRT;PL
+võlur	võluritelt	N;AT+ABL;PL
+võlur	võlurina	N;FRML;SG
+võlur	võlurid	N;ACC;PL
+võlur	võluritele	N;AT+ALL;PL
+võlur	võlurita	N;PRIV;SG
+võlur	võluritel	N;AT+ESS;PL
+võlur	võluriteks	N;TRANS;PL
+võlur	võluri	N;GEN;SG
+võlur	võlurites	N;IN+ESS;PL
+võlur	võluritega	N;COM;PL
+võlur	võluritest	N;IN+ABL;PL
+võlur	võluriteni	N;TERM;PL
+võlur	võluritena	N;FRML;PL
+võlur	võlurile	N;AT+ALL;SG
+võlur	võlur	N;NOM;SG
+võlur	võluri	N;ACC;SG
+võlur	võlurilt	N;AT+ABL;SG
+võlur	võluriteta	N;PRIV;PL
+rinnahoidja	rinnahoidjad	N;NOM;PL
+rinnahoidja	rinnahoidjaks	N;TRANS;SG
+rinnahoidja	rinnahoidjal	N;AT+ESS;SG
+rinnahoidja	rinnahoidjatesse	N;IN+ALL;PL
+rinnahoidja	rinnahoidjas	N;IN+ESS;SG
+rinnahoidja	rinnahoidjat	N;PRT;SG
+rinnahoidja	rinnahoidjani	N;TERM;SG
+rinnahoidja	rinnahoidjast	N;IN+ABL;SG
+rinnahoidja	rinnahoidjaga	N;COM;SG
+rinnahoidja	rinnahoidjate	N;GEN;PL
+rinnahoidja	rinnahoidjasse	N;IN+ALL;SG
+rinnahoidja	rinnahoidjaid	N;PRT;PL
+rinnahoidja	rinnahoidjatelt	N;AT+ABL;PL
+rinnahoidja	rinnahoidjana	N;FRML;SG
+rinnahoidja	rinnahoidjad	N;ACC;PL
+rinnahoidja	rinnahoidjatele	N;AT+ALL;PL
+rinnahoidja	rinnahoidjata	N;PRIV;SG
+rinnahoidja	rinnahoidjatel	N;AT+ESS;PL
+rinnahoidja	rinnahoidjateks	N;TRANS;PL
+rinnahoidja	rinnahoidja	N;GEN;SG
+rinnahoidja	rinnahoidjates	N;IN+ESS;PL
+rinnahoidja	rinnahoidjatega	N;COM;PL
+rinnahoidja	rinnahoidjatest	N;IN+ABL;PL
+rinnahoidja	rinnahoidjateni	N;TERM;PL
+rinnahoidja	rinnahoidjatena	N;FRML;PL
+rinnahoidja	rinnahoidjale	N;AT+ALL;SG
+rinnahoidja	rinnahoidja	N;NOM;SG
+rinnahoidja	rinnahoidja	N;ACC;SG
+rinnahoidja	rinnahoidjalt	N;AT+ABL;SG
+rinnahoidja	rinnahoidjateta	N;PRIV;PL
+hoidja	hoidjad	N;NOM;PL
+hoidja	hoidjaks	N;TRANS;SG
+hoidja	hoidjal	N;AT+ESS;SG
+hoidja	hoidjatesse	N;IN+ALL;PL
+hoidja	hoidjas	N;IN+ESS;SG
+hoidja	hoidjat	N;PRT;SG
+hoidja	hoidjani	N;TERM;SG
+hoidja	hoidjast	N;IN+ABL;SG
+hoidja	hoidjaga	N;COM;SG
+hoidja	hoidjate	N;GEN;PL
+hoidja	hoidjasse	N;IN+ALL;SG
+hoidja	hoidjaid	N;PRT;PL
+hoidja	hoidjatelt	N;AT+ABL;PL
+hoidja	hoidjana	N;FRML;SG
+hoidja	hoidjad	N;ACC;PL
+hoidja	hoidjatele	N;AT+ALL;PL
+hoidja	hoidjata	N;PRIV;SG
+hoidja	hoidjatel	N;AT+ESS;PL
+hoidja	hoidjateks	N;TRANS;PL
+hoidja	hoidja	N;GEN;SG
+hoidja	hoidjates	N;IN+ESS;PL
+hoidja	hoidjatega	N;COM;PL
+hoidja	hoidjatest	N;IN+ABL;PL
+hoidja	hoidjateni	N;TERM;PL
+hoidja	hoidjatena	N;FRML;PL
+hoidja	hoidjale	N;AT+ALL;SG
+hoidja	hoidja	N;NOM;SG
+hoidja	hoidja	N;ACC;SG
+hoidja	hoidjalt	N;AT+ABL;SG
+hoidja	hoidjateta	N;PRIV;PL
+kaabel	kaablid	N;NOM;PL
+kaabel	kaabliks	N;TRANS;SG
+kaabel	kaablil	N;AT+ESS;SG
+kaabel	kaablitesse	N;IN+ALL;PL
+kaabel	kaablis	N;IN+ESS;SG
+kaabel	kaablit	N;PRT;SG
+kaabel	kaablini	N;TERM;SG
+kaabel	kaablist	N;IN+ABL;SG
+kaabel	kaabliga	N;COM;SG
+kaabel	kaablite	N;GEN;PL
+kaabel	kaablisse	N;IN+ALL;SG
+kaabel	kaableid	N;PRT;PL
+kaabel	kaablitelt	N;AT+ABL;PL
+kaabel	kaablina	N;FRML;SG
+kaabel	kaablid	N;ACC;PL
+kaabel	kaablitele	N;AT+ALL;PL
+kaabel	kaablita	N;PRIV;SG
+kaabel	kaablitel	N;AT+ESS;PL
+kaabel	kaabliteks	N;TRANS;PL
+kaabel	kaabli	N;GEN;SG
+kaabel	kaablites	N;IN+ESS;PL
+kaabel	kaablitega	N;COM;PL
+kaabel	kaablitest	N;IN+ABL;PL
+kaabel	kaabliteni	N;TERM;PL
+kaabel	kaablitena	N;FRML;PL
+kaabel	kaablile	N;AT+ALL;SG
+kaabel	kaabel	N;NOM;SG
+kaabel	kaabli	N;ACC;SG
+kaabel	kaablilt	N;AT+ABL;SG
+kaabel	kaabliteta	N;PRIV;PL
+võrduma	võrdutud	V.PTCP;PASS;PST
+võrduma	oleme võrdunud	V;ACT;PRS;PRF;POS;IND;1;PL
+võrduma	ei olnud võrdutudp	V;PASS;PST;PRF;NEG;IND
+võrduma	olgu võrdunud	V;ACT;PRS;PRF;POS;IMP;SG
+võrduma	võrdugu	V;ACT;PRS;POS;IMP;3;SG
+võrduma	ei olevat võrdunudp	V;ACT;PRS;PRF;NEG;QUOT
+võrduma	oleksin võrdunud	V;ACT;PRS;PRF;POS;COND
+võrduma	võrduks	V;ACT;PRS;POS;COND;3;SG
+võrduma	võrdugu	V;ACT;PRS;POS;IMP;3;PL
+võrduma	ärge võrduge	V;ACT;PRS;NEG;IMP;2;PL
+võrduma	võrduvat	V;ACT;PRS;POS;QUOT
+võrduma	võrdub	V;ACT;PRS;POS;IND;3;SG
+võrduma	olen võrdunud	V;ACT;PRS;PRF;POS;IND;1;SG
+võrduma	olete võrdunud	V;ACT;PRS;PRF;POS;IND;2;PL
+võrduma	võrduv	V.PTCP;ACT;PRS
+võrduma	võrdun	V;ACT;PRS;POS;IND;1;SG
+võrduma	ärgu olgu võrdutud	V;PASS;PRS;PRF;NEG;IMP
+võrduma	võrduksid	V;ACT;PRS;POS;COND;2;SG
+võrduma	ei olevat võrdutudp	V;PASS;PRS;PRF;NEG;QUOT
+võrduma	võrdutavat	V;PASS;PRS;POS;QUOT
+võrduma	võrdutav	V.PTCP;PASS;PRS
+võrduma	oleks võrdutud	V;PASS;PRS;PRF;POS;COND
+võrduma	oli võrdutud	V;PASS;PST;PRF;POS;IND
+võrduma	ei ole võrdunudp	V;ACT;PST;NEG;IND
+võrduma	võrdugem	V;ACT;PRS;POS;IMP;1;PL
+võrduma	ei võrduvat	V;ACT;PRS;NEG;QUOT
+võrduma	võrduksime	V;ACT;PRS;POS;COND;1;PL
+võrduma	ei ole võrdutudp	V;PASS;PRS;PRF;NEG;IND
+võrduma	ärgu võrdugu	V;ACT;PRS;NEG;IMP;3;SG
+võrduma	ei võrdutavat	V;PASS;PRS;NEG;QUOT
+võrduma	ei võrduta	V;PASS;PRS;NEG;IND
+võrduma	olevat võrdutud	V;PASS;PRS;PRF;POS;QUOT
+võrduma	võrdusime	V;ACT;PST;POS;IND;1;PL
+võrduma	on võrdunud	V;ACT;PRS;PRF;POS;IND;3;PL
+võrduma	võrdutaks	V;PASS;PRS;POS;COND
+võrduma	olin võrdunud	V;ACT;PRS;PRF;POS;COND;1;SG
+võrduma	oled võrdunud	V;ACT;PRS;PRF;POS;IND;2;SG
+võrduma	olevat võrdunud	V;ACT;PRS;PRF;POS;QUOT
+võrduma	ei oleks võrdutudp	V;PASS;PRS;PRF;NEG;COND
+võrduma	ei võrdutud	V;PASS;PST;NEG;IND
+võrduma	ärgu võrdugu	V;ACT;PRS;NEG;IMP;3;PL
+võrduma	võrdume	V;ACT;PRS;POS;IND;1;PL
+võrduma	oleksime võrdunud	V;ACT;PRS;PRF;POS;COND;1;PL
+võrduma	ära võrdu	V;ACT;PRS;NEG;IMP;2;SG
+võrduma	võrdutagu	V;PASS;PRS;POS;IMP
+võrduma	ei võrdutaks	V;PASS;PRS;NEG;COND
+võrduma	võrduvad	V;ACT;PRS;POS;IND;3;PL
+võrduma	võrdus	V;ACT;PST;POS;IND;3;SG
+võrduma	võrduti	V;PASS;PST;POS;IND
+võrduma	võrdusid	V;ACT;PST;POS;IND;3;PL
+võrduma	ärgu olgu võrdunud	V;ACT;PRS;PRF;NEG;IMP;SG
+võrduma	võrdud	V;ACT;PRS;POS;IND;2;SG
+võrduma	olite võrdunud	V;ACT;PRS;PRF;POS;COND;2;PL
+võrduma	võrdunud	V.PTCP;ACT;PST
+võrduma	ei võrdu	V;ACT;PRS;NEG;IND
+võrduma	ärgu võrdutagu	V;PASS;PRS;NEG;IMP
+võrduma	võrdusite	V;ACT;PST;POS;IND;2;PL
+võrduma	oli võrdunud	V;ACT;PRS;PRF;POS;COND;3;SG
+võrduma	võrduma	V;NFIN
+võrduma	on võrdutud	V;PASS;PRS;PRF;POS;IND
+võrduma	ärgem võrdugem	V;ACT;PRS;NEG;IMP;1;PL
+võrduma	olid võrdunud	V;ACT;PRS;PRF;POS;COND;2;SG
+võrduma	võrdusid	V;ACT;PST;POS;IND;2;SG
+võrduma	võrdute	V;ACT;PRS;POS;IND;2;PL
+võrduma	võrdutakse	V;PASS;PRS;POS;IND
+võrduma	on võrdunud	V;ACT;PRS;PRF;POS;IND;3;SG
+võrduma	ärgu olgu võrdunud	V;ACT;PRS;PRF;NEG;IMP;PL
+võrduma	võrduksite	V;ACT;PRS;POS;COND;2;PL
+võrduma	oleksite võrdunud	V;ACT;PRS;PRF:POS;COND;2;PL
+võrduma	võrduge	V;ACT;PRS;POS;IMP;2;PL
+võrduma	olgu võrdunud	V;ACT;PRS;PRF;POS;IMP;PL
+võrduma	oleksid võrdunud	V;ACT;PRS;PRF;POS;COND;3;PL
+võrduma	võrduksid	V;ACT;PRS;POS;COND;3;PL
+võrduma	võrdusin	V;ACT;PST;POS;IND;1;SG
+võrduma	ei oleks võrdunudp	V;ACT;PRS;PRF;NEG;COND
+võrduma	olgu võrdutud	V;PASS;PRS;PRF;POS;IMP
+võrduma	ei olnud võrdunudp	V;ACT;PST;PRF;NEG;IND
+võrduma	võrdu	V;ACT;PRS;POS;IMP;2;SG
+võrduma	võrduksin	V;ACT;PRS;POS;COND;1;SG
+jumalus	jumalused	N;NOM;PL
+jumalus	jumaluseks	N;TRANS;SG
+jumalus	jumalusel	N;AT+ESS;SG
+jumalus	jumalustesse	N;IN+ALL;PL
+jumalus	jumaluses	N;IN+ESS;SG
+jumalus	jumalust	N;PRT;SG
+jumalus	jumaluseni	N;TERM;SG
+jumalus	jumalusest	N;IN+ABL;SG
+jumalus	jumalusega	N;COM;SG
+jumalus	jumaluste	N;GEN;PL
+jumalus	jumalusse	N;IN+ALL;SG
+jumalus	jumalusi	N;PRT;PL
+jumalus	jumalustelt	N;AT+ABL;PL
+jumalus	jumalusena	N;FRML;SG
+jumalus	jumalused	N;ACC;PL
+jumalus	jumalustele	N;AT+ALL;PL
+jumalus	jumaluseta	N;PRIV;SG
+jumalus	jumalustel	N;AT+ESS;PL
+jumalus	jumalusteks	N;TRANS;PL
+jumalus	jumaluse	N;GEN;SG
+jumalus	jumalustes	N;IN+ESS;PL
+jumalus	jumalustega	N;COM;PL
+jumalus	jumalustest	N;IN+ABL;PL
+jumalus	jumalusteni	N;TERM;PL
+jumalus	jumalustena	N;FRML;PL
+jumalus	jumalusele	N;AT+ALL;SG
+jumalus	jumalus	N;NOM;SG
+jumalus	jumaluse	N;ACC;SG
+jumalus	jumaluselt	N;AT+ABL;SG
+jumalus	jumalusteta	N;PRIV;PL

@@ -1,0 +1,993 @@
+уобичајен		ADJ;CMPR;MASC;ACC;SG;INAN
+уобичајен		ADJ;INDF;MASC;ACC;SG;INAN
+уобичајен		ADJ;SPRL;MASC;ACC;SG;INAN
+уобичајен		ADJ;DEF;MASC;ACC;SG;INAN
+природан		ADJ;CMPR;MASC;ACC;SG;INAN
+природан		ADJ;INDF;MASC;ACC;SG;INAN
+природан		ADJ;SPRL;MASC;ACC;SG;INAN
+природан		ADJ;DEF;MASC;ACC;SG;INAN
+tačan		ADJ;INDF;FEM;NOM;PL
+tačan	tačnijima	ADJ;CMPR;MASC;DAT;PL
+tačan		ADJ;SPRL;MASC;ACC;SG;INAN
+tačan		ADJ;SPRL;FEM;GEN;SG
+tačan		ADJ;SPRL;FEM;VOC;SG
+tačan		ADJ;DEF;MASC;ESS;SG
+tačan	najtačnijega	ADJ;SPRL;NEUT;GEN;SG
+tačan		ADJ;SPRL;MASC;DAT;PL
+tačan		ADJ;CMPR;MASC;GEN;PL
+tačan		ADJ;DEF;NEUT;ACC;SG
+tačan		ADJ;CMPR;MASC;ESS;SG
+tačan		ADJ;DEF;NEUT;NOM;PL
+tačan		ADJ;INDF;NEUT;VOC;PL
+tačan		ADJ;INDF;FEM;ESS;SG
+tačan		ADJ;INDF;MASC;ACC;PL
+tačan	tačnijom	ADJ;CMPR;FEM;INS;SG
+tačan		ADJ;SPRL;MASC;GEN;SG
+tačan		ADJ;SPRL;NEUT;INS;SG
+tačan		ADJ;CMPR;NEUT;DAT;PL
+tačan		ADJ;CMPR;FEM;INS;PL
+tačan	najtačnije	ADJ;SPRL;FEM;NOM;PL
+tačan		ADJ;INDF;NEUT;DAT;SG
+tačan		ADJ;INDF;MASC;GEN;PL
+tačan		ADJ;DEF;FEM;GEN;PL
+tačan		ADJ;INDF;NEUT;ESS;PL
+tačan		ADJ;SPRL;NEUT;DAT;SG
+tačan		ADJ;CMPR;FEM;GEN;SG
+tačan		ADJ;INDF;FEM;NOM;SG
+tačan	tačnima	ADJ;INDF;NEUT;INS;PL
+tačan		ADJ;INDF;MASC;INS;PL
+tačan	tačnoj	ADJ;INDF;FEM;DAT;SG
+tačan		ADJ;SPRL;NEUT;ESS;SG
+tačan		ADJ;CMPR;FEM;NOM;SG
+tačan		ADJ;DEF;FEM;NOM;SG
+tačan		ADJ;DEF;NEUT;GEN;SG
+tačan		ADJ;INDF;MASC;ESS;SG
+tačan		ADJ;DEF;NEUT;ACC;PL
+tačan		ADJ;CMPR;NEUT;ACC;SG
+tačan		ADJ;DEF;FEM;DAT;SG
+tačan		ADJ;CMPR;FEM;ACC;PL
+tačan		ADJ;DEF;MASC;DAT;SG
+tačan		ADJ;SPRL;MASC;ACC;SG;ANIM
+tačan		ADJ;INDF;FEM;INS;PL
+tačan		ADJ;INDF;MASC;INS;SG
+tačan	najtačnijima	ADJ;SPRL;NEUT;ESS;PL
+tačan		ADJ;INDF;NEUT;GEN;PL
+tačan		ADJ;SPRL;NEUT;ACC;SG
+tačan		ADJ;SPRL;MASC;INS;PL
+tačan		ADJ;CMPR;FEM;ESS;SG
+tačan		ADJ;SPRL;FEM;DAT;SG
+tačan		ADJ;INDF;NEUT;NOM;SG
+tačan		ADJ;CMPR;FEM;NOM;PL
+tačan		ADJ;INDF;NEUT;ESS;SG
+tačan		ADJ;INDF;MASC;ESS;PL
+tačan		ADJ;CMPR;NEUT;GEN;SG
+tačan		ADJ;DEF;MASC;NOM;SG
+tačan		ADJ;DEF;FEM;GEN;SG
+tačan	tačni	ADJ;INDF;MASC;NOM;PL
+tačan	tačni	ADJ;DEF;MASC;VOC;SG
+tačan		ADJ;SPRL;NEUT;DAT;PL
+tačan		ADJ;DEF;FEM;ACC;PL
+tačan		ADJ;CMPR;FEM;GEN;PL
+tačan		ADJ;SPRL;FEM;GEN;PL
+tačan		ADJ;SPRL;FEM;INS;PL
+tačan		ADJ;SPRL;NEUT;GEN;PL
+tačan		ADJ;DEF;MASC;GEN;SG
+tačan		ADJ;INDF;NEUT;DAT;PL
+tačan		ADJ;CMPR;MASC;GEN;SG
+tačan		ADJ;CMPR;NEUT;INS;SG
+tačan	tačna	ADJ;INDF;NEUT;GEN;SG
+tačan	tačnima	ADJ;INDF;MASC;DAT;PL
+tačan		ADJ;INDF;MASC;VOC;SG
+tačan		ADJ;CMPR;NEUT;GEN;PL
+tačan		ADJ;DEF;NEUT;VOC;SG
+tačan	najtačnijima	ADJ;SPRL;MASC;ESS;PL
+tačan		ADJ;INDF;FEM;VOC;PL
+tačan		ADJ;CMPR;MASC;ACC;SG;INAN
+tačan		ADJ;SPRL;MASC;VOC;PL
+tačan		ADJ;CMPR;NEUT;DAT;SG
+tačan		ADJ;SPRL;MASC;GEN;PL
+tačan		ADJ;INDF;MASC;NOM;SG
+tačan		ADJ;CMPR;NEUT;ESS;SG
+tačan		ADJ;CMPR;FEM;VOC;SG
+tačan		ADJ;CMPR;MASC;ACC;PL
+tačan	tačniji	ADJ;CMPR;MASC;NOM;PL
+tačan	tačnu	ADJ;INDF;FEM;ACC;SG
+tačan		ADJ;CMPR;NEUT;NOM;SG
+tačan		ADJ;CMPR;NEUT;INS;PL
+tačan		ADJ;DEF;NEUT;INS;SG
+tačan		ADJ;DEF;NEUT;NOM;SG
+tačan		ADJ;DEF;FEM;ESS;SG
+tačan	tačnijima	ADJ;CMPR;MASC;INS;PL
+tačan		ADJ;SPRL;MASC;VOC;SG
+tačan		ADJ;DEF;FEM;INS;SG
+tačan	najtačnije	ADJ;SPRL;FEM;VOC;PL
+tačan		ADJ;CMPR;NEUT;ACC;PL
+tačan	najtačnijemu	ADJ;SPRL;MASC;DAT;SG
+tačan	tačne	ADJ;DEF;FEM;VOC;PL
+tačan		ADJ;SPRL;FEM;INS;SG
+tačan		ADJ;DEF;FEM;NOM;PL
+tačan	tačnih	ADJ;DEF;NEUT;GEN;PL
+tačan		ADJ;INDF;FEM;DAT;PL
+tačan		ADJ;DEF;MASC;ACC;SG;ANIM
+tačan		ADJ;SPRL;FEM;ACC;SG
+tačan		ADJ;CMPR;MASC;INS;SG
+tačan	tačnima	ADJ;DEF;FEM;INS;PL
+tačan		ADJ;INDF;NEUT;NOM;PL
+tačan		ADJ;INDF;NEUT;ACC;SG
+tačan		ADJ;SPRL;MASC;NOM;SG
+tačan		ADJ;CMPR;MASC;DAT;SG
+tačan		ADJ;CMPR;MASC;VOC;SG
+tačan		ADJ;CMPR;FEM;VOC;PL
+tačan		ADJ;CMPR;FEM;ESS;PL
+tačan		ADJ;DEF;MASC;GEN;PL
+tačan		ADJ;DEF;FEM;ESS;PL
+tačan		ADJ;SPRL;NEUT;VOC;PL
+tačan	tačno	ADJ;INDF;NEUT;VOC;SG
+tačan		ADJ;SPRL;FEM;ESS;SG
+tačan		ADJ;SPRL;MASC;ACC;PL
+tačan		ADJ;INDF;FEM;ESS;PL
+tačan		ADJ;DEF;FEM;ACC;SG
+tačan		ADJ;DEF;NEUT;DAT;PL
+tačan		ADJ;DEF;MASC;VOC;PL
+tačan	tačna	ADJ;DEF;FEM;VOC;SG
+tačan		ADJ;CMPR;NEUT;VOC;SG
+tačan		ADJ;DEF;MASC;DAT;PL
+tačan		ADJ;INDF;FEM;GEN;PL
+tačan		ADJ;CMPR;FEM;DAT;PL
+tačan		ADJ;SPRL;FEM;ACC;PL
+tačan		ADJ;DEF;NEUT;VOC;PL
+tačan	najtačnija	ADJ;SPRL;NEUT;NOM;PL
+tačan		ADJ;SPRL;FEM;NOM;SG
+tačan		ADJ;CMPR;MASC;VOC;PL
+tačan		ADJ;DEF;MASC;ACC;PL
+tačan		ADJ;DEF;NEUT;INS;PL
+tačan	tačnu	ADJ;INDF;MASC;DAT;SG
+tačan		ADJ;DEF;NEUT;ESS;SG
+tačan	tačnima	ADJ;DEF;MASC;ESS;PL
+tačan		ADJ;DEF;MASC;INS;PL
+tačan		ADJ;INDF;FEM;ACC;PL
+tačan	najtačnijemu	ADJ;SPRL;MASC;ESS;SG
+tačan		ADJ;DEF;FEM;DAT;PL
+tačan	tačnija	ADJ;CMPR;NEUT;VOC;PL
+tačan	najtačnije	ADJ;SPRL;NEUT;VOC;SG
+tačan		ADJ;INDF;MASC;VOC;PL
+tačan		ADJ;SPRL;FEM;ESS;PL
+tačan		ADJ;CMPR;FEM;ACC;SG
+tačan		ADJ;CMPR;NEUT;ESS;PL
+tačan		ADJ;INDF;NEUT;ACC;PL
+tačan		ADJ;CMPR;FEM;DAT;SG
+tačan		ADJ;SPRL;MASC;NOM;PL
+tačan	najtačnijim	ADJ;SPRL;MASC;INS;SG
+tačan		ADJ;SPRL;FEM;DAT;PL
+tačan		ADJ;DEF;MASC;ACC;SG;INAN
+tačan	tačniji	ADJ;CMPR;MASC;NOM;SG
+tačan		ADJ;INDF;FEM;GEN;SG
+tačan		ADJ;INDF;MASC;GEN;SG
+tačan		ADJ;INDF;FEM;VOC;SG
+tačan		ADJ;CMPR;NEUT;NOM;PL
+tačan		ADJ;DEF;NEUT;ESS;PL
+tačan	tačnijega	ADJ;CMPR;MASC;ACC;SG;ANIM
+tačan		ADJ;SPRL;NEUT;NOM;SG
+tačan		ADJ;INDF;NEUT;INS;SG
+tačan		ADJ;DEF;MASC;NOM;PL
+tačan	tačnim	ADJ;DEF;MASC;INS;SG
+tačan		ADJ;INDF;FEM;INS;SG
+tačan		ADJ;INDF;MASC;ACC;SG
+tačan		ADJ;CMPR;MASC;ESS;PL
+tačan		ADJ;DEF;NEUT;DAT;SG
+tačan		ADJ;SPRL;NEUT;INS;PL
+tačan	najtačnija	ADJ;SPRL;NEUT;ACC;PL
+administrator		N;GEN;PL
+administrator	administratori	N;NOM;PL
+administrator		N;GEN;SG
+administrator	administratorima	N;INS;PL
+administrator		N;ESS;PL
+administrator		N;ESS;SG
+administrator		N;VOC;SG
+administrator		N;NOM;SG
+administrator		N;INS;SG
+administrator		N;DAT;SG
+administrator		N;ACC;PL
+administrator		N;ACC;SG
+administrator		N;VOC;PL
+administrator		N;DAT;PL
+северни		ADJ;CMPR;MASC;ACC;SG;INAN
+северни		ADJ;SPRL;MASC;ACC;SG;INAN
+северни		ADJ;DEF;MASC;ACC;SG;INAN
+stvaranje		N;GEN;PL
+stvaranje		N;NOM;PL
+stvaranje	stvaranja	N;GEN;SG
+stvaranje		N;INS;PL
+stvaranje		N;ESS;PL
+stvaranje		N;ESS;SG
+stvaranje		N;VOC;SG
+stvaranje		N;NOM;SG
+stvaranje		N;INS;SG
+stvaranje	stvaranju	N;DAT;SG
+stvaranje		N;ACC;PL
+stvaranje		N;ACC;SG
+stvaranje		N;VOC;PL
+stvaranje		N;DAT;PL
+кантонски		ADJ;MASC;ACC;SG;INAN
+drag		ADJ;INDF;FEM;NOM;PL
+drag		ADJ;SPRL;MASC;NOM;SG
+drag		ADJ;CMPR;MASC;DAT;PL
+drag		ADJ;INDF;NEUT;DAT;SG
+drag		ADJ;SPRL;FEM;GEN;SG
+drag		ADJ;SPRL;FEM;VOC;SG
+drag		ADJ;DEF;MASC;ESS;SG
+drag		ADJ;SPRL;NEUT;GEN;SG
+drag		ADJ;DEF;MASC;NOM;SG
+drag		ADJ;CMPR;MASC;GEN;PL
+drag		ADJ;DEF;NEUT;ACC;SG
+drag		ADJ;CMPR;MASC;ESS;SG
+drag	draga	ADJ;DEF;NEUT;NOM;PL
+drag	draga	ADJ;INDF;NEUT;VOC;PL
+drag		ADJ;INDF;FEM;ESS;SG
+drag		ADJ;INDF;MASC;ACC;PL
+drag		ADJ;CMPR;FEM;INS;SG
+drag		ADJ;DEF;NEUT;DAT;PL
+drag	najdražim	ADJ;SPRL;NEUT;INS;SG
+drag		ADJ;CMPR;NEUT;DAT;PL
+drag		ADJ;CMPR;FEM;INS;PL
+drag		ADJ;DEF;NEUT;VOC;PL
+drag		ADJ;SPRL;MASC;ACC;SG;INAN
+drag		ADJ;INDF;MASC;GEN;PL
+drag		ADJ;DEF;FEM;GEN;PL
+drag		ADJ;INDF;NEUT;ESS;PL
+drag		ADJ;SPRL;NEUT;DAT;SG
+drag		ADJ;CMPR;FEM;GEN;SG
+drag		ADJ;INDF;FEM;NOM;SG
+drag		ADJ;INDF;NEUT;INS;PL
+drag		ADJ;CMPR;NEUT;ESS;PL
+drag		ADJ;INDF;MASC;INS;PL
+drag		ADJ;INDF;FEM;DAT;SG
+drag		ADJ;SPRL;NEUT;ESS;SG
+drag		ADJ;CMPR;FEM;NOM;SG
+drag		ADJ;DEF;FEM;NOM;SG
+drag		ADJ;DEF;NEUT;GEN;SG
+drag		ADJ;SPRL;FEM;NOM;SG
+drag	dragu	ADJ;INDF;MASC;ESS;SG
+drag		ADJ;DEF;NEUT;ACC;PL
+drag		ADJ;CMPR;NEUT;ACC;SG
+drag		ADJ;DEF;FEM;DAT;SG
+drag		ADJ;CMPR;FEM;ACC;PL
+drag		ADJ;DEF;MASC;DAT;SG
+drag		ADJ;SPRL;MASC;ACC;SG;ANIM
+drag		ADJ;SPRL;MASC;GEN;SG
+drag		ADJ;INDF;FEM;INS;PL
+drag		ADJ;INDF;MASC;INS;SG
+drag	najdražima	ADJ;SPRL;NEUT;ESS;PL
+drag		ADJ;INDF;NEUT;GEN;PL
+drag		ADJ;SPRL;NEUT;ACC;SG
+drag	najdražima	ADJ;SPRL;MASC;INS;PL
+drag		ADJ;CMPR;FEM;ESS;SG
+drag		ADJ;SPRL;FEM;DAT;SG
+drag		ADJ;INDF;NEUT;NOM;SG
+drag		ADJ;CMPR;FEM;NOM;PL
+drag	dragima	ADJ;INDF;MASC;ESS;PL
+drag		ADJ;CMPR;NEUT;GEN;SG
+drag		ADJ;SPRL;MASC;DAT;PL
+drag	drage	ADJ;DEF;FEM;GEN;SG
+drag		ADJ;INDF;MASC;NOM;PL
+drag		ADJ;DEF;MASC;VOC;SG
+drag		ADJ;SPRL;NEUT;DAT;PL
+drag		ADJ;DEF;FEM;ACC;PL
+drag		ADJ;CMPR;FEM;GEN;PL
+drag		ADJ;SPRL;FEM;GEN;PL
+drag		ADJ;SPRL;FEM;INS;PL
+drag		ADJ;SPRL;NEUT;GEN;PL
+drag		ADJ;DEF;MASC;GEN;SG
+drag	dragi	ADJ;DEF;MASC;VOC;PL
+drag	dražega	ADJ;CMPR;MASC;GEN;SG
+drag	dražim	ADJ;CMPR;NEUT;INS;SG
+drag		ADJ;INDF;NEUT;GEN;SG
+drag		ADJ;INDF;MASC;DAT;PL
+drag		ADJ;SPRL;MASC;DAT;SG
+drag		ADJ;INDF;MASC;VOC;SG
+drag		ADJ;CMPR;NEUT;GEN;PL
+drag	najdražima	ADJ;SPRL;MASC;ESS;PL
+drag		ADJ;INDF;FEM;VOC;PL
+drag		ADJ;CMPR;MASC;ACC;SG;INAN
+drag		ADJ;SPRL;MASC;VOC;PL
+drag		ADJ;CMPR;NEUT;DAT;SG
+drag		ADJ;SPRL;MASC;NOM;PL
+drag		ADJ;INDF;MASC;GEN;SG
+drag	dragim	ADJ;INDF;NEUT;INS;SG
+drag		ADJ;DEF;NEUT;DAT;SG
+drag	draže	ADJ;CMPR;MASC;ACC;PL
+drag		ADJ;CMPR;MASC;NOM;PL
+drag		ADJ;INDF;FEM;ACC;SG
+drag		ADJ;CMPR;NEUT;NOM;SG
+drag		ADJ;CMPR;NEUT;INS;PL
+drag		ADJ;CMPR;NEUT;NOM;PL
+drag		ADJ;DEF;NEUT;NOM;SG
+drag		ADJ;INDF;NEUT;ESS;SG
+drag		ADJ;CMPR;MASC;INS;PL
+drag	najdraži	ADJ;SPRL;MASC;VOC;SG
+drag		ADJ;DEF;FEM;INS;SG
+drag		ADJ;SPRL;FEM;VOC;PL
+drag	draža	ADJ;CMPR;NEUT;ACC;PL
+drag		ADJ;DEF;FEM;ESS;SG
+drag		ADJ;DEF;FEM;VOC;PL
+drag		ADJ;SPRL;FEM;INS;SG
+drag		ADJ;DEF;FEM;NOM;PL
+drag		ADJ;DEF;NEUT;GEN;PL
+drag		ADJ;INDF;FEM;DAT;PL
+drag		ADJ;DEF;MASC;ACC;SG;ANIM
+drag		ADJ;SPRL;FEM;ACC;SG
+drag		ADJ;CMPR;MASC;INS;SG
+drag	dragima	ADJ;DEF;FEM;INS;PL
+drag		ADJ;INDF;NEUT;NOM;PL
+drag		ADJ;INDF;MASC;ACC;SG;INAN
+drag		ADJ;INDF;NEUT;ACC;SG
+drag	draže	ADJ;CMPR;FEM;VOC;PL
+drag		ADJ;CMPR;MASC;DAT;SG
+drag		ADJ;CMPR;MASC;VOC;SG
+drag		ADJ;CMPR;FEM;ESS;PL
+drag	drago	ADJ;DEF;NEUT;VOC;SG
+drag	dragima	ADJ;DEF;FEM;ESS;PL
+drag		ADJ;SPRL;NEUT;VOC;PL
+drag		ADJ;INDF;NEUT;VOC;SG
+drag		ADJ;SPRL;FEM;ESS;SG
+drag		ADJ;SPRL;MASC;ACC;PL
+drag		ADJ;INDF;FEM;ESS;PL
+drag	dragu	ADJ;DEF;FEM;ACC;SG
+drag		ADJ;INDF;NEUT;DAT;PL
+drag	draga	ADJ;DEF;FEM;VOC;SG
+drag		ADJ;CMPR;NEUT;VOC;SG
+drag		ADJ;DEF;MASC;DAT;PL
+drag	dragih	ADJ;INDF;FEM;GEN;PL
+drag	dražima	ADJ;CMPR;FEM;DAT;PL
+drag		ADJ;SPRL;FEM;ACC;PL
+drag		ADJ;SPRL;FEM;NOM;PL
+drag		ADJ;SPRL;NEUT;NOM;PL
+drag		ADJ;DEF;MASC;GEN;PL
+drag		ADJ;CMPR;MASC;VOC;PL
+drag		ADJ;DEF;MASC;ACC;PL
+drag		ADJ;DEF;NEUT;INS;PL
+drag		ADJ;INDF;MASC;DAT;SG
+drag		ADJ;DEF;NEUT;ESS;SG
+drag		ADJ;DEF;MASC;ESS;PL
+drag		ADJ;DEF;MASC;INS;PL
+drag		ADJ;INDF;FEM;ACC;PL
+drag		ADJ;SPRL;MASC;ESS;SG
+drag	dragima	ADJ;DEF;FEM;DAT;PL
+drag		ADJ;CMPR;NEUT;VOC;PL
+drag	najdraže	ADJ;SPRL;NEUT;VOC;SG
+drag		ADJ;INDF;MASC;VOC;PL
+drag		ADJ;SPRL;FEM;ESS;PL
+drag	dražu	ADJ;CMPR;FEM;ACC;SG
+drag	draga	ADJ;INDF;MASC;ACC;SG;ANIM
+drag	draga	ADJ;INDF;NEUT;ACC;PL
+drag		ADJ;CMPR;FEM;DAT;SG
+drag		ADJ;SPRL;MASC;GEN;PL
+drag		ADJ;SPRL;MASC;INS;SG
+drag		ADJ;SPRL;FEM;DAT;PL
+drag	dragi	ADJ;DEF;MASC;ACC;SG;INAN
+drag	draži	ADJ;CMPR;MASC;NOM;SG
+drag		ADJ;INDF;FEM;GEN;SG
+drag		ADJ;INDF;MASC;NOM;SG
+drag		ADJ;INDF;FEM;VOC;SG
+drag		ADJ;DEF;NEUT;INS;SG
+drag		ADJ;DEF;NEUT;ESS;PL
+drag		ADJ;CMPR;MASC;ACC;SG;ANIM
+drag		ADJ;SPRL;NEUT;NOM;SG
+drag		ADJ;CMPR;NEUT;ESS;SG
+drag		ADJ;DEF;MASC;NOM;PL
+drag	dragim	ADJ;DEF;MASC;INS;SG
+drag		ADJ;INDF;FEM;INS;SG
+drag		ADJ;CMPR;MASC;ESS;PL
+drag	draža	ADJ;CMPR;FEM;VOC;SG
+drag		ADJ;SPRL;NEUT;INS;PL
+drag		ADJ;SPRL;NEUT;ACC;PL
+rezolucija		N;GEN;PL
+rezolucija		N;NOM;PL
+rezolucija		N;NOM;SG
+rezolucija		N;INS;PL
+rezolucija		N;ESS;PL
+rezolucija	rezoluciji	N;ESS;SG
+rezolucija		N;VOC;SG
+rezolucija		N;GEN;SG
+rezolucija		N;INS;SG
+rezolucija		N;DAT;SG
+rezolucija	rezolucije	N;ACC;PL
+rezolucija		N;ACC;SG
+rezolucija		N;VOC;PL
+rezolucija		N;DAT;PL
+osnovan		ADJ;INDF;FEM;NOM;PL
+osnovan		ADJ;INDF;NEUT;DAT;SG
+osnovan		ADJ;DEF;MASC;ESS;SG
+osnovan		ADJ;DEF;MASC;NOM;SG
+osnovan		ADJ;DEF;NEUT;ACC;SG
+osnovan		ADJ;DEF;NEUT;NOM;PL
+osnovan		ADJ;INDF;NEUT;VOC;PL
+osnovan		ADJ;INDF;FEM;ESS;SG
+osnovan		ADJ;INDF;MASC;ACC;PL
+osnovan		ADJ;DEF;NEUT;DAT;PL
+osnovan		ADJ;DEF;NEUT;VOC;PL
+osnovan		ADJ;INDF;MASC;GEN;PL
+osnovan	osnovanih	ADJ;DEF;FEM;GEN;PL
+osnovan		ADJ;INDF;NEUT;ESS;PL
+osnovan		ADJ;INDF;FEM;NOM;SG
+osnovan		ADJ;INDF;NEUT;INS;PL
+osnovan	osnovanima	ADJ;INDF;MASC;INS;PL
+osnovan		ADJ;INDF;FEM;DAT;SG
+osnovan		ADJ;DEF;FEM;NOM;SG
+osnovan	osnovanoga	ADJ;DEF;NEUT;GEN;SG
+osnovan		ADJ;INDF;MASC;ESS;SG
+osnovan		ADJ;DEF;NEUT;ACC;PL
+osnovan		ADJ;DEF;FEM;DAT;SG
+osnovan		ADJ;DEF;MASC;DAT;SG
+osnovan		ADJ;INDF;FEM;INS;PL
+osnovan	osnovanim	ADJ;INDF;MASC;INS;SG
+osnovan		ADJ;INDF;NEUT;GEN;PL
+osnovan		ADJ;INDF;NEUT;NOM;SG
+osnovan	osnovanima	ADJ;INDF;MASC;ESS;PL
+osnovan		ADJ;DEF;FEM;GEN;SG
+osnovan		ADJ;INDF;MASC;NOM;PL
+osnovan	osnovani	ADJ;DEF;MASC;VOC;SG
+osnovan		ADJ;DEF;FEM;ACC;PL
+osnovan		ADJ;DEF;MASC;GEN;SG
+osnovan	osnovani	ADJ;DEF;MASC;VOC;PL
+osnovan		ADJ;INDF;NEUT;GEN;SG
+osnovan		ADJ;INDF;MASC;DAT;PL
+osnovan		ADJ;INDF;MASC;VOC;SG
+osnovan		ADJ;INDF;FEM;VOC;PL
+osnovan		ADJ;INDF;MASC;GEN;SG
+osnovan		ADJ;INDF;NEUT;INS;SG
+osnovan	osnovanomu	ADJ;DEF;NEUT;DAT;SG
+osnovan		ADJ;INDF;FEM;ACC;SG
+osnovan		ADJ;DEF;NEUT;NOM;SG
+osnovan		ADJ;INDF;NEUT;ESS;SG
+osnovan		ADJ;DEF;FEM;INS;SG
+osnovan		ADJ;DEF;FEM;ESS;SG
+osnovan		ADJ;DEF;FEM;VOC;PL
+osnovan		ADJ;DEF;FEM;NOM;PL
+osnovan		ADJ;DEF;NEUT;GEN;PL
+osnovan		ADJ;INDF;FEM;DAT;PL
+osnovan		ADJ;DEF;MASC;ACC;SG;ANIM
+osnovan		ADJ;DEF;FEM;INS;PL
+osnovan		ADJ;INDF;NEUT;NOM;PL
+osnovan		ADJ;INDF;MASC;ACC;SG;INAN
+osnovan		ADJ;INDF;NEUT;ACC;SG
+osnovan		ADJ;DEF;NEUT;VOC;SG
+osnovan		ADJ;DEF;FEM;ESS;PL
+osnovan		ADJ;INDF;NEUT;VOC;SG
+osnovan	osnovanima	ADJ;INDF;FEM;ESS;PL
+osnovan	osnovanu	ADJ;DEF;FEM;ACC;SG
+osnovan		ADJ;INDF;NEUT;DAT;PL
+osnovan		ADJ;DEF;FEM;VOC;SG
+osnovan		ADJ;DEF;MASC;DAT;PL
+osnovan		ADJ;INDF;FEM;GEN;PL
+osnovan		ADJ;DEF;MASC;GEN;PL
+osnovan		ADJ;DEF;MASC;ACC;PL
+osnovan	osnovanima	ADJ;DEF;NEUT;INS;PL
+osnovan		ADJ;INDF;MASC;DAT;SG
+osnovan		ADJ;DEF;NEUT;ESS;SG
+osnovan	osnovanima	ADJ;DEF;MASC;ESS;PL
+osnovan		ADJ;DEF;MASC;INS;PL
+osnovan	osnovane	ADJ;INDF;FEM;ACC;PL
+osnovan	osnovanima	ADJ;DEF;FEM;DAT;PL
+osnovan		ADJ;INDF;MASC;VOC;PL
+osnovan		ADJ;INDF;MASC;ACC;SG;ANIM
+osnovan		ADJ;INDF;NEUT;ACC;PL
+osnovan		ADJ;DEF;MASC;ACC;SG;INAN
+osnovan	osnovane	ADJ;INDF;FEM;GEN;SG
+osnovan		ADJ;INDF;MASC;NOM;SG
+osnovan		ADJ;INDF;FEM;VOC;SG
+osnovan		ADJ;DEF;NEUT;INS;SG
+osnovan		ADJ;DEF;NEUT;ESS;PL
+osnovan		ADJ;DEF;MASC;NOM;PL
+osnovan	osnovanim	ADJ;DEF;MASC;INS;SG
+osnovan		ADJ;INDF;FEM;INS;SG
+супротан		ADJ;INDF;MASC;ACC;SG;INAN
+супротан		ADJ;DEF;MASC;ACC;SG;INAN
+коначан		ADJ;INDF;MASC;ACC;SG;INAN
+коначан		ADJ;DEF;MASC;ACC;SG;INAN
+знатан		ADJ;INDF;MASC;ACC;SG;INAN
+знатан		ADJ;DEF;MASC;ACC;SG;INAN
+vrata		N;VOC;SG
+vrata		N;GEN;SG
+vrata		N;ESS;SG
+vrata		N;NOM;SG
+vrata		N;INS;SG
+vrata		N;DAT;SG
+vrata		N;ACC;SG
+količina		N;GEN;PL
+količina		N;NOM;PL
+količina		N;NOM;SG
+količina		N;INS;PL
+količina		N;ESS;PL
+količina		N;ESS;SG
+količina		N;VOC;SG
+količina		N;GEN;SG
+količina		N;INS;SG
+količina		N;DAT;SG
+količina	količine	N;ACC;PL
+količina		N;ACC;SG
+količina		N;VOC;PL
+količina	količinama	N;DAT;PL
+cena		N;GEN;PL
+cena		N;NOM;PL
+cena	cena	N;NOM;SG
+cena		N;INS;PL
+cena	cenama	N;ESS;PL
+cena		N;ESS;SG
+cena		N;VOC;SG
+cena		N;GEN;SG
+cena		N;INS;SG
+cena		N;DAT;SG
+cena		N;ACC;PL
+cena		N;ACC;SG
+cena		N;VOC;PL
+cena		N;DAT;PL
+arterija		N;GEN;PL
+arterija		N;NOM;PL
+arterija		N;NOM;SG
+arterija		N;INS;PL
+arterija		N;ESS;PL
+arterija		N;ESS;SG
+arterija		N;VOC;SG
+arterija	arterije	N;GEN;SG
+arterija		N;INS;SG
+arterija	arteriji	N;DAT;SG
+arterija		N;ACC;PL
+arterija		N;ACC;SG
+arterija		N;VOC;PL
+arterija		N;DAT;PL
+тадашњи		ADJ;MASC;ACC;SG;INAN
+непромењен		ADJ;INDF;MASC;ACC;SG;INAN
+непромењен		ADJ;DEF;MASC;ACC;SG;INAN
+praktičan		ADJ;INDF;FEM;NOM;PL
+praktičan		ADJ;CMPR;MASC;DAT;PL
+praktičan	najpraktičniji	ADJ;SPRL;MASC;ACC;SG;INAN
+praktičan		ADJ;SPRL;FEM;GEN;SG
+praktičan		ADJ;SPRL;FEM;VOC;SG
+praktičan		ADJ;DEF;MASC;ESS;SG
+praktičan		ADJ;SPRL;NEUT;GEN;SG
+praktičan		ADJ;SPRL;MASC;DAT;PL
+praktičan		ADJ;CMPR;MASC;GEN;PL
+praktičan		ADJ;DEF;NEUT;ACC;SG
+praktičan		ADJ;CMPR;MASC;ESS;SG
+praktičan		ADJ;DEF;NEUT;NOM;PL
+praktičan		ADJ;INDF;NEUT;VOC;PL
+praktičan		ADJ;INDF;FEM;ESS;SG
+praktičan		ADJ;INDF;MASC;ACC;PL
+praktičan	praktičnijom	ADJ;CMPR;FEM;INS;SG
+praktičan		ADJ;SPRL;MASC;GEN;SG
+praktičan		ADJ;SPRL;NEUT;INS;SG
+praktičan		ADJ;CMPR;NEUT;DAT;PL
+praktičan		ADJ;CMPR;FEM;INS;PL
+praktičan		ADJ;SPRL;FEM;NOM;PL
+praktičan		ADJ;INDF;NEUT;DAT;SG
+praktičan	praktičnih	ADJ;INDF;MASC;GEN;PL
+praktičan		ADJ;DEF;FEM;GEN;PL
+praktičan	praktičnima	ADJ;INDF;NEUT;ESS;PL
+praktičan		ADJ;SPRL;NEUT;DAT;SG
+praktičan		ADJ;CMPR;FEM;GEN;SG
+praktičan		ADJ;INDF;FEM;NOM;SG
+praktičan		ADJ;CMPR;NEUT;ESS;PL
+praktičan	praktičnima	ADJ;INDF;MASC;INS;PL
+praktičan		ADJ;INDF;FEM;DAT;SG
+praktičan		ADJ;SPRL;NEUT;ESS;SG
+praktičan		ADJ;CMPR;FEM;NOM;SG
+praktičan		ADJ;DEF;FEM;NOM;SG
+praktičan		ADJ;DEF;NEUT;GEN;SG
+praktičan		ADJ;INDF;MASC;ESS;SG
+praktičan		ADJ;DEF;NEUT;ACC;PL
+praktičan		ADJ;CMPR;NEUT;ACC;SG
+praktičan		ADJ;DEF;FEM;DAT;SG
+praktičan		ADJ;CMPR;FEM;ACC;PL
+praktičan		ADJ;DEF;MASC;DAT;SG
+praktičan		ADJ;SPRL;MASC;ACC;SG;ANIM
+praktičan	praktičnima	ADJ;INDF;FEM;INS;PL
+praktičan		ADJ;INDF;MASC;INS;SG
+praktičan	najpraktičnijima	ADJ;SPRL;NEUT;ESS;PL
+praktičan		ADJ;INDF;NEUT;GEN;PL
+praktičan	najpraktičnije	ADJ;SPRL;NEUT;ACC;SG
+praktičan		ADJ;SPRL;MASC;INS;PL
+praktičan	praktičnijoj	ADJ;CMPR;FEM;ESS;SG
+praktičan		ADJ;SPRL;FEM;DAT;SG
+praktičan		ADJ;INDF;NEUT;NOM;SG
+praktičan		ADJ;CMPR;FEM;NOM;PL
+praktičan		ADJ;INDF;NEUT;ESS;SG
+praktičan		ADJ;INDF;MASC;ESS;PL
+praktičan		ADJ;CMPR;NEUT;GEN;SG
+praktičan		ADJ;DEF;MASC;NOM;SG
+praktičan		ADJ;DEF;FEM;GEN;SG
+praktičan		ADJ;INDF;MASC;NOM;PL
+praktičan		ADJ;DEF;MASC;VOC;SG
+praktičan		ADJ;SPRL;NEUT;DAT;PL
+praktičan		ADJ;DEF;FEM;ACC;PL
+praktičan		ADJ;CMPR;FEM;GEN;PL
+praktičan		ADJ;SPRL;FEM;GEN;PL
+praktičan		ADJ;SPRL;FEM;INS;PL
+praktičan		ADJ;SPRL;NEUT;GEN;PL
+praktičan		ADJ;DEF;MASC;GEN;SG
+praktičan		ADJ;INDF;NEUT;DAT;PL
+praktičan		ADJ;CMPR;MASC;GEN;SG
+praktičan		ADJ;CMPR;NEUT;INS;SG
+praktičan	praktična	ADJ;INDF;NEUT;GEN;SG
+praktičan		ADJ;INDF;MASC;DAT;PL
+praktičan		ADJ;INDF;MASC;VOC;SG
+praktičan		ADJ;CMPR;NEUT;GEN;PL
+praktičan	praktično	ADJ;DEF;NEUT;VOC;SG
+praktičan		ADJ;SPRL;MASC;ESS;PL
+praktičan		ADJ;INDF;FEM;VOC;PL
+praktičan		ADJ;CMPR;MASC;ACC;SG;INAN
+praktičan	najpraktičniji	ADJ;SPRL;MASC;VOC;PL
+praktičan		ADJ;CMPR;NEUT;DAT;SG
+praktičan		ADJ;SPRL;MASC;GEN;PL
+praktičan		ADJ;INDF;MASC;NOM;SG
+praktičan	praktičnijemu	ADJ;CMPR;NEUT;ESS;SG
+praktičan		ADJ;CMPR;FEM;VOC;SG
+praktičan	praktičnije	ADJ;CMPR;MASC;ACC;PL
+praktičan		ADJ;CMPR;MASC;NOM;PL
+praktičan		ADJ;INDF;FEM;ACC;SG
+praktičan		ADJ;CMPR;NEUT;NOM;SG
+praktičan		ADJ;CMPR;NEUT;INS;PL
+praktičan		ADJ;DEF;NEUT;INS;SG
+praktičan	praktično	ADJ;DEF;NEUT;NOM;SG
+praktičan		ADJ;DEF;FEM;ESS;SG
+praktičan		ADJ;CMPR;MASC;INS;PL
+praktičan		ADJ;SPRL;MASC;VOC;SG
+praktičan		ADJ;DEF;FEM;INS;SG
+praktičan		ADJ;SPRL;FEM;VOC;PL
+praktičan		ADJ;CMPR;NEUT;ACC;PL
+praktičan		ADJ;SPRL;MASC;DAT;SG
+praktičan	praktične	ADJ;DEF;FEM;VOC;PL
+praktičan		ADJ;SPRL;FEM;INS;SG
+praktičan		ADJ;DEF;FEM;NOM;PL
+praktičan		ADJ;DEF;NEUT;GEN;PL
+praktičan	praktičnima	ADJ;INDF;FEM;DAT;PL
+praktičan		ADJ;DEF;MASC;ACC;SG;ANIM
+praktičan		ADJ;SPRL;FEM;ACC;SG
+praktičan		ADJ;CMPR;MASC;INS;SG
+praktičan		ADJ;DEF;FEM;INS;PL
+praktičan		ADJ;INDF;NEUT;NOM;PL
+praktičan		ADJ;INDF;MASC;ACC;SG;INAN
+praktičan		ADJ;INDF;NEUT;ACC;SG
+praktičan		ADJ;SPRL;MASC;NOM;SG
+praktičan	praktičnijemu	ADJ;CMPR;MASC;DAT;SG
+praktičan	praktičniji	ADJ;CMPR;MASC;VOC;SG
+praktičan		ADJ;CMPR;FEM;VOC;PL
+praktičan		ADJ;CMPR;FEM;ESS;PL
+praktičan		ADJ;DEF;MASC;GEN;PL
+praktičan		ADJ;DEF;FEM;ESS;PL
+praktičan	praktičnima	ADJ;INDF;NEUT;INS;PL
+praktičan		ADJ;SPRL;NEUT;VOC;PL
+praktičan		ADJ;INDF;NEUT;VOC;SG
+praktičan		ADJ;SPRL;FEM;ESS;SG
+praktičan		ADJ;SPRL;MASC;ACC;PL
+praktičan		ADJ;INDF;FEM;ESS;PL
+praktičan		ADJ;DEF;FEM;ACC;SG
+praktičan		ADJ;DEF;NEUT;DAT;PL
+praktičan		ADJ;DEF;MASC;VOC;PL
+praktičan		ADJ;DEF;FEM;VOC;SG
+praktičan	praktičnije	ADJ;CMPR;NEUT;VOC;SG
+praktičan	praktičnima	ADJ;DEF;MASC;DAT;PL
+praktičan		ADJ;INDF;FEM;GEN;PL
+praktičan		ADJ;CMPR;FEM;DAT;PL
+praktičan		ADJ;SPRL;FEM;ACC;PL
+praktičan		ADJ;DEF;NEUT;VOC;PL
+praktičan		ADJ;SPRL;NEUT;NOM;PL
+praktičan		ADJ;SPRL;FEM;NOM;SG
+praktičan		ADJ;CMPR;MASC;VOC;PL
+praktičan	praktične	ADJ;DEF;MASC;ACC;PL
+praktičan		ADJ;DEF;NEUT;INS;PL
+praktičan		ADJ;INDF;MASC;DAT;SG
+praktičan		ADJ;DEF;NEUT;ESS;SG
+praktičan	praktičnima	ADJ;DEF;MASC;ESS;PL
+praktičan		ADJ;DEF;MASC;INS;PL
+praktičan		ADJ;INDF;FEM;ACC;PL
+praktičan	najpraktičnijemu	ADJ;SPRL;MASC;ESS;SG
+praktičan	praktičnima	ADJ;DEF;FEM;DAT;PL
+praktičan		ADJ;CMPR;NEUT;VOC;PL
+praktičan		ADJ;SPRL;NEUT;VOC;SG
+praktičan		ADJ;INDF;MASC;VOC;PL
+praktičan		ADJ;SPRL;FEM;ESS;PL
+praktičan		ADJ;CMPR;FEM;ACC;SG
+praktičan		ADJ;INDF;MASC;ACC;SG;ANIM
+praktičan		ADJ;INDF;NEUT;ACC;PL
+praktičan		ADJ;CMPR;FEM;DAT;SG
+praktičan		ADJ;SPRL;MASC;NOM;PL
+praktičan		ADJ;SPRL;MASC;INS;SG
+praktičan	najpraktičnijima	ADJ;SPRL;FEM;DAT;PL
+praktičan	praktični	ADJ;DEF;MASC;ACC;SG;INAN
+praktičan		ADJ;CMPR;MASC;NOM;SG
+praktičan		ADJ;INDF;FEM;GEN;SG
+praktičan		ADJ;INDF;MASC;GEN;SG
+praktičan		ADJ;INDF;FEM;VOC;SG
+praktičan	praktičnija	ADJ;CMPR;NEUT;NOM;PL
+praktičan		ADJ;DEF;NEUT;ESS;PL
+praktičan	praktičnijega	ADJ;CMPR;MASC;ACC;SG;ANIM
+praktičan		ADJ;SPRL;NEUT;NOM;SG
+praktičan		ADJ;INDF;NEUT;INS;SG
+praktičan	praktični	ADJ;DEF;MASC;NOM;PL
+praktičan		ADJ;DEF;MASC;INS;SG
+praktičan	praktičnom	ADJ;INDF;FEM;INS;SG
+praktičan	praktičnijima	ADJ;CMPR;MASC;ESS;PL
+praktičan		ADJ;DEF;NEUT;DAT;SG
+praktičan		ADJ;SPRL;NEUT;INS;PL
+praktičan		ADJ;SPRL;NEUT;ACC;PL
+бинарни		ADJ;MASC;ACC;SG;INAN
+ogledalo		N;GEN;PL
+ogledalo	ogledala	N;NOM;PL
+ogledalo		N;GEN;SG
+ogledalo		N;INS;PL
+ogledalo		N;ESS;PL
+ogledalo		N;ESS;SG
+ogledalo		N;VOC;SG
+ogledalo		N;NOM;SG
+ogledalo		N;INS;SG
+ogledalo		N;DAT;SG
+ogledalo		N;ACC;PL
+ogledalo	ogledalo	N;ACC;SG
+ogledalo		N;VOC;PL
+ogledalo		N;DAT;PL
+активан		ADJ;SPRL;MASC;ACC;SG;INAN
+активан		ADJ;CMPR;MASC;ACC;SG;INAN
+активан		ADJ;INDF;MASC;ACC;SG;INAN
+активан		ADJ;DEF;MASC;ACC;SG;INAN
+музејски		ADJ;MASC;ACC;SG;INAN
+koncert		N;GEN;PL
+koncert		N;VOC;SG
+koncert		N;GEN;SG
+koncert		N;VOC;PL
+koncert	koncertima	N;INS;PL
+koncert		N;ESS;PL
+koncert		N;ESS;SG
+koncert		N;NOM;SG
+koncert		N;INS;SG
+koncert		N;DAT;SG
+koncert		N;ACC;PL
+koncert		N;ACC;SG
+koncert	koncerti	N;NOM;PL
+koncert		N;DAT;PL
+ренесанса		N;GEN;PL
+ренесанса		N;NOM;PL
+ренесанса		N;NOM;SG
+ренесанса		N;INS;PL
+ренесанса		N;ESS;PL
+ренесанса		N;ESS;SG
+ренесанса		N;VOC;SG
+ренесанса		N;GEN;SG
+ренесанса		N;INS;SG
+ренесанса		N;DAT;SG
+ренесанса		N;ACC;PL
+ренесанса	renesansu	N;ACC;SG
+ренесанса		N;VOC;PL
+ренесанса	renesansama	N;DAT;PL
+hrvatski		ADJ;FEM;VOC;PL
+hrvatski	hrvatska	ADJ;NEUT;VOC;PL
+hrvatski		ADJ;MASC;ACC;SG;ANIM
+hrvatski	hrvatske	ADJ;MASC;ACC;PL
+hrvatski		ADJ;NEUT;DAT;SG
+hrvatski		ADJ;FEM;DAT;SG
+hrvatski		ADJ;NEUT;INS;PL
+hrvatski	hrvatski	ADJ;MASC;VOC;PL
+hrvatski		ADJ;MASC;ACC;SG;INAN
+hrvatski		ADJ;MASC;NOM;SG
+hrvatski		ADJ;FEM;NOM;PL
+hrvatski		ADJ;NEUT;NOM;PL
+hrvatski		ADJ;NEUT;ESS;PL
+hrvatski		ADJ;NEUT;ACC;SG
+hrvatski		ADJ;FEM;ACC;SG
+hrvatski		ADJ;MASC;GEN;PL
+hrvatski		ADJ;FEM;INS;PL
+hrvatski		ADJ;MASC;DAT;SG
+hrvatski		ADJ;FEM;ESS;PL
+hrvatski		ADJ;MASC;ESS;PL
+hrvatski		ADJ;MASC;INS;SG
+hrvatski		ADJ;NEUT;DAT;PL
+hrvatski		ADJ;FEM;DAT;PL
+hrvatski		ADJ;NEUT;ESS;SG
+hrvatski		ADJ;FEM;ESS;SG
+hrvatski		ADJ;FEM;GEN;SG
+hrvatski		ADJ;NEUT;GEN;SG
+hrvatski	hrvatska	ADJ;FEM;VOC;SG
+hrvatski	hrvatski	ADJ;MASC;NOM;PL
+hrvatski		ADJ;MASC;DAT;PL
+hrvatski		ADJ;FEM;INS;SG
+hrvatski		ADJ;MASC;INS;PL
+hrvatski		ADJ;NEUT;INS;SG
+hrvatski		ADJ;NEUT;ACC;PL
+hrvatski		ADJ;FEM;ACC;PL
+hrvatski	hrvatski	ADJ;MASC;VOC;SG
+hrvatski	hrvatsko	ADJ;NEUT;VOC;SG
+hrvatski		ADJ;FEM;NOM;SG
+hrvatski	hrvatsko	ADJ;NEUT;NOM;SG
+hrvatski		ADJ;MASC;ESS;SG
+hrvatski		ADJ;MASC;GEN;SG
+hrvatski		ADJ;FEM;GEN;PL
+hrvatski		ADJ;NEUT;GEN;PL
+rasa		N;GEN;PL
+rasa		N;NOM;PL
+rasa		N;NOM;SG
+rasa		N;INS;PL
+rasa		N;ESS;PL
+rasa		N;ESS;SG
+rasa		N;VOC;SG
+rasa	rase	N;GEN;SG
+rasa		N;INS;SG
+rasa		N;DAT;SG
+rasa	rase	N;ACC;PL
+rasa		N;ACC;SG
+rasa		N;VOC;PL
+rasa		N;DAT;PL
+lokacija		N;GEN;PL
+lokacija		N;NOM;PL
+lokacija		N;NOM;SG
+lokacija		N;INS;PL
+lokacija		N;ESS;PL
+lokacija		N;ESS;SG
+lokacija		N;VOC;SG
+lokacija		N;GEN;SG
+lokacija		N;INS;SG
+lokacija		N;DAT;SG
+lokacija	lokacije	N;ACC;PL
+lokacija		N;ACC;SG
+lokacija	lokacije	N;VOC;PL
+lokacija		N;DAT;PL
+kritički	kritičke	ADJ;FEM;VOC;PL
+kritički		ADJ;NEUT;VOC;PL
+kritički	kritičkoga	ADJ;MASC;ACC;SG;ANIM
+kritički		ADJ;MASC;ACC;PL
+kritički		ADJ;NEUT;DAT;SG
+kritički	kritičkoj	ADJ;FEM;DAT;SG
+kritički		ADJ;NEUT;INS;PL
+kritički		ADJ;MASC;VOC;PL
+kritički		ADJ;MASC;ACC;SG;INAN
+kritički		ADJ;MASC;NOM;SG
+kritički		ADJ;FEM;NOM;PL
+kritički		ADJ;NEUT;NOM;PL
+kritički		ADJ;NEUT;ESS;PL
+kritički		ADJ;NEUT;ACC;SG
+kritički		ADJ;FEM;ACC;SG
+kritički		ADJ;MASC;GEN;PL
+kritički		ADJ;FEM;INS;PL
+kritički		ADJ;MASC;DAT;SG
+kritički		ADJ;FEM;ESS;PL
+kritički		ADJ;MASC;ESS;PL
+kritički		ADJ;MASC;INS;SG
+kritički		ADJ;NEUT;DAT;PL
+kritički	kritičkima	ADJ;FEM;DAT;PL
+kritički	kritičkome	ADJ;NEUT;ESS;SG
+kritički	kritičkoj	ADJ;FEM;ESS;SG
+kritički		ADJ;FEM;GEN;SG
+kritički		ADJ;NEUT;GEN;SG
+kritički		ADJ;FEM;VOC;SG
+kritički		ADJ;MASC;NOM;PL
+kritički		ADJ;MASC;DAT;PL
+kritički		ADJ;FEM;INS;SG
+kritički	kritičkima	ADJ;MASC;INS;PL
+kritički		ADJ;NEUT;INS;SG
+kritički		ADJ;NEUT;ACC;PL
+kritički		ADJ;FEM;ACC;PL
+kritički		ADJ;MASC;VOC;SG
+kritički		ADJ;NEUT;VOC;SG
+kritički		ADJ;FEM;NOM;SG
+kritički	kritičko	ADJ;NEUT;NOM;SG
+kritički		ADJ;MASC;ESS;SG
+kritički		ADJ;MASC;GEN;SG
+kritički		ADJ;FEM;GEN;PL
+kritički		ADJ;NEUT;GEN;PL
+совјетски		ADJ;MASC;ACC;SG;INAN
+здрав		ADJ;SPRL;MASC;ACC;SG;INAN
+здрав		ADJ;CMPR;MASC;ACC;SG;INAN
+здрав		ADJ;INDF;MASC;ACC;SG;INAN
+здрав		ADJ;DEF;MASC;ACC;SG;INAN
+rastojanje	rastojanja	N;GEN;PL
+rastojanje		N;NOM;PL
+rastojanje		N;GEN;SG
+rastojanje		N;INS;PL
+rastojanje		N;ESS;PL
+rastojanje		N;ESS;SG
+rastojanje		N;VOC;SG
+rastojanje		N;NOM;SG
+rastojanje		N;INS;SG
+rastojanje		N;DAT;SG
+rastojanje		N;ACC;PL
+rastojanje		N;ACC;SG
+rastojanje		N;VOC;PL
+rastojanje	rastojanjima	N;DAT;PL
+posledica	posledica	N;GEN;PL
+posledica		N;NOM;PL
+posledica	posledica	N;NOM;SG
+posledica		N;INS;PL
+posledica		N;ESS;PL
+posledica		N;ESS;SG
+posledica		N;VOC;SG
+posledica		N;GEN;SG
+posledica		N;INS;SG
+posledica		N;DAT;SG
+posledica		N;ACC;PL
+posledica		N;ACC;SG
+posledica		N;VOC;PL
+posledica		N;DAT;PL
+спортски		ADJ;MASC;ACC;SG;INAN
+македонски		ADJ;MASC;ACC;SG;INAN
+незадовољан		ADJ;INDF;MASC;ACC;SG;INAN
+незадовољан		ADJ;DEF;MASC;ACC;SG;INAN
+plastika		N;VOC;SG
+plastika		N;NOM;SG
+plastika		N;ESS;SG
+plastika		N;GEN;SG
+plastika		N;INS;SG
+plastika		N;DAT;SG
+plastika		N;ACC;SG
+недостајући		ADJ;MASC;ACC;SG;INAN
+бочни		ADJ;MASC;ACC;SG;INAN
+obojica		N;VOC;SG
+obojica		N;NOM;SG
+obojica		N;ESS;SG
+obojica		N;GEN;SG
+obojica		N;INS;SG
+obojica		N;DAT;SG
+obojica		N;ACC;SG
+видљив		ADJ;SPRL;MASC;ACC;SG;INAN
+видљив		ADJ;CMPR;MASC;ACC;SG;INAN
+видљив		ADJ;INDF;MASC;ACC;SG;INAN
+видљив		ADJ;DEF;MASC;ACC;SG;INAN
+veza		N;GEN;PL
+veza		N;NOM;PL
+veza		N;NOM;SG
+veza		N;INS;PL
+veza		N;ESS;PL
+veza	vezi	N;ESS;SG
+veza		N;VOC;SG
+veza		N;GEN;SG
+veza		N;INS;SG
+veza	vezi	N;DAT;SG
+veza		N;ACC;PL
+veza		N;ACC;SG
+veza		N;VOC;PL
+veza		N;DAT;PL
+četa	čȇtā	N;GEN;PL
+četa		N;NOM;PL
+četa		N;NOM;SG
+četa		N;INS;PL
+četa		N;ESS;PL
+četa		N;ESS;SG
+četa		N;VOC;SG
+četa		N;GEN;SG
+četa		N;INS;SG
+četa		N;DAT;SG
+četa		N;ACC;PL
+četa	četu	N;ACC;SG
+četa		N;VOC;PL
+četa		N;DAT;PL
+књижевни		ADJ;MASC;ACC;SG;INAN
+радни		ADJ;MASC;ACC;SG;INAN
+словенски		ADJ;MASC;ACC;SG;INAN
+основан		ADJ;INDF;MASC;ACC;SG;INAN
+основан		ADJ;DEF;MASC;ACC;SG;INAN
+stablo		N;GEN;PL
+stablo		N;NOM;PL
+stablo		N;GEN;SG
+stablo		N;INS;PL
+stablo		N;ESS;PL
+stablo		N;ESS;SG
+stablo		N;VOC;SG
+stablo		N;NOM;SG
+stablo	stablom	N;INS;SG
+stablo		N;DAT;SG
+stablo		N;ACC;PL
+stablo		N;ACC;SG
+stablo		N;VOC;PL
+stablo	stablima	N;DAT;PL
+društvo	drȗštāvā	N;GEN;PL
+društvo		N;NOM;PL
+društvo		N;GEN;SG
+društvo		N;INS;PL
+društvo	društvima	N;ESS;PL
+društvo		N;ESS;SG
+društvo		N;VOC;SG
+društvo		N;NOM;SG
+društvo		N;INS;SG
+društvo		N;DAT;SG
+društvo		N;ACC;PL
+društvo		N;ACC;SG
+društvo		N;VOC;PL
+društvo		N;DAT;PL

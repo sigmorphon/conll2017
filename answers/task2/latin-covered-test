@@ -1,0 +1,773 @@
+globus		N;NOM;PL
+globus		N;VOC;SG
+globus		N;GEN;SG
+globus		N;GEN;PL
+globus		N;NOM;SG
+globus		N;DAT;SG
+globus	globōs	N;ACC;PL
+globus		N;ACC;SG
+globus		N;VOC;PL
+globus		N;ABL;PL
+globus		N;ABL;SG
+globus		N;DAT;PL
+scriba		N;NOM;PL
+scriba		N;VOC;SG
+scriba		N;GEN;SG
+scriba	scrībārum	N;GEN;PL
+scriba		N;NOM;SG
+scriba		N;DAT;SG
+scriba		N;ACC;PL
+scriba		N;ACC;SG
+scriba		N;VOC;PL
+scriba		N;ABL;PL
+scriba		N;ABL;SG
+scriba		N;DAT;PL
+dialectos		N;NOM;PL
+dialectos		N;VOC;SG
+dialectos		N;GEN;SG
+dialectos		N;GEN;PL
+dialectos		N;NOM;SG
+dialectos	dialectō	N;DAT;SG
+dialectos		N;ACC;PL
+dialectos		N;ACC;SG
+dialectos		N;VOC;PL
+dialectos		N;ABL;PL
+dialectos		N;ABL;SG
+dialectos		N;DAT;PL
+punctum		N;NOM;PL
+punctum		N;VOC;SG
+punctum		N;GEN;SG
+punctum		N;GEN;PL
+punctum	punctum	N;NOM;SG
+punctum		N;DAT;SG
+punctum		N;ACC;PL
+punctum		N;ACC;SG
+punctum		N;VOC;PL
+punctum		N;ABL;PL
+punctum		N;ABL;SG
+punctum		N;DAT;PL
+seditio		N;NOM;PL
+seditio		N;VOC;SG
+seditio		N;GEN;SG
+seditio	sēditiōnum	N;GEN;PL
+seditio		N;NOM;SG
+seditio		N;DAT;SG
+seditio		N;ACC;PL
+seditio		N;ACC;SG
+seditio		N;VOC;PL
+seditio		N;ABL;PL
+seditio		N;ABL;SG
+seditio		N;DAT;PL
+haeresis		N;NOM;PL
+haeresis		N;VOC;SG
+haeresis		N;GEN;SG
+haeresis		N;GEN;PL
+haeresis		N;NOM;SG
+haeresis	haeresī	N;DAT;SG
+haeresis		N;ACC;PL
+haeresis		N;ACC;SG
+haeresis		N;VOC;PL
+haeresis		N;ABL;PL
+haeresis		N;ABL;SG
+haeresis		N;DAT;PL
+incertus		ADJ;NOM;MASC;PL
+incertus		ADJ;ABL;FEM;SG
+incertus		ADJ;ACC;MASC;SG
+incertus		ADJ;DAT;FEM;SG
+incertus		ADJ;ABL;NEUT;SG
+incertus		ADJ;VOC;MASC;PL
+incertus	incertam	ADJ;ACC;FEM;SG
+incertus		ADJ;GEN;MASC;SG
+incertus		ADJ;GEN;NEUT;SG
+incertus		ADJ;ACC;NEUT;PL
+incertus	incertae	ADJ;NOM;FEM;PL
+incertus		ADJ;NOM;NEUT;PL
+incertus		ADJ;NOM;MASC;SG
+incertus		ADJ;VOC;NEUT;SG
+incertus		ADJ;DAT;MASC;SG
+incertus		ADJ;ACC;MASC;PL
+incertus		ADJ;ACC;FEM;PL
+incertus		ADJ;ABL;MASC;SG
+incertus		ADJ;GEN;FEM;SG
+incertus		ADJ;NOM;NEUT;SG
+incertus		ADJ;ACC;NEUT;SG
+incertus	incertae	ADJ;VOC;FEM;PL
+incertus	incerta	ADJ;VOC;NEUT;PL
+incertus		ADJ;GEN;MASC;PL
+incertus		ADJ;GEN;FEM;PL
+incertus		ADJ;GEN;NEUT;PL
+incertus		ADJ;VOC;FEM;SG
+incertus		ADJ;ABL; PL
+incertus		ADJ;DAT;NEUT;SG
+incertus	incerte	ADJ;VOC;MASC;SG
+incertus		ADJ;NOM;FEM;SG
+violentus		ADJ;NOM;MASC;PL
+violentus	violentā	ADJ;ABL;FEM;SG
+violentus		ADJ;ACC;MASC;SG
+violentus		ADJ;DAT;FEM;SG
+violentus		ADJ;ABL;NEUT;SG
+violentus	violentī	ADJ;VOC;MASC;PL
+violentus		ADJ;ACC;FEM;SG
+violentus		ADJ;GEN;MASC;SG
+violentus		ADJ;GEN;NEUT;SG
+violentus		ADJ;ACC;NEUT;PL
+violentus		ADJ;NOM;FEM;PL
+violentus		ADJ;NOM;NEUT;PL
+violentus	violentus	ADJ;NOM;MASC;SG
+violentus		ADJ;VOC;NEUT;SG
+violentus		ADJ;DAT;MASC;SG
+violentus		ADJ;ACC;MASC;PL
+violentus		ADJ;ACC;FEM;PL
+violentus		ADJ;ABL;MASC;SG
+violentus		ADJ;GEN;FEM;SG
+violentus		ADJ;NOM;NEUT;SG
+violentus		ADJ;ACC;NEUT;SG
+violentus		ADJ;VOC;FEM;PL
+violentus		ADJ;VOC;NEUT;PL
+violentus	violentōrum	ADJ;GEN;MASC;PL
+violentus	violentārum	ADJ;GEN;FEM;PL
+violentus		ADJ;GEN;NEUT;PL
+violentus		ADJ;VOC;FEM;SG
+violentus		ADJ;ABL; PL
+violentus		ADJ;DAT;NEUT;SG
+violentus		ADJ;VOC;MASC;SG
+violentus		ADJ;NOM;FEM;SG
+arena		N;NOM;PL
+arena		N;VOC;SG
+arena	arēnae	N;GEN;SG
+arena		N;GEN;PL
+arena		N;NOM;SG
+arena		N;DAT;SG
+arena		N;ACC;PL
+arena		N;ACC;SG
+arena		N;VOC;PL
+arena		N;ABL;PL
+arena		N;ABL;SG
+arena		N;DAT;PL
+transitus		N;NOM;PL
+transitus		N;VOC;SG
+transitus		N;GEN;SG
+transitus	trānsituum	N;GEN;PL
+transitus		N;NOM;SG
+transitus		N;DAT;SG
+transitus		N;ACC;PL
+transitus		N;ACC;SG
+transitus		N;VOC;PL
+transitus		N;ABL;PL
+transitus		N;ABL;SG
+transitus		N;DAT;PL
+sexualis		ADJ;GEN;MASC/FEM;SG
+sexualis		ADJ;NOM;NEUT;SG
+sexualis		ADJ;VOC;MASC/FEM;SG
+sexualis		ADJ;ACC;NEUT;SG
+sexualis		ADJ;GEN;NEUT;SG
+sexualis		ADJ;ACC;NEUT;PL
+sexualis		ADJ;ACC;MASC/FEM;SG
+sexualis		ADJ;VOC;NEUT;PL
+sexualis		ADJ;ACC;MASC/FEM;PL
+sexualis	sexuālia	ADJ;NOM;NEUT;PL
+sexualis	sexuālēs	ADJ;NOM;MASC/FEM;PL
+sexualis		ADJ;VOC;MASC/FEM;PL
+sexualis		ADJ;VOC;NEUT;SG
+sexualis	sexuālibus	ADJ;DAT;NEUT;SG
+sexualis		ADJ;ABL;NEUT;SG
+sexualis		ADJ;DAT;MASC/FEM;SG
+sexualis		ADJ;ABL;MASC/FEM;SG
+sexualis		ADJ;NOM;MASC/FEM;SG
+desertum		N;NOM;PL
+desertum		N;VOC;SG
+desertum	dēsertī	N;GEN;SG
+desertum		N;GEN;PL
+desertum		N;NOM;SG
+desertum		N;DAT;SG
+desertum		N;ACC;PL
+desertum		N;ACC;SG
+desertum		N;VOC;PL
+desertum		N;ABL;PL
+desertum		N;ABL;SG
+desertum		N;DAT;PL
+presbyter		N;NOM;PL
+presbyter		N;VOC;SG
+presbyter		N;GEN;SG
+presbyter		N;GEN;PL
+presbyter		N;NOM;SG
+presbyter	presbyterō	N;DAT;SG
+presbyter		N;ACC;PL
+presbyter		N;ACC;SG
+presbyter		N;VOC;PL
+presbyter		N;ABL;PL
+presbyter		N;ABL;SG
+presbyter		N;DAT;PL
+monasterium		N;NOM;PL
+monasterium		N;GEN;PL
+monasterium		N;NOM;SG
+monasterium	monastērium	N;GEN;SG
+monasterium		N;DAT;SG
+monasterium		N;ACC;PL
+monasterium		N;ACC;SG
+monasterium		N;DAT;PL
+fastigium	fastīgia	N;NOM;PL
+fastigium		N;VOC;SG
+fastigium		N;GEN;SG
+fastigium		N;GEN;PL
+fastigium		N;NOM;SG
+fastigium		N;DAT;SG
+fastigium		N;ACC;PL
+fastigium		N;ACC;SG
+fastigium		N;VOC;PL
+fastigium		N;ABL;PL
+fastigium		N;ABL;SG
+fastigium		N;DAT;PL
+exemplar		N;NOM;PL
+exemplar		N;VOC;SG
+exemplar		N;GEN;SG
+exemplar		N;GEN;PL
+exemplar		N;NOM;SG
+exemplar		N;DAT;SG
+exemplar		N;ACC;PL
+exemplar		N;ACC;SG
+exemplar	exemplāria	N;VOC;PL
+exemplar		N;ABL;PL
+exemplar		N;ABL;SG
+exemplar		N;DAT;PL
+consuetudo		N;NOM;PL
+consuetudo		N;VOC;SG
+consuetudo		N;GEN;SG
+consuetudo		N;GEN;PL
+consuetudo		N;NOM;SG
+consuetudo		N;DAT;SG
+consuetudo		N;ACC;PL
+consuetudo		N;ACC;SG
+consuetudo		N;VOC;PL
+consuetudo		N;ABL;PL
+consuetudo	cōnsuētūdine	N;ABL;SG
+consuetudo		N;DAT;PL
+eventus		N;NOM;PL
+eventus		N;VOC;SG
+eventus		N;GEN;SG
+eventus		N;GEN;PL
+eventus		N;NOM;SG
+eventus	ēventuī	N;DAT;SG
+eventus		N;ACC;PL
+eventus		N;ACC;SG
+eventus		N;VOC;PL
+eventus		N;ABL;PL
+eventus		N;ABL;SG
+eventus		N;DAT;PL
+concilium		N;NOM;PL
+concilium		N;VOC;SG
+concilium		N;GEN;SG
+concilium		N;GEN;PL
+concilium		N;NOM;SG
+concilium		N;DAT;SG
+concilium	concilia	N;ACC;PL
+concilium		N;ACC;SG
+concilium		N;VOC;PL
+concilium		N;ABL;PL
+concilium		N;ABL;SG
+concilium		N;DAT;PL
+praesentia		N;NOM;PL
+praesentia		N;VOC;SG
+praesentia		N;GEN;SG
+praesentia		N;GEN;PL
+praesentia		N;NOM;SG
+praesentia		N;DAT;SG
+praesentia		N;ACC;PL
+praesentia		N;ACC;SG
+praesentia		N;VOC;PL
+praesentia		N;ABL;PL
+praesentia		N;ABL;SG
+praesentia	praesentiīs	N;DAT;PL
+inventor		N;NOM;PL
+inventor		N;VOC;SG
+inventor		N;GEN;SG
+inventor	inventōrum	N;GEN;PL
+inventor		N;NOM;SG
+inventor		N;DAT;SG
+inventor		N;ACC;PL
+inventor		N;ACC;SG
+inventor		N;VOC;PL
+inventor		N;ABL;PL
+inventor		N;ABL;SG
+inventor		N;DAT;PL
+technologia		N;NOM;PL
+technologia	technologia	N;VOC;SG
+technologia		N;GEN;SG
+technologia		N;GEN;PL
+technologia		N;NOM;SG
+technologia		N;DAT;SG
+technologia		N;ACC;PL
+technologia		N;ACC;SG
+technologia		N;VOC;PL
+technologia		N;ABL;PL
+technologia		N;ABL;SG
+technologia		N;DAT;PL
+sator	satōrēs	N;NOM;PL
+sator		N;VOC;SG
+sator		N;GEN;SG
+sator		N;GEN;PL
+sator		N;NOM;SG
+sator		N;DAT;SG
+sator		N;ACC;PL
+sator		N;ACC;SG
+sator		N;VOC;PL
+sator		N;ABL;PL
+sator		N;ABL;SG
+sator		N;DAT;PL
+communitas		N;NOM;PL
+communitas		N;VOC;SG
+communitas		N;GEN;SG
+communitas		N;GEN;PL
+communitas		N;NOM;SG
+communitas	commūnitātī	N;DAT;SG
+communitas		N;ACC;PL
+communitas		N;ACC;SG
+communitas		N;VOC;PL
+communitas		N;ABL;PL
+communitas		N;ABL;SG
+communitas		N;DAT;PL
+manuscriptus		ADJ;NOM;MASC;PL
+manuscriptus		ADJ;ABL;FEM;SG
+manuscriptus		ADJ;ACC;MASC;SG
+manuscriptus		ADJ;DAT;FEM;SG
+manuscriptus		ADJ;ABL;NEUT;SG
+manuscriptus	manuscrīptī	ADJ;VOC;MASC;PL
+manuscriptus		ADJ;ACC;FEM;SG
+manuscriptus		ADJ;GEN;MASC;SG
+manuscriptus		ADJ;GEN;NEUT;SG
+manuscriptus	manuscrīpta	ADJ;ACC;NEUT;PL
+manuscriptus		ADJ;NOM;FEM;PL
+manuscriptus		ADJ;NOM;NEUT;PL
+manuscriptus		ADJ;NOM;MASC;SG
+manuscriptus		ADJ;VOC;NEUT;SG
+manuscriptus		ADJ;DAT;MASC;SG
+manuscriptus		ADJ;ACC;MASC;PL
+manuscriptus		ADJ;ACC;FEM;PL
+manuscriptus		ADJ;ABL;MASC;SG
+manuscriptus		ADJ;GEN;FEM;SG
+manuscriptus		ADJ;NOM;NEUT;SG
+manuscriptus	manuscrīptum	ADJ;ACC;NEUT;SG
+manuscriptus		ADJ;VOC;FEM;PL
+manuscriptus	manuscrīpta	ADJ;VOC;NEUT;PL
+manuscriptus	manuscrīptōrum	ADJ;GEN;MASC;PL
+manuscriptus		ADJ;GEN;FEM;PL
+manuscriptus		ADJ;GEN;NEUT;PL
+manuscriptus		ADJ;VOC;FEM;SG
+manuscriptus		ADJ;ABL; PL
+manuscriptus		ADJ;DAT;NEUT;SG
+manuscriptus		ADJ;VOC;MASC;SG
+manuscriptus		ADJ;NOM;FEM;SG
+drama		N;NOM;PL
+drama		N;VOC;SG
+drama		N;GEN;SG
+drama		N;GEN;PL
+drama		N;NOM;SG
+drama	drāmatī	N;DAT;SG
+drama		N;ACC;PL
+drama		N;ACC;SG
+drama		N;VOC;PL
+drama		N;ABL;PL
+drama		N;ABL;SG
+drama		N;DAT;PL
+responsum		N;NOM;PL
+responsum		N;VOC;SG
+responsum		N;GEN;SG
+responsum		N;GEN;PL
+responsum		N;NOM;SG
+responsum		N;DAT;SG
+responsum		N;ACC;PL
+responsum		N;ACC;SG
+responsum		N;VOC;PL
+responsum	respōnsīs	N;ABL;PL
+responsum		N;ABL;SG
+responsum		N;DAT;PL
+soror	sorōrēs	N;NOM;PL
+soror		N;VOC;SG
+soror		N;GEN;SG
+soror		N;GEN;PL
+soror		N;NOM;SG
+soror		N;DAT;SG
+soror		N;ACC;PL
+soror		N;ACC;SG
+soror		N;VOC;PL
+soror		N;ABL;PL
+soror		N;ABL;SG
+soror		N;DAT;PL
+vigil		N;NOM;PL
+vigil		N;VOC;SG
+vigil		N;GEN;SG
+vigil		N;GEN;PL
+vigil		N;NOM;SG
+vigil		N;DAT;SG
+vigil		N;ACC;PL
+vigil	vigilem	N;ACC;SG
+vigil		N;VOC;PL
+vigil		N;ABL;PL
+vigil		N;ABL;SG
+vigil		N;DAT;PL
+protector		N;NOM;PL
+protector		N;VOC;SG
+protector		N;GEN;SG
+protector	prōtectōrum	N;GEN;PL
+protector		N;NOM;SG
+protector		N;DAT;SG
+protector		N;ACC;PL
+protector		N;ACC;SG
+protector		N;VOC;PL
+protector		N;ABL;PL
+protector		N;ABL;SG
+protector		N;DAT;PL
+temperatura		N;NOM;PL
+temperatura		N;VOC;SG
+temperatura		N;GEN;SG
+temperatura		N;GEN;PL
+temperatura		N;NOM;SG
+temperatura		N;DAT;SG
+temperatura		N;ACC;PL
+temperatura		N;ACC;SG
+temperatura	temperātūrae	N;VOC;PL
+temperatura		N;ABL;PL
+temperatura		N;ABL;SG
+temperatura		N;DAT;PL
+solutior		ADJ;GEN;MASC/FEM;SG
+solutior		ADJ;NOM;NEUT;SG
+solutior		ADJ;VOC;MASC/FEM;SG
+solutior		ADJ;ACC;NEUT;SG
+solutior		ADJ;GEN;NEUT;SG
+solutior		ADJ;ACC;NEUT;PL
+solutior		ADJ;ACC;MASC/FEM;SG
+solutior	solutiōra	ADJ;VOC;NEUT;PL
+solutior	solutiōrēs	ADJ;ACC;MASC/FEM;PL
+solutior		ADJ;NOM;NEUT;PL
+solutior		ADJ;NOM;MASC/FEM;PL
+solutior		ADJ;VOC;MASC/FEM;PL
+solutior	solutius	ADJ;VOC;NEUT;SG
+solutior		ADJ;DAT;NEUT;SG
+solutior		ADJ;ABL;NEUT;SG
+solutior		ADJ;DAT;MASC/FEM;SG
+solutior		ADJ;ABL;MASC/FEM;SG
+solutior		ADJ;NOM;MASC/FEM;SG
+sepulcrum		N;NOM;PL
+sepulcrum		N;VOC;SG
+sepulcrum		N;GEN;SG
+sepulcrum		N;GEN;PL
+sepulcrum		N;NOM;SG
+sepulcrum		N;DAT;SG
+sepulcrum		N;ACC;PL
+sepulcrum	sepulcrum	N;ACC;SG
+sepulcrum		N;VOC;PL
+sepulcrum		N;ABL;PL
+sepulcrum		N;ABL;SG
+sepulcrum		N;DAT;PL
+aequor		N;NOM;PL
+aequor		N;VOC;SG
+aequor		N;GEN;SG
+aequor		N;GEN;PL
+aequor		N;NOM;SG
+aequor		N;DAT;SG
+aequor		N;ACC;PL
+aequor		N;ACC;SG
+aequor		N;VOC;PL
+aequor	aequoribus	N;ABL;PL
+aequor		N;ABL;SG
+aequor		N;DAT;PL
+editio		N;NOM;PL
+editio		N;VOC;SG
+editio		N;NOM;SG
+editio		N;GEN;PL
+editio		N;GEN;SG
+editio		N;DAT;SG
+editio	ēditiōnēs	N;ACC;PL
+editio		N;ACC;SG
+editio		N;VOC;PL
+editio		N;ABL;PL
+editio		N;ABL;SG
+editio		N;DAT;PL
+coniuratio		N;NOM;PL
+coniuratio		N;VOC;SG
+coniuratio		N;GEN;SG
+coniuratio		N;GEN;PL
+coniuratio		N;NOM;SG
+coniuratio		N;DAT;SG
+coniuratio	coniūrātiōnēs	N;ACC;PL
+coniuratio		N;ACC;SG
+coniuratio		N;VOC;PL
+coniuratio		N;ABL;PL
+coniuratio		N;ABL;SG
+coniuratio		N;DAT;PL
+proconsul		N;NOM;PL
+proconsul		N;VOC;SG
+proconsul		N;GEN;SG
+proconsul		N;GEN;PL
+proconsul		N;NOM;SG
+proconsul		N;DAT;SG
+proconsul		N;ACC;PL
+proconsul		N;ACC;SG
+proconsul		N;VOC;PL
+proconsul		N;ABL;PL
+proconsul		N;ABL;SG
+proconsul	procōnsulibus	N;DAT;PL
+sinapis		N;NOM;PL
+sinapis		N;VOC;SG
+sinapis	sināpis	N;GEN;SG
+sinapis		N;GEN;PL
+sinapis		N;NOM;SG
+sinapis		N;DAT;SG
+sinapis		N;ACC;PL
+sinapis		N;ACC;SG
+sinapis		N;VOC;PL
+sinapis		N;ABL;PL
+sinapis		N;ABL;SG
+sinapis		N;DAT;PL
+perparvus		ADJ;NOM;MASC;PL
+perparvus	perparvā	ADJ;ABL;FEM;SG
+perparvus		ADJ;ACC;MASC;SG
+perparvus		ADJ;DAT;FEM;SG
+perparvus		ADJ;ABL;NEUT;SG
+perparvus		ADJ;VOC;MASC;PL
+perparvus		ADJ;ACC;FEM;SG
+perparvus		ADJ;GEN;MASC;SG
+perparvus	perparvī	ADJ;GEN;NEUT;SG
+perparvus		ADJ;ACC;NEUT;PL
+perparvus	perparvae	ADJ;NOM;FEM;PL
+perparvus		ADJ;NOM;NEUT;PL
+perparvus		ADJ;NOM;MASC;SG
+perparvus		ADJ;VOC;NEUT;SG
+perparvus		ADJ;DAT;MASC;SG
+perparvus		ADJ;ACC;MASC;PL
+perparvus		ADJ;ACC;FEM;PL
+perparvus		ADJ;ABL;MASC;SG
+perparvus	perparvae	ADJ;GEN;FEM;SG
+perparvus		ADJ;NOM;NEUT;SG
+perparvus		ADJ;ACC;NEUT;SG
+perparvus		ADJ;VOC;FEM;PL
+perparvus		ADJ;VOC;NEUT;PL
+perparvus		ADJ;GEN;MASC;PL
+perparvus		ADJ;GEN;FEM;PL
+perparvus		ADJ;GEN;NEUT;PL
+perparvus		ADJ;VOC;FEM;SG
+perparvus	perparvīs	ADJ;ABL; PL
+perparvus		ADJ;DAT;NEUT;SG
+perparvus		ADJ;VOC;MASC;SG
+perparvus		ADJ;NOM;FEM;SG
+astronomus		N;NOM;PL
+astronomus		N;VOC;SG
+astronomus		N;GEN;SG
+astronomus	astronomōrum	N;GEN;PL
+astronomus		N;NOM;SG
+astronomus		N;DAT;SG
+astronomus		N;ACC;PL
+astronomus		N;ACC;SG
+astronomus		N;VOC;PL
+astronomus		N;ABL;PL
+astronomus		N;ABL;SG
+astronomus		N;DAT;PL
+lusor		N;NOM;PL
+lusor		N;VOC;SG
+lusor		N;GEN;SG
+lusor		N;GEN;PL
+lusor	lūsor	N;NOM;SG
+lusor		N;DAT;SG
+lusor		N;ACC;PL
+lusor		N;ACC;SG
+lusor		N;VOC;PL
+lusor		N;ABL;PL
+lusor		N;ABL;SG
+lusor		N;DAT;PL
+effugium	effugia	N;NOM;PL
+effugium		N;VOC;SG
+effugium		N;GEN;SG
+effugium		N;GEN;PL
+effugium		N;NOM;SG
+effugium		N;DAT;SG
+effugium		N;ACC;PL
+effugium		N;ACC;SG
+effugium		N;VOC;PL
+effugium		N;ABL;PL
+effugium		N;ABL;SG
+effugium		N;DAT;PL
+altior		ADJ;GEN;MASC/FEM;SG
+altior		ADJ;NOM;NEUT;SG
+altior		ADJ;VOC;MASC/FEM;SG
+altior		ADJ;ACC;NEUT;SG
+altior		ADJ;GEN;NEUT;SG
+altior		ADJ;ACC;NEUT;PL
+altior		ADJ;ACC;MASC/FEM;SG
+altior		ADJ;VOC;NEUT;PL
+altior		ADJ;ACC;MASC/FEM;PL
+altior		ADJ;NOM;NEUT;PL
+altior		ADJ;NOM;MASC/FEM;PL
+altior	altiōrēs	ADJ;VOC;MASC/FEM;PL
+altior		ADJ;VOC;NEUT;SG
+altior	altiōribus	ADJ;DAT;NEUT;SG
+altior		ADJ;ABL;NEUT;SG
+altior	altiōrī	ADJ;DAT;MASC/FEM;SG
+altior		ADJ;ABL;MASC/FEM;SG
+altior		ADJ;NOM;MASC/FEM;SG
+diaconus	diāconī	N;NOM;PL
+diaconus		N;VOC;SG
+diaconus		N;GEN;SG
+diaconus		N;GEN;PL
+diaconus		N;NOM;SG
+diaconus		N;DAT;SG
+diaconus		N;ACC;PL
+diaconus		N;ACC;SG
+diaconus		N;VOC;PL
+diaconus		N;ABL;PL
+diaconus		N;ABL;SG
+diaconus		N;DAT;PL
+paedagogus		N;NOM;PL
+paedagogus		N;VOC;SG
+paedagogus		N;GEN;SG
+paedagogus		N;GEN;PL
+paedagogus		N;NOM;SG
+paedagogus		N;DAT;SG
+paedagogus		N;ACC;PL
+paedagogus	paedagōgum	N;ACC;SG
+paedagogus		N;VOC;PL
+paedagogus		N;ABL;PL
+paedagogus		N;ABL;SG
+paedagogus		N;DAT;PL
+gradus		N;NOM;PL
+gradus	gradūs	N;GEN;PL
+gradus		N;NOM;SG
+gradus		N;GEN;SG
+gradus		N;DAT;SG
+gradus		N;ACC;PL
+gradus		N;ACC;SG
+gradus		N;DAT;PL
+auxilio		V;IND;FUT;1;SG;PRF
+auxilio		V;IND;PST;3;SG;PRF
+auxilio		V;IND;PASS;FUT;1;SG
+auxilio		V;SBJV;PST;3;SG;PRF
+auxilio		V;IND;PASS;PRS;2;PL
+auxilio		V;SBJV;PASS;PST;3;SG;IPFV
+auxilio		V;IND;PASS;PST;3;SG;IPFV
+auxilio	auxiliārēris	V;SBJV;PST;2;SG;IPFV
+auxilio		V;SBJV;PST;1;SG;PFV
+auxilio		V;IND;PRS;2;PL
+auxilio		V;IND;PST;1;SG;PFV
+auxilio		V;SBJV;PST;1;PL;PFV
+auxilio	auxiliāte	V;IMP;PRS;3;PL
+auxilio		V;IND;PASS;FUT;3;PL
+auxilio	auxiliantor	V;IMP;PASS;FUT;3;PL
+auxilio		V;IND;PST;2;PL;PRF
+auxilio	auxiliāre	V;IMP;PASS;PRS;3;SG
+auxilio		V;SBJV;PASS;PRS;1;SG
+auxilio		V;IND;PASS;FUT;1;PL
+auxilio	auxiliem	V;SBJV;PRS;1;SG
+auxilio	auxiliat	V;IND;PRS;3;SG
+auxilio		V;IND;PASS;PRS;2;SG
+auxilio		V;IMP;PRS;3;SG
+auxilio		V;SBJV;PST;3;PL;PFV
+auxilio		V;IND;PST;3;PL;PRF
+auxilio		V;SBJV;PST;3;PL;IPFV
+auxilio		V;IND;PST;1;SG;IPFV
+auxilio		V;IND;PST;3;SG;PFV
+auxilio	auxiliārēmur	V;SBJV;PASS;PST;1;PL;IPFV
+auxilio		V;SBJV;PST;1;PL;IPFV
+auxilio		V;IND;PASS;PRS;3;SG
+auxilio		V;IND;FUT;3;PL;PRF
+auxilio		V;IND;PST;2;SG;PFV
+auxilio	auxiliās	V;IND;PRS;2;SG
+auxilio		V;SBJV;PST;2;SG;PRF
+auxilio	auxiliantō	V;IMP;FUT;3;PL
+auxilio		V.PTCP;PRS
+auxilio		V;IND;PRS;3;PL
+auxilio		V;SBJV;PASS;PRS;2;PL
+auxilio		V;SBJV;PRS;1;PL
+auxilio		V;IND:PASS;PST;2;PL;IPFV
+auxilio	auxiliārentur	V;SBJV;PASS;PST;3;PL;IPFV
+auxilio		V;IND;PASS;PRS;3;PL
+auxilio	auxiliābāmur	V;IND;PASS;PST;1;PL;IPFV
+auxilio		V;IND;FUT;1;PL
+auxilio		V;SBJV;PST;2;PL;PRF
+auxilio		V;IMP;FUT;3;SG
+auxilio		V;SBJV;PST;1;SG;IPFV
+auxilio		V;IND;FUT;3;PL
+auxilio		V;SBJV;PRS;2;PL
+auxilio		V;NFIN
+auxilio		V;IND;PST;3;SG;IPFV
+auxilio	auxiliābantur	V;IND;PASS;PST;3;PL;IPFV
+auxilio		V;SBJV;PST;3;PL;PRF
+auxilio		V;SBJV;PASS;PRS;3;PL
+auxilio		V;SBJV;PRS;3;PL
+auxilio		V;IMP;PASS;PRS;3;PL
+auxilio		V;IND;PRS;1;PL
+auxilio		V;IND;PASS;PST;2;SG;IPFV
+auxilio		V;SBJV;PST;2;PL;IPFV
+auxilio	auxiliāverītis	V;SBJV;PST;2;PL;PFV
+auxilio		V;SBJV;PRS;2;SG
+auxilio	auxiliābar	V;IND;PASS;PST;1;SG;IPFV
+auxilio		V;IND;PASS;PRS;1;PL
+auxilio		V;IND;PST;3;PL;PFV
+auxilio	auxiliābās	V;IND;PST;2;SG;IPFV
+auxilio		V;SBJV;PST;3;SG;IPFV
+auxilio		V;IND;PST;2;SG;PRF
+auxilio	auxiliāverāmus	V;IND;PST;1;PL;PRF
+auxilio		V;IND;PST;3;PL;IPFV
+auxilio		V;IND;FUT;1;PL;PRF
+auxilio		V;IND;PST;1;SG;PRF
+auxilio	auxiliāvissēmus	V;SBJV;PST;1;PL;PRF
+auxilio		V;IND;FUT;1;SG
+auxilio		V;IMP;PASS;FUT;3;SG
+auxilio		V;SBJV;PASS;PST;1;SG;IPFV
+auxilio		V;IND;PST;1;PL;IPFV
+auxilio		V;IND;FUT;3;SG
+auxilio		V;IND;FUT;3;SG;PRF
+auxilio		V;SBJV;PASS;PRS;2;SG
+auxilio		V;IND;PASS;FUT;2;PL
+auxilio		V;IND;FUT;2;PL
+auxilio	auxiliābātis	V;IND;PST;2;PL;IPFV
+auxilio		V;IND;PST;1;PL;PFV
+auxilio		V;SBJV;PASS;PRS;3;SG
+auxilio		V;IND;FUT;2;PL;PRF
+auxilio		V;IND;PRS;1;SG
+auxilio		V;SBJV;PASS:PRS;1;PL
+auxilio		V;SBJV;PST;1;SG;PRF
+auxilio		V;SBJV;PRS;3;SG
+auxilio		V;SBJV;PST;3;SG;PFV
+auxilio		V;IND;PST;2;PL;PFV
+auxilio	auxiliāveris	V;IND;FUT;2;SG;PRF
+auxilio		V;SBJV;PASS;PST;2;PL;IPFV
+auxilio		V;IND;FUT;2;SG
+auxilio		V;IND;PASS;FUT;2;SG
+auxilio		V;SBJV;PST;2;SG;PFV
+auxilio		V;IND;PASS;PRS;1;SG
+auxilio		V;IND;PASS;FUT;3;SG
+papilio		N;NOM;PL
+papilio		N;VOC;SG
+papilio		N;GEN;SG
+papilio		N;GEN;PL
+papilio		N;NOM;SG
+papilio		N;DAT;SG
+papilio		N;ACC;PL
+papilio	pāpiliōnem	N;ACC;SG
+papilio		N;VOC;PL
+papilio		N;ABL;PL
+papilio		N;ABL;SG
+papilio		N;DAT;PL
+theorema		N;NOM;PL
+theorema		N;VOC;SG
+theorema		N;GEN;SG
+theorema		N;GEN;PL
+theorema		N;NOM;SG
+theorema		N;DAT;SG
+theorema		N;ACC;PL
+theorema		N;ACC;SG
+theorema		N;VOC;PL
+theorema		N;ABL;PL
+theorema		N;ABL;SG
+theorema	theōrēmātibus	N;DAT;PL
+fons		N;NOM;PL
+fons		N;VOC;SG
+fons		N;GEN;SG
+fons	fontium	N;GEN;PL
+fons		N;NOM;SG
+fons		N;DAT;SG
+fons		N;ACC;PL
+fons		N;ACC;SG
+fons		N;VOC;PL
+fons		N;ABL;PL
+fons		N;ABL;SG
+fons		N;DAT;PL

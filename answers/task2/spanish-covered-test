@@ -1,0 +1,3500 @@
+restaurar		V;IND;PST;1;PL;IPFV
+restaurar		V;SBJV;PST;3;PL;LGSPEC1
+restaurar		V;NEG;IMP;2;PL
+restaurar	no restaure	V;NEG;IMP;3;SG
+restaurar		V;COND;2;SG
+restaurar		V;IND;FUT;3;SG
+restaurar	restauraren	V;SBJV;FUT;3;PL
+restaurar		V;COND;3;PL
+restaurar		V;SBJV;PST;1;SG;LGSPEC1
+restaurar		V;SBJV;PST;1;SG
+restaurar		V;IND;PRS;1;PL
+restaurar	restaure	V;SBJV;PRS;3;SG
+restaurar		V;SBJV;PST;3;SG;LGSPEC1
+restaurar	restauran	V;IND;PRS;3;PL
+restaurar	restaurada	V.PTCP;PST;FEM;SG
+restaurar		V;SBJV;PRS;2;SG
+restaurar		V;SBJV;PST;3;SG
+restaurar		V;SBJV;PST;2;PL
+restaurar		V;IND;PRS;2;PL
+restaurar		V;SBJV;FUT;1;PL
+restaurar		V;IND;FUT;2;PL
+restaurar	restaurabais	V;IND;PST;2;PL;IPFV
+restaurar		V;IND;PST;1;SG;PFV
+restaurar		V;POS;IMP;1;PL
+restaurar		V;NFIN
+restaurar		V;IND;FUT;1;PL
+restaurar		V;IND;PST;1;PL;PFV
+restaurar	no restauren	V;NEG;IMP;3;PL
+restaurar		V;IND;PST;3;PL;PFV
+restaurar		V.PTCP;PST;MASC;SG
+restaurar	restaure	V;SBJV;PRS;1;SG
+restaurar	restaurarais	V;SBJV;PST;2;PL;LGSPEC1
+restaurar		V.CVB;PRS
+restaurar		V;NEG;IMP;2;SG
+restaurar	restaurares	V;SBJV;FUT;2;SG
+restaurar		V;SBJV;PRS;2;PL
+restaurar		V;IND;FUT;1;SG
+restaurar		V;POS;IMP;3;PL
+restaurar	restauraríais	V;COND;2;PL
+restaurar		V;IND;FUT;3;PL
+restaurar		V;SBJV;PST;3;PL
+restaurar		V;IND;PRS;1;SG
+restaurar		V;SBJV;FUT;1;SG
+restaurar		V;POS;IMP;2;PL
+restaurar		V;COND;1;SG
+restaurar		V;IND;PRS;3;SG
+restaurar	restauradas	V.PTCP;PST;FEM;PL
+restaurar		V;SBJV;FUT;2;PL
+restaurar		V;SBJV;FUT;3;SG
+restaurar		V;COND;3;SG
+restaurar		V;IND;PST;2;PL;PFV
+restaurar		V;NEG;IMP;1;PL
+restaurar		V;SBJV;PRS;1;PL
+restaurar		V;SBJV;PST;1;PL
+restaurar		V;POS;IMP;2;SG
+restaurar		V;IND;PST;3;PL;IPFV
+restaurar		V;SBJV;PST;2;SG
+restaurar		V;SBJV;PST;1;PL;LGSPEC1
+restaurar		V;COND;1;PL
+restaurar		V;POS;IMP;3;SG
+restaurar		V;IND;FUT;2;SG
+restaurar		V;IND;PST;1;SG;IPFV
+restaurar	restauró	V;IND;PST;3;SG;PFV
+restaurar		V;SBJV;PRS;3;PL
+restaurar		V;IND;PST;2;SG;PFV
+restaurar		V;IND;PST;3;SG;IPFV
+restaurar		V;SBJV;PST;2;SG;LGSPEC1
+restaurar		V.PTCP;PST;MASC;PL
+restaurar		V;IND;PST;2;SG;IPFV
+restaurar		V;IND;PRS;2;SG
+localizar		V;IND;FUT;1;SG
+localizar		V;IND;PST;1;PL;IPFV
+localizar		V;SBJV;PST;3;PL;LGSPEC1
+localizar		V;NEG;IMP;2;PL
+localizar	no localice	V;NEG;IMP;3;SG
+localizar	localizarías	V;COND;2;SG
+localizar		V;IND;FUT;3;SG
+localizar		V;SBJV;PRS;3;PL
+localizar		V;COND;3;PL
+localizar		V;SBJV;PST;1;SG;LGSPEC1
+localizar		V;SBJV;PST;1;SG
+localizar		V;IND;PRS;1;PL
+localizar		V;NEG;IMP;2;SG
+localizar		V;POS;IMP;3;SG
+localizar		V.PTCP;PST;FEM;SG
+localizar		V;SBJV;PST;3;SG
+localizar		V;NEG;IMP;1;PL
+localizar	localizar	V;NFIN
+localizar		V;IND;PRS;3;PL
+localizar	localizáis	V;IND;PRS;2;PL
+localizar		V;IND;PST;1;SG;PFV
+localizar	localizaréis	V;IND;FUT;2;PL
+localizar		V;SBJV;PRS;2;SG
+localizar		V;SBJV;FUT;2;PL
+localizar		V;POS;IMP;1;PL
+localizar		V;SBJV;FUT;3;SG
+localizar		V;SBJV;FUT;1;PL
+localizar		V;IND;FUT;1;PL
+localizar		V;IND;PST;1;PL;PFV
+localizar		V;NEG;IMP;3;PL
+localizar		V;IND;PST;3;PL;PFV
+localizar	localizado	V.PTCP;PST;MASC;SG
+localizar		V;SBJV;FUT;1;SG
+localizar		V;SBJV;PST;2;PL;LGSPEC1
+localizar		V.CVB;PRS
+localizar		V;SBJV;PST;3;SG;LGSPEC1
+localizar		V;SBJV;FUT;2;SG
+localizar		V;IND;PST;2;PL;PFV
+localizar		V;SBJV;PST;2;SG;LGSPEC1
+localizar		V;POS;IMP;3;PL
+localizar		V;COND;2;PL
+localizar		V;IND;FUT;3;PL
+localizar		V;SBJV;PST;3;PL
+localizar		V;IND;PRS;1;SG
+localizar		V;SBJV;PRS;1;SG
+localizar	localizad	V;POS;IMP;2;PL
+localizar		V;COND;1;SG
+localizar		V;IND;PRS;3;SG
+localizar		V.PTCP;PST;FEM;PL
+localizar		V;SBJV;PRS;2;PL
+localizar		V;SBJV;PRS;3;SG
+localizar		V;COND;3;SG
+localizar	localizaren	V;SBJV;FUT;3;PL
+localizar	localizaste	V;IND;PST;2;SG;PFV
+localizar		V;SBJV;PRS;1;PL
+localizar		V;SBJV;PST;1;PL
+localizar		V;POS;IMP;2;SG
+localizar		V;IND;PST;3;PL;IPFV
+localizar		V;SBJV;PST;2;SG
+localizar		V;SBJV;PST;1;PL;LGSPEC1
+localizar	localizaríamos	V;COND;1;PL
+localizar		V;SBJV;PST;2;PL
+localizar		V;IND;FUT;2;SG
+localizar		V;IND;PST;1;SG;IPFV
+localizar		V;IND;PST;3;SG;PFV
+localizar	localizaba	V;IND;PST;3;SG;IPFV
+localizar		V;IND;PST;2;PL;IPFV
+localizar	localizados	V.PTCP;PST;MASC;PL
+localizar		V;IND;PST;2;SG;IPFV
+localizar	localizas	V;IND;PRS;2;SG
+indagar		V;IND;PST;1;PL;IPFV
+indagar	indagaran	V;SBJV;PST;3;PL;LGSPEC1
+indagar		V;NEG;IMP;2;PL
+indagar		V;NEG;IMP;3;SG
+indagar		V;COND;2;SG
+indagar		V;IND;FUT;3;SG
+indagar		V;SBJV;FUT;3;PL
+indagar		V;COND;3;PL
+indagar		V;SBJV;PST;1;SG;LGSPEC1
+indagar		V;SBJV;PST;1;SG
+indagar		V;IND;PRS;1;PL
+indagar		V;SBJV;PRS;3;SG
+indagar		V;NEG;IMP;2;SG
+indagar		V;IND;PRS;3;PL
+indagar		V;SBJV;PST;1;PL;LGSPEC1
+indagar		V;SBJV;PRS;2;SG
+indagar		V;SBJV;PST;3;SG
+indagar	no indaguemos	V;NEG;IMP;1;PL
+indagar		V;SBJV;PST;2;PL
+indagar	indagáis	V;IND;PRS;2;PL
+indagar		V;SBJV;FUT;1;PL
+indagar		V;IND;FUT;2;PL
+indagar		V;IND;PST;2;PL;IPFV
+indagar		V;IND;PST;1;SG;PFV
+indagar		V;POS;IMP;1;PL
+indagar		V;NFIN
+indagar		V.PTCP;PST;FEM;SG
+indagar		V;IND;FUT;1;PL
+indagar		V;IND;PST;1;PL;PFV
+indagar	no indaguen	V;NEG;IMP;3;PL
+indagar		V;IND;PST;3;PL;PFV
+indagar		V.PTCP;PST;MASC;SG
+indagar		V;SBJV;PRS;1;SG
+indagar	indagarais	V;SBJV;PST;2;PL;LGSPEC1
+indagar		V.CVB;PRS
+indagar	indagara	V;SBJV;PST;3;SG;LGSPEC1
+indagar	indagares	V;SBJV;FUT;2;SG
+indagar	indaguéis	V;SBJV;PRS;2;PL
+indagar		V;IND;FUT;1;SG
+indagar		V;POS;IMP;3;PL
+indagar		V;COND;2;PL
+indagar	indagarán	V;IND;FUT;3;PL
+indagar		V;SBJV;PST;3;PL
+indagar		V;IND;PRS;1;SG
+indagar		V;SBJV;FUT;1;SG
+indagar		V;POS;IMP;2;PL
+indagar		V;COND;1;SG
+indagar		V;IND;PRS;3;SG
+indagar		V.PTCP;PST;FEM;PL
+indagar		V;SBJV;FUT;2;PL
+indagar	indagare	V;SBJV;FUT;3;SG
+indagar		V;COND;3;SG
+indagar		V;IND;PST;2;PL;PFV
+indagar		V;IND;PST;2;SG;PFV
+indagar		V;SBJV;PRS;1;PL
+indagar	indagásemos	V;SBJV;PST;1;PL
+indagar		V;POS;IMP;2;SG
+indagar		V;IND;PST;3;PL;IPFV
+indagar		V;SBJV;PST;2;SG
+indagar		V;IND;PRS;2;SG
+indagar		V;COND;1;PL
+indagar		V;POS;IMP;3;SG
+indagar		V;IND;FUT;2;SG
+indagar		V;IND;PST;1;SG;IPFV
+indagar	indagó	V;IND;PST;3;SG;PFV
+indagar	indaguen	V;SBJV;PRS;3;PL
+indagar		V;IND;PST;3;SG;IPFV
+indagar		V;SBJV;PST;2;SG;LGSPEC1
+indagar		V.PTCP;PST;MASC;PL
+indagar		V;IND;PST;2;SG;IPFV
+deliberar		V;IND;PST;1;PL;IPFV
+deliberar		V;SBJV;PST;3;PL;LGSPEC1
+deliberar		V;NEG;IMP;2;PL
+deliberar	no delibere	V;NEG;IMP;3;SG
+deliberar		V;COND;2;SG
+deliberar	deliberará	V;IND;FUT;3;SG
+deliberar		V;SBJV;FUT;3;PL
+deliberar		V;COND;3;PL
+deliberar		V;SBJV;PST;1;SG;LGSPEC1
+deliberar	deliberase	V;SBJV;PST;1;SG
+deliberar		V;IND;PRS;1;PL
+deliberar		V;SBJV;PRS;3;SG
+deliberar	no deliberes	V;NEG;IMP;2;SG
+deliberar		V;IND;PRS;3;PL
+deliberar		V;SBJV;PST;1;PL;LGSPEC1
+deliberar		V;SBJV;PRS;2;SG
+deliberar		V;SBJV;PST;3;SG
+deliberar		V;NEG;IMP;1;PL
+deliberar		V;SBJV;PST;2;PL
+deliberar	deliberáis	V;IND;PRS;2;PL
+deliberar		V;SBJV;FUT;1;PL
+deliberar		V;IND;FUT;2;PL
+deliberar	deliberabais	V;IND;PST;2;PL;IPFV
+deliberar		V;IND;PST;1;SG;PFV
+deliberar		V;POS;IMP;1;PL
+deliberar		V;NFIN
+deliberar		V.PTCP;PST;FEM;SG
+deliberar		V;IND;FUT;1;PL
+deliberar		V;IND;PST;1;PL;PFV
+deliberar		V;NEG;IMP;3;PL
+deliberar	deliberaron	V;IND;PST;3;PL;PFV
+deliberar		V.PTCP;PST;MASC;SG
+deliberar		V;SBJV;PRS;1;SG
+deliberar	deliberarais	V;SBJV;PST;2;PL;LGSPEC1
+deliberar		V.CVB;PRS
+deliberar		V;SBJV;PST;3;SG;LGSPEC1
+deliberar		V;SBJV;FUT;2;SG
+deliberar		V;SBJV;PRS;2;PL
+deliberar		V;IND;FUT;1;SG
+deliberar		V;POS;IMP;3;PL
+deliberar		V;COND;2;PL
+deliberar		V;IND;FUT;3;PL
+deliberar		V;SBJV;PST;3;PL
+deliberar		V;IND;PRS;1;SG
+deliberar		V;SBJV;FUT;1;SG
+deliberar		V;POS;IMP;2;PL
+deliberar	deliberaría	V;COND;1;SG
+deliberar		V;IND;PRS;3;SG
+deliberar		V.PTCP;PST;FEM;PL
+deliberar		V;SBJV;FUT;2;PL
+deliberar	deliberare	V;SBJV;FUT;3;SG
+deliberar		V;COND;3;SG
+deliberar		V;IND;PST;2;PL;PFV
+deliberar		V;IND;PST;2;SG;PFV
+deliberar		V;SBJV;PRS;1;PL
+deliberar		V;SBJV;PST;1;PL
+deliberar		V;POS;IMP;2;SG
+deliberar		V;IND;PST;3;PL;IPFV
+deliberar	deliberases	V;SBJV;PST;2;SG
+deliberar		V;IND;PRS;2;SG
+deliberar		V;COND;1;PL
+deliberar	delibere	V;POS;IMP;3;SG
+deliberar		V;IND;FUT;2;SG
+deliberar		V;IND;PST;1;SG;IPFV
+deliberar		V;IND;PST;3;SG;PFV
+deliberar		V;SBJV;PRS;3;PL
+deliberar	deliberaba	V;IND;PST;3;SG;IPFV
+deliberar		V;SBJV;PST;2;SG;LGSPEC1
+deliberar		V.PTCP;PST;MASC;PL
+deliberar		V;IND;PST;2;SG;IPFV
+revocar	revocábamos	V;IND;PST;1;PL;IPFV
+revocar		V;SBJV;PST;3;PL;LGSPEC1
+revocar	no revoquéis	V;NEG;IMP;2;PL
+revocar		V;NEG;IMP;3;SG
+revocar	revocarías	V;COND;2;SG
+revocar		V;IND;FUT;3;SG
+revocar		V;SBJV;FUT;3;PL
+revocar		V;COND;3;PL
+revocar		V;SBJV;PST;1;SG;LGSPEC1
+revocar		V;SBJV;PST;1;SG
+revocar		V;IND;PRS;1;PL
+revocar		V;SBJV;PRS;3;SG
+revocar		V;SBJV;PST;3;SG;LGSPEC1
+revocar		V;IND;PRS;3;PL
+revocar		V.PTCP;PST;FEM;SG
+revocar	revoques	V;SBJV;PRS;2;SG
+revocar		V;SBJV;PST;3;SG
+revocar		V;SBJV;PST;2;PL
+revocar	revocáis	V;IND;PRS;2;PL
+revocar		V;SBJV;FUT;1;PL
+revocar		V;IND;FUT;2;PL
+revocar		V;IND;PST;2;PL;IPFV
+revocar		V;IND;PST;1;SG;PFV
+revocar		V;POS;IMP;1;PL
+revocar		V;NFIN
+revocar		V;IND;FUT;1;PL
+revocar		V;IND;PST;1;PL;PFV
+revocar		V;NEG;IMP;3;PL
+revocar		V;IND;PST;3;PL;PFV
+revocar		V.PTCP;PST;MASC;SG
+revocar		V;SBJV;PRS;1;SG
+revocar		V;SBJV;PST;2;PL;LGSPEC1
+revocar		V.CVB;PRS
+revocar	no revoques	V;NEG;IMP;2;SG
+revocar		V;SBJV;FUT;2;SG
+revocar		V;SBJV;PRS;2;PL
+revocar	revocaré	V;IND;FUT;1;SG
+revocar		V;POS;IMP;3;PL
+revocar		V;COND;2;PL
+revocar	revocarán	V;IND;FUT;3;PL
+revocar		V;SBJV;PST;3;PL
+revocar		V;IND;PRS;1;SG
+revocar	revocare	V;SBJV;FUT;1;SG
+revocar		V;POS;IMP;2;PL
+revocar		V;COND;1;SG
+revocar		V;IND;PRS;3;SG
+revocar		V.PTCP;PST;FEM;PL
+revocar		V;SBJV;FUT;2;PL
+revocar		V;SBJV;FUT;3;SG
+revocar		V;COND;3;SG
+revocar		V;IND;PST;2;PL;PFV
+revocar		V;NEG;IMP;1;PL
+revocar		V;SBJV;PRS;1;PL
+revocar	revocásemos	V;SBJV;PST;1;PL
+revocar		V;POS;IMP;2;SG
+revocar		V;IND;PST;3;PL;IPFV
+revocar		V;SBJV;PST;2;SG
+revocar		V;SBJV;PST;1;PL;LGSPEC1
+revocar		V;COND;1;PL
+revocar	revoque	V;POS;IMP;3;SG
+revocar		V;IND;FUT;2;SG
+revocar		V;IND;PST;1;SG;IPFV
+revocar		V;IND;PST;3;SG;PFV
+revocar		V;SBJV;PRS;3;PL
+revocar		V;IND;PST;2;SG;PFV
+revocar	revocaba	V;IND;PST;3;SG;IPFV
+revocar		V;SBJV;PST;2;SG;LGSPEC1
+revocar	revocados	V.PTCP;PST;MASC;PL
+revocar		V;IND;PST;2;SG;IPFV
+revocar		V;IND;PRS;2;SG
+detener		V;IND;PST;1;PL;IPFV
+detener		V;SBJV;PST;3;PL;LGSPEC1
+detener	no detengáis	V;NEG;IMP;2;PL
+detener		V;SBJV;PST;1;SG
+detener		V;NEG;IMP;3;SG
+detener		V;COND;2;SG
+detener		V;IND;FUT;3;SG
+detener		V;SBJV;PRS;3;PL
+detener		V;COND;3;PL
+detener		V;SBJV;PST;1;SG;LGSPEC1
+detener		V;POS;IMP;2;SG
+detener		V;IND;PRS;1;PL
+detener		V;NEG;IMP;2;SG
+detener		V;POS;IMP;3;SG
+detener		V.PTCP;PST;FEM;SG
+detener		V;SBJV;PST;3;SG
+detener		V;NEG;IMP;1;PL
+detener	deteníais	V;IND;PST;2;PL;IPFV
+detener		V;IND;PRS;3;PL
+detener		V;IND;PRS;2;PL
+detener		V;SBJV;PRS;1;PL
+detener	detendréis	V;IND;FUT;2;PL
+detener		V;SBJV;PRS;2;SG
+detener		V;SBJV;FUT;2;PL
+detener		V;SBJV;PST;1;PL;LGSPEC1
+detener		V;SBJV;FUT;3;SG
+detener		V;POS;IMP;1;PL
+detener		V;SBJV;PRS;3;SG
+detener		V;SBJV;FUT;1;PL
+detener	detendremos	V;IND;FUT;1;PL
+detener		V;IND;PST;1;PL;PFV
+detener		V;NEG;IMP;3;PL
+detener		V;IND;PST;3;PL;PFV
+detener		V;IND;PST;2;SG;IPFV
+detener		V;SBJV;FUT;1;SG
+detener	detuvierais	V;SBJV;PST;2;PL;LGSPEC1
+detener		V.CVB;PRS
+detener		V;SBJV;PST;3;SG;LGSPEC1
+detener	detuvieres	V;SBJV;FUT;2;SG
+detener		V;IND;PST;2;PL;PFV
+detener	detuvieras	V;SBJV;PST;2;SG;LGSPEC1
+detener		V;POS;IMP;3;PL
+detener		V;COND;2;PL
+detener		V;IND;FUT;3;PL
+detener		V;SBJV;PST;3;PL
+detener		V;IND;PRS;1;SG
+detener		V;SBJV;PRS;1;SG
+detener		V;POS;IMP;2;PL
+detener		V;COND;1;SG
+detener		V;IND;PRS;3;SG
+detener		V.PTCP;PST;FEM;PL
+detener	detengáis	V;SBJV;PRS;2;PL
+detener	detener	V;NFIN
+detener		V;COND;3;SG
+detener	detuvieren	V;SBJV;FUT;3;PL
+detener	detuviste	V;IND;PST;2;SG;PFV
+detener		V;IND;PST;1;SG;PFV
+detener		V;SBJV;PST;1;PL
+detener		V;IND;PST;3;PL;IPFV
+detener		V;SBJV;PST;2;SG
+detener	detienes	V;IND;PRS;2;SG
+detener	detendríamos	V;COND;1;PL
+detener		V;SBJV;PST;2;PL
+detener		V;IND;FUT;2;SG
+detener		V;IND;PST;1;SG;IPFV
+detener		V;IND;PST;3;SG;PFV
+detener		V;IND;PST;3;SG;IPFV
+detener		V;IND;FUT;1;SG
+detener		V.PTCP;PST;MASC;PL
+detener		V.PTCP;PST;MASC;SG
+reorganizar		V;IND;FUT;1;SG
+reorganizar		V;IND;PST;1;PL;IPFV
+reorganizar		V;SBJV;PST;3;PL;LGSPEC1
+reorganizar		V;NEG;IMP;2;PL
+reorganizar		V;NEG;IMP;3;SG
+reorganizar	reorganizarías	V;COND;2;SG
+reorganizar	reorganizará	V;IND;FUT;3;SG
+reorganizar		V;SBJV;PRS;3;PL
+reorganizar	reorganizarían	V;COND;3;PL
+reorganizar		V;SBJV;PST;1;SG;LGSPEC1
+reorganizar	reorganizase	V;SBJV;PST;1;SG
+reorganizar		V;IND;PRS;1;PL
+reorganizar		V;SBJV;PST;3;SG;LGSPEC1
+reorganizar		V;POS;IMP;3;SG
+reorganizar		V.PTCP;PST;FEM;SG
+reorganizar	reorganizase	V;SBJV;PST;3;SG
+reorganizar		V;NFIN
+reorganizar		V;IND;PRS;3;PL
+reorganizar		V;IND;PRS;2;PL
+reorganizar		V;SBJV;PRS;1;PL
+reorganizar		V;IND;FUT;2;PL
+reorganizar		V;SBJV;PRS;2;SG
+reorganizar		V;SBJV;FUT;2;PL
+reorganizar		V;POS;IMP;1;PL
+reorganizar		V;SBJV;FUT;3;SG
+reorganizar	reorganizáremos	V;SBJV;FUT;1;PL
+reorganizar		V;IND;FUT;1;PL
+reorganizar		V;IND;PST;1;PL;PFV
+reorganizar		V;NEG;IMP;3;PL
+reorganizar		V;IND;PST;3;PL;PFV
+reorganizar	reorganizabas	V;IND;PST;2;SG;IPFV
+reorganizar	reorganizare	V;SBJV;FUT;1;SG
+reorganizar		V;SBJV;PST;2;PL;LGSPEC1
+reorganizar		V.CVB;PRS
+reorganizar		V;NEG;IMP;2;SG
+reorganizar		V;SBJV;FUT;2;SG
+reorganizar		V;IND;PST;2;PL;PFV
+reorganizar		V;SBJV;PST;2;SG;LGSPEC1
+reorganizar	reorganicen	V;POS;IMP;3;PL
+reorganizar	reorganizaríais	V;COND;2;PL
+reorganizar		V;IND;FUT;3;PL
+reorganizar		V;SBJV;PST;3;PL
+reorganizar		V;IND;PRS;1;SG
+reorganizar		V;SBJV;PRS;1;SG
+reorganizar		V;POS;IMP;2;PL
+reorganizar		V;COND;1;SG
+reorganizar		V;IND;PRS;3;SG
+reorganizar	reorganizadas	V.PTCP;PST;FEM;PL
+reorganizar		V;SBJV;PRS;2;PL
+reorganizar	reorganice	V;SBJV;PRS;3;SG
+reorganizar		V;COND;3;SG
+reorganizar		V;SBJV;FUT;3;PL
+reorganizar		V;NEG;IMP;1;PL
+reorganizar		V;IND;PST;1;SG;PFV
+reorganizar	reorganizásemos	V;SBJV;PST;1;PL
+reorganizar		V;POS;IMP;2;SG
+reorganizar		V;IND;PST;3;PL;IPFV
+reorganizar		V;SBJV;PST;2;SG
+reorganizar		V;SBJV;PST;1;PL;LGSPEC1
+reorganizar		V;COND;1;PL
+reorganizar		V;SBJV;PST;2;PL
+reorganizar		V;IND;FUT;2;SG
+reorganizar		V;IND;PST;1;SG;IPFV
+reorganizar		V;IND;PST;3;SG;PFV
+reorganizar		V;IND;PST;2;SG;PFV
+reorganizar		V;IND;PST;3;SG;IPFV
+reorganizar		V;IND;PST;2;PL;IPFV
+reorganizar		V.PTCP;PST;MASC;PL
+reorganizar		V.PTCP;PST;MASC;SG
+reorganizar		V;IND;PRS;2;SG
+glorificar		V;IND;PST;1;PL;IPFV
+glorificar	glorificaran	V;SBJV;PST;3;PL;LGSPEC1
+glorificar		V;NEG;IMP;2;PL
+glorificar	no glorifique	V;NEG;IMP;3;SG
+glorificar		V;COND;2;SG
+glorificar	glorificará	V;IND;FUT;3;SG
+glorificar		V;SBJV;FUT;3;PL
+glorificar		V;COND;3;PL
+glorificar		V;SBJV;PST;1;SG;LGSPEC1
+glorificar		V;SBJV;PST;1;SG
+glorificar		V;IND;PRS;1;PL
+glorificar		V;SBJV;PRS;3;SG
+glorificar		V;NEG;IMP;2;SG
+glorificar		V;IND;PRS;3;PL
+glorificar		V;SBJV;PST;1;PL;LGSPEC1
+glorificar		V;SBJV;PRS;2;SG
+glorificar		V;SBJV;PST;3;SG
+glorificar		V;NEG;IMP;1;PL
+glorificar		V;SBJV;PST;2;PL
+glorificar		V;IND;PRS;2;PL
+glorificar		V;SBJV;FUT;1;PL
+glorificar		V;IND;FUT;2;PL
+glorificar		V;IND;PST;2;PL;IPFV
+glorificar		V;IND;PST;1;SG;PFV
+glorificar		V;POS;IMP;1;PL
+glorificar	glorificar	V;NFIN
+glorificar		V.PTCP;PST;FEM;SG
+glorificar	glorificaremos	V;IND;FUT;1;PL
+glorificar	glorificamos	V;IND;PST;1;PL;PFV
+glorificar		V;NEG;IMP;3;PL
+glorificar		V;IND;PST;3;PL;PFV
+glorificar		V.PTCP;PST;MASC;SG
+glorificar	glorifique	V;SBJV;PRS;1;SG
+glorificar		V;SBJV;PST;2;PL;LGSPEC1
+glorificar		V.CVB;PRS
+glorificar		V;SBJV;PST;3;SG;LGSPEC1
+glorificar		V;SBJV;FUT;2;SG
+glorificar		V;SBJV;PRS;2;PL
+glorificar	glorificaré	V;IND;FUT;1;SG
+glorificar		V;POS;IMP;3;PL
+glorificar		V;COND;2;PL
+glorificar	glorificarán	V;IND;FUT;3;PL
+glorificar		V;SBJV;PST;3;PL
+glorificar		V;IND;PRS;1;SG
+glorificar		V;SBJV;FUT;1;SG
+glorificar		V;POS;IMP;2;PL
+glorificar		V;COND;1;SG
+glorificar		V;IND;PRS;3;SG
+glorificar		V.PTCP;PST;FEM;PL
+glorificar		V;SBJV;FUT;2;PL
+glorificar		V;SBJV;FUT;3;SG
+glorificar		V;COND;3;SG
+glorificar	glorificasteis	V;IND;PST;2;PL;PFV
+glorificar		V;IND;PST;2;SG;PFV
+glorificar		V;SBJV;PRS;1;PL
+glorificar		V;SBJV;PST;1;PL
+glorificar		V;POS;IMP;2;SG
+glorificar		V;IND;PST;3;PL;IPFV
+glorificar		V;SBJV;PST;2;SG
+glorificar		V;IND;PRS;2;SG
+glorificar		V;COND;1;PL
+glorificar		V;POS;IMP;3;SG
+glorificar	glorificarás	V;IND;FUT;2;SG
+glorificar		V;IND;PST;1;SG;IPFV
+glorificar		V;IND;PST;3;SG;PFV
+glorificar		V;SBJV;PRS;3;PL
+glorificar	glorificaba	V;IND;PST;3;SG;IPFV
+glorificar		V;SBJV;PST;2;SG;LGSPEC1
+glorificar	glorificados	V.PTCP;PST;MASC;PL
+glorificar		V;IND;PST;2;SG;IPFV
+sacrificar		V;IND;PST;1;PL;IPFV
+sacrificar	sacrificaran	V;SBJV;PST;3;PL;LGSPEC1
+sacrificar		V;NEG;IMP;2;PL
+sacrificar		V;NEG;IMP;3;SG
+sacrificar		V;COND;2;SG
+sacrificar		V;IND;FUT;3;SG
+sacrificar		V;SBJV;FUT;3;PL
+sacrificar		V;COND;3;PL
+sacrificar		V;SBJV;PST;1;SG;LGSPEC1
+sacrificar		V;SBJV;PST;1;SG
+sacrificar		V;IND;PRS;1;PL
+sacrificar		V;SBJV;PRS;3;SG
+sacrificar		V;SBJV;PST;3;SG;LGSPEC1
+sacrificar		V;IND;PRS;3;PL
+sacrificar	sacrificada	V.PTCP;PST;FEM;SG
+sacrificar		V;SBJV;PRS;2;SG
+sacrificar	sacrificase	V;SBJV;PST;3;SG
+sacrificar		V;SBJV;PST;2;PL
+sacrificar		V;IND;PRS;2;PL
+sacrificar		V;SBJV;FUT;1;PL
+sacrificar		V;IND;FUT;2;PL
+sacrificar	sacrificabais	V;IND;PST;2;PL;IPFV
+sacrificar		V;IND;PST;1;SG;PFV
+sacrificar		V;POS;IMP;1;PL
+sacrificar	sacrificar	V;NFIN
+sacrificar		V;IND;FUT;1;PL
+sacrificar		V;IND;PST;1;PL;PFV
+sacrificar	no sacrifiquen	V;NEG;IMP;3;PL
+sacrificar		V;IND;PST;3;PL;PFV
+sacrificar		V.PTCP;PST;MASC;SG
+sacrificar		V;SBJV;PRS;1;SG
+sacrificar		V;SBJV;PST;2;PL;LGSPEC1
+sacrificar		V.CVB;PRS
+sacrificar		V;NEG;IMP;2;SG
+sacrificar		V;SBJV;FUT;2;SG
+sacrificar		V;SBJV;PRS;2;PL
+sacrificar		V;IND;FUT;1;SG
+sacrificar		V;POS;IMP;3;PL
+sacrificar	sacrificaríais	V;COND;2;PL
+sacrificar		V;IND;FUT;3;PL
+sacrificar		V;SBJV;PST;3;PL
+sacrificar		V;IND;PRS;1;SG
+sacrificar		V;SBJV;FUT;1;SG
+sacrificar		V;POS;IMP;2;PL
+sacrificar		V;COND;1;SG
+sacrificar		V;IND;PRS;3;SG
+sacrificar		V.PTCP;PST;FEM;PL
+sacrificar		V;SBJV;FUT;2;PL
+sacrificar		V;SBJV;FUT;3;SG
+sacrificar		V;COND;3;SG
+sacrificar	sacrificasteis	V;IND;PST;2;PL;PFV
+sacrificar		V;NEG;IMP;1;PL
+sacrificar	sacrifiquemos	V;SBJV;PRS;1;PL
+sacrificar		V;SBJV;PST;1;PL
+sacrificar	sacrifica	V;POS;IMP;2;SG
+sacrificar		V;IND;PST;3;PL;IPFV
+sacrificar		V;SBJV;PST;2;SG
+sacrificar	sacrificáramos	V;SBJV;PST;1;PL;LGSPEC1
+sacrificar		V;COND;1;PL
+sacrificar	sacrifique	V;POS;IMP;3;SG
+sacrificar		V;IND;FUT;2;SG
+sacrificar		V;IND;PST;1;SG;IPFV
+sacrificar		V;IND;PST;3;SG;PFV
+sacrificar		V;SBJV;PRS;3;PL
+sacrificar		V;IND;PST;2;SG;PFV
+sacrificar		V;IND;PST;3;SG;IPFV
+sacrificar		V;SBJV;PST;2;SG;LGSPEC1
+sacrificar		V.PTCP;PST;MASC;PL
+sacrificar		V;IND;PST;2;SG;IPFV
+sacrificar	sacrificas	V;IND;PRS;2;SG
+relanzar		V;IND;FUT;1;SG
+relanzar		V;IND;PST;1;PL;IPFV
+relanzar		V;SBJV;PST;3;PL;LGSPEC1
+relanzar		V;NEG;IMP;2;PL
+relanzar	no relance	V;NEG;IMP;3;SG
+relanzar		V;COND;2;SG
+relanzar		V;IND;FUT;3;SG
+relanzar		V;SBJV;PRS;3;PL
+relanzar	relanzarían	V;COND;3;PL
+relanzar		V;SBJV;PST;1;SG;LGSPEC1
+relanzar		V;SBJV;PST;1;SG
+relanzar		V;IND;PRS;1;PL
+relanzar		V;SBJV;PST;3;SG;LGSPEC1
+relanzar		V;POS;IMP;3;SG
+relanzar		V.PTCP;PST;FEM;SG
+relanzar		V;SBJV;PST;3;SG
+relanzar	relanzar	V;NFIN
+relanzar		V;IND;PRS;3;PL
+relanzar		V;IND;PRS;2;PL
+relanzar	relancemos	V;SBJV;PRS;1;PL
+relanzar		V;IND;FUT;2;PL
+relanzar		V;SBJV;PRS;2;SG
+relanzar	relanzareis	V;SBJV;FUT;2;PL
+relanzar		V;POS;IMP;1;PL
+relanzar		V;SBJV;FUT;3;SG
+relanzar		V;SBJV;FUT;1;PL
+relanzar		V;IND;FUT;1;PL
+relanzar		V;IND;PST;1;PL;PFV
+relanzar	no relancen	V;NEG;IMP;3;PL
+relanzar		V;IND;PST;3;PL;PFV
+relanzar		V;IND;PST;2;SG;IPFV
+relanzar		V;SBJV;FUT;1;SG
+relanzar		V;SBJV;PST;2;PL;LGSPEC1
+relanzar		V.CVB;PRS
+relanzar		V;NEG;IMP;2;SG
+relanzar		V;SBJV;FUT;2;SG
+relanzar		V;IND;PST;2;PL;PFV
+relanzar	relanzaras	V;SBJV;PST;2;SG;LGSPEC1
+relanzar		V;POS;IMP;3;PL
+relanzar		V;COND;2;PL
+relanzar		V;IND;FUT;3;PL
+relanzar	relanzasen	V;SBJV;PST;3;PL
+relanzar		V;IND;PRS;1;SG
+relanzar		V;SBJV;PRS;1;SG
+relanzar		V;POS;IMP;2;PL
+relanzar		V;COND;1;SG
+relanzar	relanza	V;IND;PRS;3;SG
+relanzar		V.PTCP;PST;FEM;PL
+relanzar	relancéis	V;SBJV;PRS;2;PL
+relanzar		V;SBJV;PRS;3;SG
+relanzar		V;COND;3;SG
+relanzar		V;SBJV;FUT;3;PL
+relanzar		V;NEG;IMP;1;PL
+relanzar	relancé	V;IND;PST;1;SG;PFV
+relanzar		V;SBJV;PST;1;PL
+relanzar		V;POS;IMP;2;SG
+relanzar	relanzaban	V;IND;PST;3;PL;IPFV
+relanzar		V;SBJV;PST;2;SG
+relanzar		V;SBJV;PST;1;PL;LGSPEC1
+relanzar		V;COND;1;PL
+relanzar		V;SBJV;PST;2;PL
+relanzar		V;IND;FUT;2;SG
+relanzar		V;IND;PST;1;SG;IPFV
+relanzar		V;IND;PST;3;SG;PFV
+relanzar		V;IND;PST;2;SG;PFV
+relanzar		V;IND;PST;3;SG;IPFV
+relanzar		V;IND;PST;2;PL;IPFV
+relanzar	relanzados	V.PTCP;PST;MASC;PL
+relanzar		V.PTCP;PST;MASC;SG
+relanzar		V;IND;PRS;2;SG
+conmutar		V;IND;PST;1;PL;IPFV
+conmutar		V;SBJV;PST;3;PL;LGSPEC1
+conmutar		V;NEG;IMP;2;PL
+conmutar		V;NEG;IMP;3;SG
+conmutar		V;COND;2;SG
+conmutar	conmutará	V;IND;FUT;3;SG
+conmutar		V;SBJV;FUT;3;PL
+conmutar		V;COND;3;PL
+conmutar		V;SBJV;PST;1;SG;LGSPEC1
+conmutar	conmutase	V;SBJV;PST;1;SG
+conmutar		V;IND;PRS;1;PL
+conmutar		V;SBJV;PRS;3;SG
+conmutar	no conmutes	V;NEG;IMP;2;SG
+conmutar		V;IND;PRS;3;PL
+conmutar		V;SBJV;PST;1;PL;LGSPEC1
+conmutar	conmutes	V;SBJV;PRS;2;SG
+conmutar	conmutase	V;SBJV;PST;3;SG
+conmutar		V;NEG;IMP;1;PL
+conmutar		V;SBJV;PST;2;PL
+conmutar	conmutáis	V;IND;PRS;2;PL
+conmutar		V;SBJV;FUT;1;PL
+conmutar		V;IND;FUT;2;PL
+conmutar		V;IND;PST;2;PL;IPFV
+conmutar		V;IND;PST;1;SG;PFV
+conmutar		V;POS;IMP;1;PL
+conmutar	conmutar	V;NFIN
+conmutar	conmutada	V.PTCP;PST;FEM;SG
+conmutar		V;IND;FUT;1;PL
+conmutar		V;IND;PST;1;PL;PFV
+conmutar	no conmuten	V;NEG;IMP;3;PL
+conmutar		V;IND;PST;3;PL;PFV
+conmutar		V.PTCP;PST;MASC;SG
+conmutar		V;SBJV;PRS;1;SG
+conmutar		V;SBJV;PST;2;PL;LGSPEC1
+conmutar		V.CVB;PRS
+conmutar	conmutara	V;SBJV;PST;3;SG;LGSPEC1
+conmutar		V;SBJV;FUT;2;SG
+conmutar		V;SBJV;PRS;2;PL
+conmutar		V;IND;FUT;1;SG
+conmutar		V;POS;IMP;3;PL
+conmutar		V;COND;2;PL
+conmutar		V;IND;FUT;3;PL
+conmutar		V;SBJV;PST;3;PL
+conmutar		V;IND;PRS;1;SG
+conmutar		V;SBJV;FUT;1;SG
+conmutar		V;POS;IMP;2;PL
+conmutar		V;COND;1;SG
+conmutar		V;IND;PRS;3;SG
+conmutar		V.PTCP;PST;FEM;PL
+conmutar		V;SBJV;FUT;2;PL
+conmutar		V;SBJV;FUT;3;SG
+conmutar		V;COND;3;SG
+conmutar		V;IND;PST;2;PL;PFV
+conmutar		V;IND;PST;2;SG;PFV
+conmutar		V;SBJV;PRS;1;PL
+conmutar		V;SBJV;PST;1;PL
+conmutar		V;POS;IMP;2;SG
+conmutar		V;IND;PST;3;PL;IPFV
+conmutar		V;SBJV;PST;2;SG
+conmutar	conmutas	V;IND;PRS;2;SG
+conmutar		V;COND;1;PL
+conmutar		V;POS;IMP;3;SG
+conmutar		V;IND;FUT;2;SG
+conmutar	conmutaba	V;IND;PST;1;SG;IPFV
+conmutar		V;IND;PST;3;SG;PFV
+conmutar		V;SBJV;PRS;3;PL
+conmutar		V;IND;PST;3;SG;IPFV
+conmutar		V;SBJV;PST;2;SG;LGSPEC1
+conmutar		V.PTCP;PST;MASC;PL
+conmutar	conmutabas	V;IND;PST;2;SG;IPFV
+huir		V;IND;PST;1;PL;IPFV
+huir	huyeran	V;SBJV;PST;3;PL;LGSPEC1
+huir	huyeren	V;SBJV;FUT;3;PL
+huir		V;NEG;IMP;3;SG
+huir	huirías	V;COND;2;SG
+huir		V;IND;FUT;3;SG
+huir		V;SBJV;PRS;3;PL
+huir		V;COND;3;PL
+huir		V;SBJV;PST;1;SG;LGSPEC1
+huir		V;SBJV;PST;1;SG
+huir		V;IND;PRS;1;PL
+huir	no huyas	V;NEG;IMP;2;SG
+huir	huya	V;POS;IMP;3;SG
+huir		V.PTCP;PST;FEM;SG
+huir		V;SBJV;PRS;2;SG
+huir	huyese	V;SBJV;PST;3;SG
+huir		V;NEG;IMP;1;PL
+huir		V;IND;PRS;3;PL
+huir		V;IND;PRS;2;PL
+huir		V;NEG;IMP;2;PL
+huir		V;IND;PST;1;SG;PFV
+huir		V;IND;FUT;2;PL
+huir		V;IND;PST;2;PL;IPFV
+huir		V;SBJV;FUT;2;PL
+huir		V;SBJV;FUT;3;SG
+huir		V;POS;IMP;1;PL
+huir		V;SBJV;PRS;3;SG
+huir		V;SBJV;FUT;1;PL
+huir		V;IND;FUT;1;PL
+huir		V;IND;PST;1;PL;PFV
+huir		V;NEG;IMP;3;PL
+huir		V;IND;PST;3;PL;PFV
+huir		V.PTCP;PST;MASC;SG
+huir		V;SBJV;FUT;1;SG
+huir		V;SBJV;PST;2;PL;LGSPEC1
+huir		V.CVB;PRS
+huir		V;SBJV;PST;3;SG;LGSPEC1
+huir		V;SBJV;FUT;2;SG
+huir		V;SBJV;PST;2;SG;LGSPEC1
+huir		V;POS;IMP;3;PL
+huir		V;COND;2;PL
+huir	huirán	V;IND;FUT;3;PL
+huir		V;SBJV;PST;3;PL
+huir		V;IND;PRS;1;SG
+huir		V;SBJV;PRS;1;SG
+huir	huid	V;POS;IMP;2;PL
+huir		V;COND;1;SG
+huir		V;IND;PRS;3;SG
+huir		V.PTCP;PST;FEM;PL
+huir		V;SBJV;PRS;2;PL
+huir		V;NFIN
+huir	huiría	V;COND;3;SG
+huir		V;IND;PST;2;PL;PFV
+huir		V;IND;PST;2;SG;PFV
+huir	huyamos	V;SBJV;PRS;1;PL
+huir		V;SBJV;PST;1;PL
+huir		V;POS;IMP;2;SG
+huir		V;IND;PST;3;PL;IPFV
+huir		V;SBJV;PST;2;SG
+huir	huyéramos	V;SBJV;PST;1;PL;LGSPEC1
+huir		V;COND;1;PL
+huir		V;SBJV;PST;2;PL
+huir		V;IND;FUT;2;SG
+huir	huía	V;IND;PST;1;SG;IPFV
+huir		V;IND;PST;3;SG;PFV
+huir	huía	V;IND;PST;3;SG;IPFV
+huir		V;IND;FUT;1;SG
+huir		V.PTCP;PST;MASC;PL
+huir		V;IND;PST;2;SG;IPFV
+huir		V;IND;PRS;2;SG
+custodiar		V;IND;PST;1;PL;IPFV
+custodiar		V;SBJV;PST;3;PL;LGSPEC1
+custodiar		V;NEG;IMP;2;PL
+custodiar	no custodie	V;NEG;IMP;3;SG
+custodiar	custodiarías	V;COND;2;SG
+custodiar		V;IND;FUT;3;SG
+custodiar		V;SBJV;FUT;3;PL
+custodiar	custodiarían	V;COND;3;PL
+custodiar		V;SBJV;PST;1;SG;LGSPEC1
+custodiar		V;SBJV;PST;1;SG
+custodiar	custodiamos	V;IND;PRS;1;PL
+custodiar		V;SBJV;PRS;3;SG
+custodiar		V;NEG;IMP;2;SG
+custodiar		V;IND;PRS;3;PL
+custodiar		V;SBJV;PST;1;PL;LGSPEC1
+custodiar		V;SBJV;PRS;2;SG
+custodiar		V;SBJV;PST;3;SG
+custodiar		V;NEG;IMP;1;PL
+custodiar		V;SBJV;PST;2;PL
+custodiar		V;IND;PRS;2;PL
+custodiar		V;SBJV;FUT;1;PL
+custodiar		V;IND;FUT;2;PL
+custodiar		V;IND;PST;2;PL;IPFV
+custodiar		V;IND;PST;1;SG;PFV
+custodiar		V;POS;IMP;1;PL
+custodiar		V;NFIN
+custodiar		V.PTCP;PST;FEM;SG
+custodiar	custodiaremos	V;IND;FUT;1;PL
+custodiar		V;IND;PST;1;PL;PFV
+custodiar		V;NEG;IMP;3;PL
+custodiar		V;IND;PST;3;PL;PFV
+custodiar		V.PTCP;PST;MASC;SG
+custodiar		V;SBJV;PRS;1;SG
+custodiar		V;SBJV;PST;2;PL;LGSPEC1
+custodiar		V.CVB;PRS
+custodiar		V;SBJV;PST;3;SG;LGSPEC1
+custodiar		V;SBJV;FUT;2;SG
+custodiar	custodiéis	V;SBJV;PRS;2;PL
+custodiar		V;IND;FUT;1;SG
+custodiar	custodien	V;POS;IMP;3;PL
+custodiar	custodiaríais	V;COND;2;PL
+custodiar		V;IND;FUT;3;PL
+custodiar	custodiasen	V;SBJV;PST;3;PL
+custodiar	custodio	V;IND;PRS;1;SG
+custodiar		V;SBJV;FUT;1;SG
+custodiar		V;POS;IMP;2;PL
+custodiar		V;COND;1;SG
+custodiar		V;IND;PRS;3;SG
+custodiar		V.PTCP;PST;FEM;PL
+custodiar		V;SBJV;FUT;2;PL
+custodiar		V;SBJV;FUT;3;SG
+custodiar		V;COND;3;SG
+custodiar		V;IND;PST;2;PL;PFV
+custodiar		V;IND;PST;2;SG;PFV
+custodiar		V;SBJV;PRS;1;PL
+custodiar	custodiásemos	V;SBJV;PST;1;PL
+custodiar		V;POS;IMP;2;SG
+custodiar		V;IND;PST;3;PL;IPFV
+custodiar		V;SBJV;PST;2;SG
+custodiar	custodias	V;IND;PRS;2;SG
+custodiar		V;COND;1;PL
+custodiar		V;POS;IMP;3;SG
+custodiar		V;IND;FUT;2;SG
+custodiar		V;IND;PST;1;SG;IPFV
+custodiar		V;IND;PST;3;SG;PFV
+custodiar		V;SBJV;PRS;3;PL
+custodiar		V;IND;PST;3;SG;IPFV
+custodiar	custodiaras	V;SBJV;PST;2;SG;LGSPEC1
+custodiar		V.PTCP;PST;MASC;PL
+custodiar		V;IND;PST;2;SG;IPFV
+retomar		V;IND;PST;1;PL;IPFV
+retomar		V;SBJV;PST;3;PL;LGSPEC1
+retomar		V;NEG;IMP;2;PL
+retomar		V;NEG;IMP;3;SG
+retomar		V;COND;2;SG
+retomar		V;IND;FUT;3;SG
+retomar	retomaren	V;SBJV;FUT;3;PL
+retomar	retomarían	V;COND;3;PL
+retomar		V;SBJV;PST;1;SG;LGSPEC1
+retomar		V;SBJV;PST;1;SG
+retomar		V;IND;PRS;1;PL
+retomar		V;SBJV;PRS;3;SG
+retomar	retomara	V;SBJV;PST;3;SG;LGSPEC1
+retomar		V;IND;PRS;3;PL
+retomar	retomada	V.PTCP;PST;FEM;SG
+retomar		V;SBJV;PRS;2;SG
+retomar		V;SBJV;PST;3;SG
+retomar	retomaseis	V;SBJV;PST;2;PL
+retomar		V;IND;PRS;2;PL
+retomar		V;SBJV;FUT;1;PL
+retomar		V;IND;FUT;2;PL
+retomar		V;IND;PST;2;PL;IPFV
+retomar		V;IND;PST;1;SG;PFV
+retomar		V;POS;IMP;1;PL
+retomar		V;NFIN
+retomar		V;IND;FUT;1;PL
+retomar	retomamos	V;IND;PST;1;PL;PFV
+retomar	no retomen	V;NEG;IMP;3;PL
+retomar		V;IND;PST;3;PL;PFV
+retomar		V.PTCP;PST;MASC;SG
+retomar		V;SBJV;PRS;1;SG
+retomar		V;SBJV;PST;2;PL;LGSPEC1
+retomar		V.CVB;PRS
+retomar		V;NEG;IMP;2;SG
+retomar		V;SBJV;FUT;2;SG
+retomar		V;SBJV;PRS;2;PL
+retomar		V;IND;FUT;1;SG
+retomar		V;POS;IMP;3;PL
+retomar		V;COND;2;PL
+retomar		V;IND;FUT;3;PL
+retomar	retomasen	V;SBJV;PST;3;PL
+retomar		V;IND;PRS;1;SG
+retomar	retomare	V;SBJV;FUT;1;SG
+retomar		V;POS;IMP;2;PL
+retomar		V;COND;1;SG
+retomar		V;IND;PRS;3;SG
+retomar	retomadas	V.PTCP;PST;FEM;PL
+retomar	retomareis	V;SBJV;FUT;2;PL
+retomar		V;SBJV;FUT;3;SG
+retomar		V;COND;3;SG
+retomar		V;IND;PST;2;PL;PFV
+retomar		V;NEG;IMP;1;PL
+retomar		V;SBJV;PRS;1;PL
+retomar		V;SBJV;PST;1;PL
+retomar		V;POS;IMP;2;SG
+retomar	retomaban	V;IND;PST;3;PL;IPFV
+retomar		V;SBJV;PST;2;SG
+retomar		V;SBJV;PST;1;PL;LGSPEC1
+retomar		V;COND;1;PL
+retomar		V;POS;IMP;3;SG
+retomar		V;IND;FUT;2;SG
+retomar		V;IND;PST;1;SG;IPFV
+retomar		V;IND;PST;3;SG;PFV
+retomar	retomen	V;SBJV;PRS;3;PL
+retomar		V;IND;PST;2;SG;PFV
+retomar		V;IND;PST;3;SG;IPFV
+retomar		V;SBJV;PST;2;SG;LGSPEC1
+retomar		V.PTCP;PST;MASC;PL
+retomar		V;IND;PST;2;SG;IPFV
+retomar		V;IND;PRS;2;SG
+atacar		V;IND;PST;1;PL;IPFV
+atacar	atacaran	V;SBJV;PST;3;PL;LGSPEC1
+atacar		V;NEG;IMP;2;PL
+atacar		V;NEG;IMP;3;SG
+atacar		V;COND;2;SG
+atacar		V;IND;FUT;3;SG
+atacar		V;SBJV;FUT;3;PL
+atacar	atacarían	V;COND;3;PL
+atacar	atacara	V;SBJV;PST;1;SG;LGSPEC1
+atacar		V;SBJV;PST;1;SG
+atacar		V;IND;PRS;1;PL
+atacar		V;SBJV;PRS;3;SG
+atacar		V;NEG;IMP;2;SG
+atacar		V;IND;PRS;3;PL
+atacar	atacáramos	V;SBJV;PST;1;PL;LGSPEC1
+atacar	ataques	V;SBJV;PRS;2;SG
+atacar		V;SBJV;PST;3;SG
+atacar		V;NEG;IMP;1;PL
+atacar		V;SBJV;PST;2;PL
+atacar		V;IND;PRS;2;PL
+atacar		V;SBJV;FUT;1;PL
+atacar		V;IND;FUT;2;PL
+atacar		V;IND;PST;2;PL;IPFV
+atacar		V;IND;PST;1;SG;PFV
+atacar	ataquemos	V;POS;IMP;1;PL
+atacar		V;NFIN
+atacar		V.PTCP;PST;FEM;SG
+atacar		V;IND;FUT;1;PL
+atacar		V;IND;PST;1;PL;PFV
+atacar		V;NEG;IMP;3;PL
+atacar		V;IND;PST;3;PL;PFV
+atacar		V.PTCP;PST;MASC;SG
+atacar		V;SBJV;PRS;1;SG
+atacar		V;SBJV;PST;2;PL;LGSPEC1
+atacar		V.CVB;PRS
+atacar		V;SBJV;PST;3;SG;LGSPEC1
+atacar		V;SBJV;FUT;2;SG
+atacar		V;SBJV;PRS;2;PL
+atacar		V;IND;FUT;1;SG
+atacar		V;POS;IMP;3;PL
+atacar		V;COND;2;PL
+atacar		V;IND;FUT;3;PL
+atacar		V;SBJV;PST;3;PL
+atacar	ataco	V;IND;PRS;1;SG
+atacar		V;SBJV;FUT;1;SG
+atacar		V;POS;IMP;2;PL
+atacar		V;COND;1;SG
+atacar		V;IND;PRS;3;SG
+atacar		V.PTCP;PST;FEM;PL
+atacar	atacareis	V;SBJV;FUT;2;PL
+atacar	atacare	V;SBJV;FUT;3;SG
+atacar		V;COND;3;SG
+atacar		V;IND;PST;2;PL;PFV
+atacar		V;IND;PST;2;SG;PFV
+atacar		V;SBJV;PRS;1;PL
+atacar	atacásemos	V;SBJV;PST;1;PL
+atacar	ataca	V;POS;IMP;2;SG
+atacar	atacaban	V;IND;PST;3;PL;IPFV
+atacar		V;SBJV;PST;2;SG
+atacar		V;IND;PRS;2;SG
+atacar		V;COND;1;PL
+atacar	ataque	V;POS;IMP;3;SG
+atacar		V;IND;FUT;2;SG
+atacar		V;IND;PST;1;SG;IPFV
+atacar		V;IND;PST;3;SG;PFV
+atacar		V;SBJV;PRS;3;PL
+atacar		V;IND;PST;3;SG;IPFV
+atacar		V;SBJV;PST;2;SG;LGSPEC1
+atacar		V.PTCP;PST;MASC;PL
+atacar		V;IND;PST;2;SG;IPFV
+despejar	despejábamos	V;IND;PST;1;PL;IPFV
+despejar		V;SBJV;PST;3;PL;LGSPEC1
+despejar		V;NEG;IMP;2;PL
+despejar	no despeje	V;NEG;IMP;3;SG
+despejar		V;COND;2;SG
+despejar		V;IND;FUT;3;SG
+despejar		V;SBJV;FUT;3;PL
+despejar		V;COND;3;PL
+despejar		V;SBJV;PST;1;SG;LGSPEC1
+despejar		V;SBJV;PST;1;SG
+despejar		V;IND;PRS;1;PL
+despejar		V;SBJV;PRS;3;SG
+despejar		V;NEG;IMP;2;SG
+despejar		V;IND;PRS;3;PL
+despejar		V;SBJV;PST;1;PL;LGSPEC1
+despejar		V;SBJV;PRS;2;SG
+despejar		V;SBJV;PST;3;SG
+despejar		V;NEG;IMP;1;PL
+despejar		V;SBJV;PST;2;PL
+despejar		V;IND;PRS;2;PL
+despejar		V;SBJV;FUT;1;PL
+despejar		V;IND;FUT;2;PL
+despejar		V;IND;PST;2;PL;IPFV
+despejar		V;IND;PST;1;SG;PFV
+despejar		V;POS;IMP;1;PL
+despejar		V;NFIN
+despejar		V.PTCP;PST;FEM;SG
+despejar		V;IND;FUT;1;PL
+despejar		V;IND;PST;1;PL;PFV
+despejar		V;NEG;IMP;3;PL
+despejar		V;IND;PST;3;PL;PFV
+despejar		V.PTCP;PST;MASC;SG
+despejar	despeje	V;SBJV;PRS;1;SG
+despejar		V;SBJV;PST;2;PL;LGSPEC1
+despejar		V.CVB;PRS
+despejar	despejara	V;SBJV;PST;3;SG;LGSPEC1
+despejar	despejares	V;SBJV;FUT;2;SG
+despejar		V;SBJV;PRS;2;PL
+despejar	despejaré	V;IND;FUT;1;SG
+despejar		V;POS;IMP;3;PL
+despejar	despejaríais	V;COND;2;PL
+despejar		V;IND;FUT;3;PL
+despejar		V;SBJV;PST;3;PL
+despejar	despejo	V;IND;PRS;1;SG
+despejar		V;SBJV;FUT;1;SG
+despejar		V;POS;IMP;2;PL
+despejar		V;COND;1;SG
+despejar		V;IND;PRS;3;SG
+despejar		V.PTCP;PST;FEM;PL
+despejar		V;SBJV;FUT;2;PL
+despejar		V;SBJV;FUT;3;SG
+despejar	despejaría	V;COND;3;SG
+despejar	despejasteis	V;IND;PST;2;PL;PFV
+despejar		V;IND;PST;2;SG;PFV
+despejar		V;SBJV;PRS;1;PL
+despejar		V;SBJV;PST;1;PL
+despejar	despeja	V;POS;IMP;2;SG
+despejar		V;IND;PST;3;PL;IPFV
+despejar		V;SBJV;PST;2;SG
+despejar	despejas	V;IND;PRS;2;SG
+despejar		V;COND;1;PL
+despejar		V;POS;IMP;3;SG
+despejar		V;IND;FUT;2;SG
+despejar		V;IND;PST;1;SG;IPFV
+despejar		V;IND;PST;3;SG;PFV
+despejar		V;SBJV;PRS;3;PL
+despejar		V;IND;PST;3;SG;IPFV
+despejar		V;SBJV;PST;2;SG;LGSPEC1
+despejar		V.PTCP;PST;MASC;PL
+despejar	despejabas	V;IND;PST;2;SG;IPFV
+fabricar		V;IND;PST;1;PL;IPFV
+fabricar		V;SBJV;PST;3;PL;LGSPEC1
+fabricar		V;NEG;IMP;2;PL
+fabricar		V;NEG;IMP;3;SG
+fabricar		V;COND;2;SG
+fabricar	fabricará	V;IND;FUT;3;SG
+fabricar		V;SBJV;FUT;3;PL
+fabricar		V;COND;3;PL
+fabricar	fabricara	V;SBJV;PST;1;SG;LGSPEC1
+fabricar		V;SBJV;PST;1;SG
+fabricar	fabricamos	V;IND;PRS;1;PL
+fabricar		V;SBJV;PRS;3;SG
+fabricar		V;NEG;IMP;2;SG
+fabricar		V;IND;PRS;3;PL
+fabricar		V;SBJV;PST;1;PL;LGSPEC1
+fabricar		V;SBJV;PRS;2;SG
+fabricar		V;SBJV;PST;3;SG
+fabricar		V;NEG;IMP;1;PL
+fabricar		V;SBJV;PST;2;PL
+fabricar		V;IND;PRS;2;PL
+fabricar		V;SBJV;FUT;1;PL
+fabricar	fabricaréis	V;IND;FUT;2;PL
+fabricar		V;IND;PST;2;PL;IPFV
+fabricar		V;IND;PST;1;SG;PFV
+fabricar		V;POS;IMP;1;PL
+fabricar		V;NFIN
+fabricar		V.PTCP;PST;FEM;SG
+fabricar		V;IND;FUT;1;PL
+fabricar		V;IND;PST;1;PL;PFV
+fabricar		V;NEG;IMP;3;PL
+fabricar	fabricaron	V;IND;PST;3;PL;PFV
+fabricar		V.PTCP;PST;MASC;SG
+fabricar		V;SBJV;PRS;1;SG
+fabricar		V;SBJV;PST;2;PL;LGSPEC1
+fabricar		V.CVB;PRS
+fabricar		V;SBJV;PST;3;SG;LGSPEC1
+fabricar		V;SBJV;FUT;2;SG
+fabricar		V;SBJV;PRS;2;PL
+fabricar		V;IND;FUT;1;SG
+fabricar	fabriquen	V;POS;IMP;3;PL
+fabricar		V;COND;2;PL
+fabricar	fabricarán	V;IND;FUT;3;PL
+fabricar		V;SBJV;PST;3;PL
+fabricar		V;IND;PRS;1;SG
+fabricar	fabricare	V;SBJV;FUT;1;SG
+fabricar		V;POS;IMP;2;PL
+fabricar		V;COND;1;SG
+fabricar	fabrica	V;IND;PRS;3;SG
+fabricar		V.PTCP;PST;FEM;PL
+fabricar	fabricareis	V;SBJV;FUT;2;PL
+fabricar		V;SBJV;FUT;3;SG
+fabricar		V;COND;3;SG
+fabricar		V;IND;PST;2;PL;PFV
+fabricar		V;IND;PST;2;SG;PFV
+fabricar	fabriquemos	V;SBJV;PRS;1;PL
+fabricar		V;SBJV;PST;1;PL
+fabricar		V;POS;IMP;2;SG
+fabricar		V;IND;PST;3;PL;IPFV
+fabricar		V;SBJV;PST;2;SG
+fabricar		V;IND;PRS;2;SG
+fabricar		V;COND;1;PL
+fabricar		V;POS;IMP;3;SG
+fabricar		V;IND;FUT;2;SG
+fabricar		V;IND;PST;1;SG;IPFV
+fabricar		V;IND;PST;3;SG;PFV
+fabricar	fabriquen	V;SBJV;PRS;3;PL
+fabricar		V;IND;PST;3;SG;IPFV
+fabricar	fabricaras	V;SBJV;PST;2;SG;LGSPEC1
+fabricar		V.PTCP;PST;MASC;PL
+fabricar		V;IND;PST;2;SG;IPFV
+respirar		V;IND;PST;1;PL;IPFV
+respirar		V;SBJV;PST;3;PL;LGSPEC1
+respirar		V;NEG;IMP;2;PL
+respirar		V;NEG;IMP;3;SG
+respirar		V;COND;2;SG
+respirar		V;IND;FUT;3;SG
+respirar	respiraren	V;SBJV;FUT;3;PL
+respirar		V;COND;3;PL
+respirar		V;SBJV;PST;1;SG;LGSPEC1
+respirar		V;SBJV;PST;1;SG
+respirar		V;IND;PRS;1;PL
+respirar	respire	V;SBJV;PRS;3;SG
+respirar		V;SBJV;PST;3;SG;LGSPEC1
+respirar		V;IND;PRS;3;PL
+respirar	respirada	V.PTCP;PST;FEM;SG
+respirar		V;SBJV;PRS;2;SG
+respirar	respirase	V;SBJV;PST;3;SG
+respirar		V;SBJV;PST;2;PL
+respirar		V;IND;PRS;2;PL
+respirar		V;SBJV;FUT;1;PL
+respirar		V;IND;FUT;2;PL
+respirar		V;IND;PST;2;PL;IPFV
+respirar		V;IND;PST;1;SG;PFV
+respirar		V;POS;IMP;1;PL
+respirar		V;NFIN
+respirar	respiraremos	V;IND;FUT;1;PL
+respirar		V;IND;PST;1;PL;PFV
+respirar		V;NEG;IMP;3;PL
+respirar		V;IND;PST;3;PL;PFV
+respirar		V.PTCP;PST;MASC;SG
+respirar		V;SBJV;PRS;1;SG
+respirar		V;SBJV;PST;2;PL;LGSPEC1
+respirar		V.CVB;PRS
+respirar		V;NEG;IMP;2;SG
+respirar		V;SBJV;FUT;2;SG
+respirar		V;SBJV;PRS;2;PL
+respirar	respiraré	V;IND;FUT;1;SG
+respirar		V;POS;IMP;3;PL
+respirar		V;COND;2;PL
+respirar		V;IND;FUT;3;PL
+respirar		V;SBJV;PST;3;PL
+respirar	respiro	V;IND;PRS;1;SG
+respirar	respirare	V;SBJV;FUT;1;SG
+respirar		V;POS;IMP;2;PL
+respirar		V;COND;1;SG
+respirar		V;IND;PRS;3;SG
+respirar		V.PTCP;PST;FEM;PL
+respirar		V;SBJV;FUT;2;PL
+respirar		V;SBJV;FUT;3;SG
+respirar		V;COND;3;SG
+respirar		V;IND;PST;2;PL;PFV
+respirar		V;NEG;IMP;1;PL
+respirar		V;SBJV;PRS;1;PL
+respirar		V;SBJV;PST;1;PL
+respirar		V;POS;IMP;2;SG
+respirar		V;IND;PST;3;PL;IPFV
+respirar	respirases	V;SBJV;PST;2;SG
+respirar		V;SBJV;PST;1;PL;LGSPEC1
+respirar		V;COND;1;PL
+respirar		V;POS;IMP;3;SG
+respirar	respirarás	V;IND;FUT;2;SG
+respirar		V;IND;PST;1;SG;IPFV
+respirar		V;IND;PST;3;SG;PFV
+respirar	respiren	V;SBJV;PRS;3;PL
+respirar		V;IND;PST;2;SG;PFV
+respirar		V;IND;PST;3;SG;IPFV
+respirar		V;SBJV;PST;2;SG;LGSPEC1
+respirar	respirados	V.PTCP;PST;MASC;PL
+respirar	respirabas	V;IND;PST;2;SG;IPFV
+respirar		V;IND;PRS;2;SG
+debilitar		V;IND;PST;1;PL;IPFV
+debilitar		V;SBJV;PST;3;PL;LGSPEC1
+debilitar	no debilitéis	V;NEG;IMP;2;PL
+debilitar		V;NEG;IMP;3;SG
+debilitar		V;COND;2;SG
+debilitar		V;IND;FUT;3;SG
+debilitar		V;SBJV;FUT;3;PL
+debilitar		V;COND;3;PL
+debilitar		V;SBJV;PST;1;SG;LGSPEC1
+debilitar		V;SBJV;PST;1;SG
+debilitar		V;IND;PRS;1;PL
+debilitar		V;SBJV;PRS;3;SG
+debilitar		V;NEG;IMP;2;SG
+debilitar	debilitan	V;IND;PRS;3;PL
+debilitar	debilitáramos	V;SBJV;PST;1;PL;LGSPEC1
+debilitar		V;SBJV;PRS;2;SG
+debilitar		V;SBJV;PST;3;SG
+debilitar		V;NEG;IMP;1;PL
+debilitar		V;SBJV;PST;2;PL
+debilitar	debilitáis	V;IND;PRS;2;PL
+debilitar		V;SBJV;FUT;1;PL
+debilitar		V;IND;FUT;2;PL
+debilitar	debilitabais	V;IND;PST;2;PL;IPFV
+debilitar	debilité	V;IND;PST;1;SG;PFV
+debilitar		V;POS;IMP;1;PL
+debilitar		V;NFIN
+debilitar		V.PTCP;PST;FEM;SG
+debilitar	debilitaremos	V;IND;FUT;1;PL
+debilitar		V;IND;PST;1;PL;PFV
+debilitar	no debiliten	V;NEG;IMP;3;PL
+debilitar		V;IND;PST;3;PL;PFV
+debilitar		V.PTCP;PST;MASC;SG
+debilitar		V;SBJV;PRS;1;SG
+debilitar		V;SBJV;PST;2;PL;LGSPEC1
+debilitar		V.CVB;PRS
+debilitar		V;SBJV;PST;3;SG;LGSPEC1
+debilitar		V;SBJV;FUT;2;SG
+debilitar		V;SBJV;PRS;2;PL
+debilitar		V;IND;FUT;1;SG
+debilitar		V;POS;IMP;3;PL
+debilitar		V;COND;2;PL
+debilitar		V;IND;FUT;3;PL
+debilitar		V;SBJV;PST;3;PL
+debilitar		V;IND;PRS;1;SG
+debilitar		V;SBJV;FUT;1;SG
+debilitar		V;POS;IMP;2;PL
+debilitar		V;COND;1;SG
+debilitar		V;IND;PRS;3;SG
+debilitar	debilitadas	V.PTCP;PST;FEM;PL
+debilitar		V;SBJV;FUT;2;PL
+debilitar	debilitare	V;SBJV;FUT;3;SG
+debilitar		V;COND;3;SG
+debilitar		V;IND;PST;2;PL;PFV
+debilitar		V;IND;PST;2;SG;PFV
+debilitar	debilitemos	V;SBJV;PRS;1;PL
+debilitar		V;SBJV;PST;1;PL
+debilitar	debilita	V;POS;IMP;2;SG
+debilitar		V;IND;PST;3;PL;IPFV
+debilitar		V;SBJV;PST;2;SG
+debilitar		V;IND;PRS;2;SG
+debilitar		V;COND;1;PL
+debilitar	debilite	V;POS;IMP;3;SG
+debilitar		V;IND;FUT;2;SG
+debilitar		V;IND;PST;1;SG;IPFV
+debilitar		V;IND;PST;3;SG;PFV
+debilitar		V;SBJV;PRS;3;PL
+debilitar		V;IND;PST;3;SG;IPFV
+debilitar		V;SBJV;PST;2;SG;LGSPEC1
+debilitar		V.PTCP;PST;MASC;PL
+debilitar		V;IND;PST;2;SG;IPFV
+discutir		V;IND;FUT;1;SG
+discutir	discutíamos	V;IND;PST;1;PL;IPFV
+discutir		V;SBJV;PST;3;PL;LGSPEC1
+discutir	no discutáis	V;NEG;IMP;2;PL
+discutir	discutiese	V;SBJV;PST;1;SG
+discutir		V;IND;FUT;2;SG
+discutir		V;NEG;IMP;3;SG
+discutir		V;COND;2;SG
+discutir		V;IND;FUT;3;SG
+discutir		V;SBJV;PRS;3;PL
+discutir		V;COND;3;PL
+discutir		V;SBJV;PST;1;SG;LGSPEC1
+discutir		V;POS;IMP;2;SG
+discutir		V;IND;PRS;1;PL
+discutir		V;NEG;IMP;2;SG
+discutir		V;POS;IMP;3;SG
+discutir	discutida	V.PTCP;PST;FEM;SG
+discutir	discutiese	V;SBJV;PST;3;SG
+discutir		V;NEG;IMP;1;PL
+discutir		V;NFIN
+discutir		V;IND;PRS;3;PL
+discutir		V;IND;PRS;2;PL
+discutir		V;SBJV;PRS;1;PL
+discutir		V;IND;FUT;2;PL
+discutir		V;SBJV;PRS;2;SG
+discutir		V;IND;PST;1;SG;PFV
+discutir	discutiéramos	V;SBJV;PST;1;PL;LGSPEC1
+discutir		V;POS;IMP;1;PL
+discutir		V;SBJV;FUT;3;SG
+discutir		V;IND;FUT;1;PL
+discutir		V;IND;PST;1;PL;PFV
+discutir		V;NEG;IMP;3;PL
+discutir		V;IND;PST;3;PL;PFV
+discutir	discutías	V;IND;PST;2;SG;IPFV
+discutir		V;SBJV;FUT;1;SG
+discutir		V;SBJV;PST;2;PL;LGSPEC1
+discutir		V.CVB;PRS
+discutir	discutiera	V;SBJV;PST;3;SG;LGSPEC1
+discutir		V;SBJV;FUT;2;SG
+discutir		V;IND;PST;2;PL;PFV
+discutir		V;SBJV;PST;2;SG;LGSPEC1
+discutir		V;POS;IMP;3;PL
+discutir		V;COND;2;PL
+discutir		V;IND;FUT;3;PL
+discutir		V;SBJV;PST;3;PL
+discutir		V;IND;PRS;1;SG
+discutir		V;SBJV;PRS;1;SG
+discutir		V;POS;IMP;2;PL
+discutir	discutiría	V;COND;1;SG
+discutir		V;IND;PRS;3;SG
+discutir		V.PTCP;PST;FEM;PL
+discutir	discutáis	V;SBJV;PRS;2;PL
+discutir		V;SBJV;PRS;3;SG
+discutir		V;COND;3;SG
+discutir		V;SBJV;FUT;3;PL
+discutir		V;IND;PST;2;SG;PFV
+discutir	discutiéremos	V;SBJV;FUT;1;PL
+discutir		V;SBJV;PST;1;PL
+discutir	discutían	V;IND;PST;3;PL;IPFV
+discutir		V;SBJV;PST;2;SG
+discutir		V;IND;PRS;2;SG
+discutir		V;COND;1;PL
+discutir		V;SBJV;PST;2;PL
+discutir		V;SBJV;FUT;2;PL
+discutir		V;IND;PST;1;SG;IPFV
+discutir		V;IND;PST;3;SG;PFV
+discutir		V;IND;PST;3;SG;IPFV
+discutir	discutíais	V;IND;PST;2;PL;IPFV
+discutir		V.PTCP;PST;MASC;PL
+discutir		V.PTCP;PST;MASC;SG
+mejorar		V;IND;PST;1;PL;IPFV
+mejorar	mejoraran	V;SBJV;PST;3;PL;LGSPEC1
+mejorar		V;NEG;IMP;2;PL
+mejorar		V;NEG;IMP;3;SG
+mejorar		V;COND;2;SG
+mejorar		V;IND;FUT;3;SG
+mejorar		V;SBJV;FUT;3;PL
+mejorar		V;COND;3;PL
+mejorar		V;SBJV;PST;1;SG;LGSPEC1
+mejorar		V;SBJV;PST;1;SG
+mejorar		V;IND;PRS;1;PL
+mejorar		V;SBJV;PRS;3;SG
+mejorar		V;NEG;IMP;2;SG
+mejorar		V;IND;PRS;3;PL
+mejorar		V;SBJV;PST;1;PL;LGSPEC1
+mejorar		V;SBJV;PRS;2;SG
+mejorar	mejorase	V;SBJV;PST;3;SG
+mejorar		V;NEG;IMP;1;PL
+mejorar		V;SBJV;PST;2;PL
+mejorar		V;IND;PRS;2;PL
+mejorar		V;SBJV;FUT;1;PL
+mejorar		V;IND;FUT;2;PL
+mejorar		V;IND;PST;2;PL;IPFV
+mejorar		V;IND;PST;1;SG;PFV
+mejorar		V;POS;IMP;1;PL
+mejorar		V;NFIN
+mejorar		V.PTCP;PST;FEM;SG
+mejorar		V;IND;FUT;1;PL
+mejorar		V;IND;PST;1;PL;PFV
+mejorar		V;NEG;IMP;3;PL
+mejorar		V;IND;PST;3;PL;PFV
+mejorar		V.PTCP;PST;MASC;SG
+mejorar	mejore	V;SBJV;PRS;1;SG
+mejorar		V;SBJV;PST;2;PL;LGSPEC1
+mejorar		V.CVB;PRS
+mejorar		V;SBJV;PST;3;SG;LGSPEC1
+mejorar	mejorares	V;SBJV;FUT;2;SG
+mejorar		V;SBJV;PRS;2;PL
+mejorar		V;IND;FUT;1;SG
+mejorar		V;POS;IMP;3;PL
+mejorar		V;COND;2;PL
+mejorar		V;IND;FUT;3;PL
+mejorar		V;SBJV;PST;3;PL
+mejorar	mejoro	V;IND;PRS;1;SG
+mejorar		V;SBJV;FUT;1;SG
+mejorar		V;POS;IMP;2;PL
+mejorar	mejoraría	V;COND;1;SG
+mejorar	mejora	V;IND;PRS;3;SG
+mejorar	mejoradas	V.PTCP;PST;FEM;PL
+mejorar		V;SBJV;FUT;2;PL
+mejorar		V;SBJV;FUT;3;SG
+mejorar	mejoraría	V;COND;3;SG
+mejorar		V;IND;PST;2;PL;PFV
+mejorar		V;IND;PST;2;SG;PFV
+mejorar		V;SBJV;PRS;1;PL
+mejorar		V;SBJV;PST;1;PL
+mejorar	mejora	V;POS;IMP;2;SG
+mejorar	mejoraban	V;IND;PST;3;PL;IPFV
+mejorar		V;SBJV;PST;2;SG
+mejorar		V;IND;PRS;2;SG
+mejorar	mejoraríamos	V;COND;1;PL
+mejorar		V;POS;IMP;3;SG
+mejorar		V;IND;FUT;2;SG
+mejorar		V;IND;PST;1;SG;IPFV
+mejorar		V;IND;PST;3;SG;PFV
+mejorar		V;SBJV;PRS;3;PL
+mejorar		V;IND;PST;3;SG;IPFV
+mejorar		V;SBJV;PST;2;SG;LGSPEC1
+mejorar		V.PTCP;PST;MASC;PL
+mejorar	mejorabas	V;IND;PST;2;SG;IPFV
+expedir		V;IND;PST;1;PL;IPFV
+expedir		V;SBJV;PST;3;PL;LGSPEC1
+expedir		V;SBJV;FUT;3;PL
+expedir	expidiese	V;SBJV;PST;1;SG
+expedir		V;NEG;IMP;3;SG
+expedir		V;COND;2;SG
+expedir		V;IND;FUT;3;SG
+expedir		V;SBJV;PRS;3;PL
+expedir	expedirían	V;COND;3;PL
+expedir		V;SBJV;PST;1;SG;LGSPEC1
+expedir	expide	V;POS;IMP;2;SG
+expedir		V;IND;PRS;1;PL
+expedir		V;NEG;IMP;2;SG
+expedir	expida	V;POS;IMP;3;SG
+expedir	expedida	V.PTCP;PST;FEM;SG
+expedir	expidas	V;SBJV;PRS;2;SG
+expedir		V;SBJV;PST;3;SG
+expedir		V;NEG;IMP;1;PL
+expedir	expiden	V;IND;PRS;3;PL
+expedir		V;IND;PRS;2;PL
+expedir	no expidáis	V;NEG;IMP;2;PL
+expedir		V;IND;PST;1;SG;PFV
+expedir		V;IND;FUT;2;PL
+expedir		V;IND;PST;2;PL;IPFV
+expedir		V;SBJV;FUT;2;PL
+expedir		V;SBJV;PST;1;PL;LGSPEC1
+expedir		V;SBJV;FUT;3;SG
+expedir		V;POS;IMP;1;PL
+expedir	expida	V;SBJV;PRS;3;SG
+expedir		V;SBJV;FUT;1;PL
+expedir		V;IND;FUT;1;PL
+expedir		V;IND;PST;1;PL;PFV
+expedir		V;NEG;IMP;3;PL
+expedir		V;IND;PST;3;PL;PFV
+expedir		V.PTCP;PST;MASC;SG
+expedir		V;SBJV;FUT;1;SG
+expedir		V;SBJV;PST;2;PL;LGSPEC1
+expedir		V.CVB;PRS
+expedir		V;SBJV;PST;3;SG;LGSPEC1
+expedir		V;SBJV;FUT;2;SG
+expedir		V;SBJV;PST;2;SG;LGSPEC1
+expedir		V;POS;IMP;3;PL
+expedir		V;COND;2;PL
+expedir		V;IND;FUT;3;PL
+expedir	expidiesen	V;SBJV;PST;3;PL
+expedir		V;IND;PRS;1;SG
+expedir		V;SBJV;PRS;1;SG
+expedir		V;POS;IMP;2;PL
+expedir		V;COND;1;SG
+expedir		V;IND;PRS;3;SG
+expedir		V.PTCP;PST;FEM;PL
+expedir	expidáis	V;SBJV;PRS;2;PL
+expedir		V;NFIN
+expedir		V;COND;3;SG
+expedir	expedisteis	V;IND;PST;2;PL;PFV
+expedir		V;IND;PST;2;SG;PFV
+expedir		V;SBJV;PRS;1;PL
+expedir		V;SBJV;PST;1;PL
+expedir	expedían	V;IND;PST;3;PL;IPFV
+expedir		V;SBJV;PST;2;SG
+expedir		V;IND;PRS;2;SG
+expedir		V;COND;1;PL
+expedir		V;SBJV;PST;2;PL
+expedir		V;IND;FUT;2;SG
+expedir		V;IND;PST;1;SG;IPFV
+expedir		V;IND;PST;3;SG;PFV
+expedir		V;IND;PST;3;SG;IPFV
+expedir		V;IND;FUT;1;SG
+expedir		V.PTCP;PST;MASC;PL
+expedir		V;IND;PST;2;SG;IPFV
+infligir		V;IND;PST;1;PL;IPFV
+infligir		V;POS;IMP;2;PL
+infligir		V;NEG;IMP;2;PL
+infligir		V;SBJV;PST;1;SG
+infligir		V;NEG;IMP;3;SG
+infligir		V;COND;2;SG
+infligir		V;IND;FUT;3;SG
+infligir		V;SBJV;PRS;1;PL
+infligir		V;SBJV;FUT;3;PL
+infligir		V;COND;3;PL
+infligir		V;SBJV;PST;1;SG;LGSPEC1
+infligir		V;POS;IMP;2;SG
+infligir		V;IND;PRS;1;PL
+infligir		V;SBJV;PRS;3;SG
+infligir	no inflijas	V;NEG;IMP;2;SG
+infligir	infligen	V;IND;PRS;3;PL
+infligir	infligiéramos	V;SBJV;PST;1;PL;LGSPEC1
+infligir		V;SBJV;PRS;2;SG
+infligir		V;SBJV;PST;3;SG
+infligir		V;NEG;IMP;1;PL
+infligir	infligieseis	V;SBJV;PST;2;PL
+infligir		V;IND;PRS;2;PL
+infligir		V;SBJV;FUT;1;PL
+infligir		V;IND;FUT;2;PL
+infligir		V;IND;PST;2;PL;IPFV
+infligir		V;POS;IMP;1;PL
+infligir		V;NFIN
+infligir		V.PTCP;PST;FEM;SG
+infligir		V;IND;FUT;1;PL
+infligir		V;IND;PST;1;PL;PFV
+infligir		V;NEG;IMP;3;PL
+infligir		V;IND;PST;3;PL;PFV
+infligir		V.PTCP;PST;MASC;SG
+infligir		V;SBJV;PRS;1;SG
+infligir		V;SBJV;PST;2;PL;LGSPEC1
+infligir		V.CVB;PRS
+infligir	infligiera	V;SBJV;PST;3;SG;LGSPEC1
+infligir		V;SBJV;FUT;2;SG
+infligir	inflijáis	V;SBJV;PRS;2;PL
+infligir		V;IND;FUT;1;SG
+infligir		V;POS;IMP;3;PL
+infligir	infligiríais	V;COND;2;PL
+infligir		V;IND;FUT;3;PL
+infligir		V;SBJV;PST;3;PL
+infligir	inflijo	V;IND;PRS;1;SG
+infligir		V;SBJV;FUT;1;SG
+infligir		V;SBJV;PST;3;PL;LGSPEC1
+infligir		V;COND;1;SG
+infligir		V;IND;PRS;3;SG
+infligir		V.PTCP;PST;FEM;PL
+infligir		V;SBJV;FUT;2;PL
+infligir		V;SBJV;FUT;3;SG
+infligir		V;COND;3;SG
+infligir		V;IND;PST;2;PL;PFV
+infligir	infligiste	V;IND;PST;2;SG;PFV
+infligir		V;IND;PST;1;SG;PFV
+infligir	infligiésemos	V;SBJV;PST;1;PL
+infligir		V;IND;PST;3;PL;IPFV
+infligir		V;SBJV;PST;2;SG
+infligir		V;IND;PRS;2;SG
+infligir	infligiríamos	V;COND;1;PL
+infligir	inflija	V;POS;IMP;3;SG
+infligir		V;IND;FUT;2;SG
+infligir		V;IND;PST;1;SG;IPFV
+infligir	infligió	V;IND;PST;3;SG;PFV
+infligir		V;SBJV;PRS;3;PL
+infligir		V;IND;PST;3;SG;IPFV
+infligir		V;SBJV;PST;2;SG;LGSPEC1
+infligir		V.PTCP;PST;MASC;PL
+infligir		V;IND;PST;2;SG;IPFV
+resurgir		V;IND;PST;1;PL;IPFV
+resurgir		V;SBJV;PST;3;PL;LGSPEC1
+resurgir		V;NEG;IMP;2;PL
+resurgir		V;SBJV;PST;1;SG
+resurgir	no resurja	V;NEG;IMP;3;SG
+resurgir		V;COND;2;SG
+resurgir		V;IND;FUT;3;SG
+resurgir		V;SBJV;PRS;1;PL
+resurgir		V;SBJV;FUT;3;PL
+resurgir		V;COND;3;PL
+resurgir		V;SBJV;PST;1;SG;LGSPEC1
+resurgir	resurge	V;POS;IMP;2;SG
+resurgir		V;IND;PRS;1;PL
+resurgir	resurja	V;SBJV;PRS;3;SG
+resurgir		V;SBJV;PST;3;SG;LGSPEC1
+resurgir		V;IND;PRS;3;PL
+resurgir		V.PTCP;PST;FEM;SG
+resurgir		V;SBJV;PRS;2;SG
+resurgir	resurgiese	V;SBJV;PST;3;SG
+resurgir	resurgieseis	V;SBJV;PST;2;PL
+resurgir		V;IND;PRS;2;PL
+resurgir		V;SBJV;FUT;1;PL
+resurgir		V;IND;FUT;2;PL
+resurgir		V;IND;PST;2;PL;IPFV
+resurgir		V;SBJV;PST;1;PL;LGSPEC1
+resurgir	resurjamos	V;POS;IMP;1;PL
+resurgir		V;NFIN
+resurgir		V;IND;FUT;1;PL
+resurgir		V;IND;PST;1;PL;PFV
+resurgir		V;NEG;IMP;3;PL
+resurgir		V;IND;PST;3;PL;PFV
+resurgir		V.PTCP;PST;MASC;SG
+resurgir		V;SBJV;PRS;1;SG
+resurgir		V;SBJV;PST;2;PL;LGSPEC1
+resurgir		V.CVB;PRS
+resurgir		V;NEG;IMP;2;SG
+resurgir		V;SBJV;FUT;2;SG
+resurgir		V;SBJV;PRS;2;PL
+resurgir		V;IND;FUT;1;SG
+resurgir		V;POS;IMP;3;PL
+resurgir		V;COND;2;PL
+resurgir		V;IND;FUT;3;PL
+resurgir	resurgiesen	V;SBJV;PST;3;PL
+resurgir	resurjo	V;IND;PRS;1;SG
+resurgir	resurgiere	V;SBJV;FUT;1;SG
+resurgir		V;POS;IMP;2;PL
+resurgir		V;COND;1;SG
+resurgir		V;IND;PRS;3;SG
+resurgir		V.PTCP;PST;FEM;PL
+resurgir		V;SBJV;FUT;2;PL
+resurgir		V;SBJV;FUT;3;SG
+resurgir		V;COND;3;SG
+resurgir	resurgisteis	V;IND;PST;2;PL;PFV
+resurgir		V;NEG;IMP;1;PL
+resurgir		V;IND;PST;1;SG;PFV
+resurgir		V;SBJV;PST;1;PL
+resurgir	resurgían	V;IND;PST;3;PL;IPFV
+resurgir		V;SBJV;PST;2;SG
+resurgir		V;IND;PRS;2;SG
+resurgir		V;COND;1;PL
+resurgir		V;POS;IMP;3;SG
+resurgir		V;IND;FUT;2;SG
+resurgir	resurgía	V;IND;PST;1;SG;IPFV
+resurgir		V;IND;PST;3;SG;PFV
+resurgir		V;SBJV;PRS;3;PL
+resurgir		V;IND;PST;2;SG;PFV
+resurgir		V;IND;PST;3;SG;IPFV
+resurgir		V;SBJV;PST;2;SG;LGSPEC1
+resurgir		V.PTCP;PST;MASC;PL
+resurgir	resurgías	V;IND;PST;2;SG;IPFV
+sobrevivir		V;IND;FUT;1;SG
+sobrevivir		V;IND;PST;1;PL;IPFV
+sobrevivir		V;SBJV;PST;3;PL;LGSPEC1
+sobrevivir		V;NEG;IMP;2;PL
+sobrevivir	sobreviviese	V;SBJV;PST;1;SG
+sobrevivir		V;IND;FUT;2;SG
+sobrevivir		V;NEG;IMP;3;SG
+sobrevivir		V;COND;2;SG
+sobrevivir		V;IND;FUT;3;SG
+sobrevivir		V;SBJV;PRS;3;PL
+sobrevivir		V;COND;3;PL
+sobrevivir		V;SBJV;PST;1;SG;LGSPEC1
+sobrevivir		V;POS;IMP;2;SG
+sobrevivir		V;IND;PRS;1;PL
+sobrevivir	sobreviviera	V;SBJV;PST;3;SG;LGSPEC1
+sobrevivir		V;POS;IMP;3;SG
+sobrevivir	sobrevivida	V.PTCP;PST;FEM;SG
+sobrevivir		V;SBJV;PST;3;SG
+sobrevivir		V;NFIN
+sobrevivir	sobreviven	V;IND;PRS;3;PL
+sobrevivir		V;IND;PRS;2;PL
+sobrevivir		V;SBJV;PRS;1;PL
+sobrevivir		V;IND;FUT;2;PL
+sobrevivir		V;SBJV;PRS;2;SG
+sobrevivir		V;IND;PST;1;SG;PFV
+sobrevivir		V;SBJV;PST;1;PL;LGSPEC1
+sobrevivir		V;POS;IMP;1;PL
+sobrevivir		V;SBJV;FUT;3;SG
+sobrevivir		V;IND;FUT;1;PL
+sobrevivir		V;IND;PST;1;PL;PFV
+sobrevivir		V;NEG;IMP;3;PL
+sobrevivir		V;IND;PST;3;PL;PFV
+sobrevivir		V;IND;PST;2;SG;IPFV
+sobrevivir		V;SBJV;FUT;1;SG
+sobrevivir		V;SBJV;PST;2;PL;LGSPEC1
+sobrevivir	sobreviviendo	V.CVB;PRS
+sobrevivir		V;NEG;IMP;2;SG
+sobrevivir		V;SBJV;FUT;2;SG
+sobrevivir		V;IND;PST;2;PL;PFV
+sobrevivir		V;SBJV;PST;2;SG;LGSPEC1
+sobrevivir		V;POS;IMP;3;PL
+sobrevivir		V;COND;2;PL
+sobrevivir		V;IND;FUT;3;PL
+sobrevivir		V;SBJV;PST;3;PL
+sobrevivir	sobrevivo	V;IND;PRS;1;SG
+sobrevivir		V;SBJV;PRS;1;SG
+sobrevivir		V;POS;IMP;2;PL
+sobrevivir		V;COND;1;SG
+sobrevivir	sobrevive	V;IND;PRS;3;SG
+sobrevivir		V.PTCP;PST;FEM;PL
+sobrevivir		V;SBJV;PRS;2;PL
+sobrevivir	sobreviva	V;SBJV;PRS;3;SG
+sobrevivir		V;COND;3;SG
+sobrevivir		V;SBJV;FUT;3;PL
+sobrevivir	no sobrevivamos	V;NEG;IMP;1;PL
+sobrevivir		V;SBJV;FUT;1;PL
+sobrevivir		V;SBJV;PST;1;PL
+sobrevivir	sobrevivían	V;IND;PST;3;PL;IPFV
+sobrevivir		V;SBJV;PST;2;SG
+sobrevivir		V;IND;PRS;2;SG
+sobrevivir		V;COND;1;PL
+sobrevivir	sobrevivieseis	V;SBJV;PST;2;PL
+sobrevivir		V;SBJV;FUT;2;PL
+sobrevivir		V;IND;PST;1;SG;IPFV
+sobrevivir		V;IND;PST;3;SG;PFV
+sobrevivir		V;IND;PST;2;SG;PFV
+sobrevivir	sobrevivía	V;IND;PST;3;SG;IPFV
+sobrevivir		V;IND;PST;2;PL;IPFV
+sobrevivir	sobrevividos	V.PTCP;PST;MASC;PL
+sobrevivir		V.PTCP;PST;MASC;SG
+honrar		V;IND;PST;1;PL;IPFV
+honrar		V;SBJV;PST;3;PL;LGSPEC1
+honrar		V;NEG;IMP;2;PL
+honrar		V;NEG;IMP;3;SG
+honrar		V;COND;2;SG
+honrar		V;IND;FUT;3;SG
+honrar		V;SBJV;FUT;3;PL
+honrar		V;COND;3;PL
+honrar		V;SBJV;PST;1;SG;LGSPEC1
+honrar		V;SBJV;PST;1;SG
+honrar	honramos	V;IND;PRS;1;PL
+honrar	honre	V;SBJV;PRS;3;SG
+honrar		V;NEG;IMP;2;SG
+honrar		V;IND;PRS;3;PL
+honrar		V;SBJV;PST;1;PL;LGSPEC1
+honrar		V;SBJV;PRS;2;SG
+honrar		V;SBJV;PST;3;SG
+honrar		V;NEG;IMP;1;PL
+honrar		V;SBJV;PST;2;PL
+honrar		V;IND;PRS;2;PL
+honrar		V;SBJV;FUT;1;PL
+honrar	honraréis	V;IND;FUT;2;PL
+honrar		V;IND;PST;2;PL;IPFV
+honrar		V;IND;PST;1;SG;PFV
+honrar	honremos	V;POS;IMP;1;PL
+honrar		V;NFIN
+honrar	honrada	V.PTCP;PST;FEM;SG
+honrar		V;IND;FUT;1;PL
+honrar		V;IND;PST;1;PL;PFV
+honrar		V;NEG;IMP;3;PL
+honrar	honraron	V;IND;PST;3;PL;PFV
+honrar		V.PTCP;PST;MASC;SG
+honrar		V;SBJV;PRS;1;SG
+honrar		V;SBJV;PST;2;PL;LGSPEC1
+honrar		V.CVB;PRS
+honrar		V;SBJV;PST;3;SG;LGSPEC1
+honrar		V;SBJV;FUT;2;SG
+honrar		V;SBJV;PRS;2;PL
+honrar		V;IND;FUT;1;SG
+honrar		V;POS;IMP;3;PL
+honrar		V;COND;2;PL
+honrar		V;IND;FUT;3;PL
+honrar		V;SBJV;PST;3;PL
+honrar		V;IND;PRS;1;SG
+honrar		V;SBJV;FUT;1;SG
+honrar	honrad	V;POS;IMP;2;PL
+honrar		V;COND;1;SG
+honrar	honra	V;IND;PRS;3;SG
+honrar		V.PTCP;PST;FEM;PL
+honrar		V;SBJV;FUT;2;PL
+honrar		V;SBJV;FUT;3;SG
+honrar		V;COND;3;SG
+honrar		V;IND;PST;2;PL;PFV
+honrar		V;IND;PST;2;SG;PFV
+honrar		V;SBJV;PRS;1;PL
+honrar		V;SBJV;PST;1;PL
+honrar		V;POS;IMP;2;SG
+honrar	honraban	V;IND;PST;3;PL;IPFV
+honrar		V;SBJV;PST;2;SG
+honrar		V;IND;PRS;2;SG
+honrar		V;COND;1;PL
+honrar	honre	V;POS;IMP;3;SG
+honrar		V;IND;FUT;2;SG
+honrar	honraba	V;IND;PST;1;SG;IPFV
+honrar		V;IND;PST;3;SG;PFV
+honrar		V;SBJV;PRS;3;PL
+honrar	honraba	V;IND;PST;3;SG;IPFV
+honrar		V;SBJV;PST;2;SG;LGSPEC1
+honrar	honrados	V.PTCP;PST;MASC;PL
+honrar		V;IND;PST;2;SG;IPFV
+enviar		V;IND;PST;1;PL;IPFV
+enviar		V;SBJV;PST;3;PL;LGSPEC1
+enviar		V;NEG;IMP;2;PL
+enviar		V;NEG;IMP;3;SG
+enviar		V;COND;2;SG
+enviar		V;IND;FUT;3;SG
+enviar		V;SBJV;FUT;3;PL
+enviar	enviarían	V;COND;3;PL
+enviar		V;SBJV;PST;1;SG;LGSPEC1
+enviar		V;SBJV;PST;1;SG
+enviar		V;IND;PRS;1;PL
+enviar		V;SBJV;PRS;3;SG
+enviar		V;NEG;IMP;2;SG
+enviar		V;IND;PRS;3;PL
+enviar		V;SBJV;PST;1;PL;LGSPEC1
+enviar	envíes	V;SBJV;PRS;2;SG
+enviar		V;SBJV;PST;3;SG
+enviar		V;NEG;IMP;1;PL
+enviar		V;SBJV;PST;2;PL
+enviar		V;IND;PRS;2;PL
+enviar	enviáremos	V;SBJV;FUT;1;PL
+enviar		V;IND;FUT;2;PL
+enviar		V;IND;PST;2;PL;IPFV
+enviar	envié	V;IND;PST;1;SG;PFV
+enviar		V;POS;IMP;1;PL
+enviar	enviar	V;NFIN
+enviar	enviada	V.PTCP;PST;FEM;SG
+enviar		V;IND;FUT;1;PL
+enviar		V;IND;PST;1;PL;PFV
+enviar		V;NEG;IMP;3;PL
+enviar		V;IND;PST;3;PL;PFV
+enviar		V.PTCP;PST;MASC;SG
+enviar		V;SBJV;PRS;1;SG
+enviar		V;SBJV;PST;2;PL;LGSPEC1
+enviar		V.CVB;PRS
+enviar		V;SBJV;PST;3;SG;LGSPEC1
+enviar		V;SBJV;FUT;2;SG
+enviar		V;SBJV;PRS;2;PL
+enviar	enviaré	V;IND;FUT;1;SG
+enviar		V;POS;IMP;3;PL
+enviar		V;COND;2;PL
+enviar		V;IND;FUT;3;PL
+enviar		V;SBJV;PST;3;PL
+enviar		V;IND;PRS;1;SG
+enviar	enviare	V;SBJV;FUT;1;SG
+enviar		V;POS;IMP;2;PL
+enviar		V;COND;1;SG
+enviar		V;IND;PRS;3;SG
+enviar	enviadas	V.PTCP;PST;FEM;PL
+enviar		V;SBJV;FUT;2;PL
+enviar	enviare	V;SBJV;FUT;3;SG
+enviar		V;COND;3;SG
+enviar	enviasteis	V;IND;PST;2;PL;PFV
+enviar	enviaste	V;IND;PST;2;SG;PFV
+enviar		V;SBJV;PRS;1;PL
+enviar		V;SBJV;PST;1;PL
+enviar		V;POS;IMP;2;SG
+enviar		V;IND;PST;3;PL;IPFV
+enviar		V;SBJV;PST;2;SG
+enviar	envías	V;IND;PRS;2;SG
+enviar		V;COND;1;PL
+enviar		V;POS;IMP;3;SG
+enviar		V;IND;FUT;2;SG
+enviar		V;IND;PST;1;SG;IPFV
+enviar		V;IND;PST;3;SG;PFV
+enviar		V;SBJV;PRS;3;PL
+enviar		V;IND;PST;3;SG;IPFV
+enviar		V;SBJV;PST;2;SG;LGSPEC1
+enviar		V.PTCP;PST;MASC;PL
+enviar		V;IND;PST;2;SG;IPFV
+desempeñar		V;IND;PST;1;PL;IPFV
+desempeñar		V;SBJV;PST;3;PL;LGSPEC1
+desempeñar	no desempeñéis	V;NEG;IMP;2;PL
+desempeñar		V;NEG;IMP;3;SG
+desempeñar	desempeñarías	V;COND;2;SG
+desempeñar		V;IND;FUT;3;SG
+desempeñar		V;SBJV;FUT;3;PL
+desempeñar		V;COND;3;PL
+desempeñar		V;SBJV;PST;1;SG;LGSPEC1
+desempeñar		V;SBJV;PST;1;SG
+desempeñar		V;IND;PRS;1;PL
+desempeñar		V;SBJV;PRS;3;SG
+desempeñar		V;NEG;IMP;2;SG
+desempeñar		V;IND;PRS;3;PL
+desempeñar		V;SBJV;PST;1;PL;LGSPEC1
+desempeñar		V;SBJV;PRS;2;SG
+desempeñar		V;SBJV;PST;3;SG
+desempeñar		V;NEG;IMP;1;PL
+desempeñar		V;SBJV;PST;2;PL
+desempeñar		V;IND;PRS;2;PL
+desempeñar	desempeñáremos	V;SBJV;FUT;1;PL
+desempeñar		V;IND;FUT;2;PL
+desempeñar		V;IND;PST;2;PL;IPFV
+desempeñar		V;IND;PST;1;SG;PFV
+desempeñar	desempeñemos	V;POS;IMP;1;PL
+desempeñar		V;NFIN
+desempeñar		V.PTCP;PST;FEM;SG
+desempeñar	desempeñaremos	V;IND;FUT;1;PL
+desempeñar		V;IND;PST;1;PL;PFV
+desempeñar		V;NEG;IMP;3;PL
+desempeñar	desempeñaron	V;IND;PST;3;PL;PFV
+desempeñar		V.PTCP;PST;MASC;SG
+desempeñar		V;SBJV;PRS;1;SG
+desempeñar		V;SBJV;PST;2;PL;LGSPEC1
+desempeñar	desempeñando	V.CVB;PRS
+desempeñar	desempeñara	V;SBJV;PST;3;SG;LGSPEC1
+desempeñar		V;SBJV;FUT;2;SG
+desempeñar		V;SBJV;PRS;2;PL
+desempeñar	desempeñaré	V;IND;FUT;1;SG
+desempeñar		V;POS;IMP;3;PL
+desempeñar		V;COND;2;PL
+desempeñar		V;IND;FUT;3;PL
+desempeñar		V;SBJV;PST;3;PL
+desempeñar		V;IND;PRS;1;SG
+desempeñar		V;SBJV;FUT;1;SG
+desempeñar		V;POS;IMP;2;PL
+desempeñar		V;COND;1;SG
+desempeñar		V;IND;PRS;3;SG
+desempeñar		V.PTCP;PST;FEM;PL
+desempeñar	desempeñareis	V;SBJV;FUT;2;PL
+desempeñar		V;SBJV;FUT;3;SG
+desempeñar		V;COND;3;SG
+desempeñar		V;IND;PST;2;PL;PFV
+desempeñar		V;IND;PST;2;SG;PFV
+desempeñar		V;SBJV;PRS;1;PL
+desempeñar		V;SBJV;PST;1;PL
+desempeñar	desempeña	V;POS;IMP;2;SG
+desempeñar		V;IND;PST;3;PL;IPFV
+desempeñar		V;SBJV;PST;2;SG
+desempeñar		V;IND;PRS;2;SG
+desempeñar		V;COND;1;PL
+desempeñar		V;POS;IMP;3;SG
+desempeñar	desempeñarás	V;IND;FUT;2;SG
+desempeñar		V;IND;PST;1;SG;IPFV
+desempeñar		V;IND;PST;3;SG;PFV
+desempeñar		V;SBJV;PRS;3;PL
+desempeñar		V;IND;PST;3;SG;IPFV
+desempeñar		V;SBJV;PST;2;SG;LGSPEC1
+desempeñar		V.PTCP;PST;MASC;PL
+desempeñar	desempeñabas	V;IND;PST;2;SG;IPFV
+recurrir		V;IND;FUT;1;SG
+recurrir		V;IND;PST;1;PL;IPFV
+recurrir		V;SBJV;PST;3;PL;LGSPEC1
+recurrir		V;NEG;IMP;2;PL
+recurrir		V;SBJV;PST;1;SG
+recurrir	recurrirás	V;IND;FUT;2;SG
+recurrir	no recurra	V;NEG;IMP;3;SG
+recurrir		V;COND;2;SG
+recurrir		V;IND;FUT;3;SG
+recurrir		V;SBJV;PRS;3;PL
+recurrir		V;COND;3;PL
+recurrir		V;SBJV;PST;1;SG;LGSPEC1
+recurrir		V;POS;IMP;2;SG
+recurrir		V;IND;PRS;1;PL
+recurrir		V;SBJV;PST;3;SG;LGSPEC1
+recurrir		V;POS;IMP;3;SG
+recurrir		V.PTCP;PST;FEM;SG
+recurrir		V;SBJV;PST;3;SG
+recurrir		V;NFIN
+recurrir		V;IND;PRS;3;PL
+recurrir		V;IND;PRS;2;PL
+recurrir		V;SBJV;PRS;1;PL
+recurrir		V;IND;FUT;2;PL
+recurrir		V;SBJV;PRS;2;SG
+recurrir		V;IND;PST;1;SG;PFV
+recurrir		V;SBJV;PST;1;PL;LGSPEC1
+recurrir	recurramos	V;POS;IMP;1;PL
+recurrir		V;SBJV;FUT;3;SG
+recurrir		V;IND;FUT;1;PL
+recurrir		V;IND;PST;1;PL;PFV
+recurrir		V;NEG;IMP;3;PL
+recurrir	recurrieron	V;IND;PST;3;PL;PFV
+recurrir		V;IND;PST;2;SG;IPFV
+recurrir		V;SBJV;FUT;1;SG
+recurrir	recurrierais	V;SBJV;PST;2;PL;LGSPEC1
+recurrir		V.CVB;PRS
+recurrir		V;NEG;IMP;2;SG
+recurrir		V;SBJV;FUT;2;SG
+recurrir		V;IND;PST;2;PL;PFV
+recurrir		V;SBJV;PST;2;SG;LGSPEC1
+recurrir	recurran	V;POS;IMP;3;PL
+recurrir		V;COND;2;PL
+recurrir	recurrirán	V;IND;FUT;3;PL
+recurrir	recurriesen	V;SBJV;PST;3;PL
+recurrir	recurro	V;IND;PRS;1;SG
+recurrir		V;SBJV;PRS;1;SG
+recurrir		V;POS;IMP;2;PL
+recurrir		V;COND;1;SG
+recurrir		V;IND;PRS;3;SG
+recurrir		V.PTCP;PST;FEM;PL
+recurrir		V;SBJV;PRS;2;PL
+recurrir	recurra	V;SBJV;PRS;3;SG
+recurrir		V;COND;3;SG
+recurrir		V;SBJV;FUT;3;PL
+recurrir		V;NEG;IMP;1;PL
+recurrir	recurriéremos	V;SBJV;FUT;1;PL
+recurrir	recurriésemos	V;SBJV;PST;1;PL
+recurrir		V;IND;PST;3;PL;IPFV
+recurrir		V;SBJV;PST;2;SG
+recurrir		V;IND;PRS;2;SG
+recurrir		V;COND;1;PL
+recurrir		V;SBJV;PST;2;PL
+recurrir		V;SBJV;FUT;2;PL
+recurrir		V;IND;PST;1;SG;IPFV
+recurrir		V;IND;PST;3;SG;PFV
+recurrir		V;IND;PST;2;SG;PFV
+recurrir	recurría	V;IND;PST;3;SG;IPFV
+recurrir		V;IND;PST;2;PL;IPFV
+recurrir		V.PTCP;PST;MASC;PL
+recurrir		V.PTCP;PST;MASC;SG
+fundar		V;IND;PST;1;PL;IPFV
+fundar		V;SBJV;PST;3;PL;LGSPEC1
+fundar		V;NEG;IMP;2;PL
+fundar		V;NEG;IMP;3;SG
+fundar		V;COND;2;SG
+fundar		V;IND;FUT;3;SG
+fundar	fundaren	V;SBJV;FUT;3;PL
+fundar	fundarían	V;COND;3;PL
+fundar		V;SBJV;PST;1;SG;LGSPEC1
+fundar		V;SBJV;PST;1;SG
+fundar	fundamos	V;IND;PRS;1;PL
+fundar		V;SBJV;PRS;3;SG
+fundar		V;NEG;IMP;2;SG
+fundar		V;IND;PRS;3;PL
+fundar	fundáramos	V;SBJV;PST;1;PL;LGSPEC1
+fundar	fundes	V;SBJV;PRS;2;SG
+fundar	fundase	V;SBJV;PST;3;SG
+fundar		V;NEG;IMP;1;PL
+fundar		V;SBJV;PST;2;PL
+fundar		V;IND;PRS;2;PL
+fundar		V;SBJV;FUT;1;PL
+fundar		V;IND;FUT;2;PL
+fundar		V;IND;PST;2;PL;IPFV
+fundar	fundé	V;IND;PST;1;SG;PFV
+fundar		V;POS;IMP;1;PL
+fundar		V;NFIN
+fundar		V.PTCP;PST;FEM;SG
+fundar		V;IND;FUT;1;PL
+fundar		V;IND;PST;1;PL;PFV
+fundar	no funden	V;NEG;IMP;3;PL
+fundar		V;IND;PST;3;PL;PFV
+fundar		V.PTCP;PST;MASC;SG
+fundar		V;SBJV;PRS;1;SG
+fundar		V;SBJV;PST;2;PL;LGSPEC1
+fundar		V.CVB;PRS
+fundar		V;SBJV;PST;3;SG;LGSPEC1
+fundar		V;SBJV;FUT;2;SG
+fundar	fundéis	V;SBJV;PRS;2;PL
+fundar	fundaré	V;IND;FUT;1;SG
+fundar		V;POS;IMP;3;PL
+fundar	fundaríais	V;COND;2;PL
+fundar		V;IND;FUT;3;PL
+fundar		V;SBJV;PST;3;PL
+fundar		V;IND;PRS;1;SG
+fundar		V;SBJV;FUT;1;SG
+fundar	fundad	V;POS;IMP;2;PL
+fundar		V;COND;1;SG
+fundar		V;IND;PRS;3;SG
+fundar		V.PTCP;PST;FEM;PL
+fundar		V;SBJV;FUT;2;PL
+fundar		V;SBJV;FUT;3;SG
+fundar		V;COND;3;SG
+fundar		V;IND;PST;2;PL;PFV
+fundar		V;IND;PST;2;SG;PFV
+fundar		V;SBJV;PRS;1;PL
+fundar		V;SBJV;PST;1;PL
+fundar		V;POS;IMP;2;SG
+fundar		V;IND;PST;3;PL;IPFV
+fundar	fundases	V;SBJV;PST;2;SG
+fundar		V;IND;PRS;2;SG
+fundar		V;COND;1;PL
+fundar		V;POS;IMP;3;SG
+fundar		V;IND;FUT;2;SG
+fundar		V;IND;PST;1;SG;IPFV
+fundar		V;IND;PST;3;SG;PFV
+fundar		V;SBJV;PRS;3;PL
+fundar		V;IND;PST;3;SG;IPFV
+fundar		V;SBJV;PST;2;SG;LGSPEC1
+fundar		V.PTCP;PST;MASC;PL
+fundar		V;IND;PST;2;SG;IPFV
+ganarse	nos ganábamos	V;IND;PST;1;PL;IPFV
+ganarse		V;SBJV;PST;3;PL;LGSPEC1
+ganarse		V;NEG;IMP;2;PL
+ganarse		V;NEG;IMP;3;SG
+ganarse		V;COND;2;SG
+ganarse		V;IND;FUT;3;SG
+ganarse		V;SBJV;PRS;1;PL
+ganarse		V;SBJV;FUT;3;PL
+ganarse		V;COND;3;PL
+ganarse	me ganara	V;SBJV;PST;1;SG;LGSPEC1
+ganarse		V;SBJV;PST;1;SG
+ganarse	nos ganamos	V;IND;PRS;1;PL
+ganarse		V;SBJV;PRS;3;SG
+ganarse		V;SBJV;PST;3;SG;LGSPEC1
+ganarse		V;POS;IMP;3;SG
+ganarse		V.PTCP;PST;FEM;SG
+ganarse	te ganes	V;SBJV;PRS;2;SG
+ganarse		V;SBJV;PST;3;SG
+ganarse	os ganabais	V;IND;PST;2;PL;IPFV
+ganarse		V;SBJV;PST;2;PL
+ganarse	os ganáis	V;IND;PRS;2;PL
+ganarse	me gané	V;IND;PST;1;SG;PFV
+ganarse		V;IND;FUT;2;PL
+ganarse		V;SBJV;PST;1;PL;LGSPEC1
+ganarse		V;POS;IMP;1;PL
+ganarse	se ganan	V;IND;PRS;3;PL
+ganarse		V;NFIN
+ganarse		V;COND;1;SG
+ganarse		V;IND;PST;1;PL;PFV
+ganarse		V;NEG;IMP;3;PL
+ganarse		V;IND;PST;3;PL;PFV
+ganarse		V.PTCP;PST;MASC;SG
+ganarse		V;SBJV;FUT;3;SG
+ganarse	os ganarais	V;SBJV;PST;2;PL;LGSPEC1
+ganarse		V.CVB;PRS
+ganarse		V;NEG;IMP;2;SG
+ganarse	te ganares	V;SBJV;FUT;2;SG
+ganarse	os ganéis	V;SBJV;PRS;2;PL
+ganarse		V;IND;FUT;1;PL
+ganarse		V;SBJV;PST;2;SG;LGSPEC1
+ganarse		V;POS;IMP;3;PL
+ganarse		V;COND;2;PL
+ganarse		V;IND;FUT;3;PL
+ganarse		V;SBJV;PST;3;PL
+ganarse		V;IND;PRS;1;SG
+ganarse		V;SBJV;PRS;1;SG
+ganarse		V;POS;IMP;2;PL
+ganarse		V.PTCP;PST;MASC;PL
+ganarse		V;IND;PRS;3;SG
+ganarse		V.PTCP;PST;FEM;PL
+ganarse		V;SBJV;FUT;2;PL
+ganarse	gánate	V;POS;IMP;2;SG
+ganarse		V;COND;3;SG
+ganarse	os ganasteis	V;IND;PST;2;PL;PFV
+ganarse		V;NEG;IMP;1;PL
+ganarse		V;SBJV;FUT;1;PL
+ganarse		V;SBJV;PST;1;PL
+ganarse		V;IND;PST;3;PL;IPFV
+ganarse		V;SBJV;PST;2;SG
+ganarse		V;IND;PRS;2;SG
+ganarse		V;COND;1;PL
+ganarse		V;IND;FUT;2;SG
+ganarse		V;IND;PST;1;SG;IPFV
+ganarse		V;IND;PST;3;SG;PFV
+ganarse		V;SBJV;PRS;3;PL
+ganarse		V;IND;PST;2;SG;PFV
+ganarse		V;IND;PST;3;SG;IPFV
+ganarse		V;IND;FUT;1;SG
+ganarse		V;SBJV;FUT;1;SG
+ganarse		V;IND;PST;2;SG;IPFV
+jurar		V;IND;PST;1;PL;IPFV
+jurar		V;SBJV;PST;3;PL;LGSPEC1
+jurar	no juréis	V;NEG;IMP;2;PL
+jurar		V;NEG;IMP;3;SG
+jurar		V;COND;2;SG
+jurar	jurará	V;IND;FUT;3;SG
+jurar		V;SBJV;FUT;3;PL
+jurar		V;COND;3;PL
+jurar		V;SBJV;PST;1;SG;LGSPEC1
+jurar		V;SBJV;PST;1;SG
+jurar		V;IND;PRS;1;PL
+jurar		V;SBJV;PRS;3;SG
+jurar		V;NEG;IMP;2;SG
+jurar		V;IND;PRS;3;PL
+jurar		V;SBJV;PST;1;PL;LGSPEC1
+jurar		V;SBJV;PRS;2;SG
+jurar		V;SBJV;PST;3;SG
+jurar		V;NEG;IMP;1;PL
+jurar		V;SBJV;PST;2;PL
+jurar		V;IND;PRS;2;PL
+jurar	juráremos	V;SBJV;FUT;1;PL
+jurar		V;IND;FUT;2;PL
+jurar		V;IND;PST;2;PL;IPFV
+jurar		V;IND;PST;1;SG;PFV
+jurar		V;POS;IMP;1;PL
+jurar	jurar	V;NFIN
+jurar		V.PTCP;PST;FEM;SG
+jurar		V;IND;FUT;1;PL
+jurar		V;IND;PST;1;PL;PFV
+jurar		V;NEG;IMP;3;PL
+jurar		V;IND;PST;3;PL;PFV
+jurar		V.PTCP;PST;MASC;SG
+jurar		V;SBJV;PRS;1;SG
+jurar	jurarais	V;SBJV;PST;2;PL;LGSPEC1
+jurar	jurando	V.CVB;PRS
+jurar		V;SBJV;PST;3;SG;LGSPEC1
+jurar		V;SBJV;FUT;2;SG
+jurar	juréis	V;SBJV;PRS;2;PL
+jurar	juraré	V;IND;FUT;1;SG
+jurar		V;POS;IMP;3;PL
+jurar		V;COND;2;PL
+jurar		V;IND;FUT;3;PL
+jurar		V;SBJV;PST;3;PL
+jurar		V;IND;PRS;1;SG
+jurar	jurare	V;SBJV;FUT;1;SG
+jurar	jurad	V;POS;IMP;2;PL
+jurar		V;COND;1;SG
+jurar		V;IND;PRS;3;SG
+jurar		V.PTCP;PST;FEM;PL
+jurar		V;SBJV;FUT;2;PL
+jurar	jurare	V;SBJV;FUT;3;SG
+jurar		V;COND;3;SG
+jurar	jurasteis	V;IND;PST;2;PL;PFV
+jurar		V;IND;PST;2;SG;PFV
+jurar		V;SBJV;PRS;1;PL
+jurar		V;SBJV;PST;1;PL
+jurar		V;POS;IMP;2;SG
+jurar		V;IND;PST;3;PL;IPFV
+jurar		V;SBJV;PST;2;SG
+jurar		V;IND;PRS;2;SG
+jurar		V;COND;1;PL
+jurar		V;POS;IMP;3;SG
+jurar		V;IND;FUT;2;SG
+jurar		V;IND;PST;1;SG;IPFV
+jurar		V;IND;PST;3;SG;PFV
+jurar		V;SBJV;PRS;3;PL
+jurar		V;IND;PST;3;SG;IPFV
+jurar	juraras	V;SBJV;PST;2;SG;LGSPEC1
+jurar		V.PTCP;PST;MASC;PL
+jurar		V;IND;PST;2;SG;IPFV
+picar		V;IND;PST;1;PL;IPFV
+picar	picaran	V;SBJV;PST;3;PL;LGSPEC1
+picar	no piquéis	V;NEG;IMP;2;PL
+picar		V;NEG;IMP;3;SG
+picar	picarías	V;COND;2;SG
+picar		V;IND;FUT;3;SG
+picar		V;SBJV;FUT;3;PL
+picar	picarían	V;COND;3;PL
+picar		V;SBJV;PST;1;SG;LGSPEC1
+picar		V;SBJV;PST;1;SG
+picar		V;IND;PRS;1;PL
+picar	pique	V;SBJV;PRS;3;SG
+picar		V;SBJV;PST;3;SG;LGSPEC1
+picar	pican	V;IND;PRS;3;PL
+picar		V.PTCP;PST;FEM;SG
+picar		V;SBJV;PRS;2;SG
+picar		V;SBJV;PST;3;SG
+picar		V;SBJV;PST;2;PL
+picar		V;IND;PRS;2;PL
+picar		V;SBJV;FUT;1;PL
+picar	picaréis	V;IND;FUT;2;PL
+picar		V;IND;PST;2;PL;IPFV
+picar		V;IND;PST;1;SG;PFV
+picar		V;POS;IMP;1;PL
+picar		V;NFIN
+picar		V;IND;FUT;1;PL
+picar		V;IND;PST;1;PL;PFV
+picar		V;NEG;IMP;3;PL
+picar		V;IND;PST;3;PL;PFV
+picar	picado	V.PTCP;PST;MASC;SG
+picar		V;SBJV;PRS;1;SG
+picar		V;SBJV;PST;2;PL;LGSPEC1
+picar	picando	V.CVB;PRS
+picar		V;NEG;IMP;2;SG
+picar		V;SBJV;FUT;2;SG
+picar		V;SBJV;PRS;2;PL
+picar		V;IND;FUT;1;SG
+picar		V;POS;IMP;3;PL
+picar		V;COND;2;PL
+picar		V;IND;FUT;3;PL
+picar		V;SBJV;PST;3;PL
+picar		V;IND;PRS;1;SG
+picar	picare	V;SBJV;FUT;1;SG
+picar		V;POS;IMP;2;PL
+picar		V;COND;1;SG
+picar		V;IND;PRS;3;SG
+picar		V.PTCP;PST;FEM;PL
+picar		V;SBJV;FUT;2;PL
+picar		V;SBJV;FUT;3;SG
+picar		V;COND;3;SG
+picar		V;IND;PST;2;PL;PFV
+picar		V;NEG;IMP;1;PL
+picar		V;SBJV;PRS;1;PL
+picar		V;SBJV;PST;1;PL
+picar		V;POS;IMP;2;SG
+picar		V;IND;PST;3;PL;IPFV
+picar	picases	V;SBJV;PST;2;SG
+picar		V;SBJV;PST;1;PL;LGSPEC1
+picar		V;COND;1;PL
+picar	pique	V;POS;IMP;3;SG
+picar		V;IND;FUT;2;SG
+picar	picaba	V;IND;PST;1;SG;IPFV
+picar		V;IND;PST;3;SG;PFV
+picar		V;SBJV;PRS;3;PL
+picar		V;IND;PST;2;SG;PFV
+picar		V;IND;PST;3;SG;IPFV
+picar		V;SBJV;PST;2;SG;LGSPEC1
+picar		V.PTCP;PST;MASC;PL
+picar		V;IND;PST;2;SG;IPFV
+picar		V;IND;PRS;2;SG
+cruzar		V;IND;FUT;1;SG
+cruzar		V;IND;PST;1;PL;IPFV
+cruzar	cruzaran	V;SBJV;PST;3;PL;LGSPEC1
+cruzar	no crucéis	V;NEG;IMP;2;PL
+cruzar		V;NEG;IMP;3;SG
+cruzar		V;COND;2;SG
+cruzar		V;IND;FUT;3;SG
+cruzar		V;SBJV;PRS;3;PL
+cruzar		V;COND;3;PL
+cruzar		V;SBJV;PST;1;SG;LGSPEC1
+cruzar		V;SBJV;PST;1;SG
+cruzar		V;IND;PRS;1;PL
+cruzar		V;NEG;IMP;2;SG
+cruzar	cruce	V;POS;IMP;3;SG
+cruzar		V.PTCP;PST;FEM;SG
+cruzar		V;SBJV;PST;3;SG
+cruzar		V;NEG;IMP;1;PL
+cruzar		V;NFIN
+cruzar		V;IND;PRS;3;PL
+cruzar		V;IND;PRS;2;PL
+cruzar		V;IND;PST;1;SG;PFV
+cruzar		V;IND;FUT;2;PL
+cruzar		V;SBJV;PRS;2;SG
+cruzar	cruzareis	V;SBJV;FUT;2;PL
+cruzar		V;POS;IMP;1;PL
+cruzar		V;SBJV;FUT;3;SG
+cruzar		V;SBJV;FUT;1;PL
+cruzar		V;IND;FUT;1;PL
+cruzar		V;IND;PST;1;PL;PFV
+cruzar		V;NEG;IMP;3;PL
+cruzar		V;IND;PST;3;PL;PFV
+cruzar		V.PTCP;PST;MASC;SG
+cruzar		V;SBJV;FUT;1;SG
+cruzar	cruzarais	V;SBJV;PST;2;PL;LGSPEC1
+cruzar	cruzando	V.CVB;PRS
+cruzar		V;SBJV;PST;3;SG;LGSPEC1
+cruzar		V;SBJV;FUT;2;SG
+cruzar	cruzasteis	V;IND;PST;2;PL;PFV
+cruzar		V;SBJV;PST;2;SG;LGSPEC1
+cruzar		V;POS;IMP;3;PL
+cruzar		V;COND;2;PL
+cruzar		V;IND;FUT;3;PL
+cruzar		V;SBJV;PST;3;PL
+cruzar		V;IND;PRS;1;SG
+cruzar		V;SBJV;PRS;1;SG
+cruzar		V;POS;IMP;2;PL
+cruzar		V;COND;1;SG
+cruzar		V;IND;PRS;3;SG
+cruzar		V.PTCP;PST;FEM;PL
+cruzar	crucéis	V;SBJV;PRS;2;PL
+cruzar		V;SBJV;PRS;3;SG
+cruzar		V;COND;3;SG
+cruzar	cruzaren	V;SBJV;FUT;3;PL
+cruzar		V;IND;PST;2;SG;PFV
+cruzar		V;SBJV;PRS;1;PL
+cruzar		V;SBJV;PST;1;PL
+cruzar		V;POS;IMP;2;SG
+cruzar		V;IND;PST;3;PL;IPFV
+cruzar		V;SBJV;PST;2;SG
+cruzar		V;SBJV;PST;1;PL;LGSPEC1
+cruzar	cruzaríamos	V;COND;1;PL
+cruzar	cruzaseis	V;SBJV;PST;2;PL
+cruzar		V;IND;FUT;2;SG
+cruzar		V;IND;PST;1;SG;IPFV
+cruzar	cruzó	V;IND;PST;3;SG;PFV
+cruzar		V;IND;PST;3;SG;IPFV
+cruzar		V;IND;PST;2;PL;IPFV
+cruzar		V.PTCP;PST;MASC;PL
+cruzar	cruzabas	V;IND;PST;2;SG;IPFV
+cruzar		V;IND;PRS;2;SG
+desbloquear		V;IND;PST;1;PL;IPFV
+desbloquear		V;SBJV;PST;3;PL;LGSPEC1
+desbloquear		V;NEG;IMP;2;PL
+desbloquear		V;NEG;IMP;3;SG
+desbloquear		V;COND;2;SG
+desbloquear		V;IND;FUT;3;SG
+desbloquear	desbloquearen	V;SBJV;FUT;3;PL
+desbloquear		V;COND;3;PL
+desbloquear	desbloqueara	V;SBJV;PST;1;SG;LGSPEC1
+desbloquear		V;SBJV;PST;1;SG
+desbloquear		V;IND;PRS;1;PL
+desbloquear	desbloquee	V;SBJV;PRS;3;SG
+desbloquear		V;NEG;IMP;2;SG
+desbloquear		V;IND;PRS;3;PL
+desbloquear		V;SBJV;PST;1;PL;LGSPEC1
+desbloquear		V;SBJV;PRS;2;SG
+desbloquear		V;SBJV;PST;3;SG
+desbloquear		V;NEG;IMP;1;PL
+desbloquear		V;SBJV;PST;2;PL
+desbloquear		V;IND;PRS;2;PL
+desbloquear		V;SBJV;FUT;1;PL
+desbloquear		V;IND;FUT;2;PL
+desbloquear		V;IND;PST;2;PL;IPFV
+desbloquear		V;IND;PST;1;SG;PFV
+desbloquear		V;POS;IMP;1;PL
+desbloquear		V;NFIN
+desbloquear	desbloqueada	V.PTCP;PST;FEM;SG
+desbloquear		V;IND;FUT;1;PL
+desbloquear		V;IND;PST;1;PL;PFV
+desbloquear		V;NEG;IMP;3;PL
+desbloquear		V;IND;PST;3;PL;PFV
+desbloquear	desbloqueado	V.PTCP;PST;MASC;SG
+desbloquear		V;SBJV;PRS;1;SG
+desbloquear		V;SBJV;PST;2;PL;LGSPEC1
+desbloquear		V.CVB;PRS
+desbloquear		V;SBJV;PST;3;SG;LGSPEC1
+desbloquear		V;SBJV;FUT;2;SG
+desbloquear		V;SBJV;PRS;2;PL
+desbloquear		V;IND;FUT;1;SG
+desbloquear		V;POS;IMP;3;PL
+desbloquear		V;COND;2;PL
+desbloquear	desbloquearán	V;IND;FUT;3;PL
+desbloquear		V;SBJV;PST;3;PL
+desbloquear		V;IND;PRS;1;SG
+desbloquear	desbloqueare	V;SBJV;FUT;1;SG
+desbloquear		V;POS;IMP;2;PL
+desbloquear		V;COND;1;SG
+desbloquear		V;IND;PRS;3;SG
+desbloquear	desbloqueadas	V.PTCP;PST;FEM;PL
+desbloquear		V;SBJV;FUT;2;PL
+desbloquear		V;SBJV;FUT;3;SG
+desbloquear		V;COND;3;SG
+desbloquear		V;IND;PST;2;PL;PFV
+desbloquear	desbloqueaste	V;IND;PST;2;SG;PFV
+desbloquear	desbloqueemos	V;SBJV;PRS;1;PL
+desbloquear		V;SBJV;PST;1;PL
+desbloquear		V;POS;IMP;2;SG
+desbloquear		V;IND;PST;3;PL;IPFV
+desbloquear		V;SBJV;PST;2;SG
+desbloquear		V;IND;PRS;2;SG
+desbloquear		V;COND;1;PL
+desbloquear		V;POS;IMP;3;SG
+desbloquear		V;IND;FUT;2;SG
+desbloquear		V;IND;PST;1;SG;IPFV
+desbloquear		V;IND;PST;3;SG;PFV
+desbloquear	desbloqueen	V;SBJV;PRS;3;PL
+desbloquear		V;IND;PST;3;SG;IPFV
+desbloquear		V;SBJV;PST;2;SG;LGSPEC1
+desbloquear	desbloqueados	V.PTCP;PST;MASC;PL
+desbloquear	desbloqueabas	V;IND;PST;2;SG;IPFV
+proveer		V;IND;PST;1;PL;IPFV
+proveer		V;SBJV;FUT;1;SG
+proveer		V;SBJV;PST;3;PL;LGSPEC1
+proveer		V;NEG;IMP;2;PL
+proveer		V;SBJV;PST;1;SG
+proveer		V;NEG;IMP;3;SG
+proveer		V;COND;2;SG
+proveer		V;IND;FUT;3;SG
+proveer		V;SBJV;PRS;3;PL
+proveer		V;COND;3;PL
+proveer		V;SBJV;PST;1;SG;LGSPEC1
+proveer		V;POS;IMP;2;SG
+proveer		V;IND;PRS;1;PL
+proveer		V;SBJV;PST;3;SG;LGSPEC1
+proveer		V;IND;PRS;3;PL
+proveer	proveída	V.PTCP;PST;FEM;SG
+proveer		V;SBJV;PST;3;SG
+proveer		V;IND;PST;2;PL;IPFV
+proveer	provea	V;POS;IMP;3;SG
+proveer	proveéis	V;IND;PRS;2;PL
+proveer		V;SBJV;PRS;1;PL
+proveer		V;IND;FUT;2;PL
+proveer		V;SBJV;PRS;2;SG
+proveer		V;SBJV;FUT;2;PL
+proveer		V;SBJV;PST;1;PL;LGSPEC1
+proveer		V;SBJV;FUT;3;SG
+proveer		V;POS;IMP;1;PL
+proveer		V;NFIN
+proveer	proveyéremos	V;SBJV;FUT;1;PL
+proveer		V;IND;FUT;1;PL
+proveer		V;IND;PST;1;PL;PFV
+proveer		V;NEG;IMP;3;PL
+proveer		V;IND;PST;3;PL;PFV
+proveer		V;IND;PST;2;SG;IPFV
+proveer		V;SBJV;FUT;3;PL
+proveer		V;SBJV;PST;2;PL;LGSPEC1
+proveer	proveyendo	V.CVB;PRS
+proveer		V;NEG;IMP;2;SG
+proveer		V;SBJV;FUT;2;SG
+proveer		V;SBJV;PST;2;SG;LGSPEC1
+proveer		V;POS;IMP;3;PL
+proveer	proveeríais	V;COND;2;PL
+proveer		V;IND;FUT;3;PL
+proveer		V;SBJV;PST;3;PL
+proveer		V;IND;PRS;1;SG
+proveer		V;SBJV;PRS;1;SG
+proveer		V;POS;IMP;2;PL
+proveer		V;COND;1;SG
+proveer	provee	V;IND;PRS;3;SG
+proveer	proveídas	V.PTCP;PST;FEM;PL
+proveer		V;SBJV;PRS;2;PL
+proveer	provea	V;SBJV;PRS;3;SG
+proveer		V;COND;3;SG
+proveer		V;IND;PST;2;PL;PFV
+proveer		V;NEG;IMP;1;PL
+proveer		V;IND;PST;1;SG;PFV
+proveer		V;SBJV;PST;1;PL
+proveer		V;IND;PST;3;PL;IPFV
+proveer		V;SBJV;PST;2;SG
+proveer	provees	V;IND;PRS;2;SG
+proveer		V;COND;1;PL
+proveer		V;SBJV;PST;2;PL
+proveer	proveerás	V;IND;FUT;2;SG
+proveer	proveía	V;IND;PST;1;SG;IPFV
+proveer		V;IND;PST;3;SG;PFV
+proveer	proveíste	V;IND;PST;2;SG;PFV
+proveer		V;IND;PST;3;SG;IPFV
+proveer		V;IND;FUT;1;SG
+proveer		V.PTCP;PST;MASC;PL
+proveer		V.PTCP;PST;MASC;SG
+discurrir		V;IND;FUT;1;SG
+discurrir		V;IND;PST;1;PL;IPFV
+discurrir	discurrieran	V;SBJV;PST;3;PL;LGSPEC1
+discurrir		V;NEG;IMP;2;PL
+discurrir		V;SBJV;PST;1;SG
+discurrir	discurrirás	V;IND;FUT;2;SG
+discurrir		V;NEG;IMP;3;SG
+discurrir	discurrirías	V;COND;2;SG
+discurrir		V;IND;FUT;3;SG
+discurrir		V;SBJV;PRS;3;PL
+discurrir		V;COND;3;PL
+discurrir		V;SBJV;PST;1;SG;LGSPEC1
+discurrir		V;POS;IMP;2;SG
+discurrir		V;IND;PRS;1;PL
+discurrir		V;NEG;IMP;2;SG
+discurrir	discurra	V;POS;IMP;3;SG
+discurrir		V.PTCP;PST;FEM;SG
+discurrir		V;SBJV;PST;3;SG
+discurrir		V;NEG;IMP;1;PL
+discurrir		V;NFIN
+discurrir	discurren	V;IND;PRS;3;PL
+discurrir		V;IND;PRS;2;PL
+discurrir		V;SBJV;PRS;1;PL
+discurrir	discurriréis	V;IND;FUT;2;PL
+discurrir		V;SBJV;PRS;2;SG
+discurrir		V;IND;PST;1;SG;PFV
+discurrir		V;SBJV;PST;1;PL;LGSPEC1
+discurrir		V;POS;IMP;1;PL
+discurrir		V;SBJV;FUT;3;SG
+discurrir	discurriremos	V;IND;FUT;1;PL
+discurrir		V;IND;PST;1;PL;PFV
+discurrir		V;NEG;IMP;3;PL
+discurrir		V;IND;PST;3;PL;PFV
+discurrir		V;IND;PST;2;SG;IPFV
+discurrir		V;SBJV;FUT;1;SG
+discurrir		V;SBJV;PST;2;PL;LGSPEC1
+discurrir		V.CVB;PRS
+discurrir		V;SBJV;PST;3;SG;LGSPEC1
+discurrir		V;SBJV;FUT;2;SG
+discurrir		V;IND;PST;2;PL;PFV
+discurrir		V;SBJV;PST;2;SG;LGSPEC1
+discurrir	discurran	V;POS;IMP;3;PL
+discurrir		V;COND;2;PL
+discurrir		V;IND;FUT;3;PL
+discurrir		V;SBJV;PST;3;PL
+discurrir	discurro	V;IND;PRS;1;SG
+discurrir		V;SBJV;PRS;1;SG
+discurrir		V;POS;IMP;2;PL
+discurrir		V;COND;1;SG
+discurrir		V;IND;PRS;3;SG
+discurrir		V.PTCP;PST;FEM;PL
+discurrir		V;SBJV;PRS;2;PL
+discurrir		V;SBJV;PRS;3;SG
+discurrir		V;COND;3;SG
+discurrir		V;SBJV;FUT;3;PL
+discurrir		V;IND;PST;2;SG;PFV
+discurrir		V;SBJV;FUT;1;PL
+discurrir	discurriésemos	V;SBJV;PST;1;PL
+discurrir		V;IND;PST;3;PL;IPFV
+discurrir	discurrieses	V;SBJV;PST;2;SG
+discurrir		V;IND;PRS;2;SG
+discurrir		V;COND;1;PL
+discurrir	discurrieseis	V;SBJV;PST;2;PL
+discurrir		V;SBJV;FUT;2;PL
+discurrir		V;IND;PST;1;SG;IPFV
+discurrir		V;IND;PST;3;SG;PFV
+discurrir		V;IND;PST;3;SG;IPFV
+discurrir		V;IND;PST;2;PL;IPFV
+discurrir	discurridos	V.PTCP;PST;MASC;PL
+discurrir		V.PTCP;PST;MASC;SG
+aumentar	aumentábamos	V;IND;PST;1;PL;IPFV
+aumentar		V;SBJV;PST;3;PL;LGSPEC1
+aumentar		V;NEG;IMP;2;PL
+aumentar		V;NEG;IMP;3;SG
+aumentar		V;COND;2;SG
+aumentar		V;IND;FUT;3;SG
+aumentar		V;SBJV;FUT;3;PL
+aumentar		V;COND;3;PL
+aumentar		V;SBJV;PST;1;SG;LGSPEC1
+aumentar		V;SBJV;PST;1;SG
+aumentar		V;IND;PRS;1;PL
+aumentar		V;SBJV;PRS;3;SG
+aumentar		V;NEG;IMP;2;SG
+aumentar		V;IND;PRS;3;PL
+aumentar		V;SBJV;PST;1;PL;LGSPEC1
+aumentar		V;SBJV;PRS;2;SG
+aumentar		V;SBJV;PST;3;SG
+aumentar		V;NEG;IMP;1;PL
+aumentar	aumentaseis	V;SBJV;PST;2;PL
+aumentar	aumentáis	V;IND;PRS;2;PL
+aumentar		V;SBJV;FUT;1;PL
+aumentar	aumentaréis	V;IND;FUT;2;PL
+aumentar	aumentabais	V;IND;PST;2;PL;IPFV
+aumentar		V;IND;PST;1;SG;PFV
+aumentar		V;POS;IMP;1;PL
+aumentar		V;NFIN
+aumentar		V.PTCP;PST;FEM;SG
+aumentar		V;IND;FUT;1;PL
+aumentar		V;IND;PST;1;PL;PFV
+aumentar		V;NEG;IMP;3;PL
+aumentar		V;IND;PST;3;PL;PFV
+aumentar		V.PTCP;PST;MASC;SG
+aumentar	aumente	V;SBJV;PRS;1;SG
+aumentar		V;SBJV;PST;2;PL;LGSPEC1
+aumentar		V.CVB;PRS
+aumentar		V;SBJV;PST;3;SG;LGSPEC1
+aumentar		V;SBJV;FUT;2;SG
+aumentar	aumentéis	V;SBJV;PRS;2;PL
+aumentar	aumentaré	V;IND;FUT;1;SG
+aumentar	aumenten	V;POS;IMP;3;PL
+aumentar		V;COND;2;PL
+aumentar		V;IND;FUT;3;PL
+aumentar		V;SBJV;PST;3;PL
+aumentar		V;IND;PRS;1;SG
+aumentar		V;SBJV;FUT;1;SG
+aumentar		V;POS;IMP;2;PL
+aumentar	aumentaría	V;COND;1;SG
+aumentar		V;IND;PRS;3;SG
+aumentar		V.PTCP;PST;FEM;PL
+aumentar		V;SBJV;FUT;2;PL
+aumentar		V;SBJV;FUT;3;SG
+aumentar		V;COND;3;SG
+aumentar		V;IND;PST;2;PL;PFV
+aumentar		V;IND;PST;2;SG;PFV
+aumentar		V;SBJV;PRS;1;PL
+aumentar		V;SBJV;PST;1;PL
+aumentar		V;POS;IMP;2;SG
+aumentar		V;IND;PST;3;PL;IPFV
+aumentar	aumentases	V;SBJV;PST;2;SG
+aumentar	aumentas	V;IND;PRS;2;SG
+aumentar		V;COND;1;PL
+aumentar		V;POS;IMP;3;SG
+aumentar		V;IND;FUT;2;SG
+aumentar		V;IND;PST;1;SG;IPFV
+aumentar		V;IND;PST;3;SG;PFV
+aumentar	aumenten	V;SBJV;PRS;3;PL
+aumentar		V;IND;PST;3;SG;IPFV
+aumentar		V;SBJV;PST;2;SG;LGSPEC1
+aumentar		V.PTCP;PST;MASC;PL
+aumentar		V;IND;PST;2;SG;IPFV
+sentir		V;IND;PST;1;PL;IPFV
+sentir		V;SBJV;PST;3;PL;LGSPEC1
+sentir		V;NEG;IMP;2;PL
+sentir		V;NEG;IMP;3;SG
+sentir		V;COND;2;SG
+sentir		V;IND;FUT;3;SG
+sentir		V;SBJV;PRS;3;PL
+sentir		V;COND;3;PL
+sentir	sintiera	V;SBJV;PST;1;SG;LGSPEC1
+sentir	sintiese	V;SBJV;PST;1;SG
+sentir		V;IND;PRS;1;PL
+sentir		V;SBJV;PST;3;SG;LGSPEC1
+sentir	sintieseis	V;SBJV;PST;2;PL
+sentir		V;SBJV;PST;1;PL;LGSPEC1
+sentir		V;SBJV;PRS;2;SG
+sentir		V;SBJV;PST;3;SG
+sentir		V;SBJV;FUT;2;PL
+sentir		V;IND;PRS;2;PL
+sentir	sentí	V;IND;PST;1;SG;PFV
+sentir		V;IND;FUT;2;PL
+sentir		V;IND;PST;2;PL;IPFV
+sentir	sintiere	V;SBJV;FUT;3;SG
+sentir		V;POS;IMP;1;PL
+sentir	sienten	V;IND;PRS;3;PL
+sentir		V;SBJV;PRS;3;SG
+sentir		V.PTCP;PST;FEM;SG
+sentir	sintiéremos	V;SBJV;FUT;1;PL
+sentir		V;IND;FUT;1;PL
+sentir		V;IND;PST;1;PL;PFV
+sentir		V;NEG;IMP;3;PL
+sentir	sintieron	V;IND;PST;3;PL;PFV
+sentir		V;IND;PST;2;SG;IPFV
+sentir		V;SBJV;FUT;3;PL
+sentir		V;SBJV;PST;2;PL;LGSPEC1
+sentir		V.CVB;PRS
+sentir		V;NEG;IMP;2;SG
+sentir		V;SBJV;FUT;2;SG
+sentir		V;SBJV;PST;2;SG;LGSPEC1
+sentir		V;POS;IMP;3;PL
+sentir		V;COND;2;PL
+sentir		V;IND;FUT;3;PL
+sentir	sintiesen	V;SBJV;PST;3;PL
+sentir		V;IND;PRS;1;SG
+sentir	sintiere	V;SBJV;FUT;1;SG
+sentir		V;POS;IMP;2;PL
+sentir		V;COND;1;SG
+sentir	siente	V;IND;PRS;3;SG
+sentir		V.PTCP;PST;FEM;PL
+sentir		V;SBJV;PRS;2;PL
+sentir		V;NFIN
+sentir		V;COND;3;SG
+sentir		V;IND;PST;2;PL;PFV
+sentir		V;NEG;IMP;1;PL
+sentir		V;SBJV;PRS;1;PL
+sentir		V;SBJV;PST;1;PL
+sentir		V;POS;IMP;2;SG
+sentir		V;IND;PST;3;PL;IPFV
+sentir		V;SBJV;PST;2;SG
+sentir		V;IND;PRS;2;SG
+sentir		V;COND;1;PL
+sentir	sienta	V;POS;IMP;3;SG
+sentir	te sentirás	V;IND;FUT;2;SG
+sentir		V;IND;PST;1;SG;IPFV
+sentir		V;IND;PST;3;SG;PFV
+sentir		V;IND;PST;2;SG;PFV
+sentir		V;IND;PST;3;SG;IPFV
+sentir		V;IND;FUT;1;SG
+sentir		V;SBJV;PRS;1;SG
+sentir		V.PTCP;PST;MASC;SG
+sentir		V.PTCP;PST;MASC;PL
+padecer		V;IND;PST;1;PL;IPFV
+padecer		V;SBJV;PST;3;PL;LGSPEC1
+padecer		V;NEG;IMP;2;PL
+padecer		V;SBJV;PST;1;SG
+padecer		V;NEG;IMP;3;SG
+padecer		V;COND;2;SG
+padecer		V;IND;FUT;3;SG
+padecer	padezcamos	V;SBJV;PRS;1;PL
+padecer		V;SBJV;FUT;3;PL
+padecer		V;COND;3;PL
+padecer		V;SBJV;PST;1;SG;LGSPEC1
+padecer	padece	V;POS;IMP;2;SG
+padecer		V;IND;PRS;1;PL
+padecer		V;SBJV;PRS;3;SG
+padecer		V;SBJV;PST;3;SG;LGSPEC1
+padecer		V;IND;PRS;3;PL
+padecer		V.PTCP;PST;FEM;SG
+padecer		V;SBJV;PRS;2;SG
+padecer	padeciese	V;SBJV;PST;3;SG
+padecer		V;SBJV;PST;2;PL
+padecer		V;IND;PRS;2;PL
+padecer		V;SBJV;FUT;1;PL
+padecer		V;IND;FUT;2;PL
+padecer		V;IND;PST;2;PL;IPFV
+padecer		V;SBJV;PST;1;PL;LGSPEC1
+padecer		V;POS;IMP;1;PL
+padecer		V;SBJV;FUT;3;SG
+padecer		V;COND;1;SG
+padecer		V;IND;PST;1;PL;PFV
+padecer	no padezcan	V;NEG;IMP;3;PL
+padecer		V;IND;PST;3;PL;PFV
+padecer	padecías	V;IND;PST;2;SG;IPFV
+padecer		V;SBJV;PRS;1;SG
+padecer		V;SBJV;PST;2;PL;LGSPEC1
+padecer	padeciendo	V.CVB;PRS
+padecer		V;NEG;IMP;2;SG
+padecer	padecieres	V;SBJV;FUT;2;SG
+padecer		V;SBJV;PRS;2;PL
+padecer	padecieras	V;SBJV;PST;2;SG;LGSPEC1
+padecer		V;POS;IMP;3;PL
+padecer		V;COND;2;PL
+padecer		V;IND;FUT;3;PL
+padecer	padeciesen	V;SBJV;PST;3;PL
+padecer		V;IND;PRS;1;SG
+padecer		V;SBJV;FUT;1;SG
+padecer		V;POS;IMP;2;PL
+padecer		V;IND;FUT;1;PL
+padecer		V;IND;PRS;3;SG
+padecer		V.PTCP;PST;FEM;PL
+padecer	padeciereis	V;SBJV;FUT;2;PL
+padecer		V;NFIN
+padecer	padecería	V;COND;3;SG
+padecer	padecisteis	V;IND;PST;2;PL;PFV
+padecer		V;NEG;IMP;1;PL
+padecer		V;IND;PST;1;SG;PFV
+padecer		V;SBJV;PST;1;PL
+padecer		V;IND;PST;3;PL;IPFV
+padecer		V;SBJV;PST;2;SG
+padecer		V;IND;PRS;2;SG
+padecer	padeceríamos	V;COND;1;PL
+padecer		V;POS;IMP;3;SG
+padecer		V;IND;FUT;2;SG
+padecer		V;IND;PST;1;SG;IPFV
+padecer		V;IND;PST;3;SG;PFV
+padecer		V;SBJV;PRS;3;PL
+padecer		V;IND;PST;2;SG;PFV
+padecer		V;IND;PST;3;SG;IPFV
+padecer		V;IND;FUT;1;SG
+padecer		V.PTCP;PST;MASC;PL
+padecer		V.PTCP;PST;MASC;SG
+afectar		V;IND;PST;1;PL;IPFV
+afectar		V;SBJV;PST;3;PL;LGSPEC1
+afectar		V;NEG;IMP;2;PL
+afectar		V;NEG;IMP;3;SG
+afectar		V;COND;2;SG
+afectar		V;IND;FUT;3;SG
+afectar	afectaren	V;SBJV;FUT;3;PL
+afectar		V;COND;3;PL
+afectar	afectara	V;SBJV;PST;1;SG;LGSPEC1
+afectar		V;SBJV;PST;1;SG
+afectar		V;IND;PRS;1;PL
+afectar		V;SBJV;PRS;3;SG
+afectar		V;NEG;IMP;2;SG
+afectar		V;IND;PRS;3;PL
+afectar	afectáramos	V;SBJV;PST;1;PL;LGSPEC1
+afectar	afectes	V;SBJV;PRS;2;SG
+afectar		V;SBJV;PST;3;SG
+afectar		V;NEG;IMP;1;PL
+afectar		V;SBJV;PST;2;PL
+afectar		V;IND;PRS;2;PL
+afectar		V;SBJV;FUT;1;PL
+afectar	afectaréis	V;IND;FUT;2;PL
+afectar		V;IND;PST;2;PL;IPFV
+afectar	afecté	V;IND;PST;1;SG;PFV
+afectar		V;POS;IMP;1;PL
+afectar		V;NFIN
+afectar		V.PTCP;PST;FEM;SG
+afectar		V;IND;FUT;1;PL
+afectar		V;IND;PST;1;PL;PFV
+afectar		V;NEG;IMP;3;PL
+afectar		V;IND;PST;3;PL;PFV
+afectar		V.PTCP;PST;MASC;SG
+afectar		V;SBJV;PRS;1;SG
+afectar		V;SBJV;PST;2;PL;LGSPEC1
+afectar	afectando	V.CVB;PRS
+afectar		V;SBJV;PST;3;SG;LGSPEC1
+afectar	afectares	V;SBJV;FUT;2;SG
+afectar		V;SBJV;PRS;2;PL
+afectar		V;IND;FUT;1;SG
+afectar	afecten	V;POS;IMP;3;PL
+afectar	afectaríais	V;COND;2;PL
+afectar		V;IND;FUT;3;PL
+afectar		V;SBJV;PST;3;PL
+afectar		V;IND;PRS;1;SG
+afectar		V;SBJV;FUT;1;SG
+afectar		V;POS;IMP;2;PL
+afectar		V;COND;1;SG
+afectar	afecta	V;IND;PRS;3;SG
+afectar		V.PTCP;PST;FEM;PL
+afectar		V;SBJV;FUT;2;PL
+afectar		V;SBJV;FUT;3;SG
+afectar		V;COND;3;SG
+afectar		V;IND;PST;2;PL;PFV
+afectar		V;IND;PST;2;SG;PFV
+afectar		V;SBJV;PRS;1;PL
+afectar		V;SBJV;PST;1;PL
+afectar		V;POS;IMP;2;SG
+afectar		V;IND;PST;3;PL;IPFV
+afectar		V;SBJV;PST;2;SG
+afectar	afectas	V;IND;PRS;2;SG
+afectar		V;COND;1;PL
+afectar		V;POS;IMP;3;SG
+afectar		V;IND;FUT;2;SG
+afectar	afectaba	V;IND;PST;1;SG;IPFV
+afectar		V;IND;PST;3;SG;PFV
+afectar		V;SBJV;PRS;3;PL
+afectar		V;IND;PST;3;SG;IPFV
+afectar		V;SBJV;PST;2;SG;LGSPEC1
+afectar		V.PTCP;PST;MASC;PL
+afectar		V;IND;PST;2;SG;IPFV
+restituir		V;IND;PST;1;PL;IPFV
+restituir		V;SBJV;FUT;1;SG
+restituir		V;SBJV;PST;3;PL;LGSPEC1
+restituir		V;NEG;IMP;2;PL
+restituir	no restituya	V;NEG;IMP;3;SG
+restituir		V;COND;2;SG
+restituir		V;IND;FUT;3;SG
+restituir	restituyan	V;SBJV;PRS;3;PL
+restituir		V;COND;3;PL
+restituir		V;SBJV;PST;1;SG;LGSPEC1
+restituir		V;SBJV;PST;1;SG
+restituir		V;IND;PRS;1;PL
+restituir		V;SBJV;PST;3;SG;LGSPEC1
+restituir		V;POS;IMP;3;SG
+restituir		V.PTCP;PST;FEM;SG
+restituir		V;SBJV;PRS;2;SG
+restituir	restituyese	V;SBJV;PST;3;SG
+restituir		V;IND;PRS;3;PL
+restituir		V;IND;PRS;2;PL
+restituir		V;IND;PST;1;SG;PFV
+restituir		V;IND;FUT;2;PL
+restituir		V;IND;PST;2;PL;IPFV
+restituir		V;SBJV;FUT;2;PL
+restituir		V;SBJV;FUT;3;SG
+restituir		V;POS;IMP;1;PL
+restituir		V;SBJV;PRS;3;SG
+restituir	restituyéremos	V;SBJV;FUT;1;PL
+restituir		V;IND;FUT;1;PL
+restituir	restituimos	V;IND;PST;1;PL;PFV
+restituir	no restituyan	V;NEG;IMP;3;PL
+restituir		V;IND;PST;3;PL;PFV
+restituir		V.PTCP;PST;MASC;SG
+restituir		V;SBJV;FUT;3;PL
+restituir	restituyerais	V;SBJV;PST;2;PL;LGSPEC1
+restituir		V.CVB;PRS
+restituir		V;NEG;IMP;2;SG
+restituir		V;SBJV;FUT;2;SG
+restituir	restituyeras	V;SBJV;PST;2;SG;LGSPEC1
+restituir	restituyan	V;POS;IMP;3;PL
+restituir		V;COND;2;PL
+restituir		V;IND;FUT;3;PL
+restituir		V;SBJV;PST;3;PL
+restituir		V;IND;PRS;1;SG
+restituir		V;SBJV;PRS;1;SG
+restituir	restituid	V;POS;IMP;2;PL
+restituir		V;COND;1;SG
+restituir		V;IND;PRS;3;SG
+restituir		V.PTCP;PST;FEM;PL
+restituir		V;SBJV;PRS;2;PL
+restituir		V;NFIN
+restituir	restituiría	V;COND;3;SG
+restituir		V;IND;PST;2;PL;PFV
+restituir		V;NEG;IMP;1;PL
+restituir	restituyamos	V;SBJV;PRS;1;PL
+restituir		V;SBJV;PST;1;PL
+restituir		V;POS;IMP;2;SG
+restituir		V;IND;PST;3;PL;IPFV
+restituir		V;SBJV;PST;2;SG
+restituir		V;SBJV;PST;1;PL;LGSPEC1
+restituir		V;COND;1;PL
+restituir		V;SBJV;PST;2;PL
+restituir		V;IND;FUT;2;SG
+restituir	restituía	V;IND;PST;1;SG;IPFV
+restituir		V;IND;PST;3;SG;PFV
+restituir		V;IND;PST;2;SG;PFV
+restituir		V;IND;PST;3;SG;IPFV
+restituir		V;IND;FUT;1;SG
+restituir		V.PTCP;PST;MASC;PL
+restituir		V;IND;PST;2;SG;IPFV
+restituir		V;IND;PRS;2;SG
+sanar		V;IND;PST;1;PL;IPFV
+sanar		V;SBJV;PST;3;PL;LGSPEC1
+sanar		V;NEG;IMP;2;PL
+sanar		V;NEG;IMP;3;SG
+sanar		V;COND;2;SG
+sanar		V;IND;FUT;3;SG
+sanar		V;SBJV;FUT;3;PL
+sanar		V;COND;3;PL
+sanar	sanara	V;SBJV;PST;1;SG;LGSPEC1
+sanar		V;SBJV;PST;1;SG
+sanar		V;IND;PRS;1;PL
+sanar		V;SBJV;PRS;3;SG
+sanar		V;SBJV;PST;3;SG;LGSPEC1
+sanar		V;IND;PRS;3;PL
+sanar		V.PTCP;PST;FEM;SG
+sanar	sanes	V;SBJV;PRS;2;SG
+sanar		V;SBJV;PST;3;SG
+sanar		V;SBJV;PST;2;PL
+sanar	sanáis	V;IND;PRS;2;PL
+sanar		V;SBJV;FUT;1;PL
+sanar	sanaréis	V;IND;FUT;2;PL
+sanar	sanabais	V;IND;PST;2;PL;IPFV
+sanar		V;IND;PST;1;SG;PFV
+sanar		V;POS;IMP;1;PL
+sanar		V;NFIN
+sanar		V;IND;FUT;1;PL
+sanar		V;IND;PST;1;PL;PFV
+sanar		V;NEG;IMP;3;PL
+sanar		V;IND;PST;3;PL;PFV
+sanar		V.PTCP;PST;MASC;SG
+sanar		V;SBJV;PRS;1;SG
+sanar		V;SBJV;PST;2;PL;LGSPEC1
+sanar		V.CVB;PRS
+sanar		V;NEG;IMP;2;SG
+sanar	sanares	V;SBJV;FUT;2;SG
+sanar		V;SBJV;PRS;2;PL
+sanar		V;IND;FUT;1;SG
+sanar		V;POS;IMP;3;PL
+sanar		V;COND;2;PL
+sanar		V;IND;FUT;3;PL
+sanar		V;SBJV;PST;3;PL
+sanar	sano	V;IND;PRS;1;SG
+sanar		V;SBJV;FUT;1;SG
+sanar		V;POS;IMP;2;PL
+sanar		V;COND;1;SG
+sanar		V;IND;PRS;3;SG
+sanar		V.PTCP;PST;FEM;PL
+sanar		V;SBJV;FUT;2;PL
+sanar	sanare	V;SBJV;FUT;3;SG
+sanar		V;COND;3;SG
+sanar	sanasteis	V;IND;PST;2;PL;PFV
+sanar	no sanemos	V;NEG;IMP;1;PL
+sanar		V;SBJV;PRS;1;PL
+sanar		V;SBJV;PST;1;PL
+sanar		V;POS;IMP;2;SG
+sanar		V;IND;PST;3;PL;IPFV
+sanar	sanases	V;SBJV;PST;2;SG
+sanar		V;SBJV;PST;1;PL;LGSPEC1
+sanar		V;COND;1;PL
+sanar		V;POS;IMP;3;SG
+sanar	sanarás	V;IND;FUT;2;SG
+sanar		V;IND;PST;1;SG;IPFV
+sanar		V;IND;PST;3;SG;PFV
+sanar		V;SBJV;PRS;3;PL
+sanar		V;IND;PST;2;SG;PFV
+sanar		V;IND;PST;3;SG;IPFV
+sanar		V;SBJV;PST;2;SG;LGSPEC1
+sanar		V.PTCP;PST;MASC;PL
+sanar		V;IND;PST;2;SG;IPFV
+sanar	sanas	V;IND;PRS;2;SG
+desaconsejar		V;IND;PST;1;PL;IPFV
+desaconsejar		V;SBJV;PST;3;PL;LGSPEC1
+desaconsejar		V;NEG;IMP;2;PL
+desaconsejar		V;NEG;IMP;3;SG
+desaconsejar		V;COND;2;SG
+desaconsejar		V;IND;FUT;3;SG
+desaconsejar		V;SBJV;FUT;3;PL
+desaconsejar		V;COND;3;PL
+desaconsejar		V;SBJV;PST;1;SG;LGSPEC1
+desaconsejar		V;SBJV;PST;1;SG
+desaconsejar		V;IND;PRS;1;PL
+desaconsejar		V;SBJV;PRS;3;SG
+desaconsejar		V;NEG;IMP;2;SG
+desaconsejar	desaconsejan	V;IND;PRS;3;PL
+desaconsejar		V;SBJV;PST;1;PL;LGSPEC1
+desaconsejar		V;SBJV;PRS;2;SG
+desaconsejar		V;SBJV;PST;3;SG
+desaconsejar		V;NEG;IMP;1;PL
+desaconsejar		V;SBJV;PST;2;PL
+desaconsejar		V;IND;PRS;2;PL
+desaconsejar	desaconsejáremos	V;SBJV;FUT;1;PL
+desaconsejar	desaconsejaréis	V;IND;FUT;2;PL
+desaconsejar		V;IND;PST;2;PL;IPFV
+desaconsejar		V;IND;PST;1;SG;PFV
+desaconsejar		V;POS;IMP;1;PL
+desaconsejar		V;NFIN
+desaconsejar		V.PTCP;PST;FEM;SG
+desaconsejar		V;IND;FUT;1;PL
+desaconsejar		V;IND;PST;1;PL;PFV
+desaconsejar		V;NEG;IMP;3;PL
+desaconsejar		V;IND;PST;3;PL;PFV
+desaconsejar		V.PTCP;PST;MASC;SG
+desaconsejar		V;SBJV;PRS;1;SG
+desaconsejar		V;SBJV;PST;2;PL;LGSPEC1
+desaconsejar		V.CVB;PRS
+desaconsejar	desaconsejara	V;SBJV;PST;3;SG;LGSPEC1
+desaconsejar		V;SBJV;FUT;2;SG
+desaconsejar		V;SBJV;PRS;2;PL
+desaconsejar		V;IND;FUT;1;SG
+desaconsejar	desaconsejen	V;POS;IMP;3;PL
+desaconsejar	desaconsejaríais	V;COND;2;PL
+desaconsejar		V;IND;FUT;3;PL
+desaconsejar		V;SBJV;PST;3;PL
+desaconsejar	desaconsejo	V;IND;PRS;1;SG
+desaconsejar		V;SBJV;FUT;1;SG
+desaconsejar	desaconsejad	V;POS;IMP;2;PL
+desaconsejar	desaconsejaría	V;COND;1;SG
+desaconsejar	desaconseja	V;IND;PRS;3;SG
+desaconsejar		V.PTCP;PST;FEM;PL
+desaconsejar		V;SBJV;FUT;2;PL
+desaconsejar		V;SBJV;FUT;3;SG
+desaconsejar		V;COND;3;SG
+desaconsejar	desaconsejasteis	V;IND;PST;2;PL;PFV
+desaconsejar		V;IND;PST;2;SG;PFV
+desaconsejar		V;SBJV;PRS;1;PL
+desaconsejar		V;SBJV;PST;1;PL
+desaconsejar		V;POS;IMP;2;SG
+desaconsejar		V;IND;PST;3;PL;IPFV
+desaconsejar		V;SBJV;PST;2;SG
+desaconsejar		V;IND;PRS;2;SG
+desaconsejar		V;COND;1;PL
+desaconsejar	desaconseje	V;POS;IMP;3;SG
+desaconsejar		V;IND;FUT;2;SG
+desaconsejar	desaconsejaba	V;IND;PST;1;SG;IPFV
+desaconsejar		V;IND;PST;3;SG;PFV
+desaconsejar		V;SBJV;PRS;3;PL
+desaconsejar		V;IND;PST;3;SG;IPFV
+desaconsejar		V;SBJV;PST;2;SG;LGSPEC1
+desaconsejar		V.PTCP;PST;MASC;PL
+desaconsejar		V;IND;PST;2;SG;IPFV
+dilucidar	dilucidábamos	V;IND;PST;1;PL;IPFV
+dilucidar		V;SBJV;PST;3;PL;LGSPEC1
+dilucidar		V;NEG;IMP;2;PL
+dilucidar		V;NEG;IMP;3;SG
+dilucidar		V;COND;2;SG
+dilucidar		V;IND;FUT;3;SG
+dilucidar		V;SBJV;FUT;3;PL
+dilucidar	dilucidarían	V;COND;3;PL
+dilucidar		V;SBJV;PST;1;SG;LGSPEC1
+dilucidar		V;SBJV;PST;1;SG
+dilucidar		V;IND;PRS;1;PL
+dilucidar		V;SBJV;PRS;3;SG
+dilucidar		V;NEG;IMP;2;SG
+dilucidar		V;IND;PRS;3;PL
+dilucidar	dilucidáramos	V;SBJV;PST;1;PL;LGSPEC1
+dilucidar		V;SBJV;PRS;2;SG
+dilucidar		V;SBJV;PST;3;SG
+dilucidar		V;NEG;IMP;1;PL
+dilucidar		V;SBJV;PST;2;PL
+dilucidar		V;IND;PRS;2;PL
+dilucidar		V;SBJV;FUT;1;PL
+dilucidar		V;IND;FUT;2;PL
+dilucidar		V;IND;PST;2;PL;IPFV
+dilucidar	dilucidé	V;IND;PST;1;SG;PFV
+dilucidar		V;POS;IMP;1;PL
+dilucidar		V;NFIN
+dilucidar		V.PTCP;PST;FEM;SG
+dilucidar		V;IND;FUT;1;PL
+dilucidar		V;IND;PST;1;PL;PFV
+dilucidar		V;NEG;IMP;3;PL
+dilucidar		V;IND;PST;3;PL;PFV
+dilucidar		V.PTCP;PST;MASC;SG
+dilucidar	dilucide	V;SBJV;PRS;1;SG
+dilucidar		V;SBJV;PST;2;PL;LGSPEC1
+dilucidar		V.CVB;PRS
+dilucidar	dilucidara	V;SBJV;PST;3;SG;LGSPEC1
+dilucidar		V;SBJV;FUT;2;SG
+dilucidar		V;SBJV;PRS;2;PL
+dilucidar		V;IND;FUT;1;SG
+dilucidar		V;POS;IMP;3;PL
+dilucidar		V;COND;2;PL
+dilucidar	dilucidarán	V;IND;FUT;3;PL
+dilucidar		V;SBJV;PST;3;PL
+dilucidar	dilucido	V;IND;PRS;1;SG
+dilucidar		V;SBJV;FUT;1;SG
+dilucidar	dilucidad	V;POS;IMP;2;PL
+dilucidar	dilucidaría	V;COND;1;SG
+dilucidar		V;IND;PRS;3;SG
+dilucidar		V.PTCP;PST;FEM;PL
+dilucidar		V;SBJV;FUT;2;PL
+dilucidar		V;SBJV;FUT;3;SG
+dilucidar		V;COND;3;SG
+dilucidar		V;IND;PST;2;PL;PFV
+dilucidar		V;IND;PST;2;SG;PFV
+dilucidar		V;SBJV;PRS;1;PL
+dilucidar	dilucidásemos	V;SBJV;PST;1;PL
+dilucidar		V;POS;IMP;2;SG
+dilucidar		V;IND;PST;3;PL;IPFV
+dilucidar		V;SBJV;PST;2;SG
+dilucidar	dilucidas	V;IND;PRS;2;SG
+dilucidar		V;COND;1;PL
+dilucidar	dilucide	V;POS;IMP;3;SG
+dilucidar		V;IND;FUT;2;SG
+dilucidar		V;IND;PST;1;SG;IPFV
+dilucidar		V;IND;PST;3;SG;PFV
+dilucidar		V;SBJV;PRS;3;PL
+dilucidar		V;IND;PST;3;SG;IPFV
+dilucidar		V;SBJV;PST;2;SG;LGSPEC1
+dilucidar		V.PTCP;PST;MASC;PL
+dilucidar		V;IND;PST;2;SG;IPFV
+activar		V;IND;PST;1;PL;IPFV
+activar	activaran	V;SBJV;PST;3;PL;LGSPEC1
+activar		V;NEG;IMP;2;PL
+activar	no active	V;NEG;IMP;3;SG
+activar		V;COND;2;SG
+activar		V;IND;FUT;3;SG
+activar		V;SBJV;FUT;3;PL
+activar		V;COND;3;PL
+activar		V;SBJV;PST;1;SG;LGSPEC1
+activar		V;SBJV;PST;1;SG
+activar	activamos	V;IND;PRS;1;PL
+activar		V;SBJV;PRS;3;SG
+activar		V;NEG;IMP;2;SG
+activar		V;IND;PRS;3;PL
+activar		V;SBJV;PST;1;PL;LGSPEC1
+activar		V;SBJV;PRS;2;SG
+activar		V;SBJV;PST;3;SG
+activar		V;NEG;IMP;1;PL
+activar		V;SBJV;PST;2;PL
+activar		V;IND;PRS;2;PL
+activar		V;SBJV;FUT;1;PL
+activar		V;IND;FUT;2;PL
+activar		V;IND;PST;2;PL;IPFV
+activar	activé	V;IND;PST;1;SG;PFV
+activar	activemos	V;POS;IMP;1;PL
+activar		V;NFIN
+activar		V.PTCP;PST;FEM;SG
+activar	activaremos	V;IND;FUT;1;PL
+activar	activamos	V;IND;PST;1;PL;PFV
+activar		V;NEG;IMP;3;PL
+activar		V;IND;PST;3;PL;PFV
+activar		V.PTCP;PST;MASC;SG
+activar		V;SBJV;PRS;1;SG
+activar		V;SBJV;PST;2;PL;LGSPEC1
+activar		V.CVB;PRS
+activar		V;SBJV;PST;3;SG;LGSPEC1
+activar		V;SBJV;FUT;2;SG
+activar		V;SBJV;PRS;2;PL
+activar		V;IND;FUT;1;SG
+activar		V;POS;IMP;3;PL
+activar	activaríais	V;COND;2;PL
+activar		V;IND;FUT;3;PL
+activar		V;SBJV;PST;3;PL
+activar		V;IND;PRS;1;SG
+activar		V;SBJV;FUT;1;SG
+activar	activad	V;POS;IMP;2;PL
+activar	activaría	V;COND;1;SG
+activar		V;IND;PRS;3;SG
+activar		V.PTCP;PST;FEM;PL
+activar		V;SBJV;FUT;2;PL
+activar		V;SBJV;FUT;3;SG
+activar		V;COND;3;SG
+activar		V;IND;PST;2;PL;PFV
+activar		V;IND;PST;2;SG;PFV
+activar		V;SBJV;PRS;1;PL
+activar	activásemos	V;SBJV;PST;1;PL
+activar		V;POS;IMP;2;SG
+activar		V;IND;PST;3;PL;IPFV
+activar		V;SBJV;PST;2;SG
+activar	activas	V;IND;PRS;2;SG
+activar		V;COND;1;PL
+activar		V;POS;IMP;3;SG
+activar		V;IND;FUT;2;SG
+activar		V;IND;PST;1;SG;IPFV
+activar	activó	V;IND;PST;3;SG;PFV
+activar		V;SBJV;PRS;3;PL
+activar		V;IND;PST;3;SG;IPFV
+activar		V;SBJV;PST;2;SG;LGSPEC1
+activar		V.PTCP;PST;MASC;PL
+activar		V;IND;PST;2;SG;IPFV
+borrar	borrábamos	V;IND;PST;1;PL;IPFV
+borrar	borraran	V;SBJV;PST;3;PL;LGSPEC1
+borrar		V;NEG;IMP;2;PL
+borrar	no borre	V;NEG;IMP;3;SG
+borrar		V;COND;2;SG
+borrar		V;IND;FUT;3;SG
+borrar		V;SBJV;FUT;3;PL
+borrar		V;COND;3;PL
+borrar		V;SBJV;PST;1;SG;LGSPEC1
+borrar		V;SBJV;PST;1;SG
+borrar		V;IND;PRS;1;PL
+borrar		V;SBJV;PRS;3;SG
+borrar		V;NEG;IMP;2;SG
+borrar	borran	V;IND;PRS;3;PL
+borrar		V;SBJV;PST;1;PL;LGSPEC1
+borrar	borres	V;SBJV;PRS;2;SG
+borrar	borrase	V;SBJV;PST;3;SG
+borrar		V;NEG;IMP;1;PL
+borrar	borraseis	V;SBJV;PST;2;PL
+borrar		V;IND;PRS;2;PL
+borrar		V;SBJV;FUT;1;PL
+borrar		V;IND;FUT;2;PL
+borrar	borrabais	V;IND;PST;2;PL;IPFV
+borrar		V;IND;PST;1;SG;PFV
+borrar		V;POS;IMP;1;PL
+borrar	borrar	V;NFIN
+borrar		V.PTCP;PST;FEM;SG
+borrar		V;IND;FUT;1;PL
+borrar		V;IND;PST;1;PL;PFV
+borrar		V;NEG;IMP;3;PL
+borrar	borraron	V;IND;PST;3;PL;PFV
+borrar		V.PTCP;PST;MASC;SG
+borrar		V;SBJV;PRS;1;SG
+borrar		V;SBJV;PST;2;PL;LGSPEC1
+borrar		V.CVB;PRS
+borrar		V;SBJV;PST;3;SG;LGSPEC1
+borrar		V;SBJV;FUT;2;SG
+borrar		V;SBJV;PRS;2;PL
+borrar		V;IND;FUT;1;SG
+borrar		V;POS;IMP;3;PL
+borrar		V;COND;2;PL
+borrar		V;IND;FUT;3;PL
+borrar		V;SBJV;PST;3;PL
+borrar		V;IND;PRS;1;SG
+borrar		V;SBJV;FUT;1;SG
+borrar		V;POS;IMP;2;PL
+borrar		V;COND;1;SG
+borrar		V;IND;PRS;3;SG
+borrar		V.PTCP;PST;FEM;PL
+borrar		V;SBJV;FUT;2;PL
+borrar		V;SBJV;FUT;3;SG
+borrar		V;COND;3;SG
+borrar		V;IND;PST;2;PL;PFV
+borrar	borraste	V;IND;PST;2;SG;PFV
+borrar		V;SBJV;PRS;1;PL
+borrar		V;SBJV;PST;1;PL
+borrar		V;POS;IMP;2;SG
+borrar		V;IND;PST;3;PL;IPFV
+borrar		V;SBJV;PST;2;SG
+borrar	borras	V;IND;PRS;2;SG
+borrar		V;COND;1;PL
+borrar		V;POS;IMP;3;SG
+borrar	borrarás	V;IND;FUT;2;SG
+borrar		V;IND;PST;1;SG;IPFV
+borrar		V;IND;PST;3;SG;PFV
+borrar		V;SBJV;PRS;3;PL
+borrar		V;IND;PST;3;SG;IPFV
+borrar		V;SBJV;PST;2;SG;LGSPEC1
+borrar		V.PTCP;PST;MASC;PL
+borrar		V;IND;PST;2;SG;IPFV
+florecer		V;IND;PST;1;PL;IPFV
+florecer	florecieran	V;SBJV;PST;3;PL;LGSPEC1
+florecer		V;NEG;IMP;2;PL
+florecer	floreciese	V;SBJV;PST;1;SG
+florecer		V;NEG;IMP;3;SG
+florecer		V;COND;2;SG
+florecer		V;IND;FUT;3;SG
+florecer		V;SBJV;PRS;1;PL
+florecer	florecieren	V;SBJV;FUT;3;PL
+florecer		V;COND;3;PL
+florecer		V;SBJV;PST;1;SG;LGSPEC1
+florecer		V;POS;IMP;2;SG
+florecer		V;IND;PRS;1;PL
+florecer		V;SBJV;PRS;3;SG
+florecer		V;NEG;IMP;2;SG
+florecer		V;IND;PRS;3;PL
+florecer		V.PTCP;PST;FEM;SG
+florecer		V;SBJV;PRS;2;SG
+florecer		V;SBJV;PST;3;SG
+florecer		V;NEG;IMP;1;PL
+florecer		V;SBJV;PST;2;PL
+florecer		V;IND;PRS;2;PL
+florecer		V;SBJV;FUT;1;PL
+florecer		V;IND;FUT;2;PL
+florecer		V;IND;PST;2;PL;IPFV
+florecer		V;SBJV;PST;1;PL;LGSPEC1
+florecer	florezcamos	V;POS;IMP;1;PL
+florecer		V;SBJV;FUT;3;SG
+florecer		V;IND;FUT;1;PL
+florecer		V;IND;PST;1;PL;PFV
+florecer		V;NEG;IMP;3;PL
+florecer		V;IND;PST;3;PL;PFV
+florecer		V;IND;PST;2;SG;IPFV
+florecer	florezca	V;SBJV;PRS;1;SG
+florecer	florecierais	V;SBJV;PST;2;PL;LGSPEC1
+florecer		V.CVB;PRS
+florecer		V;SBJV;PST;3;SG;LGSPEC1
+florecer	florecieres	V;SBJV;FUT;2;SG
+florecer	florezcáis	V;SBJV;PRS;2;PL
+florecer		V;SBJV;PST;2;SG;LGSPEC1
+florecer		V;POS;IMP;3;PL
+florecer	floreceríais	V;COND;2;PL
+florecer		V;IND;FUT;3;PL
+florecer		V;SBJV;PST;3;PL
+florecer		V;IND;PRS;1;SG
+florecer		V;SBJV;FUT;1;SG
+florecer		V;POS;IMP;2;PL
+florecer		V;COND;1;SG
+florecer		V;IND;PRS;3;SG
+florecer		V.PTCP;PST;FEM;PL
+florecer		V;SBJV;FUT;2;PL
+florecer		V;NFIN
+florecer	florecería	V;COND;3;SG
+florecer		V;IND;PST;2;PL;PFV
+florecer		V;IND;PST;2;SG;PFV
+florecer	florecí	V;IND;PST;1;SG;PFV
+florecer		V;SBJV;PST;1;PL
+florecer		V;IND;PST;3;PL;IPFV
+florecer		V;SBJV;PST;2;SG
+florecer		V;IND;PRS;2;SG
+florecer		V;COND;1;PL
+florecer		V;POS;IMP;3;SG
+florecer		V;IND;FUT;2;SG
+florecer		V;IND;PST;1;SG;IPFV
+florecer		V;IND;PST;3;SG;PFV
+florecer	florezcan	V;SBJV;PRS;3;PL
+florecer		V;IND;PST;3;SG;IPFV
+florecer		V;IND;FUT;1;SG
+florecer	florecidos	V.PTCP;PST;MASC;PL
+florecer		V.PTCP;PST;MASC;SG
+contestar	contestábamos	V;IND;PST;1;PL;IPFV
+contestar		V;SBJV;PST;3;PL;LGSPEC1
+contestar	no contestéis	V;NEG;IMP;2;PL
+contestar	no conteste	V;NEG;IMP;3;SG
+contestar	contestarías	V;COND;2;SG
+contestar		V;IND;FUT;3;SG
+contestar		V;SBJV;FUT;3;PL
+contestar		V;COND;3;PL
+contestar		V;SBJV;PST;1;SG;LGSPEC1
+contestar		V;SBJV;PST;1;SG
+contestar	contestamos	V;IND;PRS;1;PL
+contestar		V;SBJV;PRS;3;SG
+contestar		V;NEG;IMP;2;SG
+contestar		V;IND;PRS;3;PL
+contestar		V;SBJV;PST;1;PL;LGSPEC1
+contestar		V;SBJV;PRS;2;SG
+contestar		V;SBJV;PST;3;SG
+contestar		V;NEG;IMP;1;PL
+contestar		V;SBJV;PST;2;PL
+contestar	contestáis	V;IND;PRS;2;PL
+contestar		V;SBJV;FUT;1;PL
+contestar		V;IND;FUT;2;PL
+contestar		V;IND;PST;2;PL;IPFV
+contestar		V;IND;PST;1;SG;PFV
+contestar		V;POS;IMP;1;PL
+contestar		V;NFIN
+contestar		V.PTCP;PST;FEM;SG
+contestar		V;IND;FUT;1;PL
+contestar		V;IND;PST;1;PL;PFV
+contestar	no contesten	V;NEG;IMP;3;PL
+contestar	contestaron	V;IND;PST;3;PL;PFV
+contestar		V.PTCP;PST;MASC;SG
+contestar		V;SBJV;PRS;1;SG
+contestar		V;SBJV;PST;2;PL;LGSPEC1
+contestar		V.CVB;PRS
+contestar		V;SBJV;PST;3;SG;LGSPEC1
+contestar		V;SBJV;FUT;2;SG
+contestar		V;SBJV;PRS;2;PL
+contestar	contestaré	V;IND;FUT;1;SG
+contestar		V;POS;IMP;3;PL
+contestar		V;COND;2;PL
+contestar		V;IND;FUT;3;PL
+contestar	contestasen	V;SBJV;PST;3;PL
+contestar		V;IND;PRS;1;SG
+contestar		V;SBJV;FUT;1;SG
+contestar		V;POS;IMP;2;PL
+contestar		V;COND;1;SG
+contestar	contesta	V;IND;PRS;3;SG
+contestar		V.PTCP;PST;FEM;PL
+contestar		V;SBJV;FUT;2;PL
+contestar		V;SBJV;FUT;3;SG
+contestar		V;COND;3;SG
+contestar		V;IND;PST;2;PL;PFV
+contestar		V;IND;PST;2;SG;PFV
+contestar		V;SBJV;PRS;1;PL
+contestar		V;SBJV;PST;1;PL
+contestar		V;POS;IMP;2;SG
+contestar	contestaban	V;IND;PST;3;PL;IPFV
+contestar		V;SBJV;PST;2;SG
+contestar		V;IND;PRS;2;SG
+contestar		V;COND;1;PL
+contestar		V;POS;IMP;3;SG
+contestar		V;IND;FUT;2;SG
+contestar	contestaba	V;IND;PST;1;SG;IPFV
+contestar		V;IND;PST;3;SG;PFV
+contestar		V;SBJV;PRS;3;PL
+contestar		V;IND;PST;3;SG;IPFV
+contestar		V;SBJV;PST;2;SG;LGSPEC1
+contestar		V.PTCP;PST;MASC;PL
+contestar		V;IND;PST;2;SG;IPFV
+emigrar		V;IND;PST;1;PL;IPFV
+emigrar	emigraran	V;SBJV;PST;3;PL;LGSPEC1
+emigrar	no emigréis	V;NEG;IMP;2;PL
+emigrar		V;NEG;IMP;3;SG
+emigrar		V;COND;2;SG
+emigrar		V;IND;FUT;3;SG
+emigrar		V;SBJV;FUT;3;PL
+emigrar	emigrarían	V;COND;3;PL
+emigrar	emigrara	V;SBJV;PST;1;SG;LGSPEC1
+emigrar		V;SBJV;PST;1;SG
+emigrar		V;IND;PRS;1;PL
+emigrar		V;SBJV;PRS;3;SG
+emigrar		V;NEG;IMP;2;SG
+emigrar		V;IND;PRS;3;PL
+emigrar		V;SBJV;PST;1;PL;LGSPEC1
+emigrar		V;SBJV;PRS;2;SG
+emigrar		V;SBJV;PST;3;SG
+emigrar		V;NEG;IMP;1;PL
+emigrar		V;SBJV;PST;2;PL
+emigrar		V;IND;PRS;2;PL
+emigrar	emigráremos	V;SBJV;FUT;1;PL
+emigrar		V;IND;FUT;2;PL
+emigrar		V;IND;PST;2;PL;IPFV
+emigrar		V;IND;PST;1;SG;PFV
+emigrar		V;POS;IMP;1;PL
+emigrar		V;NFIN
+emigrar		V.PTCP;PST;FEM;SG
+emigrar	emigraremos	V;IND;FUT;1;PL
+emigrar		V;IND;PST;1;PL;PFV
+emigrar		V;NEG;IMP;3;PL
+emigrar		V;IND;PST;3;PL;PFV
+emigrar		V.PTCP;PST;MASC;SG
+emigrar		V;SBJV;PRS;1;SG
+emigrar		V;SBJV;PST;2;PL;LGSPEC1
+emigrar	emigrando	V.CVB;PRS
+emigrar	emigrara	V;SBJV;PST;3;SG;LGSPEC1
+emigrar		V;SBJV;FUT;2;SG
+emigrar		V;SBJV;PRS;2;PL
+emigrar		V;IND;FUT;1;SG
+emigrar		V;POS;IMP;3;PL
+emigrar		V;COND;2;PL
+emigrar		V;IND;FUT;3;PL
+emigrar		V;SBJV;PST;3;PL
+emigrar	emigro	V;IND;PRS;1;SG
+emigrar	emigrare	V;SBJV;FUT;1;SG
+emigrar		V;POS;IMP;2;PL
+emigrar		V;COND;1;SG
+emigrar	emigra	V;IND;PRS;3;SG
+emigrar		V.PTCP;PST;FEM;PL
+emigrar		V;SBJV;FUT;2;PL
+emigrar		V;SBJV;FUT;3;SG
+emigrar		V;COND;3;SG
+emigrar		V;IND;PST;2;PL;PFV
+emigrar		V;IND;PST;2;SG;PFV
+emigrar	emigremos	V;SBJV;PRS;1;PL
+emigrar		V;SBJV;PST;1;PL
+emigrar		V;POS;IMP;2;SG
+emigrar		V;IND;PST;3;PL;IPFV
+emigrar		V;SBJV;PST;2;SG
+emigrar		V;IND;PRS;2;SG
+emigrar		V;COND;1;PL
+emigrar		V;POS;IMP;3;SG
+emigrar		V;IND;FUT;2;SG
+emigrar		V;IND;PST;1;SG;IPFV
+emigrar		V;IND;PST;3;SG;PFV
+emigrar		V;SBJV;PRS;3;PL
+emigrar		V;IND;PST;3;SG;IPFV
+emigrar		V;SBJV;PST;2;SG;LGSPEC1
+emigrar		V.PTCP;PST;MASC;PL
+emigrar	emigrabas	V;IND;PST;2;SG;IPFV

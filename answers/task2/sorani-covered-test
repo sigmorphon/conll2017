@@ -1,0 +1,1453 @@
+kendn		1;PFV;PL;PST;SBJV;V
+kendn		1;NEG;PL;PRF;PRS;SBJV;V
+kendn		2;IND;NEG;PRF;PST;SG;V
+kendn		1;IND;PROG;NEG;PL;PRS;V
+kendn	nekendbwwn	2;3;IND;NEG;PL;PRF;PST;V
+kendn	kendbwwy	2;IND;PRF;PST;SG;V
+kendn		2;3;PROG;NEG;PL;PST;V
+kendn	kendwwm	1;IND;PRF;PRS;SG;V
+kendn		1;NEG;PRF;PST;SBJV;SG;V
+kendn		1;PL;PRF;PST;SBJV;V
+kendn		3;IND;NEG;PRF;PST;SG;V
+kendn		2;PROG;PRS;SBJV;SG;V
+kendn		1;PROG;PST;SG;V
+kendn		2;3;PROG;PL;PST;V
+kendn		2;IND;PROG;PRS;SG;V
+kendn	kendwwyn	1;IND;PL;PRF;PRS;V
+kendn		2;3;IND;NEG;PFV;PL;PST;V
+kendn		3;IND;PROG;PRS;SG;V
+kendn		2;IND;PRF;PRS;SG;V
+kendn		1;NEG;PRF;PRS;SBJV;SG;V
+kendn		1;IND;NEG;PRF;PRS;SG;V
+kendn		1;PL;PRF;PRS;SBJV;V
+kendn		3;IND;PROG;NEG;PRS;SG;V
+kendn		1;PRF;PRS;SBJV;SG;V
+kendn	nekeny	2;PROG;NEG;PRS;SBJV;SG;V
+kendn		1;IND;NEG;PL;PRF;PRS;V
+kendn		1;PROG;NEG;PL;PRS;SBJV;V
+kendn		3;NEG;PFV;PST;SBJV;SG;V
+kendn		1;IND;PL;PRF;PST;V
+kendn		2;PFV;PST;SBJV;SG;V
+kendn		2;NEG;PFV;PST;SBJV;SG;V
+kendn		3;PROG;NEG;PRS;SBJV;SG;V
+kendn	kendbwwmbayě	1;PRF;PST;SBJV;SG;V
+kendn		1;PROG;NEG;PL;PST;V
+kendn		2;PROG;PST;SG;V
+kendn		1;IND;NEG;PFV;PL;PST;V
+kendn		2;3;IMP;PROG;PL;PRS;SBJV;V
+kendn		NEG;PST;V;V.PTCP
+kendn		1;IND;NEG;PFV;PST;SG;V
+kendn		3;PROG;PRS;SBJV;SG;V
+kendn		1;PROG;PRS;SBJV;SG;V
+kendn	nekendbn	2;3;NEG;PL;PRF;PRS;SBJV;V
+kendn		2;3;PROG;NEG;PL;PRS;SBJV;V
+kendn	nakenm	1;IND;PROG;NEG;PRS;SG;V
+kendn		2;3;NEG;PFV;PL;PST;SBJV;V
+kendn		2;PROG;NEG;PST;SG;V
+kendn		2;3;PL;PRF;PRS;SBJV;V
+kendn		3;PRF;PST;SBJV;SG;V
+kendn		2;IND;PFV;PST;SG;V
+kendn		1;PROG;NEG;PRS;SBJV;SG;V
+kendn		3;NEG;PRF;PRS;SBJV;SG;V
+kendn		2;3;PFV;PL;PST;SBJV;V
+kendn		2;PRF;PRS;SBJV;SG;V
+kendn		IMP;NEG;PL;V
+kendn	kendwwe	3;IND;PRF;PRS;SG;V
+kendn		2;NEG;PRF;PRS;SBJV;SG;V
+kendn		1;NEG;PFV;PST;SBJV;SG;V
+kendn		2;3;NEG;PL;PRF;PST;SBJV;V
+kendn		1;IND;NEG;PL;PRF;PST;V
+kendn		3;IND;PRF;PST;SG;V
+kendn		1;IND;PFV;PL;PST;V
+kendn		2;3;IND;PL;PRF;PST;V
+kendn		1;IND;PROG;PL;PRS;V
+kendn		3;PFV;PST;SBJV;SG;V
+kendn		3;NEG;PRF;PST;SBJV;SG;V
+kendn		2;3;IND;PROG;NEG;PL;PRS;V
+kendn	kendbwwm	1;IND;PRF;PST;SG;V
+kendn		3;PRF;PRS;SBJV;SG;V
+kendn		1;PFV;PST;SBJV;SG;V
+kendn		3;IND;NEG;PFV;PST;SG;V
+kendn		1;IND;PFV;PST;SG;V
+kendn		PST;V;V.PTCP
+kendn	nedekend	3;PROG;NEG;PST;SG;V
+kendn	bkene	IMP;SG;V
+kendn		2;3;IND;NFIN;PFV;PL;PST;V
+kendn		2;NEG;PRF;PST;SBJV;SG;V
+kendn		2;3;IND;PL;PRF;PRS;V
+kendn	nakeny	2;IND;PROG;NEG;PRS;SG;V
+kendn	nekendwwe	3;IND;NEG;PRF;PRS;SG;V
+kendn	nedekendm	1;PROG;NEG;PST;SG;V
+kendn	nekendynbayě	1;NEG;PFV;PL;PST;SBJV;V
+kendn		1;NEG;PL;PRF;PST;SBJV;V
+kendn		1;PROG;PL;PRS;SBJV;V
+kendn		IMP;NEG;SG;V
+kendn		2;IND;NEG;PRF;PRS;SG;V
+kendn	dekend	3;PROG;PST;SG;V
+kendn		2;3;IND;NEG;PL;PRF;PRS;V
+kendn	kend	3;IND;PFV;PST;SG;V
+kendn		1;PROG;PL;PST;V
+kendn		2;IND;NEG;PFV;PST;SG;V
+kendn		2;3;PL;PRF;PST;SBJV;V
+kendn		1;IND;PROG;PRS;SG;V
+kendn		2;3;IND;PROG;PL;PRS;V
+kendn		2;PRF;PST;SBJV;SG;V
+kendn		1;IND;NEG;PRF;PST;SG;V
+´yspanya		N;PSS3P
+´yspanya		N;PROX
+´yspanya		N;PSS1P
+´yspanya		N;PSS1S
+´yspanya		DEF;N;SG
+´yspanya		LGSPEC2;N
+´yspanya		N;REMT
+´yspanya		LGSPEC1;N;PSS3S
+´yspanya		FOC;N
+´yspanya	´yspanyatan	N;PSS2P
+´yspanya	´yspanyat	N;PSS2S
+´yspanya		INDF;N;SG
+´yspanya		INDF;INFM;N;SG
+nozda		N;PSS2S
+nozda		N;PROX
+nozda		ADJ;N;PSS2P
+nozda	nozdam	ADJ;N;PSS1S
+nozda		LGSPEC1;N;PSS3S
+nozda		LGSPEC2;N
+nozda	'ewnozdaye	N;REMT
+nozda	nozdamyan	ADJ;N;PSS3P
+nozda		N;PSS1P
+nozda		ADJ;N;PSS1P
+nozda		ADJ;LGSPEC1;N;PSS3S
+nozda		INDF;INFM;N;SG
+nozda		INDF;N;PL;PSS3P
+nozda		N;PSS2P
+nozda		DEF;N;PL
+nozda		DEF;N;SG
+nozda		INDF;N;SG
+nozda		FOC;N
+nozda		ADJ;N;PSS2S
+çyn		1;PFV;PL;PST;SBJV;V
+çyn		1;NEG;PL;PRF;PRS;SBJV;V
+çyn	neçybwwy	2;IND;NEG;PRF;PST;SG;V
+çyn		2;3;IND;PROG;NEG;PFV;PL;PRS;PST;SBJV;V
+çyn	naçyyn	1;IND;PROG;NEG;PL;PRS;V
+çyn		2;3;IND;NEG;PL;PRF;PST;V
+çyn		1;IND;PROG;NEG;PFV;PRS;PST;SBJV;SG;V
+çyn		2;IND;PRF;PST;SG;V
+çyn		2;3;PROG;NEG;PL;PST;V
+çyn		1;IND;PRF;PRS;SG;V
+çyn		1;NEG;PRF;PST;SBJV;SG;V
+çyn		1;PL;PRF;PST;SBJV;V
+çyn		2;PROG;PRS;SBJV;SG;V
+çyn		2;IND;PROG;PRS;SG;V
+çyn		1;IND;PL;PRF;PRS;V
+çyn		3;IND;NEG;PRF;PST;SG;V
+çyn		3;IND;PROG;PRS;SG;V
+çyn		2;IND;PRF;PRS;SG;V
+çyn		1;NEG;PRF;PRS;SBJV;SG;V
+çyn	neçywm	1;IND;NEG;PRF;PRS;SG;V
+çyn	çybyn	1;PL;PRF;PRS;SBJV;V
+çyn		3;IND;PROG;NEG;PRS;SG;V
+çyn		1;PRF;PRS;SBJV;SG;V
+çyn		2;PROG;NEG;PRS;SBJV;SG;V
+çyn		2;3;IND;PROG;NEG;PL;PRS;V
+çyn		3;NEG;PFV;PST;SBJV;SG;V
+çyn		1;IND;PL;PRF;PST;V
+çyn	bçyybayě	2;PFV;PST;SBJV;SG;V
+çyn		2;NEG;PFV;PST;SBJV;SG;V
+çyn		3;PROG;NEG;PRS;SBJV;SG;V
+çyn		1;PRF;PST;SBJV;SG;V
+çyn	deçyyn	1;IND;PROG;PL;PRS;PST;V
+çyn		1;PROG;NEG;PL;PST;V
+çyn	deçyy	2;IND;PROG;PRS;PST;SG;V
+çyn		2;3;IMP;PROG;PL;PRS;SBJV;V
+çyn		1;IND;PROG;NEG;PFV;PL;PRS;PST;SBJV;V
+çyn	neçyw	NEG;PST;V;V.PTCP
+çyn		1;IND;PROG;PRS;PST;SG;V
+çyn		3;PROG;PRS;SBJV;SG;V
+çyn		1;NEG;PFV;PST;SBJV;SG;V
+çyn		2;3;NEG;PL;PRF;PRS;SBJV;V
+çyn		1;IND;PROG;NEG;PRS;SG;V
+çyn		2;3;NEG;PFV;PL;PST;SBJV;V
+çyn		2;PROG;NEG;PST;SG;V
+çyn		2;3;PL;PRF;PRS;SBJV;V
+çyn		3;PRF;PST;SBJV;SG;V
+çyn		2;IND;PFV;PST;SG;V
+çyn		3;NEG;PRF;PRS;SBJV;SG;V
+çyn		2;3;PFV;PL;PST;SBJV;V
+çyn		2;PRF;PRS;SBJV;SG;V
+çyn		2;IND;PROG;NEG;PFV;PRS;PST;SBJV;SG;V
+çyn	meçyn	IMP;NEG;PL;V
+çyn		3;IND;PRF;PRS;SG;V
+çyn		2;NEG;PRF;PRS;SBJV;SG;V
+çyn		1;PROG;PRS;SBJV;SG;V
+çyn		2;3;NEG;PL;PRF;PST;SBJV;V
+çyn	neçybwwyn	1;IND;NEG;PL;PRF;PST;V
+çyn		3;IND;PRF;PST;SG;V
+çyn		1;IND;PFV;PL;PST;V
+çyn		2;3;IND;PROG;PL;PRS;PST;V
+çyn		2;3;IND;PL;PRF;PST;V
+çyn	bçyayě	3;PFV;PST;SBJV;SG;V
+çyn	neçybwwayě	3;NEG;PRF;PST;SBJV;SG;V
+çyn	neçywyn	1;IND;NEG;PL;PRF;PRS;V
+çyn		1;IND;PRF;PST;SG;V
+çyn		3;PRF;PRS;SBJV;SG;V
+çyn		1;PFV;PST;SBJV;SG;V
+çyn		3;IND;NEG;PFV;PST;SG;V
+çyn		1;IND;PFV;PST;SG;V
+çyn		PST;V;V.PTCP
+çyn		3;PROG;NEG;PST;SG;V
+çyn		IMP;SG;V
+çyn		2;3;IND;NFIN;PFV;PL;PST;V
+çyn	neçybwwyayě	2;NEG;PRF;PST;SBJV;SG;V
+çyn	çywn	2;3;IND;PL;PRF;PRS;V
+çyn		2;IND;PROG;NEG;PRS;SG;V
+çyn		3;IND;NEG;PRF;PRS;SG;V
+çyn		1;PROG;NEG;PST;SG;V
+çyn		1;NEG;PL;PRF;PST;SBJV;V
+çyn		1;PROG;PL;PRS;SBJV;V
+çyn		IMP;NEG;SG;V
+çyn	neçywy	2;IND;NEG;PRF;PRS;SG;V
+çyn		3;PROG;PST;SG;V
+çyn		2;3;IND;NEG;PL;PRF;PRS;V
+çyn		3;IND;PFV;PST;SG;V
+çyn	çybwwnbayě	2;3;PL;PRF;PST;SBJV;V
+çyn		1;NEG;PFV;PL;PST;SBJV;V
+çyn		2;PRF;PST;SBJV;SG;V
+çyn		1;IND;NEG;PRF;PST;SG;V
+dwwhezar		ADJ;INDF;N;PL;PSS1P
+dwwhezar		INDF;N;PL
+dwwhezar		ADJ;DEF;N;PL
+dwwhezar		ADJ;INDF;N;SG
+dwwhezar		N;PSS2P
+dwwhezar		N;PSS2S
+dwwhezar		ADJ;N;PSS3P
+dwwhezar	m'emdwwhezare	ADJ;N;PROX
+dwwhezar		LGSPEC2;N
+dwwhezar	'ewdwwhezare	N;REMT
+dwwhezar		LGSPEC1;N;PSS3S
+dwwhezar		ADJ;N;PSS2S
+dwwhezar	dwwhezarmtan	ADJ;N;PSS2P
+dwwhezar		ADJ;FOC;N
+dwwhezar		DEF;N;PL
+dwwhezar		ADJ;INDF;INFM;N;SG
+dwwhezar		ADJ;DEF;N;SG
+dwwhezar		FOC;N
+dwwhezar		N;PSS3P
+dwwhezar	dwwhezarěk	INDF;N;SG
+dwwhezar		INDF;INFM;N;SG
+dwwhezar		N;PROX
+dwwhezar		ADJ;N;REMT
+dwwhezar		ADJ;LGSPEC1;N;PSS3S
+dwwhezar		ADJ;INDF;INFM;LGSPEC2;N;SG
+dwwhezar		DEF;N;SG
+dwwhezar		ADJ;N;PSS1S
+dwwhezar	dwwhezarmman	ADJ;N;PSS1P
+ŕesr	ŕesreke	DEF;N;SG
+ŕesr		N;PROX
+ŕesr		N;PSS1P
+ŕesr		N;PSS1S
+ŕesr		LGSPEC2;N
+ŕesr		N;REMT
+ŕesr		N;PSS2S
+ŕesr		LGSPEC1;N;PSS3S
+ŕesr		FOC;N
+ŕesr		N;PSS2P
+ŕesr		N;PSS3P
+ŕesr	ŕesrěk	INDF;N;SG
+ŕesr		INDF;INFM;N;SG
+baš		ADJ;N
+jrywandn		1;PFV;PL;PST;SBJV;V
+jrywandn		1;NEG;PL;PRF;PRS;SBJV;V
+jrywandn	nejrywandbwwy	2;IND;NEG;PRF;PST;SG;V
+jrywandn		1;IND;PROG;NEG;PL;PRS;V
+jrywandn		2;3;IND;NEG;PL;PRF;PST;V
+jrywandn		2;IND;PRF;PST;SG;V
+jrywandn		2;3;PROG;NEG;PL;PST;V
+jrywandn		1;IND;PRF;PRS;SG;V
+jrywandn		1;NEG;PRF;PST;SBJV;SG;V
+jrywandn		1;PL;PRF;PST;SBJV;V
+jrywandn		3;IND;NEG;PRF;PST;SG;V
+jrywandn		2;PROG;PRS;SBJV;SG;V
+jrywandn		1;PROG;PST;SG;V
+jrywandn		2;3;PROG;PL;PST;V
+jrywandn		3;NEG;PRF;PST;SBJV;SG;V
+jrywandn	jrywandwwyn	1;IND;PL;PRF;PRS;V
+jrywandn		2;3;IND;NEG;PFV;PL;PST;V
+jrywandn		3;IND;PROG;PRS;SG;V
+jrywandn		2;IND;PRF;PRS;SG;V
+jrywandn	nejrywandbm	1;NEG;PRF;PRS;SBJV;SG;V
+jrywandn		1;PL;PRF;PRS;SBJV;V
+jrywandn	najrywěně	3;IND;PROG;NEG;PRS;SG;V
+jrywandn		1;PRF;PRS;SBJV;SG;V
+jrywandn		IMP;NEG;PL;V
+jrywandn		2;PROG;NEG;PRS;SBJV;SG;V
+jrywandn		2;3;IND;PROG;NEG;PL;PRS;V
+jrywandn		1;PROG;NEG;PL;PRS;SBJV;V
+jrywandn		1;PROG;NEG;PST;SG;V
+jrywandn		1;IND;PL;PRF;PST;V
+jrywandn		2;PFV;PST;SBJV;SG;V
+jrywandn		2;NEG;PFV;PST;SBJV;SG;V
+jrywandn	nejrywěně	3;PROG;NEG;PRS;SBJV;SG;V
+jrywandn		1;PRF;PST;SBJV;SG;V
+jrywandn		1;PROG;NEG;PL;PST;V
+jrywandn		2;PROG;PST;SG;V
+jrywandn		1;IND;NEG;PFV;PL;PST;V
+jrywandn	bjrywěnn	2;3;IMP;PROG;PL;PRS;SBJV;V
+jrywandn		NEG;PST;V;V.PTCP
+jrywandn		1;IND;NEG;PFV;PST;SG;V
+jrywandn	bjrywěnět	3;PROG;PRS;SBJV;SG;V
+jrywandn		1;NEG;PFV;PST;SBJV;SG;V
+jrywandn		2;3;NEG;PL;PRF;PRS;SBJV;V
+jrywandn		2;3;PROG;NEG;PL;PRS;SBJV;V
+jrywandn		1;IND;PROG;NEG;PRS;SG;V
+jrywandn		2;3;NEG;PFV;PL;PST;SBJV;V
+jrywandn		2;PROG;NEG;PST;SG;V
+jrywandn		2;3;PL;PRF;PRS;SBJV;V
+jrywandn		3;PRF;PST;SBJV;SG;V
+jrywandn	jrywandy	2;IND;PFV;PST;SG;V
+jrywandn		1;PROG;NEG;PRS;SBJV;SG;V
+jrywandn		3;NEG;PRF;PRS;SBJV;SG;V
+jrywandn		2;3;PFV;PL;PST;SBJV;V
+jrywandn		2;PRF;PRS;SBJV;SG;V
+jrywandn		3;PFV;PST;SBJV;SG;V
+jrywandn		3;IND;PRF;PRS;SG;V
+jrywandn		2;NEG;PRF;PRS;SBJV;SG;V
+jrywandn		1;PROG;PRS;SBJV;SG;V
+jrywandn		2;3;NEG;PL;PRF;PST;SBJV;V
+jrywandn		1;IND;NEG;PL;PRF;PST;V
+jrywandn	jrywandbww	3;IND;PRF;PST;SG;V
+jrywandn		1;IND;PFV;PL;PST;V
+jrywandn		2;3;IND;PL;PRF;PST;V
+jrywandn		1;IND;PROG;PL;PRS;V
+jrywandn		1;IND;NEG;PRF;PRS;SG;V
+jrywandn		2;IND;PROG;PRS;SG;V
+jrywandn		1;IND;NEG;PL;PRF;PRS;V
+jrywandn		1;IND;PRF;PST;SG;V
+jrywandn	jrywandbět	3;PRF;PRS;SBJV;SG;V
+jrywandn		1;PFV;PST;SBJV;SG;V
+jrywandn	nejrywand	3;IND;NEG;PFV;PST;SG;V
+jrywandn		1;IND;PFV;PST;SG;V
+jrywandn		PST;V;V.PTCP
+jrywandn		3;PROG;NEG;PST;SG;V
+jrywandn	bjrywěn	IMP;SG;V
+jrywandn		2;3;IND;NFIN;PFV;PL;PST;V
+jrywandn		2;NEG;PRF;PST;SBJV;SG;V
+jrywandn	jrywandwwn	2;3;IND;PL;PRF;PRS;V
+jrywandn		2;IND;PROG;NEG;PRS;SG;V
+jrywandn		3;IND;NEG;PRF;PRS;SG;V
+jrywandn	nejrywandayě	3;NEG;PFV;PST;SBJV;SG;V
+jrywandn	nejrywandynbayě	1;NEG;PFV;PL;PST;SBJV;V
+jrywandn		1;NEG;PL;PRF;PST;SBJV;V
+jrywandn	bjrywěnyn	1;PROG;PL;PRS;SBJV;V
+jrywandn		IMP;NEG;SG;V
+jrywandn		2;IND;NEG;PRF;PRS;SG;V
+jrywandn	dejrywand	3;PROG;PST;SG;V
+jrywandn		2;3;IND;NEG;PL;PRF;PRS;V
+jrywandn		3;IND;PFV;PST;SG;V
+jrywandn		1;PROG;PL;PST;V
+jrywandn		2;IND;NEG;PFV;PST;SG;V
+jrywandn		2;3;PL;PRF;PST;SBJV;V
+jrywandn		1;IND;PROG;PRS;SG;V
+jrywandn		2;3;IND;PROG;PL;PRS;V
+jrywandn		2;PRF;PST;SBJV;SG;V
+jrywandn	nejrywandbwwm	1;IND;NEG;PRF;PST;SG;V
+řwange		N;PSS2S
+řwange	'emřwangeye	N;PROX
+řwange		N;PSS1P
+řwange		N;PSS1S
+řwange		LGSPEC2;N
+řwange		N;REMT
+řwange		LGSPEC1;N;PSS3S
+řwange		INDF;INFM;N;SG
+řwange		INDF;N;PL;PSS3P
+řwange		N;PSS2P
+řwange	řwangekan	DEF;N;PL
+řwange		DEF;N;SG
+řwange		INDF;N;SG
+řwange		FOC;N
+šest		ADJ;INDF;N;PL;PSS1P
+šest		INDF;N;PL
+šest		ADJ;DEF;N;PL
+šest		ADJ;INDF;N;SG
+šest		LGSPEC2;N
+šest	šesttan	N;PSS2P
+šest		N;PSS2S
+šest		ADJ;N;REMT
+šest		ADJ;N;PROX
+šest		INDF;INFM;N;SG
+šest		N;REMT
+šest		LGSPEC1;N;PSS3S
+šest		ADJ;N;PSS2S
+šest		ADJ;N;PSS2P
+šest		ADJ;FOC;N
+šest		DEF;N;PL
+šest	šestmek	ADJ;INDF;INFM;N;SG
+šest		ADJ;DEF;N;SG
+šest		N;PSS3P
+šest		INDF;N;SG
+šest	šestš	FOC;N
+šest		N;PROX
+šest	šestmyan	ADJ;N;PSS3P
+šest		ADJ;LGSPEC1;N;PSS3S
+šest		ADJ;INDF;INFM;LGSPEC2;N;SG
+šest	šesteke	DEF;N;SG
+šest		ADJ;N;PSS1S
+šest		ADJ;N;PSS1P
+xwěndn		2;3;IND;PROG;NEG;PASS;PL;PRS;V
+xwěndn		1;PFV;PL;PST;SBJV;V
+xwěndn		3;PROG;NEG;PRS;SBJV;SG;V
+xwěndn		1;NEG;PL;PRF;PRS;SBJV;V
+xwěndn		3;PASS;PFV;PST;SBJV;SG;V
+xwěndn		2;NEG;PL;PRF;PST;SBJV;V
+xwěndn		1;NEG;PASS;PRF;PRS;SG;V
+xwěndn	xwěnraw	PASS;PST;V;V.PTCP
+xwěndn	xwěnrawe	3;PASS;PRF;PRS;SG;V
+xwěndn		2;IND;NEG;PRF;PST;SG;V
+xwěndn		1;NEG;PASS;PFV;PL;PST;V
+xwěndn		2;3;PASS;PL;PRF;PST;V
+xwěndn		1;PFV;PL;PST;V
+xwěndn	xwěndtan	2;PFV;PL;PST;V
+xwěndn	xwěnrabwwy	2;PASS;PRF;PST;SG;V
+xwěndn		2;PROG;PST;SG;V
+xwěndn		1;PASS;PFV;PL;PST;SBJV;V
+xwěndn		3;PROG;NEG;PASS;PST;SG;V
+xwěndn		3;PROG;NEG;PL;PST;V
+xwěndn		IMP;NEG;PL;V
+xwěndn		1;PROG;NEG;PL;PST;V
+xwěndn		2;3;NEG;PASS;PL;PRF;PRS;V
+xwěndn		2;PROG;PL;PST;V
+xwěndn		1;IND;PRF;PRS;SG;V
+xwěndn		2;3;IND;PROG;PASS;PL;PRS;V
+xwěndn		1;PROG;PRS;SBJV;SG;V
+xwěndn		1;NEG;PRF;PST;SBJV;SG;V
+xwěndn		2;PASS;PFV;PST;SG;V
+xwěndn		1;PL;PRF;PST;SBJV;V
+xwěndn		2;PROG;PASS;PRS;SBJV;SG;V
+xwěndn		1;IND;PROG;PL;PRS;V
+xwěndn		IMP;NEG;PASS;PL;V
+xwěndn		1;PROG;PASS;PRS;SBJV;SG;V
+xwěndn		2;IND;PL;PRF;PST;V
+xwěndn		1;PROG;PST;SG;V
+xwěndn		2;3;PROG;NEG;PASS;PL;PRS;SBJV;V
+xwěndn	nexwěnrabwwm	1;NEG;PASS;PRF;PST;SG;V
+xwěndn		2;IND;PROG;PRS;SG;V
+xwěndn		3;NEG;PFV;PL;PST;SBJV;V
+xwěndn		1;IND;PL;PRF;PRS;V
+xwěndn	neyxwěndbww	3;IND;NEG;PRF;PST;SG;V
+xwěndn		1;PROG;NEG;PASS;PL;PST;V
+xwěndn		3;IND;PROG;PRS;SG;V
+xwěndn		2;IND;PRF;PRS;SG;V
+xwěndn		1;NEG;PRF;PRS;SBJV;SG;V
+xwěndn		3;IND;PL;PRF;PRS;V
+xwěndn		1;PROG;NEG;PASS;PRS;SBJV;SG;V
+xwěndn		2;3;NEG;PASS;PL;PRF;PST;V
+xwěndn		3;PFV;PST;SG;V
+xwěndn		2;3;PROG;NEG;PASS;PL;PST;V
+xwěndn	dexwěnrěm	1;IND;PROG;PASS;PRS;SG;V
+xwěndn		2;3;PASS;PFV;PL;PST;SBJV;V
+xwěndn		1;PL;PRF;PRS;SBJV;V
+xwěndn		3;IND;PROG;NEG;PRS;SG;V
+xwěndn		NFIN;V
+xwěndn		1;NEG;PASS;PL;PRF;PST;V
+xwěndn		1;PRF;PRS;SBJV;SG;V
+xwěndn	bxwěnrěyn	1;PROG;PASS;PL;PRS;SBJV;V
+xwěndn		1;NEG;PASS;PFV;PST;SG;V
+xwěndn		3;PROG;PL;PST;V
+xwěndn	xwěnrawyn	1;PASS;PL;PRF;PRS;V
+xwěndn		2;3;NEG;PASS;PFV;PL;PST;SBJV;V
+xwěndn		2;PASS;PFV;PST;SBJV;SG;V
+xwěndn		3;PL;PRF;PST;SBJV;V
+xwěndn	xwěndwwtane	2;IND;PL;PRF;PRS;V
+xwěndn		2;PROG;NEG;PRS;SBJV;SG;V
+xwěndn		1;IND;PROG;NEG;PL;PRS;V
+xwěndn		1;IND;NEG;PL;PRF;PRS;V
+xwěndn		3;NEG;PFV;PST;SG;V
+xwěndn		2;IND;NEG;PL;PRF;PST;V
+xwěndn	neyxwěndayě	3;NEG;PFV;PST;SBJV;SG;V
+xwěndn		1;IND;PL;PRF;PST;V
+xwěndn		3;PFV;PL;PST;V
+xwěndn		1;NEG;PFV;PST;SG;V
+xwěndn		2;PFV;PST;SBJV;SG;V
+xwěndn		2;NEG;PFV;PST;SBJV;SG;V
+xwěndn		2;NEG;PASS;PRF;PRS;SG;V
+xwěndn		1;PRF;PST;SBJV;SG;V
+xwěndn		2;PROG;NEG;PASS;PRS;SBJV;SG;V
+xwěndn		2;PFV;PL;PST;SBJV;V
+xwěndn		1;IND;PROG;PASS;PL;PRS;V
+xwěndn		1;PROG;NEG;PASS;PL;PRS;SBJV;V
+xwěndn		1;IND;PROG;NEG;PASS;PRS;SG;V
+xwěndn	neyanxwěndbww	3;IND;NEG;PL;PRF;PST;V
+xwěndn		2;NEG;PASS;PFV;PST;SG;V
+xwěndn		IMP;NEG;PASS;SG;V
+xwěndn		1;PASS;PFV;PST;SBJV;SG;V
+xwěndn		2;3;IMP;PROG;PL;PRS;SBJV;V
+xwěndn	xwěnrabwwyn	1;PASS;PL;PRF;PST;V
+xwěndn		NEG;PST;V;V.PTCP
+xwěndn		2;NEG;PASS;PFV;PST;SBJV;SG;V
+xwěndn		2;PROG;NEG;PL;PST;V
+xwěndn		3;PROG;PRS;SBJV;SG;V
+xwěndn		3;NEG;PFV;PL;PST;V
+xwěndn	nemxwěndayě	1;NEG;PFV;PST;SBJV;SG;V
+xwěndn		2;NEG;PFV;PL;PST;SBJV;V
+xwěndn		2;3;NEG;PL;PRF;PRS;SBJV;V
+xwěndn		3;NEG;PASS;PFV;PST;SBJV;SG;V
+xwěndn		2;3;PROG;PASS;PL;PST;V
+xwěndn		1;PASS;PRF;PST;SG;V
+xwěndn		2;3;PROG;NEG;PL;PRS;SBJV;V
+xwěndn		1;PFV;PST;SG;V
+xwěndn		1;IND;PROG;NEG;PRS;SG;V
+xwěndn		3;IND;PROG;PASS;PRS;SG;V
+xwěndn	xwěnran	2;3;NFIN;PASS;PFV;PL;PST;V
+xwěndn		2;PROG;NEG;PST;SG;V
+xwěndn		2;3;PL;PRF;PRS;SBJV;V
+xwěndn		3;PRF;PST;SBJV;SG;V
+xwěndn		2;NEG;PFV;PST;SG;V
+xwěndn	nexwěnm	1;PROG;NEG;PRS;SBJV;SG;V
+xwěndn		2;IND;PROG;PASS;PRS;SG;V
+xwěndn		3;NEG;PRF;PRS;SBJV;SG;V
+xwěndn	neyanxwěndbwwayě	3;NEG;PL;PRF;PST;SBJV;V
+xwěndn	dexwěnra	3;PROG;PASS;PST;SG;V
+xwěndn		2;PRF;PRS;SBJV;SG;V
+xwěndn	nexwěnrawyn	1;NEG;PASS;PL;PRF;PRS;V
+xwěndn		3;NEG;PASS;PRF;PST;SG;V
+xwěndn		1;IND;NEG;PRF;PRS;SG;V
+xwěndn		3;IND;PRF;PRS;SG;V
+xwěndn		1;PASS;PFV;PST;SG;V
+xwěndn		2;NEG;PRF;PRS;SBJV;SG;V
+xwěndn		1;NEG;PASS;PFV;PST;SBJV;SG;V
+xwěndn		2;3;NEG;PASS;PFV;PL;PST;V
+xwěndn	nemanxwěndbww	1;IND;NEG;PL;PRF;PST;V
+xwěndn	xwěndbwwy	3;IND;PRF;PST;SG;V
+xwěndn		3;NEG;PASS;PRF;PRS;SG;V
+xwěndn		1;PASS;PFV;PL;PST;V
+xwěndn	netanxwěnd	2;NEG;PFV;PL;PST;V
+xwěndn		3;PFV;PST;SBJV;SG;V
+xwěndn		3;PROG;NEG;PASS;PRS;SBJV;SG;V
+xwěndn		IMP;PASS;SG;V
+xwěndn	naxwěnrěyn	1;IND;PROG;NEG;PASS;PL;PRS;V
+xwěndn	naxwěnn	2;3;IND;PROG;NEG;PL;PRS;V
+xwěndn		3;PROG;PASS;PRS;SBJV;SG;V
+xwěndn		2;IND;PROG;NEG;PASS;PRS;SG;V
+xwěndn		1;IND;PRF;PST;SG;V
+xwěndn	xwěndbět	3;PRF;PRS;SBJV;SG;V
+xwěndn		1;PFV;PST;SBJV;SG;V
+xwěndn	nexwěnrabwwy	2;NEG;PASS;PRF;PST;SG;V
+xwěndn		1;PASS;PRF;PRS;SG;V
+xwěndn		2;PL;PRF;PST;SBJV;V
+xwěndn		2;PROG;PASS;PST;SG;V
+xwěndn	nedexwěnray	2;PROG;NEG;PASS;PST;SG;V
+xwěndn		2;PASS;PRF;PRS;SG;V
+xwěndn		3;IND;PROG;NEG;PASS;PRS;SG;V
+xwěndn		3;NEG;PASS;PFV;PST;SG;V
+xwěndn		2;3;IMP;PROG;PASS;PL;PRS;SBJV;V
+xwěndn		PST;V;V.PTCP
+xwěndn		3;PROG;NEG;PST;SG;V
+xwěndn	bxwěn	IMP;SG;V
+xwěndn		2;NEG;PRF;PST;SBJV;SG;V
+xwěndn		3;IND;PL;PRF;PST;V
+xwěndn	neyxwěndbwwayě	3;NEG;PRF;PST;SBJV;SG;V
+xwěndn	naxwěny	2;IND;PROG;NEG;PRS;SG;V
+xwěndn		3;PFV;PL;PST;SBJV;V
+xwěndn		3;IND;NEG;PRF;PRS;SG;V
+xwěndn		2;IND;PRF;PST;SG;V
+xwěndn	nemdexwěnd	1;PROG;NEG;PST;SG;V
+xwěndn		1;NEG;PASS;PFV;PL;PST;SBJV;V
+xwěndn		2;PROG;PRS;SBJV;SG;V
+xwěndn		2;3;IND;PROG;PL;PRS;V
+xwěndn	nemanxwěnd	1;NEG;PFV;PL;PST;V
+xwěndn		1;NEG;PL;PRF;PST;SBJV;V
+xwěndn		1;PROG;PL;PRS;SBJV;V
+xwěndn		IMP;NEG;SG;V
+xwěndn		1;PROG;NEG;PL;PRS;SBJV;V
+xwěndn	netxwěndwwe	2;IND;NEG;PRF;PRS;SG;V
+xwěndn		3;PROG;PST;SG;V
+xwěndn		1;PROG;NEG;PASS;PST;SG;V
+xwěndn		1;PROG;PASS;PST;SG;V
+xwěndn		1;PROG;PASS;PL;PST;V
+xwěndn		1;PROG;PL;PST;V
+xwěndn		3;PASS;PRF;PST;SG;V
+xwěndn		2;IND;NEG;PL;PRF;PRS;V
+xwěndn		2;3;PASS;PL;PRF;PRS;V
+xwěndn	neyanxwěndwwe	3;IND;NEG;PL;PRF;PRS;V
+xwěndn		1;IND;PROG;PRS;SG;V
+xwěndn		3;PASS;PFV;PST;SG;V
+xwěndn		1;NEG;PFV;PL;PST;SBJV;V
+xwěndn		2;PFV;PST;SG;V
+xwěndn		2;PRF;PST;SBJV;SG;V
+xwěndn	nemxwěndbww	1;IND;NEG;PRF;PST;SG;V
+meeabad		N;PSS3P
+meeabad	'emmeeabade	N;PROX
+meeabad		N;PSS1P
+meeabad		N;PSS1S
+meeabad	meeabadeke	DEF;N;SG
+meeabad		LGSPEC2;N
+meeabad		N;REMT
+meeabad		LGSPEC1;N;PSS3S
+meeabad		FOC;N
+meeabad		N;PSS2P
+meeabad		N;PSS2S
+meeabad		INDF;N;SG
+meeabad		INDF;INFM;N;SG
+´aw		N;PSS3P
+´aw	'em´awe	N;PROX
+´aw		N;PSS1P
+´aw		N;PSS1S
+´aw		DEF;N;SG
+´aw		INDF;N;PL
+´aw		LGSPEC2;N
+´aw		N;REMT
+´aw		LGSPEC1;N;PSS3S
+´aw	´awš	FOC;N
+´aw		N;PSS2P
+´aw		DEF;N;PL
+´aw		N;PSS2S
+´aw		INDF;N;SG
+´aw		INDF;INFM;N;SG
+goyže		N;PSS3P
+goyže		N;PROX
+goyže		N;PSS1P
+goyže		N;PSS1S
+goyže		LGSPEC2;N
+goyže		N;REMT
+goyže		N;PSS2S
+goyže		LGSPEC1;N;PSS3S
+goyže	goyžeye	INDF;INFM;N;SG
+goyže	goyžetan	N;PSS2P
+goyže		DEF;N;SG
+goyže		INDF;N;SG
+goyže		FOC;N
+newed		ADJ;INDF;N;PL;PSS1P
+newed		INDF;N;PL
+newed		ADJ;DEF;N;PL
+newed		ADJ;INDF;N;SG
+newed		N;PSS2P
+newed		N;PSS2S
+newed		ADJ;N;PSS3P
+newed		LGSPEC1;N;PSS3S
+newed		LGSPEC2;N
+newed		N;REMT
+newed	m'emnewede	ADJ;N;PROX
+newed		ADJ;N;PSS2S
+newed		ADJ;N;PSS2P
+newed		ADJ;FOC;N
+newed		DEF;N;PL
+newed		ADJ;INDF;INFM;N;SG
+newed		ADJ;DEF;N;SG
+newed		N;PSS3P
+newed	neweděk	INDF;N;SG
+newed	newedš	FOC;N
+newed		N;PROX
+newed		INDF;INFM;N;SG
+newed		ADJ;N;REMT
+newed		ADJ;LGSPEC1;N;PSS3S
+newed		ADJ;INDF;INFM;LGSPEC2;N;SG
+newed		DEF;N;SG
+newed	newedm	ADJ;N;PSS1S
+newed	newedmman	ADJ;N;PSS1P
+řfandn		2;3;IND;PROG;NEG;PASS;PL;PRS;V
+řfandn		1;PFV;PL;PST;SBJV;V
+řfandn		2;NEG;PASS;PRF;PRS;SG;V
+řfandn		1;NEG;PL;PRF;PRS;SBJV;V
+řfandn		3;PASS;PFV;PST;SBJV;SG;V
+řfandn		2;PROG;NEG;PRS;SBJV;SG;V
+řfandn		1;NEG;PASS;PRF;PRS;SG;V
+řfandn		PASS;PST;V;V.PTCP
+řfandn		3;PASS;PRF;PRS;SG;V
+řfandn		2;IND;NEG;PRF;PST;SG;V
+řfandn	neřfěnrayn	1;NEG;PASS;PFV;PL;PST;V
+řfandn		2;3;PASS;PL;PRF;PST;V
+řfandn	řfandman	1;PFV;PL;PST;V
+řfandn		2;PFV;PL;PST;V
+řfandn	řfěnrabwwy	2;PASS;PRF;PST;SG;V
+řfandn	deřfěnrěyn	1;IND;PROG;PASS;PL;PRS;V
+řfandn	břfěnraynayě	1;PASS;PFV;PL;PST;SBJV;V
+řfandn		3;PROG;NEG;PASS;PST;SG;V
+řfandn		3;PROG;NEG;PL;PST;V
+řfandn		1;PROG;NEG;PL;PST;V
+řfandn	neřfěnrawn	2;3;NEG;PASS;PL;PRF;PRS;V
+řfandn		2;PROG;PL;PST;V
+řfandn		1;IND;PRF;PRS;SG;V
+řfandn		3;PFV;PL;PST;SBJV;V
+řfandn		1;PROG;PRS;SBJV;SG;V
+řfandn		1;NEG;PRF;PST;SBJV;SG;V
+řfandn	řfěnray	2;PASS;PFV;PST;SG;V
+řfandn		1;PL;PRF;PST;SBJV;V
+řfandn		2;PROG;PASS;PRS;SBJV;SG;V
+řfandn		1;IND;PROG;PL;PRS;V
+řfandn		IMP;NEG;PASS;PL;V
+řfandn		2;PROG;PRS;SBJV;SG;V
+řfandn		2;IND;PL;PRF;PST;V
+řfandn		1;PROG;PST;SG;V
+řfandn		2;3;PROG;NEG;PASS;PL;PRS;SBJV;V
+řfandn		1;NEG;PASS;PRF;PST;SG;V
+řfandn	neřfěnrěět	3;PROG;NEG;PASS;PRS;SBJV;SG;V
+řfandn		3;NEG;PFV;PL;PST;SBJV;V
+řfandn		1;IND;PL;PRF;PRS;V
+řfandn		3;IND;NEG;PRF;PST;SG;V
+řfandn		1;PROG;NEG;PASS;PL;PST;V
+řfandn		3;IND;PROG;PRS;SG;V
+řfandn	nařfěnyn	1;IND;PROG;NEG;PL;PRS;V
+řfandn		2;IND;PRF;PRS;SG;V
+řfandn		1;NEG;PRF;PRS;SBJV;SG;V
+řfandn		3;IND;PL;PRF;PRS;V
+řfandn		1;PROG;NEG;PASS;PRS;SBJV;SG;V
+řfandn		2;3;NEG;PASS;PL;PRF;PST;V
+řfandn		3;PFV;PST;SG;V
+řfandn		2;3;PROG;NEG;PASS;PL;PST;V
+řfandn		1;IND;PROG;PASS;PRS;SG;V
+řfandn		2;3;PASS;PFV;PL;PST;SBJV;V
+řfandn	řfandbyn	1;PL;PRF;PRS;SBJV;V
+řfandn	nařfěnět	3;IND;PROG;NEG;PRS;SG;V
+řfandn		1;NEG;PASS;PL;PRF;PST;V
+řfandn		1;PRF;PRS;SBJV;SG;V
+řfandn		1;PROG;PASS;PL;PRS;SBJV;V
+řfandn		1;NEG;PASS;PFV;PST;SG;V
+řfandn		2;IND;PROG;PASS;PRS;SG;V
+řfandn	řfěnrawyn	1;PASS;PL;PRF;PRS;V
+řfandn		2;3;NEG;PASS;PFV;PL;PST;SBJV;V
+řfandn		2;PASS;PFV;PST;SBJV;SG;V
+řfandn		3;PL;PRF;PST;SBJV;V
+řfandn		2;IND;PL;PRF;PRS;V
+řfandn		2;NEG;PFV;PST;SG;V
+řfandn		IMP;PASS;SG;V
+řfandn		2;NEG;PL;PRF;PST;SBJV;V
+řfandn		1;NEG;PL;PRF;PST;SBJV;V
+řfandn	neřfěnyn	1;PROG;NEG;PL;PRS;SBJV;V
+řfandn		1;PROG;NEG;PST;SG;V
+řfandn		1;IND;PL;PRF;PST;V
+řfandn		3;PFV;PL;PST;V
+řfandn	nemřfand	1;NEG;PFV;PST;SG;V
+řfandn		2;PFV;PST;SBJV;SG;V
+řfandn		2;NEG;PFV;PST;SBJV;SG;V
+řfandn		1;IND;NEG;PRF;PRS;SG;V
+řfandn		3;PROG;NEG;PRS;SBJV;SG;V
+řfandn	bmřfandbwwayě	1;PRF;PST;SBJV;SG;V
+řfandn	řfandbn	2;3;PL;PRF;PRS;SBJV;V
+řfandn		2;PROG;NEG;PASS;PRS;SBJV;SG;V
+řfandn	btanřfandayě	2;PFV;PL;PST;SBJV;V
+řfandn		2;PROG;PST;SG;V
+řfandn		1;PROG;NEG;PASS;PL;PRS;SBJV;V
+řfandn		1;IND;PROG;NEG;PASS;PRS;SG;V
+řfandn	neyanřfandbww	3;IND;NEG;PL;PRF;PST;V
+řfandn		IMP;NEG;PASS;SG;V
+řfandn		1;PASS;PRF;PST;SG;V
+řfandn		1;PASS;PFV;PST;SBJV;SG;V
+řfandn	břfěnn	2;3;IMP;PROG;PL;PRS;SBJV;V
+řfandn		1;PASS;PL;PRF;PST;V
+řfandn	neřfandww	NEG;PST;V;V.PTCP
+řfandn		2;NEG;PASS;PFV;PST;SBJV;SG;V
+řfandn		2;PROG;NEG;PL;PST;V
+řfandn	břfěně	3;PROG;PRS;SBJV;SG;V
+řfandn		3;NEG;PFV;PL;PST;V
+řfandn		1;NEG;PFV;PST;SBJV;SG;V
+řfandn		2;NEG;PFV;PL;PST;SBJV;V
+řfandn		2;NEG;PASS;PRF;PST;SG;V
+řfandn		3;NEG;PASS;PFV;PST;SBJV;SG;V
+řfandn		2;3;PROG;PASS;PL;PST;V
+řfandn		3;NEG;PFV;PST;SG;V
+řfandn		2;3;PROG;NEG;PL;PRS;SBJV;V
+řfandn		1;PFV;PST;SG;V
+řfandn		1;IND;PROG;NEG;PRS;SG;V
+řfandn		3;IND;PROG;PASS;PRS;SG;V
+řfandn		2;3;NFIN;PASS;PFV;PL;PST;V
+řfandn		2;PROG;NEG;PST;SG;V
+řfandn		NFIN;V
+řfandn		3;PRF;PST;SBJV;SG;V
+řfandn		1;PROG;NEG;PRS;SBJV;SG;V
+řfandn		2;NEG;PASS;PFV;PST;SG;V
+řfandn		3;NEG;PRF;PRS;SBJV;SG;V
+řfandn		3;NEG;PL;PRF;PST;SBJV;V
+řfandn	deřfěnra	3;PROG;PASS;PST;SG;V
+řfandn		2;PRF;PRS;SBJV;SG;V
+řfandn		1;NEG;PASS;PL;PRF;PRS;V
+řfandn		3;NEG;PASS;PRF;PST;SG;V
+řfandn		3;PFV;PST;SBJV;SG;V
+řfandn		3;IND;PRF;PRS;SG;V
+řfandn		1;PASS;PFV;PST;SG;V
+řfandn		2;NEG;PRF;PRS;SBJV;SG;V
+řfandn		1;NEG;PASS;PFV;PST;SBJV;SG;V
+řfandn		1;PASS;PFV;PL;PST;V
+řfandn		1;NEG;PASS;PFV;PL;PST;SBJV;V
+řfandn		1;IND;NEG;PL;PRF;PST;V
+řfandn		3;IND;PRF;PST;SG;V
+řfandn		2;IND;NEG;PL;PRF;PST;V
+řfandn		3;NEG;PASS;PRF;PRS;SG;V
+řfandn	neřfěnran	2;3;NEG;PASS;PFV;PL;PST;V
+řfandn		2;NEG;PFV;PL;PST;V
+řfandn		IMP;NEG;PL;V
+řfandn		2;IND;PROG;PRS;SG;V
+řfandn	nařfěnrěyn	1;IND;PROG;NEG;PASS;PL;PRS;V
+řfandn	nařfěnn	2;3;IND;PROG;NEG;PL;PRS;V
+řfandn		3;PROG;PASS;PRS;SBJV;SG;V
+řfandn		2;IND;PROG;NEG;PASS;PRS;SG;V
+řfandn		1;IND;PRF;PST;SG;V
+řfandn	řfandbět	3;PRF;PRS;SBJV;SG;V
+řfandn		1;PFV;PST;SBJV;SG;V
+řfandn		2;3;NEG;PL;PRF;PRS;SBJV;V
+řfandn	řfěnrawm	1;PASS;PRF;PRS;SG;V
+řfandn		2;PL;PRF;PST;SBJV;V
+řfandn	deřfěnray	2;PROG;PASS;PST;SG;V
+řfandn	nedeřfěnray	2;PROG;NEG;PASS;PST;SG;V
+řfandn	nařfěnrěět	3;IND;PROG;NEG;PASS;PRS;SG;V
+řfandn		3;NEG;PASS;PFV;PST;SG;V
+řfandn		2;3;IMP;PROG;PASS;PL;PRS;SBJV;V
+řfandn		PST;V;V.PTCP
+řfandn		3;PROG;NEG;PST;SG;V
+řfandn		IMP;SG;V
+řfandn	netřfandbwwayě	2;NEG;PRF;PST;SBJV;SG;V
+řfandn		3;IND;PL;PRF;PST;V
+řfandn		3;NEG;PRF;PST;SBJV;SG;V
+řfandn	deyanřfand	3;PROG;PL;PST;V
+řfandn		2;IND;PROG;NEG;PRS;SG;V
+řfandn		2;3;IND;PROG;PASS;PL;PRS;V
+řfandn		3;IND;NEG;PRF;PRS;SG;V
+řfandn		2;IND;PRF;PST;SG;V
+řfandn	neyřfandayě	3;NEG;PFV;PST;SBJV;SG;V
+řfandn		1;PROG;PASS;PRS;SBJV;SG;V
+řfandn		1;NEG;PFV;PL;PST;SBJV;V
+řfandn	nemanřfand	1;NEG;PFV;PL;PST;V
+řfandn		2;PASS;PRF;PRS;SG;V
+řfandn	břfěnyn	1;PROG;PL;PRS;SBJV;V
+řfandn		IMP;NEG;SG;V
+řfandn		2;IND;NEG;PRF;PRS;SG;V
+řfandn		3;PROG;PST;SG;V
+řfandn		1;PROG;NEG;PASS;PST;SG;V
+řfandn		1;PROG;PASS;PST;SG;V
+řfandn		1;PROG;PASS;PL;PST;V
+řfandn		1;PROG;PL;PST;V
+řfandn		1;IND;NEG;PL;PRF;PRS;V
+řfandn		3;PASS;PRF;PST;SG;V
+řfandn		2;IND;NEG;PL;PRF;PRS;V
+řfandn		2;3;PASS;PL;PRF;PRS;V
+řfandn		3;IND;NEG;PL;PRF;PRS;V
+řfandn		1;IND;PROG;PRS;SG;V
+řfandn		3;PASS;PFV;PST;SG;V
+řfandn		2;3;IND;PROG;PL;PRS;V
+řfandn		2;PFV;PST;SG;V
+řfandn		2;PRF;PST;SBJV;SG;V
+řfandn		1;IND;NEG;PRF;PST;SG;V
+topyn		1;PFV;PL;PST;SBJV;V
+topyn		1;NEG;PL;PRF;PRS;SBJV;V
+topyn		2;IND;NEG;PRF;PST;SG;V
+topyn		1;IND;PROG;NEG;PL;PRS;V
+topyn		2;3;IND;NEG;PL;PRF;PST;V
+topyn	topybwwy	2;IND;PRF;PST;SG;V
+topyn		2;3;PROG;NEG;PL;PST;V
+topyn		1;IND;PRF;PRS;SG;V
+topyn		1;NEG;PRF;PST;SBJV;SG;V
+topyn	netopywe	3;IND;NEG;PRF;PRS;SG;V
+topyn		1;PL;PRF;PST;SBJV;V
+topyn		2;PROG;PRS;SBJV;SG;V
+topyn		1;PROG;PST;SG;V
+topyn		3;NEG;PRF;PST;SBJV;SG;V
+topyn		1;IND;PL;PRF;PRS;V
+topyn		3;IND;NEG;PRF;PST;SG;V
+topyn		3;IND;PROG;PRS;SG;V
+topyn		2;IND;PRF;PRS;SG;V
+topyn		3;PFV;PST;SBJV;SG;V
+topyn	netopybm	1;NEG;PRF;PRS;SBJV;SG;V
+topyn		1;PL;PRF;PRS;SBJV;V
+topyn		3;IND;PROG;NEG;PRS;SG;V
+topyn		1;PRF;PRS;SBJV;SG;V
+topyn		2;PROG;NEG;PRS;SBJV;SG;V
+topyn		2;3;IND;PROG;NEG;PL;PRS;V
+topyn		3;NEG;PFV;PST;SBJV;SG;V
+topyn		1;IND;PL;PRF;PST;V
+topyn		2;PFV;PST;SBJV;SG;V
+topyn		2;NEG;PFV;PST;SBJV;SG;V
+topyn		3;PROG;NEG;PRS;SBJV;SG;V
+topyn	topybwwmbayě	1;PRF;PST;SBJV;SG;V
+topyn		1;PROG;NEG;PL;PST;V
+topyn	detopyy	2;PROG;PST;SG;V
+topyn		1;IND;NEG;PFV;PL;PST;V
+topyn		2;3;IMP;PROG;PL;PRS;SBJV;V
+topyn		NEG;PST;V;V.PTCP
+topyn		1;IND;NEG;PFV;PST;SG;V
+topyn		3;PROG;PRS;SBJV;SG;V
+topyn		1;PROG;PRS;SBJV;SG;V
+topyn		2;3;IND;PROG;PRS;PST;SG;V
+topyn		2;3;NEG;PL;PRF;PRS;SBJV;V
+topyn		2;3;IND;PROG;NEG;PFV;PRS;PST;SBJV;SG;V
+topyn		2;3;PROG;NEG;PL;PRS;SBJV;V
+topyn	natopm	1;IND;PROG;NEG;PRS;SG;V
+topyn		2;3;NEG;PFV;PL;PST;SBJV;V
+topyn		2;PROG;NEG;PST;SG;V
+topyn		2;3;PL;PRF;PRS;SBJV;V
+topyn		3;PRF;PST;SBJV;SG;V
+topyn		2;IND;PFV;PST;SG;V
+topyn		1;PROG;NEG;PRS;SBJV;SG;V
+topyn		3;NEG;PRF;PRS;SBJV;SG;V
+topyn	btopynbayě	2;3;PFV;PL;PST;SBJV;V
+topyn		2;PRF;PRS;SBJV;SG;V
+topyn	metopn	IMP;NEG;PL;V
+topyn		3;IND;PRF;PRS;SG;V
+topyn	netopybyt	2;NEG;PRF;PRS;SBJV;SG;V
+topyn	netopymbayě	1;NEG;PFV;PST;SBJV;SG;V
+topyn		2;3;NEG;PL;PRF;PST;SBJV;V
+topyn		1;IND;NEG;PL;PRF;PST;V
+topyn	topybww	3;IND;PRF;PST;SG;V
+topyn		1;IND;PFV;PL;PST;V
+topyn		2;3;IND;PL;PRF;PST;V
+topyn		1;IND;NEG;PRF;PRS;SG;V
+topyn		2;IND;PROG;PRS;SG;V
+topyn		1;IND;NEG;PL;PRF;PRS;V
+topyn		1;2;3;IND;PROG;PL;PRS;PST;V
+topyn		1;IND;PRF;PST;SG;V
+topyn	topybět	3;PRF;PRS;SBJV;SG;V
+topyn		1;PFV;PST;SBJV;SG;V
+topyn		1;IND;PFV;PST;SG;V
+topyn		PST;V;V.PTCP
+topyn		3;PROG;NEG;PST;SG;V
+topyn		IMP;SG;V
+topyn		2;3;IND;NFIN;PFV;PL;PST;V
+topyn		2;NEG;PRF;PST;SBJV;SG;V
+topyn		2;3;IND;PL;PRF;PRS;V
+topyn		2;IND;PROG;NEG;PRS;SG;V
+topyn	netopyn	1;2;3;IND;PROG;NEG;PFV;PL;PRS;PST;SBJV;V
+topyn	nedetopym	1;PROG;NEG;PST;SG;V
+topyn		1;NEG;PFV;PL;PST;SBJV;V
+topyn		1;NEG;PL;PRF;PST;SBJV;V
+topyn	btopyn	1;PROG;PL;PRS;SBJV;V
+topyn		IMP;NEG;SG;V
+topyn	netopywy	2;IND;NEG;PRF;PRS;SG;V
+topyn		2;3;IND;NEG;PL;PRF;PRS;V
+topyn	topy	3;IND;PFV;PST;SG;V
+topyn		1;PROG;PL;PST;V
+topyn		2;IND;NEG;PFV;PST;SG;V
+topyn		2;3;PL;PRF;PST;SBJV;V
+topyn		1;IND;PROG;PRS;SG;V
+topyn		2;3;IND;PROG;PL;PRS;V
+topyn		2;PRF;PST;SBJV;SG;V
+topyn	netopybwwm	1;IND;NEG;PRF;PST;SG;V
+´arjentyn		N;PSS3P
+´arjentyn		DEF;N;SG
+´arjentyn		N;PROX
+´arjentyn		N;PSS1P
+´arjentyn	´arjentynm	N;PSS1S
+´arjentyn	´arjentyne	LGSPEC2;N
+´arjentyn		N;REMT
+´arjentyn		LGSPEC1;N;PSS3S
+´arjentyn		INDF;INFM;N;SG
+´arjentyn		N;PSS2P
+´arjentyn		N;PSS2S
+´arjentyn		INDF;N;SG
+´arjentyn		FOC;N
+dan	nadrěn	2;3;IND;PROG;NEG;PASS;PL;PRS;V
+dan		1;PFV;PL;PST;SBJV;V
+dan	nederawy	2;NEG;PASS;PRF;PRS;SG;V
+dan		2;NEG;PL;PRF;PST;SBJV;V
+dan		3;PASS;PFV;PST;SBJV;SG;V
+dan		1;NEG;PASS;PRF;PRS;SG;V
+dan	draw	PASS;PST;V;V.PTCP
+dan		3;PASS;PRF;PRS;SG;V
+dan		2;IND;NEG;PRF;PST;SG;V
+dan	nederayn	1;NEG;PASS;PFV;PL;PST;V
+dan		N;PSS2P
+dan	nedabyn	1;NEG;PL;PRF;PRS;SBJV;V
+dan		2;IND;NEG;PL;PRF;PST;V
+dan		N;PSS2S
+dan		2;PASS;PRF;PST;SG;V
+dan	dederěyn	1;IND;PROG;PASS;PL;PRS;V
+dan	bdraynayě	1;PASS;PFV;PL;PST;SBJV;V
+dan		2;PROG;NEG;PASS;PRS;SBJV;SG;V
+dan	neyandeda	3;PROG;NEG;PL;PST;V
+dan		IMP;NEG;PL;V
+dan		1;PROG;NEG;PL;PST;V
+dan		2;3;NEG;PASS;PL;PRF;PRS;V
+dan		2;PROG;PL;PST;V
+dan	dawme	1;IND;PRF;PRS;SG;V
+dan	dedrěn	2;3;IND;PROG;PASS;PL;PRS;V
+dan		3;NEG;PASS;PRF;PRS;SG;V
+dan	bdem	1;PROG;PRS;SBJV;SG;V
+dan		3;NEG;PRF;PST;SBJV;SG;V
+dan		1;NEG;PRF;PST;SBJV;SG;V
+dan		2;PASS;PFV;PST;SG;V
+dan		1;PL;PRF;PST;SBJV;V
+dan		2;PROG;PASS;PRS;SBJV;SG;V
+dan		2;3;NEG;PASS;PFV;PL;PST;V
+dan	medrěn	IMP;NEG;PASS;PL;V
+dan		1;PROG;PASS;PRS;SBJV;SG;V
+dan		2;IND;PL;PRF;PST;V
+dan		1;PROG;PST;SG;V
+dan		2;3;PROG;NEG;PASS;PL;PRS;SBJV;V
+dan		3;IND;NEG;PL;PRF;PST;V
+dan		2;3;PASS;PL;PRF;PRS;V
+dan		3;PROG;NEG;PASS;PRS;SBJV;SG;V
+dan		N;PSS3P
+dan	neyandabayě	3;NEG;PFV;PL;PST;SBJV;V
+dan		1;IND;PL;PRF;PRS;V
+dan	dedyn	1;IND;PROG;PL;PRS;V
+dan		3;IND;NEG;PRF;PST;SG;V
+dan		1;PROG;NEG;PASS;PL;PST;V
+dan		3;IND;PROG;PRS;SG;V
+dan		2;IND;PRF;PRS;SG;V
+dan		1;NEG;PRF;PRS;SBJV;SG;V
+dan		3;IND;PL;PRF;PRS;V
+dan		1;PROG;NEG;PASS;PRS;SBJV;SG;V
+dan		N;NFIN;V
+dan	day	3;PFV;PST;SG;V
+dan		1;IND;PROG;PASS;PRS;SG;V
+dan		2;3;PASS;PFV;PL;PST;SBJV;V
+dan		1;PL;PRF;PRS;SBJV;V
+dan		3;IND;PROG;NEG;PRS;SG;V
+dan		1;NEG;PASS;PL;PRF;PST;V
+dan		1;PRF;PRS;SBJV;SG;V
+dan		1;PROG;PASS;PL;PRS;SBJV;V
+dan		1;NEG;PASS;PFV;PST;SG;V
+dan		2;IND;PROG;PASS;PRS;SG;V
+dan		1;PASS;PL;PRF;PRS;V
+dan		2;3;NEG;PASS;PFV;PL;PST;SBJV;V
+dan		2;PASS;PFV;PST;SBJV;SG;V
+dan		INDF;N;PL
+dan		3;PL;PRF;PST;SBJV;V
+dan		2;IND;PL;PRF;PRS;V
+dan	nedyt	2;PROG;NEG;PRS;SBJV;SG;V
+dan		1;IND;PROG;NEG;PL;PRS;V
+dan		2;3;IND;PROG;NEG;PL;PRS;V
+dan		3;NEG;PFV;PST;SG;V
+dan		2;3;NEG;PASS;PL;PRF;PST;V
+dan		1;PROG;NEG;PL;PRS;SBJV;V
+dan	nemdeda	1;PROG;NEG;PST;SG;V
+dan		1;IND;PL;PRF;PST;V
+dan		2;PFV;PL;PST;V
+dan	dedrayn	1;PROG;PASS;PL;PST;V
+dan		1;NEG;PFV;PST;SG;V
+dan		2;PFV;PST;SBJV;SG;V
+dan		2;NEG;PFV;PST;SBJV;SG;V
+dan		3;PROG;NEG;PRS;SBJV;SG;V
+dan		1;PRF;PST;SBJV;SG;V
+dan		LGSPEC2;N
+dan		2;PASS;PRF;PRS;SG;V
+dan		2;PFV;PL;PST;SBJV;V
+dan		2;PROG;PST;SG;V
+dan	nedrěyn	1;PROG;NEG;PASS;PL;PRS;SBJV;V
+dan		1;IND;PROG;NEG;PASS;PRS;SG;V
+dan		DEF;N;PL
+dan		IMP;NEG;PASS;SG;V
+dan		N;PSS1P
+dan		N;PSS1S
+dan		1;PASS;PFV;PST;SBJV;SG;V
+dan		2;3;IMP;PROG;PL;PRS;SBJV;V
+dan		1;PASS;PL;PRF;PST;V
+dan		NEG;PST;V;V.PTCP
+dan	nedabn	2;3;NEG;PL;PRF;PRS;SBJV;V
+dan		2;NEG;PASS;PFV;PST;SBJV;SG;V
+dan		2;PROG;NEG;PL;PST;V
+dan		3;PROG;PRS;SBJV;SG;V
+dan		1;IND;PRF;PST;SG;V
+dan		1;NEG;PFV;PST;SBJV;SG;V
+dan		DEF;N;SG
+dan		N;PROX
+dan		2;3;PASS;PL;PRF;PST;V
+dan		2;NEG;PFV;PL;PST;SBJV;V
+dan		1;PASS;PRF;PRS;SG;V
+dan		3;NEG;PASS;PFV;PST;SBJV;SG;V
+dan		2;3;PROG;PASS;PL;PST;V
+dan		1;PASS;PRF;PST;SG;V
+dan		2;3;PROG;NEG;PL;PRS;SBJV;V
+dan		1;PFV;PST;SG;V
+dan		1;IND;PROG;NEG;PRS;SG;V
+dan	dedrěě	3;IND;PROG;PASS;PRS;SG;V
+dan		2;3;NFIN;PASS;PFV;PL;PST;V
+dan		2;PROG;NEG;PST;SG;V
+dan		2;3;PL;PRF;PRS;SBJV;V
+dan		3;PRF;PST;SBJV;SG;V
+dan		2;NEG;PFV;PST;SG;V
+dan		1;PROG;NEG;PRS;SBJV;SG;V
+dan	nederay	2;NEG;PASS;PFV;PST;SG;V
+dan		3;NEG;PRF;PRS;SBJV;SG;V
+dan		3;NEG;PL;PRF;PST;SBJV;V
+dan		1;NEG;PASS;PRF;PST;SG;V
+dan	dedera	3;PROG;PASS;PST;SG;V
+dan	daby	2;PRF;PRS;SBJV;SG;V
+dan		3;NEG;PFV;PL;PST;V
+dan		LGSPEC1;N;PSS3S
+dan	nedrawyn	1;NEG;PASS;PL;PRF;PRS;V
+dan		3;NEG;PASS;PRF;PST;SG;V
+dan	nemdawe	1;IND;NEG;PRF;PRS;SG;V
+dan		3;IND;PRF;PRS;SG;V
+dan		1;PASS;PFV;PST;SG;V
+dan		2;NEG;PRF;PRS;SBJV;SG;V
+dan	nederamayě	1;NEG;PASS;PFV;PST;SBJV;SG;V
+dan		1;NEG;PASS;PFV;PL;PST;SBJV;V
+dan		1;IND;NEG;PL;PRF;PST;V
+dan		3;IND;PRF;PST;SG;V
+dan		3;PROG;NEG;PASS;PST;SG;V
+dan		INDF;N;SG
+dan		INDF;INFM;N;SG
+dan		1;PASS;PFV;PL;PST;V
+dan		2;NEG;PFV;PL;PST;V
+dan	bydaayě	3;PFV;PST;SBJV;SG;V
+dan		2;IND;PROG;PRS;SG;V
+dan	bderě	IMP;PASS;SG;V
+dan		1;IND;PROG;NEG;PASS;PL;PRS;V
+dan		1;IND;NEG;PL;PRF;PRS;V
+dan		3;PROG;PASS;PRS;SBJV;SG;V
+dan		2;IND;PROG;NEG;PASS;PRS;SG;V
+dan		2;3;PROG;NEG;PASS;PL;PST;V
+dan	dabět	3;PRF;PRS;SBJV;SG;V
+dan		1;PFV;PST;SBJV;SG;V
+dan		2;NEG;PASS;PRF;PST;SG;V
+dan		1;PFV;PL;PST;V
+dan		2;PL;PRF;PST;SBJV;V
+dan	dedray	2;PROG;PASS;PST;SG;V
+dan		2;PROG;NEG;PASS;PST;SG;V
+dan		3;IND;PROG;NEG;PASS;PRS;SG;V
+dan		3;NEG;PASS;PFV;PST;SG;V
+dan		2;3;IMP;PROG;PASS;PL;PRS;SBJV;V
+dan		PST;V;V.PTCP
+dan	neydeda	3;PROG;NEG;PST;SG;V
+dan		IMP;SG;V
+dan		2;NEG;PRF;PST;SBJV;SG;V
+dan	dabwwyan	3;IND;PL;PRF;PST;V
+dan		N;REMT
+dan		3;PROG;PL;PST;V
+dan		2;IND;PROG;NEG;PRS;SG;V
+dan	byandaayě	3;PFV;PL;PST;SBJV;V
+dan	neydawe	3;IND;NEG;PRF;PRS;SG;V
+dan		2;IND;PRF;PST;SG;V
+dan		3;NEG;PFV;PST;SBJV;SG;V
+dan		2;PROG;PRS;SBJV;SG;V
+dan		1;NEG;PFV;PL;PST;SBJV;V
+dan		1;NEG;PFV;PL;PST;V
+dan		1;NEG;PL;PRF;PST;SBJV;V
+dan	bdyn	1;PROG;PL;PRS;SBJV;V
+dan		IMP;NEG;SG;V
+dan		2;IND;NEG;PRF;PRS;SG;V
+dan		3;PROG;PST;SG;V
+dan		1;PROG;NEG;PASS;PST;SG;V
+dan		1;PROG;PASS;PST;SG;V
+dan	dayan	3;PFV;PL;PST;V
+dan		FOC;N
+dan		1;PROG;PL;PST;V
+dan		3;PASS;PRF;PST;SG;V
+dan		2;IND;NEG;PL;PRF;PRS;V
+dan		3;IND;NEG;PL;PRF;PRS;V
+dan	dedem	1;IND;PROG;PRS;SG;V
+dan		3;PASS;PFV;PST;SG;V
+dan		2;3;IND;PROG;PL;PRS;V
+dan		2;PFV;PST;SG;V
+dan		2;PRF;PST;SBJV;SG;V
+dan		1;IND;NEG;PRF;PST;SG;V
+řwwsy		ADJ;N
+trk		N;PSS3P
+trk		N;PROX
+trk		N;PSS1P
+trk		N;PSS1S
+trk	trkan	INDF;N;PL
+trk		LGSPEC2;N
+trk		N;REMT
+trk		N;PSS2S
+trk		LGSPEC1;N;PSS3S
+trk		INDF;INFM;N;SG
+trk		N;PSS2P
+trk		DEF;N;PL
+trk		DEF;N;SG
+trk		INDF;N;SG
+trk	trkš	FOC;N
+´eywan		N;PSS3P
+´eywan	'em´eywane	N;PROX
+´eywan		N;PSS1P
+´eywan		N;PSS1S
+´eywan		DEF;N;SG
+´eywan	´eywane	LGSPEC2;N
+´eywan		N;REMT
+´eywan		LGSPEC1;N;PSS3S
+´eywan		FOC;N
+´eywan		N;PSS2P
+´eywan		N;PSS2S
+´eywan		INDF;N;SG
+´eywan		INDF;INFM;N;SG
+bran		1;PFV;PL;PST;SBJV;V
+bran	nebrabyn	1;NEG;PL;PRF;PRS;SBJV;V
+bran		3;IMP;PROG;PRS;SBJV;SG;V
+bran		2;IND;NEG;PRF;PST;SG;V
+bran		1;IND;PROG;NEG;PL;PRS;V
+bran		2;PROG;PST;SG;V
+bran	brabwwy	2;IND;PRF;PST;SG;V
+bran		2;3;PROG;NEG;PL;PST;V
+bran	brawm	1;IND;PRF;PRS;SG;V
+bran		1;NEG;PRF;PST;SBJV;SG;V
+bran		1;PL;PRF;PST;SBJV;V
+bran		3;IND;NEG;PRF;PST;SG;V
+bran		2;PROG;PRS;SBJV;SG;V
+bran		1;PROG;PST;SG;V
+bran		2;3;PROG;PL;PST;V
+bran		2;IND;PROG;PRS;SG;V
+bran		1;IND;PL;PRF;PRS;V
+bran	nebran	2;3;IND;NEG;PFV;PL;PST;V
+bran		3;IND;PROG;PRS;SG;V
+bran		2;IND;PRF;PRS;SG;V
+bran		1;NEG;PRF;PRS;SBJV;SG;V
+bran		1;IND;NEG;PRF;PRS;SG;V
+bran		1;PL;PRF;PRS;SBJV;V
+bran		3;IND;PROG;NEG;PRS;SG;V
+bran		1;PRF;PRS;SBJV;SG;V
+bran		2;PROG;NEG;PRS;SBJV;SG;V
+bran		2;3;IND;PROG;NEG;PL;PRS;V
+bran		1;PROG;NEG;PL;PRS;SBJV;V
+bran		3;NEG;PFV;PST;SBJV;SG;V
+bran		1;IND;PL;PRF;PST;V
+bran	bbrayayě	2;PFV;PST;SBJV;SG;V
+bran		2;NEG;PFV;PST;SBJV;SG;V
+bran		3;PROG;NEG;PRS;SBJV;SG;V
+bran		1;PRF;PST;SBJV;SG;V
+bran		1;PROG;NEG;PL;PST;V
+bran		2;3;IND;NEG;PL;PRF;PST;V
+bran	nebrayn	1;IND;NEG;PFV;PL;PST;V
+bran		2;3;IMP;PROG;PL;PRS;SBJV;V
+bran		NEG;PST;V;V.PTCP
+bran		1;IND;NEG;PFV;PST;SG;V
+bran		3;PROG;PRS;SBJV;SG;V
+bran	nebramayě	1;NEG;PFV;PST;SBJV;SG;V
+bran		2;3;NEG;PL;PRF;PRS;SBJV;V
+bran		2;3;PROG;NEG;PL;PRS;SBJV;V
+bran		1;IND;PROG;NEG;PRS;SG;V
+bran	nebranbayě	2;3;NEG;PFV;PL;PST;SBJV;V
+bran		2;PROG;NEG;PST;SG;V
+bran	brabn	2;3;PL;PRF;PRS;SBJV;V
+bran		3;PRF;PST;SBJV;SG;V
+bran		2;IND;PFV;PST;SG;V
+bran		1;PROG;NEG;PRS;SBJV;SG;V
+bran		3;NEG;PRF;PRS;SBJV;SG;V
+bran		2;3;PFV;PL;PST;SBJV;V
+bran		2;PRF;PRS;SBJV;SG;V
+bran		IMP;NEG;PL;V
+bran		3;IND;PRF;PRS;SG;V
+bran		2;NEG;PRF;PRS;SBJV;SG;V
+bran	bbrm	1;PROG;PRS;SBJV;SG;V
+bran		2;3;NEG;PL;PRF;PST;SBJV;V
+bran		1;IND;NEG;PL;PRF;PST;V
+bran		3;IND;PRF;PST;SG;V
+bran		1;IND;PFV;PL;PST;V
+bran		2;3;IND;PL;PRF;PST;V
+bran		1;IND;PROG;PL;PRS;V
+bran		3;PFV;PST;SBJV;SG;V
+bran		3;NEG;PRF;PST;SBJV;SG;V
+bran	nebrawyn	1;IND;NEG;PL;PRF;PRS;V
+bran		1;IND;PRF;PST;SG;V
+bran		3;PRF;PRS;SBJV;SG;V
+bran		1;PFV;PST;SBJV;SG;V
+bran		3;IND;NEG;PFV;PST;SG;V
+bran		1;IND;PFV;PST;SG;V
+bran		PST;V;V.PTCP
+bran	nedebra	3;PROG;NEG;PST;SG;V
+bran		IMP;SG;V
+bran		2;3;IND;NFIN;PFV;PL;PST;V
+bran		2;NEG;PRF;PST;SBJV;SG;V
+bran	brawn	2;3;IND;PL;PRF;PRS;V
+bran		2;IND;PROG;NEG;PRS;SG;V
+bran		3;IND;NEG;PRF;PRS;SG;V
+bran		1;PROG;NEG;PST;SG;V
+bran		1;NEG;PFV;PL;PST;SBJV;V
+bran		1;NEG;PL;PRF;PST;SBJV;V
+bran		1;PROG;PL;PRS;SBJV;V
+bran		IMP;NEG;SG;V
+bran		2;IND;NEG;PRF;PRS;SG;V
+bran	debra	3;PROG;PST;SG;V
+bran		2;3;IND;NEG;PL;PRF;PRS;V
+bran	bra	3;IND;PFV;PST;SG;V
+bran	debrayn	1;PROG;PL;PST;V
+bran		2;IND;NEG;PFV;PST;SG;V
+bran	brabwwnbayě	2;3;PL;PRF;PST;SBJV;V
+bran		1;IND;PROG;PRS;SG;V
+bran		2;3;IND;PROG;PL;PRS;V
+bran	brabwwybayě	2;PRF;PST;SBJV;SG;V
+bran		1;IND;NEG;PRF;PST;SG;V
+zanyn		2;3;IND;PROG;NEG;PASS;PL;PRS;V
+zanyn		1;PFV;PL;PST;SBJV;V
+zanyn		2;NEG;PASS;PRF;PRS;SG;V
+zanyn		1;NEG;PL;PRF;PRS;SBJV;V
+zanyn		3;PASS;PFV;PST;SBJV;SG;V
+zanyn		1;NEG;PASS;PRF;PRS;SG;V
+zanyn		PASS;PST;V;V.PTCP
+zanyn		3;PASS;PRF;PRS;SG;V
+zanyn		2;IND;NEG;PRF;PST;SG;V
+zanyn		1;NEG;PASS;PFV;PL;PST;V
+zanyn		2;3;PASS;PL;PRF;PST;V
+zanyn		1;PFV;PL;PST;V
+zanyn		2;PFV;PL;PST;V
+zanyn		2;PASS;PRF;PST;SG;V
+zanyn	detzany	2;PROG;PST;SG;V
+zanyn		1;PASS;PFV;PL;PST;SBJV;V
+zanyn		2;IND;PRF;PST;SG;V
+zanyn		3;PROG;NEG;PL;PST;V
+zanyn	nemandezany	1;PROG;NEG;PL;PST;V
+zanyn		2;3;NEG;PASS;PL;PRF;PRS;V
+zanyn	detanzany	2;PROG;PL;PST;V
+zanyn	zanywme	1;IND;PRF;PRS;SG;V
+zanyn		3;PFV;PL;PST;SBJV;V
+zanyn		1;PROG;PRS;SBJV;SG;V
+zanyn		1;NEG;PRF;PST;SBJV;SG;V
+zanyn		2;PASS;PFV;PST;SG;V
+zanyn		1;PL;PRF;PST;SBJV;V
+zanyn	bzanrěy	2;PROG;PASS;PRS;SBJV;SG;V
+zanyn		1;IND;PROG;PL;PRS;V
+zanyn	mezanrěn	IMP;NEG;PASS;PL;V
+zanyn		2;PROG;PRS;SBJV;SG;V
+zanyn		2;IND;PL;PRF;PST;V
+zanyn		1;PROG;PST;SG;V
+zanyn		2;3;PROG;NEG;PASS;PL;PRS;SBJV;V
+zanyn		1;NEG;PASS;PRF;PST;SG;V
+zanyn		2;3;IND;PROG;PASS;PL;PRS;V
+zanyn		3;NEG;PFV;PL;PST;SBJV;V
+zanyn		1;IND;PL;PRF;PRS;V
+zanyn		3;IND;NEG;PRF;PST;SG;V
+zanyn		1;PROG;NEG;PASS;PL;PST;V
+zanyn		3;IND;PROG;PRS;SG;V
+zanyn		2;IND;PRF;PRS;SG;V
+zanyn		1;NEG;PRF;PRS;SBJV;SG;V
+zanyn		3;IND;PL;PRF;PRS;V
+zanyn	nezanrěm	1;PROG;NEG;PASS;PRS;SBJV;SG;V
+zanyn	nezanrabwwn	2;3;NEG;PASS;PL;PRF;PST;V
+zanyn	zanyy	3;PFV;PST;SG;V
+zanyn		2;3;PROG;NEG;PL;PRS;SBJV;V
+zanyn		1;IND;PROG;PASS;PRS;SG;V
+zanyn		2;3;PASS;PFV;PL;PST;SBJV;V
+zanyn		1;PL;PRF;PRS;SBJV;V
+zanyn	nazanět	3;IND;PROG;NEG;PRS;SG;V
+zanyn		NFIN;V
+zanyn	nezanrabwwyn	1;NEG;PASS;PL;PRF;PST;V
+zanyn		1;PRF;PRS;SBJV;SG;V
+zanyn	bzanrěyn	1;PROG;PASS;PL;PRS;SBJV;V
+zanyn		1;NEG;PASS;PFV;PST;SG;V
+zanyn		2;IND;PROG;PASS;PRS;SG;V
+zanyn		1;PASS;PL;PRF;PRS;V
+zanyn		2;3;NEG;PASS;PFV;PL;PST;SBJV;V
+zanyn		2;PASS;PFV;PST;SBJV;SG;V
+zanyn	byanzanybwwayě	3;PL;PRF;PST;SBJV;V
+zanyn		2;IND;PL;PRF;PRS;V
+zanyn		2;PROG;NEG;PRS;SBJV;SG;V
+zanyn		1;IND;PROG;NEG;PL;PRS;V
+zanyn		2;NEG;PL;PRF;PST;SBJV;V
+zanyn	nemanzanybwwayě	1;NEG;PL;PRF;PST;SBJV;V
+zanyn		1;PROG;NEG;PL;PRS;SBJV;V
+zanyn		1;PROG;NEG;PST;SG;V
+zanyn		1;IND;PL;PRF;PST;V
+zanyn		3;PFV;PL;PST;V
+zanyn		1;NEG;PFV;PST;SG;V
+zanyn		2;PFV;PST;SBJV;SG;V
+zanyn		2;NEG;PFV;PST;SBJV;SG;V
+zanyn	nemzanywe	1;IND;NEG;PRF;PRS;SG;V
+zanyn		3;PROG;NEG;PRS;SBJV;SG;V
+zanyn	bmzanybwwayě	1;PRF;PST;SBJV;SG;V
+zanyn		2;PROG;NEG;PASS;PRS;SBJV;SG;V
+zanyn		2;PFV;PL;PST;SBJV;V
+zanyn		1;IND;PROG;PASS;PL;PRS;V
+zanyn		1;PROG;NEG;PASS;PL;PRS;SBJV;V
+zanyn		1;IND;PROG;NEG;PASS;PRS;SG;V
+zanyn		3;IND;NEG;PL;PRF;PST;V
+zanyn	mezanrě	IMP;NEG;PASS;SG;V
+zanyn	bzanramayě	1;PASS;PFV;PST;SBJV;SG;V
+zanyn		2;3;IMP;PROG;PL;PRS;SBJV;V
+zanyn	zanrabwwyn	1;PASS;PL;PRF;PST;V
+zanyn		NEG;PST;V;V.PTCP
+zanyn		2;3;NEG;PL;PRF;PRS;SBJV;V
+zanyn		2;NEG;PASS;PFV;PST;SBJV;SG;V
+zanyn		2;PROG;NEG;PL;PST;V
+zanyn		3;PROG;PRS;SBJV;SG;V
+zanyn		3;NEG;PFV;PL;PST;V
+zanyn		2;IND;NEG;PL;PRF;PST;V
+zanyn		2;NEG;PFV;PL;PST;SBJV;V
+zanyn	nezanrabwwy	2;NEG;PASS;PRF;PST;SG;V
+zanyn		3;NEG;PASS;PFV;PST;SBJV;SG;V
+zanyn	dezanran	2;3;PROG;PASS;PL;PST;V
+zanyn		3;NEG;PFV;PST;SG;V
+zanyn		2;3;IND;PROG;NEG;PL;PRS;V
+zanyn		1;PFV;PST;SG;V
+zanyn		1;IND;PROG;NEG;PRS;SG;V
+zanyn		3;IND;PROG;PASS;PRS;SG;V
+zanyn		2;3;NFIN;PASS;PFV;PL;PST;V
+zanyn		2;PROG;NEG;PST;SG;V
+zanyn		2;3;PL;PRF;PRS;SBJV;V
+zanyn		3;PRF;PST;SBJV;SG;V
+zanyn		2;NEG;PFV;PST;SG;V
+zanyn		1;PROG;NEG;PRS;SBJV;SG;V
+zanyn		2;NEG;PASS;PFV;PST;SG;V
+zanyn		3;NEG;PRF;PRS;SBJV;SG;V
+zanyn		3;NEG;PL;PRF;PST;SBJV;V
+zanyn		3;PROG;PASS;PST;SG;V
+zanyn		2;PRF;PRS;SBJV;SG;V
+zanyn		1;NEG;PASS;PL;PRF;PRS;V
+zanyn		3;NEG;PASS;PRF;PST;SG;V
+zanyn		3;PFV;PST;SBJV;SG;V
+zanyn		3;IND;PRF;PRS;SG;V
+zanyn		1;PASS;PFV;PST;SG;V
+zanyn		2;NEG;PRF;PRS;SBJV;SG;V
+zanyn		1;NEG;PASS;PFV;PST;SBJV;SG;V
+zanyn		1;PASS;PFV;PL;PST;V
+zanyn	nezanraynayě	1;NEG;PASS;PFV;PL;PST;SBJV;V
+zanyn		1;IND;NEG;PL;PRF;PST;V
+zanyn		3;IND;PRF;PST;SG;V
+zanyn	nedezanra	3;PROG;NEG;PASS;PST;SG;V
+zanyn		3;NEG;PASS;PRF;PRS;SG;V
+zanyn	nezanran	2;3;NEG;PASS;PFV;PL;PST;V
+zanyn	netanzany	2;NEG;PFV;PL;PST;V
+zanyn		IMP;NEG;PL;V
+zanyn	dezanyt	2;IND;PROG;PRS;SG;V
+zanyn		IMP;PASS;SG;V
+zanyn		1;IND;PROG;NEG;PASS;PL;PRS;V
+zanyn	nemanzanywe	1;IND;NEG;PL;PRF;PRS;V
+zanyn		3;PROG;PASS;PRS;SBJV;SG;V
+zanyn		2;IND;PROG;NEG;PASS;PRS;SG;V
+zanyn		2;3;PROG;NEG;PASS;PL;PST;V
+zanyn		3;PRF;PRS;SBJV;SG;V
+zanyn	bmzanyayě	1;PFV;PST;SBJV;SG;V
+zanyn		1;PASS;PRF;PRS;SG;V
+zanyn	btanzanybwwayě	2;PL;PRF;PST;SBJV;V
+zanyn		2;PROG;PASS;PST;SG;V
+zanyn		2;PROG;NEG;PASS;PST;SG;V
+zanyn		3;PROG;NEG;PASS;PRS;SBJV;SG;V
+zanyn		3;IND;PROG;NEG;PASS;PRS;SG;V
+zanyn		3;NEG;PASS;PFV;PST;SG;V
+zanyn	bzanrěn	2;3;IMP;PROG;PASS;PL;PRS;SBJV;V
+zanyn	zanyw	PST;V;V.PTCP
+zanyn		3;PROG;NEG;PST;SG;V
+zanyn		IMP;SG;V
+zanyn		2;NEG;PRF;PST;SBJV;SG;V
+zanyn		3;IND;PL;PRF;PST;V
+zanyn		1;IND;PRF;PST;SG;V
+zanyn		3;PROG;PL;PST;V
+zanyn		2;IND;PROG;NEG;PRS;SG;V
+zanyn		1;PASS;PRF;PST;SG;V
+zanyn	neyzanywe	3;IND;NEG;PRF;PRS;SG;V
+zanyn		1;NEG;PFV;PST;SBJV;SG;V
+zanyn		3;NEG;PFV;PST;SBJV;SG;V
+zanyn		1;PROG;PASS;PRS;SBJV;SG;V
+zanyn		1;NEG;PFV;PL;PST;SBJV;V
+zanyn		1;NEG;PFV;PL;PST;V
+zanyn	zanrawy	2;PASS;PRF;PRS;SG;V
+zanyn		1;PROG;PL;PRS;SBJV;V
+zanyn		IMP;NEG;SG;V
+zanyn		2;IND;NEG;PRF;PRS;SG;V
+zanyn		3;PROG;PST;SG;V
+zanyn	nedezanram	1;PROG;NEG;PASS;PST;SG;V
+zanyn		1;PROG;PASS;PST;SG;V
+zanyn		2;PFV;PST;SG;V
+zanyn		1;PROG;PASS;PL;PST;V
+zanyn		1;PROG;PL;PST;V
+zanyn		3;PASS;PRF;PST;SG;V
+zanyn		2;IND;NEG;PL;PRF;PRS;V
+zanyn		2;3;PASS;PL;PRF;PRS;V
+zanyn		3;IND;NEG;PL;PRF;PRS;V
+zanyn		1;IND;PROG;PRS;SG;V
+zanyn	zanra	3;PASS;PFV;PST;SG;V
+zanyn		2;3;IND;PROG;PL;PRS;V
+zanyn		3;NEG;PRF;PST;SBJV;SG;V
+zanyn		2;PRF;PST;SBJV;SG;V
+zanyn		1;IND;NEG;PRF;PST;SG;V
+ber		N;PSS2S
+ber	'embere	N;PROX
+ber		N;PSS1P
+ber		N;PSS1S
+ber		DEF;N;SG
+ber		INDF;N;PL
+ber		LGSPEC2;N
+ber		N;REMT
+ber		LGSPEC1;N;PSS3S
+ber		FOC;N
+ber		N;PSS2P
+ber	berekan	DEF;N;PL
+ber		N;PSS3P
+ber		INDF;N;SG
+ber		INDF;INFM;N;SG

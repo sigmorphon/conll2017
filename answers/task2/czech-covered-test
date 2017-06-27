@@ -1,0 +1,1148 @@
+generál		N;VOC;SG
+generál		N;NOM;PL
+generál		N;GEN;SG
+generál		N;GEN;PL
+generál		N;INS;PL
+generál		N;ESS;PL
+generál		N;ESS;SG
+generál	generál	N;NOM;SG
+generál		N;INS;SG
+generál		N;DAT;SG
+generál		N;ACC;PL
+generál		N;ACC;SG
+generál		N;VOC;PL
+generál	generálům	N;DAT;PL
+začít	začal	V;IND;PST;2;SG;NEUT
+začít		V;IND;PST;3;SG;NEUT
+začít		V;IND;PST;3;PL;FEM
+začít		V;IND;PST;2;SG;MASC
+začít		V;IND;PST;2;PL;NEUT
+začít		V;IND;PST;3;PL;NEUT
+začít		V;IND;FUT;2;PL
+začít		V;IND;PST;3;SG;MASC
+začít	začali	V;IND;PST;3;PL;MASC
+začít		V;IND;FUT;3;SG
+začít		V;IND;PST;2;PL;MASC
+začít		V;IND;PST;2;SG;FEM
+začít		V;IND;PST;3;SG;FEM
+začít		V;IND;FUT;2;SG
+začít		V;IND;PST;2;PL;FEM
+začít		V;IND;FUT;3;PL
+nucený		ADJ;NOM;MASC;PL
+nucený		ADJ;ACC;ANIM;MASC;SG
+nucený		ADJ;DAT;FEM;SG
+nucený		ADJ;DAT;PL
+nucený		ADJ;VOC;MASC;PL
+nucený		ADJ;NOM;ANIM;MASC;PL
+nucený		ADJ;ACC;FEM;SG
+nucený		ADJ;GEN;MASC;SG
+nucený		ADJ;GEN;PL
+nucený		ADJ;GEN;NEUT;SG
+nucený		ADJ;ACC;NEUT;PL
+nucený		ADJ;NOM;FEM;PL
+nucený		ADJ;NOM;NEUT;PL
+nucený	nucený	ADJ;NOM;MASC;SG
+nucený	nucení	ADJ;VOC;ANIM;MASC;PL
+nucený		ADJ;VOC;NEUT;SG
+nucený		ADJ;ESS;NEUT;SG
+nucený		ADJ;GEN;FEM;SG
+nucený	nucené	ADJ;ACC;MASC;PL
+nucený		ADJ;ACC;FEM;PL
+nucený	nucenými	ADJ;INS;PL
+nucený		ADJ;ESS;MASC;SG
+nucený		ADJ;DAT;MASC;SG
+nucený		ADJ;NOM;NEUT;SG
+nucený		ADJ;INS;MASC;SG
+nucený		ADJ;ACC;NEUT;SG
+nucený	nucené	ADJ;VOC;FEM;PL
+nucený		ADJ;VOC;NEUT;PL
+nucený		ADJ;ACC;INAN;MASC;SG
+nucený	nucená	ADJ;VOC;FEM;SG
+nucený		ADJ;DAT;NEUT;SG
+nucený		ADJ;VOC;MASC;SG
+nucený		ADJ;NOM;FEM;SG
+nucený		ADJ;ESS;PL
+nucený		ADJ;ESS;FEM;SG
+já		N;NOM;PL
+já		N;GEN;PL
+já	mě	N;GEN;SG
+já		N;INS;PL
+já		N;ESS;PL
+já		N;ESS;SG
+já		N;NOM;SG
+já		N;INS;SG
+já		N;DAT;SG
+já		N;ACC;PL
+já		N;ACC;SG
+já		N;DAT;PL
+formální		ADJ;ACC;ANIM;MASC;SG
+formální		ADJ;ACC;MASC;SG
+formální		ADJ;DAT;FEM;SG
+formální		ADJ;DAT;PL
+formální		ADJ;VOC;PL
+formální		ADJ;ACC;FEM;SG
+formální		ADJ;GEN;MASC;SG
+formální		ADJ;GEN;PL
+formální		ADJ;INS;FEM;SG
+formální		ADJ;GEN;NEUT;SG
+formální		ADJ;INS;NEUT;SG
+formální		ADJ;NOM;PL
+formální	formálním	ADJ;ESS;NEUT;SG
+formální		ADJ;GEN;FEM;SG
+formální		ADJ;ACC;PL
+formální		ADJ;INS;PL
+formální		ADJ;ESS;MASC;SG
+formální		ADJ;VOC;SG
+formální	formálnímu	ADJ;DAT;MASC;SG
+formální		ADJ;INS;MASC;SG
+formální	formální	ADJ;ACC;NEUT;SG
+formální	formálnímu	ADJ;DAT;NEUT;SG
+formální		ADJ;NOM;SG
+formální		ADJ;ESS;PL
+formální		ADJ;ESS;FEM;SG
+radikální	radikálního	ADJ;ACC;ANIM;MASC;SG
+radikální		ADJ;ACC;MASC;SG
+radikální	radikální	ADJ;DAT;FEM;SG
+radikální		ADJ;DAT;PL
+radikální		ADJ;VOC;PL
+radikální	radikální	ADJ;ACC;FEM;SG
+radikální		ADJ;GEN;MASC;SG
+radikální		ADJ;GEN;PL
+radikální		ADJ;INS;FEM;SG
+radikální		ADJ;GEN;NEUT;SG
+radikální		ADJ;INS;NEUT;SG
+radikální		ADJ;NOM;PL
+radikální		ADJ;ESS;NEUT;SG
+radikální		ADJ;GEN;FEM;SG
+radikální		ADJ;ACC;PL
+radikální		ADJ;INS;PL
+radikální		ADJ;ESS;MASC;SG
+radikální	radikální	ADJ;VOC;SG
+radikální		ADJ;DAT;MASC;SG
+radikální		ADJ;INS;MASC;SG
+radikální		ADJ;ACC;NEUT;SG
+radikální		ADJ;DAT;NEUT;SG
+radikální		ADJ;NOM;SG
+radikální		ADJ;ESS;PL
+radikální		ADJ;ESS;FEM;SG
+lov		N;VOC;SG
+lov		N;GEN;PL
+lov		N;NOM;SG
+lov		N;VOC;PL
+lov		N;INS;PL
+lov		N;ESS;PL
+lov	lovu	N;ESS;SG
+lov		N;GEN;SG
+lov	lovem	N;INS;SG
+lov		N;DAT;SG
+lov		N;ACC;PL
+lov		N;ACC;SG
+lov		N;NOM;PL
+lov		N;DAT;PL
+srpen		N;VOC;SG
+srpen		N;GEN;PL
+srpen		N;GEN;SG
+srpen		N;VOC;PL
+srpen		N;INS;PL
+srpen	srpnech	N;ESS;PL
+srpen		N;ESS;SG
+srpen		N;NOM;SG
+srpen		N;INS;SG
+srpen		N;DAT;SG
+srpen		N;ACC;PL
+srpen	srpen	N;ACC;SG
+srpen		N;NOM;PL
+srpen		N;DAT;PL
+památka	památek	N;GEN;PL
+památka		N;VOC;SG
+památka		N;NOM;SG
+památka		N;VOC;PL
+památka		N;INS;PL
+památka		N;ESS;PL
+památka		N;ESS;SG
+památka	památky	N;GEN;SG
+památka		N;INS;SG
+památka		N;DAT;SG
+památka		N;ACC;PL
+památka		N;ACC;SG
+památka		N;NOM;PL
+památka		N;DAT;PL
+prodej		N;NOM;PL
+prodej		N;VOC;SG
+prodej		N;GEN;SG
+prodej		N;GEN;PL
+prodej		N;INS;PL
+prodej		N;ESS;PL
+prodej	prodeji	N;ESS;SG
+prodej		N;NOM;SG
+prodej		N;INS;SG
+prodej	prodeji	N;DAT;SG
+prodej		N;ACC;PL
+prodej		N;ACC;SG
+prodej		N;VOC;PL
+prodej		N;DAT;PL
+sen		N;NOM;PL
+sen		N;VOC;SG
+sen		N;GEN;SG
+sen		N;GEN;PL
+sen		N;INS;PL
+sen		N;ESS;PL
+sen		N;ESS;SG
+sen		N;NOM;SG
+sen	snu	N;INS;SG
+sen		N;DAT;SG
+sen		N;ACC;PL
+sen		N;ACC;SG
+sen		N;VOC;PL
+sen	snů	N;DAT;PL
+krátký		ADJ;NOM;MASC;PL
+krátký		ADJ;ACC;ANIM;MASC;SG
+krátký		ADJ;DAT;FEM;SG
+krátký		ADJ;DAT;PL
+krátký		ADJ;VOC;MASC;PL
+krátký		ADJ;NOM;ANIM;MASC;PL
+krátký		ADJ;ACC;FEM;SG
+krátký	krátkého	ADJ;GEN;MASC;SG
+krátký		ADJ;GEN;PL
+krátký		ADJ;GEN;NEUT;SG
+krátký	krátká	ADJ;ACC;NEUT;PL
+krátký		ADJ;NOM;FEM;PL
+krátký		ADJ;NOM;NEUT;PL
+krátký		ADJ;NOM;MASC;SG
+krátký		ADJ;VOC;ANIM;MASC;PL
+krátký		ADJ;VOC;NEUT;SG
+krátký		ADJ;DAT;MASC;SG
+krátký		ADJ;GEN;FEM;SG
+krátký		ADJ;ACC;MASC;PL
+krátký		ADJ;ACC;FEM;PL
+krátký	krátkými	ADJ;INS;PL
+krátký		ADJ;ESS;MASC;SG
+krátký		ADJ;ESS;NEUT;SG
+krátký		ADJ;NOM;NEUT;SG
+krátký		ADJ;INS;MASC;SG
+krátký		ADJ;ACC;NEUT;SG
+krátký		ADJ;VOC;FEM;PL
+krátký		ADJ;VOC;NEUT;PL
+krátký	krátký	ADJ;ACC;INAN;MASC;SG
+krátký		ADJ;VOC;FEM;SG
+krátký		ADJ;DAT;NEUT;SG
+krátký	krátký	ADJ;VOC;MASC;SG
+krátký		ADJ;NOM;FEM;SG
+krátký		ADJ;ESS;PL
+krátký	krátké	ADJ;ESS;FEM;SG
+pes		N;VOC;SG
+pes		N;NOM;PL
+pes		N;GEN;SG
+pes	psů	N;GEN;PL
+pes		N;INS;PL
+pes		N;ESS;PL
+pes		N;ESS;SG
+pes		N;NOM;SG
+pes		N;INS;SG
+pes		N;DAT;SG
+pes		N;ACC;PL
+pes		N;ACC;SG
+pes		N;VOC;PL
+pes	psům	N;DAT;PL
+manželství		N;GEN;PL
+manželství		N;NOM;PL
+manželství		N;GEN;SG
+manželství		N;INS;PL
+manželství	manželstvích	N;ESS;PL
+manželství	manželství	N;ESS;SG
+manželství		N;VOC;SG
+manželství		N;NOM;SG
+manželství		N;INS;SG
+manželství		N;DAT;SG
+manželství		N;ACC;PL
+manželství		N;ACC;SG
+manželství		N;VOC;PL
+manželství		N;DAT;PL
+továrna		N;GEN;PL
+továrna		N;VOC;SG
+továrna	továrna	N;NOM;SG
+továrna		N;VOC;PL
+továrna		N;INS;PL
+továrna		N;ESS;PL
+továrna		N;ESS;SG
+továrna		N;GEN;SG
+továrna		N;INS;SG
+továrna		N;DAT;SG
+továrna	továrny	N;ACC;PL
+továrna		N;ACC;SG
+továrna		N;NOM;PL
+továrna		N;DAT;PL
+kraj		N;NOM;PL
+kraj		N;VOC;SG
+kraj	kraje	N;GEN;SG
+kraj		N;GEN;PL
+kraj		N;INS;PL
+kraj		N;ESS;PL
+kraj		N;ESS;SG
+kraj		N;NOM;SG
+kraj	krajem	N;INS;SG
+kraj		N;DAT;SG
+kraj		N;ACC;PL
+kraj		N;ACC;SG
+kraj		N;VOC;PL
+kraj		N;DAT;PL
+koberec		N;NOM;PL
+koberec		N;VOC;SG
+koberec		N;GEN;SG
+koberec		N;GEN;PL
+koberec		N;INS;PL
+koberec	kobercích	N;ESS;PL
+koberec		N;ESS;SG
+koberec		N;NOM;SG
+koberec		N;INS;SG
+koberec		N;DAT;SG
+koberec		N;ACC;PL
+koberec		N;ACC;SG
+koberec	koberce	N;VOC;PL
+koberec		N;DAT;PL
+radostný		ADJ;NOM;MASC;PL
+radostný		ADJ;ACC;ANIM;MASC;SG
+radostný	radostné	ADJ;DAT;FEM;SG
+radostný		ADJ;DAT;PL
+radostný		ADJ;VOC;MASC;PL
+radostný		ADJ;NOM;ANIM;MASC;PL
+radostný	radostnou	ADJ;ACC;FEM;SG
+radostný		ADJ;GEN;MASC;SG
+radostný		ADJ;GEN;PL
+radostný		ADJ;GEN;NEUT;SG
+radostný	radostná	ADJ;ACC;NEUT;PL
+radostný		ADJ;NOM;FEM;PL
+radostný		ADJ;NOM;NEUT;PL
+radostný		ADJ;NOM;MASC;SG
+radostný		ADJ;VOC;ANIM;MASC;PL
+radostný		ADJ;VOC;NEUT;SG
+radostný	radostném	ADJ;ESS;NEUT;SG
+radostný		ADJ;GEN;FEM;SG
+radostný		ADJ;ACC;MASC;PL
+radostný		ADJ;ACC;FEM;PL
+radostný		ADJ;INS;PL
+radostný		ADJ;ESS;MASC;SG
+radostný		ADJ;DAT;MASC;SG
+radostný		ADJ;NOM;NEUT;SG
+radostný		ADJ;INS;MASC;SG
+radostný		ADJ;ACC;NEUT;SG
+radostný		ADJ;VOC;FEM;PL
+radostný		ADJ;VOC;NEUT;PL
+radostný	radostný	ADJ;ACC;INAN;MASC;SG
+radostný		ADJ;VOC;FEM;SG
+radostný		ADJ;DAT;NEUT;SG
+radostný		ADJ;VOC;MASC;SG
+radostný	radostná	ADJ;NOM;FEM;SG
+radostný		ADJ;ESS;PL
+radostný		ADJ;ESS;FEM;SG
+katedrála		N;GEN;PL
+katedrála	katedrálo	N;VOC;SG
+katedrála		N;NOM;SG
+katedrála	katedrály	N;VOC;PL
+katedrála		N;INS;PL
+katedrála		N;ESS;PL
+katedrála		N;ESS;SG
+katedrála		N;GEN;SG
+katedrála		N;INS;SG
+katedrála		N;DAT;SG
+katedrála		N;ACC;PL
+katedrála		N;ACC;SG
+katedrála		N;NOM;PL
+katedrála		N;DAT;PL
+zranění		N;GEN;PL
+zranění		N;NOM;PL
+zranění	zranění	N;GEN;SG
+zranění		N;INS;PL
+zranění		N;ESS;PL
+zranění		N;ESS;SG
+zranění		N;VOC;SG
+zranění		N;NOM;SG
+zranění		N;INS;SG
+zranění		N;DAT;SG
+zranění	zranění	N;ACC;PL
+zranění		N;ACC;SG
+zranění		N;VOC;PL
+zranění		N;DAT;PL
+nepopulární		ADJ;ACC;ANIM;MASC;SG
+nepopulární		ADJ;ACC;MASC;SG
+nepopulární		ADJ;DAT;FEM;SG
+nepopulární		ADJ;DAT;PL
+nepopulární	nepopulární	ADJ;VOC;PL
+nepopulární		ADJ;ACC;FEM;SG
+nepopulární	nepopulárního	ADJ;GEN;MASC;SG
+nepopulární	nepopulárních	ADJ;GEN;PL
+nepopulární		ADJ;INS;FEM;SG
+nepopulární		ADJ;GEN;NEUT;SG
+nepopulární		ADJ;INS;NEUT;SG
+nepopulární		ADJ;NOM;PL
+nepopulární		ADJ;ESS;NEUT;SG
+nepopulární		ADJ;GEN;FEM;SG
+nepopulární		ADJ;ACC;PL
+nepopulární	nepopulárními	ADJ;INS;PL
+nepopulární		ADJ;ESS;MASC;SG
+nepopulární		ADJ;VOC;SG
+nepopulární		ADJ;DAT;MASC;SG
+nepopulární		ADJ;INS;MASC;SG
+nepopulární		ADJ;ACC;NEUT;SG
+nepopulární		ADJ;DAT;NEUT;SG
+nepopulární		ADJ;NOM;SG
+nepopulární		ADJ;ESS;PL
+nepopulární		ADJ;ESS;FEM;SG
+úkol		N;VOC;SG
+úkol		N;GEN;PL
+úkol		N;NOM;SG
+úkol		N;VOC;PL
+úkol		N;INS;PL
+úkol		N;ESS;PL
+úkol		N;ESS;SG
+úkol		N;GEN;SG
+úkol		N;INS;SG
+úkol		N;DAT;SG
+úkol		N;ACC;PL
+úkol	úkol	N;ACC;SG
+úkol		N;NOM;PL
+úkol	úkolům	N;DAT;PL
+pláž		N;NOM;PL
+pláž		N;VOC;SG
+pláž		N;GEN;SG
+pláž		N;GEN;PL
+pláž		N;INS;PL
+pláž	plážích	N;ESS;PL
+pláž	pláži	N;ESS;SG
+pláž		N;NOM;SG
+pláž		N;INS;SG
+pláž		N;DAT;SG
+pláž		N;ACC;PL
+pláž		N;ACC;SG
+pláž		N;VOC;PL
+pláž		N;DAT;PL
+zboží		N;GEN;PL
+zboží		N;NOM;PL
+zboží		N;INS;PL
+zboží		N;ESS;PL
+zboží		N;ACC;PL
+zboží		N;VOC;PL
+zboží		N;DAT;PL
+vědecký		ADJ;NOM;MASC;PL
+vědecký	vědeckého	ADJ;ACC;ANIM;MASC;SG
+vědecký		ADJ;DAT;FEM;SG
+vědecký		ADJ;DAT;PL
+vědecký		ADJ;VOC;MASC;PL
+vědecký		ADJ;NOM;ANIM;MASC;PL
+vědecký		ADJ;ACC;FEM;SG
+vědecký		ADJ;GEN;MASC;SG
+vědecký	vědeckých	ADJ;GEN;PL
+vědecký	vědeckého	ADJ;GEN;NEUT;SG
+vědecký		ADJ;ACC;NEUT;PL
+vědecký		ADJ;NOM;FEM;PL
+vědecký		ADJ;NOM;NEUT;PL
+vědecký		ADJ;NOM;MASC;SG
+vědecký	vědečtí	ADJ;VOC;ANIM;MASC;PL
+vědecký		ADJ;VOC;NEUT;SG
+vědecký		ADJ;ESS;NEUT;SG
+vědecký		ADJ;GEN;FEM;SG
+vědecký		ADJ;ACC;MASC;PL
+vědecký		ADJ;ACC;FEM;PL
+vědecký		ADJ;INS;PL
+vědecký		ADJ;ESS;MASC;SG
+vědecký		ADJ;DAT;MASC;SG
+vědecký		ADJ;NOM;NEUT;SG
+vědecký	vědeckým	ADJ;INS;MASC;SG
+vědecký		ADJ;ACC;NEUT;SG
+vědecký		ADJ;VOC;FEM;PL
+vědecký		ADJ;VOC;NEUT;PL
+vědecký		ADJ;ACC;INAN;MASC;SG
+vědecký		ADJ;VOC;FEM;SG
+vědecký		ADJ;DAT;NEUT;SG
+vědecký		ADJ;VOC;MASC;SG
+vědecký	vědecká	ADJ;NOM;FEM;SG
+vědecký		ADJ;ESS;PL
+vědecký		ADJ;ESS;FEM;SG
+kněz		N;GEN;PL
+kněz		N;NOM;PL
+kněz		N;GEN;SG
+kněz		N;INS;PL
+kněz		N;ESS;PL
+kněz		N;ESS;SG
+kněz	knězi	N;VOC;SG
+kněz		N;NOM;SG
+kněz		N;INS;SG
+kněz		N;DAT;SG
+kněz	kněze	N;ACC;PL
+kněz		N;ACC;SG
+kněz		N;VOC;PL
+kněz		N;DAT;PL
+stříbro		N;GEN;PL
+stříbro		N;NOM;PL
+stříbro		N;GEN;SG
+stříbro		N;INS;PL
+stříbro		N;ESS;PL
+stříbro		N;ESS;SG
+stříbro	stříbro	N;VOC;SG
+stříbro		N;NOM;SG
+stříbro		N;INS;SG
+stříbro		N;DAT;SG
+stříbro		N;ACC;PL
+stříbro		N;ACC;SG
+stříbro		N;VOC;PL
+stříbro	stříbrům	N;DAT;PL
+straka		N;GEN;PL
+straka		N;VOC;SG
+straka		N;NOM;SG
+straka		N;VOC;PL
+straka		N;INS;PL
+straka		N;ESS;PL
+straka		N;ESS;SG
+straka		N;GEN;SG
+straka		N;INS;SG
+straka		N;DAT;SG
+straka		N;ACC;PL
+straka	straku	N;ACC;SG
+straka		N;NOM;PL
+straka	strakám	N;DAT;PL
+scénář		N;NOM;PL
+scénář		N;VOC;SG
+scénář		N;GEN;SG
+scénář		N;GEN;PL
+scénář	scénáři	N;INS;PL
+scénář		N;ESS;PL
+scénář		N;ESS;SG
+scénář		N;NOM;SG
+scénář		N;INS;SG
+scénář		N;DAT;SG
+scénář		N;ACC;PL
+scénář		N;ACC;SG
+scénář	scénáře	N;VOC;PL
+scénář		N;DAT;PL
+dárek		N;GEN;PL
+dárek		N;VOC;SG
+dárek		N;NOM;SG
+dárek	dárky	N;VOC;PL
+dárek		N;INS;PL
+dárek		N;ESS;PL
+dárek		N;ESS;SG
+dárek		N;GEN;SG
+dárek	dárkem	N;INS;SG
+dárek		N;DAT;SG
+dárek		N;ACC;PL
+dárek		N;ACC;SG
+dárek		N;NOM;PL
+dárek		N;DAT;PL
+přítomnost		N;GEN;PL
+přítomnost		N;NOM;PL
+přítomnost	přítomnosti	N;GEN;SG
+přítomnost		N;INS;PL
+přítomnost		N;ESS;PL
+přítomnost		N;ESS;SG
+přítomnost		N;VOC;SG
+přítomnost	přítomnost	N;NOM;SG
+přítomnost		N;INS;SG
+přítomnost		N;DAT;SG
+přítomnost		N;ACC;PL
+přítomnost		N;ACC;SG
+přítomnost		N;VOC;PL
+přítomnost		N;DAT;PL
+sledovat		V;COND;PST;1;SG;MASC
+sledovat		V;COND;PST;3;SG;MASC
+sledovat		V;IND;PST;2;PL;NEUT
+sledovat	sledujíce	V.CVB;PRS;PL
+sledovat		V.PTCP;ACT;PRF;INAN;MASC;PL
+sledovat		V;COND;PRS;2;PL;NEUT
+sledovat		V;IND;PST;3;SG;NEUT
+sledovat		V;IND;PRS;2;PL
+sledovat		V;COND;PST;2;SG;FORM;NEUT
+sledovat		V.CVB;PST;MASC;SG
+sledovat		V.CVB;PRS;FEM;SG
+sledovat	sledovalo bych	V;COND;PRS;1;SG;NEUT
+sledovat		V;IND;FUT;2;SG;FORM
+sledovat		V.PTCP;PASS;ANIM;MASC;PL
+sledovat		V;IND;PST;1;PL;NEUT
+sledovat	byla by sledovala	V;COND;PST;3;SG;FEM
+sledovat		V;IND;PST;1;SG;NEUT
+sledovat		V;IND;PRS;3;SG
+sledovat		V;COND;PST;1;SG;FEM
+sledovat		V;IND;PST;3;PL;NEUT
+sledovat		V;IND;PST;2;SG;FORM;NEUT
+sledovat		V;IND;PST;3;PL;MASC;ANIM
+sledovat		V;COND;PRS;2;PL;MASC
+sledovat		V;COND;PST;2;SG;FORM;MASC
+sledovat	sledován	V.PTCP;PASS;MASC;SG
+sledovat		V;IND;PST;1;SG;FEM
+sledovat		V;IND;PRS;3;PL
+sledovat		V.PTCP;ACT;PRF;FEM;SG
+sledovat		V;COND;PRS;1;SG;FEM
+sledovat	sledující	V.PTCP
+sledovat		V.PTCP;ACT;PRF;NEUT;SG
+sledovat		V;IND;PST;2;SG;FORM;FEM
+sledovat	sledována	V.PTCP;PASS;FEM;SG
+sledovat		V;COND;PST;1;PL;FEM
+sledovat		V;IND;FUT;1;PL
+sledovat	sledovalo jsi	V;IND;PST;2;SG;NEUT
+sledovat		V;IND;FUT;3;PL
+sledovat		V.PTCP;ACT;PRF;FEM;PL
+sledovat		V;IND;PST;2;SG;FEM
+sledovat		V;NFIN
+sledovat	sledovaly byste	V;COND;PRS;2;PL;FEM
+sledovat		V.PTCP;ACT;PRF;NEUT;PL
+sledovat		V;IND;PST;3;SG;FEM
+sledovat		V;IND;PST;1;SG;MASC
+sledovat		V;IMP;1;PL
+sledovat		V;COND;PST;1;SG;NEUT
+sledovat		V;IND;PST;1;PL;MASC
+sledovat		V;IMP;2;SG;FORM
+sledovat	sledovali jste	V;IND;PST;2;PL;MASC
+sledovat		V;IND;PRS;1;PL
+sledovat		V;IND;PST;2;PL;FEM
+sledovat		V.CVB;PRS;MASC;SG
+sledovat		V;IND;PST;1;PL;FEM
+sledovat		V.PTCP;ACT;PRF;ANIM;MASC;PL
+sledovat		V.PTCP;PASS;INAN;MASC;PL
+sledovat		V;IND;PST;3;PL;FEM
+sledovat		V;IMP;2;PL
+sledovat		V;IND;PST;3;PL;MASC;INAN
+sledovat		V.PTCP;PASS;NEUT;PL
+sledovat	sleduješ	V;IND;PST;2;SG
+sledovat		V.PTCP;ACT;PRF;MASC;SG
+sledovat		V;COND;PRS;1;PL;MASC;ANIM
+sledovat		V.CVB;PST;FEM;SG
+sledovat	sledoval bych	V;COND;PRS;1;SG;MASC
+sledovat		V;IND;PST;2;SG;MASC
+sledovat		V;COND;PRS;3;SG;MASC
+sledovat		V;IND;PST;2;SG;FORM;MASC
+sledovat		V;COND;PST;2;PL;MASC
+sledovat		V.CVB
+sledovat		V;COND;PST;1;PL;NEUT
+sledovat	sledovali bychom	V;COND;PRS;1;PL;MASC
+sledovat	byl bys sledoval	V;COND;PST;2;SG;MASC
+sledovat	byla bys sledovala	V;COND;PST;2;SG;FEM
+sledovat		V;IND;FUT;1;SG
+sledovat		V;COND;PST;3;PL;NEUT
+sledovat		V;COND;PRS;2;SG;FORM;FEM
+sledovat		V;COND;PST;3;PL;MASC;ANIM
+sledovat		V;IND;FUT;3;SG
+sledovat		V;COND;PRS;3;SG;FEM
+sledovat		V;COND;PRS;1;PL;NEUT
+sledovat		V;COND;PST;3;PL;FEM
+sledovat		V;IMP;2;SG
+sledovat		V.PTCP;PASS;NEUT;SG
+sledovat	byly byste sledovaly	V;COND;PST;2;PL;FEM
+sledovat	bylo bys sledovalo	V;COND;PST;2;SG;NEUT
+sledovat		V;COND;PST;1;PL;MASC
+sledovat		V;IND;FUT;2;PL
+sledovat		V;COND;PRS;2;SG;MASC
+sledovat	sledovala bys	V;COND;PRS;2;SG;FEM
+sledovat		V.CVB;PST;PL
+sledovat		V;COND;PRS;3;PL;NEUT
+sledovat	byla byste sledovala	V;COND;PST;2;SG;FORM;FEM
+sledovat		V;COND;PRS;1;PL;MASC;INAN
+sledovat		V;IND;PRS;1;SG
+sledovat		V;COND;PRS;2;SG;FORM;MASC
+sledovat		V;COND;PRS;3;PL;FEM
+sledovat		V;IND;PRS;2;SG;FORM
+sledovat		V;COND;PST;2;PL;NEUT
+sledovat	sledovalo bys	V;COND;PRS;2;SG;NEUT
+sledovat		V;COND;PRS;3;SG;NEUT
+sledovat	sledoval	V;IND;PST;3;SG;MASC
+sledovat		V;COND;PRS;2;SG;FORM;NEUT
+sledovat		V;COND;PST;3;SG;NEUT
+sledovat		V;IND;FUT;2;SG
+sledovat		V;COND;PRS;1;PL;FEM
+sledovat		V.PTCP;PASS;FEM;PL
+sledovat		V;COND;PST;3;PL;MASC;INAN
+lingvistika		N;GEN;PL
+lingvistika		N;VOC;SG
+lingvistika		N;NOM;SG
+lingvistika		N;VOC;PL
+lingvistika		N;INS;PL
+lingvistika	lingvistikách	N;ESS;PL
+lingvistika		N;ESS;SG
+lingvistika		N;GEN;SG
+lingvistika		N;INS;SG
+lingvistika	lingvistice	N;DAT;SG
+lingvistika		N;ACC;PL
+lingvistika		N;ACC;SG
+lingvistika		N;NOM;PL
+lingvistika		N;DAT;PL
+gól	góle	N;VOC;SG
+gól		N;GEN;PL
+gól		N;NOM;SG
+gól		N;VOC;PL
+gól		N;INS;PL
+gól		N;ESS;PL
+gól		N;ESS;SG
+gól		N;GEN;SG
+gól		N;INS;SG
+gól		N;DAT;SG
+gól		N;ACC;PL
+gól		N;ACC;SG
+gól		N;NOM;PL
+gól	gólům	N;DAT;PL
+bod		N;VOC;SG
+bod		N;GEN;PL
+bod		N;NOM;SG
+bod		N;VOC;PL
+bod		N;INS;PL
+bod		N;ESS;PL
+bod		N;ESS;SG
+bod		N;GEN;SG
+bod		N;INS;SG
+bod	bodu	N;DAT;SG
+bod		N;ACC;PL
+bod		N;ACC;SG
+bod		N;NOM;PL
+bod	bodům	N;DAT;PL
+pramen		N;VOC;SG
+pramen		N;GEN;PL
+pramen		N;GEN;SG
+pramen		N;VOC;PL
+pramen		N;INS;PL
+pramen	pramenech	N;ESS;PL
+pramen		N;ESS;SG
+pramen		N;NOM;SG
+pramen		N;INS;SG
+pramen		N;DAT;SG
+pramen		N;ACC;PL
+pramen	pramen	N;ACC;SG
+pramen		N;NOM;PL
+pramen		N;DAT;PL
+rozkaz		N;VOC;SG
+rozkaz		N;GEN;PL
+rozkaz		N;NOM;SG
+rozkaz		N;VOC;PL
+rozkaz		N;INS;PL
+rozkaz		N;ESS;PL
+rozkaz	rozkazu	N;ESS;SG
+rozkaz		N;GEN;SG
+rozkaz		N;INS;SG
+rozkaz		N;DAT;SG
+rozkaz		N;ACC;PL
+rozkaz	rozkaz	N;ACC;SG
+rozkaz		N;NOM;PL
+rozkaz		N;DAT;PL
+modelka		N;GEN;PL
+modelka		N;VOC;SG
+modelka		N;NOM;SG
+modelka		N;VOC;PL
+modelka		N;INS;PL
+modelka		N;ESS;PL
+modelka		N;ESS;SG
+modelka	modelky	N;GEN;SG
+modelka	modelkou	N;INS;SG
+modelka		N;DAT;SG
+modelka		N;ACC;PL
+modelka		N;ACC;SG
+modelka		N;NOM;PL
+modelka		N;DAT;PL
+noha	noho	N;VOC;SG
+noha		N;GEN;PL
+noha	noha	N;NOM;SG
+noha		N;VOC;PL
+noha		N;INS;PL
+noha		N;ESS;PL
+noha		N;ESS;SG
+noha		N;GEN;SG
+noha		N;INS;SG
+noha		N;DAT;SG
+noha		N;ACC;PL
+noha		N;ACC;SG
+noha		N;NOM;PL
+noha		N;DAT;PL
+veterán		N;VOC;SG
+veterán		N;NOM;PL
+veterán		N;GEN;SG
+veterán		N;GEN;PL
+veterán	veterány	N;INS;PL
+veterán		N;ESS;PL
+veterán		N;ESS;SG
+veterán		N;NOM;SG
+veterán		N;INS;SG
+veterán	veteránovi	N;DAT;SG
+veterán		N;ACC;PL
+veterán		N;ACC;SG
+veterán		N;VOC;PL
+veterán		N;DAT;PL
+třída	tříd	N;GEN;PL
+třída		N;VOC;SG
+třída		N;NOM;SG
+třída		N;VOC;PL
+třída	třídami	N;INS;PL
+třída		N;ESS;PL
+třída		N;ESS;SG
+třída		N;GEN;SG
+třída		N;INS;SG
+třída		N;DAT;SG
+třída		N;ACC;PL
+třída		N;ACC;SG
+třída		N;NOM;PL
+třída		N;DAT;PL
+vidět		V;IND;PST;2;SG;NEUT
+vidět		V;IND;PST;3;SG;NEUT
+vidět		V;IND;PST;3;PL;FEM
+vidět		V;IND;PRS;3;PL
+vidět		V;IND;PST;2;SG;MASC
+vidět	viděli	V;IND;PST;2;PL;NEUT
+vidět		V;IND;PST;3;PL;NEUT
+vidět	budeme vidět	V;IND;FUT;2;PL
+vidět		V;IND;PST;3;SG;MASC
+vidět		V;IND;PRS;2;SG
+vidět		V;IND;PST;3;PL;MASC
+vidět		V;IND;FUT;3;SG
+vidět		V;IND;PST;2;PL;MASC
+vidět		V;IND;FUT;3;PL
+vidět	viděl	V;IND;PST;3;SG;FEM
+vidět		V;IND;FUT;2;SG
+vidět		V;IND;PRS;3;SG
+vidět		V;IND;PST;2;PL;FEM
+vidět		V;IND;PST;2;SG;FEM
+vidět		V;IND;PRS;2;PL
+prostředek		N;GEN;PL
+prostředek		N;VOC;SG
+prostředek		N;NOM;SG
+prostředek		N;VOC;PL
+prostředek	prostředky	N;INS;PL
+prostředek		N;ESS;PL
+prostředek		N;ESS;SG
+prostředek		N;GEN;SG
+prostředek	prostředkem	N;INS;SG
+prostředek		N;DAT;SG
+prostředek		N;ACC;PL
+prostředek		N;ACC;SG
+prostředek		N;NOM;PL
+prostředek		N;DAT;PL
+japonský		ADJ;NOM;MASC;PL
+japonský		ADJ;ACC;ANIM;MASC;SG
+japonský	japonské	ADJ;DAT;FEM;SG
+japonský		ADJ;DAT;PL
+japonský		ADJ;VOC;MASC;PL
+japonský		ADJ;NOM;ANIM;MASC;PL
+japonský		ADJ;ACC;FEM;SG
+japonský	japonského	ADJ;GEN;MASC;SG
+japonský		ADJ;GEN;PL
+japonský		ADJ;GEN;NEUT;SG
+japonský		ADJ;ACC;NEUT;PL
+japonský		ADJ;NOM;FEM;PL
+japonský		ADJ;NOM;NEUT;PL
+japonský		ADJ;NOM;MASC;SG
+japonský		ADJ;VOC;ANIM;MASC;PL
+japonský		ADJ;VOC;NEUT;SG
+japonský	japonském	ADJ;ESS;NEUT;SG
+japonský		ADJ;GEN;FEM;SG
+japonský		ADJ;ACC;MASC;PL
+japonský		ADJ;ACC;FEM;PL
+japonský	japonskými	ADJ;INS;PL
+japonský		ADJ;ESS;MASC;SG
+japonský		ADJ;DAT;MASC;SG
+japonský		ADJ;NOM;NEUT;SG
+japonský	japonským	ADJ;INS;MASC;SG
+japonský	japonské	ADJ;ACC;NEUT;SG
+japonský		ADJ;VOC;FEM;PL
+japonský		ADJ;VOC;NEUT;PL
+japonský		ADJ;ACC;INAN;MASC;SG
+japonský		ADJ;VOC;FEM;SG
+japonský		ADJ;DAT;NEUT;SG
+japonský		ADJ;VOC;MASC;SG
+japonský		ADJ;NOM;FEM;SG
+japonský		ADJ;ESS;PL
+japonský		ADJ;ESS;FEM;SG
+životní	životního	ADJ;ACC;ANIM;MASC;SG
+životní	životní	ADJ;ACC;MASC;SG
+životní		ADJ;DAT;FEM;SG
+životní		ADJ;DAT;PL
+životní		ADJ;VOC;PL
+životní		ADJ;ACC;FEM;SG
+životní		ADJ;GEN;MASC;SG
+životní		ADJ;GEN;PL
+životní		ADJ;INS;FEM;SG
+životní		ADJ;GEN;NEUT;SG
+životní		ADJ;INS;NEUT;SG
+životní		ADJ;NOM;PL
+životní	životním	ADJ;ESS;NEUT;SG
+životní		ADJ;GEN;FEM;SG
+životní	životní	ADJ;ACC;PL
+životní		ADJ;INS;PL
+životní		ADJ;ESS;MASC;SG
+životní		ADJ;VOC;SG
+životní		ADJ;DAT;MASC;SG
+životní		ADJ;INS;MASC;SG
+životní		ADJ;ACC;NEUT;SG
+životní		ADJ;DAT;NEUT;SG
+životní		ADJ;NOM;SG
+životní		ADJ;ESS;PL
+životní		ADJ;ESS;FEM;SG
+režisér		N;VOC;SG
+režisér		N;NOM;PL
+režisér		N;GEN;SG
+režisér		N;GEN;PL
+režisér		N;INS;PL
+režisér		N;ESS;PL
+režisér		N;ESS;SG
+režisér		N;NOM;SG
+režisér	režisérem	N;INS;SG
+režisér		N;DAT;SG
+režisér		N;ACC;PL
+režisér		N;ACC;SG
+režisér		N;VOC;PL
+režisér	režisérům	N;DAT;PL
+společnost		N;GEN;PL
+společnost		N;NOM;PL
+společnost		N;GEN;SG
+společnost		N;INS;PL
+společnost	společnostech	N;ESS;PL
+společnost		N;ESS;SG
+společnost		N;VOC;SG
+společnost		N;NOM;SG
+společnost		N;INS;SG
+společnost		N;DAT;SG
+společnost		N;ACC;PL
+společnost	společnost	N;ACC;SG
+společnost		N;VOC;PL
+společnost		N;DAT;PL
+definovat		V;COND;PST;1;SG;MASC
+definovat		V;COND;PST;3;SG;MASC
+definovat	definovala jste	V;IND;PST;2;PL;NEUT
+definovat		V.CVB;PRS;PL
+definovat		V.PTCP;ACT;PRF;INAN;MASC;PL
+definovat		V;COND;PRS;2;PL;NEUT
+definovat		V;IND;PST;3;SG;NEUT
+definovat	definujete	V;IND;PRS;2;PL
+definovat		V;COND;PST;2;SG;FORM;NEUT
+definovat		V.CVB;PST;MASC;SG
+definovat		V.CVB;PRS;FEM;SG
+definovat		V;COND;PRS;1;SG;NEUT
+definovat		V;IND;FUT;2;SG;FORM
+definovat		V.PTCP;PASS;ANIM;MASC;PL
+definovat	definovala jsme	V;IND;PST;1;PL;NEUT
+definovat	byla by definovala	V;COND;PST;3;SG;FEM
+definovat		V;IND;PST;1;SG;NEUT
+definovat		V;IND;PRS;3;SG
+definovat		V;COND;PST;1;SG;FEM
+definovat	definovala	V;IND;PST;3;PL;NEUT
+definovat		V;IND;PST;2;SG;FORM;NEUT
+definovat		V;IND;PST;3;PL;MASC;ANIM
+definovat		V;COND;PRS;2;PL;MASC
+definovat		V;COND;PST;2;SG;FORM;MASC
+definovat	definován	V.PTCP;PASS;MASC;SG
+definovat	definovala jsem	V;IND;PST;1;SG;FEM
+definovat	definují	V;IND;PRS;3;PL
+definovat		V.PTCP;ACT;PRF;FEM;SG
+definovat	definovala bych	V;COND;PRS;1;SG;FEM
+definovat		V.PTCP
+definovat		V.PTCP;ACT;PRF;NEUT;SG
+definovat		V;IND;PST;2;SG;FORM;FEM
+definovat		V.PTCP;PASS;FEM;SG
+definovat		V;COND;PST;1;PL;FEM
+definovat		V;IND;FUT;1;PL
+definovat		V;IND;PST;2;SG;NEUT
+definovat		V;IND;FUT;3;PL
+definovat		V.PTCP;ACT;PRF;FEM;PL
+definovat		V;IND;PST;2;SG;FEM
+definovat		V;NFIN
+definovat		V;COND;PRS;2;PL;FEM
+definovat		V.PTCP;ACT;PRF;NEUT;PL
+definovat		V;IND;PST;3;SG;FEM
+definovat		V;IND;PST;1;SG;MASC
+definovat		V;IMP;1;PL
+definovat		V;COND;PST;1;SG;NEUT
+definovat		V;IND;PST;1;PL;MASC
+definovat		V;IMP;2;SG;FORM
+definovat		V;IND;PST;2;PL;MASC
+definovat		V;IND;PRS;1;PL
+definovat		V;IND;PST;2;PL;FEM
+definovat	definujíce	V.CVB;PRS;MASC;SG
+definovat		V;IND;PST;1;PL;FEM
+definovat		V.PTCP;ACT;PRF;ANIM;MASC;PL
+definovat		V.PTCP;PASS;INAN;MASC;PL
+definovat		V;IND;PST;3;PL;FEM
+definovat		V;IMP;2;PL
+definovat		V;IND;PST;3;PL;MASC;INAN
+definovat		V.PTCP;PASS;NEUT;PL
+definovat		V;IND;PST;2;SG
+definovat	definoval	V.PTCP;ACT;PRF;MASC;SG
+definovat		V;COND;PRS;1;PL;MASC;ANIM
+definovat		V.CVB;PST;FEM;SG
+definovat		V;COND;PRS;1;SG;MASC
+definovat		V;IND;PST;2;SG;MASC
+definovat		V;COND;PRS;3;SG;MASC
+definovat	definoval jste	V;IND;PST;2;SG;FORM;MASC
+definovat		V;COND;PST;2;PL;MASC
+definovat		V.CVB
+definovat		V;COND;PST;1;PL;NEUT
+definovat		V;COND;PRS;1;PL;MASC
+definovat		V;COND;PST;2;SG;MASC
+definovat	byla bys definovala	V;COND;PST;2;SG;FEM
+definovat		V;IND;FUT;1;SG
+definovat	byla by definovala	V;COND;PST;3;PL;NEUT
+definovat		V;COND;PRS;2;SG;FORM;FEM
+definovat		V;COND;PST;3;PL;MASC;ANIM
+definovat	bude definovat	V;IND;FUT;3;SG
+definovat		V;COND;PRS;3;SG;FEM
+definovat		V;COND;PRS;1;PL;NEUT
+definovat		V;COND;PST;3;PL;FEM
+definovat		V;IMP;2;SG
+definovat		V.PTCP;PASS;NEUT;SG
+definovat	byly byste definovaly	V;COND;PST;2;PL;FEM
+definovat	bylo bys definovalo	V;COND;PST;2;SG;NEUT
+definovat		V;COND;PST;1;PL;MASC
+definovat		V;IND;FUT;2;PL
+definovat		V;COND;PRS;2;SG;MASC
+definovat		V;COND;PRS;2;SG;FEM
+definovat		V.CVB;PST;PL
+definovat	definovala by	V;COND;PRS;3;PL;NEUT
+definovat		V;COND;PST;2;SG;FORM;FEM
+definovat		V;COND;PRS;1;PL;MASC;INAN
+definovat		V;IND;PRS;1;SG
+definovat		V;COND;PRS;2;SG;FORM;MASC
+definovat		V;COND;PRS;3;PL;FEM
+definovat		V;IND;PRS;2;SG;FORM
+definovat		V;COND;PST;2;PL;NEUT
+definovat		V;COND;PRS;2;SG;NEUT
+definovat	definovalo by	V;COND;PRS;3;SG;NEUT
+definovat	definoval	V;IND;PST;3;SG;MASC
+definovat		V;COND;PRS;2;SG;FORM;NEUT
+definovat		V;COND;PST;3;SG;NEUT
+definovat		V;IND;FUT;2;SG
+definovat		V;COND;PRS;1;PL;FEM
+definovat		V.PTCP;PASS;FEM;PL
+definovat		V;COND;PST;3;PL;MASC;INAN
+obsahovat		V;COND;PST;1;SG;MASC
+obsahovat	byl by obsahoval	V;COND;PST;3;SG;MASC
+obsahovat		V;IND;PST;2;PL;NEUT
+obsahovat		V.CVB;PRS;PL
+obsahovat		V.PTCP;ACT;PRF;INAN;MASC;PL
+obsahovat		V;COND;PRS;2;PL;NEUT
+obsahovat		V;IND;PST;3;SG;NEUT
+obsahovat	obsahujete	V;IND;PRS;2;PL
+obsahovat	bylo byste obsahovalo	V;COND;PST;2;SG;FORM;NEUT
+obsahovat		V.CVB;PST;MASC;SG
+obsahovat		V.CVB;PRS;FEM;SG
+obsahovat		V;COND;PRS;1;SG;NEUT
+obsahovat		V;IND;FUT;2;SG;FORM
+obsahovat		V.PTCP;PASS;ANIM;MASC;PL
+obsahovat	obsahovala jsme	V;IND;PST;1;PL;NEUT
+obsahovat		V;COND;PST;3;SG;FEM
+obsahovat		V;IND;PST;1;SG;NEUT
+obsahovat		V;IND;PRS;3;SG
+obsahovat		V;COND;PST;1;SG;FEM
+obsahovat		V;IND;PST;3;PL;NEUT
+obsahovat		V;IND;PST;2;SG;FORM;NEUT
+obsahovat		V;IND;PST;3;PL;MASC;ANIM
+obsahovat	obsahovali byste	V;COND;PRS;2;PL;MASC
+obsahovat		V;COND;PST;2;SG;FORM;MASC
+obsahovat		V.PTCP;PASS;MASC;SG
+obsahovat		V;IND;PST;1;SG;FEM
+obsahovat		V;IND;PRS;3;PL
+obsahovat		V.PTCP;ACT;PRF;FEM;SG
+obsahovat		V;COND;PRS;1;SG;FEM
+obsahovat		V.PTCP
+obsahovat		V.PTCP;ACT;PRF;NEUT;SG
+obsahovat	obsahovala jste	V;IND;PST;2;SG;FORM;FEM
+obsahovat		V.PTCP;PASS;FEM;SG
+obsahovat	byly bychom obsahovaly	V;COND;PST;1;PL;FEM
+obsahovat		V;IND;FUT;1;PL
+obsahovat		V;IND;PST;2;SG;NEUT
+obsahovat		V;IND;FUT;3;PL
+obsahovat		V.PTCP;ACT;PRF;FEM;PL
+obsahovat		V;IND;PST;2;SG;FEM
+obsahovat		V;NFIN
+obsahovat		V;COND;PRS;2;PL;FEM
+obsahovat		V.PTCP;ACT;PRF;NEUT;PL
+obsahovat		V;IND;PST;3;SG;FEM
+obsahovat		V;IND;PST;1;SG;MASC
+obsahovat		V;IMP;1;PL
+obsahovat	bylo bych obsahovalo	V;COND;PST;1;SG;NEUT
+obsahovat		V;IND;PST;1;PL;MASC
+obsahovat	obsahujte	V;IMP;2;SG;FORM
+obsahovat		V;IND;PST;2;PL;MASC
+obsahovat	obsahujeme	V;IND;PRS;1;PL
+obsahovat		V;IND;PST;2;PL;FEM
+obsahovat		V.CVB;PRS;MASC;SG
+obsahovat		V;IND;PST;1;PL;FEM
+obsahovat		V.PTCP;ACT;PRF;ANIM;MASC;PL
+obsahovat		V.PTCP;PASS;INAN;MASC;PL
+obsahovat		V;IND;PST;3;PL;FEM
+obsahovat		V;IMP;2;PL
+obsahovat		V;IND;PST;3;PL;MASC;INAN
+obsahovat	obsahována	V.PTCP;PASS;NEUT;PL
+obsahovat		V;IND;PST;2;SG
+obsahovat	obsahoval	V.PTCP;ACT;PRF;MASC;SG
+obsahovat	obsahovali by	V;COND;PRS;1;PL;MASC;ANIM
+obsahovat		V.CVB;PST;FEM;SG
+obsahovat	obsahoval bych	V;COND;PRS;1;SG;MASC
+obsahovat	obsahoval jsi	V;IND;PST;2;SG;MASC
+obsahovat		V;COND;PRS;3;SG;MASC
+obsahovat		V;IND;PST;2;SG;FORM;MASC
+obsahovat		V;COND;PST;2;PL;MASC
+obsahovat		V.CVB
+obsahovat		V;COND;PST;1;PL;NEUT
+obsahovat		V;COND;PRS;1;PL;MASC
+obsahovat		V;COND;PST;2;SG;MASC
+obsahovat		V;COND;PST;2;SG;FEM
+obsahovat		V;IND;FUT;1;SG
+obsahovat		V;COND;PST;3;PL;NEUT
+obsahovat	obsahovala byste	V;COND;PRS;2;SG;FORM;FEM
+obsahovat		V;COND;PST;3;PL;MASC;ANIM
+obsahovat		V;IND;FUT;3;SG
+obsahovat		V;COND;PRS;3;SG;FEM
+obsahovat		V;COND;PRS;1;PL;NEUT
+obsahovat		V;COND;PST;3;PL;FEM
+obsahovat		V;IMP;2;SG
+obsahovat		V.PTCP;PASS;NEUT;SG
+obsahovat	byly byste obsahovaly	V;COND;PST;2;PL;FEM
+obsahovat		V;COND;PST;2;SG;NEUT
+obsahovat		V;COND;PST;1;PL;MASC
+obsahovat		V;IND;FUT;2;PL
+obsahovat		V;COND;PRS;2;SG;MASC
+obsahovat	obsahovala bys	V;COND;PRS;2;SG;FEM
+obsahovat		V.CVB;PST;PL
+obsahovat		V;COND;PRS;3;PL;NEUT
+obsahovat		V;COND;PST;2;SG;FORM;FEM
+obsahovat		V;COND;PRS;1;PL;MASC;INAN
+obsahovat		V;IND;PRS;1;SG
+obsahovat		V;COND;PRS;2;SG;FORM;MASC
+obsahovat	obsahovaly by	V;COND;PRS;3;PL;FEM
+obsahovat		V;IND;PRS;2;SG;FORM
+obsahovat		V;COND;PST;2;PL;NEUT
+obsahovat		V;COND;PRS;2;SG;NEUT
+obsahovat		V;COND;PRS;3;SG;NEUT
+obsahovat		V;IND;PST;3;SG;MASC
+obsahovat	obsahovalo byste	V;COND;PRS;2;SG;FORM;NEUT
+obsahovat		V;COND;PST;3;SG;NEUT
+obsahovat		V;IND;FUT;2;SG
+obsahovat		V;COND;PRS;1;PL;FEM
+obsahovat		V.PTCP;PASS;FEM;PL
+obsahovat		V;COND;PST;3;PL;MASC;INAN
+těžký		ADJ;NOM;MASC;PL
+těžký		ADJ;ACC;ANIM;MASC;SG
+těžký		ADJ;DAT;FEM;SG
+těžký		ADJ;DAT;PL
+těžký		ADJ;VOC;MASC;PL
+těžký		ADJ;NOM;ANIM;MASC;PL
+těžký		ADJ;ACC;FEM;SG
+těžký	těžkého	ADJ;GEN;MASC;SG
+těžký	těžkých	ADJ;GEN;PL
+těžký		ADJ;GEN;NEUT;SG
+těžký		ADJ;ACC;NEUT;PL
+těžký		ADJ;NOM;FEM;PL
+těžký		ADJ;NOM;NEUT;PL
+těžký		ADJ;NOM;MASC;SG
+těžký	těžcí	ADJ;VOC;ANIM;MASC;PL
+těžký		ADJ;VOC;NEUT;SG
+těžký		ADJ;DAT;MASC;SG
+těžký		ADJ;GEN;FEM;SG
+těžký		ADJ;ACC;MASC;PL
+těžký		ADJ;ACC;FEM;PL
+těžký		ADJ;INS;PL
+těžký	těžkém	ADJ;ESS;MASC;SG
+těžký		ADJ;ESS;NEUT;SG
+těžký	těžké	ADJ;NOM;NEUT;SG
+těžký		ADJ;INS;MASC;SG
+těžký		ADJ;ACC;NEUT;SG
+těžký		ADJ;VOC;FEM;PL
+těžký	těžká	ADJ;VOC;NEUT;PL
+těžký		ADJ;ACC;INAN;MASC;SG
+těžký		ADJ;VOC;FEM;SG
+těžký		ADJ;DAT;NEUT;SG
+těžký		ADJ;VOC;MASC;SG
+těžký		ADJ;NOM;FEM;SG
+těžký		ADJ;ESS;PL
+těžký		ADJ;ESS;FEM;SG

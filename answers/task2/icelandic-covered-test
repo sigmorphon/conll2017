@@ -1,0 +1,780 @@
+fulltrúi		N;INDF;GEN;PL
+fulltrúi		N;INDF;GEN;SG
+fulltrúi		N;INDF;DAT;PL
+fulltrúi		N;DEF;ACC;SG
+fulltrúi	fulltrúunum	N;DEF;DAT;PL
+fulltrúi		N;DEF;DAT;SG
+fulltrúi		N;DEF;GEN;SG
+fulltrúi		N;DEF;NOM;PL
+fulltrúi		N;INDF;NOM;PL
+fulltrúi	fulltrúi	N;INDF;NOM;SG
+fulltrúi		N;INDF;ACC;SG
+fulltrúi		N;DEF;NOM;SG
+fulltrúi		N;INDF;DAT;SG
+fulltrúi		N;INDF;ACC;PL
+fulltrúi		N;DEF;GEN;PL
+fulltrúi		N;DEF;ACC;PL
+höfundur		N;DEF;NOM;SG
+höfundur		N;INDF;GEN;PL
+höfundur		N;INDF;GEN;SG
+höfundur		N;DEF;NOM;PL
+höfundur		N;DEF;DAT;SG
+höfundur		N;DEF;GEN;SG
+höfundur		N;INDF;NOM;SG
+höfundur		N;INDF;NOM;PL
+höfundur		N;DEF;DAT;PL
+höfundur	höfund	N;INDF;ACC;SG
+höfundur		N;INDF;DAT;PL
+höfundur		N;DEF;ACC;SG
+höfundur		N;INDF;DAT;SG
+höfundur	höfunda	N;INDF;ACC;PL
+höfundur		N;DEF;GEN;PL
+höfundur		N;DEF;ACC;PL
+gildi		N;INDF;GEN;PL
+gildi		N;INDF;GEN;SG
+gildi		N;INDF;DAT;PL
+gildi		N;DEF;ACC;SG
+gildi		N;DEF;DAT;PL
+gildi		N;DEF;DAT;SG
+gildi		N;DEF;NOM;SG
+gildi		N;DEF;NOM;PL
+gildi	gildi	N;INDF;NOM;PL
+gildi		N;INDF;NOM;SG
+gildi		N;INDF;ACC;SG
+gildi		N;DEF;GEN;SG
+gildi	gildi	N;INDF;DAT;SG
+gildi		N;INDF;ACC;PL
+gildi		N;DEF;GEN;PL
+gildi		N;DEF;ACC;PL
+fjölga		V;SBJV;PRS;3;PL
+fjölga		V;SBJV;PST;1;SG
+fjölga		V;IND;PRS;1;PL
+fjölga	fjölgandi	V.PTCP;PRS
+fjölga		V;IND;PST;2;PL
+fjölga		V;IMP;2;SG
+fjölga		V;SBJV;PST;2;PL
+fjölga	fjölgaði	V;SBJV;PST;3;SG
+fjölga		V;SBJV;PRS;2;PL
+fjölga		V;IND;PRS;2;PL
+fjölga		V;SBJV;PRS;2;SG
+fjölga		V;IND;PRS;3;PL
+fjölga		V;IND;PST;2;SG
+fjölga		V;IND;PST;3;PL
+fjölga		V.CVB
+fjölga		V;SBJV;PST;3;PL
+fjölga		V;IND;PRS;1;SG
+fjölga		V;IMP;2;PL
+fjölga		V;NFIN
+fjölga		V;SBJV;PRS;3;SG
+fjölga		V;SBJV;PST;1;PL
+fjölga	fjölgaði	V;IND;PST;1;SG
+fjölga	fjölgaðir	V;SBJV;PST;2;SG
+fjölga		V;IND;PST;3;SG
+rigning		N;INDF;GEN;PL
+rigning		N;INDF;GEN;SG
+rigning		N;INDF;DAT;PL
+rigning		N;DEF;GEN;PL
+rigning		N;DEF;DAT;PL
+rigning		N;DEF;DAT;SG
+rigning		N;DEF;GEN;SG
+rigning		N;INDF;NOM;PL
+rigning	rigning	N;INDF;NOM;SG
+rigning		N;INDF;ACC;SG
+rigning		N;DEF;NOM;SG
+rigning	rigninguna	N;DEF;ACC;SG
+rigning		N;INDF;DAT;SG
+rigning		N;INDF;ACC;PL
+rigning		N;DEF;NOM;PL
+rigning		N;DEF;ACC;PL
+hvíla		N;INDF;GEN;PL
+hvíla		N;INDF;GEN;SG
+hvíla	hvílunnar	N;DEF;GEN;SG
+hvíla		N;DEF;ACC;SG
+hvíla		N;DEF;DAT;SG
+hvíla		N;INDF;DAT;PL
+hvíla		N;DEF;NOM;PL
+hvíla		N;DEF;DAT;PL
+hvíla		N;INDF;NOM;SG
+hvíla		N;INDF;ACC;SG
+hvíla		N;DEF;NOM;SG
+hvíla		N;INDF;DAT;SG
+hvíla	hvílur	N;INDF;NOM;PL
+hvíla		N;INDF;ACC;PL
+hvíla		N;DEF;GEN;PL
+hvíla		N;DEF;ACC;PL
+þróa		V;SBJV;PRS;3;PL
+þróa		V;SBJV;PST;1;SG
+þróa		V;IND;PRS;1;PL
+þróa		V.PTCP;PRS
+þróa		V;IND;PST;2;PL
+þróa		V;IMP;2;SG
+þróa		V;IND;PRS;3;PL
+þróa	þróaði	V;SBJV;PST;3;SG
+þróa		V;SBJV;PRS;2;PL
+þróa		V;IND;PRS;2;PL
+þróa		V;SBJV;PRS;1;PL
+þróa	þróir	V;SBJV;PRS;2;SG
+þróa		V;IND;PST;2;SG
+þróa		V;IND;PST;3;PL
+þróa		V.CVB
+þróa		V;SBJV;PST;3;PL
+þróa		V;IND;PRS;1;SG
+þróa	þrói	V;SBJV;PRS;1;SG
+þróa	þróar	V;IND;PRS;3;SG
+þróa		V;IMP;2;PL
+þróa		V;NFIN
+þróa	þrói	V;SBJV;PRS;3;SG
+þróa		V;SBJV;PST;1;PL
+þróa		V;IND;PST;1;SG
+þróa		V;SBJV;PST;2;SG
+þróa		V;IND;PRS;2;SG
+þróa		V;SBJV;PST;2;PL
+þróa		V;IND;PST;3;SG
+krossferð		N;INDF;GEN;PL
+krossferð		N;INDF;GEN;SG
+krossferð		N;INDF;DAT;PL
+krossferð	krossferðina	N;DEF;ACC;SG
+krossferð		N;DEF;DAT;PL
+krossferð		N;DEF;DAT;SG
+krossferð		N;DEF;NOM;SG
+krossferð		N;DEF;NOM;PL
+krossferð		N;INDF;NOM;PL
+krossferð		N;INDF;NOM;SG
+krossferð		N;INDF;ACC;SG
+krossferð		N;DEF;GEN;SG
+krossferð		N;INDF;DAT;SG
+krossferð		N;INDF;ACC;PL
+krossferð	krossferðanna	N;DEF;GEN;PL
+krossferð		N;DEF;ACC;PL
+sótt		N;INDF;GEN;PL
+sótt		N;INDF;GEN;SG
+sótt		N;INDF;DAT;PL
+sótt		N;DEF;ACC;SG
+sótt		N;DEF;DAT;PL
+sótt	sóttinni	N;DEF;DAT;SG
+sótt		N;DEF;NOM;SG
+sótt		N;DEF;NOM;PL
+sótt		N;INDF;NOM;PL
+sótt		N;INDF;NOM;SG
+sótt		N;INDF;ACC;SG
+sótt		N;DEF;GEN;SG
+sótt	sótt	N;INDF;DAT;SG
+sótt		N;INDF;ACC;PL
+sótt		N;DEF;GEN;PL
+sótt		N;DEF;ACC;PL
+forritunarmál		N;INDF;GEN;PL
+forritunarmál		N;INDF;GEN;SG
+forritunarmál		N;INDF;DAT;PL
+forritunarmál		N;DEF;ACC;SG
+forritunarmál	forritunarmálunum	N;DEF;DAT;PL
+forritunarmál		N;DEF;DAT;SG
+forritunarmál		N;DEF;NOM;SG
+forritunarmál		N;DEF;NOM;PL
+forritunarmál		N;INDF;NOM;PL
+forritunarmál		N;INDF;NOM;SG
+forritunarmál		N;INDF;ACC;SG
+forritunarmál		N;DEF;GEN;SG
+forritunarmál		N;INDF;DAT;SG
+forritunarmál	forritunarmál	N;INDF;ACC;PL
+forritunarmál		N;DEF;GEN;PL
+forritunarmál		N;DEF;ACC;PL
+stjórnarskrá		N;INDF;GEN;PL
+stjórnarskrá		N;DEF;DAT;PL
+stjórnarskrá		N;DEF;GEN;SG
+stjórnarskrá		N;DEF;ACC;SG
+stjórnarskrá	stjórnarskrár	N;INDF;GEN;SG
+stjórnarskrá		N;DEF;DAT;SG
+stjórnarskrá		N;INDF;DAT;PL
+stjórnarskrá		N;DEF;NOM;PL
+stjórnarskrá		N;INDF;NOM;PL
+stjórnarskrá		N;INDF;NOM;SG
+stjórnarskrá	stjórnarskrá	N;INDF;ACC;SG
+stjórnarskrá		N;DEF;NOM;SG
+stjórnarskrá		N;INDF;DAT;SG
+stjórnarskrá		N;INDF;ACC;PL
+stjórnarskrá		N;DEF;GEN;PL
+stjórnarskrá		N;DEF;ACC;PL
+geit		N;INDF;GEN;PL
+geit		N;INDF;GEN;SG
+geit		N;INDF;NOM;PL
+geit		N;DEF;ACC;SG
+geit		N;DEF;DAT;SG
+geit		N;DEF;NOM;SG
+geit		N;DEF;NOM;PL
+geit		N;DEF;DAT;PL
+geit		N;INDF;NOM;SG
+geit		N;INDF;ACC;SG
+geit		N;DEF;GEN;SG
+geit		N;INDF;DAT;SG
+geit	geitur	N;INDF;ACC;PL
+geit	geiturnar	N;DEF;ACC;PL
+geit		N;DEF;GEN;PL
+geit		N;INDF;DAT;PL
+þáttur	þátturinn	N;DEF;NOM;SG
+þáttur		N;INDF;GEN;PL
+þáttur		N;INDF;GEN;SG
+þáttur		N;DEF;GEN;PL
+þáttur		N;DEF;DAT;SG
+þáttur		N;DEF;GEN;SG
+þáttur		N;INDF;NOM;SG
+þáttur		N;INDF;NOM;PL
+þáttur		N;DEF;DAT;PL
+þáttur		N;INDF;ACC;SG
+þáttur	þáttum	N;INDF;DAT;PL
+þáttur		N;DEF;ACC;SG
+þáttur		N;INDF;DAT;SG
+þáttur		N;INDF;ACC;PL
+þáttur		N;DEF;NOM;PL
+þáttur		N;DEF;ACC;PL
+skáldsaga		N;INDF;GEN;PL
+skáldsaga		N;INDF;GEN;SG
+skáldsaga		N;DEF;GEN;SG
+skáldsaga		N;DEF;ACC;SG
+skáldsaga		N;DEF;DAT;SG
+skáldsaga		N;INDF;DAT;PL
+skáldsaga		N;DEF;NOM;PL
+skáldsaga		N;DEF;DAT;PL
+skáldsaga	skáldsaga	N;INDF;NOM;SG
+skáldsaga		N;INDF;ACC;SG
+skáldsaga		N;DEF;NOM;SG
+skáldsaga	skáldsögu	N;INDF;DAT;SG
+skáldsaga		N;INDF;NOM;PL
+skáldsaga		N;INDF;ACC;PL
+skáldsaga		N;DEF;GEN;PL
+skáldsaga		N;DEF;ACC;PL
+þurrlendi		N;INDF;GEN;PL
+þurrlendi		N;INDF;GEN;SG
+þurrlendi		N;INDF;DAT;PL
+þurrlendi		N;DEF;ACC;SG
+þurrlendi		N;DEF;DAT;PL
+þurrlendi	þurrlendinu	N;DEF;DAT;SG
+þurrlendi	þurrlendið	N;DEF;NOM;SG
+þurrlendi		N;DEF;NOM;PL
+þurrlendi		N;INDF;NOM;PL
+þurrlendi		N;INDF;NOM;SG
+þurrlendi		N;INDF;ACC;SG
+þurrlendi		N;DEF;GEN;SG
+þurrlendi		N;INDF;DAT;SG
+þurrlendi		N;INDF;ACC;PL
+þurrlendi		N;DEF;GEN;PL
+þurrlendi		N;DEF;ACC;PL
+hljóð		N;INDF;GEN;PL
+hljóð		N;INDF;GEN;SG
+hljóð	hljóðum	N;INDF;DAT;PL
+hljóð		N;DEF;ACC;SG
+hljóð		N;DEF;DAT;PL
+hljóð		N;DEF;DAT;SG
+hljóð	hljóðið	N;DEF;NOM;SG
+hljóð		N;DEF;NOM;PL
+hljóð		N;INDF;NOM;PL
+hljóð		N;INDF;NOM;SG
+hljóð		N;INDF;ACC;SG
+hljóð		N;DEF;GEN;SG
+hljóð		N;INDF;DAT;SG
+hljóð		N;INDF;ACC;PL
+hljóð		N;DEF;GEN;PL
+hljóð		N;DEF;ACC;PL
+sekt		N;INDF;GEN;PL
+sekt		N;INDF;GEN;SG
+sekt		N;INDF;DAT;PL
+sekt	sektina	N;DEF;ACC;SG
+sekt		N;DEF;DAT;PL
+sekt		N;DEF;DAT;SG
+sekt		N;DEF;NOM;SG
+sekt		N;DEF;NOM;PL
+sekt		N;INDF;NOM;PL
+sekt		N;INDF;NOM;SG
+sekt	sekt	N;INDF;ACC;SG
+sekt		N;DEF;GEN;SG
+sekt		N;INDF;DAT;SG
+sekt		N;INDF;ACC;PL
+sekt		N;DEF;GEN;PL
+sekt		N;DEF;ACC;PL
+jurt	jurta	N;INDF;GEN;PL
+jurt		N;INDF;GEN;SG
+jurt		N;INDF;DAT;PL
+jurt		N;DEF;ACC;SG
+jurt		N;DEF;DAT;PL
+jurt		N;DEF;DAT;SG
+jurt		N;DEF;NOM;SG
+jurt		N;DEF;NOM;PL
+jurt		N;INDF;NOM;PL
+jurt	jurt	N;INDF;NOM;SG
+jurt		N;INDF;ACC;SG
+jurt		N;DEF;GEN;SG
+jurt		N;INDF;DAT;SG
+jurt		N;INDF;ACC;PL
+jurt		N;DEF;GEN;PL
+jurt		N;DEF;ACC;PL
+smíða		V;SBJV;PRS;3;PL
+smíða		V;SBJV;PST;1;SG
+smíða		V;IND;PRS;1;PL
+smíða		V.PTCP;PRS
+smíða		V;IND;PST;2;PL
+smíða		V;IMP;2;SG
+smíða		V;IND;PRS;3;PL
+smíða		V;SBJV;PST;3;SG
+smíða	smíðið	V;SBJV;PRS;2;PL
+smíða	smíðið	V;IND;PRS;2;PL
+smíða		V;SBJV;PRS;1;PL
+smíða		V;SBJV;PRS;2;SG
+smíða		V;IND;PST;2;SG
+smíða		V;IND;PST;3;PL
+smíða		V.CVB
+smíða		V;SBJV;PST;3;PL
+smíða	smíða	V;IND;PRS;1;SG
+smíða	smíði	V;SBJV;PRS;1;SG
+smíða		V;IND;PRS;3;SG
+smíða		V;IMP;2;PL
+smíða		V;NFIN
+smíða		V;SBJV;PRS;3;SG
+smíða		V;SBJV;PST;1;PL
+smíða		V;IND;PST;1;SG
+smíða		V;SBJV;PST;2;SG
+smíða	smíðar	V;IND;PRS;2;SG
+smíða		V;SBJV;PST;2;PL
+smíða		V;IND;PST;3;SG
+skáli		N;INDF;GEN;PL
+skáli		N;INDF;GEN;SG
+skáli		N;INDF;DAT;PL
+skáli		N;DEF;ACC;SG
+skáli		N;DEF;DAT;PL
+skáli	skálanum	N;DEF;DAT;SG
+skáli		N;DEF;GEN;SG
+skáli	skálarnir	N;DEF;NOM;PL
+skáli		N;INDF;NOM;PL
+skáli		N;INDF;NOM;SG
+skáli		N;INDF;ACC;SG
+skáli		N;DEF;NOM;SG
+skáli		N;INDF;DAT;SG
+skáli		N;INDF;ACC;PL
+skáli		N;DEF;GEN;PL
+skáli		N;DEF;ACC;PL
+tónlist		N;INDF;GEN;SG
+tónlist		N;DEF;ACC;SG
+tónlist	tónlistinni	N;DEF;DAT;SG
+tónlist		N;DEF;NOM;SG
+tónlist		N;INDF;NOM;SG
+tónlist		N;INDF;ACC;SG
+tónlist		N;DEF;GEN;SG
+tónlist		N;INDF;DAT;SG
+kristni		N;INDF;GEN;SG
+kristni		N;DEF;ACC;SG
+kristni		N;DEF;DAT;SG
+kristni		N;DEF;GEN;SG
+kristni	kristni	N;INDF;NOM;SG
+kristni		N;INDF;ACC;SG
+kristni		N;DEF;NOM;SG
+kristni		N;INDF;DAT;SG
+ljón		N;INDF;GEN;PL
+ljón		N;INDF;GEN;SG
+ljón		N;INDF;DAT;PL
+ljón		N;DEF;ACC;SG
+ljón		N;DEF;DAT;PL
+ljón		N;DEF;DAT;SG
+ljón		N;DEF;NOM;SG
+ljón		N;DEF;NOM;PL
+ljón		N;INDF;NOM;PL
+ljón	ljón	N;INDF;NOM;SG
+ljón		N;INDF;ACC;SG
+ljón		N;DEF;GEN;SG
+ljón		N;INDF;DAT;SG
+ljón	ljón	N;INDF;ACC;PL
+ljón		N;DEF;GEN;PL
+ljón		N;DEF;ACC;PL
+ofbeldi		N;INDF;GEN;SG
+ofbeldi		N;DEF;ACC;SG
+ofbeldi		N;DEF;DAT;SG
+ofbeldi		N;DEF;NOM;SG
+ofbeldi		N;INDF;NOM;SG
+ofbeldi		N;INDF;ACC;SG
+ofbeldi		N;DEF;GEN;SG
+ofbeldi	ofbeldi	N;INDF;DAT;SG
+öldungaráðsmaður		N;INDF;GEN;PL
+öldungaráðsmaður		N;INDF;GEN;SG
+öldungaráðsmaður	öldungaráðsmönnum	N;INDF;DAT;PL
+öldungaráðsmaður		N;DEF;ACC;SG
+öldungaráðsmaður		N;DEF;DAT;PL
+öldungaráðsmaður		N;DEF;DAT;SG
+öldungaráðsmaður	öldungaráðsmaðurinn	N;DEF;NOM;SG
+öldungaráðsmaður		N;DEF;NOM;PL
+öldungaráðsmaður		N;INDF;NOM;PL
+öldungaráðsmaður		N;INDF;NOM;SG
+öldungaráðsmaður		N;INDF;ACC;SG
+öldungaráðsmaður		N;DEF;GEN;SG
+öldungaráðsmaður		N;INDF;DAT;SG
+öldungaráðsmaður		N;INDF;ACC;PL
+öldungaráðsmaður		N;DEF;GEN;PL
+öldungaráðsmaður		N;DEF;ACC;PL
+starfsemi		N;INDF;GEN;SG
+starfsemi		N;DEF;ACC;SG
+starfsemi	starfseminni	N;DEF;DAT;SG
+starfsemi		N;DEF;GEN;SG
+starfsemi		N;INDF;NOM;SG
+starfsemi		N;INDF;ACC;SG
+starfsemi		N;DEF;NOM;SG
+starfsemi		N;INDF;DAT;SG
+samþykkt		N;INDF;GEN;PL
+samþykkt		N;INDF;GEN;SG
+samþykkt		N;INDF;DAT;PL
+samþykkt	samþykktina	N;DEF;ACC;SG
+samþykkt		N;DEF;DAT;PL
+samþykkt		N;DEF;DAT;SG
+samþykkt		N;DEF;NOM;SG
+samþykkt		N;DEF;NOM;PL
+samþykkt		N;INDF;NOM;PL
+samþykkt		N;INDF;NOM;SG
+samþykkt		N;INDF;ACC;SG
+samþykkt	samþykktarinnar	N;DEF;GEN;SG
+samþykkt		N;INDF;DAT;SG
+samþykkt		N;INDF;ACC;PL
+samþykkt		N;DEF;GEN;PL
+samþykkt		N;DEF;ACC;PL
+tapa		V;SBJV;PRS;3;PL
+tapa	tapaði	V;SBJV;PST;1;SG
+tapa		V;IND;PRS;1;PL
+tapa		V.PTCP;PRS
+tapa		V;IND;PST;2;PL
+tapa		V;IMP;2;SG
+tapa		V;IND;PRS;3;PL
+tapa		V;SBJV;PST;3;SG
+tapa	tapið	V;SBJV;PRS;2;PL
+tapa		V;IND;PRS;2;PL
+tapa	töpum	V;SBJV;PRS;1;PL
+tapa		V;SBJV;PRS;2;SG
+tapa	tapaðir	V;IND;PST;2;SG
+tapa		V;IND;PST;3;PL
+tapa		V.CVB
+tapa		V;SBJV;PST;3;PL
+tapa		V;IND;PRS;1;SG
+tapa		V;SBJV;PRS;1;SG
+tapa		V;IND;PRS;3;SG
+tapa		V;IMP;2;PL
+tapa		V;NFIN
+tapa		V;SBJV;PRS;3;SG
+tapa	töpuðum	V;SBJV;PST;1;PL
+tapa		V;IND;PST;1;SG
+tapa		V;SBJV;PST;2;SG
+tapa		V;IND;PRS;2;SG
+tapa		V;SBJV;PST;2;PL
+tapa		V;IND;PST;3;SG
+munkur		N;DEF;NOM;SG
+munkur		N;INDF;GEN;PL
+munkur		N;INDF;GEN;SG
+munkur		N;DEF;NOM;PL
+munkur		N;DEF;DAT;SG
+munkur		N;DEF;GEN;SG
+munkur		N;INDF;NOM;SG
+munkur		N;INDF;NOM;PL
+munkur		N;DEF;DAT;PL
+munkur		N;INDF;ACC;SG
+munkur	munkum	N;INDF;DAT;PL
+munkur	munkinn	N;DEF;ACC;SG
+munkur		N;INDF;DAT;SG
+munkur		N;INDF;ACC;PL
+munkur		N;DEF;GEN;PL
+munkur		N;DEF;ACC;PL
+áhersla	áherslna	N;INDF;GEN;PL
+áhersla		N;INDF;GEN;SG
+áhersla	áherslunnar	N;DEF;GEN;SG
+áhersla		N;DEF;ACC;SG
+áhersla		N;DEF;DAT;SG
+áhersla		N;INDF;DAT;PL
+áhersla		N;DEF;NOM;PL
+áhersla		N;DEF;DAT;PL
+áhersla		N;INDF;NOM;SG
+áhersla		N;INDF;ACC;SG
+áhersla		N;DEF;NOM;SG
+áhersla		N;INDF;DAT;SG
+áhersla		N;INDF;NOM;PL
+áhersla		N;INDF;ACC;PL
+áhersla		N;DEF;GEN;PL
+áhersla		N;DEF;ACC;PL
+jörð		N;INDF;GEN;PL
+jörð		N;INDF;GEN;SG
+jörð	jörðum	N;INDF;DAT;PL
+jörð		N;DEF;GEN;PL
+jörð		N;DEF;DAT;PL
+jörð		N;DEF;DAT;SG
+jörð		N;DEF;GEN;SG
+jörð		N;INDF;NOM;PL
+jörð		N;INDF;NOM;SG
+jörð		N;INDF;ACC;SG
+jörð		N;DEF;NOM;SG
+jörð	jörðina	N;DEF;ACC;SG
+jörð		N;INDF;DAT;SG
+jörð		N;INDF;ACC;PL
+jörð		N;DEF;NOM;PL
+jörð		N;DEF;ACC;PL
+varnaðarorð		N;INDF;GEN;PL
+varnaðarorð		N;INDF;GEN;SG
+varnaðarorð		N;INDF;DAT;PL
+varnaðarorð	varnaðarorðið	N;DEF;ACC;SG
+varnaðarorð		N;DEF;DAT;PL
+varnaðarorð		N;DEF;DAT;SG
+varnaðarorð	varnaðarorðið	N;DEF;NOM;SG
+varnaðarorð		N;DEF;NOM;PL
+varnaðarorð		N;INDF;NOM;PL
+varnaðarorð		N;INDF;NOM;SG
+varnaðarorð		N;INDF;ACC;SG
+varnaðarorð		N;DEF;GEN;SG
+varnaðarorð		N;INDF;DAT;SG
+varnaðarorð		N;INDF;ACC;PL
+varnaðarorð		N;DEF;GEN;PL
+varnaðarorð		N;DEF;ACC;PL
+ævintýri	ævintýra	N;INDF;GEN;PL
+ævintýri		N;INDF;GEN;SG
+ævintýri		N;INDF;DAT;PL
+ævintýri		N;DEF;ACC;SG
+ævintýri		N;DEF;DAT;PL
+ævintýri		N;DEF;DAT;SG
+ævintýri		N;DEF;NOM;SG
+ævintýri		N;DEF;NOM;PL
+ævintýri		N;INDF;NOM;PL
+ævintýri		N;INDF;NOM;SG
+ævintýri		N;INDF;ACC;SG
+ævintýri		N;DEF;GEN;SG
+ævintýri	ævintýri	N;INDF;DAT;SG
+ævintýri		N;INDF;ACC;PL
+ævintýri		N;DEF;GEN;PL
+ævintýri		N;DEF;ACC;PL
+vald		N;INDF;GEN;PL
+vald		N;INDF;GEN;SG
+vald		N;INDF;DAT;PL
+vald		N;DEF;ACC;SG
+vald		N;DEF;DAT;PL
+vald		N;DEF;DAT;SG
+vald	valdið	N;DEF;NOM;SG
+vald		N;DEF;NOM;PL
+vald		N;INDF;NOM;PL
+vald	vald	N;INDF;NOM;SG
+vald		N;INDF;ACC;SG
+vald		N;DEF;GEN;SG
+vald		N;INDF;DAT;SG
+vald		N;INDF;ACC;PL
+vald		N;DEF;GEN;PL
+vald		N;DEF;ACC;PL
+númer		N;INDF;GEN;PL
+númer		N;INDF;GEN;SG
+númer		N;INDF;DAT;PL
+númer		N;DEF;ACC;SG
+númer		N;DEF;DAT;PL
+númer		N;DEF;DAT;SG
+númer		N;DEF;NOM;SG
+númer		N;DEF;NOM;PL
+númer	númer	N;INDF;NOM;PL
+númer		N;INDF;NOM;SG
+númer		N;INDF;ACC;SG
+númer		N;DEF;GEN;SG
+númer		N;INDF;DAT;SG
+númer		N;INDF;ACC;PL
+númer		N;DEF;GEN;PL
+númer	númerin	N;DEF;ACC;PL
+hríð		N;INDF;GEN;PL
+hríð		N;INDF;GEN;SG
+hríð		N;INDF;DAT;PL
+hríð		N;DEF;GEN;PL
+hríð		N;DEF;DAT;PL
+hríð		N;DEF;DAT;SG
+hríð	hríðarinnar	N;DEF;GEN;SG
+hríð	hríðar	N;INDF;NOM;PL
+hríð		N;INDF;NOM;SG
+hríð		N;INDF;ACC;SG
+hríð		N;DEF;NOM;SG
+hríð		N;DEF;ACC;SG
+hríð		N;INDF;DAT;SG
+hríð		N;INDF;ACC;PL
+hríð		N;DEF;NOM;PL
+hríð		N;DEF;ACC;PL
+bókasafn		N;INDF;GEN;PL
+bókasafn		N;INDF;GEN;SG
+bókasafn		N;INDF;DAT;PL
+bókasafn		N;DEF;ACC;SG
+bókasafn		N;DEF;DAT;PL
+bókasafn		N;DEF;DAT;SG
+bókasafn		N;DEF;NOM;SG
+bókasafn	bókasöfnin	N;DEF;NOM;PL
+bókasafn		N;INDF;NOM;PL
+bókasafn		N;INDF;NOM;SG
+bókasafn	bókasafn	N;INDF;ACC;SG
+bókasafn		N;DEF;GEN;SG
+bókasafn		N;INDF;DAT;SG
+bókasafn		N;INDF;ACC;PL
+bókasafn		N;DEF;GEN;PL
+bókasafn		N;DEF;ACC;PL
+kona		N;INDF;GEN;PL
+kona		N;INDF;GEN;SG
+kona		N;DEF;GEN;PL
+kona	konur	N;INDF;DAT;PL
+kona		N;DEF;ACC;SG
+kona		N;DEF;DAT;PL
+kona		N;DEF;DAT;SG
+kona		N;DEF;NOM;SG
+kona		N;INDF;NOM;PL
+kona		N;INDF;NOM;SG
+kona		N;INDF;ACC;SG
+kona		N;DEF;GEN;SG
+kona	konu	N;INDF;DAT;SG
+kona		N;INDF;ACC;PL
+kona		N;DEF;NOM;PL
+kona		N;DEF;ACC;PL
+gítar		N;INDF;GEN;PL
+gítar		N;INDF;GEN;SG
+gítar		N;INDF;DAT;PL
+gítar		N;DEF;NOM;PL
+gítar		N;DEF;DAT;PL
+gítar	gítarnum	N;DEF;DAT;SG
+gítar	gítarinn	N;DEF;NOM;SG
+gítar		N;INDF;NOM;PL
+gítar		N;INDF;NOM;SG
+gítar		N;INDF;ACC;SG
+gítar		N;DEF;GEN;SG
+gítar		N;DEF;ACC;SG
+gítar		N;INDF;DAT;SG
+gítar		N;INDF;ACC;PL
+gítar		N;DEF;GEN;PL
+gítar		N;DEF;ACC;PL
+massi	massa	N;INDF;GEN;PL
+massi		N;INDF;GEN;SG
+massi		N;INDF;DAT;PL
+massi		N;DEF;ACC;SG
+massi		N;DEF;DAT;PL
+massi		N;DEF;DAT;SG
+massi		N;DEF;GEN;SG
+massi		N;DEF;NOM;PL
+massi		N;INDF;NOM;PL
+massi		N;INDF;NOM;SG
+massi		N;INDF;ACC;SG
+massi		N;DEF;NOM;SG
+massi		N;INDF;DAT;SG
+massi		N;INDF;ACC;PL
+massi		N;DEF;GEN;PL
+massi	massana	N;DEF;ACC;PL
+sess		N;INDF;GEN;PL
+sess		N;INDF;GEN;SG
+sess		N;INDF;DAT;PL
+sess		N;DEF;NOM;PL
+sess		N;DEF;DAT;PL
+sess		N;DEF;DAT;SG
+sess		N;DEF;NOM;SG
+sess		N;INDF;NOM;PL
+sess		N;INDF;NOM;SG
+sess		N;INDF;ACC;SG
+sess		N;DEF;GEN;SG
+sess		N;DEF;ACC;SG
+sess	sessi	N;INDF;DAT;SG
+sess	sessa	N;INDF;ACC;PL
+sess		N;DEF;GEN;PL
+sess		N;DEF;ACC;PL
+loft	lofta	N;INDF;GEN;PL
+loft		N;INDF;GEN;SG
+loft		N;INDF;DAT;PL
+loft		N;DEF;ACC;SG
+loft		N;DEF;DAT;PL
+loft		N;DEF;DAT;SG
+loft		N;DEF;NOM;SG
+loft		N;DEF;NOM;PL
+loft		N;INDF;NOM;PL
+loft		N;INDF;NOM;SG
+loft		N;INDF;ACC;SG
+loft		N;DEF;GEN;SG
+loft		N;INDF;DAT;SG
+loft		N;INDF;ACC;PL
+loft		N;DEF;GEN;PL
+loft	loftin	N;DEF;ACC;PL
+eistneska		N;INDF;GEN;SG
+eistneska		N;DEF;ACC;SG
+eistneska		N;DEF;DAT;SG
+eistneska		N;DEF;NOM;SG
+eistneska		N;INDF;NOM;SG
+eistneska		N;INDF;ACC;SG
+eistneska	eistneskunnar	N;DEF;GEN;SG
+eistneska		N;INDF;DAT;SG
+lögregla		N;INDF;GEN;PL
+lögregla		N;INDF;GEN;SG
+lögregla		N;DEF;GEN;SG
+lögregla		N;DEF;ACC;SG
+lögregla		N;DEF;DAT;SG
+lögregla		N;INDF;DAT;PL
+lögregla		N;DEF;NOM;PL
+lögregla		N;DEF;DAT;PL
+lögregla		N;INDF;NOM;SG
+lögregla		N;INDF;ACC;SG
+lögregla		N;DEF;NOM;SG
+lögregla	lögreglu	N;INDF;DAT;SG
+lögregla		N;INDF;NOM;PL
+lögregla	lögreglur	N;INDF;ACC;PL
+lögregla		N;DEF;GEN;PL
+lögregla		N;DEF;ACC;PL
+örlög	örlöga	N;INDF;GEN;SG
+örlög		N;DEF;ACC;SG
+örlög		N;DEF;DAT;SG
+örlög		N;DEF;NOM;SG
+örlög		N;INDF;NOM;SG
+örlög		N;INDF;ACC;SG
+örlög		N;DEF;GEN;SG
+örlög		N;INDF;DAT;SG
+tími		N;INDF;GEN;PL
+tími		N;INDF;GEN;SG
+tími		N;INDF;DAT;PL
+tími	tímann	N;DEF;ACC;SG
+tími		N;DEF;DAT;PL
+tími		N;DEF;DAT;SG
+tími		N;DEF;GEN;SG
+tími		N;DEF;NOM;PL
+tími		N;INDF;NOM;PL
+tími		N;INDF;NOM;SG
+tími		N;INDF;ACC;SG
+tími		N;DEF;NOM;SG
+tími		N;INDF;DAT;SG
+tími	tíma	N;INDF;ACC;PL
+tími		N;DEF;GEN;PL
+tími		N;DEF;ACC;PL
+enska		N;INDF;GEN;SG
+enska		N;DEF;ACC;SG
+enska		N;DEF;DAT;SG
+enska		N;DEF;NOM;SG
+enska		N;INDF;NOM;SG
+enska		N;INDF;ACC;SG
+enska	enskunnar	N;DEF;GEN;SG
+enska		N;INDF;DAT;SG
+skýring		N;INDF;GEN;PL
+skýring		N;INDF;GEN;SG
+skýring		N;INDF;DAT;PL
+skýring		N;DEF;GEN;PL
+skýring		N;DEF;DAT;PL
+skýring		N;DEF;DAT;SG
+skýring	skýringarinnar	N;DEF;GEN;SG
+skýring		N;INDF;NOM;PL
+skýring		N;INDF;NOM;SG
+skýring		N;INDF;ACC;SG
+skýring		N;DEF;NOM;SG
+skýring	skýringuna	N;DEF;ACC;SG
+skýring		N;INDF;DAT;SG
+skýring		N;INDF;ACC;PL
+skýring		N;DEF;NOM;PL
+skýring		N;DEF;ACC;PL
+ugla		N;INDF;GEN;PL
+ugla		N;INDF;GEN;SG
+ugla		N;DEF;GEN;SG
+ugla		N;DEF;ACC;SG
+ugla		N;DEF;DAT;SG
+ugla		N;INDF;DAT;PL
+ugla	uglurnar	N;DEF;NOM;PL
+ugla		N;DEF;DAT;PL
+ugla		N;INDF;NOM;SG
+ugla		N;INDF;ACC;SG
+ugla		N;DEF;NOM;SG
+ugla		N;INDF;DAT;SG
+ugla		N;INDF;NOM;PL
+ugla		N;INDF;ACC;PL
+ugla		N;DEF;GEN;PL
+ugla	uglurnar	N;DEF;ACC;PL
+hebreska	hebresku	N;INDF;GEN;SG
+hebreska		N;DEF;ACC;SG
+hebreska		N;DEF;DAT;SG
+hebreska		N;DEF;NOM;SG
+hebreska		N;INDF;NOM;SG
+hebreska		N;INDF;ACC;SG
+hebreska		N;DEF;GEN;SG
+hebreska		N;INDF;DAT;SG

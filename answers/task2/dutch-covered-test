@@ -1,0 +1,615 @@
+definitief		ADJ;INDF;PL;CMPR
+definitief		ADJ;INDF;NEUT;SG;SPRL
+definitief		ADJ;INDF;PL
+definitief		ADJ;INDF;PL;SPRL
+definitief	definitieve	ADJ;INDF;NEUT;SG;CMPR
+definitief		ADJ;DEF
+definitief		ADJ;INDF;NEUT;SG
+definitief		ADJ;DEF;CMPR
+definitief		ADJ;DEF;SPRL
+moederlijk		ADJ;INDF;PL;CMPR
+moederlijk		ADJ;INDF;NEUT;SG;SPRL
+moederlijk		ADJ;INDF;PL
+moederlijk		ADJ;INDF;PL;SPRL
+moederlijk		ADJ;INDF;NEUT;SG;CMPR
+moederlijk		ADJ;DEF
+moederlijk	moederlijk	ADJ;INDF;NEUT;SG
+moederlijk		ADJ;DEF;CMPR
+moederlijk		ADJ;DEF;SPRL
+verkoperen		V;IND;PST;1;SG
+verkoperen		V;IND;PRS;2;SG
+verkoperen		V;IMP;SG
+verkoperen	verkoperd	V.PTCP;PST
+verkoperen		V;SBJV;PRS;PL
+verkoperen		V;SBJV;PRS;SG
+verkoperen		V;IND;PRS;1;SG
+verkoperen		V;NFIN
+verkoperen	verkoperen	V;IND;PRS;PL
+verkoperen		V;SBJV;PST;PL
+verkoperen		V;IND;PRS;3;SG
+verkoperen		V;SBJV;PST;SG
+verkoperen		V;IND;PST;PL
+verkoperen		V;IMP;PL
+verkoperen		V;IND;PST;3;SG
+verkoperen		V;IND;PST;2;SG
+Atheens		ADJ;INDF;PL;CMPR
+Atheens	Atheensere	ADJ;INDF;NEUT;SG;SPRL
+Atheens		ADJ;INDF;PL
+Atheens		ADJ;INDF;PL;SPRL
+Atheens		ADJ;INDF;NEUT;SG;CMPR
+Atheens		ADJ;DEF
+Atheens		ADJ;INDF;NEUT;SG
+Atheens		ADJ;DEF;CMPR
+Atheens		ADJ;DEF;SPRL
+aanstaand		ADJ;INDF;NEUT;SG
+aanstaand		ADJ;INDF;PL
+aanstaand		ADJ;DEF
+korstvormig		ADJ;INDF;PL;CMPR
+korstvormig		ADJ;INDF;NEUT;SG;SPRL
+korstvormig	korstvormige	ADJ;INDF;PL
+korstvormig		ADJ;INDF;PL;SPRL
+korstvormig		ADJ;INDF;NEUT;SG;CMPR
+korstvormig		ADJ;DEF
+korstvormig		ADJ;INDF;NEUT;SG
+korstvormig		ADJ;DEF;CMPR
+korstvormig		ADJ;DEF;SPRL
+verplichten		V;IND;PST;1;SG
+verplichten		V;SBJV;PST;SG
+verplichten		V;IND;PRS;2;SG
+verplichten		V;IMP;SG
+verplichten		V.PTCP;PST
+verplichten		V;SBJV;PST;PL
+verplichten		V;IND;PRS;1;SG
+verplichten		V;IND;PST;2;SG
+verplichten	verplichten	V;IND;PRS;PL
+verplichten		V;SBJV;PRS;PL
+verplichten		V;IND;PRS;3;SG
+verplichten		V;SBJV;PRS;SG
+verplichten	verplichtten	V;IND;PST;PL
+verplichten		V;IMP;PL
+verplichten		V;IND;PST;3;SG
+verplichten		V;NFIN
+debuteren		V;IND;PST;1;SG
+debuteren	debuteert	V;IND;PRS;2;SG
+debuteren		V;IMP;SG
+debuteren		V.PTCP;PST
+debuteren		V;SBJV;PRS;PL
+debuteren		V;SBJV;PRS;SG
+debuteren		V;IND;PRS;1;SG
+debuteren		V;NFIN
+debuteren		V;IND;PRS;PL
+debuteren		V;SBJV;PST;PL
+debuteren		V;IND;PRS;3;SG
+debuteren		V;SBJV;PST;SG
+debuteren		V;IND;PST;PL
+debuteren		V;IMP;PL
+debuteren	debuteerde	V;IND;PST;3;SG
+debuteren		V;IND;PST;2;SG
+hoeveelste		ADJ;INDF;NEUT;SG
+hoeveelste		ADJ;INDF;PL
+hoeveelste		ADJ;DEF
+dusdanig		ADJ;INDF;NEUT;SG
+dusdanig		ADJ;INDF;PL
+dusdanig		ADJ;DEF
+upgraden		V;IND;PST;1;SG
+upgraden		V;IND;PRS;2;SG
+upgraden		V;IMP;SG
+upgraden	geüpgraded	V.PTCP;PST
+upgraden		V;SBJV;PRS;PL
+upgraden		V;SBJV;PRS;SG
+upgraden		V;IND;PRS;1;SG
+upgraden		V;NFIN
+upgraden		V;IND;PRS;PL
+upgraden	upgradeden	V;SBJV;PST;PL
+upgraden		V;IND;PRS;3;SG
+upgraden		V;SBJV;PST;SG
+upgraden		V;IND;PST;PL
+upgraden		V;IMP;PL
+upgraden		V;IND;PST;3;SG
+upgraden		V;IND;PST;2;SG
+ronselen		V;IND;PST;1;SG
+ronselen		V;IND;PRS;2;SG
+ronselen		V;IMP;SG
+ronselen	geronseld	V.PTCP;PST
+ronselen		V;SBJV;PRS;PL
+ronselen		V;SBJV;PRS;SG
+ronselen		V;IND;PRS;1;SG
+ronselen		V;NFIN
+ronselen		V;IND;PRS;PL
+ronselen		V;SBJV;PST;PL
+ronselen		V;IND;PRS;3;SG
+ronselen		V;SBJV;PST;SG
+ronselen		V;IND;PST;PL
+ronselen	ronselt	V;IMP;PL
+ronselen		V;IND;PST;3;SG
+ronselen		V;IND;PST;2;SG
+allemachtig		ADJ;INDF;PL;CMPR
+allemachtig		ADJ;INDF;NEUT;SG;SPRL
+allemachtig		ADJ;INDF;PL
+allemachtig		ADJ;INDF;PL;SPRL
+allemachtig		ADJ;INDF;NEUT;SG;CMPR
+allemachtig		ADJ;DEF
+allemachtig	allemachtig	ADJ;INDF;NEUT;SG
+allemachtig		ADJ;DEF;CMPR
+allemachtig		ADJ;DEF;SPRL
+snoezig	snoeziger	ADJ;INDF;PL;CMPR
+snoezig		ADJ;INDF;NEUT;SG;SPRL
+snoezig		ADJ;INDF;PL
+snoezig		ADJ;INDF;PL;SPRL
+snoezig		ADJ;INDF;NEUT;SG;CMPR
+snoezig		ADJ;DEF
+snoezig		ADJ;INDF;NEUT;SG
+snoezig		ADJ;DEF;CMPR
+snoezig		ADJ;DEF;SPRL
+zwichten		V;IND;PST;1;SG
+zwichten		V;SBJV;PST;SG
+zwichten		V;IND;PRS;2;SG
+zwichten		V;IMP;SG
+zwichten		V.PTCP;PST
+zwichten		V;SBJV;PST;PL
+zwichten		V;IND;PRS;1;SG
+zwichten		V;IND;PST;2;SG
+zwichten		V;IND;PRS;PL
+zwichten		V;SBJV;PRS;PL
+zwichten	zwicht	V;IND;PRS;3;SG
+zwichten		V;SBJV;PRS;SG
+zwichten		V;IND;PST;PL
+zwichten		V;IMP;PL
+zwichten		V;IND;PST;3;SG
+zwichten	zwichten	V;NFIN
+lomp		ADJ;INDF;PL;CMPR
+lomp		ADJ;INDF;NEUT;SG;SPRL
+lomp		ADJ;INDF;PL
+lomp		ADJ;INDF;PL;SPRL
+lomp		ADJ;INDF;NEUT;SG;CMPR
+lomp		ADJ;DEF
+lomp	lomp	ADJ;INDF;NEUT;SG
+lomp		ADJ;DEF;CMPR
+lomp		ADJ;DEF;SPRL
+demoduleren		V;IND;PST;1;SG
+demoduleren		V;IND;PRS;2;SG
+demoduleren		V;IMP;SG
+demoduleren		V.PTCP;PST
+demoduleren		V;SBJV;PRS;PL
+demoduleren		V;SBJV;PRS;SG
+demoduleren		V;IND;PRS;1;SG
+demoduleren		V;NFIN
+demoduleren		V;IND;PRS;PL
+demoduleren	demoduleerden	V;SBJV;PST;PL
+demoduleren		V;IND;PRS;3;SG
+demoduleren		V;SBJV;PST;SG
+demoduleren		V;IND;PST;PL
+demoduleren		V;IMP;PL
+demoduleren	demoduleerde	V;IND;PST;3;SG
+demoduleren		V;IND;PST;2;SG
+vieren		V;IND;PST;1;SG
+vieren		V;IND;PRS;2;SG
+vieren		V;IMP;SG
+vieren		V.PTCP;PST
+vieren		V;SBJV;PRS;PL
+vieren		V;SBJV;PRS;SG
+vieren		V;IND;PRS;1;SG
+vieren		V;NFIN
+vieren		V;IND;PRS;PL
+vieren	vierden	V;SBJV;PST;PL
+vieren		V;IND;PRS;3;SG
+vieren	vierde	V;SBJV;PST;SG
+vieren		V;IND;PST;PL
+vieren		V;IMP;PL
+vieren		V;IND;PST;3;SG
+vieren		V;IND;PST;2;SG
+verongelukken		V;IND;PST;1;SG
+verongelukken		V;SBJV;PST;SG
+verongelukken		V;IND;PRS;2;SG
+verongelukken		V;IMP;SG
+verongelukken		V.PTCP;PST
+verongelukken		V;SBJV;PST;PL
+verongelukken		V;IND;PRS;1;SG
+verongelukken		V;IND;PST;2;SG
+verongelukken		V;IND;PRS;PL
+verongelukken		V;SBJV;PRS;PL
+verongelukken		V;IND;PRS;3;SG
+verongelukken		V;SBJV;PRS;SG
+verongelukken	verongelukten	V;IND;PST;PL
+verongelukken		V;IMP;PL
+verongelukken	verongelukte	V;IND;PST;3;SG
+verongelukken		V;NFIN
+kleineren		V;IND;PST;1;SG
+kleineren		V;IND;PRS;2;SG
+kleineren		V;IMP;SG
+kleineren		V.PTCP;PST
+kleineren		V;SBJV;PRS;PL
+kleineren		V;SBJV;PRS;SG
+kleineren	kleineer	V;IND;PRS;1;SG
+kleineren		V;NFIN
+kleineren	kleineren	V;IND;PRS;PL
+kleineren		V;SBJV;PST;PL
+kleineren		V;IND;PRS;3;SG
+kleineren		V;SBJV;PST;SG
+kleineren		V;IND;PST;PL
+kleineren		V;IMP;PL
+kleineren		V;IND;PST;3;SG
+kleineren		V;IND;PST;2;SG
+morren		V;IND;PST;1;SG
+morren		V;IND;PRS;2;SG
+morren		V;IMP;SG
+morren		V.PTCP;PST
+morren		V;SBJV;PRS;PL
+morren		V;SBJV;PRS;SG
+morren		V;IND;PRS;1;SG
+morren	morren	V;NFIN
+morren		V;IND;PRS;PL
+morren		V;SBJV;PST;PL
+morren		V;IND;PRS;3;SG
+morren		V;SBJV;PST;SG
+morren		V;IND;PST;PL
+morren		V;IMP;PL
+morren	morde	V;IND;PST;3;SG
+morren		V;IND;PST;2;SG
+hangen		V;IND;PST;3;SG
+hangen		V;IND;PST;1;SG
+hangen	hangt	V;IND;PRS;2;SG
+hangen		V;IMP;SG
+hangen		V.PTCP;PST
+hangen		V;SBJV;PST;PL
+hangen		V;IND;PRS;1;SG
+hangen	hing	V;IND;PST;2;SG
+hangen		V;IND;PRS;PL
+hangen		V;SBJV;PRS;PL
+hangen		V;IND;PRS;3;SG
+hangen		V;SBJV;PRS;SG
+hangen		V;IND;PST;PL
+hangen		V;IMP;PL
+hangen		V;SBJV;PST;SG
+hangen		V;NFIN
+sterken		V;IND;PST;1;SG
+sterken		V;SBJV;PST;SG
+sterken		V;IND;PRS;2;SG
+sterken		V;IMP;SG
+sterken		V.PTCP;PST
+sterken	sterkten	V;SBJV;PST;PL
+sterken		V;IND;PRS;1;SG
+sterken		V;IND;PST;2;SG
+sterken		V;IND;PRS;PL
+sterken		V;SBJV;PRS;PL
+sterken		V;IND;PRS;3;SG
+sterken		V;SBJV;PRS;SG
+sterken		V;IND;PST;PL
+sterken		V;IMP;PL
+sterken		V;IND;PST;3;SG
+sterken	sterken	V;NFIN
+volgzaam		ADJ;INDF;PL;CMPR
+volgzaam		ADJ;INDF;NEUT;SG;SPRL
+volgzaam		ADJ;INDF;PL
+volgzaam		ADJ;INDF;PL;SPRL
+volgzaam		ADJ;INDF;NEUT;SG;CMPR
+volgzaam		ADJ;DEF
+volgzaam	volgzaam	ADJ;INDF;NEUT;SG
+volgzaam		ADJ;DEF;CMPR
+volgzaam		ADJ;DEF;SPRL
+Iers		ADJ;INDF;PL;CMPR
+Iers		ADJ;INDF;NEUT;SG;SPRL
+Iers		ADJ;INDF;PL
+Iers		ADJ;INDF;PL;SPRL
+Iers		ADJ;INDF;NEUT;SG;CMPR
+Iers		ADJ;DEF
+Iers		ADJ;INDF;NEUT;SG
+Iers	Iersere	ADJ;DEF;CMPR
+Iers		ADJ;DEF;SPRL
+ver		ADJ;INDF;PL;CMPR
+ver		ADJ;INDF;NEUT;SG;SPRL
+ver		ADJ;INDF;PL
+ver		ADJ;INDF;PL;SPRL
+ver		ADJ;INDF;NEUT;SG;CMPR
+ver		ADJ;DEF
+ver		ADJ;INDF;NEUT;SG
+ver		ADJ;DEF;CMPR
+ver	verste	ADJ;DEF;SPRL
+weerkaatsen	weerkaatste	V;IND;PST;1;SG
+weerkaatsen		V;SBJV;PST;SG
+weerkaatsen		V;IND;PRS;2;SG
+weerkaatsen		V;IMP;SG
+weerkaatsen		V.PTCP;PST
+weerkaatsen		V;SBJV;PST;PL
+weerkaatsen		V;IND;PRS;1;SG
+weerkaatsen		V;IND;PST;2;SG
+weerkaatsen		V;IND;PRS;PL
+weerkaatsen	weerkaatsen	V;SBJV;PRS;PL
+weerkaatsen		V;IND;PRS;3;SG
+weerkaatsen		V;SBJV;PRS;SG
+weerkaatsen		V;IND;PST;PL
+weerkaatsen		V;IMP;PL
+weerkaatsen		V;IND;PST;3;SG
+weerkaatsen		V;NFIN
+spoorloos		ADJ;INDF;PL;CMPR
+spoorloos		ADJ;INDF;NEUT;SG;SPRL
+spoorloos	spoorloze	ADJ;INDF;PL
+spoorloos		ADJ;INDF;PL;SPRL
+spoorloos		ADJ;INDF;NEUT;SG;CMPR
+spoorloos		ADJ;DEF
+spoorloos		ADJ;INDF;NEUT;SG
+spoorloos		ADJ;DEF;CMPR
+spoorloos		ADJ;DEF;SPRL
+ontvluchten		V;IND;PST;1;SG
+ontvluchten		V;SBJV;PST;SG
+ontvluchten		V;IND;PRS;2;SG
+ontvluchten		V;IMP;SG
+ontvluchten		V.PTCP;PST
+ontvluchten		V;SBJV;PST;PL
+ontvluchten		V;IND;PRS;1;SG
+ontvluchten		V;IND;PST;2;SG
+ontvluchten		V;IND;PRS;PL
+ontvluchten	ontvluchten	V;SBJV;PRS;PL
+ontvluchten	ontvlucht	V;IND;PRS;3;SG
+ontvluchten		V;SBJV;PRS;SG
+ontvluchten		V;IND;PST;PL
+ontvluchten		V;IMP;PL
+ontvluchten		V;IND;PST;3;SG
+ontvluchten		V;NFIN
+conserveren		V;IND;PST;1;SG
+conserveren	conserveert	V;IND;PRS;2;SG
+conserveren		V;IMP;SG
+conserveren		V.PTCP;PST
+conserveren		V;SBJV;PRS;PL
+conserveren		V;SBJV;PRS;SG
+conserveren	conserveer	V;IND;PRS;1;SG
+conserveren		V;NFIN
+conserveren		V;IND;PRS;PL
+conserveren		V;SBJV;PST;PL
+conserveren		V;IND;PRS;3;SG
+conserveren		V;SBJV;PST;SG
+conserveren		V;IND;PST;PL
+conserveren		V;IMP;PL
+conserveren		V;IND;PST;3;SG
+conserveren		V;IND;PST;2;SG
+flirten		V;IND;PST;1;SG
+flirten	flirtte	V;SBJV;PST;SG
+flirten		V;IND;PRS;2;SG
+flirten	flirt	V;IMP;SG
+flirten		V.PTCP;PST
+flirten		V;SBJV;PST;PL
+flirten		V;IND;PRS;1;SG
+flirten		V;IND;PST;2;SG
+flirten		V;IND;PRS;PL
+flirten		V;SBJV;PRS;PL
+flirten		V;IND;PRS;3;SG
+flirten		V;SBJV;PRS;SG
+flirten		V;IND;PST;PL
+flirten		V;IMP;PL
+flirten		V;IND;PST;3;SG
+flirten		V;NFIN
+gekscheren		V;IND;PST;1;SG
+gekscheren		V;IND;PRS;2;SG
+gekscheren		V;IMP;SG
+gekscheren		V.PTCP;PST
+gekscheren	gekscheren	V;SBJV;PRS;PL
+gekscheren		V;SBJV;PRS;SG
+gekscheren		V;IND;PRS;1;SG
+gekscheren		V;NFIN
+gekscheren	gekscheren	V;IND;PRS;PL
+gekscheren		V;SBJV;PST;PL
+gekscheren		V;IND;PRS;3;SG
+gekscheren		V;SBJV;PST;SG
+gekscheren		V;IND;PST;PL
+gekscheren		V;IMP;PL
+gekscheren		V;IND;PST;3;SG
+gekscheren		V;IND;PST;2;SG
+lichamelijk		ADJ;INDF;PL;CMPR
+lichamelijk		ADJ;INDF;NEUT;SG;SPRL
+lichamelijk		ADJ;INDF;PL
+lichamelijk		ADJ;INDF;PL;SPRL
+lichamelijk		ADJ;INDF;NEUT;SG;CMPR
+lichamelijk	lichamelijke	ADJ;DEF
+lichamelijk		ADJ;INDF;NEUT;SG
+lichamelijk		ADJ;DEF;CMPR
+lichamelijk		ADJ;DEF;SPRL
+bitteren		V;IND;PST;1;SG
+bitteren		V;IND;PRS;2;SG
+bitteren		V;IMP;SG
+bitteren		V.PTCP;PST
+bitteren		V;SBJV;PRS;PL
+bitteren		V;SBJV;PRS;SG
+bitteren		V;IND;PRS;1;SG
+bitteren		V;NFIN
+bitteren		V;IND;PRS;PL
+bitteren		V;SBJV;PST;PL
+bitteren		V;IND;PRS;3;SG
+bitteren		V;SBJV;PST;SG
+bitteren		V;IND;PST;PL
+bitteren	bittert	V;IMP;PL
+bitteren	bitterde	V;IND;PST;3;SG
+bitteren		V;IND;PST;2;SG
+sneuvelen		V;IND;PST;1;SG
+sneuvelen		V;IND;PRS;2;SG
+sneuvelen		V;IMP;SG
+sneuvelen		V.PTCP;PST
+sneuvelen		V;SBJV;PRS;PL
+sneuvelen		V;SBJV;PRS;SG
+sneuvelen	sneuvel	V;IND;PRS;1;SG
+sneuvelen		V;NFIN
+sneuvelen		V;IND;PRS;PL
+sneuvelen		V;SBJV;PST;PL
+sneuvelen		V;IND;PRS;3;SG
+sneuvelen		V;SBJV;PST;SG
+sneuvelen		V;IND;PST;PL
+sneuvelen		V;IMP;PL
+sneuvelen	sneuvelde	V;IND;PST;3;SG
+sneuvelen		V;IND;PST;2;SG
+verluchtigen		V;IND;PST;1;SG
+verluchtigen		V;IND;PRS;2;SG
+verluchtigen		V;IMP;SG
+verluchtigen		V.PTCP;PST
+verluchtigen		V;SBJV;PRS;PL
+verluchtigen		V;SBJV;PRS;SG
+verluchtigen		V;IND;PRS;1;SG
+verluchtigen	verluchtigen	V;NFIN
+verluchtigen		V;IND;PRS;PL
+verluchtigen		V;SBJV;PST;PL
+verluchtigen	verluchtigt	V;IND;PRS;3;SG
+verluchtigen		V;SBJV;PST;SG
+verluchtigen		V;IND;PST;PL
+verluchtigen		V;IMP;PL
+verluchtigen		V;IND;PST;3;SG
+verluchtigen		V;IND;PST;2;SG
+bijbehorend		ADJ;INDF;NEUT;SG
+bijbehorend		ADJ;INDF;PL
+bijbehorend		ADJ;DEF
+vergelen		V;IND;PST;1;SG
+vergelen		V;IND;PRS;2;SG
+vergelen		V;IMP;SG
+vergelen		V.PTCP;PST
+vergelen	vergelen	V;SBJV;PRS;PL
+vergelen		V;SBJV;PRS;SG
+vergelen		V;IND;PRS;1;SG
+vergelen		V;NFIN
+vergelen		V;IND;PRS;PL
+vergelen	vergeelden	V;SBJV;PST;PL
+vergelen		V;IND;PRS;3;SG
+vergelen		V;SBJV;PST;SG
+vergelen		V;IND;PST;PL
+vergelen		V;IMP;PL
+vergelen		V;IND;PST;3;SG
+vergelen		V;IND;PST;2;SG
+universeel		ADJ;INDF;PL;CMPR
+universeel		ADJ;INDF;NEUT;SG;SPRL
+universeel	universele	ADJ;INDF;PL
+universeel		ADJ;INDF;PL;SPRL
+universeel		ADJ;INDF;NEUT;SG;CMPR
+universeel		ADJ;DEF
+universeel		ADJ;INDF;NEUT;SG
+universeel		ADJ;DEF;CMPR
+universeel		ADJ;DEF;SPRL
+ontkennen		V;IND;PST;1;SG
+ontkennen		V;IND;PRS;2;SG
+ontkennen	ontken	V;IMP;SG
+ontkennen		V.PTCP;PST
+ontkennen		V;SBJV;PRS;PL
+ontkennen		V;SBJV;PRS;SG
+ontkennen		V;IND;PRS;1;SG
+ontkennen		V;NFIN
+ontkennen		V;IND;PRS;PL
+ontkennen	ontkenden	V;SBJV;PST;PL
+ontkennen		V;IND;PRS;3;SG
+ontkennen		V;SBJV;PST;SG
+ontkennen		V;IND;PST;PL
+ontkennen		V;IMP;PL
+ontkennen		V;IND;PST;3;SG
+ontkennen		V;IND;PST;2;SG
+sabbelen		V;IND;PST;1;SG
+sabbelen		V;IND;PRS;2;SG
+sabbelen		V;IMP;SG
+sabbelen	gesabbeld	V.PTCP;PST
+sabbelen		V;SBJV;PRS;PL
+sabbelen		V;SBJV;PRS;SG
+sabbelen	sabbel	V;IND;PRS;1;SG
+sabbelen		V;NFIN
+sabbelen		V;IND;PRS;PL
+sabbelen		V;SBJV;PST;PL
+sabbelen		V;IND;PRS;3;SG
+sabbelen		V;SBJV;PST;SG
+sabbelen		V;IND;PST;PL
+sabbelen		V;IMP;PL
+sabbelen		V;IND;PST;3;SG
+sabbelen		V;IND;PST;2;SG
+behinderd	behinderdere	ADJ;INDF;PL;CMPR
+behinderd		ADJ;INDF;NEUT;SG;SPRL
+behinderd		ADJ;INDF;PL
+behinderd		ADJ;INDF;PL;SPRL
+behinderd		ADJ;INDF;NEUT;SG;CMPR
+behinderd		ADJ;DEF
+behinderd		ADJ;INDF;NEUT;SG
+behinderd		ADJ;DEF;CMPR
+behinderd		ADJ;DEF;SPRL
+natuurlijk		ADJ;INDF;PL;CMPR
+natuurlijk		ADJ;INDF;NEUT;SG;SPRL
+natuurlijk	natuurlijke	ADJ;INDF;PL
+natuurlijk		ADJ;INDF;PL;SPRL
+natuurlijk		ADJ;INDF;NEUT;SG;CMPR
+natuurlijk		ADJ;DEF
+natuurlijk		ADJ;INDF;NEUT;SG
+natuurlijk		ADJ;DEF;CMPR
+natuurlijk		ADJ;DEF;SPRL
+zwepen		V;IND;PST;1;SG
+zwepen		V;IND;PRS;2;SG
+zwepen		V;IMP;SG
+zwepen		V.PTCP;PST
+zwepen		V;SBJV;PRS;PL
+zwepen		V;SBJV;PRS;SG
+zwepen	zweep	V;IND;PRS;1;SG
+zwepen		V;NFIN
+zwepen		V;IND;PRS;PL
+zwepen		V;SBJV;PST;PL
+zwepen	zweept	V;IND;PRS;3;SG
+zwepen		V;SBJV;PST;SG
+zwepen		V;IND;PST;PL
+zwepen		V;IMP;PL
+zwepen		V;IND;PST;3;SG
+zwepen		V;IND;PST;2;SG
+leunen		V;IND;PST;1;SG
+leunen		V;IND;PRS;2;SG
+leunen		V;IMP;SG
+leunen		V.PTCP;PST
+leunen		V;SBJV;PRS;PL
+leunen		V;SBJV;PRS;SG
+leunen	leun	V;IND;PRS;1;SG
+leunen		V;NFIN
+leunen		V;IND;PRS;PL
+leunen		V;SBJV;PST;PL
+leunen		V;IND;PRS;3;SG
+leunen		V;SBJV;PST;SG
+leunen		V;IND;PST;PL
+leunen		V;IMP;PL
+leunen		V;IND;PST;3;SG
+leunen	leunde	V;IND;PST;2;SG
+ontnemen		V;IND;PST;1;SG
+ontnemen		V;IND;PRS;2;SG
+ontnemen		V;IMP;SG
+ontnemen		V.PTCP;PST
+ontnemen		V;SBJV;PRS;PL
+ontnemen		V;SBJV;PRS;SG
+ontnemen		V;IND;PRS;1;SG
+ontnemen		V;NFIN
+ontnemen		V;IND;PRS;PL
+ontnemen		V;SBJV;PST;PL
+ontnemen		V;IND;PRS;3;SG
+ontnemen	ontname	V;SBJV;PST;SG
+ontnemen		V;IND;PST;PL
+ontnemen	ontneemt	V;IMP;PL
+ontnemen		V;IND;PST;3;SG
+ontnemen		V;IND;PST;2;SG
+schor		ADJ;INDF;PL;CMPR
+schor		ADJ;INDF;NEUT;SG;SPRL
+schor		ADJ;INDF;PL
+schor		ADJ;INDF;PL;SPRL
+schor	schorre	ADJ;INDF;NEUT;SG;CMPR
+schor		ADJ;DEF
+schor		ADJ;INDF;NEUT;SG
+schor		ADJ;DEF;CMPR
+schor		ADJ;DEF;SPRL
+Oudrussisch		ADJ;INDF;PL;CMPR
+Oudrussisch		ADJ;INDF;NEUT;SG;SPRL
+Oudrussisch		ADJ;INDF;PL
+Oudrussisch		ADJ;INDF;PL;SPRL
+Oudrussisch	Oudrussische	ADJ;INDF;NEUT;SG;CMPR
+Oudrussisch		ADJ;DEF
+Oudrussisch		ADJ;INDF;NEUT;SG
+Oudrussisch		ADJ;DEF;CMPR
+Oudrussisch		ADJ;DEF;SPRL
+vraatzuchtig		ADJ;INDF;PL;CMPR
+vraatzuchtig		ADJ;INDF;NEUT;SG;SPRL
+vraatzuchtig		ADJ;INDF;PL
+vraatzuchtig		ADJ;INDF;PL;SPRL
+vraatzuchtig	vraatzuchtige	ADJ;INDF;NEUT;SG;CMPR
+vraatzuchtig		ADJ;DEF
+vraatzuchtig		ADJ;INDF;NEUT;SG
+vraatzuchtig		ADJ;DEF;CMPR
+vraatzuchtig		ADJ;DEF;SPRL
+komisch	komischer	ADJ;INDF;PL;CMPR
+komisch		ADJ;INDF;NEUT;SG;SPRL
+komisch		ADJ;INDF;PL
+komisch		ADJ;INDF;PL;SPRL
+komisch		ADJ;INDF;NEUT;SG;CMPR
+komisch		ADJ;DEF
+komisch		ADJ;INDF;NEUT;SG
+komisch		ADJ;DEF;CMPR
+komisch		ADJ;DEF;SPRL

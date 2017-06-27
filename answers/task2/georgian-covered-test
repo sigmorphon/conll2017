@@ -1,0 +1,1002 @@
+ინტერვიუერი		N;SG;GEN
+ინტერვიუერი		N;PL;ERG
+ინტერვიუერი		N;SG;LGSPEC1
+ინტერვიუერი		N;SG;DAT
+ინტერვიუერი	ინტერვიუერებს	N;PL;DAT
+ინტერვიუერი		N;PL;LGSPEC2;ERG
+ინტერვიუერი	ინტერვიუერთა	N;PL;LGSPEC2;DAT
+ინტერვიუერი		N;SG;NOM
+ინტერვიუერი		N;PL;LGSPEC2;NOM
+ინტერვიუერი	ინტერვიუერები	N;PL;NOM
+ინტერვიუერი		N;PL;LGSPEC2;GEN
+ინტერვიუერი		N;SG;ERG
+ინტერვიუერი		N;PL;LGSPEC1
+ინტერვიუერი		N;SG;VOC
+ინტერვიუერი		N;PL;LGSPEC2;VOC
+ინტერვიუერი		N;PL;VOC
+ინტერვიუერი		N;PL;GEN
+ინტერვიუერი		N;SG;INST
+ინტერვიუერი		N;PL;INST
+გრამოფონი	გრამოფონის	N;SG;GEN
+გრამოფონი		N;PL;ERG
+გრამოფონი		N;SG;LGSPEC1
+გრამოფონი		N;SG;DAT
+გრამოფონი		N;PL;DAT
+გრამოფონი		N;PL;LGSPEC2;ERG
+გრამოფონი		N;PL;LGSPEC2;DAT
+გრამოფონი		N;SG;NOM
+გრამოფონი		N;PL;LGSPEC2;NOM
+გრამოფონი	გრამოფონები	N;PL;NOM
+გრამოფონი		N;PL;LGSPEC2;GEN
+გრამოფონი		N;SG;ERG
+გრამოფონი		N;PL;LGSPEC1
+გრამოფონი		N;SG;VOC
+გრამოფონი		N;PL;LGSPEC2;VOC
+გრამოფონი	გრამოფონებო	N;PL;VOC
+გრამოფონი		N;PL;GEN
+გრამოფონი		N;SG;INST
+გრამოფონი		N;PL;INST
+ტაბურეტი		N;SG;GEN
+ტაბურეტი	ტაბურეტებმა	N;PL;ERG
+ტაბურეტი		N;SG;LGSPEC1
+ტაბურეტი		N;SG;DAT
+ტაბურეტი		N;PL;DAT
+ტაბურეტი		N;PL;LGSPEC2;ERG
+ტაბურეტი		N;PL;LGSPEC2;DAT
+ტაბურეტი		N;SG;NOM
+ტაბურეტი		N;PL;LGSPEC2;NOM
+ტაბურეტი		N;PL;NOM
+ტაბურეტი		N;PL;LGSPEC2;GEN
+ტაბურეტი		N;SG;ERG
+ტაბურეტი	ტაბურეტებად	N;PL;LGSPEC1
+ტაბურეტი		N;SG;VOC
+ტაბურეტი		N;PL;LGSPEC2;VOC
+ტაბურეტი		N;PL;VOC
+ტაბურეტი		N;PL;GEN
+ტაბურეტი		N;SG;INST
+ტაბურეტი	ტაბურეტებით	N;PL;INST
+ფაუნა		N;SG;GEN
+ფაუნა		N;PL;ERG
+ფაუნა		N;SG;LGSPEC1
+ფაუნა	ფაუნებს	N;PL;DAT
+ფაუნა		N;PL;LGSPEC2;ERG
+ფაუნა		N;PL;LGSPEC2;DAT
+ფაუნა		N;PL;INST
+ფაუნა		N;SG;NOM
+ფაუნა	ფაუნები	N;PL;NOM
+ფაუნა		N;PL;LGSPEC2;GEN
+ფაუნა		N;SG;ERG
+ფაუნა		N;PL;LGSPEC1
+ფაუნა		N;SG;INST
+ფაუნა		N;PL;LGSPEC2;VOC
+ფაუნა		N;PL;VOC
+ფაუნა		N;SG;VOC
+ფაუნა		N;PL;LGSPEC2;NOM
+ფაუნა		N;SG;DAT
+ფაუნა	ფაუნების	N;PL;GEN
+მესტვირე		N;SG;GEN
+მესტვირე		N;PL;ERG
+მესტვირე		N;SG;LGSPEC1
+მესტვირე		N;SG;DAT
+მესტვირე		N;PL;DAT
+მესტვირე		N;PL;LGSPEC2;ERG
+მესტვირე		N;PL;LGSPEC2;DAT
+მესტვირე		N;SG;NOM
+მესტვირე		N;SG;VOC
+მესტვირე		N;PL;NOM
+მესტვირე	მესტვირეთა	N;PL;LGSPEC2;GEN
+მესტვირე		N;SG;ERG
+მესტვირე		N;PL;LGSPEC1
+მესტვირე	მესტვირით	N;SG;INST
+მესტვირე		N;PL;LGSPEC2;VOC
+მესტვირე		N;PL;VOC
+მესტვირე	მესტვირეების	N;PL;GEN
+მესტვირე		N;PL;LGSPEC2;NOM
+მესტვირე		N;PL;INST
+ელეგია		N;SG;GEN
+ელეგია		N;PL;ERG
+ელეგია	ელეგიად	N;SG;LGSPEC1
+ელეგია		N;PL;DAT
+ელეგია		N;PL;LGSPEC2;ERG
+ელეგია		N;PL;LGSPEC2;DAT
+ელეგია		N;PL;INST
+ელეგია		N;SG;NOM
+ელეგია	ელეგიები	N;PL;NOM
+ელეგია		N;PL;LGSPEC2;GEN
+ელეგია		N;SG;ERG
+ელეგია		N;PL;LGSPEC1
+ელეგია		N;SG;INST
+ელეგია		N;PL;LGSPEC2;VOC
+ელეგია		N;PL;VOC
+ელეგია	ელეგიავ	N;SG;VOC
+ელეგია		N;PL;LGSPEC2;NOM
+ელეგია		N;SG;DAT
+ელეგია		N;PL;GEN
+შაიბა		N;SG;GEN
+შაიბა		N;PL;ERG
+შაიბა		N;SG;LGSPEC1
+შაიბა		N;PL;DAT
+შაიბა	შაიბათა	N;PL;LGSPEC2;ERG
+შაიბა		N;PL;LGSPEC2;DAT
+შაიბა		N;PL;INST
+შაიბა		N;SG;NOM
+შაიბა		N;PL;NOM
+შაიბა		N;PL;LGSPEC2;GEN
+შაიბა		N;SG;ERG
+შაიბა		N;PL;LGSPEC1
+შაიბა		N;SG;INST
+შაიბა		N;PL;LGSPEC2;VOC
+შაიბა		N;PL;VOC
+შაიბა		N;SG;VOC
+შაიბა	შაიბანი	N;PL;LGSPEC2;NOM
+შაიბა		N;SG;DAT
+შაიბა	შაიბების	N;PL;GEN
+ანტიციკლონი	ანტიციკლონის	N;SG;GEN
+ანტიციკლონი		N;PL;ERG
+ანტიციკლონი		N;SG;LGSPEC1
+ანტიციკლონი	ანტიციკლონს	N;SG;DAT
+ანტიციკლონი		N;PL;DAT
+ანტიციკლონი		N;PL;LGSPEC2;ERG
+ანტიციკლონი		N;PL;LGSPEC2;DAT
+ანტიციკლონი		N;SG;NOM
+ანტიციკლონი		N;PL;LGSPEC2;NOM
+ანტიციკლონი		N;PL;NOM
+ანტიციკლონი		N;PL;LGSPEC2;GEN
+ანტიციკლონი	ანტიციკლონმა	N;SG;ERG
+ანტიციკლონი		N;PL;LGSPEC1
+ანტიციკლონი		N;SG;VOC
+ანტიციკლონი		N;PL;LGSPEC2;VOC
+ანტიციკლონი		N;PL;VOC
+ანტიციკლონი		N;PL;GEN
+ანტიციკლონი		N;SG;INST
+ანტიციკლონი		N;PL;INST
+ჰიენა		N;SG;GEN
+ჰიენა		N;PL;ERG
+ჰიენა		N;SG;LGSPEC1
+ჰიენა		N;PL;DAT
+ჰიენა	ჰიენათა	N;PL;LGSPEC2;ERG
+ჰიენა	ჰიენათა	N;PL;LGSPEC2;DAT
+ჰიენა		N;PL;INST
+ჰიენა		N;SG;NOM
+ჰიენა		N;PL;NOM
+ჰიენა		N;PL;LGSPEC2;GEN
+ჰიენა		N;SG;ERG
+ჰიენა		N;PL;LGSPEC1
+ჰიენა	ჰიენით	N;SG;INST
+ჰიენა		N;PL;LGSPEC2;VOC
+ჰიენა		N;PL;VOC
+ჰიენა		N;SG;VOC
+ჰიენა		N;PL;LGSPEC2;NOM
+ჰიენა		N;SG;DAT
+ჰიენა		N;PL;GEN
+ვაფლი	ვაფლის	N;SG;GEN
+ვაფლი		N;PL;ERG
+ვაფლი		N;SG;LGSPEC1
+ვაფლი	ვაფლს	N;SG;DAT
+ვაფლი		N;PL;DAT
+ვაფლი		N;PL;LGSPEC2;ERG
+ვაფლი		N;PL;LGSPEC2;DAT
+ვაფლი		N;SG;NOM
+ვაფლი		N;PL;LGSPEC2;NOM
+ვაფლი		N;PL;NOM
+ვაფლი		N;PL;LGSPEC2;GEN
+ვაფლი		N;SG;ERG
+ვაფლი		N;PL;LGSPEC1
+ვაფლი		N;SG;VOC
+ვაფლი		N;PL;LGSPEC2;VOC
+ვაფლი		N;PL;VOC
+ვაფლი	ვაფლების	N;PL;GEN
+ვაფლი		N;SG;INST
+ვაფლი		N;PL;INST
+დორბლი		N;SG;GEN
+დორბლი		N;PL;ERG
+დორბლი		N;SG;LGSPEC1
+დორბლი	დორბლს	N;SG;DAT
+დორბლი		N;PL;DAT
+დორბლი		N;PL;LGSPEC2;ERG
+დორბლი	დორბლთა	N;PL;LGSPEC2;DAT
+დორბლი		N;SG;NOM
+დორბლი		N;PL;LGSPEC2;NOM
+დორბლი		N;PL;NOM
+დორბლი		N;PL;LGSPEC2;GEN
+დორბლი		N;SG;ERG
+დორბლი	დორბლებად	N;PL;LGSPEC1
+დორბლი		N;SG;VOC
+დორბლი		N;PL;LGSPEC2;VOC
+დორბლი		N;PL;VOC
+დორბლი		N;PL;GEN
+დორბლი		N;SG;INST
+დორბლი		N;PL;INST
+ჭვარტლი	ჭვარტლის	N;SG;GEN
+ჭვარტლი		N;PL;ERG
+ჭვარტლი	ჭვარტლად	N;SG;LGSPEC1
+ჭვარტლი		N;SG;DAT
+ჭვარტლი		N;PL;DAT
+ჭვარტლი		N;PL;LGSPEC2;ERG
+ჭვარტლი		N;PL;LGSPEC2;DAT
+ჭვარტლი		N;SG;NOM
+ჭვარტლი		N;PL;LGSPEC2;NOM
+ჭვარტლი		N;PL;NOM
+ჭვარტლი		N;PL;LGSPEC2;GEN
+ჭვარტლი		N;SG;ERG
+ჭვარტლი		N;PL;LGSPEC1
+ჭვარტლი		N;SG;VOC
+ჭვარტლი		N;PL;LGSPEC2;VOC
+ჭვარტლი		N;PL;VOC
+ჭვარტლი	ჭვარტლების	N;PL;GEN
+ჭვარტლი		N;SG;INST
+ჭვარტლი		N;PL;INST
+ტურნირი		N;SG;GEN
+ტურნირი		N;PL;ERG
+ტურნირი		N;SG;LGSPEC1
+ტურნირი	ტურნირს	N;SG;DAT
+ტურნირი		N;PL;DAT
+ტურნირი		N;PL;LGSPEC2;ERG
+ტურნირი	ტურნირთა	N;PL;LGSPEC2;DAT
+ტურნირი		N;SG;NOM
+ტურნირი		N;PL;LGSPEC2;NOM
+ტურნირი		N;PL;NOM
+ტურნირი		N;PL;LGSPEC2;GEN
+ტურნირი		N;SG;ERG
+ტურნირი		N;PL;LGSPEC1
+ტურნირი		N;SG;VOC
+ტურნირი		N;PL;LGSPEC2;VOC
+ტურნირი	ტურნირებო	N;PL;VOC
+ტურნირი		N;PL;GEN
+ტურნირი		N;SG;INST
+ტურნირი		N;PL;INST
+საბაგირო		N;SG;GEN
+საბაგირო		N;PL;ERG
+საბაგირო		N;SG;LGSPEC1
+საბაგირო		N;SG;DAT
+საბაგირო		N;PL;DAT
+საბაგირო	საბაგიროთა	N;PL;LGSPEC2;ERG
+საბაგირო		N;PL;LGSPEC2;DAT
+საბაგირო		N;SG;NOM
+საბაგირო		N;SG;VOC
+საბაგირო		N;PL;NOM
+საბაგირო		N;PL;LGSPEC2;GEN
+საბაგირო		N;SG;ERG
+საბაგირო		N;PL;LGSPEC1
+საბაგირო		N;PL;LGSPEC2;NOM
+საბაგირო		N;PL;VOC
+საბაგირო		N;PL;GEN
+საბაგირო		N;SG;INST
+საბაგირო	საბაგიროებით	N;PL;INST
+საბაგირო	საბაგირონო	N;PL;LGSPEC2;VOC
+მონოპოლისტი		N;SG;GEN
+მონოპოლისტი		N;PL;ERG
+მონოპოლისტი		N;SG;LGSPEC1
+მონოპოლისტი		N;SG;DAT
+მონოპოლისტი		N;PL;DAT
+მონოპოლისტი	მონოპოლისტთა	N;PL;LGSPEC2;ERG
+მონოპოლისტი		N;PL;LGSPEC2;DAT
+მონოპოლისტი		N;SG;NOM
+მონოპოლისტი	მონოპოლისტნი	N;PL;LGSPEC2;NOM
+მონოპოლისტი		N;PL;NOM
+მონოპოლისტი		N;PL;LGSPEC2;GEN
+მონოპოლისტი	მონოპოლისტმა	N;SG;ERG
+მონოპოლისტი		N;PL;LGSPEC1
+მონოპოლისტი		N;SG;VOC
+მონოპოლისტი		N;PL;LGSPEC2;VOC
+მონოპოლისტი		N;PL;VOC
+მონოპოლისტი		N;PL;GEN
+მონოპოლისტი		N;SG;INST
+მონოპოლისტი		N;PL;INST
+ფლამინგო	ფლამინგოს	N;SG;GEN
+ფლამინგო		N;PL;ERG
+ფლამინგო		N;SG;LGSPEC1
+ფლამინგო		N;SG;DAT
+ფლამინგო		N;PL;DAT
+ფლამინგო		N;PL;LGSPEC2;ERG
+ფლამინგო		N;PL;LGSPEC2;DAT
+ფლამინგო		N;SG;NOM
+ფლამინგო		N;SG;VOC
+ფლამინგო		N;PL;NOM
+ფლამინგო		N;PL;LGSPEC2;GEN
+ფლამინგო		N;SG;ERG
+ფლამინგო	ფლამინგოებად	N;PL;LGSPEC1
+ფლამინგო		N;PL;LGSPEC2;NOM
+ფლამინგო	ფლამინგოებო	N;PL;VOC
+ფლამინგო		N;PL;GEN
+ფლამინგო		N;SG;INST
+ფლამინგო		N;PL;INST
+ფლამინგო		N;PL;LGSPEC2;VOC
+ფეტრი		N;SG;GEN
+ფეტრი		N;PL;ERG
+ფეტრი		N;SG;LGSPEC1
+ფეტრი		N;SG;DAT
+ფეტრი	ფეტრებს	N;PL;DAT
+ფეტრი		N;PL;LGSPEC2;ERG
+ფეტრი		N;PL;LGSPEC2;DAT
+ფეტრი		N;SG;NOM
+ფეტრი		N;PL;LGSPEC2;NOM
+ფეტრი	ფეტრები	N;PL;NOM
+ფეტრი		N;PL;LGSPEC2;GEN
+ფეტრი		N;SG;ERG
+ფეტრი		N;PL;LGSPEC1
+ფეტრი		N;SG;VOC
+ფეტრი		N;PL;LGSPEC2;VOC
+ფეტრი		N;PL;VOC
+ფეტრი	ფეტრების	N;PL;GEN
+ფეტრი		N;SG;INST
+ფეტრი		N;PL;INST
+კოლორატურა		N;SG;GEN
+კოლორატურა		N;PL;ERG
+კოლორატურა		N;SG;LGSPEC1
+კოლორატურა		N;PL;DAT
+კოლორატურა		N;PL;LGSPEC2;ERG
+კოლორატურა		N;PL;LGSPEC2;DAT
+კოლორატურა		N;PL;INST
+კოლორატურა		N;SG;NOM
+კოლორატურა	კოლორატურები	N;PL;NOM
+კოლორატურა	კოლორატურათა	N;PL;LGSPEC2;GEN
+კოლორატურა		N;SG;ERG
+კოლორატურა		N;PL;LGSPEC1
+კოლორატურა	კოლორატურით	N;SG;INST
+კოლორატურა		N;PL;LGSPEC2;VOC
+კოლორატურა		N;PL;VOC
+კოლორატურა		N;SG;VOC
+კოლორატურა		N;PL;LGSPEC2;NOM
+კოლორატურა		N;SG;DAT
+კოლორატურა		N;PL;GEN
+დუბლიორი		N;SG;GEN
+დუბლიორი		N;PL;ERG
+დუბლიორი		N;SG;LGSPEC1
+დუბლიორი		N;SG;DAT
+დუბლიორი		N;PL;DAT
+დუბლიორი	დუბლიორთა	N;PL;LGSPEC2;ERG
+დუბლიორი		N;PL;LGSPEC2;DAT
+დუბლიორი		N;SG;NOM
+დუბლიორი		N;PL;LGSPEC2;NOM
+დუბლიორი		N;PL;NOM
+დუბლიორი		N;PL;LGSPEC2;GEN
+დუბლიორი		N;SG;ERG
+დუბლიორი	დუბლიორებად	N;PL;LGSPEC1
+დუბლიორი		N;SG;VOC
+დუბლიორი		N;PL;LGSPEC2;VOC
+დუბლიორი		N;PL;VOC
+დუბლიორი		N;PL;GEN
+დუბლიორი	დუბლიორით	N;SG;INST
+დუბლიორი		N;PL;INST
+კონკორდატი		N;SG;GEN
+კონკორდატი		N;PL;ERG
+კონკორდატი		N;SG;LGSPEC1
+კონკორდატი		N;SG;DAT
+კონკორდატი		N;PL;DAT
+კონკორდატი		N;PL;LGSPEC2;ERG
+კონკორდატი		N;PL;LGSPEC2;DAT
+კონკორდატი		N;SG;NOM
+კონკორდატი		N;PL;LGSPEC2;NOM
+კონკორდატი		N;PL;NOM
+კონკორდატი		N;PL;LGSPEC2;GEN
+კონკორდატი		N;SG;ERG
+კონკორდატი		N;PL;LGSPEC1
+კონკორდატი	კონკორდატო	N;SG;VOC
+კონკორდატი		N;PL;LGSPEC2;VOC
+კონკორდატი	კონკორდატებო	N;PL;VOC
+კონკორდატი		N;PL;GEN
+კონკორდატი		N;SG;INST
+კონკორდატი	კონკორდატებით	N;PL;INST
+ხვლიკი		N;SG;GEN
+ხვლიკი		N;PL;ERG
+ხვლიკი	ხვლიკად	N;SG;LGSPEC1
+ხვლიკი		N;SG;DAT
+ხვლიკი	ხვლიკებს	N;PL;DAT
+ხვლიკი		N;PL;LGSPEC2;ERG
+ხვლიკი	ხვლიკთა	N;PL;LGSPEC2;DAT
+ხვლიკი		N;SG;NOM
+ხვლიკი		N;PL;LGSPEC2;NOM
+ხვლიკი		N;PL;NOM
+ხვლიკი		N;PL;LGSPEC2;GEN
+ხვლიკი		N;SG;ERG
+ხვლიკი		N;PL;LGSPEC1
+ხვლიკი		N;SG;VOC
+ხვლიკი		N;PL;LGSPEC2;VOC
+ხვლიკი		N;PL;VOC
+ხვლიკი		N;PL;GEN
+ხვლიკი		N;SG;INST
+ხვლიკი		N;PL;INST
+მარჯანი	მარჯნის	N;SG;GEN
+მარჯანი		N;PL;ERG
+მარჯანი	მარჯნად	N;SG;LGSPEC1
+მარჯანი		N;PL;DAT
+მარჯანი		N;PL;LGSPEC2;ERG
+მარჯანი		N;PL;LGSPEC2;DAT
+მარჯანი		N;PL;INST
+მარჯანი		N;SG;NOM
+მარჯანი		N;PL;NOM
+მარჯანი		N;PL;LGSPEC2;NOM
+მარჯანი		N;SG;ERG
+მარჯანი		N;PL;LGSPEC1
+მარჯანი		N;SG;INST
+მარჯანი		N;PL;LGSPEC2;VOC
+მარჯანი		N;PL;VOC
+მარჯანი	მარჯანო	N;SG;VOC
+მარჯანი		N;PL;LGSPEC2;GEN
+მარჯანი		N;SG;DAT
+მარჯანი		N;PL;GEN
+ბიუსტჰალტერი		N;SG;GEN
+ბიუსტჰალტერი		N;PL;ERG
+ბიუსტჰალტერი	ბიუსტჰალტრად	N;SG;LGSPEC1
+ბიუსტჰალტერი		N;PL;DAT
+ბიუსტჰალტერი		N;PL;LGSPEC2;ERG
+ბიუსტჰალტერი		N;PL;LGSPEC2;DAT
+ბიუსტჰალტერი		N;PL;INST
+ბიუსტჰალტერი		N;SG;NOM
+ბიუსტჰალტერი		N;PL;NOM
+ბიუსტჰალტერი	ბიუსტჰალტერნი	N;PL;LGSPEC2;NOM
+ბიუსტჰალტერი		N;SG;ERG
+ბიუსტჰალტერი		N;PL;LGSPEC1
+ბიუსტჰალტერი	ბიუსტჰალტრით	N;SG;INST
+ბიუსტჰალტერი		N;PL;LGSPEC2;VOC
+ბიუსტჰალტერი		N;PL;VOC
+ბიუსტჰალტერი		N;SG;VOC
+ბიუსტჰალტერი		N;PL;LGSPEC2;GEN
+ბიუსტჰალტერი		N;SG;DAT
+ბიუსტჰალტერი		N;PL;GEN
+შენობა		N;SG;GEN
+შენობა		N;PL;ERG
+შენობა		N;SG;LGSPEC1
+შენობა		N;PL;DAT
+შენობა		N;PL;LGSPEC2;ERG
+შენობა		N;PL;LGSPEC2;DAT
+შენობა		N;PL;INST
+შენობა		N;SG;NOM
+შენობა	შენობები	N;PL;NOM
+შენობა	შენობათა	N;PL;LGSPEC2;GEN
+შენობა		N;SG;ERG
+შენობა		N;PL;LGSPEC1
+შენობა		N;SG;INST
+შენობა		N;PL;LGSPEC2;VOC
+შენობა		N;PL;VOC
+შენობა		N;SG;VOC
+შენობა		N;PL;LGSPEC2;NOM
+შენობა	შენობას	N;SG;DAT
+შენობა		N;PL;GEN
+ინფორმატორი	ინფორმატორის	N;SG;GEN
+ინფორმატორი		N;PL;ERG
+ინფორმატორი		N;SG;LGSPEC1
+ინფორმატორი	ინფორმატორს	N;SG;DAT
+ინფორმატორი		N;PL;DAT
+ინფორმატორი		N;PL;LGSPEC2;ERG
+ინფორმატორი		N;PL;LGSPEC2;DAT
+ინფორმატორი		N;SG;NOM
+ინფორმატორი		N;PL;LGSPEC2;NOM
+ინფორმატორი		N;PL;NOM
+ინფორმატორი		N;PL;LGSPEC2;GEN
+ინფორმატორი		N;SG;ERG
+ინფორმატორი		N;PL;LGSPEC1
+ინფორმატორი		N;SG;VOC
+ინფორმატორი		N;PL;LGSPEC2;VOC
+ინფორმატორი	ინფორმატორებო	N;PL;VOC
+ინფორმატორი		N;PL;GEN
+ინფორმატორი		N;SG;INST
+ინფორმატორი		N;PL;INST
+დვრიტა	დვრიტის	N;SG;GEN
+დვრიტა		N;PL;ERG
+დვრიტა	დვრიტად	N;SG;LGSPEC1
+დვრიტა		N;PL;DAT
+დვრიტა		N;PL;LGSPEC2;ERG
+დვრიტა		N;PL;LGSPEC2;DAT
+დვრიტა		N;PL;INST
+დვრიტა		N;SG;NOM
+დვრიტა		N;PL;NOM
+დვრიტა		N;PL;LGSPEC2;GEN
+დვრიტა		N;SG;ERG
+დვრიტა		N;PL;LGSPEC1
+დვრიტა		N;SG;INST
+დვრიტა		N;PL;LGSPEC2;VOC
+დვრიტა		N;PL;VOC
+დვრიტა		N;SG;VOC
+დვრიტა	დვრიტანი	N;PL;LGSPEC2;NOM
+დვრიტა		N;SG;DAT
+დვრიტა		N;PL;GEN
+ჭოგრი		N;SG;GEN
+ჭოგრი		N;PL;ERG
+ჭოგრი		N;SG;LGSPEC1
+ჭოგრი	ჭოგრს	N;SG;DAT
+ჭოგრი		N;PL;DAT
+ჭოგრი		N;PL;LGSPEC2;ERG
+ჭოგრი	ჭოგრთა	N;PL;LGSPEC2;DAT
+ჭოგრი		N;SG;NOM
+ჭოგრი		N;PL;LGSPEC2;NOM
+ჭოგრი		N;PL;NOM
+ჭოგრი		N;PL;LGSPEC2;GEN
+ჭოგრი		N;SG;ERG
+ჭოგრი		N;PL;LGSPEC1
+ჭოგრი		N;SG;VOC
+ჭოგრი		N;PL;LGSPEC2;VOC
+ჭოგრი		N;PL;VOC
+ჭოგრი	ჭოგრების	N;PL;GEN
+ჭოგრი		N;SG;INST
+ჭოგრი		N;PL;INST
+არტილერისტი		N;SG;GEN
+არტილერისტი	არტილერისტებმა	N;PL;ERG
+არტილერისტი		N;SG;LGSPEC1
+არტილერისტი		N;SG;DAT
+არტილერისტი		N;PL;DAT
+არტილერისტი		N;PL;LGSPEC2;ERG
+არტილერისტი		N;PL;LGSPEC2;DAT
+არტილერისტი		N;SG;NOM
+არტილერისტი		N;PL;LGSPEC2;NOM
+არტილერისტი		N;PL;NOM
+არტილერისტი		N;PL;LGSPEC2;GEN
+არტილერისტი		N;SG;ERG
+არტილერისტი		N;PL;LGSPEC1
+არტილერისტი		N;SG;VOC
+არტილერისტი		N;PL;LGSPEC2;VOC
+არტილერისტი		N;PL;VOC
+არტილერისტი		N;PL;GEN
+არტილერისტი	არტილერისტით	N;SG;INST
+არტილერისტი	არტილერისტებით	N;PL;INST
+დეკორატორი		N;SG;GEN
+დეკორატორი		N;PL;ERG
+დეკორატორი		N;SG;LGSPEC1
+დეკორატორი		N;SG;DAT
+დეკორატორი		N;PL;DAT
+დეკორატორი		N;PL;LGSPEC2;ERG
+დეკორატორი		N;PL;LGSPEC2;DAT
+დეკორატორი	დეკორატორი	N;SG;NOM
+დეკორატორი	დეკორატორნი	N;PL;LGSPEC2;NOM
+დეკორატორი		N;PL;NOM
+დეკორატორი		N;PL;LGSPEC2;GEN
+დეკორატორი	დეკორატორმა	N;SG;ERG
+დეკორატორი		N;PL;LGSPEC1
+დეკორატორი		N;SG;VOC
+დეკორატორი		N;PL;LGSPEC2;VOC
+დეკორატორი		N;PL;VOC
+დეკორატორი		N;PL;GEN
+დეკორატორი		N;SG;INST
+დეკორატორი		N;PL;INST
+ტრაქეა	ტრაქეის	N;SG;GEN
+ტრაქეა		N;PL;ERG
+ტრაქეა		N;SG;LGSPEC1
+ტრაქეა		N;PL;DAT
+ტრაქეა		N;PL;LGSPEC2;ERG
+ტრაქეა		N;PL;LGSPEC2;DAT
+ტრაქეა		N;PL;INST
+ტრაქეა		N;SG;NOM
+ტრაქეა		N;PL;NOM
+ტრაქეა		N;PL;LGSPEC2;GEN
+ტრაქეა	ტრაქეამ	N;SG;ERG
+ტრაქეა		N;PL;LGSPEC1
+ტრაქეა		N;SG;INST
+ტრაქეა		N;PL;LGSPEC2;VOC
+ტრაქეა		N;PL;VOC
+ტრაქეა		N;SG;VOC
+ტრაქეა		N;PL;LGSPEC2;NOM
+ტრაქეა		N;SG;DAT
+ტრაქეა	ტრაქეების	N;PL;GEN
+რადიო	რადიოს	N;SG;GEN
+რადიო		N;PL;ERG
+რადიო		N;SG;LGSPEC1
+რადიო	რადიოს	N;SG;DAT
+რადიო		N;PL;DAT
+რადიო		N;PL;LGSPEC2;ERG
+რადიო		N;PL;LGSPEC2;DAT
+რადიო		N;SG;NOM
+რადიო		N;SG;VOC
+რადიო		N;PL;NOM
+რადიო		N;PL;LGSPEC2;GEN
+რადიო		N;SG;ERG
+რადიო	რადიოებად	N;PL;LGSPEC1
+რადიო		N;PL;LGSPEC2;NOM
+რადიო		N;PL;VOC
+რადიო		N;PL;GEN
+რადიო		N;SG;INST
+რადიო		N;PL;INST
+რადიო		N;PL;LGSPEC2;VOC
+ეპიდიასკოპი		N;SG;GEN
+ეპიდიასკოპი	ეპიდიასკოპებმა	N;PL;ERG
+ეპიდიასკოპი		N;SG;LGSPEC1
+ეპიდიასკოპი		N;SG;DAT
+ეპიდიასკოპი		N;PL;DAT
+ეპიდიასკოპი	ეპიდიასკოპთა	N;PL;LGSPEC2;ERG
+ეპიდიასკოპი		N;PL;LGSPEC2;DAT
+ეპიდიასკოპი		N;SG;NOM
+ეპიდიასკოპი		N;PL;LGSPEC2;NOM
+ეპიდიასკოპი		N;PL;NOM
+ეპიდიასკოპი	ეპიდიასკოპთა	N;PL;LGSPEC2;GEN
+ეპიდიასკოპი		N;SG;ERG
+ეპიდიასკოპი		N;PL;LGSPEC1
+ეპიდიასკოპი		N;SG;VOC
+ეპიდიასკოპი		N;PL;LGSPEC2;VOC
+ეპიდიასკოპი		N;PL;VOC
+ეპიდიასკოპი		N;PL;GEN
+ეპიდიასკოპი		N;SG;INST
+ეპიდიასკოპი		N;PL;INST
+ტაიფუნი		N;SG;GEN
+ტაიფუნი		N;PL;ERG
+ტაიფუნი	ტაიფუნად	N;SG;LGSPEC1
+ტაიფუნი		N;SG;DAT
+ტაიფუნი		N;PL;DAT
+ტაიფუნი		N;PL;LGSPEC2;ERG
+ტაიფუნი	ტაიფუნთა	N;PL;LGSPEC2;DAT
+ტაიფუნი		N;SG;NOM
+ტაიფუნი		N;PL;LGSPEC2;NOM
+ტაიფუნი		N;PL;NOM
+ტაიფუნი		N;PL;LGSPEC2;GEN
+ტაიფუნი		N;SG;ERG
+ტაიფუნი	ტაიფუნებად	N;PL;LGSPEC1
+ტაიფუნი		N;SG;VOC
+ტაიფუნი		N;PL;LGSPEC2;VOC
+ტაიფუნი		N;PL;VOC
+ტაიფუნი		N;PL;GEN
+ტაიფუნი		N;SG;INST
+ტაიფუნი		N;PL;INST
+მდგომი		ADJ;PL;LGSPEC2;ERG
+მდგომი		ADJ;PL;LGSPEC1
+მდგომი		ADJ;PL;NOM
+მდგომი		ADJ;PL;VOC
+მდგომი		ADJ;SG;LGSPEC1
+მდგომი		ADJ;PL;ERG
+მდგომი		ADJ;PL;INST
+მდგომი		ADJ;SG;VOC
+მდგომი		ADJ;PL;LGSPEC2;GEN
+მდგომი		ADJ;SG;NOM
+მდგომი		ADJ;PL;LGSPEC2;VOC
+მდგომი		ADJ;PL;GEN
+მდგომი		ADJ;PL;LGSPEC2;NOM
+მდგომი		ADJ;SG;GEN
+მდგომი		ADJ;SG;INST
+მდგომი	მდგომს	ADJ;SG;DAT
+მდგომი	მდგომმა	ADJ;SG;ERG
+მდგომი	მდგომებს	ADJ;PL;DAT
+მდგომი		ADJ;PL;LGSPEC2;DAT
+კედარი		N;SG;GEN
+კედარი		N;PL;ERG
+კედარი		N;SG;LGSPEC1
+კედარი		N;PL;DAT
+კედარი		N;PL;LGSPEC2;ERG
+კედარი		N;PL;LGSPEC2;DAT
+კედარი		N;PL;INST
+კედარი		N;SG;NOM
+კედარი		N;PL;NOM
+კედარი		N;PL;LGSPEC2;NOM
+კედარი		N;SG;ERG
+კედარი	კედრებად	N;PL;LGSPEC1
+კედარი		N;SG;INST
+კედარი	კედარნო	N;PL;LGSPEC2;VOC
+კედარი		N;PL;VOC
+კედარი		N;SG;VOC
+კედარი		N;PL;LGSPEC2;GEN
+კედარი		N;SG;DAT
+კედარი	კედრების	N;PL;GEN
+სელაპი		N;SG;GEN
+სელაპი		N;PL;ERG
+სელაპი		N;SG;LGSPEC1
+სელაპი		N;SG;DAT
+სელაპი	სელაპებს	N;PL;DAT
+სელაპი		N;PL;LGSPEC2;ERG
+სელაპი		N;PL;LGSPEC2;DAT
+სელაპი		N;SG;NOM
+სელაპი		N;PL;LGSPEC2;NOM
+სელაპი	სელაპები	N;PL;NOM
+სელაპი		N;PL;LGSPEC2;GEN
+სელაპი		N;SG;ERG
+სელაპი		N;PL;LGSPEC1
+სელაპი		N;SG;VOC
+სელაპი		N;PL;LGSPEC2;VOC
+სელაპი	სელაპებო	N;PL;VOC
+სელაპი		N;PL;GEN
+სელაპი		N;SG;INST
+სელაპი		N;PL;INST
+აწმყო		N;SG;GEN
+აწმყო		N;PL;ERG
+აწმყო		N;SG;LGSPEC1
+აწმყო		N;SG;DAT
+აწმყო		N;PL;DAT
+აწმყო		N;PL;LGSPEC2;ERG
+აწმყო		N;PL;LGSPEC2;DAT
+აწმყო		N;SG;NOM
+აწმყო	აწმყოვ	N;SG;VOC
+აწმყო		N;PL;NOM
+აწმყო		N;PL;LGSPEC2;GEN
+აწმყო		N;SG;ERG
+აწმყო		N;PL;LGSPEC1
+აწმყო		N;PL;LGSPEC2;NOM
+აწმყო		N;PL;VOC
+აწმყო	აწმყოების	N;PL;GEN
+აწმყო		N;SG;INST
+აწმყო	აწმყოებით	N;PL;INST
+აწმყო		N;PL;LGSPEC2;VOC
+პროზა		N;SG;GEN
+პროზა		N;PL;ERG
+პროზა		N;SG;LGSPEC1
+პროზა		N;PL;DAT
+პროზა		N;PL;LGSPEC2;ERG
+პროზა		N;PL;LGSPEC2;DAT
+პროზა	პროზებით	N;PL;INST
+პროზა	პროზა	N;SG;NOM
+პროზა		N;PL;NOM
+პროზა		N;PL;LGSPEC2;GEN
+პროზა		N;SG;ERG
+პროზა		N;PL;LGSPEC1
+პროზა		N;SG;INST
+პროზა		N;PL;LGSPEC2;VOC
+პროზა		N;PL;VOC
+პროზა		N;SG;VOC
+პროზა		N;PL;LGSPEC2;NOM
+პროზა		N;SG;DAT
+პროზა	პროზების	N;PL;GEN
+ჭადარი		N;SG;GEN
+ჭადარი		N;PL;ERG
+ჭადარი		N;SG;LGSPEC1
+ჭადარი		N;PL;DAT
+ჭადარი		N;PL;LGSPEC2;ERG
+ჭადარი		N;PL;LGSPEC2;DAT
+ჭადარი		N;PL;INST
+ჭადარი	ჭადარი	N;SG;NOM
+ჭადარი		N;PL;NOM
+ჭადარი		N;PL;LGSPEC2;NOM
+ჭადარი		N;SG;ERG
+ჭადარი		N;PL;LGSPEC1
+ჭადარი		N;SG;INST
+ჭადარი	ჭადარნო	N;PL;LGSPEC2;VOC
+ჭადარი		N;PL;VOC
+ჭადარი		N;SG;VOC
+ჭადარი		N;PL;LGSPEC2;GEN
+ჭადარი	ჭადარს	N;SG;DAT
+ჭადარი		N;PL;GEN
+ყურუმსაღი		N;SG;GEN
+ყურუმსაღი	ყურუმსაღებმა	N;PL;ERG
+ყურუმსაღი		N;SG;LGSPEC1
+ყურუმსაღი		N;SG;DAT
+ყურუმსაღი		N;PL;DAT
+ყურუმსაღი		N;PL;LGSPEC2;ERG
+ყურუმსაღი		N;PL;LGSPEC2;DAT
+ყურუმსაღი		N;SG;NOM
+ყურუმსაღი		N;PL;LGSPEC2;NOM
+ყურუმსაღი		N;PL;NOM
+ყურუმსაღი		N;PL;LGSPEC2;GEN
+ყურუმსაღი		N;SG;ERG
+ყურუმსაღი		N;PL;LGSPEC1
+ყურუმსაღი		N;SG;VOC
+ყურუმსაღი		N;PL;LGSPEC2;VOC
+ყურუმსაღი		N;PL;VOC
+ყურუმსაღი	ყურუმსაღების	N;PL;GEN
+ყურუმსაღი	ყურუმსაღით	N;SG;INST
+ყურუმსაღი		N;PL;INST
+ცეცხლფარეში		N;SG;GEN
+ცეცხლფარეში		N;PL;ERG
+ცეცხლფარეში		N;SG;LGSPEC1
+ცეცხლფარეში		N;SG;DAT
+ცეცხლფარეში	ცეცხლფარეშებს	N;PL;DAT
+ცეცხლფარეში		N;PL;LGSPEC2;ERG
+ცეცხლფარეში		N;PL;LGSPEC2;DAT
+ცეცხლფარეში		N;SG;NOM
+ცეცხლფარეში		N;PL;LGSPEC2;NOM
+ცეცხლფარეში		N;PL;NOM
+ცეცხლფარეში		N;PL;LGSPEC2;GEN
+ცეცხლფარეში		N;SG;ERG
+ცეცხლფარეში	ცეცხლფარეშებად	N;PL;LGSPEC1
+ცეცხლფარეში	ცეცხლფარეშო	N;SG;VOC
+ცეცხლფარეში		N;PL;LGSPEC2;VOC
+ცეცხლფარეში		N;PL;VOC
+ცეცხლფარეში		N;PL;GEN
+ცეცხლფარეში		N;SG;INST
+ცეცხლფარეში		N;PL;INST
+უშვებს		V;2;PL;IND;PST;PFV
+უშვებს		V;3;PL;IND;PST;PFV
+უშვებს	გავუშვებდით	V;1;PL;COND
+უშვებს		V;3;PL;IND;IPFV
+უშვებს		V;3;PL;IND;PST;PRF
+უშვებს	გაუშვებენ	V;3;PL;IND;FUT
+უშვებს		V;2;PL;OPT
+უშვებს		V;3;SG;COND
+უშვებს		V;1;PL;IND;PST;PFV
+უშვებს		V;3;SG;SBJV;PRF
+უშვებს		V;2;PL;IND;PRS
+უშვებს		V;1;PL;SBJV;FUT
+უშვებს		V;1;PL;OPT
+უშვებს		V;3;PL;IND;PRS
+უშვებს		V;1;PL;IND;FUT
+უშვებს		V;3;SG;IND;IPFV
+უშვებს		V;2;SG;IND;PST;PRF
+უშვებს		V;3;SG;SBJV;PRS
+უშვებს		V;3;PL;SBJV;FUT
+უშვებს	გაუშვებდით	V;2;PL;COND
+უშვებს		V;1;PL;IND;IPFV
+უშვებს	გაგვეშვო	V;1;PL;IND;PST;PRF
+უშვებს		V;1;SG;SBJV;PRS
+უშვებს	გავუშვებ	V;1;SG;IND;FUT
+უშვებს	გაუშვია	V;3;PL;IND;PRF
+უშვებს		V;1;SG;IND;PRS
+უშვებს	გაგიშვია	V;2;PL;IND;PRF
+უშვებს		V;1;SG;OPT
+უშვებს		V;1;SG;IND;IPFV
+უშვებს		V;2;SG;IMP
+უშვებს		V;1;SG;COND
+უშვებს		V;2;SG;COND
+უშვებს		V;1;SG;SBJV;PRF
+უშვებს		V;3;SG;IND;PST;PRF
+უშვებს		V;1;PL;SBJV;PRS
+უშვებს		V;2;SG;IND;PST;PFV
+უშვებს		V;V.MSDR;IPFV
+უშვებს		V;1;SG;IND;PRF
+უშვებს		V;3;SG;IND;PRS
+უშვებს		V;2;PL;IMP
+უშვებს		V;2;PL;SBJV;FUT
+უშვებს	გაუშვებ	V;2;SG;IND;FUT
+უშვებს		V;2;SG;IND;PRF
+უშვებს		V;3;SG;IND;PRF
+უშვებს		V;2;PL;IND;FUT
+უშვებს		V;3;SG;IND;PST;PFV
+უშვებს	გავუშვებდე	V;1;SG;SBJV;FUT
+უშვებს		V;2;SG;SBJV;FUT
+უშვებს		V;2;SG;IND;PRS
+უშვებს		V;2;PL;SBJV;PRF
+უშვებს		V;2;PL;SBJV;PRS
+უშვებს		V;2;PL;IND;PST;PRF
+უშვებს		V;V.MSDR;PRF
+უშვებს		V;1;SG;IND;PST;PRF
+უშვებს		V;1;PL;SBJV;PRF
+უშვებს	უშვებდი	V;2;SG;IND;IPFV
+უშვებს		V;1;PL;IND;PRF
+უშვებს	გაუშვებდნენ	V;3;PL;COND
+უშვებს		V;2;SG;SBJV;PRF
+უშვებს		V;2;SG;SBJV;PRS
+უშვებს		V;3;PL;SBJV;PRS
+უშვებს		V;1;PL;IND;PRS
+უშვებს	გავუშვათ	V;1;PL;IMP
+უშვებს		V;2;SG;OPT
+უშვებს		V;3;PL;OPT
+უშვებს	უშვებდით	V;2;PL;IND;IPFV
+უშვებს		V;3;SG;SBJV;FUT
+უშვებს		V;3;SG;OPT
+უშვებს		V;3;PL;SBJV;PRF
+უშვებს		V;1;SG;IND;PST;PFV
+უშვებს		V;3;SG;IND;FUT
+გარემოება		N;SG;GEN
+გარემოება		N;PL;ERG
+გარემოება		N;SG;LGSPEC1
+გარემოება	გარემოებებს	N;PL;DAT
+გარემოება		N;PL;LGSPEC2;ERG
+გარემოება		N;PL;LGSPEC2;DAT
+გარემოება		N;PL;INST
+გარემოება		N;SG;NOM
+გარემოება		N;PL;NOM
+გარემოება		N;PL;LGSPEC2;GEN
+გარემოება		N;SG;ERG
+გარემოება		N;PL;LGSPEC1
+გარემოება	გარემოებით	N;SG;INST
+გარემოება		N;PL;LGSPEC2;VOC
+გარემოება		N;PL;VOC
+გარემოება	გარემოებავ	N;SG;VOC
+გარემოება		N;PL;LGSPEC2;NOM
+გარემოება		N;SG;DAT
+გარემოება		N;PL;GEN
+იაგუარი		N;SG;GEN
+იაგუარი		N;PL;ERG
+იაგუარი		N;SG;LGSPEC1
+იაგუარი		N;SG;DAT
+იაგუარი		N;PL;DAT
+იაგუარი		N;PL;LGSPEC2;ERG
+იაგუარი		N;PL;LGSPEC2;DAT
+იაგუარი	იაგუარი	N;SG;NOM
+იაგუარი		N;PL;LGSPEC2;NOM
+იაგუარი		N;PL;NOM
+იაგუარი		N;PL;LGSPEC2;GEN
+იაგუარი	იაგუარმა	N;SG;ERG
+იაგუარი		N;PL;LGSPEC1
+იაგუარი		N;SG;VOC
+იაგუარი		N;PL;LGSPEC2;VOC
+იაგუარი		N;PL;VOC
+იაგუარი		N;PL;GEN
+იაგუარი	იაგუარით	N;SG;INST
+იაგუარი		N;PL;INST
+თრთვილი		N;SG;GEN
+თრთვილი	თრთვილებმა	N;PL;ERG
+თრთვილი		N;SG;LGSPEC1
+თრთვილი		N;SG;DAT
+თრთვილი		N;PL;DAT
+თრთვილი		N;PL;LGSPEC2;ERG
+თრთვილი	თრთვილთა	N;PL;LGSPEC2;DAT
+თრთვილი		N;SG;NOM
+თრთვილი		N;PL;LGSPEC2;NOM
+თრთვილი		N;PL;NOM
+თრთვილი		N;PL;LGSPEC2;GEN
+თრთვილი		N;SG;ERG
+თრთვილი		N;PL;LGSPEC1
+თრთვილი		N;SG;VOC
+თრთვილი		N;PL;LGSPEC2;VOC
+თრთვილი	თრთვილებო	N;PL;VOC
+თრთვილი		N;PL;GEN
+თრთვილი		N;SG;INST
+თრთვილი		N;PL;INST
+სპაგეტი		N;SG;GEN
+სპაგეტი		N;PL;ERG
+სპაგეტი		N;SG;LGSPEC1
+სპაგეტი		N;SG;DAT
+სპაგეტი		N;PL;DAT
+სპაგეტი		N;PL;LGSPEC2;ERG
+სპაგეტი	სპაგეტთა	N;PL;LGSPEC2;DAT
+სპაგეტი		N;SG;NOM
+სპაგეტი	სპაგეტნი	N;PL;LGSPEC2;NOM
+სპაგეტი	სპაგეტები	N;PL;NOM
+სპაგეტი		N;PL;LGSPEC2;GEN
+სპაგეტი		N;SG;ERG
+სპაგეტი		N;PL;LGSPEC1
+სპაგეტი		N;SG;VOC
+სპაგეტი		N;PL;LGSPEC2;VOC
+სპაგეტი		N;PL;VOC
+სპაგეტი		N;PL;GEN
+სპაგეტი		N;SG;INST
+სპაგეტი		N;PL;INST
+პორტალი		N;SG;GEN
+პორტალი		N;PL;ERG
+პორტალი		N;SG;LGSPEC1
+პორტალი	პორტალს	N;SG;DAT
+პორტალი		N;PL;DAT
+პორტალი		N;PL;LGSPEC2;ERG
+პორტალი		N;PL;LGSPEC2;DAT
+პორტალი		N;SG;NOM
+პორტალი	პორტალნი	N;PL;LGSPEC2;NOM
+პორტალი	პორტალები	N;PL;NOM
+პორტალი		N;PL;LGSPEC2;GEN
+პორტალი		N;SG;ERG
+პორტალი		N;PL;LGSPEC1
+პორტალი		N;SG;VOC
+პორტალი		N;PL;LGSPEC2;VOC
+პორტალი		N;PL;VOC
+პორტალი		N;PL;GEN
+პორტალი		N;SG;INST
+პორტალი		N;PL;INST
+ქვრივი		N;SG;GEN
+ქვრივი		N;PL;ERG
+ქვრივი		N;SG;LGSPEC1
+ქვრივი	ქვრივს	N;SG;DAT
+ქვრივი		N;PL;DAT
+ქვრივი		N;PL;LGSPEC2;ERG
+ქვრივი		N;PL;LGSPEC2;DAT
+ქვრივი	ქვრივი	N;SG;NOM
+ქვრივი		N;PL;LGSPEC2;NOM
+ქვრივი		N;PL;NOM
+ქვრივი		N;PL;LGSPEC2;GEN
+ქვრივი		N;SG;ERG
+ქვრივი		N;PL;LGSPEC1
+ქვრივი		N;SG;VOC
+ქვრივი		N;PL;LGSPEC2;VOC
+ქვრივი		N;PL;VOC
+ქვრივი	ქვრივების	N;PL;GEN
+ქვრივი		N;SG;INST
+ქვრივი		N;PL;INST
+ლაფეტი		N;SG;GEN
+ლაფეტი		N;PL;ERG
+ლაფეტი		N;SG;LGSPEC1
+ლაფეტი	ლაფეტს	N;SG;DAT
+ლაფეტი		N;PL;DAT
+ლაფეტი		N;PL;LGSPEC2;ERG
+ლაფეტი		N;PL;LGSPEC2;DAT
+ლაფეტი		N;SG;NOM
+ლაფეტი	ლაფეტნი	N;PL;LGSPEC2;NOM
+ლაფეტი	ლაფეტები	N;PL;NOM
+ლაფეტი		N;PL;LGSPEC2;GEN
+ლაფეტი		N;SG;ERG
+ლაფეტი		N;PL;LGSPEC1
+ლაფეტი		N;SG;VOC
+ლაფეტი		N;PL;LGSPEC2;VOC
+ლაფეტი		N;PL;VOC
+ლაფეტი		N;PL;GEN
+ლაფეტი		N;SG;INST
+ლაფეტი		N;PL;INST
+ბუღალტერი		N;SG;GEN
+ბუღალტერი	ბუღალტრებმა	N;PL;ERG
+ბუღალტერი		N;SG;LGSPEC1
+ბუღალტერი		N;PL;DAT
+ბუღალტერი		N;PL;LGSPEC2;ERG
+ბუღალტერი	ბუღალტერთა	N;PL;LGSPEC2;DAT
+ბუღალტერი		N;PL;INST
+ბუღალტერი		N;SG;NOM
+ბუღალტერი		N;PL;NOM
+ბუღალტერი		N;PL;LGSPEC2;NOM
+ბუღალტერი		N;SG;ERG
+ბუღალტერი		N;PL;LGSPEC1
+ბუღალტერი		N;SG;INST
+ბუღალტერი		N;PL;LGSPEC2;VOC
+ბუღალტერი		N;PL;VOC
+ბუღალტერი		N;SG;VOC
+ბუღალტერი		N;PL;LGSPEC2;GEN
+ბუღალტერი		N;SG;DAT
+ბუღალტერი	ბუღალტრების	N;PL;GEN

@@ -1,0 +1,737 @@
+учитель		N;NOM;PL
+учитель	учителів	N;GEN;PL
+учитель		N;NOM;SG
+учитель		N;INS;PL
+учитель		N;ESS;PL
+учитель		N;ESS;SG
+учитель		N;VOC;SG
+учитель		N;GEN;SG
+учитель	учителем	N;INS;SG
+учитель		N;DAT;SG
+учитель		N;ACC;PL
+учитель		N;ACC;SG
+учитель		N;VOC;PL
+учитель		N;DAT;PL
+акція		N;VOC;SG
+акція		N;NOM;PL
+акція		N;GEN;SG
+акція		N;GEN;PL
+акція		N;INS;PL
+акція		N;ESS;PL
+акція		N;ESS;SG
+акція		N;NOM;SG
+акція	акцією	N;INS;SG
+акція		N;DAT;SG
+акція		N;ACC;PL
+акція		N;ACC;SG
+акція		N;VOC;PL
+акція	акціям	N;DAT;PL
+купа		N;GEN;PL
+купа	купи	N;NOM;PL
+купа		N;NOM;SG
+купа		N;INS;PL
+купа		N;ESS;PL
+купа		N;ESS;SG
+купа	купо	N;VOC;SG
+купа		N;GEN;SG
+купа		N;INS;SG
+купа		N;DAT;SG
+купа		N;ACC;PL
+купа		N;ACC;SG
+купа		N;VOC;PL
+купа		N;DAT;PL
+березень	березні	N;NOM;PL
+березень		N;GEN;PL
+березень		N;NOM;SG
+березень		N;INS;PL
+березень		N;ESS;PL
+березень		N;ESS;SG
+березень		N;VOC;SG
+березень		N;GEN;SG
+березень		N;INS;SG
+березень	березню	N;DAT;SG
+березень		N;ACC;PL
+березень		N;ACC;SG
+березень		N;VOC;PL
+березень		N;DAT;PL
+мілина		N;GEN;PL
+мілина		N;NOM;PL
+мілина		N;NOM;SG
+мілина		N;INS;PL
+мілина		N;ESS;PL
+мілина	мілині	N;ESS;SG
+мілина	мілино	N;VOC;SG
+мілина		N;GEN;SG
+мілина		N;INS;SG
+мілина		N;DAT;SG
+мілина		N;ACC;PL
+мілина		N;ACC;SG
+мілина		N;VOC;PL
+мілина		N;DAT;PL
+відмінок		N;NOM;PL
+відмінок		N;GEN;PL
+відмінок		N;GEN;SG
+відмінок		N;INS;PL
+відмінок		N;ESS;PL
+відмінок		N;ESS;SG
+відмінок		N;VOC;SG
+відмінок		N;NOM;SG
+відмінок		N;INS;SG
+відмінок	відмінку	N;DAT;SG
+відмінок		N;ACC;PL
+відмінок		N;ACC;SG
+відмінок		N;VOC;PL
+відмінок	відмінкам	N;DAT;PL
+журналіст		N;VOC;SG
+журналіст		N;NOM;PL
+журналіст		N;GEN;SG
+журналіст	журналістів	N;GEN;PL
+журналіст		N;INS;PL
+журналіст		N;ESS;PL
+журналіст		N;ESS;SG
+журналіст		N;NOM;SG
+журналіст		N;INS;SG
+журналіст	журналістові	N;DAT;SG
+журналіст		N;ACC;PL
+журналіст		N;ACC;SG
+журналіст		N;VOC;PL
+журналіст		N;DAT;PL
+риба		N;GEN;PL
+риба		N;NOM;PL
+риба		N;NOM;SG
+риба		N;INS;PL
+риба		N;ESS;PL
+риба		N;ESS;SG
+риба		N;VOC;SG
+риба		N;GEN;SG
+риба		N;INS;SG
+риба	рибі	N;DAT;SG
+риба		N;ACC;PL
+риба		N;ACC;SG
+риба		N;VOC;PL
+риба	рибам	N;DAT;PL
+механік		N;NOM;PL
+механік		N;GEN;PL
+механік	механіка	N;GEN;SG
+механік		N;INS;PL
+механік		N;ESS;PL
+механік		N;ESS;SG
+механік		N;VOC;SG
+механік		N;NOM;SG
+механік		N;INS;SG
+механік		N;DAT;SG
+механік	механіків	N;ACC;PL
+механік		N;ACC;SG
+механік		N;VOC;PL
+механік		N;DAT;PL
+шия		N;VOC;SG
+шия		N;NOM;PL
+шия	шиї	N;GEN;SG
+шия		N;GEN;PL
+шия		N;INS;PL
+шия		N;ESS;PL
+шия		N;ESS;SG
+шия		N;NOM;SG
+шия		N;INS;SG
+шия		N;DAT;SG
+шия		N;ACC;PL
+шия	шию	N;ACC;SG
+шия		N;VOC;PL
+шия		N;DAT;PL
+реформа		N;GEN;PL
+реформа		N;NOM;PL
+реформа		N;NOM;SG
+реформа		N;INS;PL
+реформа	реформах	N;ESS;PL
+реформа	реформі	N;ESS;SG
+реформа		N;VOC;SG
+реформа		N;GEN;SG
+реформа		N;INS;SG
+реформа		N;DAT;SG
+реформа		N;ACC;PL
+реформа		N;ACC;SG
+реформа		N;VOC;PL
+реформа		N;DAT;PL
+умова		N;GEN;PL
+умова		N;NOM;PL
+умова		N;NOM;SG
+умова	умовами	N;INS;PL
+умова		N;ESS;PL
+умова		N;ESS;SG
+умова		N;VOC;SG
+умова		N;GEN;SG
+умова		N;INS;SG
+умова		N;DAT;SG
+умова	умови	N;ACC;PL
+умова		N;ACC;SG
+умова		N;VOC;PL
+умова		N;DAT;PL
+втрата		N;GEN;PL
+втрата		N;NOM;PL
+втрата		N;NOM;SG
+втрата		N;INS;PL
+втрата		N;ESS;PL
+втрата	втраті	N;ESS;SG
+втрата		N;VOC;SG
+втрата		N;GEN;SG
+втрата		N;INS;SG
+втрата		N;DAT;SG
+втрата		N;ACC;PL
+втрата	втрату	N;ACC;SG
+втрата		N;VOC;PL
+втрата		N;DAT;PL
+трава		N;GEN;PL
+трава		N;NOM;PL
+трава		N;NOM;SG
+трава		N;INS;PL
+трава	травах	N;ESS;PL
+трава		N;ESS;SG
+трава		N;VOC;SG
+трава		N;GEN;SG
+трава		N;INS;SG
+трава		N;DAT;SG
+трава		N;ACC;PL
+трава	траву	N;ACC;SG
+трава		N;VOC;PL
+трава		N;DAT;PL
+технологія		N;VOC;SG
+технологія		N;NOM;PL
+технологія		N;GEN;SG
+технологія		N;GEN;PL
+технологія	технологіями	N;INS;PL
+технологія		N;ESS;PL
+технологія		N;ESS;SG
+технологія		N;NOM;SG
+технологія		N;INS;SG
+технологія		N;DAT;SG
+технологія		N;ACC;PL
+технологія		N;ACC;SG
+технологія		N;VOC;PL
+технологія	технологіям	N;DAT;PL
+носити		V.PTCP;PASS;PST
+носити		V;FUT;2;PL
+носити		V;PRS;2;PL
+носити		V;FUT;3;SG
+носити		V.PTCP;ACT;PRS
+носити	буду носити	V;FUT;1;SG
+носити		V;IMP;2;SG
+носити		V;PRS;3;SG
+носити		V;PST;FEM;SG
+носити	ношу	V;PRS;1;SG
+носити		V;PST;MASC;SG
+носити		V;FUT;3;PL
+носити		V;FUT;2;SG
+носити		V;PST;PL
+носити		V.PTCP;ACT;PST
+носити	носиш	V;PRS;2;SG
+носити		V;IMP;2;PL
+носити		V;NFIN
+носити		V;PRS;3;PL
+носити	носило	V;PST;NEUT;SG
+носити		V;FUT;1;PL
+носити		V;PRS;1;PL
+носити		V;IMP;1;PL
+черга	черг	N;GEN;PL
+черга		N;NOM;PL
+черга		N;NOM;SG
+черга		N;INS;PL
+черга	чергах	N;ESS;PL
+черга		N;ESS;SG
+черга		N;VOC;SG
+черга		N;GEN;SG
+черга		N;INS;SG
+черга		N;DAT;SG
+черга		N;ACC;PL
+черга		N;ACC;SG
+черга		N;VOC;PL
+черга		N;DAT;PL
+бити		V.PTCP;PASS;PST
+бити		V;FUT;2;PL
+бити		V.CVB;PST
+бити	б’єте	V;PRS;2;PL
+бити		V;FUT;3;SG
+бити		V.PTCP;ACT;PRS
+бити	буду бити	V;FUT;1;SG
+бити		V;IMP;2;SG
+бити		V;PRS;3;SG
+бити		V;PST;FEM;SG
+бити		V;PRS;1;SG
+бити		V;PST;MASC;SG
+бити		V;FUT;3;PL
+бити		V;FUT;2;SG
+бити		V;PST;PL
+бити		V.CVB;PRS
+бити	бивший	V.PTCP;ACT;PST
+бити	б’єш	V;PRS;2;SG
+бити		V;IMP;2;PL
+бити		V;NFIN
+бити		V;PRS;3;PL
+бити		V;PST;NEUT;SG
+бити		V;FUT;1;PL
+бити		V;PRS;1;PL
+бити		V;IMP;1;PL
+гітара		N;GEN;PL
+гітара		N;NOM;PL
+гітара	гітара	N;NOM;SG
+гітара		N;INS;PL
+гітара		N;ESS;PL
+гітара		N;ESS;SG
+гітара		N;VOC;SG
+гітара		N;GEN;SG
+гітара	гітарою	N;INS;SG
+гітара		N;DAT;SG
+гітара		N;ACC;PL
+гітара		N;ACC;SG
+гітара		N;VOC;PL
+гітара		N;DAT;PL
+пошук		N;NOM;PL
+пошук		N;GEN;PL
+пошук		N;NOM;SG
+пошук	пошуками	N;INS;PL
+пошук		N;ESS;PL
+пошук		N;ESS;SG
+пошук		N;VOC;SG
+пошук		N;GEN;SG
+пошук		N;INS;SG
+пошук	пошуку	N;DAT;SG
+пошук		N;ACC;PL
+пошук		N;ACC;SG
+пошук		N;VOC;PL
+пошук		N;DAT;PL
+поляк	поляки	N;NOM;PL
+поляк		N;GEN;PL
+поляк		N;GEN;SG
+поляк		N;INS;PL
+поляк	поляках	N;ESS;PL
+поляк		N;ESS;SG
+поляк		N;VOC;SG
+поляк		N;NOM;SG
+поляк		N;INS;SG
+поляк		N;DAT;SG
+поляк		N;ACC;PL
+поляк		N;ACC;SG
+поляк		N;VOC;PL
+поляк		N;DAT;PL
+сусід		N;VOC;SG
+сусід		N;NOM;PL
+сусід	сусіда	N;GEN;SG
+сусід		N;GEN;PL
+сусід	сусідами	N;INS;PL
+сусід		N;ESS;PL
+сусід		N;ESS;SG
+сусід		N;NOM;SG
+сусід		N;INS;SG
+сусід		N;DAT;SG
+сусід		N;ACC;PL
+сусід		N;ACC;SG
+сусід		N;VOC;PL
+сусід		N;DAT;PL
+нога		N;GEN;PL
+нога		N;NOM;PL
+нога		N;NOM;SG
+нога		N;INS;PL
+нога		N;ESS;PL
+нога		N;ESS;SG
+нога		N;VOC;SG
+нога		N;GEN;SG
+нога	ногою	N;INS;SG
+нога	нозі	N;DAT;SG
+нога		N;ACC;PL
+нога		N;ACC;SG
+нога		N;VOC;PL
+нога		N;DAT;PL
+вантажівка		N;NOM;PL
+вантажівка	вантажівко	N;VOC;SG
+вантажівка		N;NOM;SG
+вантажівка	вантажівок	N;GEN;PL
+вантажівка		N;INS;PL
+вантажівка		N;ESS;PL
+вантажівка		N;ESS;SG
+вантажівка		N;GEN;SG
+вантажівка		N;INS;SG
+вантажівка		N;DAT;SG
+вантажівка		N;ACC;PL
+вантажівка		N;ACC;SG
+вантажівка		N;VOC;PL
+вантажівка		N;DAT;PL
+американець		N;NOM;PL
+американець		N;GEN;PL
+американець	американець	N;NOM;SG
+американець		N;INS;PL
+американець		N;ESS;PL
+американець		N;ESS;SG
+американець		N;VOC;SG
+американець		N;GEN;SG
+американець		N;INS;SG
+американець	американцеві	N;DAT;SG
+американець		N;ACC;PL
+американець		N;ACC;SG
+американець		N;VOC;PL
+американець		N;DAT;PL
+щука		N;GEN;PL
+щука		N;NOM;PL
+щука		N;NOM;SG
+щука		N;INS;PL
+щука		N;ESS;PL
+щука		N;ESS;SG
+щука		N;VOC;SG
+щука	щуки	N;GEN;SG
+щука		N;INS;SG
+щука		N;DAT;SG
+щука		N;ACC;PL
+щука		N;ACC;SG
+щука		N;VOC;PL
+щука	щукам	N;DAT;PL
+тіло	тіл	N;GEN;PL
+тіло		N;NOM;PL
+тіло		N;GEN;SG
+тіло		N;INS;PL
+тіло		N;ESS;PL
+тіло		N;ESS;SG
+тіло		N;VOC;SG
+тіло		N;NOM;SG
+тіло	тілом	N;INS;SG
+тіло		N;DAT;SG
+тіло		N;ACC;PL
+тіло		N;ACC;SG
+тіло		N;VOC;PL
+тіло		N;DAT;PL
+розмова		N;GEN;PL
+розмова		N;NOM;PL
+розмова	розмова	N;NOM;SG
+розмова		N;INS;PL
+розмова		N;ESS;PL
+розмова		N;ESS;SG
+розмова	розмово	N;VOC;SG
+розмова		N;GEN;SG
+розмова		N;INS;SG
+розмова		N;DAT;SG
+розмова		N;ACC;PL
+розмова		N;ACC;SG
+розмова		N;VOC;PL
+розмова		N;DAT;PL
+небезпека		N;GEN;PL
+небезпека		N;NOM;PL
+небезпека		N;NOM;SG
+небезпека		N;INS;PL
+небезпека		N;ESS;PL
+небезпека		N;ESS;SG
+небезпека		N;VOC;SG
+небезпека		N;GEN;SG
+небезпека	небезпекою	N;INS;SG
+небезпека		N;DAT;SG
+небезпека		N;ACC;PL
+небезпека	небезпеку	N;ACC;SG
+небезпека		N;VOC;PL
+небезпека		N;DAT;PL
+вчитель		N;NOM;PL
+вчитель		N;GEN;PL
+вчитель		N;NOM;SG
+вчитель		N;INS;PL
+вчитель		N;ESS;PL
+вчитель		N;ESS;SG
+вчитель		N;VOC;SG
+вчитель		N;GEN;SG
+вчитель		N;INS;SG
+вчитель		N;DAT;SG
+вчитель		N;ACC;PL
+вчитель	вчителя	N;ACC;SG
+вчитель		N;VOC;PL
+вчитель	вчителям	N;DAT;PL
+рій		N;NOM;PL
+рій		N;GEN;PL
+рій	рій	N;NOM;SG
+рій		N;INS;PL
+рій		N;ESS;PL
+рій		N;ESS;SG
+рій		N;VOC;SG
+рій		N;GEN;SG
+рій		N;INS;SG
+рій		N;DAT;SG
+рій		N;ACC;PL
+рій	рій	N;ACC;SG
+рій		N;VOC;PL
+рій		N;DAT;PL
+казати		V.PTCP;PASS;PST
+казати		V;FUT;2;PL
+казати		V.CVB;PST
+казати	кажете	V;PRS;2;PL
+казати		V;FUT;3;SG
+казати		V;FUT;1;SG
+казати		V;IMP;2;SG
+казати		V;PRS;3;SG
+казати		V;PST;FEM;SG
+казати	кажу	V;PRS;1;SG
+казати		V;PST;MASC;SG
+казати		V;FUT;3;PL
+казати		V;FUT;2;SG
+казати		V;PST;PL
+казати		V.CVB;PRS
+казати		V;PRS;2;SG
+казати		V;IMP;2;PL
+казати		V;NFIN
+казати	кажуть	V;PRS;3;PL
+казати		V;PST;NEUT;SG
+казати		V;FUT;1;PL
+казати		V;PRS;1;PL
+казати	кажімо	V;IMP;1;PL
+ловелас	ловеласе	N;VOC;SG
+ловелас		N;NOM;PL
+ловелас	ловеласа	N;GEN;SG
+ловелас		N;GEN;PL
+ловелас		N;INS;PL
+ловелас		N;ESS;PL
+ловелас		N;ESS;SG
+ловелас		N;NOM;SG
+ловелас		N;INS;SG
+ловелас		N;DAT;SG
+ловелас		N;ACC;PL
+ловелас		N;ACC;SG
+ловелас		N;VOC;PL
+ловелас		N;DAT;PL
+робот		N;VOC;SG
+робот		N;NOM;PL
+робот	робота	N;GEN;SG
+робот		N;GEN;PL
+робот		N;INS;PL
+робот		N;ESS;PL
+робот		N;ESS;SG
+робот		N;NOM;SG
+робот	роботом	N;INS;SG
+робот		N;DAT;SG
+робот		N;ACC;PL
+робот		N;ACC;SG
+робот		N;VOC;PL
+робот		N;DAT;PL
+економіка		N;GEN;PL
+економіка		N;NOM;PL
+економіка		N;NOM;SG
+економіка		N;INS;PL
+економіка		N;ESS;PL
+економіка		N;ESS;SG
+економіка		N;VOC;SG
+економіка		N;GEN;SG
+економіка		N;INS;SG
+економіка		N;DAT;SG
+економіка		N;ACC;PL
+економіка	економіку	N;ACC;SG
+економіка		N;VOC;PL
+економіка	економікам	N;DAT;PL
+квітень		N;NOM;PL
+квітень		N;GEN;PL
+квітень		N;NOM;SG
+квітень		N;INS;PL
+квітень		N;ESS;PL
+квітень		N;ESS;SG
+квітень		N;VOC;SG
+квітень		N;GEN;SG
+квітень		N;INS;SG
+квітень		N;DAT;SG
+квітень	квітні	N;ACC;PL
+квітень		N;ACC;SG
+квітень		N;VOC;PL
+квітень	квітням	N;DAT;PL
+асоціація		N;VOC;SG
+асоціація		N;NOM;PL
+асоціація		N;GEN;SG
+асоціація		N;GEN;PL
+асоціація		N;INS;PL
+асоціація		N;ESS;PL
+асоціація		N;ESS;SG
+асоціація		N;NOM;SG
+асоціація	асоціацією	N;INS;SG
+асоціація		N;DAT;SG
+асоціація	асоціації	N;ACC;PL
+асоціація		N;ACC;SG
+асоціація		N;VOC;PL
+асоціація		N;DAT;PL
+потреба		N;GEN;PL
+потреба		N;NOM;PL
+потреба		N;NOM;SG
+потреба	потребами	N;INS;PL
+потреба		N;ESS;PL
+потреба		N;ESS;SG
+потреба		N;VOC;SG
+потреба		N;GEN;SG
+потреба		N;INS;SG
+потреба		N;DAT;SG
+потреба		N;ACC;PL
+потреба	потребу	N;ACC;SG
+потреба		N;VOC;PL
+потреба		N;DAT;PL
+тиждень		N;NOM;PL
+тиждень		N;GEN;PL
+тиждень		N;NOM;SG
+тиждень		N;INS;PL
+тиждень	тижнях	N;ESS;PL
+тиждень		N;ESS;SG
+тиждень		N;VOC;SG
+тиждень		N;GEN;SG
+тиждень	тижнем	N;INS;SG
+тиждень		N;DAT;SG
+тиждень		N;ACC;PL
+тиждень		N;ACC;SG
+тиждень		N;VOC;PL
+тиждень		N;DAT;PL
+отець		N;NOM;PL
+отець		N;GEN;PL
+отець	отець	N;NOM;SG
+отець	отцями	N;INS;PL
+отець		N;ESS;PL
+отець		N;ESS;SG
+отець		N;VOC;SG
+отець		N;GEN;SG
+отець		N;INS;SG
+отець		N;DAT;SG
+отець		N;ACC;PL
+отець		N;ACC;SG
+отець		N;VOC;PL
+отець		N;DAT;PL
+мозок	мізки	N;NOM;PL
+мозок		N;GEN;PL
+мозок		N;GEN;SG
+мозок		N;INS;PL
+мозок		N;ESS;PL
+мозок		N;ESS;SG
+мозок		N;VOC;SG
+мозок	мозок	N;NOM;SG
+мозок		N;INS;SG
+мозок		N;DAT;SG
+мозок		N;ACC;PL
+мозок		N;ACC;SG
+мозок		N;VOC;PL
+мозок		N;DAT;PL
+підручник		N;NOM;PL
+підручник		N;GEN;PL
+підручник		N;GEN;SG
+підручник	підручниками	N;INS;PL
+підручник		N;ESS;PL
+підручник		N;ESS;SG
+підручник		N;VOC;SG
+підручник		N;NOM;SG
+підручник		N;INS;SG
+підручник		N;DAT;SG
+підручник		N;ACC;PL
+підручник		N;ACC;SG
+підручник		N;VOC;PL
+підручник	підручникам	N;DAT;PL
+хворий		N;VOC;SG
+хворий		N;GEN;PL
+хворий		N;NOM;SG
+хворий		N;VOC;PL
+хворий	хворими	N;INS;PL
+хворий	хворих	N;ESS;PL
+хворий		N;ESS;SG
+хворий		N;GEN;SG
+хворий		N;INS;SG
+хворий		N;DAT;SG
+хворий		N;ACC;PL
+хворий		N;ACC;SG
+хворий		N;NOM;PL
+хворий		N;DAT;PL
+причина		N;GEN;PL
+причина		N;NOM;PL
+причина	причина	N;NOM;SG
+причина		N;INS;PL
+причина		N;ESS;PL
+причина		N;ESS;SG
+причина		N;VOC;SG
+причина		N;GEN;SG
+причина		N;INS;SG
+причина		N;DAT;SG
+причина	причини	N;ACC;PL
+причина		N;ACC;SG
+причина		N;VOC;PL
+причина		N;DAT;PL
+дівчина		N;GEN;PL
+дівчина		N;NOM;PL
+дівчина	дівчина	N;NOM;SG
+дівчина		N;INS;PL
+дівчина		N;ESS;PL
+дівчина		N;ESS;SG
+дівчина		N;VOC;SG
+дівчина		N;GEN;SG
+дівчина	дівчиною	N;INS;SG
+дівчина		N;DAT;SG
+дівчина		N;ACC;PL
+дівчина		N;ACC;SG
+дівчина		N;VOC;PL
+дівчина		N;DAT;PL
+дзьоб		N;VOC;SG
+дзьоб		N;NOM;PL
+дзьоб		N;GEN;SG
+дзьоб		N;GEN;PL
+дзьоб		N;INS;PL
+дзьоб	дзьобах	N;ESS;PL
+дзьоб		N;ESS;SG
+дзьоб		N;NOM;SG
+дзьоб		N;INS;SG
+дзьоб		N;DAT;SG
+дзьоб		N;ACC;PL
+дзьоб		N;ACC;SG
+дзьоб	дзьоби	N;VOC;PL
+дзьоб		N;DAT;PL
+лев	леве	N;VOC;SG
+лев		N;NOM;PL
+лев	лева	N;GEN;SG
+лев		N;GEN;PL
+лев		N;INS;PL
+лев		N;ESS;PL
+лев		N;ESS;SG
+лев		N;NOM;SG
+лев		N;INS;SG
+лев		N;DAT;SG
+лев		N;ACC;PL
+лев		N;ACC;SG
+лев		N;VOC;PL
+лев		N;DAT;PL
+аванзал		N;VOC;SG
+аванзал		N;NOM;PL
+аванзал		N;NOM;SG
+аванзал		N;GEN;PL
+аванзал	аванзалами	N;INS;PL
+аванзал		N;ESS;PL
+аванзал		N;ESS;SG
+аванзал		N;GEN;SG
+аванзал		N;INS;SG
+аванзал		N;DAT;SG
+аванзал		N;ACC;PL
+аванзал		N;ACC;SG
+аванзал	аванзали	N;VOC;PL
+аванзал		N;DAT;PL
+четвер		N;NOM;PL
+четвер		N;GEN;PL
+четвер	четверга	N;GEN;SG
+четвер		N;INS;PL
+четвер	четвергах	N;ESS;PL
+четвер		N;ESS;SG
+четвер		N;VOC;SG
+четвер		N;NOM;SG
+четвер		N;INS;SG
+четвер		N;DAT;SG
+четвер		N;ACC;PL
+четвер		N;ACC;SG
+четвер		N;VOC;PL
+четвер		N;DAT;PL
+їхати	будете їхати	V;FUT;2;PL
+їхати		V.CVB;PST
+їхати		V;PRS;2;PL
+їхати	буде їхати	V;FUT;3;SG
+їхати		V;FUT;1;SG
+їхати		V;IMP;2;SG
+їхати		V;PRS;3;SG
+їхати		V;PST;FEM;SG
+їхати		V;PRS;1;SG
+їхати		V;PST;MASC;SG
+їхати		V;FUT;3;PL
+їхати		V;FUT;2;SG
+їхати		V;PST;PL
+їхати		V.CVB;PRS
+їхати		V;PRS;2;SG
+їхати		V;IMP;2;PL
+їхати		V;NFIN
+їхати		V;PRS;3;PL
+їхати	їхало	V;PST;NEUT;SG
+їхати		V;FUT;1;PL
+їхати		V;PRS;1;PL
+їхати		V;IMP;1;PL

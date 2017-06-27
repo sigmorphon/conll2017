@@ -1,0 +1,1589 @@
+énekes		N;FRML;PL
+énekes		N;TRANS;SG
+énekes		N;AT+ESS;SG
+énekes		N;INST;PL
+énekes		N;PRP;PL
+énekes		N;NOM;SG
+énekes		N;IN+ABL;SG
+énekes		N;TERM;SG
+énekes		N;IN+ALL;SG
+énekes		N;DAT;SG
+énekes	énekesekről	N;AT+ABL;PL
+énekes		N;FRML;SG
+énekes	énekesek	N;ACC;PL
+énekes		N;AT+ALL;PL
+énekes	énekes	N;ACC;SG
+énekes		N;ON+ALL;SG
+énekes		N;ON+ABL;SG
+énekes		N;DAT;PL
+énekes		N;AT+ESS;PL
+énekes		N;TRANS;PL
+énekes		N;IN+ABL;PL
+énekes		N;INST;SG
+énekes		N;PRP;SG
+énekes		N;TERM;PL
+énekes		N;AT+ALL;SG
+énekes	énekesekben	N;ON+ESS;PL
+énekes		N;IN+ALL;PL
+énekes	énekesekből	N;ON+ABL;PL
+énekes		N;NOM;PL
+énekes		N;ON+ESS;SG
+énekes		N;AT+ABL;SG
+énekes		N;ON+ALL;PL
+álló		N;FRML;PL
+álló		N;NOM;PL
+álló		N;AT+ESS;SG
+álló		N;INST;PL
+álló		N;IN+ESS;SG
+álló	álló	N;NOM;SG
+álló		N;IN+ABL;SG
+álló		N;TERM;SG
+álló		N;IN+ALL;SG
+álló		N;DAT;SG
+álló		N;AT+ABL;PL
+álló		N;TRANS;SG
+álló		N;FRML;SG
+álló	állókat	N;ACC;PL
+álló	állókhoz	N;AT+ALL;PL
+álló		N;ACC;SG
+álló	állóra	N;ON+ALL;SG
+álló		N;ON+ESS;SG
+álló		N;DAT;PL
+álló		N;AT+ESS;PL
+álló		N;TRANS;PL
+álló		N;PRP;PL
+álló	állókban	N;IN+ESS;PL
+álló	állókból	N;IN+ABL;PL
+álló		N;INST;SG
+álló		N;PRP;SG
+álló		N;TERM;PL
+álló		N;AT+ALL;SG
+álló		N;ON+ESS;PL
+álló		N;IN+ALL;PL
+álló		N;ON+ABL;PL
+álló		N;ON+ABL;SG
+álló		N;AT+ABL;SG
+álló		N;ON+ALL;PL
+egyértelmű		N;FRML;PL
+egyértelmű		N;NOM;PL
+egyértelmű		N;AT+ESS;SG
+egyértelmű		N;INST;PL
+egyértelmű		N;IN+ESS;SG
+egyértelmű		N;NOM;SG
+egyértelmű		N;IN+ABL;SG
+egyértelmű	egyértelműig	N;TERM;SG
+egyértelmű		N;IN+ALL;SG
+egyértelmű		N;DAT;SG
+egyértelmű		N;AT+ABL;PL
+egyértelmű		N;TRANS;SG
+egyértelmű		N;FRML;SG
+egyértelmű		N;ACC;PL
+egyértelmű	egyértelműekhez	N;AT+ALL;PL
+egyértelmű	egyértelműt	N;ACC;SG
+egyértelmű		N;ON+ALL;SG
+egyértelmű		N;ON+ESS;SG
+egyértelmű		N;DAT;PL
+egyértelmű		N;AT+ESS;PL
+egyértelmű	egyértelműekké	N;TRANS;PL
+egyértelmű		N;PRP;PL
+egyértelmű		N;IN+ESS;PL
+egyértelmű		N;IN+ABL;PL
+egyértelmű	egyértelművel	N;INST;SG
+egyértelmű		N;PRP;SG
+egyértelmű		N;TERM;PL
+egyértelmű		N;AT+ALL;SG
+egyértelmű		N;ON+ESS;PL
+egyértelmű		N;IN+ALL;PL
+egyértelmű	egyértelműekről	N;ON+ABL;PL
+egyértelmű		N;ON+ABL;SG
+egyértelmű		N;AT+ABL;SG
+egyértelmű		N;ON+ALL;PL
+heves		N;FRML;PL
+heves		N;NOM;PL
+heves		N;AT+ESS;SG
+heves		N;INST;PL
+heves		N;IN+ESS;SG
+heves		N;NOM;SG
+heves		N;IN+ABL;SG
+heves		N;TERM;SG
+heves		N;IN+ALL;SG
+heves		N;DAT;SG
+heves		N;AT+ABL;PL
+heves		N;TRANS;SG
+heves		N;FRML;SG
+heves	heveseket	N;ACC;PL
+heves		N;AT+ALL;PL
+heves		N;ACC;SG
+heves		N;ON+ALL;SG
+heves		N;ON+ESS;SG
+heves	heveseknek	N;DAT;PL
+heves		N;AT+ESS;PL
+heves		N;TRANS;PL
+heves		N;PRP;PL
+heves		N;IN+ESS;PL
+heves		N;IN+ABL;PL
+heves		N;INST;SG
+heves		N;PRP;SG
+heves		N;TERM;PL
+heves		N;AT+ALL;SG
+heves	heveseken	N;ON+ESS;PL
+heves	hevesekbe	N;IN+ALL;PL
+heves		N;ON+ABL;PL
+heves		N;ON+ABL;SG
+heves	hevestől	N;AT+ABL;SG
+heves	hevesekre	N;ON+ALL;PL
+keretei		N;TRANS;SG
+keretei		N;IN+ALL;SG
+keretei		N;AT+ALL;SG
+keretei		N;AT+ESS;SG
+keretei		N;IN+ESS;SG
+keretei		N;NOM;SG
+keretei		N;DAT;SG
+keretei		N;FRML;SG
+keretei		N;ON+ESS;SG
+keretei	kereteitől	N;AT+ABL;SG
+keretei		N;ON+ABL;SG
+keretei		N;IN+ABL;SG
+keretei		N;TERM;SG
+keretei		N;INST;SG
+keretei		N;ON+ALL;SG
+keretei		N;PRP;SG
+keretei	kereteit	N;ACC;SG
+írása		N;TRANS;SG
+írása		N;IN+ALL;SG
+írása		N;AT+ALL;SG
+írása	írásánál	N;AT+ESS;SG
+írása		N;IN+ESS;SG
+írása		N;NOM;SG
+írása		N;DAT;SG
+írása		N;FRML;SG
+írása		N;ON+ESS;SG
+írása		N;AT+ABL;SG
+írása		N;ON+ABL;SG
+írása		N;IN+ABL;SG
+írása		N;TERM;SG
+írása		N;INST;SG
+írása		N;ON+ALL;SG
+írása		N;PRP;SG
+írása	írását	N;ACC;SG
+rövid		N;TRANS;SG
+rövid		N;FRML;PL
+rövid		N;AT+ESS;SG
+rövid	rövidekkel	N;INST;PL
+rövid		N;IN+ESS;SG
+rövid		N;NOM;SG
+rövid		N;IN+ABL;SG
+rövid		N;TERM;SG
+rövid		N;IN+ALL;SG
+rövid		N;DAT;SG
+rövid		N;AT+ABL;PL
+rövid		N;FRML;SG
+rövid		N;ACC;PL
+rövid		N;AT+ALL;PL
+rövid		N;ON+ABL;SG
+rövid		N;ON+ALL;SG
+rövid		N;ON+ESS;SG
+rövid		N;DAT;PL
+rövid	rövideknél	N;AT+ESS;PL
+rövid	rövidekké	N;TRANS;PL
+rövid		N;AT+ABL;SG
+rövid	rövidekért	N;PRP;PL
+rövid		N;IN+ESS;PL
+rövid		N;IN+ABL;PL
+rövid		N;INST;SG
+rövid	rövidért	N;PRP;SG
+rövid		N;TERM;PL
+rövid		N;AT+ALL;SG
+rövid		N;ON+ESS;PL
+rövid	rövidekbe	N;IN+ALL;PL
+rövid		N;ON+ABL;PL
+rövid		N;ACC;SG
+rövid		N;NOM;PL
+rövid		N;ON+ALL;PL
+koporsó		N;TRANS;SG
+koporsó		N;FRML;PL
+koporsó		N;AT+ESS;SG
+koporsó		N;INST;PL
+koporsó		N;PRP;PL
+koporsó		N;NOM;SG
+koporsó		N;IN+ABL;SG
+koporsó	koporsóvá	N;TERM;SG
+koporsó	koporsónál	N;IN+ALL;SG
+koporsó		N;DAT;SG
+koporsó		N;AT+ABL;PL
+koporsó		N;FRML;SG
+koporsó		N;ACC;PL
+koporsó		N;AT+ALL;PL
+koporsó		N;ON+ABL;SG
+koporsó		N;ON+ALL;SG
+koporsó		N;ON+ESS;SG
+koporsó		N;DAT;PL
+koporsó		N;AT+ESS;PL
+koporsó	koporsókért	N;TRANS;PL
+koporsó	koporsókhoz	N;IN+ABL;PL
+koporsó		N;INST;SG
+koporsó	koporsóval	N;PRP;SG
+koporsó		N;TERM;PL
+koporsó		N;AT+ALL;SG
+koporsó		N;ON+ESS;PL
+koporsó		N;IN+ALL;PL
+koporsó		N;ON+ABL;PL
+koporsó		N;NOM;PL
+koporsó		N;ACC;SG
+koporsó		N;AT+ABL;SG
+koporsó		N;ON+ALL;PL
+édesapja		N;TRANS;SG
+édesapja		N;IN+ALL;SG
+édesapja		N;AT+ALL;SG
+édesapja		N;AT+ESS;SG
+édesapja		N;IN+ESS;SG
+édesapja		N;NOM;SG
+édesapja		N;DAT;SG
+édesapja		N;FRML;SG
+édesapja	édesapján	N;ON+ESS;SG
+édesapja		N;AT+ABL;SG
+édesapja	édesapjáról	N;ON+ABL;SG
+édesapja		N;IN+ABL;SG
+édesapja		N;TERM;SG
+édesapja		N;INST;SG
+édesapja		N;ON+ALL;SG
+édesapja		N;PRP;SG
+édesapja		N;ACC;SG
+jelentős		N;FRML;PL
+jelentős		N;NOM;PL
+jelentős		N;AT+ESS;SG
+jelentős	jelentősekkel	N;INST;PL
+jelentős		N;IN+ESS;SG
+jelentős	jelentős	N;NOM;SG
+jelentős		N;IN+ABL;SG
+jelentős	jelentősig	N;TERM;SG
+jelentős		N;IN+ALL;SG
+jelentős		N;DAT;SG
+jelentős		N;AT+ABL;PL
+jelentős		N;TRANS;SG
+jelentős		N;FRML;SG
+jelentős		N;ACC;PL
+jelentős		N;AT+ALL;PL
+jelentős		N;ON+ABL;SG
+jelentős		N;ON+ALL;SG
+jelentős		N;ON+ESS;SG
+jelentős		N;DAT;PL
+jelentős		N;AT+ESS;PL
+jelentős		N;TRANS;PL
+jelentős		N;PRP;PL
+jelentős		N;IN+ESS;PL
+jelentős		N;IN+ABL;PL
+jelentős	jelentőssel	N;INST;SG
+jelentős		N;PRP;SG
+jelentős	jelentősekig	N;TERM;PL
+jelentős		N;AT+ALL;SG
+jelentős		N;ON+ESS;PL
+jelentős		N;IN+ALL;PL
+jelentős		N;ON+ABL;PL
+jelentős		N;ACC;SG
+jelentős		N;AT+ABL;SG
+jelentős	jelentősekre	N;ON+ALL;PL
+mennyezet		N;FRML;PL
+mennyezet		N;NOM;PL
+mennyezet	mennyezetnél	N;AT+ESS;SG
+mennyezet		N;INST;PL
+mennyezet	mennyezetben	N;IN+ESS;SG
+mennyezet		N;NOM;SG
+mennyezet		N;IN+ABL;SG
+mennyezet		N;TERM;SG
+mennyezet		N;IN+ALL;SG
+mennyezet		N;DAT;SG
+mennyezet		N;AT+ABL;PL
+mennyezet		N;TRANS;SG
+mennyezet		N;FRML;SG
+mennyezet		N;ACC;PL
+mennyezet		N;AT+ALL;PL
+mennyezet		N;ON+ABL;SG
+mennyezet		N;ON+ALL;SG
+mennyezet		N;ON+ESS;SG
+mennyezet	mennyezeteknek	N;DAT;PL
+mennyezet		N;AT+ESS;PL
+mennyezet	mennyezetekké	N;TRANS;PL
+mennyezet		N;PRP;PL
+mennyezet		N;IN+ESS;PL
+mennyezet	mennyezetekből	N;IN+ABL;PL
+mennyezet		N;INST;SG
+mennyezet		N;PRP;SG
+mennyezet		N;TERM;PL
+mennyezet	mennyezethez	N;AT+ALL;SG
+mennyezet		N;ON+ESS;PL
+mennyezet		N;IN+ALL;PL
+mennyezet		N;ON+ABL;PL
+mennyezet		N;ACC;SG
+mennyezet		N;AT+ABL;SG
+mennyezet		N;ON+ALL;PL
+előadás		N;TRANS;SG
+előadás		N;FRML;PL
+előadás		N;AT+ESS;SG
+előadás	előadásoknak	N;INST;PL
+előadás	előadásokkal	N;PRP;PL
+előadás		N;NOM;SG
+előadás		N;IN+ABL;SG
+előadás		N;TERM;SG
+előadás		N;IN+ALL;SG
+előadás	előadást	N;DAT;SG
+előadás		N;AT+ABL;PL
+előadás		N;FRML;SG
+előadás		N;ACC;PL
+előadás		N;AT+ALL;PL
+előadás		N;ACC;SG
+előadás	előadásba	N;ON+ALL;SG
+előadás		N;ON+ESS;SG
+előadás		N;DAT;PL
+előadás		N;AT+ESS;PL
+előadás		N;TRANS;PL
+előadás		N;IN+ABL;PL
+előadás		N;INST;SG
+előadás		N;PRP;SG
+előadás		N;TERM;PL
+előadás		N;AT+ALL;SG
+előadás		N;ON+ESS;PL
+előadás	előadásoknál	N;IN+ALL;PL
+előadás		N;ON+ABL;PL
+előadás		N;NOM;PL
+előadás		N;ON+ABL;SG
+előadás		N;AT+ABL;SG
+előadás		N;ON+ALL;PL
+strici		N;FRML;PL
+strici		N;NOM;PL
+strici	stricinél	N;AT+ESS;SG
+strici		N;INST;PL
+strici	striciben	N;IN+ESS;SG
+strici		N;NOM;SG
+strici		N;IN+ABL;SG
+strici		N;TERM;SG
+strici	stricibe	N;IN+ALL;SG
+strici		N;DAT;SG
+strici		N;AT+ABL;PL
+strici		N;TRANS;SG
+strici	striciként	N;FRML;SG
+strici		N;ACC;PL
+strici		N;AT+ALL;PL
+strici		N;ACC;SG
+strici		N;ON+ALL;SG
+strici		N;ON+ESS;SG
+strici		N;DAT;PL
+strici	striciknél	N;AT+ESS;PL
+strici		N;TRANS;PL
+strici		N;PRP;PL
+strici		N;IN+ESS;PL
+strici		N;IN+ABL;PL
+strici		N;INST;SG
+strici		N;PRP;SG
+strici	stricikig	N;TERM;PL
+strici		N;AT+ALL;SG
+strici		N;ON+ESS;PL
+strici		N;IN+ALL;PL
+strici		N;ON+ABL;PL
+strici		N;ON+ABL;SG
+strici		N;AT+ABL;SG
+strici		N;ON+ALL;PL
+gyümölcs		N;TRANS;SG
+gyümölcs		N;FRML;PL
+gyümölcs		N;AT+ESS;SG
+gyümölcs		N;INST;PL
+gyümölcs		N;PRP;PL
+gyümölcs		N;NOM;SG
+gyümölcs		N;IN+ABL;SG
+gyümölcs	gyümölccsé	N;TERM;SG
+gyümölcs		N;IN+ALL;SG
+gyümölcs		N;DAT;SG
+gyümölcs		N;AT+ABL;PL
+gyümölcs		N;FRML;SG
+gyümölcs		N;ACC;PL
+gyümölcs	gyümölcsökre	N;AT+ALL;PL
+gyümölcs		N;ACC;SG
+gyümölcs		N;ON+ALL;SG
+gyümölcs		N;ON+ABL;SG
+gyümölcs		N;DAT;PL
+gyümölcs		N;AT+ESS;PL
+gyümölcs	gyümölcsökért	N;TRANS;PL
+gyümölcs		N;IN+ABL;PL
+gyümölcs		N;INST;SG
+gyümölcs		N;PRP;SG
+gyümölcs		N;TERM;PL
+gyümölcs		N;AT+ALL;SG
+gyümölcs		N;ON+ESS;PL
+gyümölcs	gyümölcsöknél	N;IN+ALL;PL
+gyümölcs		N;ON+ABL;PL
+gyümölcs	plural	N;NOM;PL
+gyümölcs		N;ON+ESS;SG
+gyümölcs		N;AT+ABL;SG
+gyümölcs		N;ON+ALL;PL
+dóm		N;TRANS;SG
+dóm		N;FRML;PL
+dóm		N;AT+ESS;SG
+dóm		N;INST;PL
+dóm		N;PRP;PL
+dóm		N;NOM;SG
+dóm		N;IN+ABL;SG
+dóm		N;TERM;SG
+dóm		N;IN+ALL;SG
+dóm		N;DAT;SG
+dóm		N;AT+ABL;PL
+dóm		N;FRML;SG
+dóm		N;ACC;PL
+dóm		N;AT+ALL;PL
+dóm		N;ACC;SG
+dóm		N;ON+ALL;SG
+dóm	dómban	N;ON+ESS;SG
+dóm		N;DAT;PL
+dóm		N;AT+ESS;PL
+dóm		N;TRANS;PL
+dóm	dómokhoz	N;IN+ABL;PL
+dóm		N;INST;SG
+dóm		N;PRP;SG
+dóm		N;TERM;PL
+dóm		N;AT+ALL;SG
+dóm		N;ON+ESS;PL
+dóm		N;IN+ALL;PL
+dóm	dómokból	N;ON+ABL;PL
+dóm		N;NOM;PL
+dóm	dómból	N;ON+ABL;SG
+dóm	dómról	N;AT+ABL;SG
+dóm		N;ON+ALL;PL
+tervei		N;TRANS;SG
+tervei		N;IN+ALL;SG
+tervei		N;AT+ALL;SG
+tervei		N;AT+ESS;SG
+tervei	terveiben	N;IN+ESS;SG
+tervei		N;NOM;SG
+tervei		N;DAT;SG
+tervei		N;FRML;SG
+tervei		N;ON+ESS;SG
+tervei		N;AT+ABL;SG
+tervei		N;ON+ABL;SG
+tervei		N;IN+ABL;SG
+tervei		N;TERM;SG
+tervei		N;INST;SG
+tervei		N;ON+ALL;SG
+tervei	terveiért	N;PRP;SG
+tervei		N;ACC;SG
+hód		N;TRANS;SG
+hód		N;FRML;PL
+hód		N;AT+ESS;SG
+hód		N;INST;PL
+hód		N;IN+ESS;SG
+hód		N;NOM;SG
+hód		N;ON+ABL;PL
+hód		N;IN+ABL;SG
+hód		N;TERM;SG
+hód		N;IN+ALL;SG
+hód		N;AT+ABL;PL
+hód		N;FRML;SG
+hód		N;ACC;PL
+hód		N;AT+ALL;PL
+hód		N;ON+ABL;SG
+hód	hódra	N;ON+ALL;SG
+hód		N;ON+ESS;SG
+hód		N;DAT;PL
+hód	hódoknál	N;AT+ESS;PL
+hód		N;TRANS;PL
+hód		N;AT+ABL;SG
+hód		N;PRP;PL
+hód		N;IN+ESS;PL
+hód	hódokból	N;IN+ABL;PL
+hód		N;INST;SG
+hód	hódért	N;PRP;SG
+hód		N;TERM;PL
+hód		N;AT+ALL;SG
+hód		N;ON+ESS;PL
+hód		N;IN+ALL;PL
+hód		N;DAT;SG
+hód	hódot	N;ACC;SG
+hód	hódok	N;NOM;PL
+hód		N;ON+ALL;PL
+megoldása		N;TRANS;SG
+megoldása	megoldásába	N;IN+ALL;SG
+megoldása		N;AT+ALL;SG
+megoldása		N;AT+ESS;SG
+megoldása		N;IN+ESS;SG
+megoldása		N;NOM;SG
+megoldása		N;DAT;SG
+megoldása		N;FRML;SG
+megoldása		N;ON+ESS;SG
+megoldása		N;AT+ABL;SG
+megoldása		N;ON+ABL;SG
+megoldása		N;IN+ABL;SG
+megoldása		N;TERM;SG
+megoldása		N;INST;SG
+megoldása		N;ON+ALL;SG
+megoldása	megoldásáért	N;PRP;SG
+megoldása		N;ACC;SG
+szerencsétlen		N;FRML;PL
+szerencsétlen		N;NOM;PL
+szerencsétlen		N;AT+ESS;SG
+szerencsétlen		N;INST;PL
+szerencsétlen	szerencsétlenben	N;IN+ESS;SG
+szerencsétlen		N;NOM;SG
+szerencsétlen		N;IN+ABL;SG
+szerencsétlen		N;TERM;SG
+szerencsétlen		N;IN+ALL;SG
+szerencsétlen		N;DAT;SG
+szerencsétlen		N;AT+ABL;PL
+szerencsétlen		N;TRANS;SG
+szerencsétlen		N;FRML;SG
+szerencsétlen		N;ACC;PL
+szerencsétlen	szerencsétlenekhez	N;AT+ALL;PL
+szerencsétlen		N;ACC;SG
+szerencsétlen		N;ON+ALL;SG
+szerencsétlen		N;ON+ESS;SG
+szerencsétlen		N;DAT;PL
+szerencsétlen		N;AT+ESS;PL
+szerencsétlen		N;TRANS;PL
+szerencsétlen		N;PRP;PL
+szerencsétlen		N;IN+ESS;PL
+szerencsétlen		N;IN+ABL;PL
+szerencsétlen	szerencsétlennel	N;INST;SG
+szerencsétlen		N;PRP;SG
+szerencsétlen		N;TERM;PL
+szerencsétlen		N;AT+ALL;SG
+szerencsétlen	szerencsétleneken	N;ON+ESS;PL
+szerencsétlen		N;IN+ALL;PL
+szerencsétlen	szerencsétlenekről	N;ON+ABL;PL
+szerencsétlen		N;ON+ABL;SG
+szerencsétlen		N;AT+ABL;SG
+szerencsétlen	szerencsétlenekre	N;ON+ALL;PL
+áprilisi		N;FRML;PL
+áprilisi		N;NOM;PL
+áprilisi		N;AT+ESS;SG
+áprilisi		N;INST;PL
+áprilisi		N;IN+ESS;SG
+áprilisi	áprilisi	N;NOM;SG
+áprilisi		N;IN+ABL;SG
+áprilisi		N;TERM;SG
+áprilisi		N;IN+ALL;SG
+áprilisi		N;DAT;SG
+áprilisi		N;AT+ABL;PL
+áprilisi	áprilisivá	N;TRANS;SG
+áprilisi		N;FRML;SG
+áprilisi		N;ACC;PL
+áprilisi		N;AT+ALL;PL
+áprilisi		N;ACC;SG
+áprilisi	áprilisira	N;ON+ALL;SG
+áprilisi		N;ON+ESS;SG
+áprilisi		N;DAT;PL
+áprilisi		N;AT+ESS;PL
+áprilisi		N;TRANS;PL
+áprilisi		N;PRP;PL
+áprilisi		N;IN+ESS;PL
+áprilisi	áprilisiakból	N;IN+ABL;PL
+áprilisi		N;INST;SG
+áprilisi	áprilisiért	N;PRP;SG
+áprilisi		N;TERM;PL
+áprilisi	áprilisihoz	N;AT+ALL;SG
+áprilisi		N;ON+ESS;PL
+áprilisi		N;IN+ALL;PL
+áprilisi		N;ON+ABL;PL
+áprilisi		N;ON+ABL;SG
+áprilisi		N;AT+ABL;SG
+áprilisi		N;ON+ALL;PL
+foglalt	foglaltakként	N;FRML;PL
+foglalt		N;NOM;PL
+foglalt		N;AT+ESS;SG
+foglalt		N;INST;PL
+foglalt		N;IN+ESS;SG
+foglalt		N;NOM;SG
+foglalt		N;IN+ABL;SG
+foglalt		N;TERM;SG
+foglalt	foglaltba	N;IN+ALL;SG
+foglalt	foglaltnak	N;DAT;SG
+foglalt		N;AT+ABL;PL
+foglalt		N;TRANS;SG
+foglalt		N;FRML;SG
+foglalt		N;ACC;PL
+foglalt		N;AT+ALL;PL
+foglalt		N;ON+ABL;SG
+foglalt		N;ON+ALL;SG
+foglalt		N;ON+ESS;SG
+foglalt		N;DAT;PL
+foglalt		N;AT+ESS;PL
+foglalt		N;TRANS;PL
+foglalt	foglaltakért	N;PRP;PL
+foglalt		N;IN+ESS;PL
+foglalt		N;IN+ABL;PL
+foglalt		N;INST;SG
+foglalt		N;PRP;SG
+foglalt		N;TERM;PL
+foglalt		N;AT+ALL;SG
+foglalt		N;ON+ESS;PL
+foglalt	foglaltakba	N;IN+ALL;PL
+foglalt		N;ON+ABL;PL
+foglalt		N;ACC;SG
+foglalt		N;AT+ABL;SG
+foglalt	foglaltakra	N;ON+ALL;PL
+elszigeteltség		N;FRML;PL
+elszigeteltség	elszigeteltségek	N;NOM;PL
+elszigeteltség	elszigeteltségnél	N;AT+ESS;SG
+elszigeteltség		N;INST;PL
+elszigeteltség	elszigeteltségben	N;IN+ESS;SG
+elszigeteltség		N;NOM;SG
+elszigeteltség		N;IN+ABL;SG
+elszigeteltség		N;TERM;SG
+elszigeteltség	elszigeteltségbe	N;IN+ALL;SG
+elszigeteltség		N;DAT;SG
+elszigeteltség		N;AT+ABL;PL
+elszigeteltség		N;TRANS;SG
+elszigeteltség		N;FRML;SG
+elszigeteltség	elszigeteltségeket	N;ACC;PL
+elszigeteltség		N;AT+ALL;PL
+elszigeteltség		N;ON+ABL;SG
+elszigeteltség		N;ON+ALL;SG
+elszigeteltség		N;ON+ESS;SG
+elszigeteltség		N;DAT;PL
+elszigeteltség		N;AT+ESS;PL
+elszigeteltség		N;TRANS;PL
+elszigeteltség		N;PRP;PL
+elszigeteltség		N;IN+ESS;PL
+elszigeteltség		N;IN+ABL;PL
+elszigeteltség	elszigeteltséggel	N;INST;SG
+elszigeteltség		N;PRP;SG
+elszigeteltség		N;TERM;PL
+elszigeteltség		N;AT+ALL;SG
+elszigeteltség		N;ON+ESS;PL
+elszigeteltség		N;IN+ALL;PL
+elszigeteltség		N;ON+ABL;PL
+elszigeteltség		N;ACC;SG
+elszigeteltség		N;AT+ABL;SG
+elszigeteltség		N;ON+ALL;PL
+sablon		N;TRANS;SG
+sablon	sablonokként	N;FRML;PL
+sablon		N;AT+ESS;SG
+sablon	sablonokkal	N;INST;PL
+sablon		N;IN+ESS;SG
+sablon		N;NOM;SG
+sablon		N;ON+ABL;PL
+sablon	sablonból	N;IN+ABL;SG
+sablon		N;TERM;SG
+sablon		N;IN+ALL;SG
+sablon		N;AT+ABL;PL
+sablon		N;FRML;SG
+sablon		N;ACC;PL
+sablon		N;AT+ALL;PL
+sablon	sablont	N;ACC;SG
+sablon		N;ON+ALL;SG
+sablon		N;ON+ESS;SG
+sablon		N;DAT;PL
+sablon	sablonoknál	N;AT+ESS;PL
+sablon		N;TRANS;PL
+sablon		N;AT+ABL;SG
+sablon		N;PRP;PL
+sablon		N;IN+ESS;PL
+sablon		N;IN+ABL;PL
+sablon		N;INST;SG
+sablon		N;PRP;SG
+sablon		N;TERM;PL
+sablon		N;AT+ALL;SG
+sablon		N;ON+ESS;PL
+sablon		N;IN+ALL;PL
+sablon	sablonnak	N;DAT;SG
+sablon		N;ON+ABL;SG
+sablon		N;NOM;PL
+sablon		N;ON+ALL;PL
+mexikói		N;FRML;PL
+mexikói		N;NOM;PL
+mexikói		N;AT+ESS;SG
+mexikói		N;INST;PL
+mexikói		N;IN+ESS;SG
+mexikói		N;NOM;SG
+mexikói		N;IN+ABL;SG
+mexikói		N;TERM;SG
+mexikói		N;IN+ALL;SG
+mexikói		N;DAT;SG
+mexikói		N;AT+ABL;PL
+mexikói		N;TRANS;SG
+mexikói	mexikóiként	N;FRML;SG
+mexikói		N;ACC;PL
+mexikói	mexikóiakhoz	N;AT+ALL;PL
+mexikói		N;ACC;SG
+mexikói		N;ON+ALL;SG
+mexikói		N;ON+ESS;SG
+mexikói		N;DAT;PL
+mexikói		N;AT+ESS;PL
+mexikói	mexikóiakká	N;TRANS;PL
+mexikói		N;PRP;PL
+mexikói	mexikóiakban	N;IN+ESS;PL
+mexikói		N;IN+ABL;PL
+mexikói		N;INST;SG
+mexikói	mexikóiért	N;PRP;SG
+mexikói		N;TERM;PL
+mexikói		N;AT+ALL;SG
+mexikói		N;ON+ESS;PL
+mexikói		N;IN+ALL;PL
+mexikói	mexikóiakról	N;ON+ABL;PL
+mexikói		N;ON+ABL;SG
+mexikói		N;AT+ABL;SG
+mexikói		N;ON+ALL;PL
+orvostudomány		N;TRANS;SG
+orvostudomány		N;FRML;PL
+orvostudomány		N;AT+ESS;SG
+orvostudomány		N;INST;PL
+orvostudomány		N;IN+ESS;SG
+orvostudomány	orvostudomány	N;NOM;SG
+orvostudomány		N;ON+ABL;PL
+orvostudomány		N;IN+ABL;SG
+orvostudomány		N;TERM;SG
+orvostudomány	orvostudományba	N;IN+ALL;SG
+orvostudomány		N;AT+ABL;PL
+orvostudomány		N;FRML;SG
+orvostudomány		N;ACC;PL
+orvostudomány		N;AT+ALL;PL
+orvostudomány		N;ACC;SG
+orvostudomány		N;ON+ALL;SG
+orvostudomány		N;ON+ESS;SG
+orvostudomány		N;DAT;PL
+orvostudomány		N;AT+ESS;PL
+orvostudomány		N;TRANS;PL
+orvostudomány	orvostudománytól	N;AT+ABL;SG
+orvostudomány		N;PRP;PL
+orvostudomány	orvostudományokban	N;IN+ESS;PL
+orvostudomány		N;IN+ABL;PL
+orvostudomány		N;INST;SG
+orvostudomány		N;PRP;SG
+orvostudomány		N;TERM;PL
+orvostudomány		N;AT+ALL;SG
+orvostudomány		N;ON+ESS;PL
+orvostudomány	orvostudományokba	N;IN+ALL;PL
+orvostudomány	orvostudománynak	N;DAT;SG
+orvostudomány		N;ON+ABL;SG
+orvostudomány		N;NOM;PL
+orvostudomány		N;ON+ALL;PL
+bocsát		V;COND;PRS;INDF;3;SG
+bocsát		V;COND;PRS;DEF;1;PL
+bocsát		V;SBJV;PRS;DEF;3;PL
+bocsát		V;IND;PRS;DEF;3;PL
+bocsát		V;IND;PRS;DEF;1;PL
+bocsát		V;IND;PRS;INDF;3;PL
+bocsát		V;IND;PST;INDF;2;SG
+bocsát		V;NFIN;1;SG
+bocsát	bocsássatok	V;SBJV;PRS;INDF;2;PL
+bocsát	bocsátanál	V;COND;PRS;INDF;2;SG
+bocsát		V;IND;PST;INDF;2;PL
+bocsát		V;NFIN;3;SG
+bocsát		V;COND;PRS;DEF;3;PL
+bocsát	bocsátott	V.PTCP;PST
+bocsát		V;IND;PST;DEF;2;PL
+bocsát		V;SBJV;PRS;DEF;2;SG
+bocsát		V;COND;PRS;DEF;2;SG
+bocsát		V;SBJV;PRS;INDF;1;PL
+bocsát		V;IND;PRS;INDF;1;PL
+bocsát		V;COND;PRS;INDF;1;PL
+bocsát		V.PTCP;PRS
+bocsát		V;IND;PST;INDF;1;SG
+bocsát		V;SBJV;PRS;DEF;1;PL
+bocsát		V;SBJV;PRS;INDF;1;SG
+bocsát		V;IND;PRS;DEF;2;PL
+bocsát		V;SBJV;PRS;INDF;3;SG
+bocsát		V;IND;PRS;INDF;2;SG
+bocsát		V;NFIN;2;PL
+bocsát		V;IND;PST;DEF;1;SG
+bocsát		V;IND;PRS;DEF;3;SG
+bocsát		V;SBJV;PRS;INDF;2;SG
+bocsát		V;IND;PST;DEF;3;SG
+bocsát	bocsássa	V;SBJV;PRS;DEF;3;SG
+bocsát		V;NFIN;1;PL
+bocsát		V.CVB
+bocsát	bocsátom	V;IND;PRS;DEF;1;SG
+bocsát		V;COND;PRS;INDF;3;PL
+bocsát		V;IND;PRS;INDF;1;SG
+bocsát	bocsátaná	V;COND;PRS;DEF;3;SG
+bocsát		V;IND;PRS;INDF;3;SG
+bocsát	bocsátott	V;IND;PST;INDF;3;SG
+bocsát		V;NFIN;3;PL
+bocsát		V;COND;PRS;INDF;2;PL
+bocsát		V;NFIN
+bocsát	bocsássátok	V;SBJV;PRS;DEF;2;PL
+bocsát		V.PTCP;FUT
+bocsát		V;IND;PST;INDF;3;PL
+bocsát	bocsátanátok	V;COND;PRS;DEF;2;PL
+bocsát		V;IND;PST;INDF;1;PL
+bocsát		V;IND;PRS;INDF;2;PL
+bocsát		V;SBJV;PRS;DEF;1;SG
+bocsát		V;COND;PRS;DEF;1;SG
+bocsát		V;IND;PRS;DEF;2;SG
+bocsát	bocsátottuk	V;IND;PST;DEF;1;PL
+bocsát	bocsátották	V;IND;PST;DEF;3;PL
+bocsát		V;NFIN;2;SG
+bocsát		V;COND;PRS;INDF;1;SG
+bocsát		V;IND;PST;DEF;2;SG
+bocsát		V;SBJV;PRS;INDF;3;PL
+hatalom		N;FRML;PL
+hatalom		N;TRANS;SG
+hatalom		N;AT+ESS;SG
+hatalom		N;INST;PL
+hatalom		N;PRP;PL
+hatalom		N;NOM;SG
+hatalom		N;ON+ABL;PL
+hatalom		N;IN+ABL;SG
+hatalom		N;TERM;SG
+hatalom		N;IN+ALL;SG
+hatalom		N;AT+ABL;PL
+hatalom		N;FRML;SG
+hatalom		N;ACC;PL
+hatalom		N;AT+ALL;PL
+hatalom		N;ACC;SG
+hatalom		N;ON+ALL;SG
+hatalom		N;ON+ABL;SG
+hatalom	hatalmakat	N;DAT;PL
+hatalom		N;AT+ESS;PL
+hatalom		N;TRANS;PL
+hatalom		N;IN+ABL;PL
+hatalom		N;INST;SG
+hatalom	hatalommal	N;PRP;SG
+hatalom		N;TERM;PL
+hatalom		N;AT+ALL;SG
+hatalom	hatalmakban	N;ON+ESS;PL
+hatalom		N;IN+ALL;PL
+hatalom		N;DAT;SG
+hatalom	plural	N;NOM;PL
+hatalom		N;ON+ESS;SG
+hatalom		N;AT+ABL;SG
+hatalom	hatalmakba	N;ON+ALL;PL
+legkevesebb		N;FRML;PL
+legkevesebb		N;TRANS;SG
+legkevesebb		N;AT+ESS;SG
+legkevesebb		N;INST;PL
+legkevesebb		N;IN+ESS;SG
+legkevesebb		N;NOM;SG
+legkevesebb		N;IN+ABL;SG
+legkevesebb		N;TERM;SG
+legkevesebb		N;IN+ALL;SG
+legkevesebb	legkevesebbnek	N;DAT;SG
+legkevesebb		N;AT+ABL;PL
+legkevesebb		N;FRML;SG
+legkevesebb		N;ACC;PL
+legkevesebb		N;AT+ALL;PL
+legkevesebb	legkevesebbről	N;ON+ABL;SG
+legkevesebb		N;ON+ALL;SG
+legkevesebb		N;ON+ESS;SG
+legkevesebb		N;DAT;PL
+legkevesebb		N;AT+ESS;PL
+legkevesebb		N;TRANS;PL
+legkevesebb		N;AT+ABL;SG
+legkevesebb		N;PRP;PL
+legkevesebb		N;IN+ESS;PL
+legkevesebb		N;IN+ABL;PL
+legkevesebb	legkevesebbel	N;INST;SG
+legkevesebb		N;PRP;SG
+legkevesebb		N;TERM;PL
+legkevesebb		N;AT+ALL;SG
+legkevesebb		N;ON+ESS;PL
+legkevesebb		N;IN+ALL;PL
+legkevesebb		N;ON+ABL;PL
+legkevesebb	legkevesebbet	N;ACC;SG
+legkevesebb	legkevesebbek	N;NOM;PL
+legkevesebb	legkevesebbekre	N;ON+ALL;PL
+bizottság	bizottságért	N;TRANS;SG
+bizottság		N;FRML;PL
+bizottság		N;AT+ESS;SG
+bizottság		N;INST;PL
+bizottság		N;PRP;PL
+bizottság		N;NOM;SG
+bizottság		N;IN+ABL;SG
+bizottság		N;TERM;SG
+bizottság		N;IN+ALL;SG
+bizottság		N;DAT;SG
+bizottság		N;AT+ABL;PL
+bizottság		N;FRML;SG
+bizottság	bizottságok	N;ACC;PL
+bizottság		N;AT+ALL;PL
+bizottság		N;ACC;SG
+bizottság		N;ON+ALL;SG
+bizottság		N;ON+ESS;SG
+bizottság		N;DAT;PL
+bizottság		N;AT+ESS;PL
+bizottság		N;TRANS;PL
+bizottság		N;IN+ABL;PL
+bizottság		N;INST;SG
+bizottság		N;PRP;SG
+bizottság	bizottságokká	N;TERM;PL
+bizottság		N;AT+ALL;SG
+bizottság	bizottságokban	N;ON+ESS;PL
+bizottság		N;IN+ALL;PL
+bizottság	bizottságokból	N;ON+ABL;PL
+bizottság		N;NOM;PL
+bizottság		N;ON+ABL;SG
+bizottság		N;AT+ABL;SG
+bizottság		N;ON+ALL;PL
+biztosítási	biztosításiakként	N;FRML;PL
+biztosítási		N;NOM;PL
+biztosítási	biztosításinál	N;AT+ESS;SG
+biztosítási		N;INST;PL
+biztosítási		N;IN+ESS;SG
+biztosítási		N;NOM;SG
+biztosítási		N;IN+ABL;SG
+biztosítási		N;TERM;SG
+biztosítási		N;IN+ALL;SG
+biztosítási		N;DAT;SG
+biztosítási	biztosításiaktól	N;AT+ABL;PL
+biztosítási		N;TRANS;SG
+biztosítási		N;FRML;SG
+biztosítási		N;ACC;PL
+biztosítási		N;AT+ALL;PL
+biztosítási		N;ACC;SG
+biztosítási		N;ON+ALL;SG
+biztosítási		N;ON+ESS;SG
+biztosítási		N;DAT;PL
+biztosítási		N;AT+ESS;PL
+biztosítási		N;TRANS;PL
+biztosítási		N;PRP;PL
+biztosítási		N;IN+ESS;PL
+biztosítási		N;IN+ABL;PL
+biztosítási	biztosításival	N;INST;SG
+biztosítási		N;PRP;SG
+biztosítási		N;TERM;PL
+biztosítási		N;AT+ALL;SG
+biztosítási		N;ON+ESS;PL
+biztosítási		N;IN+ALL;PL
+biztosítási		N;ON+ABL;PL
+biztosítási	biztosításiról	N;ON+ABL;SG
+biztosítási	biztosításitól	N;AT+ABL;SG
+biztosítási		N;ON+ALL;PL
+háború		N;TRANS;SG
+háború		N;FRML;PL
+háború		N;AT+ESS;SG
+háború		N;INST;PL
+háború	háborúkkal	N;PRP;PL
+háború		N;NOM;SG
+háború		N;IN+ABL;SG
+háború		N;TERM;SG
+háború		N;IN+ALL;SG
+háború		N;DAT;SG
+háború		N;AT+ABL;PL
+háború		N;FRML;SG
+háború		N;ACC;PL
+háború		N;AT+ALL;PL
+háború		N;ON+ABL;SG
+háború		N;ON+ALL;SG
+háború	háborúban	N;ON+ESS;SG
+háború		N;DAT;PL
+háború	háborúkon	N;AT+ESS;PL
+háború		N;TRANS;PL
+háború		N;IN+ABL;PL
+háború		N;INST;SG
+háború		N;PRP;SG
+háború		N;TERM;PL
+háború		N;AT+ALL;SG
+háború		N;ON+ESS;PL
+háború	háborúknál	N;IN+ALL;PL
+háború		N;ON+ABL;PL
+háború		N;NOM;PL
+háború	háború	N;ACC;SG
+háború		N;AT+ABL;SG
+háború		N;ON+ALL;PL
+társadalom		N;NOM;PL
+társadalom		N;FRML;PL
+társadalom		N;AT+ESS;SG
+társadalom		N;INST;PL
+társadalom		N;PRP;PL
+társadalom		N;TRANS;PL
+társadalom	társadalmakból	N;ON+ABL;PL
+társadalom	társadalomhoz	N;IN+ABL;SG
+társadalom		N;TERM;SG
+társadalom		N;IN+ALL;SG
+társadalom		N;AT+ABL;PL
+társadalom		N;TRANS;SG
+társadalom		N;FRML;SG
+társadalom		N;ACC;PL
+társadalom		N;AT+ALL;PL
+társadalom	társadalom	N;ACC;SG
+társadalom	társadalomba	N;ON+ALL;SG
+társadalom	társadalomból	N;ON+ABL;SG
+társadalom		N;DAT;PL
+társadalom		N;AT+ESS;PL
+társadalom		N;NOM;SG
+társadalom		N;IN+ABL;PL
+társadalom		N;INST;SG
+társadalom		N;PRP;SG
+társadalom		N;TERM;PL
+társadalom		N;AT+ALL;SG
+társadalom		N;ON+ESS;PL
+társadalom		N;IN+ALL;PL
+társadalom		N;DAT;SG
+társadalom		N;ON+ESS;SG
+társadalom		N;AT+ABL;SG
+társadalom		N;ON+ALL;PL
+hely		N;FRML;PL
+hely		N;TRANS;SG
+hely		N;AT+ESS;SG
+hely		N;INST;PL
+hely	helyekkel	N;PRP;PL
+hely		N;NOM;SG
+hely		N;IN+ABL;SG
+hely		N;TERM;SG
+hely		N;IN+ALL;SG
+hely		N;DAT;SG
+hely		N;AT+ABL;PL
+hely		N;FRML;SG
+hely	helyek	N;ACC;PL
+hely		N;AT+ALL;PL
+hely		N;ACC;SG
+hely		N;ON+ALL;SG
+hely	helyből	N;ON+ABL;SG
+hely		N;DAT;PL
+hely		N;AT+ESS;PL
+hely		N;TRANS;PL
+hely		N;IN+ABL;PL
+hely		N;INST;SG
+hely	hellyel	N;PRP;SG
+hely		N;TERM;PL
+hely		N;AT+ALL;SG
+hely		N;ON+ESS;PL
+hely		N;IN+ALL;PL
+hely		N;ON+ABL;PL
+hely		N;NOM;PL
+hely	helyben	N;ON+ESS;SG
+hely		N;AT+ABL;SG
+hely		N;ON+ALL;PL
+alakulása		N;TRANS;SG
+alakulása		N;IN+ALL;SG
+alakulása	alakulásához	N;AT+ALL;SG
+alakulása		N;AT+ESS;SG
+alakulása		N;IN+ESS;SG
+alakulása		N;NOM;SG
+alakulása	alakulásának	N;DAT;SG
+alakulása		N;FRML;SG
+alakulása		N;ON+ESS;SG
+alakulása		N;AT+ABL;SG
+alakulása		N;ON+ABL;SG
+alakulása		N;IN+ABL;SG
+alakulása		N;TERM;SG
+alakulása		N;INST;SG
+alakulása		N;ON+ALL;SG
+alakulása		N;PRP;SG
+alakulása		N;ACC;SG
+kritikus		N;FRML;PL
+kritikus	kritikusok	N;NOM;PL
+kritikus		N;AT+ESS;SG
+kritikus		N;INST;PL
+kritikus		N;IN+ESS;SG
+kritikus		N;NOM;SG
+kritikus		N;ON+ABL;PL
+kritikus		N;IN+ABL;SG
+kritikus		N;TERM;SG
+kritikus	kritikusba	N;IN+ALL;SG
+kritikus		N;AT+ABL;PL
+kritikus		N;TRANS;SG
+kritikus		N;FRML;SG
+kritikus		N;ACC;PL
+kritikus		N;AT+ALL;PL
+kritikus	kritikust	N;ACC;SG
+kritikus		N;ON+ALL;SG
+kritikus		N;ON+ESS;SG
+kritikus		N;DAT;PL
+kritikus		N;AT+ESS;PL
+kritikus		N;TRANS;PL
+kritikus		N;PRP;PL
+kritikus		N;IN+ESS;PL
+kritikus		N;IN+ABL;PL
+kritikus		N;INST;SG
+kritikus		N;PRP;SG
+kritikus	kritikusokig	N;TERM;PL
+kritikus		N;AT+ALL;SG
+kritikus	kritikusokon	N;ON+ESS;PL
+kritikus		N;IN+ALL;PL
+kritikus	kritikusnak	N;DAT;SG
+kritikus		N;ON+ABL;SG
+kritikus		N;AT+ABL;SG
+kritikus		N;ON+ALL;PL
+szervezet		N;NOM;PL
+szervezet		N;FRML;PL
+szervezet	szervezeten	N;AT+ESS;SG
+szervezet	szervezeteknek	N;INST;PL
+szervezet		N;PRP;PL
+szervezet		N;TRANS;PL
+szervezet		N;IN+ABL;SG
+szervezet		N;TERM;SG
+szervezet		N;IN+ABL;PL
+szervezet		N;IN+ALL;SG
+szervezet	szervezetet	N;DAT;SG
+szervezet		N;AT+ABL;PL
+szervezet		N;FRML;SG
+szervezet		N;ACC;PL
+szervezet		N;AT+ALL;PL
+szervezet		N;ACC;SG
+szervezet		N;ON+ALL;SG
+szervezet		N;ON+ESS;SG
+szervezet		N;DAT;PL
+szervezet		N;AT+ESS;PL
+szervezet		N;NOM;SG
+szervezet		N;IN+ESS;SG
+szervezet	szervezetért	N;TRANS;SG
+szervezet		N;INST;SG
+szervezet	szervezettel	N;PRP;SG
+szervezet	szervezetekké	N;TERM;PL
+szervezet		N;AT+ALL;SG
+szervezet		N;ON+ESS;PL
+szervezet		N;IN+ALL;PL
+szervezet		N;ON+ABL;PL
+szervezet		N;ON+ABL;SG
+szervezet		N;AT+ABL;SG
+szervezet		N;ON+ALL;PL
+germánium		N;TRANS;SG
+germánium		N;FRML;PL
+germánium		N;AT+ESS;SG
+germánium		N;INST;PL
+germánium		N;IN+ESS;SG
+germánium		N;NOM;SG
+germánium	germániumokról	N;ON+ABL;PL
+germánium	germániumból	N;IN+ABL;SG
+germánium		N;TERM;SG
+germánium		N;IN+ALL;SG
+germánium		N;AT+ABL;PL
+germánium		N;FRML;SG
+germánium		N;ACC;PL
+germánium		N;AT+ALL;PL
+germánium		N;ON+ABL;SG
+germánium		N;ON+ALL;SG
+germánium	germániumon	N;ON+ESS;SG
+germánium		N;DAT;PL
+germánium		N;AT+ESS;PL
+germánium		N;TRANS;PL
+germánium		N;AT+ABL;SG
+germánium		N;PRP;PL
+germánium		N;IN+ESS;PL
+germánium	germániumokból	N;IN+ABL;PL
+germánium		N;INST;SG
+germánium		N;PRP;SG
+germánium		N;TERM;PL
+germánium		N;AT+ALL;SG
+germánium		N;ON+ESS;PL
+germánium		N;IN+ALL;PL
+germánium		N;DAT;SG
+germánium	germániumot	N;ACC;SG
+germánium	germániumok	N;NOM;PL
+germánium		N;ON+ALL;PL
+kötőjel		N;FRML;PL
+kötőjel		N;NOM;PL
+kötőjel		N;AT+ESS;SG
+kötőjel		N;INST;PL
+kötőjel		N;IN+ESS;SG
+kötőjel		N;NOM;SG
+kötőjel		N;IN+ABL;SG
+kötőjel	kötőjelig	N;TERM;SG
+kötőjel	kötőjelbe	N;IN+ALL;SG
+kötőjel		N;DAT;SG
+kötőjel		N;AT+ABL;PL
+kötőjel		N;TRANS;SG
+kötőjel		N;FRML;SG
+kötőjel		N;ACC;PL
+kötőjel	kötőjelekhez	N;AT+ALL;PL
+kötőjel		N;ON+ABL;SG
+kötőjel		N;ON+ALL;SG
+kötőjel		N;ON+ESS;SG
+kötőjel		N;DAT;PL
+kötőjel		N;AT+ESS;PL
+kötőjel		N;TRANS;PL
+kötőjel		N;PRP;PL
+kötőjel		N;IN+ESS;PL
+kötőjel	kötőjelekből	N;IN+ABL;PL
+kötőjel		N;INST;SG
+kötőjel		N;PRP;SG
+kötőjel		N;TERM;PL
+kötőjel		N;AT+ALL;SG
+kötőjel	kötőjeleken	N;ON+ESS;PL
+kötőjel		N;IN+ALL;PL
+kötőjel		N;ON+ABL;PL
+kötőjel	kötőjelet	N;ACC;SG
+kötőjel		N;AT+ABL;SG
+kötőjel		N;ON+ALL;PL
+alaptalan		N;TRANS;SG
+alaptalan	alaptalanokként	N;FRML;PL
+alaptalan		N;AT+ESS;SG
+alaptalan		N;INST;PL
+alaptalan		N;IN+ESS;SG
+alaptalan		N;NOM;SG
+alaptalan		N;ON+ABL;PL
+alaptalan		N;IN+ABL;SG
+alaptalan	alaptalanig	N;TERM;SG
+alaptalan		N;IN+ALL;SG
+alaptalan		N;AT+ABL;PL
+alaptalan		N;FRML;SG
+alaptalan		N;ACC;PL
+alaptalan		N;AT+ALL;PL
+alaptalan		N;ACC;SG
+alaptalan		N;ON+ALL;SG
+alaptalan		N;ON+ESS;SG
+alaptalan	alaptalanoknak	N;DAT;PL
+alaptalan		N;AT+ESS;PL
+alaptalan	alaptalanokká	N;TRANS;PL
+alaptalan		N;AT+ABL;SG
+alaptalan		N;PRP;PL
+alaptalan		N;IN+ESS;PL
+alaptalan		N;IN+ABL;PL
+alaptalan		N;INST;SG
+alaptalan		N;PRP;SG
+alaptalan		N;TERM;PL
+alaptalan	alaptalanhoz	N;AT+ALL;SG
+alaptalan	alaptalanokon	N;ON+ESS;PL
+alaptalan		N;IN+ALL;PL
+alaptalan		N;DAT;SG
+alaptalan		N;ON+ABL;SG
+alaptalan		N;NOM;PL
+alaptalan		N;ON+ALL;PL
+kolostor		N;FRML;PL
+kolostor		N;NOM;PL
+kolostor		N;AT+ESS;SG
+kolostor	kolostorokkal	N;INST;PL
+kolostor		N;IN+ESS;SG
+kolostor		N;NOM;SG
+kolostor		N;ON+ABL;PL
+kolostor		N;IN+ABL;SG
+kolostor	kolostorig	N;TERM;SG
+kolostor		N;IN+ALL;SG
+kolostor		N;AT+ABL;PL
+kolostor	kolostorrá	N;TRANS;SG
+kolostor	kolostorként	N;FRML;SG
+kolostor		N;ACC;PL
+kolostor		N;AT+ALL;PL
+kolostor		N;ACC;SG
+kolostor		N;ON+ALL;SG
+kolostor		N;ON+ESS;SG
+kolostor		N;DAT;PL
+kolostor		N;AT+ESS;PL
+kolostor		N;TRANS;PL
+kolostor		N;PRP;PL
+kolostor	kolostorokban	N;IN+ESS;PL
+kolostor		N;IN+ABL;PL
+kolostor		N;INST;SG
+kolostor		N;PRP;SG
+kolostor		N;TERM;PL
+kolostor		N;AT+ALL;SG
+kolostor	kolostorokon	N;ON+ESS;PL
+kolostor		N;IN+ALL;PL
+kolostor		N;DAT;SG
+kolostor		N;ON+ABL;SG
+kolostor		N;AT+ABL;SG
+kolostor		N;ON+ALL;PL
+legnagyobb		N;FRML;PL
+legnagyobb		N;NOM;PL
+legnagyobb		N;AT+ESS;SG
+legnagyobb	legnagyobbakkal	N;INST;PL
+legnagyobb	legnagyobban	N;IN+ESS;SG
+legnagyobb		N;NOM;SG
+legnagyobb		N;IN+ABL;SG
+legnagyobb		N;TERM;SG
+legnagyobb		N;IN+ABL;PL
+legnagyobb		N;IN+ALL;SG
+legnagyobb		N;DAT;SG
+legnagyobb	legnagyobbaktól	N;AT+ABL;PL
+legnagyobb		N;FRML;SG
+legnagyobb		N;ACC;PL
+legnagyobb		N;AT+ALL;PL
+legnagyobb		N;ON+ABL;SG
+legnagyobb	legnagyobbra	N;ON+ALL;SG
+legnagyobb		N;ON+ESS;SG
+legnagyobb		N;DAT;PL
+legnagyobb	legnagyobbaknál	N;AT+ESS;PL
+legnagyobb		N;TRANS;PL
+legnagyobb		N;PRP;PL
+legnagyobb		N;IN+ESS;PL
+legnagyobb		N;TRANS;SG
+legnagyobb		N;INST;SG
+legnagyobb		N;PRP;SG
+legnagyobb		N;TERM;PL
+legnagyobb	legnagyobbhoz	N;AT+ALL;SG
+legnagyobb		N;ON+ESS;PL
+legnagyobb		N;IN+ALL;PL
+legnagyobb		N;ON+ABL;PL
+legnagyobb		N;ACC;SG
+legnagyobb		N;AT+ABL;SG
+legnagyobb		N;ON+ALL;PL
+belátható		N;FRML;PL
+belátható	beláthatók	N;NOM;PL
+belátható		N;AT+ESS;SG
+belátható		N;INST;PL
+belátható		N;IN+ESS;SG
+belátható		N;NOM;SG
+belátható		N;IN+ABL;SG
+belátható		N;TERM;SG
+belátható		N;IN+ALL;SG
+belátható		N;DAT;SG
+belátható		N;AT+ABL;PL
+belátható	beláthatóvá	N;TRANS;SG
+belátható	beláthatóként	N;FRML;SG
+belátható		N;ACC;PL
+belátható		N;AT+ALL;PL
+belátható		N;ACC;SG
+belátható		N;ON+ALL;SG
+belátható	beláthatón	N;ON+ESS;SG
+belátható	beláthatóknak	N;DAT;PL
+belátható		N;AT+ESS;PL
+belátható		N;TRANS;PL
+belátható		N;PRP;PL
+belátható		N;IN+ESS;PL
+belátható		N;IN+ABL;PL
+belátható		N;INST;SG
+belátható		N;PRP;SG
+belátható		N;TERM;PL
+belátható		N;AT+ALL;SG
+belátható		N;ON+ESS;PL
+belátható	beláthatókba	N;IN+ALL;PL
+belátható		N;ON+ABL;PL
+belátható		N;ON+ABL;SG
+belátható		N;AT+ABL;SG
+belátható		N;ON+ALL;PL
+hívei		N;TRANS;SG
+hívei		N;IN+ALL;SG
+hívei		N;AT+ALL;SG
+hívei		N;AT+ESS;SG
+hívei		N;IN+ESS;SG
+hívei		N;NOM;SG
+hívei		N;DAT;SG
+hívei	híveiként	N;FRML;SG
+hívei		N;ON+ESS;SG
+hívei		N;AT+ABL;SG
+hívei		N;ON+ABL;SG
+hívei		N;IN+ABL;SG
+hívei		N;TERM;SG
+hívei	híveivel	N;INST;SG
+hívei		N;ON+ALL;SG
+hívei		N;PRP;SG
+hívei		N;ACC;SG
+lakik	lakna	V;COND;PRS;INDF;3;SG
+lakik		V;COND;PRS;DEF;1;PL
+lakik		V;SBJV;PRS;DEF;3;PL
+lakik		V;IND;PRS;DEF;3;PL
+lakik		V;IND;PRS;DEF;1;PL
+lakik		V;IND;PRS;INDF;3;PL
+lakik		V;IND;PST;INDF;2;SG
+lakik		V;NFIN;1;SG
+lakik	lakjatok	V;SBJV;PRS;INDF;2;PL
+lakik		V;COND;PRS;INDF;2;SG
+lakik		V.PTCP;PRS
+lakik		V;NFIN;3;SG
+lakik	laknák	V;COND;PRS;DEF;3;PL
+lakik		V.PTCP;PST
+lakik		V;IND;PST;DEF;2;PL
+lakik	lakd	V;SBJV;PRS;DEF;2;SG
+lakik		V;COND;PRS;DEF;2;SG
+lakik		V;COND;PRS;DEF;1;SG
+lakik		V;IND;PRS;INDF;1;PL
+lakik		V;COND;PRS;INDF;1;PL
+lakik		V;IND;PST;INDF;1;SG
+lakik		V;SBJV;PRS;DEF;1;PL
+lakik		V;SBJV;PRS;INDF;1;SG
+lakik	lakjátok	V;IND;PRS;DEF;2;PL
+lakik	lakjon	V;SBJV;PRS;INDF;3;SG
+lakik		V;IND;PRS;INDF;2;SG
+lakik		V;NFIN;2;PL
+lakik	laktam	V;IND;PST;DEF;1;SG
+lakik		V;IND;PRS;DEF;3;SG
+lakik	lakj	V;SBJV;PRS;INDF;2;SG
+lakik		V;IND;PST;DEF;3;SG
+lakik		V;SBJV;PRS;DEF;3;SG
+lakik		V;NFIN;1;PL
+lakik		V.CVB
+lakik	lakom	V;IND;PRS;DEF;1;SG
+lakik		V;COND;PRS;INDF;3;PL
+lakik		V;IND;PRS;INDF;1;SG
+lakik		V;COND;PRS;DEF;3;SG
+lakik		V;IND;PRS;INDF;3;SG
+lakik		V;IND;PST;INDF;3;SG
+lakik		V;NFIN;3;PL
+lakik	laknátok	V;COND;PRS;INDF;2;PL
+lakik		V;NFIN
+lakik		V;SBJV;PRS;DEF;2;PL
+lakik		V.PTCP;FUT
+lakik		V;IND;PST;INDF;2;PL
+lakik		V;IND;PST;INDF;3;PL
+lakik		V;COND;PRS;DEF;2;PL
+lakik		V;IND;PST;INDF;1;PL
+lakik		V;IND;PRS;INDF;2;PL
+lakik		V;SBJV;PRS;DEF;1;SG
+lakik		V;SBJV;PRS;INDF;1;PL
+lakik		V;IND;PRS;DEF;2;SG
+lakik		V;IND;PST;DEF;1;PL
+lakik		V;IND;PST;DEF;3;PL
+lakik		V;NFIN;2;SG
+lakik		V;COND;PRS;INDF;1;SG
+lakik		V;IND;PST;DEF;2;SG
+lakik	lakjanak	V;SBJV;PRS;INDF;3;PL
+technika		N;NOM;PL
+technika	technikáért	N;TRANS;SG
+technika	technikán	N;AT+ESS;SG
+technika		N;INST;PL
+technika		N;PRP;PL
+technika	technikákért	N;TRANS;PL
+technika		N;IN+ABL;SG
+technika	technikává	N;TERM;SG
+technika		N;IN+ALL;SG
+technika		N;DAT;SG
+technika		N;AT+ABL;PL
+technika		N;FRML;SG
+technika		N;ACC;PL
+technika		N;AT+ALL;PL
+technika		N;ACC;SG
+technika		N;ON+ALL;SG
+technika		N;ON+ESS;SG
+technika		N;DAT;PL
+technika		N;AT+ESS;PL
+technika		N;NOM;SG
+technika		N;IN+ABL;PL
+technika		N;INST;SG
+technika		N;PRP;SG
+technika		N;TERM;PL
+technika		N;FRML;PL
+technika		N;AT+ALL;SG
+technika	technikákban	N;ON+ESS;PL
+technika		N;IN+ALL;PL
+technika		N;ON+ABL;PL
+technika		N;ON+ABL;SG
+technika		N;AT+ABL;SG
+technika		N;ON+ALL;PL
+var		N;NOM;PL
+var		N;FRML;PL
+var		N;AT+ESS;SG
+var		N;INST;PL
+var		N;PRP;PL
+var		N;TRANS;PL
+var		N;IN+ABL;SG
+var	varrá	N;TERM;SG
+var		N;IN+ABL;PL
+var		N;IN+ALL;SG
+var		N;DAT;SG
+var		N;AT+ABL;PL
+var		N;FRML;SG
+var	varak	N;ACC;PL
+var		N;AT+ALL;PL
+var		N;ACC;SG
+var		N;ON+ALL;SG
+var	varból	N;ON+ABL;SG
+var		N;DAT;PL
+var	varakon	N;AT+ESS;PL
+var		N;NOM;SG
+var		N;TRANS;SG
+var		N;INST;SG
+var		N;PRP;SG
+var		N;TERM;PL
+var		N;AT+ALL;SG
+var		N;ON+ESS;PL
+var		N;IN+ALL;PL
+var		N;ON+ABL;PL
+var		N;ON+ESS;SG
+var		N;AT+ABL;SG
+var	varakba	N;ON+ALL;PL
+televízió		N;FRML;PL
+televízió	televíziók	N;NOM;PL
+televízió		N;AT+ESS;SG
+televízió		N;INST;PL
+televízió	televízióban	N;IN+ESS;SG
+televízió		N;NOM;SG
+televízió	televízióból	N;IN+ABL;SG
+televízió		N;TERM;SG
+televízió		N;IN+ALL;SG
+televízió		N;DAT;SG
+televízió		N;AT+ABL;PL
+televízió	televízióvá	N;TRANS;SG
+televízió		N;FRML;SG
+televízió		N;ACC;PL
+televízió		N;AT+ALL;PL
+televízió		N;ACC;SG
+televízió		N;ON+ALL;SG
+televízió		N;ON+ESS;SG
+televízió	televízióknak	N;DAT;PL
+televízió		N;AT+ESS;PL
+televízió	televíziókká	N;TRANS;PL
+televízió		N;PRP;PL
+televízió		N;IN+ESS;PL
+televízió		N;IN+ABL;PL
+televízió		N;INST;SG
+televízió		N;PRP;SG
+televízió		N;TERM;PL
+televízió		N;AT+ALL;SG
+televízió		N;ON+ESS;PL
+televízió		N;IN+ALL;PL
+televízió		N;ON+ABL;PL
+televízió		N;ON+ABL;SG
+televízió		N;AT+ABL;SG
+televízió		N;ON+ALL;PL
+jelentése		N;TRANS;SG
+jelentése		N;IN+ALL;SG
+jelentése		N;AT+ALL;SG
+jelentése		N;AT+ESS;SG
+jelentése		N;IN+ESS;SG
+jelentése	jelentése	N;NOM;SG
+jelentése		N;DAT;SG
+jelentése		N;FRML;SG
+jelentése		N;ON+ESS;SG
+jelentése		N;AT+ABL;SG
+jelentése		N;ON+ABL;SG
+jelentése		N;IN+ABL;SG
+jelentése	jelentéséig	N;TERM;SG
+jelentése		N;INST;SG
+jelentése		N;ON+ALL;SG
+jelentése		N;PRP;SG
+jelentése		N;ACC;SG
+kisebb		N;FRML;PL
+kisebb		N;TRANS;SG
+kisebb	kisebbnél	N;AT+ESS;SG
+kisebb		N;INST;PL
+kisebb		N;IN+ESS;SG
+kisebb		N;NOM;SG
+kisebb		N;IN+ABL;SG
+kisebb		N;TERM;SG
+kisebb		N;IN+ALL;SG
+kisebb		N;DAT;SG
+kisebb		N;AT+ABL;PL
+kisebb		N;FRML;SG
+kisebb		N;ACC;PL
+kisebb		N;AT+ALL;PL
+kisebb		N;ON+ABL;SG
+kisebb		N;ON+ALL;SG
+kisebb		N;ON+ESS;SG
+kisebb		N;DAT;PL
+kisebb		N;AT+ESS;PL
+kisebb		N;TRANS;PL
+kisebb	kisebbtől	N;AT+ABL;SG
+kisebb		N;PRP;PL
+kisebb	kisebbekben	N;IN+ESS;PL
+kisebb		N;IN+ABL;PL
+kisebb	kisebbel	N;INST;SG
+kisebb		N;PRP;SG
+kisebb		N;TERM;PL
+kisebb	kisebbhez	N;AT+ALL;SG
+kisebb		N;ON+ESS;PL
+kisebb		N;IN+ALL;PL
+kisebb		N;ON+ABL;PL
+kisebb		N;ACC;SG
+kisebb	kisebbek	N;NOM;PL
+kisebb		N;ON+ALL;PL
+régió		N;FRML;PL
+régió		N;NOM;PL
+régió	régiónál	N;AT+ESS;SG
+régió		N;INST;PL
+régió	régióban	N;IN+ESS;SG
+régió	régió	N;NOM;SG
+régió		N;IN+ABL;SG
+régió		N;TERM;SG
+régió		N;IN+ALL;SG
+régió		N;DAT;SG
+régió		N;AT+ABL;PL
+régió	régióvá	N;TRANS;SG
+régió		N;FRML;SG
+régió		N;ACC;PL
+régió		N;AT+ALL;PL
+régió		N;ACC;SG
+régió		N;ON+ALL;SG
+régió		N;ON+ESS;SG
+régió		N;DAT;PL
+régió	régióknál	N;AT+ESS;PL
+régió		N;TRANS;PL
+régió		N;PRP;PL
+régió		N;IN+ESS;PL
+régió		N;IN+ABL;PL
+régió		N;INST;SG
+régió	régióért	N;PRP;SG
+régió		N;TERM;PL
+régió		N;AT+ALL;SG
+régió		N;ON+ESS;PL
+régió		N;IN+ALL;PL
+régió		N;ON+ABL;PL
+régió		N;ON+ABL;SG
+régió		N;AT+ABL;SG
+régió		N;ON+ALL;PL

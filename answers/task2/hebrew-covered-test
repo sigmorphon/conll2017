@@ -1,0 +1,1354 @@
+אוזן		N;PL;DEF;PSS2P;FEM
+אוזן	האוזניים	N;PL;DEF
+אוזן		N;SG;N;SGDEF;PSS1P
+אוזן		N;SG;N;SGDEF;PSS1S
+אוזן		N;SG;PSSD;PSS2S;MASC
+אוזן		N;PL;PSSD;PSS2S;FEM
+אוזן		N;PL;DEF;PSS2S;FEM
+אוזן		N;SG;PSSD;PSS2P;FEM
+אוזן		N;PL;DEF;PSS2P;MASC
+אוזן		N;PL;DEF;PSS2S;MASC
+אוזן		N;SG;DEF;PSS2P;MASC
+אוזן		N;SG;DEF;PSS2S;MASC
+אוזן		N;SG;NDEF
+אוזן	אוזניהן	N;PL;PSSD;PSS2P;FEM
+אוזן		N;SG;PSSD;PSS2P;MASC
+אוזן		N;SG;DEF;PSS2S;FEM
+אוזן		N;PL;PSSD
+אוזן		N;PL;N;PLDEF;PSS1P
+אוזן		N;SG;DEF;PSS2P;FEM
+אוזן		N;PL;N;PLDEF;PSS1S
+אוזן	אוזה	N;SG;PSSD;PSS2S;FEM
+אוזן		N;PL;NDEF
+אוזן	אוזניהם	N;PL;PSSD;PSS2P;MASC
+אוזן		N;SG;PSSD
+אוזן		N;SG;DEF
+אוזן		N;PL;PSSD;PSS2S;MASC
+ביטא		V;2;PL;FUT;FEM
+ביטא		V;2;SG;PST;MASC
+ביטא		V;2;PL;IMP;FEM
+ביטא		V;3;SG;FUT;FEM
+ביטא		V;2;PL;IMP;MASC
+ביטא		V;3;PL;FUT;FEM
+ביטא		V;PL;PRS;FEM
+ביטא		V;2;SG;IMP;FEM
+ביטא		V;2;SG;FUT;FEM
+ביטא		V;3;SG;PST;FEM
+ביטא		V;2;SG;PST;FEM
+ביטא		V;SG;PRS;FEM
+ביטא	ביטא	V;3;SG;PST;MASC
+ביטא		V;1;PL;PST
+ביטא	יבטאו	V;3;PL;FUT;MASC
+ביטא		V;3;PL;PST
+ביטא		V;2;PL;PST;FEM
+ביטא	מבטאים	V;PL;PRS;MASC
+ביטא		V;NFIN
+ביטא		V;2;SG;IMP;MASC
+ביטא	נבטא	V;1;PL;FUT
+ביטא		V;2;PL;FUT:MASC
+ביטא	אבטא	V;1;SG;FUT
+ביטא		V;2;PL;PST;MASC
+ביטא		V;3;SG;FUT;MASC
+ביטא		V;SG;PRS;MASC
+ביטא		V;1;SG;PST
+ביטא		V;2;SG;FUT;MASC
+שפע		V;2;PL;FUT;FEM
+שפע		V;2;SG;PST;MASC
+שפע	שׁפענה	V;2;PL;IMP;FEM
+שפע		V;3;SG;FUT;FEM
+שפע		V;2;PL;IMP;MASC
+שפע		V;3;PL;FUT;FEM
+שפע	שׁופעות	V;PL;PRS;FEM
+שפע		V;2;SG;IMP;FEM
+שפע		V;2;SG;FUT;FEM
+שפע		V;3;SG;PST;FEM
+שפע	שׁפעת	V;2;SG;PST;FEM
+שפע		V;SG;PRS;FEM
+שפע		V;3;SG;PST;MASC
+שפע		V;1;PL;PST
+שפע	ישׁפעו	V;3;PL;FUT;MASC
+שפע		V;3;PL;PST
+שפע		V;2;PL;PST;FEM
+שפע		V;PL;PRS;MASC
+שפע		V;NFIN
+שפע		V;2;SG;IMP;MASC
+שפע		V;1;PL;FUT
+שפע		V;2;PL;FUT:MASC
+שפע		V;1;SG;FUT
+שפע		V;2;PL;PST;MASC
+שפע		V;3;SG;FUT;MASC
+שפע		V;SG;PRS;MASC
+שפע		V;1;SG;PST
+שפע	תשׁפע	V;2;SG;FUT;MASC
+גבינה		N;PL;DEF;PSS2P;FEM
+גבינה		N;PL;DEF
+גבינה		N;SG;N;SGDEF;PSS1P
+גבינה		N;SG;N;SGDEF;PSS1S
+גבינה		N;SG;PSSD;PSS2S;MASC
+גבינה		N;PL;PSSD;PSS2S;FEM
+גבינה		N;PL;DEF;PSS2S;FEM
+גבינה		N;SG;PSSD;PSS2P;FEM
+גבינה		N;PL;DEF;PSS2P;MASC
+גבינה		N;PL;DEF;PSS2S;MASC
+גבינה		N;SG;DEF;PSS2P;MASC
+גבינה		N;SG;DEF;PSS2S;MASC
+גבינה		N;SG;NDEF
+גבינה		N;PL;PSSD;PSS2P;FEM
+גבינה		N;SG;PSSD;PSS2P;MASC
+גבינה	גבינתך	N;SG;DEF;PSS2S;FEM
+גבינה		N;PL;PSSD
+גבינה	גבינותינו	N;PL;N;PLDEF;PSS1P
+גבינה	גבינתכן	N;SG;DEF;PSS2P;FEM
+גבינה		N;PL;N;PLDEF;PSS1S
+גבינה		N;SG;PSSD;PSS2S;FEM
+גבינה		N;PL;NDEF
+גבינה		N;PL;PSSD;PSS2P;MASC
+גבינה		N;SG;PSSD
+גבינה		N;SG;DEF
+גבינה	גבינותיו	N;PL;PSSD;PSS2S;MASC
+מצב		N;PL;DEF;PSS2P;FEM
+מצב		N;PL;DEF
+מצב		N;SG;N;SGDEF;PSS1P
+מצב		N;SG;N;SGDEF;PSS1S
+מצב		N;SG;PSSD;PSS2S;MASC
+מצב		N;PL;PSSD;PSS2S;FEM
+מצב	מצבייך	N;PL;DEF;PSS2S;FEM
+מצב		N;SG;PSSD;PSS2P;FEM
+מצב		N;PL;DEF;PSS2P;MASC
+מצב		N;PL;DEF;PSS2S;MASC
+מצב		N;SG;DEF;PSS2P;MASC
+מצב		N;SG;DEF;PSS2S;MASC
+מצב		N;SG;NDEF
+מצב		N;PL;PSSD;PSS2P;FEM
+מצב	מצבם	N;SG;PSSD;PSS2P;MASC
+מצב		N;SG;DEF;PSS2S;FEM
+מצב	מצבי	N;PL;PSSD
+מצב		N;PL;N;PLDEF;PSS1P
+מצב		N;SG;DEF;PSS2P;FEM
+מצב		N;PL;N;PLDEF;PSS1S
+מצב		N;SG;PSSD;PSS2S;FEM
+מצב		N;PL;NDEF
+מצב		N;PL;PSSD;PSS2P;MASC
+מצב		N;SG;PSSD
+מצב	המצב	N;SG;DEF
+מצב		N;PL;PSSD;PSS2S;MASC
+תשובה		N;PL;DEF;PSS2P;FEM
+תשובה	התשׁובות	N;PL;DEF
+תשובה		N;SG;N;SGDEF;PSS1P
+תשובה		N;SG;N;SGDEF;PSS1S
+תשובה		N;SG;PSSD;PSS2S;MASC
+תשובה		N;PL;PSSD;PSS2S;FEM
+תשובה		N;PL;DEF;PSS2S;FEM
+תשובה		N;SG;PSSD;PSS2P;FEM
+תשובה		N;PL;DEF;PSS2P;MASC
+תשובה		N;PL;DEF;PSS2S;MASC
+תשובה		N;SG;DEF;PSS2P;MASC
+תשובה		N;SG;DEF;PSS2S;MASC
+תשובה		N;SG;NDEF
+תשובה		N;PL;PSSD;PSS2P;FEM
+תשובה		N;SG;PSSD;PSS2P;MASC
+תשובה		N;SG;DEF;PSS2S;FEM
+תשובה		N;PL;PSSD
+תשובה		N;PL;N;PLDEF;PSS1P
+תשובה	תשׁובתכן	N;SG;DEF;PSS2P;FEM
+תשובה	תשובותיי	N;PL;N;PLDEF;PSS1S
+תשובה		N;SG;PSSD;PSS2S;FEM
+תשובה		N;PL;NDEF
+תשובה		N;PL;PSSD;PSS2P;MASC
+תשובה		N;SG;PSSD
+תשובה	התשׁובה	N;SG;DEF
+תשובה		N;PL;PSSD;PSS2S;MASC
+עקף		V;2;PL;FUT;FEM
+עקף		V;2;SG;PST;MASC
+עקף	עקופנה	V;2;PL;IMP;FEM
+עקף		V;3;SG;FUT;FEM
+עקף	עקפו	V;2;PL;IMP;MASC
+עקף		V;3;PL;FUT;FEM
+עקף		V;PL;PRS;FEM
+עקף		V;2;SG;IMP;FEM
+עקף		V;2;SG;FUT;FEM
+עקף		V;3;SG;PST;FEM
+עקף	עקפת	V;2;SG;PST;FEM
+עקף	עוקפת	V;SG;PRS;FEM
+עקף		V;3;SG;PST;MASC
+עקף		V;1;PL;PST
+עקף		V;3;PL;FUT;MASC
+עקף	עקפו	V;3;PL;PST
+עקף		V;2;PL;PST;FEM
+עקף		V;PL;PRS;MASC
+עקף		V;NFIN
+עקף		V;2;SG;IMP;MASC
+עקף		V;1;PL;FUT
+עקף		V;2;PL;FUT:MASC
+עקף		V;1;SG;FUT
+עקף		V;2;PL;PST;MASC
+עקף		V;3;SG;FUT;MASC
+עקף		V;SG;PRS;MASC
+עקף		V;1;SG;PST
+עקף		V;2;SG;FUT;MASC
+בוטל		V;2;PL;FUT;FEM
+בוטל	בוטלת	V;2;SG;PST;MASC
+בוטל		V;3;SG;FUT;FEM
+בוטל		V;3;PL;FUT;FEM
+בוטל		V;PL;PRS;FEM
+בוטל	תבוטלי	V;2;SG;FUT;FEM
+בוטל		V;3;SG;PST;FEM
+בוטל		V;2;SG;PST;FEM
+בוטל	מבוטלת	V;SG;PRS;FEM
+בוטל		V;3;SG;PST;MASC
+בוטל		V;1;PL;PST
+בוטל		V;3;PL;FUT;MASC
+בוטל		V;3;PL;PST
+בוטל		V;2;PL;PST;FEM
+בוטל		V;PL;PRS;MASC
+בוטל		V;1;PL;FUT
+בוטל		V;2;PL;FUT:MASC
+בוטל		V;1;SG;FUT
+בוטל		V;2;PL;PST;MASC
+בוטל		V;3;SG;FUT;MASC
+בוטל		V;SG;PRS;MASC
+בוטל		V;1;SG;PST
+בוטל	תבוטל	V;2;SG;FUT;MASC
+הבטחה		N;PL;DEF;PSS2P;FEM
+הבטחה		N;PL;DEF
+הבטחה	הבטחתנו	N;SG;N;SGDEF;PSS1P
+הבטחה		N;SG;N;SGDEF;PSS1S
+הבטחה	הבטחתו	N;SG;PSSD;PSS2S;MASC
+הבטחה		N;PL;PSSD;PSS2S;FEM
+הבטחה		N;PL;DEF;PSS2S;FEM
+הבטחה		N;SG;PSSD;PSS2P;FEM
+הבטחה		N;PL;DEF;PSS2P;MASC
+הבטחה		N;PL;DEF;PSS2S;MASC
+הבטחה		N;SG;DEF;PSS2P;MASC
+הבטחה		N;SG;DEF;PSS2S;MASC
+הבטחה		N;SG;NDEF
+הבטחה		N;PL;PSSD;PSS2P;FEM
+הבטחה		N;SG;PSSD;PSS2P;MASC
+הבטחה		N;SG;DEF;PSS2S;FEM
+הבטחה		N;PL;PSSD
+הבטחה		N;PL;N;PLDEF;PSS1P
+הבטחה		N;SG;DEF;PSS2P;FEM
+הבטחה	הבטחותיי	N;PL;N;PLDEF;PSS1S
+הבטחה		N;SG;PSSD;PSS2S;FEM
+הבטחה		N;PL;NDEF
+הבטחה		N;PL;PSSD;PSS2P;MASC
+הבטחה	הבטחת	N;SG;PSSD
+הבטחה		N;SG;DEF
+הבטחה		N;PL;PSSD;PSS2S;MASC
+חס		V;2;PL;FUT;FEM
+חס		V;2;SG;PST;MASC
+חס		V;2;PL;IMP;FEM
+חס		V;3;SG;FUT;FEM
+חס		V;2;PL;IMP;MASC
+חס		V;3;PL;FUT;FEM
+חס		V;PL;PRS;FEM
+חס		V;2;SG;IMP;FEM
+חס		V;2;SG;FUT;FEM
+חס		V;3;SG;PST;FEM
+חס		V;2;SG;PST;FEM
+חס	חסה	V;SG;PRS;FEM
+חס		V;3;SG;PST;MASC
+חס		V;1;PL;PST
+חס		V;3;PL;FUT;MASC
+חס		V;3;PL;PST
+חס	חסתן	V;2;PL;PST;FEM
+חס		V;PL;PRS;MASC
+חס	לחוס	V;NFIN
+חס		V;2;SG;IMP;MASC
+חס	נחוס	V;1;PL;FUT
+חס		V;2;PL;FUT:MASC
+חס		V;1;SG;FUT
+חס		V;2;PL;PST;MASC
+חס		V;3;SG;FUT;MASC
+חס		V;SG;PRS;MASC
+חס		V;1;SG;PST
+חס	תחוס	V;2;SG;FUT;MASC
+משח		V;2;PL;FUT;FEM
+משח		V;2;SG;PST;MASC
+משח		V;2;PL;IMP;FEM
+משח		V;3;SG;FUT;FEM
+משח		V;2;PL;IMP;MASC
+משח		V;3;PL;FUT;FEM
+משח		V;PL;PRS;FEM
+משח	משׁחי	V;2;SG;IMP;FEM
+משח		V;2;SG;FUT;FEM
+משח		V;3;SG;PST;FEM
+משח		V;2;SG;PST;FEM
+משח		V;SG;PRS;FEM
+משח		V;3;SG;PST;MASC
+משח		V;1;PL;PST
+משח	ימשׁחו	V;3;PL;FUT;MASC
+משח	משׁחו	V;3;PL;PST
+משח		V;2;PL;PST;FEM
+משח		V;PL;PRS;MASC
+משח		V;NFIN
+משח		V;2;SG;IMP;MASC
+משח	נמשׁח	V;1;PL;FUT
+משח		V;2;PL;FUT:MASC
+משח		V;1;SG;FUT
+משח		V;2;PL;PST;MASC
+משח		V;3;SG;FUT;MASC
+משח		V;SG;PRS;MASC
+משח	משׁחתי	V;1;SG;PST
+משח		V;2;SG;FUT;MASC
+התלבש		V;2;PL;FUT;FEM
+התלבש	התלבשׁת	V;2;SG;PST;MASC
+התלבש		V;2;PL;IMP;FEM
+התלבש		V;3;SG;FUT;FEM
+התלבש		V;2;PL;IMP;MASC
+התלבש		V;3;PL;FUT;FEM
+התלבש		V;PL;PRS;FEM
+התלבש		V;2;SG;IMP;FEM
+התלבש		V;2;SG;FUT;FEM
+התלבש		V;3;SG;PST;FEM
+התלבש		V;2;SG;PST;FEM
+התלבש		V;SG;PRS;FEM
+התלבש		V;3;SG;PST;MASC
+התלבש	התלבשׁנו	V;1;PL;PST
+התלבש		V;3;PL;FUT;MASC
+התלבש		V;3;PL;PST
+התלבש		V;2;PL;PST;FEM
+התלבש		V;PL;PRS;MASC
+התלבש		V;NFIN
+התלבש	התלבשׁ	V;2;SG;IMP;MASC
+התלבש	נתלבשׁ	V;1;PL;FUT
+התלבש		V;2;PL;FUT:MASC
+התלבש		V;1;SG;FUT
+התלבש		V;2;PL;PST;MASC
+התלבש		V;3;SG;FUT;MASC
+התלבש		V;SG;PRS;MASC
+התלבש	התלבשׁתי	V;1;SG;PST
+התלבש		V;2;SG;FUT;MASC
+עמד		V;2;PL;FUT;FEM
+עמד		V;2;SG;PST;MASC
+עמד		V;2;PL;IMP;FEM
+עמד	תעמוד	V;3;SG;FUT;FEM
+עמד		V;2;PL;IMP;MASC
+עמד		V;3;PL;FUT;FEM
+עמד		V;PL;PRS;FEM
+עמד		V;2;SG;IMP;FEM
+עמד	תעמדי	V;2;SG;FUT;FEM
+עמד	עמדה	V;3;SG;PST;FEM
+עמד		V;2;SG;PST;FEM
+עמד		V;SG;PRS;FEM
+עמד		V;3;SG;PST;MASC
+עמד		V;1;PL;PST
+עמד		V;3;PL;FUT;MASC
+עמד		V;3;PL;PST
+עמד		V;2;PL;PST;FEM
+עמד	עומדים	V;PL;PRS;MASC
+עמד		V;NFIN
+עמד		V;2;SG;IMP;MASC
+עמד		V;1;PL;FUT
+עמד		V;2;PL;FUT:MASC
+עמד		V;1;SG;FUT
+עמד		V;2;PL;PST;MASC
+עמד		V;3;SG;FUT;MASC
+עמד		V;SG;PRS;MASC
+עמד		V;1;SG;PST
+עמד	תעמוד	V;2;SG;FUT;MASC
+שיחה		N;PL;DEF;PSS2P;FEM
+שיחה		N;PL;DEF
+שיחה		N;SG;N;SGDEF;PSS1P
+שיחה	שׂיחתי	N;SG;N;SGDEF;PSS1S
+שיחה		N;SG;PSSD;PSS2S;MASC
+שיחה		N;PL;PSSD;PSS2S;FEM
+שיחה		N;PL;DEF;PSS2S;FEM
+שיחה	שׂיחתן	N;SG;PSSD;PSS2P;FEM
+שיחה		N;PL;DEF;PSS2P;MASC
+שיחה		N;PL;DEF;PSS2S;MASC
+שיחה	שׂיחתכם	N;SG;DEF;PSS2P;MASC
+שיחה		N;SG;DEF;PSS2S;MASC
+שיחה	שׂיחה	N;SG;NDEF
+שיחה		N;PL;PSSD;PSS2P;FEM
+שיחה		N;SG;PSSD;PSS2P;MASC
+שיחה		N;SG;DEF;PSS2S;FEM
+שיחה		N;PL;PSSD
+שיחה		N;PL;N;PLDEF;PSS1P
+שיחה		N;SG;DEF;PSS2P;FEM
+שיחה		N;PL;N;PLDEF;PSS1S
+שיחה		N;SG;PSSD;PSS2S;FEM
+שיחה		N;PL;NDEF
+שיחה		N;PL;PSSD;PSS2P;MASC
+שיחה		N;SG;PSSD
+שיחה		N;SG;DEF
+שיחה		N;PL;PSSD;PSS2S;MASC
+בננה		N;PL;DEF;PSS2P;FEM
+בננה		N;PL;DEF
+בננה		N;SG;N;SGDEF;PSS1P
+בננה		N;SG;N;SGDEF;PSS1S
+בננה		N;SG;PSSD;PSS2S;MASC
+בננה	בננותיה	N;PL;PSSD;PSS2S;FEM
+בננה		N;PL;DEF;PSS2S;FEM
+בננה		N;SG;PSSD;PSS2P;FEM
+בננה		N;PL;DEF;PSS2P;MASC
+בננה		N;PL;DEF;PSS2S;MASC
+בננה		N;SG;DEF;PSS2P;MASC
+בננה		N;SG;DEF;PSS2S;MASC
+בננה		N;SG;NDEF
+בננה		N;PL;PSSD;PSS2P;FEM
+בננה		N;SG;PSSD;PSS2P;MASC
+בננה		N;SG;DEF;PSS2S;FEM
+בננה	בננות	N;PL;PSSD
+בננה	בננותינו	N;PL;N;PLDEF;PSS1P
+בננה		N;SG;DEF;PSS2P;FEM
+בננה		N;PL;N;PLDEF;PSS1S
+בננה		N;SG;PSSD;PSS2S;FEM
+בננה		N;PL;NDEF
+בננה	בננותיהם	N;PL;PSSD;PSS2P;MASC
+בננה		N;SG;PSSD
+בננה		N;SG;DEF
+בננה		N;PL;PSSD;PSS2S;MASC
+עקץ		V;2;PL;FUT;FEM
+עקץ		V;2;SG;PST;MASC
+עקץ		V;2;PL;IMP;FEM
+עקץ		V;3;SG;FUT;FEM
+עקץ		V;2;PL;IMP;MASC
+עקץ		V;3;PL;FUT;FEM
+עקץ		V;PL;PRS;FEM
+עקץ	עקצי	V;2;SG;IMP;FEM
+עקץ	תעקצי	V;2;SG;FUT;FEM
+עקץ		V;3;SG;PST;FEM
+עקץ		V;2;SG;PST;FEM
+עקץ		V;SG;PRS;FEM
+עקץ		V;3;SG;PST;MASC
+עקץ		V;1;PL;PST
+עקץ		V;3;PL;FUT;MASC
+עקץ		V;3;PL;PST
+עקץ		V;2;PL;PST;FEM
+עקץ	עוקצים	V;PL;PRS;MASC
+עקץ	לעקוץ	V;NFIN
+עקץ		V;2;SG;IMP;MASC
+עקץ	נעקוץ	V;1;PL;FUT
+עקץ		V;2;PL;FUT:MASC
+עקץ		V;1;SG;FUT
+עקץ		V;2;PL;PST;MASC
+עקץ		V;3;SG;FUT;MASC
+עקץ		V;SG;PRS;MASC
+עקץ		V;1;SG;PST
+עקץ		V;2;SG;FUT;MASC
+שחיטה		N;PL;DEF;PSS2P;FEM
+שחיטה		N;PL;DEF
+שחיטה		N;SG;N;SGDEF;PSS1P
+שחיטה		N;SG;N;SGDEF;PSS1S
+שחיטה		N;SG;PSSD;PSS2S;MASC
+שחיטה	שׁחיטותיה	N;PL;PSSD;PSS2S;FEM
+שחיטה		N;PL;DEF;PSS2S;FEM
+שחיטה		N;SG;PSSD;PSS2P;FEM
+שחיטה		N;PL;DEF;PSS2P;MASC
+שחיטה	שׁחיטותיך	N;PL;DEF;PSS2S;MASC
+שחיטה	שׁחיטתכם	N;SG;DEF;PSS2P;MASC
+שחיטה		N;SG;DEF;PSS2S;MASC
+שחיטה		N;SG;NDEF
+שחיטה	שׁחיטותיהן	N;PL;PSSD;PSS2P;FEM
+שחיטה		N;SG;PSSD;PSS2P;MASC
+שחיטה		N;SG;DEF;PSS2S;FEM
+שחיטה		N;PL;PSSD
+שחיטה		N;PL;N;PLDEF;PSS1P
+שחיטה		N;SG;DEF;PSS2P;FEM
+שחיטה		N;PL;N;PLDEF;PSS1S
+שחיטה		N;SG;PSSD;PSS2S;FEM
+שחיטה		N;PL;NDEF
+שחיטה		N;PL;PSSD;PSS2P;MASC
+שחיטה		N;SG;PSSD
+שחיטה		N;SG;DEF
+שחיטה		N;PL;PSSD;PSS2S;MASC
+ציפה		V;2;PL;FUT;FEM
+ציפה		V;2;SG;PST;MASC
+ציפה	צפינה	V;2;PL;IMP;FEM
+ציפה		V;3;SG;FUT;FEM
+ציפה		V;2;PL;IMP;MASC
+ציפה		V;3;PL;FUT;FEM
+ציפה	מצפות	V;PL;PRS;FEM
+ציפה		V;2;SG;IMP;FEM
+ציפה		V;2;SG;FUT;FEM
+ציפה		V;3;SG;PST;FEM
+ציפה		V;2;SG;PST;FEM
+ציפה	מצפה	V;SG;PRS;FEM
+ציפה		V;3;SG;PST;MASC
+ציפה		V;1;PL;PST
+ציפה		V;3;PL;FUT;MASC
+ציפה		V;3;PL;PST
+ציפה		V;2;PL;PST;FEM
+ציפה	מצפים	V;PL;PRS;MASC
+ציפה		V;NFIN
+ציפה		V;2;SG;IMP;MASC
+ציפה		V;1;PL;FUT
+ציפה		V;2;PL;FUT:MASC
+ציפה		V;1;SG;FUT
+ציפה		V;2;PL;PST;MASC
+ציפה	יצפה	V;3;SG;FUT;MASC
+ציפה		V;SG;PRS;MASC
+ציפה		V;1;SG;PST
+ציפה		V;2;SG;FUT;MASC
+מלוכה	מלוכותיכן	N;PL;DEF;PSS2P;FEM
+מלוכה		N;PL;DEF
+מלוכה	מלוכתנו	N;SG;N;SGDEF;PSS1P
+מלוכה		N;SG;N;SGDEF;PSS1S
+מלוכה		N;SG;PSSD;PSS2S;MASC
+מלוכה	מלוכותיה	N;PL;PSSD;PSS2S;FEM
+מלוכה		N;PL;DEF;PSS2S;FEM
+מלוכה		N;SG;PSSD;PSS2P;FEM
+מלוכה		N;PL;DEF;PSS2P;MASC
+מלוכה		N;PL;DEF;PSS2S;MASC
+מלוכה		N;SG;DEF;PSS2P;MASC
+מלוכה		N;SG;DEF;PSS2S;MASC
+מלוכה		N;SG;NDEF
+מלוכה		N;PL;PSSD;PSS2P;FEM
+מלוכה	מלוכתם	N;SG;PSSD;PSS2P;MASC
+מלוכה		N;SG;DEF;PSS2S;FEM
+מלוכה		N;PL;PSSD
+מלוכה		N;PL;N;PLDEF;PSS1P
+מלוכה		N;SG;DEF;PSS2P;FEM
+מלוכה		N;PL;N;PLDEF;PSS1S
+מלוכה		N;SG;PSSD;PSS2S;FEM
+מלוכה		N;PL;NDEF
+מלוכה		N;PL;PSSD;PSS2P;MASC
+מלוכה		N;SG;PSSD
+מלוכה		N;SG;DEF
+מלוכה		N;PL;PSSD;PSS2S;MASC
+התנגד		V;2;PL;FUT;FEM
+התנגד		V;2;SG;PST;MASC
+התנגד		V;2;PL;IMP;FEM
+התנגד	תתנגד	V;3;SG;FUT;FEM
+התנגד	התנגדו	V;2;PL;IMP;MASC
+התנגד		V;3;PL;FUT;FEM
+התנגד		V;PL;PRS;FEM
+התנגד		V;2;SG;IMP;FEM
+התנגד		V;2;SG;FUT;FEM
+התנגד	התנגדה	V;3;SG;PST;FEM
+התנגד		V;2;SG;PST;FEM
+התנגד		V;SG;PRS;FEM
+התנגד		V;3;SG;PST;MASC
+התנגד		V;1;PL;PST
+התנגד		V;3;PL;FUT;MASC
+התנגד	התנגדו	V;3;PL;PST
+התנגד		V;2;PL;PST;FEM
+התנגד		V;PL;PRS;MASC
+התנגד		V;NFIN
+התנגד		V;2;SG;IMP;MASC
+התנגד		V;1;PL;FUT
+התנגד		V;2;PL;FUT:MASC
+התנגד		V;1;SG;FUT
+התנגד		V;2;PL;PST;MASC
+התנגד		V;3;SG;FUT;MASC
+התנגד		V;SG;PRS;MASC
+התנגד		V;1;SG;PST
+התנגד	תתנגד	V;2;SG;FUT;MASC
+בלה		V;2;PL;FUT;FEM
+בלה		V;2;SG;PST;MASC
+בלה		V;2;PL;IMP;FEM
+בלה		V;3;SG;FUT;FEM
+בלה	בלו	V;2;PL;IMP;MASC
+בלה		V;3;PL;FUT;FEM
+בלה		V;PL;PRS;FEM
+בלה		V;2;SG;IMP;FEM
+בלה	תבלי	V;2;SG;FUT;FEM
+בלה		V;3;SG;PST;FEM
+בלה		V;2;SG;PST;FEM
+בלה	בלה	V;SG;PRS;FEM
+בלה		V;3;SG;PST;MASC
+בלה		V;1;PL;PST
+בלה		V;3;PL;FUT;MASC
+בלה		V;3;PL;PST
+בלה		V;2;PL;PST;FEM
+בלה	בלים	V;PL;PRS;MASC
+בלה		V;NFIN
+בלה		V;2;SG;IMP;MASC
+בלה		V;1;PL;FUT
+בלה		V;2;PL;FUT:MASC
+בלה	אבלה	V;1;SG;FUT
+בלה		V;2;PL;PST;MASC
+בלה		V;3;SG;FUT;MASC
+בלה		V;SG;PRS;MASC
+בלה		V;1;SG;PST
+בלה		V;2;SG;FUT;MASC
+חי		V;2;PL;FUT;FEM
+חי		V;2;SG;PST;MASC
+חי	חיינה	V;2;PL;IMP;FEM
+חי		V;3;SG;FUT;FEM
+חי		V;2;PL;IMP;MASC
+חי		V;3;PL;FUT;FEM
+חי		V;PL;PRS;FEM
+חי	חיי	V;2;SG;IMP;FEM
+חי		V;2;SG;FUT;FEM
+חי		V;3;SG;PST;FEM
+חי		V;2;SG;PST;FEM
+חי		V;SG;PRS;FEM
+חי	חיה	V;3;SG;PST;MASC
+חי		V;1;PL;PST
+חי		V;3;PL;FUT;MASC
+חי		V;3;PL;PST
+חי		V;2;PL;PST;FEM
+חי		V;PL;PRS;MASC
+חי		V;NFIN
+חי		V;2;SG;IMP;MASC
+חי		V;1;PL;FUT
+חי		V;2;PL;FUT:MASC
+חי	אחיה	V;1;SG;FUT
+חי		V;2;PL;PST;MASC
+חי		V;3;SG;FUT;MASC
+חי		V;SG;PRS;MASC
+חי	חייתי	V;1;SG;PST
+חי		V;2;SG;FUT;MASC
+תפקיד	תפקידיכן	N;PL;DEF;PSS2P;FEM
+תפקיד	התפקידים	N;PL;DEF
+תפקיד		N;SG;N;SGDEF;PSS1P
+תפקיד		N;SG;N;SGDEF;PSS1S
+תפקיד		N;SG;PSSD;PSS2S;MASC
+תפקיד		N;PL;PSSD;PSS2S;FEM
+תפקיד		N;PL;DEF;PSS2S;FEM
+תפקיד		N;SG;PSSD;PSS2P;FEM
+תפקיד		N;PL;DEF;PSS2P;MASC
+תפקיד		N;PL;DEF;PSS2S;MASC
+תפקיד		N;SG;DEF;PSS2P;MASC
+תפקיד		N;SG;DEF;PSS2S;MASC
+תפקיד		N;SG;NDEF
+תפקיד		N;PL;PSSD;PSS2P;FEM
+תפקיד	תפקידם	N;SG;PSSD;PSS2P;MASC
+תפקיד		N;SG;DEF;PSS2S;FEM
+תפקיד		N;PL;PSSD
+תפקיד		N;PL;N;PLDEF;PSS1P
+תפקיד		N;SG;DEF;PSS2P;FEM
+תפקיד	תפקידיי	N;PL;N;PLDEF;PSS1S
+תפקיד		N;SG;PSSD;PSS2S;FEM
+תפקיד		N;PL;NDEF
+תפקיד		N;PL;PSSD;PSS2P;MASC
+תפקיד		N;SG;PSSD
+תפקיד		N;SG;DEF
+תפקיד		N;PL;PSSD;PSS2S;MASC
+איש		N;PL;DEF;PSS2P;FEM
+איש		N;PL;DEF
+איש		N;SG;N;SGDEF;PSS1P
+איש	אישׁי	N;SG;N;SGDEF;PSS1S
+איש		N;SG;PSSD;PSS2S;MASC
+איש		N;PL;PSSD;PSS2S;FEM
+איש		N;PL;DEF;PSS2S;FEM
+איש		N;SG;PSSD;PSS2P;FEM
+איש		N;PL;DEF;PSS2P;MASC
+איש		N;PL;DEF;PSS2S;MASC
+איש		N;SG;DEF;PSS2P;MASC
+איש		N;SG;DEF;PSS2S;MASC
+איש		N;SG;NDEF
+איש		N;PL;PSSD;PSS2P;FEM
+איש		N;SG;PSSD;PSS2P;MASC
+איש	אישׁך	N;SG;DEF;PSS2S;FEM
+איש		N;PL;PSSD
+איש		N;PL;N;PLDEF;PSS1P
+איש		N;SG;DEF;PSS2P;FEM
+איש		N;PL;N;PLDEF;PSS1S
+איש		N;SG;PSSD;PSS2S;FEM
+איש		N;PL;NDEF
+איש	אנשׁיהם	N;PL;PSSD;PSS2P;MASC
+איש		N;SG;PSSD
+איש		N;SG;DEF
+איש	אנשׁיו	N;PL;PSSD;PSS2S;MASC
+טס		V;2;PL;FUT;FEM
+טס		V;2;SG;PST;MASC
+טס		V;2;PL;IMP;FEM
+טס		V;3;SG;FUT;FEM
+טס		V;2;PL;IMP;MASC
+טס		V;3;PL;FUT;FEM
+טס		V;PL;PRS;FEM
+טס	טוסי	V;2;SG;IMP;FEM
+טס	תטוסי	V;2;SG;FUT;FEM
+טס		V;3;SG;PST;FEM
+טס		V;2;SG;PST;FEM
+טס		V;SG;PRS;FEM
+טס		V;3;SG;PST;MASC
+טס		V;1;PL;PST
+טס		V;3;PL;FUT;MASC
+טס		V;3;PL;PST
+טס		V;2;PL;PST;FEM
+טס		V;PL;PRS;MASC
+טס		V;NFIN
+טס	טוס	V;2;SG;IMP;MASC
+טס		V;1;PL;FUT
+טס		V;2;PL;FUT:MASC
+טס		V;1;SG;FUT
+טס	טסתם	V;2;PL;PST;MASC
+טס		V;3;SG;FUT;MASC
+טס	טס	V;SG;PRS;MASC
+טס		V;1;SG;PST
+טס		V;2;SG;FUT;MASC
+גולגולת		N;PL;DEF;PSS2P;FEM
+גולגולת	הגולגולות	N;PL;DEF
+גולגולת		N;SG;N;SGDEF;PSS1P
+גולגולת		N;SG;N;SGDEF;PSS1S
+גולגולת		N;SG;PSSD;PSS2S;MASC
+גולגולת	גולגלותיה	N;PL;PSSD;PSS2S;FEM
+גולגולת		N;PL;DEF;PSS2S;FEM
+גולגולת		N;SG;PSSD;PSS2P;FEM
+גולגולת		N;PL;DEF;PSS2P;MASC
+גולגולת		N;PL;DEF;PSS2S;MASC
+גולגולת		N;SG;DEF;PSS2P;MASC
+גולגולת		N;SG;DEF;PSS2S;MASC
+גולגולת		N;SG;NDEF
+גולגולת		N;PL;PSSD;PSS2P;FEM
+גולגולת		N;SG;PSSD;PSS2P;MASC
+גולגולת		N;SG;DEF;PSS2S;FEM
+גולגולת	גולגלות	N;PL;PSSD
+גולגולת		N;PL;N;PLDEF;PSS1P
+גולגולת		N;SG;DEF;PSS2P;FEM
+גולגולת		N;PL;N;PLDEF;PSS1S
+גולגולת		N;SG;PSSD;PSS2S;FEM
+גולגולת		N;PL;NDEF
+גולגולת	גולגלותיהם	N;PL;PSSD;PSS2P;MASC
+גולגולת		N;SG;PSSD
+גולגולת		N;SG;DEF
+גולגולת		N;PL;PSSD;PSS2S;MASC
+זכה		V;2;PL;FUT;FEM
+זכה		V;2;SG;PST;MASC
+זכה		V;2;PL;IMP;FEM
+זכה	תזכה	V;3;SG;FUT;FEM
+זכה		V;2;PL;IMP;MASC
+זכה		V;3;PL;FUT;FEM
+זכה	זוכות	V;PL;PRS;FEM
+זכה		V;2;SG;IMP;FEM
+זכה		V;2;SG;FUT;FEM
+זכה	זכתה	V;3;SG;PST;FEM
+זכה	זכית	V;2;SG;PST;FEM
+זכה		V;SG;PRS;FEM
+זכה		V;3;SG;PST;MASC
+זכה		V;1;PL;PST
+זכה		V;3;PL;FUT;MASC
+זכה		V;3;PL;PST
+זכה		V;2;PL;PST;FEM
+זכה		V;PL;PRS;MASC
+זכה		V;NFIN
+זכה		V;2;SG;IMP;MASC
+זכה		V;1;PL;FUT
+זכה	תזכו	V;2;PL;FUT:MASC
+זכה		V;1;SG;FUT
+זכה		V;2;PL;PST;MASC
+זכה		V;3;SG;FUT;MASC
+זכה		V;SG;PRS;MASC
+זכה		V;1;SG;PST
+זכה		V;2;SG;FUT;MASC
+התנקש		V;2;PL;FUT;FEM
+התנקש		V;2;SG;PST;MASC
+התנקש	התנקשׁנה	V;2;PL;IMP;FEM
+התנקש		V;3;SG;FUT;FEM
+התנקש		V;2;PL;IMP;MASC
+התנקש		V;3;PL;FUT;FEM
+התנקש		V;PL;PRS;FEM
+התנקש		V;2;SG;IMP;FEM
+התנקש		V;2;SG;FUT;FEM
+התנקש	התנקשׁה	V;3;SG;PST;FEM
+התנקש		V;2;SG;PST;FEM
+התנקש		V;SG;PRS;FEM
+התנקש		V;3;SG;PST;MASC
+התנקש		V;1;PL;PST
+התנקש		V;3;PL;FUT;MASC
+התנקש		V;3;PL;PST
+התנקש		V;2;PL;PST;FEM
+התנקש	מתנקשׁים	V;PL;PRS;MASC
+התנקש		V;NFIN
+התנקש		V;2;SG;IMP;MASC
+התנקש		V;1;PL;FUT
+התנקש		V;2;PL;FUT:MASC
+התנקש		V;1;SG;FUT
+התנקש	התנקשׁתם	V;2;PL;PST;MASC
+התנקש		V;3;SG;FUT;MASC
+התנקש		V;SG;PRS;MASC
+התנקש	התנקשׁתי	V;1;SG;PST
+התנקש		V;2;SG;FUT;MASC
+טיגן		V;2;PL;FUT;FEM
+טיגן	טיגנת	V;2;SG;PST;MASC
+טיגן		V;2;PL;IMP;FEM
+טיגן		V;3;SG;FUT;FEM
+טיגן		V;2;PL;IMP;MASC
+טיגן		V;3;PL;FUT;FEM
+טיגן		V;PL;PRS;FEM
+טיגן		V;2;SG;IMP;FEM
+טיגן		V;2;SG;FUT;FEM
+טיגן		V;3;SG;PST;FEM
+טיגן		V;2;SG;PST;FEM
+טיגן		V;SG;PRS;FEM
+טיגן		V;3;SG;PST;MASC
+טיגן	טיגנו	V;1;PL;PST
+טיגן		V;3;PL;FUT;MASC
+טיגן		V;3;PL;PST
+טיגן		V;2;PL;PST;FEM
+טיגן		V;PL;PRS;MASC
+טיגן	לטגן	V;NFIN
+טיגן		V;2;SG;IMP;MASC
+טיגן		V;1;PL;FUT
+טיגן		V;2;PL;FUT:MASC
+טיגן		V;1;SG;FUT
+טיגן		V;2;PL;PST;MASC
+טיגן		V;3;SG;FUT;MASC
+טיגן	מטגן	V;SG;PRS;MASC
+טיגן		V;1;SG;PST
+טיגן	תטגן	V;2;SG;FUT;MASC
+גולה		V;2;PL;FUT;FEM
+גולה	גולית	V;2;SG;PST;MASC
+גולה		V;3;SG;FUT;FEM
+גולה		V;3;PL;FUT;FEM
+גולה		V;PL;PRS;FEM
+גולה		V;2;SG;FUT;FEM
+גולה		V;3;SG;PST;FEM
+גולה		V;2;SG;PST;FEM
+גולה		V;SG;PRS;FEM
+גולה		V;3;SG;PST;MASC
+גולה		V;1;PL;PST
+גולה	יגולו	V;3;PL;FUT;MASC
+גולה	גולו	V;3;PL;PST
+גולה		V;2;PL;PST;FEM
+גולה		V;PL;PRS;MASC
+גולה		V;1;PL;FUT
+גולה		V;2;PL;FUT:MASC
+גולה		V;1;SG;FUT
+גולה		V;2;PL;PST;MASC
+גולה	יגולה	V;3;SG;FUT;MASC
+גולה		V;SG;PRS;MASC
+גולה		V;1;SG;PST
+גולה		V;2;SG;FUT;MASC
+שרץ		N;PL;DEF;PSS2P;FEM
+שרץ		N;PL;DEF
+שרץ	שׁרצנו	N;SG;N;SGDEF;PSS1P
+שרץ		N;SG;N;SGDEF;PSS1S
+שרץ		N;SG;PSSD;PSS2S;MASC
+שרץ		N;PL;PSSD;PSS2S;FEM
+שרץ		N;PL;DEF;PSS2S;FEM
+שרץ		N;SG;PSSD;PSS2P;FEM
+שרץ	שׁרציכם	N;PL;DEF;PSS2P;MASC
+שרץ		N;PL;DEF;PSS2S;MASC
+שרץ		N;SG;DEF;PSS2P;MASC
+שרץ		N;SG;DEF;PSS2S;MASC
+שרץ		N;SG;NDEF
+שרץ	שׁרציהן	N;PL;PSSD;PSS2P;FEM
+שרץ		N;SG;PSSD;PSS2P;MASC
+שרץ		N;SG;DEF;PSS2S;FEM
+שרץ		N;PL;PSSD
+שרץ		N;PL;N;PLDEF;PSS1P
+שרץ		N;SG;DEF;PSS2P;FEM
+שרץ		N;PL;N;PLDEF;PSS1S
+שרץ		N;SG;PSSD;PSS2S;FEM
+שרץ		N;PL;NDEF
+שרץ		N;PL;PSSD;PSS2P;MASC
+שרץ		N;SG;PSSD
+שרץ	השׁרץ	N;SG;DEF
+שרץ		N;PL;PSSD;PSS2S;MASC
+מגבת	מגבותיכן	N;PL;DEF;PSS2P;FEM
+מגבת		N;PL;DEF
+מגבת		N;SG;N;SGDEF;PSS1P
+מגבת		N;SG;N;SGDEF;PSS1S
+מגבת		N;SG;PSSD;PSS2S;MASC
+מגבת		N;PL;PSSD;PSS2S;FEM
+מגבת	מגבותייך	N;PL;DEF;PSS2S;FEM
+מגבת		N;SG;PSSD;PSS2P;FEM
+מגבת	מגבותיכם	N;PL;DEF;PSS2P;MASC
+מגבת	מגבותיך	N;PL;DEF;PSS2S;MASC
+מגבת		N;SG;DEF;PSS2P;MASC
+מגבת		N;SG;DEF;PSS2S;MASC
+מגבת		N;SG;NDEF
+מגבת		N;PL;PSSD;PSS2P;FEM
+מגבת		N;SG;PSSD;PSS2P;MASC
+מגבת		N;SG;DEF;PSS2S;FEM
+מגבת		N;PL;PSSD
+מגבת		N;PL;N;PLDEF;PSS1P
+מגבת		N;SG;DEF;PSS2P;FEM
+מגבת		N;PL;N;PLDEF;PSS1S
+מגבת		N;SG;PSSD;PSS2S;FEM
+מגבת		N;PL;NDEF
+מגבת		N;PL;PSSD;PSS2P;MASC
+מגבת		N;SG;PSSD
+מגבת		N;SG;DEF
+מגבת		N;PL;PSSD;PSS2S;MASC
+איבטח	תאבטחנה	V;2;PL;FUT;FEM
+איבטח		V;2;SG;PST;MASC
+איבטח		V;2;PL;IMP;FEM
+איבטח		V;3;SG;FUT;FEM
+איבטח		V;2;PL;IMP;MASC
+איבטח		V;3;PL;FUT;FEM
+איבטח	מאבטחות	V;PL;PRS;FEM
+איבטח	אבטחי	V;2;SG;IMP;FEM
+איבטח		V;2;SG;FUT;FEM
+איבטח		V;3;SG;PST;FEM
+איבטח	איבטחת	V;2;SG;PST;FEM
+איבטח		V;SG;PRS;FEM
+איבטח		V;3;SG;PST;MASC
+איבטח		V;1;PL;PST
+איבטח		V;3;PL;FUT;MASC
+איבטח	איבטחו	V;3;PL;PST
+איבטח		V;2;PL;PST;FEM
+איבטח		V;PL;PRS;MASC
+איבטח		V;NFIN
+איבטח		V;2;SG;IMP;MASC
+איבטח		V;1;PL;FUT
+איבטח		V;2;PL;FUT:MASC
+איבטח		V;1;SG;FUT
+איבטח		V;2;PL;PST;MASC
+איבטח		V;3;SG;FUT;MASC
+איבטח		V;SG;PRS;MASC
+איבטח		V;1;SG;PST
+איבטח		V;2;SG;FUT;MASC
+התאבל		V;2;PL;FUT;FEM
+התאבל		V;2;SG;PST;MASC
+התאבל		V;2;PL;IMP;FEM
+התאבל		V;3;SG;FUT;FEM
+התאבל		V;2;PL;IMP;MASC
+התאבל	תתאבלנה	V;3;PL;FUT;FEM
+התאבל		V;PL;PRS;FEM
+התאבל	התאבלי	V;2;SG;IMP;FEM
+התאבל		V;2;SG;FUT;FEM
+התאבל		V;3;SG;PST;FEM
+התאבל		V;2;SG;PST;FEM
+התאבל		V;SG;PRS;FEM
+התאבל		V;3;SG;PST;MASC
+התאבל	התאבלנו	V;1;PL;PST
+התאבל		V;3;PL;FUT;MASC
+התאבל		V;3;PL;PST
+התאבל		V;2;PL;PST;FEM
+התאבל		V;PL;PRS;MASC
+התאבל	להתאבל	V;NFIN
+התאבל		V;2;SG;IMP;MASC
+התאבל		V;1;PL;FUT
+התאבל	תתאבלו	V;2;PL;FUT:MASC
+התאבל		V;1;SG;FUT
+התאבל		V;2;PL;PST;MASC
+התאבל		V;3;SG;FUT;MASC
+התאבל		V;SG;PRS;MASC
+התאבל		V;1;SG;PST
+התאבל		V;2;SG;FUT;MASC
+סרט		N;PL;DEF;PSS2P;FEM
+סרט		N;PL;DEF
+סרט		N;SG;N;SGDEF;PSS1P
+סרט		N;SG;N;SGDEF;PSS1S
+סרט		N;SG;PSSD;PSS2S;MASC
+סרט	סרטיה	N;PL;PSSD;PSS2S;FEM
+סרט		N;PL;DEF;PSS2S;FEM
+סרט		N;SG;PSSD;PSS2P;FEM
+סרט		N;PL;DEF;PSS2P;MASC
+סרט		N;PL;DEF;PSS2S;MASC
+סרט		N;SG;DEF;PSS2P;MASC
+סרט	סרטך	N;SG;DEF;PSS2S;MASC
+סרט		N;SG;NDEF
+סרט		N;PL;PSSD;PSS2P;FEM
+סרט		N;SG;PSSD;PSS2P;MASC
+סרט		N;SG;DEF;PSS2S;FEM
+סרט		N;PL;PSSD
+סרט		N;PL;N;PLDEF;PSS1P
+סרט	סרטכן	N;SG;DEF;PSS2P;FEM
+סרט		N;PL;N;PLDEF;PSS1S
+סרט		N;SG;PSSD;PSS2S;FEM
+סרט		N;PL;NDEF
+סרט		N;PL;PSSD;PSS2P;MASC
+סרט	סרט	N;SG;PSSD
+סרט		N;SG;DEF
+סרט		N;PL;PSSD;PSS2S;MASC
+עצר		V;2;PL;FUT;FEM
+עצר	עצרת	V;2;SG;PST;MASC
+עצר		V;2;PL;IMP;FEM
+עצר		V;3;SG;FUT;FEM
+עצר		V;2;PL;IMP;MASC
+עצר		V;3;PL;FUT;FEM
+עצר	עוצרות	V;PL;PRS;FEM
+עצר		V;2;SG;IMP;FEM
+עצר	תעצרי	V;2;SG;FUT;FEM
+עצר		V;3;SG;PST;FEM
+עצר		V;2;SG;PST;FEM
+עצר	עוצרת	V;SG;PRS;FEM
+עצר		V;3;SG;PST;MASC
+עצר		V;1;PL;PST
+עצר		V;3;PL;FUT;MASC
+עצר		V;3;PL;PST
+עצר		V;2;PL;PST;FEM
+עצר	עוצרים	V;PL;PRS;MASC
+עצר		V;NFIN
+עצר		V;2;SG;IMP;MASC
+עצר		V;1;PL;FUT
+עצר		V;2;PL;FUT:MASC
+עצר		V;1;SG;FUT
+עצר		V;2;PL;PST;MASC
+עצר		V;3;SG;FUT;MASC
+עצר		V;SG;PRS;MASC
+עצר		V;1;SG;PST
+עצר		V;2;SG;FUT;MASC
+הקביל		V;2;PL;FUT;FEM
+הקביל	הקבלת	V;2;SG;PST;MASC
+הקביל		V;2;PL;IMP;FEM
+הקביל		V;3;SG;FUT;FEM
+הקביל		V;2;PL;IMP;MASC
+הקביל	תקבלנה	V;3;PL;FUT;FEM
+הקביל		V;PL;PRS;FEM
+הקביל		V;2;SG;IMP;FEM
+הקביל		V;2;SG;FUT;FEM
+הקביל	הקבילה	V;3;SG;PST;FEM
+הקביל		V;2;SG;PST;FEM
+הקביל		V;SG;PRS;FEM
+הקביל		V;3;SG;PST;MASC
+הקביל	הקבלנו	V;1;PL;PST
+הקביל		V;3;PL;FUT;MASC
+הקביל	הקבילו	V;3;PL;PST
+הקביל		V;2;PL;PST;FEM
+הקביל		V;PL;PRS;MASC
+הקביל		V;NFIN
+הקביל		V;2;SG;IMP;MASC
+הקביל		V;1;PL;FUT
+הקביל		V;2;PL;FUT:MASC
+הקביל		V;1;SG;FUT
+הקביל		V;2;PL;PST;MASC
+הקביל		V;3;SG;FUT;MASC
+הקביל		V;SG;PRS;MASC
+הקביל		V;1;SG;PST
+הקביל		V;2;SG;FUT;MASC
+עריכה		N;PL;DEF;PSS2P;FEM
+עריכה		N;PL;DEF
+עריכה	עריכתנו	N;SG;N;SGDEF;PSS1P
+עריכה		N;SG;N;SGDEF;PSS1S
+עריכה		N;SG;PSSD;PSS2S;MASC
+עריכה		N;PL;PSSD;PSS2S;FEM
+עריכה		N;PL;DEF;PSS2S;FEM
+עריכה	עריכתן	N;SG;PSSD;PSS2P;FEM
+עריכה		N;PL;DEF;PSS2P;MASC
+עריכה		N;PL;DEF;PSS2S;MASC
+עריכה		N;SG;DEF;PSS2P;MASC
+עריכה		N;SG;DEF;PSS2S;MASC
+עריכה		N;SG;NDEF
+עריכה		N;PL;PSSD;PSS2P;FEM
+עריכה		N;SG;PSSD;PSS2P;MASC
+עריכה		N;SG;DEF;PSS2S;FEM
+עריכה		N;PL;PSSD
+עריכה	עריכותינו	N;PL;N;PLDEF;PSS1P
+עריכה		N;SG;DEF;PSS2P;FEM
+עריכה		N;PL;N;PLDEF;PSS1S
+עריכה		N;SG;PSSD;PSS2S;FEM
+עריכה		N;PL;NDEF
+עריכה	עריכותיהם	N;PL;PSSD;PSS2P;MASC
+עריכה		N;SG;PSSD
+עריכה		N;SG;DEF
+עריכה		N;PL;PSSD;PSS2S;MASC
+גלה		V;2;PL;FUT;FEM
+גלה	גלית	V;2;SG;PST;MASC
+גלה		V;2;PL;IMP;FEM
+גלה		V;3;SG;FUT;FEM
+גלה		V;2;PL;IMP;MASC
+גלה		V;3;PL;FUT;FEM
+גלה		V;PL;PRS;FEM
+גלה		V;2;SG;IMP;FEM
+גלה		V;2;SG;FUT;FEM
+גלה	גלתה	V;3;SG;PST;FEM
+גלה		V;2;SG;PST;FEM
+גלה	גולה	V;SG;PRS;FEM
+גלה		V;3;SG;PST;MASC
+גלה	גלינו	V;1;PL;PST
+גלה		V;3;PL;FUT;MASC
+גלה		V;3;PL;PST
+גלה		V;2;PL;PST;FEM
+גלה		V;PL;PRS;MASC
+גלה	לגלות	V;NFIN
+גלה		V;2;SG;IMP;MASC
+גלה		V;1;PL;FUT
+גלה		V;2;PL;FUT:MASC
+גלה		V;1;SG;FUT
+גלה		V;2;PL;PST;MASC
+גלה		V;3;SG;FUT;MASC
+גלה		V;SG;PRS;MASC
+גלה		V;1;SG;PST
+גלה		V;2;SG;FUT;MASC
+חינך	תחנכנה	V;2;PL;FUT;FEM
+חינך		V;2;SG;PST;MASC
+חינך		V;2;PL;IMP;FEM
+חינך		V;3;SG;FUT;FEM
+חינך	חנכו	V;2;PL;IMP;MASC
+חינך		V;3;PL;FUT;FEM
+חינך		V;PL;PRS;FEM
+חינך	חנכי	V;2;SG;IMP;FEM
+חינך		V;2;SG;FUT;FEM
+חינך		V;3;SG;PST;FEM
+חינך		V;2;SG;PST;FEM
+חינך		V;SG;PRS;FEM
+חינך		V;3;SG;PST;MASC
+חינך		V;1;PL;PST
+חינך		V;3;PL;FUT;MASC
+חינך		V;3;PL;PST
+חינך	חינכתן	V;2;PL;PST;FEM
+חינך		V;PL;PRS;MASC
+חינך		V;NFIN
+חינך		V;2;SG;IMP;MASC
+חינך	נחנך	V;1;PL;FUT
+חינך		V;2;PL;FUT:MASC
+חינך		V;1;SG;FUT
+חינך		V;2;PL;PST;MASC
+חינך		V;3;SG;FUT;MASC
+חינך		V;SG;PRS;MASC
+חינך		V;1;SG;PST
+חינך		V;2;SG;FUT;MASC
+הסמיק		V;2;PL;FUT;FEM
+הסמיק		V;2;SG;PST;MASC
+הסמיק		V;2;PL;IMP;FEM
+הסמיק		V;3;SG;FUT;FEM
+הסמיק		V;2;PL;IMP;MASC
+הסמיק		V;3;PL;FUT;FEM
+הסמיק		V;PL;PRS;FEM
+הסמיק		V;2;SG;IMP;FEM
+הסמיק		V;2;SG;FUT;FEM
+הסמיק		V;3;SG;PST;FEM
+הסמיק	הסמקת	V;2;SG;PST;FEM
+הסמיק		V;SG;PRS;FEM
+הסמיק		V;3;SG;PST;MASC
+הסמיק		V;1;PL;PST
+הסמיק		V;3;PL;FUT;MASC
+הסמיק	הסמיקו	V;3;PL;PST
+הסמיק		V;2;PL;PST;FEM
+הסמיק	מסמיקים	V;PL;PRS;MASC
+הסמיק		V;NFIN
+הסמיק		V;2;SG;IMP;MASC
+הסמיק		V;1;PL;FUT
+הסמיק		V;2;PL;FUT:MASC
+הסמיק		V;1;SG;FUT
+הסמיק		V;2;PL;PST;MASC
+הסמיק		V;3;SG;FUT;MASC
+הסמיק	מסמיק	V;SG;PRS;MASC
+הסמיק	הסמקתי	V;1;SG;PST
+הסמיק		V;2;SG;FUT;MASC
+מצץ	תמצוצנה	V;2;PL;FUT;FEM
+מצץ		V;2;SG;PST;MASC
+מצץ	מצוצנה	V;2;PL;IMP;FEM
+מצץ		V;3;SG;FUT;FEM
+מצץ		V;2;PL;IMP;MASC
+מצץ		V;3;PL;FUT;FEM
+מצץ		V;PL;PRS;FEM
+מצץ		V;2;SG;IMP;FEM
+מצץ	תמצצי	V;2;SG;FUT;FEM
+מצץ		V;3;SG;PST;FEM
+מצץ		V;2;SG;PST;FEM
+מצץ		V;SG;PRS;FEM
+מצץ	מצץ	V;3;SG;PST;MASC
+מצץ		V;1;PL;PST
+מצץ		V;3;PL;FUT;MASC
+מצץ		V;3;PL;PST
+מצץ	מצצתן	V;2;PL;PST;FEM
+מצץ		V;PL;PRS;MASC
+מצץ		V;NFIN
+מצץ		V;2;SG;IMP;MASC
+מצץ		V;1;PL;FUT
+מצץ		V;2;PL;FUT:MASC
+מצץ		V;1;SG;FUT
+מצץ		V;2;PL;PST;MASC
+מצץ		V;3;SG;FUT;MASC
+מצץ		V;SG;PRS;MASC
+מצץ		V;1;SG;PST
+מצץ		V;2;SG;FUT;MASC
+זיין		V;2;PL;FUT;FEM
+זיין		V;2;SG;PST;MASC
+זיין	זיינה	V;2;PL;IMP;FEM
+זיין		V;3;SG;FUT;FEM
+זיין	זיינו	V;2;PL;IMP;MASC
+זיין		V;3;PL;FUT;FEM
+זיין		V;PL;PRS;FEM
+זיין		V;2;SG;IMP;FEM
+זיין		V;2;SG;FUT;FEM
+זיין	זיינה	V;3;SG;PST;FEM
+זיין		V;2;SG;PST;FEM
+זיין		V;SG;PRS;FEM
+זיין	זיין	V;3;SG;PST;MASC
+זיין		V;1;PL;PST
+זיין		V;3;PL;FUT;MASC
+זיין		V;3;PL;PST
+זיין		V;2;PL;PST;FEM
+זיין		V;PL;PRS;MASC
+זיין		V;NFIN
+זיין		V;2;SG;IMP;MASC
+זיין	נזיין	V;1;PL;FUT
+זיין		V;2;PL;FUT:MASC
+זיין		V;1;SG;FUT
+זיין		V;2;PL;PST;MASC
+זיין		V;3;SG;FUT;MASC
+זיין		V;SG;PRS;MASC
+זיין		V;1;SG;PST
+זיין		V;2;SG;FUT;MASC
+ירה		V;2;PL;FUT;FEM
+ירה		V;2;SG;PST;MASC
+ירה		V;2;PL;IMP;FEM
+ירה		V;3;SG;FUT;FEM
+ירה		V;2;PL;IMP;MASC
+ירה		V;3;PL;FUT;FEM
+ירה	יורות	V;PL;PRS;FEM
+ירה	ירי	V;2;SG;IMP;FEM
+ירה		V;2;SG;FUT;FEM
+ירה		V;3;SG;PST;FEM
+ירה		V;2;SG;PST;FEM
+ירה		V;SG;PRS;FEM
+ירה		V;3;SG;PST;MASC
+ירה	ירינו	V;1;PL;PST
+ירה		V;3;PL;FUT;MASC
+ירה		V;3;PL;PST
+ירה	יריתן	V;2;PL;PST;FEM
+ירה		V;PL;PRS;MASC
+ירה		V;NFIN
+ירה		V;2;SG;IMP;MASC
+ירה		V;1;PL;FUT
+ירה	תירו	V;2;PL;FUT:MASC
+ירה		V;1;SG;FUT
+ירה		V;2;PL;PST;MASC
+ירה		V;3;SG;FUT;MASC
+ירה		V;SG;PRS;MASC
+ירה		V;1;SG;PST
+ירה		V;2;SG;FUT;MASC
+בכור		N;PL;DEF;PSS2P;FEM
+בכור		N;PL;DEF
+בכור		N;SG;N;SGDEF;PSS1P
+בכור		N;SG;N;SGDEF;PSS1S
+בכור	בכורו	N;SG;PSSD;PSS2S;MASC
+בכור		N;PL;PSSD;PSS2S;FEM
+בכור		N;PL;DEF;PSS2S;FEM
+בכור		N;SG;PSSD;PSS2P;FEM
+בכור		N;PL;DEF;PSS2P;MASC
+בכור		N;PL;DEF;PSS2S;MASC
+בכור	בכורכם	N;SG;DEF;PSS2P;MASC
+בכור		N;SG;DEF;PSS2S;MASC
+בכור		N;SG;NDEF
+בכור		N;PL;PSSD;PSS2P;FEM
+בכור	בכורם	N;SG;PSSD;PSS2P;MASC
+בכור		N;SG;DEF;PSS2S;FEM
+בכור		N;PL;PSSD
+בכור		N;PL;N;PLDEF;PSS1P
+בכור		N;SG;DEF;PSS2P;FEM
+בכור		N;PL;N;PLDEF;PSS1S
+בכור		N;SG;PSSD;PSS2S;FEM
+בכור		N;PL;NDEF
+בכור		N;PL;PSSD;PSS2P;MASC
+בכור		N;SG;PSSD
+בכור	הבכור	N;SG;DEF
+בכור		N;PL;PSSD;PSS2S;MASC
+קפא		V;2;PL;FUT;FEM
+קפא		V;2;SG;PST;MASC
+קפא	קפאנה	V;2;PL;IMP;FEM
+קפא		V;3;SG;FUT;FEM
+קפא		V;2;PL;IMP;MASC
+קפא		V;3;PL;FUT;FEM
+קפא		V;PL;PRS;FEM
+קפא	קפאי	V;2;SG;IMP;FEM
+קפא		V;2;SG;FUT;FEM
+קפא		V;3;SG;PST;FEM
+קפא		V;2;SG;PST;FEM
+קפא		V;SG;PRS;FEM
+קפא		V;3;SG;PST;MASC
+קפא		V;1;PL;PST
+קפא		V;3;PL;FUT;MASC
+קפא		V;3;PL;PST
+קפא		V;2;PL;PST;FEM
+קפא		V;PL;PRS;MASC
+קפא		V;NFIN
+קפא	קפא	V;2;SG;IMP;MASC
+קפא		V;1;PL;FUT
+קפא		V;2;PL;FUT:MASC
+קפא		V;1;SG;FUT
+קפא		V;2;PL;PST;MASC
+קפא		V;3;SG;FUT;MASC
+קפא	קופא	V;SG;PRS;MASC
+קפא		V;1;SG;PST
+קפא	תקפא	V;2;SG;FUT;MASC
+חיקה		V;2;PL;FUT;FEM
+חיקה		V;2;SG;PST;MASC
+חיקה		V;2;PL;IMP;FEM
+חיקה		V;3;SG;FUT;FEM
+חיקה		V;2;PL;IMP;MASC
+חיקה		V;3;PL;FUT;FEM
+חיקה		V;PL;PRS;FEM
+חיקה	חקי	V;2;SG;IMP;FEM
+חיקה		V;2;SG;FUT;FEM
+חיקה		V;3;SG;PST;FEM
+חיקה		V;2;SG;PST;FEM
+חיקה		V;SG;PRS;FEM
+חיקה		V;3;SG;PST;MASC
+חיקה		V;1;PL;PST
+חיקה		V;3;PL;FUT;MASC
+חיקה		V;3;PL;PST
+חיקה		V;2;PL;PST;FEM
+חיקה	מחקים	V;PL;PRS;MASC
+חיקה		V;NFIN
+חיקה	חקה	V;2;SG;IMP;MASC
+חיקה		V;1;PL;FUT
+חיקה		V;2;PL;FUT:MASC
+חיקה		V;1;SG;FUT
+חיקה		V;2;PL;PST;MASC
+חיקה		V;3;SG;FUT;MASC
+חיקה	מחקה	V;SG;PRS;MASC
+חיקה		V;1;SG;PST
+חיקה	תחקה	V;2;SG;FUT;MASC
+מזון		N;PL;DEF;PSS2P;FEM
+מזון		N;PL;DEF
+מזון		N;SG;N;SGDEF;PSS1P
+מזון	מזוני	N;SG;N;SGDEF;PSS1S
+מזון		N;SG;PSSD;PSS2S;MASC
+מזון		N;PL;PSSD;PSS2S;FEM
+מזון		N;PL;DEF;PSS2S;FEM
+מזון		N;SG;PSSD;PSS2P;FEM
+מזון		N;PL;DEF;PSS2P;MASC
+מזון	מזונותיך	N;PL;DEF;PSS2S;MASC
+מזון		N;SG;DEF;PSS2P;MASC
+מזון	מזונך	N;SG;DEF;PSS2S;MASC
+מזון		N;SG;NDEF
+מזון		N;PL;PSSD;PSS2P;FEM
+מזון		N;SG;PSSD;PSS2P;MASC
+מזון		N;SG;DEF;PSS2S;FEM
+מזון		N;PL;PSSD
+מזון		N;PL;N;PLDEF;PSS1P
+מזון		N;SG;DEF;PSS2P;FEM
+מזון		N;PL;N;PLDEF;PSS1S
+מזון		N;SG;PSSD;PSS2S;FEM
+מזון	מזונות	N;PL;NDEF
+מזון		N;PL;PSSD;PSS2P;MASC
+מזון		N;SG;PSSD
+מזון		N;SG;DEF
+מזון		N;PL;PSSD;PSS2S;MASC
+ברח	תברחנה	V;2;PL;FUT;FEM
+ברח	ברחת	V;2;SG;PST;MASC
+ברח		V;2;PL;IMP;FEM
+ברח		V;3;SG;FUT;FEM
+ברח		V;2;PL;IMP;MASC
+ברח		V;3;PL;FUT;FEM
+ברח	בורחות	V;PL;PRS;FEM
+ברח		V;2;SG;IMP;FEM
+ברח		V;2;SG;FUT;FEM
+ברח		V;3;SG;PST;FEM
+ברח		V;2;SG;PST;FEM
+ברח		V;SG;PRS;FEM
+ברח		V;3;SG;PST;MASC
+ברח		V;1;PL;PST
+ברח		V;3;PL;FUT;MASC
+ברח		V;3;PL;PST
+ברח		V;2;PL;PST;FEM
+ברח	בורחים	V;PL;PRS;MASC
+ברח	לברוח	V;NFIN
+ברח		V;2;SG;IMP;MASC
+ברח		V;1;PL;FUT
+ברח		V;2;PL;FUT:MASC
+ברח		V;1;SG;FUT
+ברח		V;2;PL;PST;MASC
+ברח		V;3;SG;FUT;MASC
+ברח		V;SG;PRS;MASC
+ברח		V;1;SG;PST
+ברח		V;2;SG;FUT;MASC
+ייחד	תיחדנה	V;2;PL;FUT;FEM
+ייחד		V;2;SG;PST;MASC
+ייחד		V;2;PL;IMP;FEM
+ייחד	תיחד	V;3;SG;FUT;FEM
+ייחד		V;2;PL;IMP;MASC
+ייחד		V;3;PL;FUT;FEM
+ייחד		V;PL;PRS;FEM
+ייחד	יחדי	V;2;SG;IMP;FEM
+ייחד		V;2;SG;FUT;FEM
+ייחד		V;3;SG;PST;FEM
+ייחד	ייחדת	V;2;SG;PST;FEM
+ייחד		V;SG;PRS;FEM
+ייחד		V;3;SG;PST;MASC
+ייחד		V;1;PL;PST
+ייחד	ייחדו	V;3;PL;FUT;MASC
+ייחד		V;3;PL;PST
+ייחד		V;2;PL;PST;FEM
+ייחד		V;PL;PRS;MASC
+ייחד		V;NFIN
+ייחד		V;2;SG;IMP;MASC
+ייחד		V;1;PL;FUT
+ייחד		V;2;PL;FUT:MASC
+ייחד		V;1;SG;FUT
+ייחד		V;2;PL;PST;MASC
+ייחד		V;3;SG;FUT;MASC
+ייחד		V;SG;PRS;MASC
+ייחד		V;1;SG;PST
+ייחד		V;2;SG;FUT;MASC

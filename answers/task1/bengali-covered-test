@@ -1,0 +1,100 @@
+কাটা		V;2;PRS;LGSPEC1
+চাখা		V;3;PST;HAB;POL
+পাঠানো		V;3;FUT;INFM
+চেনা		V;1;PRS
+আগানো		V;1;PRS
+চেষ্টা করা		V;3;PST;PRF;POL
+খোঁজা		V;1;PRS;PROG
+আচরণ করা		V;V.PTCP;PROG
+রাখা		V;1;PST;HAB
+ব্যবহার করা		V;2;PST;HAB;POL
+লিঙ্গ		N;GEN;SG;DEF
+হাঁটা		V;3;PRS;INFM
+প্রমাণ করা		V;V.MSDR
+শোনা		V;3;PRS;PROG;INFM
+টানা		V;1;PST;PROG
+দেখানো		V;2;PRS;PROG;POL
+ভালোবাসা		V;2;PRS;PROG;POL
+ঘৃণা করা		V;2;FUT;LGSPEC1
+কাটা		V;2;PST;PROG;LGSPEC1
+চোষা		V;3;PRS;PROG;POL
+অনুভব করা		V;2;PST;POL
+চালানো		V;3;PRS;PROG;POL
+মাল ফেলা		V;3;FUT;INFM
+শিশ্ন		N;NOM;SG;DEF
+জাগানো		V;3;PST;POL
+চালানো		V;1;PRS
+পরা		V;2;PRS;POL
+রাখা		V;2;FUT;POL
+ধরা		V;V.PTCP;PRF
+ঢোকা		V;2;FUT;LGSPEC1
+বলা		V;3;PRS;POL
+ভুলে যাওয়া		V;2;PRS;PRF;LGSPEC1
+গেলা		V;3;PST;PRF;INFM
+মানুষ		N;GEN;SG;DEF
+অপেক্ষা করা		V;3;FUT;INFM
+মনে রাখা		V;V.PTCP;PROG
+শোনা		V;2;PRS;PRF;LGSPEC1
+টানা		V;2;PRS;POL
+ফেলা		V;3;FUT;POL
+দাঁড়ানো		V;3;PRS;POL
+চাখা		V;2;PRS;POL
+শোনা		V;2;PRS;PROG;POL
+চেনা		V;1;PST;PROG
+পাছা		N;ACC;SG;DEF
+রং		N;GEN;SG;DEF
+দাঁড়ানো		V;2;PRS;PROG;POL
+নেওয়া		V;2;PST;HAB;POL
+চোষা		V;V.PTCP;PRF
+যাওয়া		V;1;PRS
+চাখা		V;3;PRS;PRF;POL
+আসা		V;V.PTCP;PRF
+রং		N;GEN;PL;DEF
+দেওয়া		V;1;PST;HAB
+দেখানো		V;3;PRS;PROG;INFM
+শোনা		V;2;PRS;PROG;LGSPEC1
+চেষ্টা করা		V;2;PST;LGSPEC1
+টানা		V;2;PRS;PROG;LGSPEC1
+খোঁজা		V;2;PRS;PRF;POL
+ভাঙা		V;2;PST;PROG;LGSPEC1
+মাল ফেলা		V;3;PRS;POL
+চেষ্টা করা		V;1;PST;HAB
+ঘামানো		V;1;PST;HAB
+ব্যবহার করা		V;3;PRS;PROG;POL
+অনুবাদ করা		V;3;PST;HAB;INFM
+গাওয়া		V;V.MSDR
+করা		V;3;PST;INFM
+পছন্দ করা		V;1;FUT
+ডিফ্র্যাগমেন্ট করা		V;V.NFIN
+কেনা		V;2;PST;PRF;LGSPEC1
+লুকানো		V;3;PST;HAB;POL
+শব্দ		N;GEN;SG;DEF
+খাওয়া		V;3;PST;PRF;POL
+নীহারিকা		N;GEN;NDEF
+জুতা		N;LOC;PL;DEF
+অভিযোগ		N;NOM;SG;DEF
+অপেক্ষা করা		V;V.PTCP;PROG
+অনুবাদ করা		V;3;PST;INFM
+টাইপ করা		V;2;PST;POL
+ঘামানো		V;3;PST;PRF;INFM
+চেনা		V;V.MSDR
+ঢুকানো		V;3;PST;POL
+দেখা		V;3;PST;PROG;POL
+ভাষা		N;ACC;PL;DEF
+ভালোবাসা		V;3;PST;PROG;POL
+মাল ফেলা		V;3;PST;PRF;POL
+জানা		V;3;PRS;POL
+ভালবাসা		V;3;PRS;PROG;INFM
+জেলা		N;ACC;PL;DEF
+জাগা		V;V.PTCP;PROG
+ওঠা		V;2;PST;LGSPEC1
+আঁকা		V;2;PST;PROG;LGSPEC1
+ভরা		V;1;PST;HAB
+শিশ্ন		N;NOM;NDEF
+ওঠা		V;3;PST;PRF;POL
+শোনা		V;1;PST;HAB
+অনুবাদ করা		V;2;PRS;PROG;LGSPEC1
+চোষা		V;1;PRS
+ঘুমানো		V;2;PST;HAB;LGSPEC1
+শেখা		V;3;FUT;INFM
+চেনা		V;2;PST;PROG;LGSPEC1

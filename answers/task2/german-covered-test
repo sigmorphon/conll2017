@@ -1,0 +1,606 @@
+Alphabet		N;GEN;PL
+Alphabet		N;NOM;PL
+Alphabet		N;GEN;SG
+Alphabet	Alphabet	N;NOM;SG
+Alphabet		N;DAT;SG
+Alphabet		N;ACC;PL
+Alphabet		N;ACC;SG
+Alphabet		N;DAT;PL
+Seelöwe		N;GEN;PL
+Seelöwe		N;NOM;PL
+Seelöwe		N;GEN;SG
+Seelöwe		N;NOM;SG
+Seelöwe	Seelöwen	N;DAT;SG
+Seelöwe		N;ACC;PL
+Seelöwe		N;ACC;SG
+Seelöwe		N;DAT;PL
+Urologe		N;GEN;PL
+Urologe		N;NOM;PL
+Urologe		N;GEN;SG
+Urologe		N;NOM;SG
+Urologe		N;DAT;SG
+Urologe		N;ACC;PL
+Urologe	Urologen	N;ACC;SG
+Urologe		N;DAT;PL
+Haruspex		N;GEN;PL
+Haruspex		N;NOM;PL
+Haruspex		N;GEN;SG
+Haruspex		N;NOM;SG
+Haruspex	Haruspex	N;DAT;SG
+Haruspex		N;ACC;PL
+Haruspex		N;ACC;SG
+Haruspex		N;DAT;PL
+Perchlorat		N;GEN;PL
+Perchlorat		N;NOM;PL
+Perchlorat		N;NOM;SG
+Perchlorat		N;GEN;SG
+Perchlorat	Perchlorat	N;DAT;SG
+Perchlorat		N;ACC;PL
+Perchlorat		N;ACC;SG
+Perchlorat		N;DAT;PL
+Butike		N;GEN;PL
+Butike		N;NOM;PL
+Butike		N;GEN;SG
+Butike		N;NOM;SG
+Butike		N;DAT;SG
+Butike		N;ACC;PL
+Butike	Butike	N;ACC;SG
+Butike		N;DAT;PL
+Gartenmelde	Gartenmelden	N;GEN;PL
+Gartenmelde		N;NOM;PL
+Gartenmelde		N;GEN;SG
+Gartenmelde		N;NOM;SG
+Gartenmelde		N;DAT;SG
+Gartenmelde		N;ACC;PL
+Gartenmelde		N;ACC;SG
+Gartenmelde		N;DAT;PL
+Heimlichkeit		N;GEN;PL
+Heimlichkeit		N;NOM;PL
+Heimlichkeit		N;GEN;SG
+Heimlichkeit		N;NOM;SG
+Heimlichkeit		N;DAT;SG
+Heimlichkeit	Heimlichkeiten	N;ACC;PL
+Heimlichkeit		N;ACC;SG
+Heimlichkeit		N;DAT;PL
+dealen		V;SBJV;PRS;3;PL
+dealen		V;SBJV;PST;1;SG
+dealen		V;IND;PRS;1;PL
+dealen		V.PTCP;PRS
+dealen		V;IND;PST;2;PL
+dealen		V;IMP;2;SG
+dealen		V;SBJV;PST;2;PL
+dealen		V;SBJV;PST;3;SG
+dealen		V;NFIN
+dealen		V;IND;PRS;3;PL
+dealen		V;IND;PRS;2;PL
+dealen	dealen	V;SBJV;PRS;1;PL
+dealen		V;IND;PST;1;PL
+dealen	deale	V;SBJV;PRS;3;SG
+dealen		V;IND;PST;3;PL
+dealen		V;IMP;2;PL
+dealen		V.PTCP;PST
+dealen		V;SBJV;PST;3;PL
+dealen		V;IND;PRS;1;SG
+dealen		V;SBJV;PRS;1;SG
+dealen		V;IND;PRS;3;SG
+dealen		V;SBJV;PRS;2;PL
+dealen		V;IND;PST;2;SG
+dealen	dealten	V;SBJV;PST;1;PL
+dealen	dealte	V;IND;PST;1;SG
+dealen		V;SBJV;PST;2;SG
+dealen		V;IND;PRS;2;SG
+dealen	dealest	V;SBJV;PRS;2;SG
+dealen		V;IND;PST;3;SG
+Ferritin		N;GEN;PL
+Ferritin	Ferritine	N;NOM;PL
+Ferritin		N;NOM;SG
+Ferritin		N;GEN;SG
+Ferritin		N;DAT;SG
+Ferritin		N;ACC;PL
+Ferritin		N;ACC;SG
+Ferritin		N;DAT;PL
+Elfer		N;GEN;PL
+Elfer		N;NOM;PL
+Elfer		N;NOM;SG
+Elfer		N;GEN;SG
+Elfer		N;DAT;SG
+Elfer	Elfer	N;ACC;PL
+Elfer		N;ACC;SG
+Elfer		N;DAT;PL
+Linksruck		N;GEN;PL
+Linksruck		N;NOM;PL
+Linksruck	Linksruckes	N;GEN;SG
+Linksruck		N;NOM;SG
+Linksruck		N;DAT;SG
+Linksruck		N;ACC;PL
+Linksruck		N;ACC;SG
+Linksruck		N;DAT;PL
+Organ		N;GEN;PL
+Organ		N;NOM;PL
+Organ		N;GEN;SG
+Organ		N;NOM;SG
+Organ		N;DAT;SG
+Organ		N;ACC;PL
+Organ		N;ACC;SG
+Organ	Organen	N;DAT;PL
+Etymologie		N;GEN;PL
+Etymologie		N;NOM;PL
+Etymologie		N;GEN;SG
+Etymologie		N;NOM;SG
+Etymologie		N;DAT;SG
+Etymologie		N;ACC;PL
+Etymologie	Etymologie	N;ACC;SG
+Etymologie		N;DAT;PL
+Schweinehirte		N;GEN;PL
+Schweinehirte		N;NOM;PL
+Schweinehirte		N;GEN;SG
+Schweinehirte	Schweinehirte	N;NOM;SG
+Schweinehirte		N;DAT;SG
+Schweinehirte		N;ACC;PL
+Schweinehirte		N;ACC;SG
+Schweinehirte		N;DAT;PL
+Schleiereule		N;GEN;PL
+Schleiereule		N;NOM;PL
+Schleiereule		N;GEN;SG
+Schleiereule		N;NOM;SG
+Schleiereule		N;DAT;SG
+Schleiereule		N;ACC;PL
+Schleiereule		N;ACC;SG
+Schleiereule	Schleiereulen	N;DAT;PL
+Glimmer		N;DAT;SG
+Glimmer		N;NOM;SG
+Glimmer		N;GEN;SG
+Glimmer		N;ACC;SG
+erleben	erleben	V;SBJV;PRS;3;PL
+erleben		V;SBJV;PST;1;SG
+erleben	erleben	V;IND;PRS;1;PL
+erleben		V.PTCP;PRS
+erleben		V;IND;PST;2;PL
+erleben		V;IMP;2;SG
+erleben		V;SBJV;PST;2;PL
+erleben	erlebte	V;SBJV;PST;3;SG
+erleben		V;NFIN
+erleben		V;IND;PRS;3;PL
+erleben		V;IND;PRS;2;PL
+erleben		V;SBJV;PRS;1;PL
+erleben		V;IND;PST;1;PL
+erleben		V;SBJV;PRS;3;SG
+erleben		V;IND;PST;3;PL
+erleben		V;IMP;2;PL
+erleben		V.PTCP;PST
+erleben		V;SBJV;PST;3;PL
+erleben		V;IND;PRS;1;SG
+erleben		V;SBJV;PRS;1;SG
+erleben		V;IND;PRS;3;SG
+erleben		V;SBJV;PRS;2;PL
+erleben		V;IND;PST;2;SG
+erleben		V;SBJV;PST;1;PL
+erleben	erlebte	V;IND;PST;1;SG
+erleben	erlebtest	V;SBJV;PST;2;SG
+erleben		V;IND;PRS;2;SG
+erleben		V;SBJV;PRS;2;SG
+erleben		V;IND;PST;3;SG
+zusammenbrechen		V;SBJV;PRS;3;PL
+zusammenbrechen		V;SBJV;PST;1;SG
+zusammenbrechen		V;IND;PRS;1;PL
+zusammenbrechen		V.PTCP;PRS
+zusammenbrechen		V;IND;PST;2;PL
+zusammenbrechen		V;IMP;2;SG
+zusammenbrechen	brechen zusammen	V;IND;PRS;3;PL
+zusammenbrechen		V;SBJV;PST;3;SG
+zusammenbrechen	zusammenbrechen	V;NFIN
+zusammenbrechen		V;IMP;2;PL
+zusammenbrechen		V;IND;PRS;2;PL
+zusammenbrechen	brechen zusammen	V;SBJV;PRS;1;PL
+zusammenbrechen	brechest zusammen	V;SBJV;PRS;2;SG
+zusammenbrechen		V;IND;PST;2;SG
+zusammenbrechen		V;IND;PST;3;PL
+zusammenbrechen	zusammengebrochen	V.PTCP;PST
+zusammenbrechen		V;SBJV;PST;3;PL
+zusammenbrechen		V;IND;PRS;1;SG
+zusammenbrechen		V;SBJV;PRS;1;SG
+zusammenbrechen		V;IND;PRS;3;SG
+zusammenbrechen		V;SBJV;PRS;2;PL
+zusammenbrechen		V;SBJV;PRS;3;SG
+zusammenbrechen		V;SBJV;PST;1;PL
+zusammenbrechen		V;IND;PST;1;SG
+zusammenbrechen		V;SBJV;PST;2;SG
+zusammenbrechen		V;IND;PRS;2;SG
+zusammenbrechen		V;SBJV;PST;2;PL
+zusammenbrechen		V;IND;PST;1;PL
+zusammenbrechen		V;IND;PST;3;SG
+Fuge		N;GEN;PL
+Fuge		N;NOM;PL
+Fuge		N;GEN;SG
+Fuge	Fuge	N;NOM;SG
+Fuge		N;DAT;SG
+Fuge		N;ACC;PL
+Fuge		N;ACC;SG
+Fuge		N;DAT;PL
+Gesangslehrer		N;GEN;PL
+Gesangslehrer		N;NOM;PL
+Gesangslehrer	Gesangslehrer	N;NOM;SG
+Gesangslehrer		N;GEN;SG
+Gesangslehrer		N;DAT;SG
+Gesangslehrer		N;ACC;PL
+Gesangslehrer		N;ACC;SG
+Gesangslehrer		N;DAT;PL
+Gasballon		N;GEN;PL
+Gasballon		N;NOM;PL
+Gasballon		N;GEN;SG
+Gasballon		N;NOM;SG
+Gasballon		N;DAT;SG
+Gasballon		N;ACC;PL
+Gasballon		N;ACC;SG
+Gasballon	Gasballons	N;DAT;PL
+Liberianer		N;GEN;PL
+Liberianer		N;NOM;PL
+Liberianer	Liberianer	N;NOM;SG
+Liberianer		N;GEN;SG
+Liberianer		N;DAT;SG
+Liberianer		N;ACC;PL
+Liberianer		N;ACC;SG
+Liberianer		N;DAT;PL
+glorifizieren		V;SBJV;PRS;3;PL
+glorifizieren	glorifizierte	V;SBJV;PST;1;SG
+glorifizieren		V;IND;PRS;1;PL
+glorifizieren		V.PTCP;PRS
+glorifizieren		V;IND;PST;2;PL
+glorifizieren		V;IMP;2;SG
+glorifizieren		V;SBJV;PST;2;PL
+glorifizieren		V;SBJV;PST;3;SG
+glorifizieren		V;NFIN
+glorifizieren	glorifizieren	V;IND;PRS;3;PL
+glorifizieren		V;IND;PRS;2;PL
+glorifizieren		V;SBJV;PRS;1;PL
+glorifizieren		V;IND;PST;1;PL
+glorifizieren		V;SBJV;PRS;3;SG
+glorifizieren	glorifizierten	V;IND;PST;3;PL
+glorifizieren		V;IMP;2;PL
+glorifizieren		V.PTCP;PST
+glorifizieren		V;SBJV;PST;3;PL
+glorifizieren		V;IND;PRS;1;SG
+glorifizieren		V;SBJV;PRS;1;SG
+glorifizieren		V;IND;PRS;3;SG
+glorifizieren		V;SBJV;PRS;2;PL
+glorifizieren		V;IND;PST;2;SG
+glorifizieren	glorifizierten	V;SBJV;PST;1;PL
+glorifizieren		V;IND;PST;1;SG
+glorifizieren	glorifiziertest	V;SBJV;PST;2;SG
+glorifizieren		V;IND;PRS;2;SG
+glorifizieren		V;SBJV;PRS;2;SG
+glorifizieren		V;IND;PST;3;SG
+Einbahnstraße		N;GEN;PL
+Einbahnstraße	Einbahnstraßen	N;NOM;PL
+Einbahnstraße		N;GEN;SG
+Einbahnstraße		N;NOM;SG
+Einbahnstraße		N;DAT;SG
+Einbahnstraße		N;ACC;PL
+Einbahnstraße		N;ACC;SG
+Einbahnstraße		N;DAT;PL
+Grind		N;GEN;PL
+Grind	Grinde	N;NOM;PL
+Grind		N;GEN;SG
+Grind		N;NOM;SG
+Grind		N;DAT;SG
+Grind		N;ACC;PL
+Grind		N;ACC;SG
+Grind		N;DAT;PL
+gackern		V;SBJV;PRS;3;PL
+gackern		V;SBJV;PST;1;SG
+gackern		V;IND;PRS;1;PL
+gackern	gackernd	V.PTCP;PRS
+gackern	gackertet	V;IND;PST;2;PL
+gackern		V;IMP;2;SG
+gackern	gackern	V;IND;PRS;3;PL
+gackern		V;SBJV;PST;3;SG
+gackern		V;SBJV;PST;2;PL
+gackern		V;IND;PRS;2;PL
+gackern	gackern	V;SBJV;PRS;1;PL
+gackern		V;IND;PST;1;PL
+gackern		V;IND;PST;2;SG
+gackern		V;IND;PST;3;PL
+gackern		V;IMP;2;PL
+gackern		V.PTCP;PST
+gackern		V;SBJV;PST;3;PL
+gackern		V;IND;PRS;1;SG
+gackern		V;SBJV;PRS;1;SG
+gackern		V;IND;PRS;3;SG
+gackern		V;SBJV;PRS;2;PL
+gackern		V;NFIN
+gackern	gackere	V;SBJV;PRS;3;SG
+gackern		V;SBJV;PST;1;PL
+gackern		V;IND;PST;1;SG
+gackern		V;SBJV;PST;2;SG
+gackern		V;IND;PRS;2;SG
+gackern		V;SBJV;PRS;2;SG
+gackern		V;IND;PST;3;SG
+Schädlingsbekämpfungsmittel		N;GEN;PL
+Schädlingsbekämpfungsmittel		N;NOM;PL
+Schädlingsbekämpfungsmittel		N;NOM;SG
+Schädlingsbekämpfungsmittel		N;GEN;SG
+Schädlingsbekämpfungsmittel		N;DAT;SG
+Schädlingsbekämpfungsmittel		N;ACC;PL
+Schädlingsbekämpfungsmittel	Schädlingsbekämpfungsmittel	N;ACC;SG
+Schädlingsbekämpfungsmittel		N;DAT;PL
+Knappe		N;GEN;PL
+Knappe		N;NOM;PL
+Knappe		N;GEN;SG
+Knappe		N;NOM;SG
+Knappe		N;DAT;SG
+Knappe		N;ACC;PL
+Knappe		N;ACC;SG
+Knappe	Knappen	N;DAT;PL
+fingieren		V;SBJV;PRS;3;PL
+fingieren	fingierte	V;SBJV;PST;1;SG
+fingieren		V;IND;PRS;1;PL
+fingieren		V.PTCP;PRS
+fingieren		V;IND;PST;2;PL
+fingieren	fingier	V;IMP;2;SG
+fingieren	fingiertet	V;SBJV;PST;2;PL
+fingieren		V;SBJV;PST;3;SG
+fingieren		V;NFIN
+fingieren		V;IND;PRS;3;PL
+fingieren		V;IND;PRS;2;PL
+fingieren		V;SBJV;PRS;1;PL
+fingieren		V;IND;PST;1;PL
+fingieren		V;SBJV;PRS;3;SG
+fingieren		V;IND;PST;3;PL
+fingieren		V;IMP;2;PL
+fingieren		V.PTCP;PST
+fingieren		V;SBJV;PST;3;PL
+fingieren		V;IND;PRS;1;SG
+fingieren		V;SBJV;PRS;1;SG
+fingieren	fingiert	V;IND;PRS;3;SG
+fingieren		V;SBJV;PRS;2;PL
+fingieren		V;IND;PST;2;SG
+fingieren	fingierten	V;SBJV;PST;1;PL
+fingieren		V;IND;PST;1;SG
+fingieren		V;SBJV;PST;2;SG
+fingieren		V;IND;PRS;2;SG
+fingieren		V;SBJV;PRS;2;SG
+fingieren		V;IND;PST;3;SG
+Antimonid		N;GEN;PL
+Antimonid	Antimonide	N;NOM;PL
+Antimonid		N;NOM;SG
+Antimonid		N;GEN;SG
+Antimonid		N;DAT;SG
+Antimonid		N;ACC;PL
+Antimonid		N;ACC;SG
+Antimonid		N;DAT;PL
+Palindrom		N;GEN;PL
+Palindrom		N;NOM;PL
+Palindrom		N;GEN;SG
+Palindrom		N;NOM;SG
+Palindrom		N;DAT;SG
+Palindrom	Palindrome	N;ACC;PL
+Palindrom		N;ACC;SG
+Palindrom		N;DAT;PL
+Leierschwanz		N;GEN;PL
+Leierschwanz		N;NOM;PL
+Leierschwanz		N;GEN;SG
+Leierschwanz	Leierschwanz	N;NOM;SG
+Leierschwanz		N;DAT;SG
+Leierschwanz		N;ACC;PL
+Leierschwanz		N;ACC;SG
+Leierschwanz		N;DAT;PL
+sabotieren		V;SBJV;PRS;3;PL
+sabotieren		V;SBJV;PST;1;SG
+sabotieren	sabotieren	V;IND;PRS;1;PL
+sabotieren		V.PTCP;PRS
+sabotieren	sabotiertet	V;IND;PST;2;PL
+sabotieren		V;IMP;2;SG
+sabotieren		V;SBJV;PST;2;PL
+sabotieren		V;SBJV;PST;3;SG
+sabotieren	sabotieren	V;NFIN
+sabotieren		V;IND;PRS;3;PL
+sabotieren		V;IND;PRS;2;PL
+sabotieren	sabotieren	V;SBJV;PRS;1;PL
+sabotieren		V;IND;PST;1;PL
+sabotieren		V;SBJV;PRS;3;SG
+sabotieren		V;IND;PST;3;PL
+sabotieren		V;IMP;2;PL
+sabotieren		V.PTCP;PST
+sabotieren		V;SBJV;PST;3;PL
+sabotieren	sabotiere	V;IND;PRS;1;SG
+sabotieren		V;SBJV;PRS;1;SG
+sabotieren		V;IND;PRS;3;SG
+sabotieren		V;SBJV;PRS;2;PL
+sabotieren		V;IND;PST;2;SG
+sabotieren		V;SBJV;PST;1;PL
+sabotieren		V;IND;PST;1;SG
+sabotieren		V;SBJV;PST;2;SG
+sabotieren		V;IND;PRS;2;SG
+sabotieren		V;SBJV;PRS;2;SG
+sabotieren		V;IND;PST;3;SG
+Sultanat		N;GEN;PL
+Sultanat		N;NOM;PL
+Sultanat		N;GEN;SG
+Sultanat	Sultanat	N;NOM;SG
+Sultanat		N;DAT;SG
+Sultanat		N;ACC;PL
+Sultanat		N;ACC;SG
+Sultanat		N;DAT;PL
+Rubidiumsalz		N;GEN;PL
+Rubidiumsalz	Rubidiumsalze	N;NOM;PL
+Rubidiumsalz		N;GEN;SG
+Rubidiumsalz		N;NOM;SG
+Rubidiumsalz		N;DAT;SG
+Rubidiumsalz		N;ACC;PL
+Rubidiumsalz		N;ACC;SG
+Rubidiumsalz		N;DAT;PL
+Tiefland	Tiefländer	N;GEN;PL
+Tiefland		N;NOM;PL
+Tiefland		N;GEN;SG
+Tiefland		N;NOM;SG
+Tiefland		N;DAT;SG
+Tiefland		N;ACC;PL
+Tiefland		N;ACC;SG
+Tiefland		N;DAT;PL
+Zeitumstellung		N;GEN;PL
+Zeitumstellung		N;NOM;PL
+Zeitumstellung	Zeitumstellung	N;GEN;SG
+Zeitumstellung		N;NOM;SG
+Zeitumstellung		N;DAT;SG
+Zeitumstellung		N;ACC;PL
+Zeitumstellung		N;ACC;SG
+Zeitumstellung		N;DAT;PL
+besohlen		V;SBJV;PRS;3;PL
+besohlen		V;SBJV;PST;1;SG
+besohlen		V;IND;PRS;1;PL
+besohlen	besohlend	V.PTCP;PRS
+besohlen		V;IND;PST;2;PL
+besohlen		V;IMP;2;SG
+besohlen	besohltet	V;SBJV;PST;2;PL
+besohlen		V;SBJV;PST;3;SG
+besohlen		V;NFIN
+besohlen		V;IND;PRS;3;PL
+besohlen		V;IND;PRS;2;PL
+besohlen		V;SBJV;PRS;1;PL
+besohlen		V;IND;PST;1;PL
+besohlen		V;SBJV;PRS;3;SG
+besohlen		V;IND;PST;3;PL
+besohlen		V;IMP;2;PL
+besohlen	besohlt	V.PTCP;PST
+besohlen		V;SBJV;PST;3;PL
+besohlen		V;IND;PRS;1;SG
+besohlen	besohle	V;SBJV;PRS;1;SG
+besohlen		V;IND;PRS;3;SG
+besohlen		V;SBJV;PRS;2;PL
+besohlen		V;IND;PST;2;SG
+besohlen		V;SBJV;PST;1;PL
+besohlen		V;IND;PST;1;SG
+besohlen		V;SBJV;PST;2;SG
+besohlen		V;IND;PRS;2;SG
+besohlen	besohlest	V;SBJV;PRS;2;SG
+besohlen		V;IND;PST;3;SG
+Handgemenge		N;GEN;PL
+Handgemenge		N;NOM;PL
+Handgemenge	Handgemenge	N;NOM;SG
+Handgemenge		N;GEN;SG
+Handgemenge		N;DAT;SG
+Handgemenge		N;ACC;PL
+Handgemenge		N;ACC;SG
+Handgemenge		N;DAT;PL
+erhöhen	erhöhen	V;SBJV;PRS;3;PL
+erhöhen		V;SBJV;PST;1;SG
+erhöhen		V;IND;PRS;1;PL
+erhöhen		V.PTCP;PRS
+erhöhen		V;IND;PST;2;PL
+erhöhen		V;IMP;2;SG
+erhöhen		V;SBJV;PST;2;PL
+erhöhen		V;SBJV;PST;3;SG
+erhöhen		V;NFIN
+erhöhen		V;IND;PRS;3;PL
+erhöhen		V;IND;PRS;2;PL
+erhöhen	erhöhen	V;SBJV;PRS;1;PL
+erhöhen		V;IND;PST;1;PL
+erhöhen		V;SBJV;PRS;3;SG
+erhöhen		V;IND;PST;3;PL
+erhöhen		V;IMP;2;PL
+erhöhen		V.PTCP;PST
+erhöhen		V;SBJV;PST;3;PL
+erhöhen		V;IND;PRS;1;SG
+erhöhen		V;SBJV;PRS;1;SG
+erhöhen	erhöht	V;IND;PRS;3;SG
+erhöhen	erhöhet	V;SBJV;PRS;2;PL
+erhöhen		V;IND;PST;2;SG
+erhöhen		V;SBJV;PST;1;PL
+erhöhen		V;IND;PST;1;SG
+erhöhen	erhöhtest	V;SBJV;PST;2;SG
+erhöhen		V;IND;PRS;2;SG
+erhöhen		V;SBJV;PRS;2;SG
+erhöhen		V;IND;PST;3;SG
+Kabine	Kabinen	N;GEN;PL
+Kabine		N;NOM;PL
+Kabine		N;GEN;SG
+Kabine		N;NOM;SG
+Kabine		N;DAT;SG
+Kabine		N;ACC;PL
+Kabine		N;ACC;SG
+Kabine		N;DAT;PL
+schalten		V;SBJV;PRS;3;PL
+schalten		V;SBJV;PST;1;SG
+schalten		V;IND;PRS;1;PL
+schalten		V.PTCP;PRS
+schalten		V;IND;PST;2;PL
+schalten		V;IMP;2;SG
+schalten		V;SBJV;PST;2;PL
+schalten		V;SBJV;PST;3;SG
+schalten		V;IND;PRS;3;PL
+schalten	schaltet	V;IND;PRS;2;PL
+schalten	schalten	V;SBJV;PRS;1;PL
+schalten	schalteten	V;IND;PST;1;PL
+schalten		V;NFIN
+schalten		V;IND;PST;3;PL
+schalten		V;SBJV;PRS;2;PL
+schalten		V.PTCP;PST
+schalten		V;SBJV;PST;3;PL
+schalten		V;IND;PRS;1;SG
+schalten		V;SBJV;PRS;1;SG
+schalten		V;IND;PRS;3;SG
+schalten		V;IMP;2;PL
+schalten		V;IND;PST;2;SG
+schalten	schalte	V;SBJV;PRS;3;SG
+schalten		V;SBJV;PST;1;PL
+schalten		V;IND;PST;1;SG
+schalten		V;SBJV;PST;2;SG
+schalten		V;IND;PRS;2;SG
+schalten	schaltest	V;SBJV;PRS;2;SG
+schalten		V;IND;PST;3;SG
+Traggas		N;GEN;PL
+Traggas		N;NOM;PL
+Traggas		N;GEN;SG
+Traggas	Traggas	N;NOM;SG
+Traggas		N;DAT;SG
+Traggas		N;ACC;PL
+Traggas		N;ACC;SG
+Traggas		N;DAT;PL
+Hydrat		N;GEN;PL
+Hydrat		N;NOM;PL
+Hydrat		N;GEN;SG
+Hydrat		N;NOM;SG
+Hydrat		N;DAT;SG
+Hydrat		N;ACC;PL
+Hydrat	Hydrat	N;ACC;SG
+Hydrat		N;DAT;PL
+Kultur		N;GEN;PL
+Kultur		N;NOM;PL
+Kultur		N;GEN;SG
+Kultur		N;NOM;SG
+Kultur		N;DAT;SG
+Kultur	Kulturen	N;ACC;PL
+Kultur		N;ACC;SG
+Kultur		N;DAT;PL
+Romanistin		N;GEN;PL
+Romanistin		N;NOM;PL
+Romanistin	Romanistin	N;GEN;SG
+Romanistin		N;NOM;SG
+Romanistin		N;DAT;SG
+Romanistin		N;ACC;PL
+Romanistin		N;ACC;SG
+Romanistin		N;DAT;PL
+Verdauungssystem		N;GEN;PL
+Verdauungssystem		N;NOM;PL
+Verdauungssystem	Verdauungssystem	N;NOM;SG
+Verdauungssystem		N;GEN;SG
+Verdauungssystem		N;DAT;SG
+Verdauungssystem		N;ACC;PL
+Verdauungssystem		N;ACC;SG
+Verdauungssystem		N;DAT;PL
+Verselbständigung		N;GEN;PL
+Verselbständigung		N;NOM;PL
+Verselbständigung		N;GEN;SG
+Verselbständigung		N;NOM;SG
+Verselbständigung		N;DAT;SG
+Verselbständigung	Verselbständigungen	N;ACC;PL
+Verselbständigung		N;ACC;SG
+Verselbständigung		N;DAT;PL
+Chalkogen		N;GEN;PL
+Chalkogen		N;NOM;PL
+Chalkogen		N;NOM;SG
+Chalkogen	Chalkogens	N;GEN;SG
+Chalkogen		N;DAT;SG
+Chalkogen		N;ACC;PL
+Chalkogen		N;ACC;SG
+Chalkogen		N;DAT;PL

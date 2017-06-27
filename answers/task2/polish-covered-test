@@ -1,0 +1,927 @@
+diament		N;VOC;SG
+diament		N;GEN;PL
+diament		N;NOM;SG
+diament		N;VOC;PL
+diament	diamentami	N;INS;PL
+diament	diamentach	N;ESS;PL
+diament		N;ESS;SG
+diament		N;GEN;SG
+diament		N;INS;SG
+diament		N;DAT;SG
+diament		N;ACC;PL
+diament		N;ACC;SG
+diament		N;NOM;PL
+diament		N;DAT;PL
+szkło		N;GEN;PL
+szkło		N;NOM;PL
+szkło		N;GEN;SG
+szkło	szkłami	N;INS;PL
+szkło		N;ESS;PL
+szkło		N;ESS;SG
+szkło		N;VOC;SG
+szkło		N;NOM;SG
+szkło		N;INS;SG
+szkło		N;DAT;SG
+szkło	szkła	N;ACC;PL
+szkło		N;ACC;SG
+szkło		N;VOC;PL
+szkło		N;DAT;PL
+podział		N;VOC;SG
+podział		N;GEN;PL
+podział		N;NOM;SG
+podział		N;VOC;PL
+podział		N;INS;PL
+podział	podziałach	N;ESS;PL
+podział		N;ESS;SG
+podział		N;GEN;SG
+podział		N;INS;SG
+podział		N;DAT;SG
+podział		N;ACC;PL
+podział	podział	N;ACC;SG
+podział		N;NOM;PL
+podział		N;DAT;PL
+oskard		N;GEN;PL
+oskard		N;NOM;PL
+oskard		N;GEN;SG
+oskard		N;INS;PL
+oskard	oskardach	N;ESS;PL
+oskard		N;ESS;SG
+oskard		N;VOC;SG
+oskard		N;NOM;SG
+oskard		N;INS;SG
+oskard		N;DAT;SG
+oskard		N;ACC;PL
+oskard	oskard	N;ACC;SG
+oskard		N;VOC;PL
+oskard		N;DAT;PL
+płynny		ADJ;FEM;ACC;SG
+płynny		ADJ;NEUT;DAT;SG
+płynny		ADJ;FEM;DAT;SG
+płynny	płynni	ADJ;MASC;HUM;NOM;PL
+płynny		ADJ;MASC;NOM;SG
+płynny		ADJ;MASC;DAT;SG
+płynny	płynnym	ADJ;MASC;INS;SG
+płynny		ADJ;GEN;PL
+płynny		ADJ;NEUT;ACC;SG
+płynny		ADJ;MASC;HUM;ACC;SG
+płynny		ADJ;MASC;HUM;ACC;PL
+płynny		ADJ;NOM;PL
+płynny	płynnym	ADJ;NEUT;ESS;SG
+płynny		ADJ;FEM;ESS;SG
+płynny		ADJ;ACC;PL
+płynny		ADJ;FEM;GEN;SG
+płynny		ADJ;NEUT;GEN;SG
+płynny		ADJ;FEM;INS;SG
+płynny		ADJ;NEUT;INS;SG
+płynny		ADJ;MASC;INAN;ACC;SG
+płynny	płynnego	ADJ;MASC;ANIM;ACC;SG
+płynny		ADJ;DAT;PL
+płynny		ADJ;INS;PL
+płynny		ADJ;FEM;NOM;SG
+płynny		ADJ;NEUT;NOM;SG
+płynny		ADJ;MASC;ESS;SG
+płynny		ADJ;MASC;GEN;SG
+płynny	płynnych	ADJ;ESS;PL
+książę	książąt	N;GEN;PL
+książę		N;VOC;SG
+książę		N;NOM;SG
+książę		N;VOC;PL
+książę		N;INS;PL
+książę		N;ESS;PL
+książę		N;ESS;SG
+książę		N;GEN;SG
+książę		N;INS;SG
+książę	księciu	N;DAT;SG
+książę		N;ACC;PL
+książę		N;ACC;SG
+książę		N;NOM;PL
+książę		N;DAT;PL
+publiczny	publiczną	ADJ;FEM;ACC;SG
+publiczny		ADJ;NEUT;DAT;SG
+publiczny		ADJ;FEM;DAT;SG
+publiczny	publiczni	ADJ;MASC;HUM;NOM;PL
+publiczny		ADJ;MASC;NOM;SG
+publiczny		ADJ;MASC;DAT;SG
+publiczny	publicznym	ADJ;MASC;INS;SG
+publiczny		ADJ;GEN;PL
+publiczny		ADJ;NEUT;ACC;SG
+publiczny		ADJ;MASC;HUM;ACC;SG
+publiczny		ADJ;MASC;HUM;ACC;PL
+publiczny		ADJ;NOM;PL
+publiczny		ADJ;NEUT;ESS;SG
+publiczny		ADJ;FEM;ESS;SG
+publiczny		ADJ;ACC;PL
+publiczny		ADJ;FEM;GEN;SG
+publiczny		ADJ;NEUT;GEN;SG
+publiczny	publiczną	ADJ;FEM;INS;SG
+publiczny		ADJ;NEUT;INS;SG
+publiczny		ADJ;MASC;INAN;ACC;SG
+publiczny		ADJ;MASC;ANIM;ACC;SG
+publiczny		ADJ;DAT;PL
+publiczny		ADJ;INS;PL
+publiczny		ADJ;FEM;NOM;SG
+publiczny		ADJ;NEUT;NOM;SG
+publiczny		ADJ;MASC;ESS;SG
+publiczny	publicznego	ADJ;MASC;GEN;SG
+publiczny		ADJ;ESS;PL
+poznać		V.MSDR
+poznać		V;FUT;2;SG
+poznać		V;FUT;2;PL
+poznać		V.CVB;PST
+poznać		V.PTCP;PST;PASS;SG;FEM
+poznać		V;COND;3;SG;MASC
+poznać		V;PST;2;SG;MASC
+poznać		V;FUT;3;SG
+poznać		V;COND;3;PL
+poznać		V;PST;3;SG;MASC
+poznać		V;FUT;1;SG
+poznać		V;PST;1;SG;FEM
+poznać		V;IMP;2;SG
+poznać		V;COND;2;SG;FEM
+poznać	poznaliby	V;COND;3;PL;MASC;HUM
+poznać		V.PTCP;PST;PASS
+poznać		V.PTCP;PST;PASS;SG;MASC
+poznać		V;PST;2;PL
+poznać		V.PTCP;PST;PASS;PL
+poznać		V;IMP;1;SG
+poznać		V;NFIN
+poznać	poznałaby	V;COND;3;SG;FEM
+poznać		V;PST;1;SG;MASC
+poznać	poznają	V;FUT;3;PL
+poznać		V;IMP;3;PL
+poznać	poznaliście	V;PST;2;PL;MASC;HUM
+poznać		V.PTCP;PST;PASS;SG;NEUT
+poznać		V;FUT;1;PL
+poznać		V.PTCP;PST;PASS;PL;MASC;HUM
+poznać		V;PST;2;SG;FEM
+poznać		V;COND;2;PL
+poznać	poznałabym	V;COND;1;SG;FEM
+poznać	poznałyśmy	V;PST;1;PL
+poznać	poznaliśmy	V;PST;1;PL;MASC;HUM
+poznać		V;IMP;2;PL
+poznać		V;COND;2;SG;MASC
+poznać		V;COND;1;PL;MASC;HUM
+poznać	poznalibyście	V;COND;2;PL;MASC;HUM
+poznać		V;PST;3;PL
+poznać		V;COND;1;PL
+poznać		V;PST;3;SG;NEUT
+poznać		V;PST;3;SG;FEM
+poznać		V;IMP;1;PL
+poznać		V;COND;1;SG;MASC
+poznać		V;IMP;3;SG
+poznać		V;COND;3;SG;NEUT
+poznać		V;PST;3;PL;MASC;HUM
+wodny		ADJ;FEM;ACC;SG
+wodny		ADJ;NEUT;DAT;SG
+wodny		ADJ;FEM;DAT;SG
+wodny		ADJ;MASC;HUM;NOM;PL
+wodny		ADJ;MASC;NOM;SG
+wodny		ADJ;MASC;DAT;SG
+wodny		ADJ;MASC;INS;SG
+wodny		ADJ;GEN;PL
+wodny	wodne	ADJ;NEUT;ACC;SG
+wodny	wodnego	ADJ;MASC;HUM;ACC;SG
+wodny		ADJ;MASC;HUM;ACC;PL
+wodny		ADJ;NOM;PL
+wodny		ADJ;NEUT;ESS;SG
+wodny		ADJ;FEM;ESS;SG
+wodny		ADJ;ACC;PL
+wodny		ADJ;FEM;GEN;SG
+wodny	wodnego	ADJ;NEUT;GEN;SG
+wodny	wodną	ADJ;FEM;INS;SG
+wodny		ADJ;NEUT;INS;SG
+wodny		ADJ;MASC;INAN;ACC;SG
+wodny	wodnego	ADJ;MASC;ANIM;ACC;SG
+wodny		ADJ;DAT;PL
+wodny		ADJ;INS;PL
+wodny		ADJ;FEM;NOM;SG
+wodny		ADJ;NEUT;NOM;SG
+wodny		ADJ;MASC;ESS;SG
+wodny		ADJ;MASC;GEN;SG
+wodny		ADJ;ESS;PL
+lis		N;VOC;SG
+lis	lisów	N;GEN;PL
+lis		N;GEN;SG
+lis		N;VOC;PL
+lis		N;INS;PL
+lis	lisach	N;ESS;PL
+lis		N;ESS;SG
+lis		N;NOM;SG
+lis		N;INS;SG
+lis		N;DAT;SG
+lis		N;ACC;PL
+lis		N;ACC;SG
+lis		N;NOM;PL
+lis		N;DAT;PL
+ciągnik		N;NOM;PL
+ciągnik		N;GEN;PL
+ciągnik		N;GEN;SG
+ciągnik	ciągnikami	N;INS;PL
+ciągnik	ciągnikach	N;ESS;PL
+ciągnik		N;ESS;SG
+ciągnik		N;VOC;SG
+ciągnik		N;NOM;SG
+ciągnik		N;INS;SG
+ciągnik		N;DAT;SG
+ciągnik		N;ACC;PL
+ciągnik		N;ACC;SG
+ciągnik		N;VOC;PL
+ciągnik		N;DAT;PL
+sam		ADJ;FEM;ACC;SG
+sam		ADJ;NEUT;DAT;SG
+sam		ADJ;FEM;DAT;SG
+sam		ADJ;MASC;HUM;NOM;PL
+sam	samych	ADJ;MASC;HUM;ACC;PL
+sam		ADJ;MASC;DAT;SG
+sam	samym	ADJ;MASC;INS;SG
+sam		ADJ;GEN;PL
+sam	samo	ADJ;NEUT;ACC;SG
+sam	samego	ADJ;MASC;HUM;ACC;SG
+sam		ADJ;MASC;NOM;SG
+sam		ADJ;NOM;PL
+sam		ADJ;NEUT;ESS;SG
+sam		ADJ;FEM;ESS;SG
+sam		ADJ;ACC;PL
+sam		ADJ;FEM;GEN;SG
+sam		ADJ;NEUT;GEN;SG
+sam		ADJ;FEM;INS;SG
+sam		ADJ;NEUT;INS;SG
+sam	sam	ADJ;MASC;INAN;ACC;SG
+sam		ADJ;MASC;ANIM;ACC;SG
+sam		ADJ;DAT;PL
+sam		ADJ;INS;PL
+sam		ADJ;FEM;NOM;SG
+sam		ADJ;NEUT;NOM;SG
+sam		ADJ;MASC;ESS;SG
+sam		ADJ;MASC;GEN;SG
+sam		ADJ;ESS;PL
+gen		N;VOC;SG
+gen		N;GEN;PL
+gen	gen	N;NOM;SG
+gen		N;VOC;PL
+gen		N;INS;PL
+gen		N;ESS;PL
+gen		N;ESS;SG
+gen		N;GEN;SG
+gen		N;INS;SG
+gen		N;DAT;SG
+gen		N;ACC;PL
+gen		N;ACC;SG
+gen	geny	N;NOM;PL
+gen		N;DAT;PL
+brama		N;GEN;PL
+brama		N;VOC;SG
+brama		N;NOM;SG
+brama		N;VOC;PL
+brama		N;INS;PL
+brama		N;ESS;PL
+brama		N;ESS;SG
+brama		N;GEN;SG
+brama	bramą	N;INS;SG
+brama		N;DAT;SG
+brama	bramy	N;ACC;PL
+brama		N;ACC;SG
+brama		N;NOM;PL
+brama		N;DAT;PL
+los		N;VOC;SG
+los		N;GEN;PL
+los		N;NOM;SG
+los		N;VOC;PL
+los		N;INS;PL
+los		N;ESS;PL
+los		N;ESS;SG
+los		N;GEN;SG
+los		N;INS;SG
+los		N;DAT;SG
+los		N;ACC;PL
+los	los	N;ACC;SG
+los		N;NOM;PL
+los	losom	N;DAT;PL
+sprawa		N;GEN;PL
+sprawa		N;VOC;SG
+sprawa	sprawa	N;NOM;SG
+sprawa		N;VOC;PL
+sprawa		N;INS;PL
+sprawa		N;ESS;PL
+sprawa		N;ESS;SG
+sprawa		N;GEN;SG
+sprawa		N;INS;SG
+sprawa		N;DAT;SG
+sprawa		N;ACC;PL
+sprawa	sprawę	N;ACC;SG
+sprawa		N;NOM;PL
+sprawa		N;DAT;PL
+akcja		N;NOM;PL
+akcja		N;GEN;PL
+akcja		N;NOM;SG
+akcja	akcjami	N;INS;PL
+akcja		N;ESS;PL
+akcja		N;ESS;SG
+akcja		N;VOC;SG
+akcja		N;GEN;SG
+akcja	akcją	N;INS;SG
+akcja		N;DAT;SG
+akcja		N;ACC;PL
+akcja		N;ACC;SG
+akcja		N;VOC;PL
+akcja		N;DAT;PL
+ryzyko	ryzyka	N;NOM;PL
+ryzyko		N;GEN;PL
+ryzyko		N;GEN;SG
+ryzyko		N;INS;PL
+ryzyko		N;ESS;PL
+ryzyko		N;ESS;SG
+ryzyko		N;VOC;SG
+ryzyko		N;NOM;SG
+ryzyko		N;INS;SG
+ryzyko		N;DAT;SG
+ryzyko		N;ACC;PL
+ryzyko	ryzyko	N;ACC;SG
+ryzyko		N;VOC;PL
+ryzyko		N;DAT;PL
+górny		ADJ;FEM;ACC;SG
+górny		ADJ;NEUT;DAT;SG
+górny		ADJ;FEM;DAT;SG
+górny		ADJ;MASC;HUM;NOM;PL
+górny		ADJ;MASC;NOM;SG
+górny		ADJ;MASC;DAT;SG
+górny	górnym	ADJ;MASC;INS;SG
+górny		ADJ;GEN;PL
+górny	górne	ADJ;NEUT;ACC;SG
+górny		ADJ;MASC;HUM;ACC;SG
+górny		ADJ;MASC;HUM;ACC;PL
+górny		ADJ;NOM;PL
+górny		ADJ;NEUT;ESS;SG
+górny		ADJ;FEM;ESS;SG
+górny		ADJ;ACC;PL
+górny	górnej	ADJ;FEM;GEN;SG
+górny		ADJ;NEUT;GEN;SG
+górny		ADJ;FEM;INS;SG
+górny	górnym	ADJ;NEUT;INS;SG
+górny		ADJ;MASC;INAN;ACC;SG
+górny	górnego	ADJ;MASC;ANIM;ACC;SG
+górny		ADJ;DAT;PL
+górny		ADJ;INS;PL
+górny		ADJ;FEM;NOM;SG
+górny		ADJ;NEUT;NOM;SG
+górny		ADJ;MASC;ESS;SG
+górny		ADJ;MASC;GEN;SG
+górny		ADJ;ESS;PL
+prostokątny		ADJ;FEM;ACC;SG
+prostokątny		ADJ;NEUT;DAT;SG
+prostokątny		ADJ;FEM;DAT;SG
+prostokątny		ADJ;MASC;HUM;NOM;PL
+prostokątny		ADJ;MASC;NOM;SG
+prostokątny		ADJ;MASC;DAT;SG
+prostokątny		ADJ;MASC;INS;SG
+prostokątny		ADJ;GEN;PL
+prostokątny		ADJ;NEUT;ACC;SG
+prostokątny	prostokątnego	ADJ;MASC;HUM;ACC;SG
+prostokątny		ADJ;MASC;HUM;ACC;PL
+prostokątny	prostokątne	ADJ;NOM;PL
+prostokątny		ADJ;NEUT;ESS;SG
+prostokątny		ADJ;FEM;ESS;SG
+prostokątny		ADJ;ACC;PL
+prostokątny		ADJ;FEM;GEN;SG
+prostokątny		ADJ;NEUT;GEN;SG
+prostokątny		ADJ;FEM;INS;SG
+prostokątny		ADJ;NEUT;INS;SG
+prostokątny	prostokątny	ADJ;MASC;INAN;ACC;SG
+prostokątny		ADJ;MASC;ANIM;ACC;SG
+prostokątny	prostokątnym	ADJ;DAT;PL
+prostokątny		ADJ;INS;PL
+prostokątny		ADJ;FEM;NOM;SG
+prostokątny		ADJ;NEUT;NOM;SG
+prostokątny		ADJ;MASC;ESS;SG
+prostokątny	prostokątnego	ADJ;MASC;GEN;SG
+prostokątny		ADJ;ESS;PL
+linia		N;NOM;PL
+linia		N;GEN;PL
+linia		N;NOM;SG
+linia		N;INS;PL
+linia		N;ESS;PL
+linia		N;ESS;SG
+linia		N;VOC;SG
+linia	linii	N;GEN;SG
+linia	linią	N;INS;SG
+linia		N;DAT;SG
+linia		N;ACC;PL
+linia		N;ACC;SG
+linia		N;VOC;PL
+linia		N;DAT;PL
+jedyny		ADJ;FEM;ACC;SG
+jedyny		ADJ;NEUT;DAT;SG
+jedyny		ADJ;FEM;DAT;SG
+jedyny		ADJ;MASC;HUM;NOM;PL
+jedyny		ADJ;MASC;NOM;SG
+jedyny		ADJ;MASC;DAT;SG
+jedyny		ADJ;MASC;INS;SG
+jedyny	jedynych	ADJ;GEN;PL
+jedyny	jedyne	ADJ;NEUT;ACC;SG
+jedyny		ADJ;MASC;HUM;ACC;SG
+jedyny		ADJ;MASC;HUM;ACC;PL
+jedyny		ADJ;NOM;PL
+jedyny		ADJ;NEUT;ESS;SG
+jedyny		ADJ;FEM;ESS;SG
+jedyny		ADJ;ACC;PL
+jedyny		ADJ;FEM;GEN;SG
+jedyny	jedynego	ADJ;NEUT;GEN;SG
+jedyny		ADJ;FEM;INS;SG
+jedyny	jedynym	ADJ;NEUT;INS;SG
+jedyny		ADJ;MASC;INAN;ACC;SG
+jedyny		ADJ;MASC;ANIM;ACC;SG
+jedyny		ADJ;DAT;PL
+jedyny		ADJ;INS;PL
+jedyny		ADJ;FEM;NOM;SG
+jedyny		ADJ;NEUT;NOM;SG
+jedyny		ADJ;MASC;ESS;SG
+jedyny	jedynego	ADJ;MASC;GEN;SG
+jedyny		ADJ;ESS;PL
+numer		N;GEN;PL
+numer		N;NOM;PL
+numer		N;NOM;SG
+numer	numerami	N;INS;PL
+numer		N;ESS;PL
+numer		N;ESS;SG
+numer		N;VOC;SG
+numer		N;GEN;SG
+numer		N;INS;SG
+numer		N;DAT;SG
+numer		N;ACC;PL
+numer		N;ACC;SG
+numer	numery	N;VOC;PL
+numer		N;DAT;PL
+ścieżka		N;GEN;PL
+ścieżka		N;NOM;PL
+ścieżka		N;NOM;SG
+ścieżka		N;INS;PL
+ścieżka	ścieżkach	N;ESS;PL
+ścieżka	ścieżce	N;ESS;SG
+ścieżka		N;VOC;SG
+ścieżka		N;GEN;SG
+ścieżka		N;INS;SG
+ścieżka		N;DAT;SG
+ścieżka		N;ACC;PL
+ścieżka		N;ACC;SG
+ścieżka		N;VOC;PL
+ścieżka		N;DAT;PL
+podać		V.MSDR
+podać		V;FUT;2;SG
+podać	podacie	V;FUT;2;PL
+podać		V.CVB;PST
+podać		V.PTCP;PST;PASS;SG;FEM
+podać		V;COND;3;SG;MASC
+podać		V;PST;2;SG;MASC
+podać		V;FUT;3;SG
+podać		V;COND;3;PL
+podać		V;PST;3;SG;MASC
+podać		V;FUT;1;SG
+podać		V;PST;1;SG;FEM
+podać		V;IMP;2;SG
+podać		V;COND;2;SG;FEM
+podać		V;COND;3;PL;MASC;HUM
+podać		V.PTCP;PST;PASS
+podać	podany	V.PTCP;PST;PASS;SG;MASC
+podać	podałyście	V;PST;2;PL
+podać	podane	V.PTCP;PST;PASS;PL
+podać		V;IMP;1;SG
+podać		V;NFIN
+podać		V;COND;3;SG;FEM
+podać	podałem	V;PST;1;SG;MASC
+podać		V;FUT;3;PL
+podać		V;IMP;3;PL
+podać	podaliście	V;PST;2;PL;MASC;HUM
+podać		V.PTCP;PST;PASS;SG;NEUT
+podać		V;FUT;1;PL
+podać		V.PTCP;PST;PASS;PL;MASC;HUM
+podać		V;PST;2;SG;FEM
+podać		V;COND;2;PL
+podać	podałabym	V;COND;1;SG;FEM
+podać		V;PST;1;PL
+podać		V;PST;1;PL;MASC;HUM
+podać		V;IMP;2;PL
+podać		V;COND;2;SG;MASC
+podać		V;COND;1;PL;MASC;HUM
+podać		V;COND;2;PL;MASC;HUM
+podać		V;PST;3;PL
+podać		V;COND;1;PL
+podać		V;PST;3;SG;NEUT
+podać		V;PST;3;SG;FEM
+podać	podajmy	V;IMP;1;PL
+podać		V;COND;1;SG;MASC
+podać		V;IMP;3;SG
+podać		V;COND;3;SG;NEUT
+podać		V;PST;3;PL;MASC;HUM
+drużyna		N;GEN;PL
+drużyna		N;VOC;SG
+drużyna		N;NOM;SG
+drużyna		N;VOC;PL
+drużyna	drużynami	N;INS;PL
+drużyna		N;ESS;PL
+drużyna		N;ESS;SG
+drużyna		N;GEN;SG
+drużyna		N;INS;SG
+drużyna		N;DAT;SG
+drużyna		N;ACC;PL
+drużyna		N;ACC;SG
+drużyna	drużyny	N;NOM;PL
+drużyna		N;DAT;PL
+francuski		ADJ;FEM;ACC;SG
+francuski		ADJ;NEUT;DAT;SG
+francuski		ADJ;FEM;DAT;SG
+francuski		ADJ;MASC;HUM;NOM;PL
+francuski		ADJ;MASC;HUM;ACC;PL
+francuski		ADJ;MASC;DAT;SG
+francuski		ADJ;MASC;INS;SG
+francuski		ADJ;GEN;PL
+francuski		ADJ;NEUT;ACC;SG
+francuski	francuskiego	ADJ;MASC;HUM;ACC;SG
+francuski		ADJ;MASC;NOM;SG
+francuski	francuskie	ADJ;NOM;PL
+francuski		ADJ;NEUT;ESS;SG
+francuski		ADJ;FEM;ESS;SG
+francuski		ADJ;ACC;PL
+francuski		ADJ;FEM;GEN;SG
+francuski		ADJ;NEUT;GEN;SG
+francuski		ADJ;FEM;INS;SG
+francuski	francuskim	ADJ;NEUT;INS;SG
+francuski		ADJ;MASC;INAN;ACC;SG
+francuski		ADJ;MASC;ANIM;ACC;SG
+francuski		ADJ;DAT;PL
+francuski		ADJ;INS;PL
+francuski		ADJ;FEM;NOM;SG
+francuski		ADJ;NEUT;NOM;SG
+francuski	francuskim	ADJ;MASC;ESS;SG
+francuski		ADJ;MASC;GEN;SG
+francuski	francuskich	ADJ;ESS;PL
+teoria		N;NOM;PL
+teoria		N;GEN;PL
+teoria		N;NOM;SG
+teoria		N;INS;PL
+teoria		N;ESS;PL
+teoria		N;ESS;SG
+teoria	teorio	N;VOC;SG
+teoria		N;GEN;SG
+teoria		N;INS;SG
+teoria		N;DAT;SG
+teoria		N;ACC;PL
+teoria	teorię	N;ACC;SG
+teoria		N;VOC;PL
+teoria		N;DAT;PL
+równy		ADJ;FEM;ACC;SG
+równy		ADJ;NEUT;DAT;SG
+równy		ADJ;FEM;DAT;SG
+równy		ADJ;MASC;HUM;NOM;PL
+równy		ADJ;MASC;NOM;SG
+równy		ADJ;MASC;DAT;SG
+równy		ADJ;MASC;INS;SG
+równy	równych	ADJ;GEN;PL
+równy		ADJ;NEUT;ACC;SG
+równy		ADJ;MASC;HUM;ACC;SG
+równy	równych	ADJ;MASC;HUM;ACC;PL
+równy		ADJ;NOM;PL
+równy		ADJ;NEUT;ESS;SG
+równy		ADJ;FEM;ESS;SG
+równy		ADJ;ACC;PL
+równy		ADJ;FEM;GEN;SG
+równy		ADJ;NEUT;GEN;SG
+równy		ADJ;FEM;INS;SG
+równy		ADJ;NEUT;INS;SG
+równy		ADJ;MASC;INAN;ACC;SG
+równy	równego	ADJ;MASC;ANIM;ACC;SG
+równy		ADJ;DAT;PL
+równy	równymi	ADJ;INS;PL
+równy		ADJ;FEM;NOM;SG
+równy		ADJ;NEUT;NOM;SG
+równy		ADJ;MASC;ESS;SG
+równy	równego	ADJ;MASC;GEN;SG
+równy		ADJ;ESS;PL
+zjawisko	zjawisek	N;GEN;PL
+zjawisko		N;NOM;PL
+zjawisko		N;GEN;SG
+zjawisko		N;INS;PL
+zjawisko		N;ESS;PL
+zjawisko		N;ESS;SG
+zjawisko		N;VOC;SG
+zjawisko		N;NOM;SG
+zjawisko		N;INS;SG
+zjawisko		N;DAT;SG
+zjawisko		N;ACC;PL
+zjawisko		N;ACC;SG
+zjawisko	zjawiska	N;VOC;PL
+zjawisko		N;DAT;PL
+lotnisko		N;GEN;PL
+lotnisko		N;NOM;PL
+lotnisko		N;GEN;SG
+lotnisko		N;INS;PL
+lotnisko		N;ESS;PL
+lotnisko		N;ESS;SG
+lotnisko		N;VOC;SG
+lotnisko		N;NOM;SG
+lotnisko		N;INS;SG
+lotnisko		N;DAT;SG
+lotnisko		N;ACC;PL
+lotnisko	lotnisko	N;ACC;SG
+lotnisko		N;VOC;PL
+lotnisko	lotniskom	N;DAT;PL
+fregata		N;GEN;PL
+fregata		N;VOC;SG
+fregata		N;NOM;SG
+fregata		N;VOC;PL
+fregata		N;INS;PL
+fregata	fregatach	N;ESS;PL
+fregata	fregacie	N;ESS;SG
+fregata		N;GEN;SG
+fregata		N;INS;SG
+fregata		N;DAT;SG
+fregata		N;ACC;PL
+fregata		N;ACC;SG
+fregata		N;NOM;PL
+fregata		N;DAT;PL
+szwedzki		ADJ;FEM;ACC;SG
+szwedzki	szwedzkiemu	ADJ;NEUT;DAT;SG
+szwedzki		ADJ;FEM;DAT;SG
+szwedzki		ADJ;MASC;HUM;NOM;PL
+szwedzki		ADJ;MASC;HUM;ACC;PL
+szwedzki		ADJ;MASC;DAT;SG
+szwedzki		ADJ;MASC;INS;SG
+szwedzki		ADJ;GEN;PL
+szwedzki	szwedzkie	ADJ;NEUT;ACC;SG
+szwedzki		ADJ;MASC;HUM;ACC;SG
+szwedzki		ADJ;MASC;NOM;SG
+szwedzki		ADJ;NOM;PL
+szwedzki		ADJ;NEUT;ESS;SG
+szwedzki		ADJ;FEM;ESS;SG
+szwedzki		ADJ;ACC;PL
+szwedzki		ADJ;FEM;GEN;SG
+szwedzki		ADJ;NEUT;GEN;SG
+szwedzki		ADJ;FEM;INS;SG
+szwedzki		ADJ;NEUT;INS;SG
+szwedzki	szwedzki	ADJ;MASC;INAN;ACC;SG
+szwedzki		ADJ;MASC;ANIM;ACC;SG
+szwedzki		ADJ;DAT;PL
+szwedzki		ADJ;INS;PL
+szwedzki	szwedzka	ADJ;FEM;NOM;SG
+szwedzki		ADJ;NEUT;NOM;SG
+szwedzki	szwedzkim	ADJ;MASC;ESS;SG
+szwedzki		ADJ;MASC;GEN;SG
+szwedzki		ADJ;ESS;PL
+start		N;VOC;SG
+start		N;GEN;PL
+start		N;NOM;SG
+start		N;VOC;PL
+start		N;INS;PL
+start		N;ESS;PL
+start	starcie	N;ESS;SG
+start		N;GEN;SG
+start		N;INS;SG
+start		N;DAT;SG
+start	starty	N;ACC;PL
+start		N;ACC;SG
+start		N;NOM;PL
+start		N;DAT;PL
+prezes		N;VOC;SG
+prezes		N;NOM;PL
+prezes		N;GEN;SG
+prezes		N;GEN;PL
+prezes		N;INS;PL
+prezes		N;ESS;PL
+prezes	prezesie	N;ESS;SG
+prezes		N;NOM;SG
+prezes		N;INS;SG
+prezes		N;DAT;SG
+prezes		N;ACC;PL
+prezes		N;ACC;SG
+prezes		N;VOC;PL
+prezes	prezesom	N;DAT;PL
+sos		N;VOC;SG
+sos		N;GEN;PL
+sos		N;NOM;SG
+sos		N;VOC;PL
+sos		N;INS;PL
+sos		N;ESS;PL
+sos		N;ESS;SG
+sos		N;GEN;SG
+sos		N;INS;SG
+sos		N;DAT;SG
+sos		N;ACC;PL
+sos	sos	N;ACC;SG
+sos		N;NOM;PL
+sos	sosom	N;DAT;PL
+wybór		N;GEN;PL
+wybór		N;NOM;PL
+wybór		N;NOM;SG
+wybór		N;INS;PL
+wybór	wyborach	N;ESS;PL
+wybór		N;ESS;SG
+wybór		N;VOC;SG
+wybór		N;GEN;SG
+wybór		N;INS;SG
+wybór		N;DAT;SG
+wybór		N;ACC;PL
+wybór		N;ACC;SG
+wybór	wybory	N;VOC;PL
+wybór		N;DAT;PL
+sygnał		N;VOC;SG
+sygnał		N;GEN;PL
+sygnał		N;NOM;SG
+sygnał	sygnały	N;VOC;PL
+sygnał		N;INS;PL
+sygnał		N;ESS;PL
+sygnał		N;ESS;SG
+sygnał		N;GEN;SG
+sygnał	sygnałem	N;INS;SG
+sygnał		N;DAT;SG
+sygnał		N;ACC;PL
+sygnał		N;ACC;SG
+sygnał		N;NOM;PL
+sygnał		N;DAT;PL
+gra		N;GEN;PL
+gra		N;VOC;SG
+gra	gra	N;NOM;SG
+gra		N;VOC;PL
+gra		N;INS;PL
+gra		N;ESS;PL
+gra		N;ESS;SG
+gra	gry	N;GEN;SG
+gra		N;INS;SG
+gra		N;DAT;SG
+gra		N;ACC;PL
+gra		N;ACC;SG
+gra		N;NOM;PL
+gra		N;DAT;PL
+historia		N;NOM;PL
+historia		N;GEN;PL
+historia		N;NOM;SG
+historia		N;INS;PL
+historia		N;ESS;PL
+historia		N;ESS;SG
+historia		N;VOC;SG
+historia		N;GEN;SG
+historia	historią	N;INS;SG
+historia	historii	N;DAT;SG
+historia		N;ACC;PL
+historia		N;ACC;SG
+historia		N;VOC;PL
+historia		N;DAT;PL
+poeta		N;NOM;PL
+poeta	poeto	N;VOC;SG
+poeta		N;NOM;SG
+poeta		N;GEN;PL
+poeta	poetami	N;INS;PL
+poeta		N;ESS;PL
+poeta		N;ESS;SG
+poeta		N;GEN;SG
+poeta		N;INS;SG
+poeta		N;DAT;SG
+poeta		N;ACC;PL
+poeta		N;ACC;SG
+poeta		N;VOC;PL
+poeta		N;DAT;PL
+organizacja		N;NOM;PL
+organizacja		N;GEN;PL
+organizacja		N;NOM;SG
+organizacja		N;INS;PL
+organizacja	organizacjach	N;ESS;PL
+organizacja		N;ESS;SG
+organizacja	organizacjo	N;VOC;SG
+organizacja		N;GEN;SG
+organizacja		N;INS;SG
+organizacja		N;DAT;SG
+organizacja		N;ACC;PL
+organizacja		N;ACC;SG
+organizacja		N;VOC;PL
+organizacja		N;DAT;PL
+cesarz		N;NOM;PL
+cesarz	cesarzu	N;VOC;SG
+cesarz		N;GEN;SG
+cesarz	cesarzy	N;GEN;PL
+cesarz		N;INS;PL
+cesarz		N;ESS;PL
+cesarz		N;ESS;SG
+cesarz		N;NOM;SG
+cesarz		N;INS;SG
+cesarz		N;DAT;SG
+cesarz		N;ACC;PL
+cesarz		N;ACC;SG
+cesarz		N;VOC;PL
+cesarz		N;DAT;PL
+administrator	administratorów	N;GEN;PL
+administrator		N;VOC;SG
+administrator		N;GEN;SG
+administrator		N;VOC;PL
+administrator	administratorami	N;INS;PL
+administrator		N;ESS;PL
+administrator		N;ESS;SG
+administrator		N;NOM;SG
+administrator		N;INS;SG
+administrator		N;DAT;SG
+administrator		N;ACC;PL
+administrator		N;ACC;SG
+administrator		N;NOM;PL
+administrator		N;DAT;PL
+rozkaz		N;VOC;SG
+rozkaz		N;GEN;PL
+rozkaz		N;NOM;SG
+rozkaz	rozkazy	N;VOC;PL
+rozkaz		N;INS;PL
+rozkaz		N;ESS;PL
+rozkaz		N;ESS;SG
+rozkaz		N;GEN;SG
+rozkaz		N;INS;SG
+rozkaz	rozkazowi	N;DAT;SG
+rozkaz		N;ACC;PL
+rozkaz		N;ACC;SG
+rozkaz		N;NOM;PL
+rozkaz		N;DAT;PL
+kapłan		N;VOC;SG
+kapłan		N;NOM;PL
+kapłan		N;GEN;SG
+kapłan	kapłanów	N;GEN;PL
+kapłan		N;INS;PL
+kapłan		N;ESS;PL
+kapłan		N;ESS;SG
+kapłan		N;NOM;SG
+kapłan		N;INS;SG
+kapłan		N;DAT;SG
+kapłan		N;ACC;PL
+kapłan		N;ACC;SG
+kapłan	kapłani	N;VOC;PL
+kapłan		N;DAT;PL
+libański	libańską	ADJ;FEM;ACC;SG
+libański		ADJ;NEUT;DAT;SG
+libański		ADJ;FEM;DAT;SG
+libański	libańscy	ADJ;MASC;HUM;NOM;PL
+libański		ADJ;MASC;HUM;ACC;PL
+libański		ADJ;MASC;DAT;SG
+libański		ADJ;MASC;INS;SG
+libański		ADJ;GEN;PL
+libański		ADJ;NEUT;ACC;SG
+libański		ADJ;MASC;HUM;ACC;SG
+libański		ADJ;MASC;NOM;SG
+libański		ADJ;NOM;PL
+libański		ADJ;NEUT;ESS;SG
+libański		ADJ;FEM;ESS;SG
+libański		ADJ;ACC;PL
+libański		ADJ;FEM;GEN;SG
+libański		ADJ;NEUT;GEN;SG
+libański		ADJ;FEM;INS;SG
+libański		ADJ;NEUT;INS;SG
+libański		ADJ;MASC;INAN;ACC;SG
+libański		ADJ;MASC;ANIM;ACC;SG
+libański	libańskim	ADJ;DAT;PL
+libański	libańskimi	ADJ;INS;PL
+libański	libańska	ADJ;FEM;NOM;SG
+libański		ADJ;NEUT;NOM;SG
+libański		ADJ;MASC;ESS;SG
+libański		ADJ;MASC;GEN;SG
+libański		ADJ;ESS;PL
+papier		N;VOC;SG
+papier		N;NOM;SG
+papier		N;ESS;SG
+papier		N;GEN;SG
+papier		N;INS;SG
+papier		N;DAT;SG
+papier		N;ACC;SG
+dany	daną	ADJ;FEM;ACC;SG
+dany		ADJ;NEUT;DAT;SG
+dany	danej	ADJ;FEM;DAT;SG
+dany		ADJ;MASC;HUM;NOM;PL
+dany		ADJ;MASC;NOM;SG
+dany		ADJ;MASC;DAT;SG
+dany		ADJ;MASC;INS;SG
+dany		ADJ;GEN;PL
+dany	dane	ADJ;NEUT;ACC;SG
+dany		ADJ;MASC;HUM;ACC;SG
+dany		ADJ;MASC;HUM;ACC;PL
+dany		ADJ;NOM;PL
+dany		ADJ;NEUT;ESS;SG
+dany		ADJ;FEM;ESS;SG
+dany		ADJ;ACC;PL
+dany		ADJ;FEM;GEN;SG
+dany		ADJ;NEUT;GEN;SG
+dany		ADJ;FEM;INS;SG
+dany	danym	ADJ;NEUT;INS;SG
+dany		ADJ;MASC;INAN;ACC;SG
+dany		ADJ;MASC;ANIM;ACC;SG
+dany		ADJ;DAT;PL
+dany		ADJ;INS;PL
+dany		ADJ;FEM;NOM;SG
+dany		ADJ;NEUT;NOM;SG
+dany		ADJ;MASC;ESS;SG
+dany	danego	ADJ;MASC;GEN;SG
+dany		ADJ;ESS;PL
+gimnazjum		N;NOM;PL
+gimnazjum		N;GEN;PL
+gimnazjum		N;GEN;SG
+gimnazjum		N;INS;PL
+gimnazjum		N;ESS;PL
+gimnazjum		N;ESS;SG
+gimnazjum		N;VOC;SG
+gimnazjum		N;NOM;SG
+gimnazjum		N;INS;SG
+gimnazjum	gimnazjum	N;DAT;SG
+gimnazjum		N;ACC;PL
+gimnazjum		N;ACC;SG
+gimnazjum		N;VOC;PL
+gimnazjum	gimnazjom	N;DAT;PL
